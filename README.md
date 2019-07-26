@@ -4,7 +4,7 @@ Internal usage only. extracted with [dila-api-client](https://github.com/SocialG
 
 ## Usage
 
-```
+```js
 // liste CCNs
 const conventions = require("@socialgouv/kali-data/data/index.json");
 
