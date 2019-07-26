@@ -2,5 +2,15 @@
   "name": "@socialgouv/kali-data",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "files": [
+    "data"
+  ],
+  "scripts": {
+    "fetch": "node scripts/fetch-ccns.js"
+  },
+  "dependencies": {
+    "@socialgouv/dila-api-client": "^1.0.1",
+    "p-all": "^2.1.0"
+  }
 }
