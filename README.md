@@ -12,6 +12,8 @@ const conventions = require("@socialgouv/kali-data/data/index.json");
 const syntec = require("@socialgouv/kali-data/data/KALICONT000005635173.json");
 ```
 
+Or via http directly : https://unpkg.com/@socialgouv/kali-data@1.0.0/data/KALICONT000038661444.json
+
 ## References
 
 | id                   | idcc | title                                                                                                                                                                                                                                                                                                                                                            | date_publi               |
