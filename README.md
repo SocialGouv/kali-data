@@ -2,6 +2,16 @@
 
 Internal usage only. extracted with [dila-api-client](https://github.com/SocialGouv/dila-api-client).
 
+## Usage
+
+```
+// liste CCNs
+const conventions = require("@socialgouv/kali-data/data/index.json");
+
+// CCN particulière
+const syntec = require("@socialgouv/kali-data/data/KALICONT000005635173.json");
+```
+
 ## References
 
 id | idcc | title | date_publi
