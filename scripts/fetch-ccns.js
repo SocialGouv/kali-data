@@ -6,12 +6,11 @@ const DilaApi = require("@socialgouv/dila-api-client");
 const dilaClient = new DilaApi();
 
 /*
- fetch KALI "conteneur" : a container contains several sections :
+fetch all KALI "conteneurs" : a container contains several sections :
   - 0  : texte de base
   - 1+ : textes attachés
 
 this example fetch the whole CCN content from the "conteneur id"
-
 */
 
 const sortByKey = getter => (a, b) => {
