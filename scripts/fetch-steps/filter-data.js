@@ -25,19 +25,22 @@ const isValidArticle = (currentArticle, index, articles) => {
   return numify(currentArticle.id) > maxVersion;
 };
 
-// beware, this one is recursive for sections !
+// beware, this one is recursive for sections / articles !
 export const filterData = node => ({
-  ...{
-    id: node.id,
-    num: node.num,
-    intOrdre: node.intOrdre,
-    title: node.title,
-    content: node.content,
-    ...(node.dateParution && { dateParution: node.dateParution }),
-    ...(node.etat && { etat: node.etat }),
-    ...(node.surtitre && { surtitre: node.surtitre }),
-    ...(node.historique && { historique: node.historique })
-  },
+  id: node.id,
+  num: node.num,
+  intOrdre: node.intOrdre,
+  title: node.title,
+  content: node.content,
+  ...(node.etat && { etat: node.etat }),
+  // attributes related to containers
+  ...(node.shortTitle && { shortTitle: node.shortTitle }),
+  ...(node.categorisation && { categorisation: node.categorisation }),
+  // attributes related to textes
+  ...(node.dateParution && { dateParution: node.dateParution }),
+  ...(node.surtitre && { surtitre: node.surtitre }),
+  ...(node.historique && { historique: node.historique }),
+
   ...(node.articles &&
     node.articles.length && {
       articles: node.articles
