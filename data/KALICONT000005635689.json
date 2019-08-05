@@ -1,6 +1,11 @@
 {
   "id": "KALICONT000005635689",
   "num": "18",
+  "title": "Convention collective nationale de l'industrie textile du 1er  février 1951.  Etendue par arrêté du 17 décembre 1951, rectificatif du 13 janvier 1952, mise à jour le 29 mai 1979, en vigueur le 1er octobre 1979. Etendue par arrêté du 23 octobre 1979. JONC 12 janvier 1980 ",
+  "shortTitle": "Textile Industrie",
+  "categorisation": [
+    "Industrie textile"
+  ],
   "sections": [
     {
       "id": "KALITEXT000005655548",
@@ -7074,7 +7079,28 @@
             }
           ]
         },
-        {},
+        {
+          "id": "KALITEXT000005655806",
+          "title": "Accord du 24 mai 1984 relatif à la classification des ouvriers, classification par branche : branche de la laine, préparation de la matière, filature, tissage (annexe D)",
+          "dateParution": 32472144000000,
+          "sections": [
+            {
+              "id": "KALISCTA000005701320",
+              "intOrdre": 42949,
+              "title": "Modalités d'application des nouveaux coefficients pour chacune des deux étapes.",
+              "etat": "VIGUEUR_ETEN",
+              "articles": [
+                {
+                  "id": "KALIARTI000005794693",
+                  "num": null,
+                  "intOrdre": 42949,
+                  "content": "<p align='center'><em>Premier principe</em></p><p>Tous les coefficients actuellement en vigueur inférieurs à 115 seront considérés comme étant à la hauteur 115 avant la révision.</p><p>Exemple : poste dont le coefficient est à 110 : on suppose que la nouvelle classification porte ce poste au coefficient 125. La première étape sera 115 + 5 = 120. La seconde étape sera 120 + 5 = 125.</p><p></p><p align='center'><em>Deuxième principe</em></p><p>La classification actuellement en vigueur, classant parfois les postes par points et même demi-points, alors que les derniers accords de salaire les regroupent de 5 en 5 points, on considérera que le coefficient, avant révision, est le coefficient regroupé.</p><p>Exemple : poste classé actuellement à 137, regroupé à 140. On suppose que la nouvelle classification porte ce poste au coefficient 160. La première étape sera 140 + 5 = 145. La seconde étape sera 145 + 15 = 160.</p><p></p><p align='center'><em>Troisième principe</em></p><p>Aucune majoration ne sera inférieure à 5 points, sauf lorsque le résultat final est atteint.</p><p>Exemple : un coefficient actuel de 130 devant atteindre 145 suivra l'évolution suivante : La première étape : 138 (et non pas 131 car minimum = 5 points). La seconde étape : 145.</p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            }
+          ]
+        },
         {
           "id": "KALITEXT000005655808",
           "title": "Accord du 24 mai 1984 relatif à la classification des ouvriers, classification par branche : branche des films plastiques ",

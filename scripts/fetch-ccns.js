@@ -5,14 +5,14 @@ import { getCCNContainer } from "./fetch-steps/get-ccn-container";
 import { filterData } from "./fetch-steps/filter-data";
 import { embedCCNTexts } from "./fetch-steps/embed-ccn-texts";
 
+// fetch all conventions from index.json
+import conventions from "../data/";
+
 const fetchCCN = id =>
   getCCNContainer(id)
     .then(filterData) // first pass to reduce the number of text calls
     .then(embedCCNTexts)
     .then(filterData); // second and final pass to trim and order additional texts
-
-// fetch all conventions from this fixed list
-const conventions = require("../data/index.json");
 
 // for each convention, fetch convention conteneur, populate conteneur texts, and ouput to JSON file.
 pMap(
