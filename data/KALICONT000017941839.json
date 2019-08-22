@@ -1,25 +1,26 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale des cadres du bâtiment du 1er juin 2004",
   "id": "KALICONT000017941839",
   "num": "2420",
-  "title": "Convention collective nationale des cadres du bâtiment du 1er juin 2004",
   "shortTitle": "Bâtiment Cadres",
-  "categorisation": [
-    "Bâtiment Cadres"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000017941844",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale des cadres du bâtiment du 1er juin 2004",
+      "id": "KALITEXT000017941844",
       "etat": "VIGUEUR_NON_ETEN",
-      "sections": [
+      "children": [
         {
-          "id": "KALISCTA000017941846",
+          "type": "section",
           "intOrdre": 524287,
           "title": "Titre Ier Dispositions générales",
+          "id": "KALISCTA000017941846",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000017941862",
               "num": "1.6",
               "intOrdre": 3145722,
@@ -30,12 +31,14 @@
           ]
         },
         {
-          "id": "KALISCTA000017941847",
+          "type": "section",
           "intOrdre": 1048574,
           "title": "Titre II Contrat de travail",
+          "id": "KALISCTA000017941847",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000017941872",
               "num": "2.5",
               "intOrdre": 2621435,
@@ -46,18 +49,21 @@
           ]
         },
         {
-          "id": "KALISCTA000017941848",
+          "type": "section",
           "intOrdre": 1572861,
           "title": "Titre III Classification et rémunération Durée du travail",
+          "id": "KALISCTA000017941848",
           "etat": "VIGUEUR_NON_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000017941873",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Chapitre III.1 Classification et rémunération",
+              "id": "KALISCTA000017941873",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000017941911",
                   "num": null,
                   "intOrdre": 524287,
@@ -67,12 +73,14 @@
               ]
             },
             {
-              "id": "KALISCTA000017941874",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre III.2 Durée du travail",
+              "id": "KALISCTA000017941874",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000027456848",
                   "num": "3.3",
                   "intOrdre": 1074266110,
@@ -85,12 +93,14 @@
           ]
         },
         {
-          "id": "KALISCTA000017941849",
+          "type": "section",
           "intOrdre": 2097148,
           "title": "Titre IV Congés payés Autorisations d'absence.-Jours fériés",
+          "id": "KALISCTA000017941849",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000017941883",
               "num": "4.3",
               "intOrdre": 1572861,
@@ -101,12 +111,14 @@
           ]
         },
         {
-          "id": "KALISCTA000017941850",
+          "type": "section",
           "intOrdre": 2621435,
           "title": "Titre V Protection sociale",
+          "id": "KALISCTA000017941850",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000017941890",
               "num": "5.6",
               "intOrdre": 3145722,
@@ -117,18 +129,21 @@
           ]
         },
         {
-          "id": "KALISCTA000017941851",
+          "type": "section",
           "intOrdre": 3145722,
           "title": "Titre VI Déplacements",
+          "id": "KALISCTA000017941851",
           "etat": "VIGUEUR_NON_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000017941891",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Chapitre VI.1 Déplacements et changements de résidence en France à l'exclusion des DOM-TOM",
+              "id": "KALISCTA000017941891",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000017941929",
                   "num": null,
                   "intOrdre": 524287,
@@ -138,27 +153,21 @@
               ]
             },
             {
-              "id": "KALISCTA000017941892",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre VI.2 Déplacements dans les DOM-TOM et hors de France",
+              "id": "KALISCTA000017941892",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
-                  "id": "KALIARTI000017941930",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p><br/>6.2.1. Champ d'application</p><p><br/> Les cadres qui ont travaillé pendant au moins 3 mois dans un ou plusieurs établissements métropolitains d'une entreprise relevant de la présente convention et qui, sans avoir quitté l'entreprise depuis lors, sont déplacés par leur entreprise pour exercer temporairement une fonction hors de la France métropolitaine bénéficient des dispositions du présent texte.<br/> Il en est de même pour les cadres mutés dans l'entreprise dans les conditions prévues au dernier alinéa de l'article 6.2.8 de la présente convention collective, pour autant qu'ils aient exercé leur activité pendant 3 mois en France métropolitaine dans l'entreprise qui les a mutés.</p><p><br/>6.2.2. Assurance et garanties collectives</p><p><br/> L'entreprise assure au cadre amené à se déplacer hors de France métropolitaine, et ce quelle que soit la durée du déplacement, une garantie couvrant les frais d'accidents, notamment le rapatriement, décès, invalidité, assistance juridique.<br/> L'entreprise assurera, dans la mesure du possible, la continuité des garanties collectives (retraites, couverture des risques d'invalidité, décès, accidents du travail, maladie, accidents et perte d'emploi) avec celles des régimes métropolitains.</p>",
-                  "etat": "VIGUEUR_NON_ETEN"
-                }
-              ],
-              "sections": [
-                {
-                  "id": "KALISCTA000017941931",
+                  "type": "section",
                   "intOrdre": 1048574,
                   "title": "Section 1 Déplacements inférieurs à 3 mois",
+                  "id": "KALISCTA000017941931",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000017941951",
                       "num": null,
                       "intOrdre": 524287,
@@ -168,12 +177,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000017941932",
+                  "type": "section",
                   "intOrdre": 1572861,
                   "title": "Section 2 Déplacements supérieurs à 3 mois",
+                  "id": "KALISCTA000017941932",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000017941952",
                       "num": null,
                       "intOrdre": 524287,
@@ -181,34 +192,35 @@
                       "etat": "VIGUEUR_NON_ETEN"
                     }
                   ]
+                },
+                {
+                  "type": "article",
+                  "id": "KALIARTI000017941930",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p><br/>6.2.1. Champ d'application</p><p><br/> Les cadres qui ont travaillé pendant au moins 3 mois dans un ou plusieurs établissements métropolitains d'une entreprise relevant de la présente convention et qui, sans avoir quitté l'entreprise depuis lors, sont déplacés par leur entreprise pour exercer temporairement une fonction hors de la France métropolitaine bénéficient des dispositions du présent texte.<br/> Il en est de même pour les cadres mutés dans l'entreprise dans les conditions prévues au dernier alinéa de l'article 6.2.8 de la présente convention collective, pour autant qu'ils aient exercé leur activité pendant 3 mois en France métropolitaine dans l'entreprise qui les a mutés.</p><p><br/>6.2.2. Assurance et garanties collectives</p><p><br/> L'entreprise assure au cadre amené à se déplacer hors de France métropolitaine, et ce quelle que soit la durée du déplacement, une garantie couvrant les frais d'accidents, notamment le rapatriement, décès, invalidité, assistance juridique.<br/> L'entreprise assurera, dans la mesure du possible, la continuité des garanties collectives (retraites, couverture des risques d'invalidité, décès, accidents du travail, maladie, accidents et perte d'emploi) avec celles des régimes métropolitains.</p>",
+                  "etat": "VIGUEUR_NON_ETEN"
                 }
               ]
             }
           ]
         },
         {
-          "id": "KALISCTA000017941852",
+          "type": "section",
           "intOrdre": 3670009,
           "title": "Titre VII Rupture du contrat de travail",
+          "id": "KALISCTA000017941852",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
-              "id": "KALIARTI000017941895",
-              "num": "7.3",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/> Pendant la période de préavis, le cadre licencié est autorisé, s'il en fait la demande, à s'absenter pour recherche d'emploi pendant 5 journées ou 10 demi-journées par mois, prises en une ou plusieurs fois. Les autorisations d'absence seront fixées moitié au gré du cadre, moitié au gré de l'entreprise et moyennant information réciproque. Pendant ces absences, la rémunération est maintenue.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Autorisations d'absence pour recherche d'emploi"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000017941896",
+              "type": "section",
               "intOrdre": 2097148,
               "title": "Licenciement",
+              "id": "KALISCTA000017941896",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000017941934",
                   "num": "7.5",
                   "intOrdre": 1048574,
@@ -219,12 +231,14 @@
               ]
             },
             {
-              "id": "KALISCTA000017941897",
+              "type": "section",
               "intOrdre": 2621435,
               "title": "Mise à la retraite",
+              "id": "KALISCTA000017941897",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000017941940",
                   "num": "7.9",
                   "intOrdre": 2097148,
@@ -235,12 +249,14 @@
               ]
             },
             {
-              "id": "KALISCTA000017941898",
+              "type": "section",
               "intOrdre": 3145722,
               "title": "Départ à la retraite",
+              "id": "KALISCTA000017941898",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000017941945",
                   "num": "7.12",
                   "intOrdre": 1572861,
@@ -251,12 +267,14 @@
               ]
             },
             {
-              "id": "KALISCTA000017941899",
+              "type": "section",
               "intOrdre": 3670009,
               "title": "Dispositions communes",
+              "id": "KALISCTA000017941899",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000017941949",
                   "num": "7.15",
                   "intOrdre": 1572861,
@@ -265,16 +283,27 @@
                   "surtitre": "Déclassement"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000017941895",
+              "num": "7.3",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/> Pendant la période de préavis, le cadre licencié est autorisé, s'il en fait la demande, à s'absenter pour recherche d'emploi pendant 5 journées ou 10 demi-journées par mois, prises en une ou plusieurs fois. Les autorisations d'absence seront fixées moitié au gré du cadre, moitié au gré de l'entreprise et moyennant information réciproque. Pendant ces absences, la rémunération est maintenue.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Autorisations d'absence pour recherche d'emploi"
             }
           ]
         },
         {
-          "id": "KALISCTA000017941853",
+          "type": "section",
           "intOrdre": 4194296,
           "title": "Titre VIII Autres dispositions",
+          "id": "KALISCTA000017941853",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000017941901",
               "num": "8.2",
               "intOrdre": 1048574,
@@ -285,12 +314,14 @@
           ]
         },
         {
-          "id": "KALISCTA000017941854",
+          "type": "section",
           "intOrdre": 4718583,
           "title": "Titre IX Dispositions finales",
+          "id": "KALISCTA000017941854",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000027456850",
               "num": "9.6",
               "intOrdre": 3145722,
@@ -301,12 +332,14 @@
           ]
         },
         {
-          "id": "KALISCTA000017941855",
+          "type": "section",
           "intOrdre": 5242870,
           "title": "Annexe",
+          "id": "KALISCTA000017941855",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000018796316",
               "num": null,
               "intOrdre": 1073741823,
@@ -319,17 +352,19 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000035657642",
+          "type": "section",
           "title": "Accord du 6 juillet 1972 relatif aux œuvres sociales dans le BTP de la région Provence-Côte d'Azur",
-          "dateParution": 1506470400000,
-          "articles": [
+          "id": "KALITEXT000035657642",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000035657649",
               "num": null,
               "intOrdre": 524287,
@@ -339,11 +374,12 @@
           ]
         },
         {
-          "id": "KALITEXT000035657650",
+          "type": "section",
           "title": "Avenant du 10 mai 2017 à l'accord du 6 juillet 1972 relatif aux œuvres sociales dans le BTP de la région Provence-Côte d'Azur",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000035657650",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000035657657",
               "num": "1er",
               "intOrdre": 524287,
@@ -351,6 +387,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000035657663",
               "num": "2",
               "intOrdre": 1048574,
@@ -358,6 +395,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000035657664",
               "num": "3",
               "intOrdre": 1572861,
@@ -365,6 +403,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000035657667",
               "num": "4",
               "intOrdre": 2097148,
@@ -374,17 +413,19 @@
           ]
         },
         {
-          "id": "KALITEXT000034868811",
+          "type": "section",
           "title": "Accord du 5 janvier 2017 relatif au contrat de génération dans le bâtiment",
-          "dateParution": 1496793600000,
-          "sections": [
+          "id": "KALITEXT000034868811",
+          "children": [
             {
-              "id": "KALISCTA000034868813",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000034868813",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000034868823",
                   "num": null,
                   "intOrdre": 524287,
@@ -394,12 +435,14 @@
               ]
             },
             {
-              "id": "KALISCTA000034868814",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Titre Ier Diagnostic actualisé",
+              "id": "KALISCTA000034868814",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000034868827",
                   "num": "1.1",
                   "intOrdre": 524287,
@@ -408,6 +451,7 @@
                   "surtitre": "Outils du diagnostic"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000034868829",
                   "num": "1.2",
                   "intOrdre": 1048574,
@@ -418,12 +462,14 @@
               ]
             },
             {
-              "id": "KALISCTA000034868815",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Titre II Tranches d'âge des jeunes et des salariés âgés concernés par les engagements souscrits par l'employeur",
+              "id": "KALISCTA000034868815",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000034868830",
                   "num": null,
                   "intOrdre": 524287,
@@ -433,12 +479,14 @@
               ]
             },
             {
-              "id": "KALISCTA000034868816",
+              "type": "section",
               "intOrdre": 2097148,
               "title": "Titre III Engagements en faveur de l'insertion durable des jeunes dans le cadre d'un contrat de génération",
+              "id": "KALISCTA000034868816",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000034868831",
                   "num": "3.1",
                   "intOrdre": 524287,
@@ -447,6 +495,7 @@
                   "surtitre": "Objectif chiffre en matière d'embauche de jeunes en contrat à durée indéterminée"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000034868832",
                   "num": "3.2",
                   "intOrdre": 1048574,
@@ -457,12 +506,14 @@
               ]
             },
             {
-              "id": "KALISCTA000034868817",
+              "type": "section",
               "intOrdre": 2621435,
               "title": "Titre IV Engagements en faveur de l'emploi des salariés âgés",
+              "id": "KALISCTA000034868817",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000034868836",
                   "num": "4.1",
                   "intOrdre": 524287,
@@ -471,6 +522,7 @@
                   "surtitre": "Objectif chiffre en matière d'embauche et de maintien dans l'emploi des salariés âgés"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000034868838",
                   "num": "4.2",
                   "intOrdre": 1048574,
@@ -479,6 +531,7 @@
                   "surtitre": "Amélioration des conditions de travail et prévention des situations de pénibilité"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000034868839",
                   "num": "4.3",
                   "intOrdre": 1572861,
@@ -487,6 +540,7 @@
                   "surtitre": "Mesures en faveur du recrutement des salariés âgés"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000034868843",
                   "num": "4.4",
                   "intOrdre": 2097148,
@@ -495,6 +549,7 @@
                   "surtitre": "Anticipation de l'évolution des carrières professionnelles"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000034868844",
                   "num": "4.5",
                   "intOrdre": 2621435,
@@ -503,6 +558,7 @@
                   "surtitre": "Développement des compétences et des qualifications et accès à la formation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000034868845",
                   "num": "4.6",
                   "intOrdre": 3145722,
@@ -513,12 +569,14 @@
               ]
             },
             {
-              "id": "KALISCTA000034868818",
+              "type": "section",
               "intOrdre": 3145722,
               "title": "Titre V Actions permettant la transmission des savoirs et des compétences en direction des jeunes",
+              "id": "KALISCTA000034868818",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000034868846",
                   "num": null,
                   "intOrdre": 524287,
@@ -528,12 +586,14 @@
               ]
             },
             {
-              "id": "KALISCTA000034868819",
+              "type": "section",
               "intOrdre": 3670009,
               "title": "Titre VI égalité professionnelle entre les femmes et les hommes et la mixité des emplois",
+              "id": "KALISCTA000034868819",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000034868849",
                   "num": null,
                   "intOrdre": 524287,
@@ -543,12 +603,14 @@
               ]
             },
             {
-              "id": "KALISCTA000034868820",
+              "type": "section",
               "intOrdre": 4194296,
               "title": "Titre VII Actions visant à aider les petites et moyennes entreprises à mettre en œuvre une gestion active des âges",
+              "id": "KALISCTA000034868820",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000034868851",
                   "num": null,
                   "intOrdre": 524287,
@@ -558,12 +620,14 @@
               ]
             },
             {
-              "id": "KALISCTA000034868821",
+              "type": "section",
               "intOrdre": 4718583,
               "title": "Titre VIII Suivi, évaluation et calendrier prévisionnel de l'accord",
+              "id": "KALISCTA000034868821",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000034868854",
                   "num": null,
                   "intOrdre": 524287,
@@ -573,12 +637,14 @@
               ]
             },
             {
-              "id": "KALISCTA000034868822",
+              "type": "section",
               "intOrdre": 5242870,
               "title": "Titre IX Cadre juridique",
+              "id": "KALISCTA000034868822",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000034868855",
                   "num": "9.1",
                   "intOrdre": 524287,
@@ -587,6 +653,7 @@
                   "surtitre": "Champ d'application de l'accord"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000034868862",
                   "num": "9.2",
                   "intOrdre": 1048574,
@@ -595,6 +662,7 @@
                   "surtitre": "Portée de l'accord"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000034868865",
                   "num": "9.3",
                   "intOrdre": 1572861,
@@ -603,6 +671,7 @@
                   "surtitre": "Entrée en vigueur et durée de l'accord"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000034868866",
                   "num": "9.4",
                   "intOrdre": 2097148,
@@ -611,6 +680,7 @@
                   "surtitre": "Dénonciation et révision de l'accord"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000034868867",
                   "num": "9.5",
                   "intOrdre": 2621435,
@@ -623,11 +693,12 @@
           ]
         },
         {
-          "id": "KALITEXT000028901073",
+          "type": "section",
           "title": "Adhésion par lettre du 6 février 2014 de la FNCB CFDT à la convention",
-          "dateParution": 1399248000000,
-          "articles": [
+          "id": "KALITEXT000028901073",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000028901076",
               "num": null,
               "intOrdre": 524287,
@@ -637,11 +708,12 @@
           ]
         },
         {
-          "id": "KALITEXT000028901078",
+          "type": "section",
           "title": "Adhésion par lettre du 10 février 2014 de la FNCB CFDT à l'avenant n° 1 du 11 décembre 2012",
-          "dateParution": 1399248000000,
-          "articles": [
+          "id": "KALITEXT000028901078",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000028901081",
               "num": null,
               "intOrdre": 524287,
@@ -651,11 +723,12 @@
           ]
         },
         {
-          "id": "KALITEXT000027547502",
+          "type": "section",
           "title": "Accord du 18 décembre 2012 relatif au congé de formation économique, sociale et syndicale",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000027547502",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000027547504",
               "num": null,
               "intOrdre": 524287,
@@ -663,6 +736,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027547508",
               "num": "1er",
               "intOrdre": 1048574,
@@ -671,6 +745,7 @@
               "surtitre": "Financement du CFESS"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027547510",
               "num": "2",
               "intOrdre": 1572861,
@@ -679,6 +754,7 @@
               "surtitre": "Personnes bénéficiaires des actions de formation organisées dans le cadre du CFESS"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027547511",
               "num": "3",
               "intOrdre": 2097148,
@@ -687,6 +763,7 @@
               "surtitre": "Mise en œuvre du CFESS"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027547513",
               "num": "4",
               "intOrdre": 2621435,
@@ -695,6 +772,7 @@
               "surtitre": "Gestion du CFESS"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027547514",
               "num": "5",
               "intOrdre": 3145722,
@@ -703,6 +781,7 @@
               "surtitre": "Frais de gestion du CFESS"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027547515",
               "num": "6",
               "intOrdre": 3670009,
@@ -711,6 +790,7 @@
               "surtitre": "Date d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027547516",
               "num": "7",
               "intOrdre": 4194296,
@@ -719,6 +799,7 @@
               "surtitre": "Textes abrogés"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027547517",
               "num": "8",
               "intOrdre": 4718583,
@@ -727,6 +808,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027547522",
               "num": "9",
               "intOrdre": 5242870,
@@ -737,61 +819,19 @@
           ]
         },
         {
-          "id": "KALITEXT000027448680",
+          "type": "section",
           "title": "Avenant n° 1 du 11 décembre 2012 relatif à la convention de forfait en jours",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000027448680",
+          "children": [
             {
-              "id": "KALIARTI000027448684",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Il est inséré dans la convention collective nationale des cadres du bâtiment du 1er juin 2004 un article 3.3 rédigé comme suit : </p><p align='center'><br/>« Article 3.3 <br/>Convention de forfait en jours </p><p align='left'><br/>1. Conformément aux <a alt='Code du travail - art. L3121-43 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902482&dateTexte=&categorieLien=cid'>articles L. 3121-43 et suivants du code du travail</a>, les cadres qui disposent d'une autonomie dans l'organisation de leur emploi du temps et dont la nature des fonctions ne les conduit pas à suivre l'horaire collectif applicable au sein de l'atelier, du service ou de l'équipe auquel ils sont intégrés, peuvent conclure une convention de forfait en jours sur l'année. <br/>Sont visés les cadres dont la durée du travail ne peut être prédéterminée du fait de la nature de leurs fonctions, des responsabilités qu'ils exercent et de la réelle autonomie dont ils disposent dans l'organisation de leur emploi du temps. <br/>Le refus du cadre de la convention individuelle de forfait annuel en jours ne saurait justifier la rupture de son contrat de travail. <br/>Le nombre de jours travaillés ne peut pas excéder le nombre fixé à l'<a alt='Code du travail - art. L3121-44 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902483&dateTexte=&categorieLien=cid'>article L. 3121-44 du code du travail </a>pour une année complète de travail. Les jours d'ancienneté et les jours de fractionnement seront déduits, le cas échéant, du nombre de jours travaillés sur la base duquel est fixé le plafond propre à chaque convention de forfait. <br/>Pour les cadres ayant plus de 5 et moins de 10 ans de présence dans l'entreprise ou ayant plus de 10 ans mais moins de 20 ans de présence dans une ou plusieurs entreprises relevant d'une caisse de congés payés du BTP, ce nombre ne peut pas excéder 216 jours, les jours de fractionnement devant être déduits le cas échéant. <br/>Pour les cadres ayant plus de 10 ans de présence dans l'entreprise ou ayant plus de 20 ans de présence dans une ou plusieurs entreprises relevant d'une caisse de congés payés du BTP, ce nombre ne peut pas excéder 215 jours, les jours de fractionnement devant être déduits le cas échéant. <br/>Pour les cadres ne bénéficiant pas d'un congé annuel complet, le nombre de jours de travail est augmenté à concurrence du nombre de jours de congés légaux auxquels ils ne peuvent prétendre. <br/>2. Le contrat de travail ou son avenant signé par le cadre devra préciser : </p><p align='left'><br/>– les caractéristiques de la fonction qui justifient l'autonomie dont dispose le cadre pour l'exercice de ses fonctions ; <br/>– le nombre de jours sur la base duquel le forfait est défini ; <br/>– la répartition initiale des jours compris dans le forfait, qui doit tenir compte des périodes de présence nécessaires au bon fonctionnement de l'entreprise et de l'autonomie du cadre concerné, et les modalités de prise des jours de repos, en journées ou demi-journées. <br/>Le comité d'entreprise ou, à défaut, les délégués du personnel et le CHSCT, s'il en existe, seront consultés sur le nombre de cadres qui auront conclu une convention individuelle de forfait en jours. <br/>3. La prise des jours de repos issus du forfait en jours doit être effective, sauf dans le cas visé à l'<a alt='Code du travail - art. L3121-45 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902484&dateTexte=&categorieLien=cid'>article L. 3121-45 du code du travail</a>. <br/>4. Les cadres ayant conclu une convention individuelle de forfait en jours bénéficient d'un temps de repos quotidien d'au moins 11 heures consécutives et d'un temps de repos hebdomadaire de 35 heures consécutives, sauf dérogations dans les conditions fixées par les dispositions législatives et conventionnelles en vigueur. L'employeur veille à ce que la pratique habituelle puisse permettre d'augmenter ces temps de repos minimum. <br/>La charge de travail et l'amplitude des journées d'activité devront rester dans des limites raisonnables et assurer une bonne répartition dans le temps du travail du cadre concerné, en permettant une réelle conciliation entre activité professionnelle et vie personnelle et familiale. <br/>Le cadre a droit au respect de son temps de repos et de sa vie privée, notamment par un usage limité, à son initiative, des moyens de communication technologiques. <br/>L'organisation du travail des salariés fait l'objet d'un suivi régulier par la hiérarchie qui veille notamment aux éventuelles surcharges de travail et au respect des durées minimales de repos. <br/>Un document individuel de suivi des périodes d'activité, des jours de repos et jours de congés (en précisant la qualification du repos : hebdomadaire, congés payé, etc.) sera tenu par l'employeur ou par le salarié sous la responsabilité de l'employeur. L'entreprise fournira aux salariés un document permettant de réaliser ce décompte. <br/>Ce document individuel de suivi permet un point régulier et cumulé des jours de travail et des jours de repos afin de favoriser la prise de l'ensemble des jours de repos dans le courant de l'exercice. <br/>La situation du cadre ayant conclu une convention individuelle de forfait en jours sera examinée lors d'un entretien au moins annuel avec son supérieur hiérarchique. Cet entretien portera sur la charge de travail du cadre et l'amplitude de ses journées d'activité, qui doivent rester dans des limites raisonnables, l'organisation du travail dans l'entreprise, l'articulation entre l'activité professionnelle et la vie personnelle et familiale, ainsi que la rémunération du salarié. <br/>En outre, lors de modifications importantes dans les fonctions du cadre, un entretien exceptionnel pourra être tenu à la demande du salarié et portera sur les conditions visées au point 1 ci-dessus. <br/>Le comité d'entreprise ou, à défaut, les délégués du personnel et le CHSCT, s'il en existe, seront consultés sur les conséquences pratiques de la mise en œuvre de ce décompte de la durée du travail en nombre de jours sur l'année. Seront examinés l'impact de ce régime sur l'organisation du travail, l'amplitude des journées et la charge de travail des salariés concernés. <br/>5. Le salaire minimum conventionnel correspondant au niveau et à la position du cadre ayant conclu une convention individuelle de forfait en jours est majoré de 10 %. <br/>6. La rémunération forfaitaire versée mensuellement au salarié compte tenu de ses fonctions est indépendante du nombre d'heures de travail effectif accomplies durant la période de paie. De ce fait, aucune déduction de la rémunération pour une période inférieure à une journée ou à une demi-journée n'est possible. <br/>La valeur d'une journée entière de travail sera calculée en divisant la rémunération mensuelle forfaitaire par 22. <br/>La mise en place du forfait annuel en jours est précédée d'un entretien au cours duquel le cadre sera informé de l'organisation et de la charge de travail à venir ainsi que des éléments de rémunération pris en compte. <br/>Au moment de sa mise en place, le forfait annuel en jours ne peut entraîner de baisse de la rémunération mensuelle forfaitaire brute de l'intéressé correspondant à une période normale et complète de travail. »</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000027448689",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Le présent avenant se substitue aux dispositions conventionnelles nationales de branche portant sur le même thème.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000027448690",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Le présent avenant entrera en vigueur le 1er février 2013.<br/>Pour les salariés ne bénéficiant pas de jours d'ancienneté, le présent avenant ne saurait avoir pour effet d'augmenter le nombre de jours travaillés fixé par les conventions de forfait conclues antérieurement au 1er février 2013.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000027448691",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>L'article 9.6 de la convention collective nationale des cadres du bâtiment du 1er juin 2004 est abrogé et remplacé par les dispositions suivantes : <br/>« Dans les matières relevant des titres Ier, II, III (chapitre III. 1 et, à compter du 1er février 2013, pour l'article 3.3 du chapitre III. 2), IV, V, VI (chapitre VI. 1), VII, VIII, IX, les conventions ou accords d'entreprise ou d'établissement ne peuvent comporter des clauses dérogeant aux dispositions de la présente convention collective, sauf dispositions plus favorables. »</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000027448693",
-              "num": "5",
-              "intOrdre": 3145722,
-              "content": "<p align='left'><br/>Toute organisation syndicale non signataire du présent avenant pourra y adhérer conformément à l'<a alt='Code du travail - art. L2261-3 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901781&dateTexte=&categorieLien=cid'>article L. 2261-3 du code du travail</a>.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000027448695",
-              "num": "6",
-              "intOrdre": 3670009,
-              "content": "<p align='left'><br/>Le texte du présent accord sera déposé à la direction générale du travail et au secrétariat-greffe du conseil de prud'hommes de Paris, conformément aux <a alt='Code du travail - art. L2231-6 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>dispositions des articles L. 2231-6 et D. 2231-2 du code du travail</a>.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000027448683",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000027448683",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000027448697",
                   "num": null,
                   "intOrdre": 524287,
@@ -799,37 +839,78 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027448684",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>Il est inséré dans la convention collective nationale des cadres du bâtiment du 1er juin 2004 un article 3.3 rédigé comme suit : </p><p align='center'><br/>« Article 3.3 <br/>Convention de forfait en jours </p><p align='left'><br/>1. Conformément aux <a alt='Code du travail - art. L3121-43 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902482&dateTexte=&categorieLien=cid'>articles L. 3121-43 et suivants du code du travail</a>, les cadres qui disposent d'une autonomie dans l'organisation de leur emploi du temps et dont la nature des fonctions ne les conduit pas à suivre l'horaire collectif applicable au sein de l'atelier, du service ou de l'équipe auquel ils sont intégrés, peuvent conclure une convention de forfait en jours sur l'année. <br/>Sont visés les cadres dont la durée du travail ne peut être prédéterminée du fait de la nature de leurs fonctions, des responsabilités qu'ils exercent et de la réelle autonomie dont ils disposent dans l'organisation de leur emploi du temps. <br/>Le refus du cadre de la convention individuelle de forfait annuel en jours ne saurait justifier la rupture de son contrat de travail. <br/>Le nombre de jours travaillés ne peut pas excéder le nombre fixé à l'<a alt='Code du travail - art. L3121-44 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902483&dateTexte=&categorieLien=cid'>article L. 3121-44 du code du travail </a>pour une année complète de travail. Les jours d'ancienneté et les jours de fractionnement seront déduits, le cas échéant, du nombre de jours travaillés sur la base duquel est fixé le plafond propre à chaque convention de forfait. <br/>Pour les cadres ayant plus de 5 et moins de 10 ans de présence dans l'entreprise ou ayant plus de 10 ans mais moins de 20 ans de présence dans une ou plusieurs entreprises relevant d'une caisse de congés payés du BTP, ce nombre ne peut pas excéder 216 jours, les jours de fractionnement devant être déduits le cas échéant. <br/>Pour les cadres ayant plus de 10 ans de présence dans l'entreprise ou ayant plus de 20 ans de présence dans une ou plusieurs entreprises relevant d'une caisse de congés payés du BTP, ce nombre ne peut pas excéder 215 jours, les jours de fractionnement devant être déduits le cas échéant. <br/>Pour les cadres ne bénéficiant pas d'un congé annuel complet, le nombre de jours de travail est augmenté à concurrence du nombre de jours de congés légaux auxquels ils ne peuvent prétendre. <br/>2. Le contrat de travail ou son avenant signé par le cadre devra préciser : </p><p align='left'><br/>– les caractéristiques de la fonction qui justifient l'autonomie dont dispose le cadre pour l'exercice de ses fonctions ; <br/>– le nombre de jours sur la base duquel le forfait est défini ; <br/>– la répartition initiale des jours compris dans le forfait, qui doit tenir compte des périodes de présence nécessaires au bon fonctionnement de l'entreprise et de l'autonomie du cadre concerné, et les modalités de prise des jours de repos, en journées ou demi-journées. <br/>Le comité d'entreprise ou, à défaut, les délégués du personnel et le CHSCT, s'il en existe, seront consultés sur le nombre de cadres qui auront conclu une convention individuelle de forfait en jours. <br/>3. La prise des jours de repos issus du forfait en jours doit être effective, sauf dans le cas visé à l'<a alt='Code du travail - art. L3121-45 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902484&dateTexte=&categorieLien=cid'>article L. 3121-45 du code du travail</a>. <br/>4. Les cadres ayant conclu une convention individuelle de forfait en jours bénéficient d'un temps de repos quotidien d'au moins 11 heures consécutives et d'un temps de repos hebdomadaire de 35 heures consécutives, sauf dérogations dans les conditions fixées par les dispositions législatives et conventionnelles en vigueur. L'employeur veille à ce que la pratique habituelle puisse permettre d'augmenter ces temps de repos minimum. <br/>La charge de travail et l'amplitude des journées d'activité devront rester dans des limites raisonnables et assurer une bonne répartition dans le temps du travail du cadre concerné, en permettant une réelle conciliation entre activité professionnelle et vie personnelle et familiale. <br/>Le cadre a droit au respect de son temps de repos et de sa vie privée, notamment par un usage limité, à son initiative, des moyens de communication technologiques. <br/>L'organisation du travail des salariés fait l'objet d'un suivi régulier par la hiérarchie qui veille notamment aux éventuelles surcharges de travail et au respect des durées minimales de repos. <br/>Un document individuel de suivi des périodes d'activité, des jours de repos et jours de congés (en précisant la qualification du repos : hebdomadaire, congés payé, etc.) sera tenu par l'employeur ou par le salarié sous la responsabilité de l'employeur. L'entreprise fournira aux salariés un document permettant de réaliser ce décompte. <br/>Ce document individuel de suivi permet un point régulier et cumulé des jours de travail et des jours de repos afin de favoriser la prise de l'ensemble des jours de repos dans le courant de l'exercice. <br/>La situation du cadre ayant conclu une convention individuelle de forfait en jours sera examinée lors d'un entretien au moins annuel avec son supérieur hiérarchique. Cet entretien portera sur la charge de travail du cadre et l'amplitude de ses journées d'activité, qui doivent rester dans des limites raisonnables, l'organisation du travail dans l'entreprise, l'articulation entre l'activité professionnelle et la vie personnelle et familiale, ainsi que la rémunération du salarié. <br/>En outre, lors de modifications importantes dans les fonctions du cadre, un entretien exceptionnel pourra être tenu à la demande du salarié et portera sur les conditions visées au point 1 ci-dessus. <br/>Le comité d'entreprise ou, à défaut, les délégués du personnel et le CHSCT, s'il en existe, seront consultés sur les conséquences pratiques de la mise en œuvre de ce décompte de la durée du travail en nombre de jours sur l'année. Seront examinés l'impact de ce régime sur l'organisation du travail, l'amplitude des journées et la charge de travail des salariés concernés. <br/>5. Le salaire minimum conventionnel correspondant au niveau et à la position du cadre ayant conclu une convention individuelle de forfait en jours est majoré de 10 %. <br/>6. La rémunération forfaitaire versée mensuellement au salarié compte tenu de ses fonctions est indépendante du nombre d'heures de travail effectif accomplies durant la période de paie. De ce fait, aucune déduction de la rémunération pour une période inférieure à une journée ou à une demi-journée n'est possible. <br/>La valeur d'une journée entière de travail sera calculée en divisant la rémunération mensuelle forfaitaire par 22. <br/>La mise en place du forfait annuel en jours est précédée d'un entretien au cours duquel le cadre sera informé de l'organisation et de la charge de travail à venir ainsi que des éléments de rémunération pris en compte. <br/>Au moment de sa mise en place, le forfait annuel en jours ne peut entraîner de baisse de la rémunération mensuelle forfaitaire brute de l'intéressé correspondant à une période normale et complète de travail. »</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027448689",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Le présent avenant se substitue aux dispositions conventionnelles nationales de branche portant sur le même thème.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027448690",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Le présent avenant entrera en vigueur le 1er février 2013.<br/>Pour les salariés ne bénéficiant pas de jours d'ancienneté, le présent avenant ne saurait avoir pour effet d'augmenter le nombre de jours travaillés fixé par les conventions de forfait conclues antérieurement au 1er février 2013.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027448691",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>L'article 9.6 de la convention collective nationale des cadres du bâtiment du 1er juin 2004 est abrogé et remplacé par les dispositions suivantes : <br/>« Dans les matières relevant des titres Ier, II, III (chapitre III. 1 et, à compter du 1er février 2013, pour l'article 3.3 du chapitre III. 2), IV, V, VI (chapitre VI. 1), VII, VIII, IX, les conventions ou accords d'entreprise ou d'établissement ne peuvent comporter des clauses dérogeant aux dispositions de la présente convention collective, sauf dispositions plus favorables. »</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027448693",
+              "num": "5",
+              "intOrdre": 3145722,
+              "content": "<p align='left'><br/>Toute organisation syndicale non signataire du présent avenant pourra y adhérer conformément à l'<a alt='Code du travail - art. L2261-3 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901781&dateTexte=&categorieLien=cid'>article L. 2261-3 du code du travail</a>.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027448695",
+              "num": "6",
+              "intOrdre": 3670009,
+              "content": "<p align='left'><br/>Le texte du présent accord sera déposé à la direction générale du travail et au secrétariat-greffe du conseil de prud'hommes de Paris, conformément aux <a alt='Code du travail - art. L2231-6 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>dispositions des articles L. 2231-6 et D. 2231-2 du code du travail</a>.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
             }
           ]
         },
         {
-          "id": "KALITEXT000017941954",
+          "type": "section",
           "title": "Protocole d'accord du 13 juin 1973 relatif au fonds commun",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000017941954",
+          "children": [
             {
-              "id": "KALIARTI000017941956",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p><br/> Les organisations d'employeurs et de salariés soussignées sont d'accord pour que les organismes paritaires suivants :<br/> CNPBTP, CNRBTP, CBTP, CBTP-R, CNRO, CNPO, Gestion BTP, CCCA, OPPBTP, GFCBTP, AREF-BTP, FAF-SAB,<br/>contribuent financièrement à une partie des frais de préparation et d'études résultant pour elles de leur participation à la gestion de ces organismes et, de ce fait, au développement de la politique contractuelle dans les branches du bâtiment et des travaux publics.<br/> Chaque organisation percevra annuellement une somme forfaitaire et globale qui, en 1997, au terme du calendrier indiqué ci-dessous, sera équivalente à 1/9 de 0,120 % des cotisations perçues par les organismes susvisés.<br/> Le calendrier d'évolution du pourcentage des cotisations retenu pour le calcul de la somme forfaitaire et globale est fixé comme suit :<br/> ― en 1994 : 0,065 % ;<br/> ― en 1995 : 0,075 % ;<br/> ― en 1996 : 0,100 %,<br/>et à compter de 1997 : 0,120 %.<br/> La charge totale sera répartie entre les organismes selon des modalités qui seront précisées ultérieurement, avant l'entrée en vigueur du présent avenant.<br/> Dans le courant du mois d'avril, Gestion BTP effectuera le calcul des sommes dues et à percevoir et en informera les organismes et organisations intéressés. A la fin du même mois, chaque organisme versera directement à chaque organisation sa part contributive.<br/> La répartition de la charge totale entre les organismes sera simultanément revue chaque année à la diligence de Gestion BTP selon les règles indiquées ci-dessus.<br/> Chaque organisation d'employeurs ou de salariés percevra, pour l'assistance effective de chacun de ses représentants aux réunions des conseils, commissions ou comités statutaires des organismes paritaires, une vacation forfaitaire de 386 F, au 1er juillet 1993, par jour au maximum. Cette vacation sera versée par les organismes paritaires aux organisations nationales dont relèvent les administrateurs intéressés.<br/> Elle variera tous les ans dans la même proportion que l'indice du coût de la construction mesuré par l'INSEE (indice du 3e trimestre) ; ainsi la première réévaluation interviendra au début de l'année 1994 à partir de la comparaison des indices du 3e trimestre 1992 et du 3e trimestre 1993. La réévaluation sera applicable dès la publication officielle de l'indice susvisé.<br/> Les pertes réelles de salaire et les frais de déplacement réellement exposés seront en outre remboursés aux intéressés selon les règles figurant au document ci-annexé.<br/> Ces règles s'imposent de la même manière que les dispositions du protocole d'accord du 13 juin 1973 dont elles font partie intégrante.<br/> Elles seront applicables, à la diligence des conseils d'administration de chaque organisme, pour l'assistance aux réunions tenues à compter du 1er janvier 1994.<br/> Les signataires conviennent de suspendre l'application des clauses de réévaluation des vacations forfaitaires, des pertes de revenu d'activité et des remboursements de frais de déplacement dès que l'activité de la profession aura chuté de 10 %.<br/> Cette activité sera calculée à partir des indices INSEE d'activité « bâtiment » et « travaux publics », l'indice « bâtiment tout corps d'état » étant retenu pour 3/4 de sa valeur et l'indice « travaux publics » pour 1/4. Les indices de référence retenus sont la moyenne des indices des 12 derniers mois actuellement connus.<br/> Dans cette éventualité, le présent avenant continuera de s'appliquer pour l'année en cours, à charge pour les signataires de se rencontrer afin de déterminer de nouvelles dispositions quant à l'application du protocole d'accord pour l'année suivante.<br/> Les organisations soussignées s'engagent à donner mandat à leurs représentants aux conseils d'administration des organismes précités pour que chacun d'eux prenne les mesures nécessaires à l'application effective et conforme des présentes dispositions qui entreront en vigueur le 1er janvier 1994.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "historique": "(Modifié par avenants du 17 juin 1974, n° 2 du 28 janvier 1981 et n° 3 du 7 juillet 1993)"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000017941958",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Annexe",
+              "id": "KALISCTA000017941958",
               "etat": "VIGUEUR_NON_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000017941959",
+                  "type": "section",
                   "intOrdre": 524287,
                   "title": "Frais de déplacement, découcher et repas",
+                  "id": "KALISCTA000017941959",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000017941960",
                       "num": null,
                       "intOrdre": 524287,
@@ -839,23 +920,34 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000017941956",
+              "num": null,
+              "intOrdre": 524287,
+              "content": "<p><br/> Les organisations d'employeurs et de salariés soussignées sont d'accord pour que les organismes paritaires suivants :<br/> CNPBTP, CNRBTP, CBTP, CBTP-R, CNRO, CNPO, Gestion BTP, CCCA, OPPBTP, GFCBTP, AREF-BTP, FAF-SAB,<br/>contribuent financièrement à une partie des frais de préparation et d'études résultant pour elles de leur participation à la gestion de ces organismes et, de ce fait, au développement de la politique contractuelle dans les branches du bâtiment et des travaux publics.<br/> Chaque organisation percevra annuellement une somme forfaitaire et globale qui, en 1997, au terme du calendrier indiqué ci-dessous, sera équivalente à 1/9 de 0,120 % des cotisations perçues par les organismes susvisés.<br/> Le calendrier d'évolution du pourcentage des cotisations retenu pour le calcul de la somme forfaitaire et globale est fixé comme suit :<br/> ― en 1994 : 0,065 % ;<br/> ― en 1995 : 0,075 % ;<br/> ― en 1996 : 0,100 %,<br/>et à compter de 1997 : 0,120 %.<br/> La charge totale sera répartie entre les organismes selon des modalités qui seront précisées ultérieurement, avant l'entrée en vigueur du présent avenant.<br/> Dans le courant du mois d'avril, Gestion BTP effectuera le calcul des sommes dues et à percevoir et en informera les organismes et organisations intéressés. A la fin du même mois, chaque organisme versera directement à chaque organisation sa part contributive.<br/> La répartition de la charge totale entre les organismes sera simultanément revue chaque année à la diligence de Gestion BTP selon les règles indiquées ci-dessus.<br/> Chaque organisation d'employeurs ou de salariés percevra, pour l'assistance effective de chacun de ses représentants aux réunions des conseils, commissions ou comités statutaires des organismes paritaires, une vacation forfaitaire de 386 F, au 1er juillet 1993, par jour au maximum. Cette vacation sera versée par les organismes paritaires aux organisations nationales dont relèvent les administrateurs intéressés.<br/> Elle variera tous les ans dans la même proportion que l'indice du coût de la construction mesuré par l'INSEE (indice du 3e trimestre) ; ainsi la première réévaluation interviendra au début de l'année 1994 à partir de la comparaison des indices du 3e trimestre 1992 et du 3e trimestre 1993. La réévaluation sera applicable dès la publication officielle de l'indice susvisé.<br/> Les pertes réelles de salaire et les frais de déplacement réellement exposés seront en outre remboursés aux intéressés selon les règles figurant au document ci-annexé.<br/> Ces règles s'imposent de la même manière que les dispositions du protocole d'accord du 13 juin 1973 dont elles font partie intégrante.<br/> Elles seront applicables, à la diligence des conseils d'administration de chaque organisme, pour l'assistance aux réunions tenues à compter du 1er janvier 1994.<br/> Les signataires conviennent de suspendre l'application des clauses de réévaluation des vacations forfaitaires, des pertes de revenu d'activité et des remboursements de frais de déplacement dès que l'activité de la profession aura chuté de 10 %.<br/> Cette activité sera calculée à partir des indices INSEE d'activité « bâtiment » et « travaux publics », l'indice « bâtiment tout corps d'état » étant retenu pour 3/4 de sa valeur et l'indice « travaux publics » pour 1/4. Les indices de référence retenus sont la moyenne des indices des 12 derniers mois actuellement connus.<br/> Dans cette éventualité, le présent avenant continuera de s'appliquer pour l'année en cours, à charge pour les signataires de se rencontrer afin de déterminer de nouvelles dispositions quant à l'application du protocole d'accord pour l'année suivante.<br/> Les organisations soussignées s'engagent à donner mandat à leurs représentants aux conseils d'administration des organismes précités pour que chacun d'eux prenne les mesures nécessaires à l'application effective et conforme des présentes dispositions qui entreront en vigueur le 1er janvier 1994.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "historique": "(Modifié par avenants du 17 juin 1974, n° 2 du 28 janvier 1981 et n° 3 du 7 juillet 1993)"
             }
           ]
         }
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 3,
       "title": "Textes Salaires",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000038649714",
+          "type": "section",
           "title": "Avenant n° 71 du 16 janvier 2019 relatif aux appointements minimaux au 1er février 2019",
-          "dateParution": 1560902400000,
-          "articles": [
+          "id": "KALITEXT000038649714",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038649717",
               "num": null,
               "intOrdre": 524287,
@@ -863,6 +955,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038649718",
               "num": "1er",
               "intOrdre": 1048574,
@@ -870,6 +963,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038649719",
               "num": "2",
               "intOrdre": 1572861,
@@ -877,6 +971,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038649722",
               "num": "3",
               "intOrdre": 2097148,
@@ -886,11 +981,12 @@
           ]
         },
         {
-          "id": "KALITEXT000037377114",
+          "type": "section",
           "title": "Avenant n° 70 du 18 janvier 2018 relatif aux appointements minimaux au 1er février 2018",
-          "dateParution": 1536537600000,
-          "articles": [
+          "id": "KALITEXT000037377114",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000037377117",
               "num": null,
               "intOrdre": 524287,
@@ -898,6 +994,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037377118",
               "num": "1er",
               "intOrdre": 1048574,
@@ -905,6 +1002,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037377119",
               "num": "2",
               "intOrdre": 1572861,
@@ -912,6 +1010,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037377122",
               "num": "3",
               "intOrdre": 2097148,
@@ -921,11 +1020,12 @@
           ]
         },
         {
-          "id": "KALITEXT000035184434",
+          "type": "section",
           "title": "Avenant n° 69 du 18 janvier 2017 relatif aux appointements minimaux au 1er février 2017",
-          "dateParution": 1499904000000,
-          "articles": [
+          "id": "KALITEXT000035184434",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000035184437",
               "num": null,
               "intOrdre": 524287,
@@ -933,6 +1033,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000035184438",
               "num": "1er",
               "intOrdre": 1048574,
@@ -940,6 +1041,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000035184439",
               "num": "2",
               "intOrdre": 1572861,
@@ -947,6 +1049,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000035184442",
               "num": "3",
               "intOrdre": 2097148,
@@ -956,11 +1059,12 @@
           ]
         },
         {
-          "id": "KALITEXT000032622834",
+          "type": "section",
           "title": "Avenant n° 68 du 14 janvier 2016 relatif aux appointements minimaux au 1er février 2016",
-          "dateParution": 1464825600000,
-          "articles": [
+          "id": "KALITEXT000032622834",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000032622838",
               "num": null,
               "intOrdre": 524287,
@@ -968,6 +1072,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032622839",
               "num": "1er",
               "intOrdre": 1048574,
@@ -975,6 +1080,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032622840",
               "num": "2",
               "intOrdre": 1572861,
@@ -982,6 +1088,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032622843",
               "num": "3",
               "intOrdre": 2097148,
@@ -991,11 +1098,12 @@
           ]
         },
         {
-          "id": "KALITEXT000030732694",
+          "type": "section",
           "title": "Avenant n° 67 du 14 janvier 2015 relatif aux appointements minimaux au 1er février 2015",
-          "dateParution": 1434412800000,
-          "articles": [
+          "id": "KALITEXT000030732694",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030732697",
               "num": null,
               "intOrdre": 524287,
@@ -1003,6 +1111,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000030732698",
               "num": "1er",
               "intOrdre": 1048574,
@@ -1010,6 +1119,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000030732699",
               "num": "2",
               "intOrdre": 1572861,
@@ -1017,6 +1127,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000030732702",
               "num": "3",
               "intOrdre": 2097148,
@@ -1026,11 +1137,12 @@
           ]
         },
         {
-          "id": "KALITEXT000029148593",
+          "type": "section",
           "title": "Avenant n° 66 du 15 janvier 2014 relatif aux salaires minimaux au 1er février 2014",
-          "dateParution": 1404086400000,
-          "articles": [
+          "id": "KALITEXT000029148593",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000029148596",
               "num": null,
               "intOrdre": 524287,
@@ -1038,6 +1150,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029148597",
               "num": "1er",
               "intOrdre": 1048574,
@@ -1045,6 +1158,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029148598",
               "num": "2",
               "intOrdre": 1572861,
@@ -1052,6 +1166,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029148601",
               "num": "3",
               "intOrdre": 2097148,
@@ -1061,11 +1176,12 @@
           ]
         },
         {
-          "id": "KALITEXT000027547493",
+          "type": "section",
           "title": "Avenant n° 65 du 16 janvier 2013 relatif aux salaires minimaux au 1er février 2013",
-          "dateParution": 1371427200000,
-          "articles": [
+          "id": "KALITEXT000027547493",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000027547496",
               "num": null,
               "intOrdre": 524287,
@@ -1073,6 +1189,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027547497",
               "num": "1er",
               "intOrdre": 1048574,
@@ -1080,6 +1197,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027547498",
               "num": "2",
               "intOrdre": 1572861,
@@ -1087,6 +1205,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027547500",
               "num": "3",
               "intOrdre": 2097148,
@@ -1096,11 +1215,12 @@
           ]
         },
         {
-          "id": "KALITEXT000026204865",
+          "type": "section",
           "title": "Avenant n° 64 du 19 janvier 2012 relatif aux salaires minimaux au 1er février 2012",
-          "dateParution": 1342656000000,
-          "articles": [
+          "id": "KALITEXT000026204865",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000026204868",
               "num": null,
               "intOrdre": 524287,
@@ -1108,6 +1228,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000026204869",
               "num": "1er",
               "intOrdre": 1048574,
@@ -1115,6 +1236,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000026204870",
               "num": "2",
               "intOrdre": 1572861,
@@ -1122,6 +1244,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000026204872",
               "num": "3",
               "intOrdre": 2097148,
@@ -1131,11 +1254,12 @@
           ]
         },
         {
-          "id": "KALITEXT000022671810",
+          "type": "section",
           "title": "Avenant n° 62 du 20 janvier 2010 relatif aux appointements minimaux au 1er février 2010",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000022671810",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000022671813",
               "num": null,
               "intOrdre": 524287,
@@ -1143,6 +1267,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000022671814",
               "num": "1er",
               "intOrdre": 1048574,
@@ -1150,6 +1275,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000022671815",
               "num": "2",
               "intOrdre": 1572861,
@@ -1157,6 +1283,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000022671817",
               "num": "3",
               "intOrdre": 2097148,

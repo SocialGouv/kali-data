@@ -1,46 +1,40 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale des taxis du 11 septembre 2001",
   "id": "KALICONT000021125058",
   "num": "2219",
-  "title": "Convention collective nationale des taxis du 11 septembre 2001",
   "shortTitle": "Taxis",
-  "categorisation": [
-    "Taxis"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000021125063",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale des taxis du 11 septembre 2001",
+      "id": "KALITEXT000021125063",
       "etat": "VIGUEUR_ETEN",
-      "sections": [
+      "children": [
         {
-          "id": "KALISCTA000021125065",
+          "type": "section",
           "intOrdre": 524287,
           "title": "DISPOSITIONS GÉNÉRALES",
+          "id": "KALISCTA000021125065",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000021133915",
+              "type": "section",
               "intOrdre": 1073741823,
               "title": "I. - Champ d'application",
+              "id": "KALISCTA000021133915",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
-                  "id": "KALIARTI000037626528",
-                  "num": null,
-                  "intOrdre": 1073741823,
-                  "content": "<p>La présente convention collective et accords qui y sont annexés règlent les rapports entre les employeurs et les salariés des entreprises dont l'activité principale est une activité de taxis répertoriées sous la nomenclature code 49. 32Z et soumises au code des transports, notamment :<br/>\n– transport de voyageurs par taxis, y compris services des centrales de réservation ;<br/>\n– le transport par taxi non médicalisé de personnes à mobilité réduite ;<br/>\n– les radio-taxis.</p><p>La présente convention collective nationale et accords qui y sont annexés sont applicables à l'ensemble du territoire métropolitain, les départements et régions d'outre-mer et les collectivités d'outre-mer (Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon).</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ],
-              "sections": [
-                {
-                  "id": "KALISCTA000021135099",
+                  "type": "section",
                   "intOrdre": 1610612735,
                   "title": "Durée",
+                  "id": "KALISCTA000021135099",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135119",
                       "num": "1er",
                       "intOrdre": 1073741823,
@@ -50,12 +44,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135100",
+                  "type": "section",
                   "intOrdre": 1879048191,
                   "title": "Procédure de révision",
+                  "id": "KALISCTA000021135100",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135121",
                       "num": "2",
                       "intOrdre": 1073741823,
@@ -65,12 +61,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135101",
+                  "type": "section",
                   "intOrdre": 2013265919,
                   "title": "Procédure de dénonciation",
+                  "id": "KALISCTA000021135101",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135125",
                       "num": "3",
                       "intOrdre": 1073741823,
@@ -80,12 +78,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135102",
+                  "type": "section",
                   "intOrdre": 2080374783,
                   "title": "Date d'effet",
+                  "id": "KALISCTA000021135102",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135129",
                       "num": "4",
                       "intOrdre": 1073741823,
@@ -93,22 +93,33 @@
                       "etat": "VIGUEUR_ETEN"
                     }
                   ]
+                },
+                {
+                  "type": "article",
+                  "id": "KALIARTI000037626528",
+                  "num": null,
+                  "intOrdre": 1073741823,
+                  "content": "<p>La présente convention collective et accords qui y sont annexés règlent les rapports entre les employeurs et les salariés des entreprises dont l'activité principale est une activité de taxis répertoriées sous la nomenclature code 49. 32Z et soumises au code des transports, notamment :<br/>\n– transport de voyageurs par taxis, y compris services des centrales de réservation ;<br/>\n– le transport par taxi non médicalisé de personnes à mobilité réduite ;<br/>\n– les radio-taxis.</p><p>La présente convention collective nationale et accords qui y sont annexés sont applicables à l'ensemble du territoire métropolitain, les départements et régions d'outre-mer et les collectivités d'outre-mer (Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon).</p>",
+                  "etat": "VIGUEUR_ETEN"
                 }
               ]
             },
             {
-              "id": "KALISCTA000021134037",
+              "type": "section",
               "intOrdre": 1610612735,
               "title": "II. - Liberté d'opinion. - Libre exercice du droit syndical",
+              "id": "KALISCTA000021134037",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000021135105",
+                  "type": "section",
                   "intOrdre": 1073741823,
                   "title": "Représentation du personnel",
+                  "id": "KALISCTA000021135105",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135252",
                       "num": "5",
                       "intOrdre": 1073741823,
@@ -118,12 +129,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135106",
+                  "type": "section",
                   "intOrdre": 1610612735,
                   "title": "Droit syndical",
+                  "id": "KALISCTA000021135106",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135253",
                       "num": "6",
                       "intOrdre": 1073741823,
@@ -133,12 +146,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135107",
+                  "type": "section",
                   "intOrdre": 1879048191,
                   "title": "Exercice de l'action syndicale",
+                  "id": "KALISCTA000021135107",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135254",
                       "num": "7",
                       "intOrdre": 1073741823,
@@ -148,12 +163,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135109",
+                  "type": "section",
                   "intOrdre": 2013265919,
                   "title": "Information syndicale. - Panneaux syndicaux",
+                  "id": "KALISCTA000021135109",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135258",
                       "num": "8",
                       "intOrdre": 1073741823,
@@ -163,12 +180,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135110",
+                  "type": "section",
                   "intOrdre": 2080374783,
                   "title": "Local",
+                  "id": "KALISCTA000021135110",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135259",
                       "num": "9",
                       "intOrdre": 1073741823,
@@ -178,12 +197,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135111",
+                  "type": "section",
                   "intOrdre": 2113929215,
                   "title": "Délégués du personnel",
+                  "id": "KALISCTA000021135111",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135260",
                       "num": "10",
                       "intOrdre": 1073741823,
@@ -193,12 +214,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135112",
+                  "type": "section",
                   "intOrdre": 2130706431,
                   "title": "Représentant au comité d'entreprise",
+                  "id": "KALISCTA000021135112",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135261",
                       "num": "11",
                       "intOrdre": 1073741823,
@@ -208,12 +231,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135114",
+                  "type": "section",
                   "intOrdre": 2139095039,
                   "title": "Formation des représentants du personnel au CE et au CHSCT",
+                  "id": "KALISCTA000021135114",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135267",
                       "num": "12",
                       "intOrdre": 1073741823,
@@ -223,12 +248,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135115",
+                  "type": "section",
                   "intOrdre": 2143289343,
                   "title": "Préparation des élections délégués du personnel et comité d'entreprise",
+                  "id": "KALISCTA000021135115",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135268",
                       "num": "13",
                       "intOrdre": 1073741823,
@@ -240,18 +267,21 @@
               ]
             },
             {
-              "id": "KALISCTA000021134045",
+              "type": "section",
               "intOrdre": 1879048191,
               "title": "III. - Modalités d'embauche et conditions générales du travail",
+              "id": "KALISCTA000021134045",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000021135271",
+                  "type": "section",
                   "intOrdre": 1073741823,
                   "title": "Conditions d'embauche",
+                  "id": "KALISCTA000021135271",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135290",
                       "num": "14",
                       "intOrdre": 1073741823,
@@ -261,12 +291,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135272",
+                  "type": "section",
                   "intOrdre": 1610612735,
                   "title": "Durée du travail",
+                  "id": "KALISCTA000021135272",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135291",
                       "num": "15",
                       "intOrdre": 1073741823,
@@ -276,12 +308,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135273",
+                  "type": "section",
                   "intOrdre": 1879048191,
                   "title": "Repos",
+                  "id": "KALISCTA000021135273",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135311",
                       "num": "16",
                       "intOrdre": 1073741823,
@@ -291,12 +325,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135274",
+                  "type": "section",
                   "intOrdre": 2013265919,
                   "title": "Contrat de travail",
+                  "id": "KALISCTA000021135274",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135314",
                       "num": "17",
                       "intOrdre": 1073741823,
@@ -306,12 +342,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135275",
+                  "type": "section",
                   "intOrdre": 2080374783,
                   "title": "Réglement intérieur",
+                  "id": "KALISCTA000021135275",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135318",
                       "num": "18",
                       "intOrdre": 1073741823,
@@ -321,12 +359,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135276",
+                  "type": "section",
                   "intOrdre": 2113929215,
                   "title": "Médecine du travail",
+                  "id": "KALISCTA000021135276",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135320",
                       "num": "19",
                       "intOrdre": 1073741823,
@@ -336,12 +376,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135277",
+                  "type": "section",
                   "intOrdre": 2130706431,
                   "title": "Période d'essai",
+                  "id": "KALISCTA000021135277",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135322",
                       "num": "20",
                       "intOrdre": 1073741823,
@@ -351,12 +393,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135278",
+                  "type": "section",
                   "intOrdre": 2139095039,
                   "title": "Démission, licenciement et préavis",
+                  "id": "KALISCTA000021135278",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135323",
                       "num": "21",
                       "intOrdre": 1073741823,
@@ -366,12 +410,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135279",
+                  "type": "section",
                   "intOrdre": 2143289343,
                   "title": "Rémunération",
+                  "id": "KALISCTA000021135279",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135324",
                       "num": "22",
                       "intOrdre": 1073741823,
@@ -383,18 +429,21 @@
               ]
             },
             {
-              "id": "KALISCTA000021134046",
+              "type": "section",
               "intOrdre": 2013265919,
               "title": "IV. - Organisation du travail",
+              "id": "KALISCTA000021134046",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000021135325",
+                  "type": "section",
                   "intOrdre": 1073741823,
                   "title": "Organisation du travail",
+                  "id": "KALISCTA000021135325",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135348",
                       "num": "23",
                       "intOrdre": 1073741823,
@@ -404,12 +453,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135326",
+                  "type": "section",
                   "intOrdre": 1610612735,
                   "title": "Obligations réciproques",
+                  "id": "KALISCTA000021135326",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135349",
                       "num": "24",
                       "intOrdre": 1073741823,
@@ -419,12 +470,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135327",
+                  "type": "section",
                   "intOrdre": 1879048191,
                   "title": "Congés annuels",
+                  "id": "KALISCTA000021135327",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135350",
                       "num": "25",
                       "intOrdre": 1073741823,
@@ -434,12 +487,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135328",
+                  "type": "section",
                   "intOrdre": 2013265919,
                   "title": "Congés pour événements familiaux",
+                  "id": "KALISCTA000021135328",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135351",
                       "num": "26",
                       "intOrdre": 1073741823,
@@ -449,12 +504,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135329",
+                  "type": "section",
                   "intOrdre": 2080374783,
                   "title": "Maternité",
+                  "id": "KALISCTA000021135329",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135352",
                       "num": "27",
                       "intOrdre": 1073741823,
@@ -464,12 +521,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135330",
+                  "type": "section",
                   "intOrdre": 2113929215,
                   "title": "Médecine du travail",
+                  "id": "KALISCTA000021135330",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135353",
                       "num": "28",
                       "intOrdre": 1073741823,
@@ -479,12 +538,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135331",
+                  "type": "section",
                   "intOrdre": 2130706431,
                   "title": "Productivité",
+                  "id": "KALISCTA000021135331",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135354",
                       "num": "29",
                       "intOrdre": 1073741823,
@@ -494,12 +555,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135332",
+                  "type": "section",
                   "intOrdre": 2139095039,
                   "title": "Discipline, sanctions",
+                  "id": "KALISCTA000021135332",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135355",
                       "num": "30",
                       "intOrdre": 1073741823,
@@ -509,12 +572,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135333",
+                  "type": "section",
                   "intOrdre": 2143289343,
                   "title": "Publicité",
+                  "id": "KALISCTA000021135333",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135356",
                       "num": "31",
                       "intOrdre": 1073741823,
@@ -524,12 +589,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135341",
+                  "type": "section",
                   "intOrdre": 2145386495,
                   "title": "Départ en retraite à partir de 65 ans",
+                  "id": "KALISCTA000021135341",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135357",
                       "num": "32",
                       "intOrdre": 1073741823,
@@ -539,12 +606,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135342",
+                  "type": "section",
                   "intOrdre": 2146435071,
                   "title": "Incapacité temporaire de conduite d'un taxi",
+                  "id": "KALISCTA000021135342",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135358",
                       "num": "33",
                       "intOrdre": 1073741823,
@@ -554,12 +623,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135343",
+                  "type": "section",
                   "intOrdre": 2146959359,
                   "title": "Incapacité permanente de conduite d'un taxi",
+                  "id": "KALISCTA000021135343",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135359",
                       "num": "34",
                       "intOrdre": 1073741823,
@@ -569,12 +640,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135344",
+                  "type": "section",
                   "intOrdre": 2147221503,
                   "title": "Absence",
+                  "id": "KALISCTA000021135344",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135360",
                       "num": "35",
                       "intOrdre": 1073741823,
@@ -584,12 +657,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135345",
+                  "type": "section",
                   "intOrdre": 2147352575,
                   "title": "Départ en retraite à partir de 60 ans",
+                  "id": "KALISCTA000021135345",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135361",
                       "num": "36",
                       "intOrdre": 1073741823,
@@ -599,12 +674,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135346",
+                  "type": "section",
                   "intOrdre": 2147418111,
                   "title": "Autres",
+                  "id": "KALISCTA000021135346",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135362",
                       "num": "37",
                       "intOrdre": 1073741823,
@@ -614,12 +691,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000021135347",
+                  "type": "section",
                   "intOrdre": 2147450879,
                   "title": "Publicité de dépôt",
+                  "id": "KALISCTA000021135347",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000021135363",
                       "num": "38",
                       "intOrdre": 1073741823,
@@ -635,17 +714,36 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000037547879",
+          "type": "section",
           "title": "Accord du 16 mai 2018 relatif à la mise en place de la commission paritaire permanente de négociation et d'interprétation",
-          "dateParution": 1540944000000,
-          "articles": [
+          "id": "KALITEXT000037547879",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000037547882",
+              "etat": "VIGUEUR_NON_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000037547920",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'>La <a alt='LOI n°2016-1088 du 8 août 2016 (V)' href='/affichTexte.do?cidTexte=JORFTEXT000032983213&categorieLien=cid'>loi n° 2016-1088 du 8 août 2016 </a>relative au travail, à la modernisation du dialogue social et à la sécurisation des parcours professionnels comporte différentes mesures qui confortent le rôle central des branches et visent à renforcer la négociation collective en leur sein.</p><p align='left'>En particulier l'<a alt='LOI n° 2016-1088 du 8 août 2016 - art. 24 (V)' href='/affichTexteArticle.do?cidTexte=JORFTEXT000032983213&idArticle=JORFARTI000032983924&categorieLien=cid'>article 24 de ladite loi</a> prévoit que chaque branche doit mettre en place, par le biais d'un accord, une commission paritaire permanente de négociation et d'interprétation.</p><p align='left'>Par ailleurs, la loi n° 2016-1088 du 8 août 2016 simplifie la négociation avec les élus non mandatés en supprimant la condition d'approbation des accords par une commission paritaire de branche. Ces accords doivent désormais uniquement lui être transmis pour information, cette formalité n'étant pas une condition au dépôt et à l'entrée en vigueur des accords.</p><p align='left'>Dans ce cadre, les partenaires sociaux de la branche se sont rencontrés au cours de diverses réunions pour mettre en place la commission paritaire permanente de négociation et d'interprétation (CPPNI).</p>",
+                  "etat": "VIGUEUR_NON_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000037547883",
               "num": "1er",
               "intOrdre": 1048574,
@@ -654,6 +752,7 @@
               "surtitre": "Champs d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037547884",
               "num": "2",
               "intOrdre": 1572861,
@@ -662,6 +761,7 @@
               "surtitre": "Dispositions communes"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037547885",
               "num": "2.1",
               "intOrdre": 2097148,
@@ -670,6 +770,7 @@
               "surtitre": "Composition"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037547886",
               "num": "2.2",
               "intOrdre": 2621435,
@@ -677,6 +778,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037547887",
               "num": "2.3",
               "intOrdre": 3145722,
@@ -685,6 +787,7 @@
               "surtitre": "Prise des décisions"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037547888",
               "num": "2.4",
               "intOrdre": 3670009,
@@ -693,6 +796,7 @@
               "surtitre": "Nature des réunions de la CPPNI"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037547892",
               "num": "2.5",
               "intOrdre": 4194296,
@@ -701,6 +805,7 @@
               "surtitre": "Convocation aux réunions"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037547893",
               "num": "2.6",
               "intOrdre": 4718583,
@@ -709,6 +814,7 @@
               "surtitre": "Prise en charge des frais"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037547894",
               "num": "2.7",
               "intOrdre": 5242870,
@@ -717,6 +823,7 @@
               "surtitre": "Réunions préparatoires"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037547895",
               "num": "3",
               "intOrdre": 5767157,
@@ -725,6 +832,7 @@
               "surtitre": "Rôle et dispositions particulières de la commission de négociation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037547896",
               "num": "3.1",
               "intOrdre": 6291444,
@@ -733,6 +841,7 @@
               "surtitre": "Composition de la commission"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037547897",
               "num": "3.2",
               "intOrdre": 6815731,
@@ -741,6 +850,7 @@
               "surtitre": "Périodicité des réunions de la commission"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037547898",
               "num": "3.3",
               "intOrdre": 7340018,
@@ -749,6 +859,7 @@
               "surtitre": "Missions de la commission"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037547902",
               "num": "3.4",
               "intOrdre": 7864305,
@@ -757,6 +868,7 @@
               "surtitre": "Transmission des accords d'entreprise"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037547904",
               "num": "4",
               "intOrdre": 8388592,
@@ -765,6 +877,7 @@
               "surtitre": "Rôle et dispositions particulières de la commission d'interprétation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037547905",
               "num": "4.1",
               "intOrdre": 8912879,
@@ -773,6 +886,7 @@
               "surtitre": "Composition de la commission"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037547906",
               "num": "4.2",
               "intOrdre": 9437166,
@@ -781,6 +895,7 @@
               "surtitre": "Missions de la commission"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037547908",
               "num": "4.3",
               "intOrdre": 9961453,
@@ -789,6 +904,7 @@
               "surtitre": "Fonctionnement de la commission"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037547909",
               "num": "4.4",
               "intOrdre": 10485740,
@@ -797,6 +913,7 @@
               "surtitre": "Saisine de la commission"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037547911",
               "num": "5",
               "intOrdre": 11010027,
@@ -805,6 +922,7 @@
               "surtitre": "Représentation de la branche vis-à-vis des pouvoirs publics"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037547912",
               "num": "6",
               "intOrdre": 11534314,
@@ -813,6 +931,7 @@
               "surtitre": "Modalités d'application de l'accord selon l'effectif de l'entreprise"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037547914",
               "num": "7",
               "intOrdre": 12058601,
@@ -821,6 +940,7 @@
               "surtitre": "Entrée en vigueur – Dépôt – Extension"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037547915",
               "num": "8",
               "intOrdre": 12582888,
@@ -829,6 +949,7 @@
               "surtitre": "Adhésion"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037547917",
               "num": "9",
               "intOrdre": 13107175,
@@ -837,6 +958,7 @@
               "surtitre": "Valeur normative de l'accord"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037547918",
               "num": "10",
               "intOrdre": 13631462,
@@ -844,31 +966,32 @@
               "etat": "VIGUEUR_NON_ETEN",
               "surtitre": "Révision – Dénonciation"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000037547882",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000037547920",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'>La <a alt='LOI n°2016-1088 du 8 août 2016 (V)' href='/affichTexte.do?cidTexte=JORFTEXT000032983213&categorieLien=cid'>loi n° 2016-1088 du 8 août 2016 </a>relative au travail, à la modernisation du dialogue social et à la sécurisation des parcours professionnels comporte différentes mesures qui confortent le rôle central des branches et visent à renforcer la négociation collective en leur sein.</p><p align='left'>En particulier l'<a alt='LOI n° 2016-1088 du 8 août 2016 - art. 24 (V)' href='/affichTexteArticle.do?cidTexte=JORFTEXT000032983213&idArticle=JORFARTI000032983924&categorieLien=cid'>article 24 de ladite loi</a> prévoit que chaque branche doit mettre en place, par le biais d'un accord, une commission paritaire permanente de négociation et d'interprétation.</p><p align='left'>Par ailleurs, la loi n° 2016-1088 du 8 août 2016 simplifie la négociation avec les élus non mandatés en supprimant la condition d'approbation des accords par une commission paritaire de branche. Ces accords doivent désormais uniquement lui être transmis pour information, cette formalité n'étant pas une condition au dépôt et à l'entrée en vigueur des accords.</p><p align='left'>Dans ce cadre, les partenaires sociaux de la branche se sont rencontrés au cours de diverses réunions pour mettre en place la commission paritaire permanente de négociation et d'interprétation (CPPNI).</p>",
-                  "etat": "VIGUEUR_NON_ETEN"
-                }
-              ]
-            }
           ]
         },
         {
-          "id": "KALITEXT000037528479",
+          "type": "section",
           "title": "Accord du 22 février 2018 relatif à la modification du champ d'application de la convention collective régionale des taxis parisiens du 11 septembre 2001 et de son intitulé",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000037528479",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000037528482",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000037528497",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'>Dans le cadre de l'<a alt='lien vers un document Legifrance' href='/affichTexteArticle.do?cidTexte=JORFTEXT000032983213&idArticle=JORFARTI000032983939&categorieLien=cid'>article 25 de la loi n° 2016-1088</a> du 5 août 2016 visant à accélérer le mouvement de restructuration des branches professionnelles engagé par la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000028683576&categorieLien=cid'>loi n° 2014-288 du 5 mars 2014</a>, les partenaires sociaux ont décidé d'une part de modifier le champ d'application de la convention collective régionale des taxis parisiens du 11 septembre 2001 et d'autre part de changer son intitulé.</p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000037528483",
               "num": "1er",
               "intOrdre": 1048574,
@@ -877,6 +1000,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037528485",
               "num": "1.1",
               "intOrdre": 1572861,
@@ -885,6 +1009,7 @@
               "surtitre": "Domiciliation de ladite convention collective nationale"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037528486",
               "num": "2",
               "intOrdre": 2097148,
@@ -893,6 +1018,7 @@
               "surtitre": "Intitulé"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037528487",
               "num": "3",
               "intOrdre": 2621435,
@@ -901,6 +1027,7 @@
               "surtitre": "Entrée en vigueur et durée de l'accord"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037528489",
               "num": "4",
               "intOrdre": 3145722,
@@ -909,6 +1036,7 @@
               "surtitre": "Révision et dénonciation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037528493",
               "num": "5",
               "intOrdre": 3670009,
@@ -917,6 +1045,7 @@
               "surtitre": "Dépôt"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037528496",
               "num": "6",
               "intOrdre": 4194296,
@@ -924,31 +1053,15 @@
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Adhésion"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000037528482",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000037528497",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'>Dans le cadre de l'<a alt='lien vers un document Legifrance' href='/affichTexteArticle.do?cidTexte=JORFTEXT000032983213&idArticle=JORFARTI000032983939&categorieLien=cid'>article 25 de la loi n° 2016-1088</a> du 5 août 2016 visant à accélérer le mouvement de restructuration des branches professionnelles engagé par la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000028683576&categorieLien=cid'>loi n° 2014-288 du 5 mars 2014</a>, les partenaires sociaux ont décidé d'une part de modifier le champ d'application de la convention collective régionale des taxis parisiens du 11 septembre 2001 et d'autre part de changer son intitulé.</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
           ]
         },
         {
-          "id": "KALITEXT000037528500",
+          "type": "section",
           "title": "Adhésion par lettre du 24 mai 2018 de l'UNIT à l'accord du 22 février 2018 relatif à la modification du champ d'application de la convention collective régionale des taxis parisiens du 11 septembre 2001 et de son intitulé",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000037528500",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000037528503",
               "num": null,
               "intOrdre": 524287,

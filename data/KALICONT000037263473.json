@@ -1,40 +1,33 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale des industries de la fabrication de la chaux du 16 janvier 2018",
   "id": "KALICONT000037263473",
   "num": "3227",
-  "title": "Convention collective nationale des industries de la fabrication de la chaux du 16 janvier 2018",
   "shortTitle": "Industries Fabrication De La Chaux",
-  "categorisation": [
-    "Industries de la fabrication de la chaux"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000037217519",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale des industries de la fabrication de la chaux du 16 janvier 2018",
+      "id": "KALITEXT000037217519",
       "etat": "VIGUEUR_NON_ETEN",
-      "sections": [
+      "children": [
         {
-          "id": "KALISCTA000037217521",
+          "type": "section",
           "intOrdre": 524287,
           "title": "I. – Parties communes Clauses générales",
+          "id": "KALISCTA000037217521",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
-              "id": "KALIARTI000037217522",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p align='left'>La convention collective des industries de la fabrication de la chaux se présente sous la forme de 3 conventions distinctes pour chacune des catégories cadres, ETDAM et ouvriers.</p><p align='left'>Les partenaires sociaux font le constat que ces trois conventions sont, pour la plupart de leurs dispositions, en décalage avec le droit du travail. Par ailleurs, l'évolution de ces conventions qui s'est faite par le biais d'avenants de chacune des 3 conventions rend son application complexe.</p><p align='left'>Les parties ont donc décidé de refondre les trois conventions collectives nationales en une seule avec une partie commune aux trois catégories de personnel et trois annexes pour les dispositions spécifiques aux trois catégories professionnelles.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000037217523",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre Ier Dispositions générales",
+              "id": "KALISCTA000037217523",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000037217550",
                   "num": "5",
                   "intOrdre": 5767157,
@@ -45,12 +38,14 @@
               ]
             },
             {
-              "id": "KALISCTA000037217524",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Chapitre II Droit syndical et instances représentatives du personnel",
+              "id": "KALISCTA000037217524",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000037217562",
                   "num": "10",
                   "intOrdre": 4194296,
@@ -61,12 +56,14 @@
               ]
             },
             {
-              "id": "KALISCTA000037217525",
+              "type": "section",
               "intOrdre": 2097148,
               "title": "Chapitre III Égalité de traitement",
+              "id": "KALISCTA000037217525",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000037217582",
                   "num": "14",
                   "intOrdre": 7340018,
@@ -77,12 +74,14 @@
               ]
             },
             {
-              "id": "KALISCTA000037217526",
+              "type": "section",
               "intOrdre": 2621435,
               "title": "Chapitre IV Contrats de travail",
+              "id": "KALISCTA000037217526",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000037217590",
                   "num": "18",
                   "intOrdre": 2097148,
@@ -93,12 +92,14 @@
               ]
             },
             {
-              "id": "KALISCTA000037217527",
+              "type": "section",
               "intOrdre": 3145722,
               "title": "Chapitre V Congés, jours fériés",
+              "id": "KALISCTA000037217527",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000037217596",
                   "num": "23",
                   "intOrdre": 2621435,
@@ -109,12 +110,14 @@
               ]
             },
             {
-              "id": "KALISCTA000037217528",
+              "type": "section",
               "intOrdre": 3670009,
               "title": "Chapitre VI Temps de travail",
+              "id": "KALISCTA000037217528",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000037217614",
                   "num": "36",
                   "intOrdre": 6815731,
@@ -125,12 +128,14 @@
               ]
             },
             {
-              "id": "KALISCTA000037217529",
+              "type": "section",
               "intOrdre": 4194296,
               "title": "Chapitre VII Formation et apprentissage",
+              "id": "KALISCTA000037217529",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000037217617",
                   "num": "38",
                   "intOrdre": 1048574,
@@ -141,12 +146,14 @@
               ]
             },
             {
-              "id": "KALISCTA000037217530",
+              "type": "section",
               "intOrdre": 4718583,
               "title": "Chapitre VIII Salaires",
+              "id": "KALISCTA000037217530",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000037217623",
                   "num": "44",
                   "intOrdre": 3145722,
@@ -157,12 +164,14 @@
               ]
             },
             {
-              "id": "KALISCTA000037217531",
+              "type": "section",
               "intOrdre": 5242870,
               "title": "Chapitre IX Retraite et prévoyance",
+              "id": "KALISCTA000037217531",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000037217626",
                   "num": "46",
                   "intOrdre": 1048574,
@@ -173,12 +182,14 @@
               ]
             },
             {
-              "id": "KALISCTA000037217532",
+              "type": "section",
               "intOrdre": 5767157,
               "title": "Chapitre X Suspension du contrat de travail",
+              "id": "KALISCTA000037217532",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000037217632",
                   "num": "50",
                   "intOrdre": 2097148,
@@ -189,12 +200,14 @@
               ]
             },
             {
-              "id": "KALISCTA000037217533",
+              "type": "section",
               "intOrdre": 6291444,
               "title": "Chapitre XI Compte épargne-temps",
+              "id": "KALISCTA000037217533",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000037217651",
                   "num": "62",
                   "intOrdre": 8912879,
@@ -203,16 +216,26 @@
                   "surtitre": "Rupture du contrat de travail"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000037217522",
+              "num": null,
+              "intOrdre": 524287,
+              "content": "<p align='left'>La convention collective des industries de la fabrication de la chaux se présente sous la forme de 3 conventions distinctes pour chacune des catégories cadres, ETDAM et ouvriers.</p><p align='left'>Les partenaires sociaux font le constat que ces trois conventions sont, pour la plupart de leurs dispositions, en décalage avec le droit du travail. Par ailleurs, l'évolution de ces conventions qui s'est faite par le biais d'avenants de chacune des 3 conventions rend son application complexe.</p><p align='left'>Les parties ont donc décidé de refondre les trois conventions collectives nationales en une seule avec une partie commune aux trois catégories de personnel et trois annexes pour les dispositions spécifiques aux trois catégories professionnelles.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
             }
           ]
         },
         {
-          "id": "KALISCTA000037238321",
+          "type": "section",
           "intOrdre": 1074003967,
           "title": "II. – Annexe 1 Avenant ouvriers",
+          "id": "KALISCTA000037238321",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000037217664",
               "num": "11",
               "intOrdre": 1968526670,
@@ -223,28 +246,21 @@
           ]
         },
         {
-          "id": "KALISCTA000037238327",
+          "type": "section",
           "intOrdre": 1610743807,
           "title": "III. – Annexe 2 Avenant ETDAM",
+          "id": "KALISCTA000037238327",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
-              "id": "KALIARTI000037217691",
-              "num": "13",
-              "intOrdre": 2045222520,
-              "content": "<p align='left'><br/>Le personnel travaillant selon les modalités du forfait jour doit bénéficier d'une rémunération annuelle de base au moins égale à 115 % du minimum conventionnel annuel de sa catégorie.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Compensation des sujétions"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000037238555",
+              "type": "section",
               "intOrdre": 2096353083,
               "title": "Annexe Tableau récapitulatif des classifications et description des emplois",
+              "id": "KALISCTA000037238555",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000037217694",
                   "num": null,
                   "intOrdre": 1073741823,
@@ -252,32 +268,34 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000037217691",
+              "num": "13",
+              "intOrdre": 2045222520,
+              "content": "<p align='left'><br/>Le personnel travaillant selon les modalités du forfait jour doit bénéficier d'une rémunération annuelle de base au moins égale à 115 % du minimum conventionnel annuel de sa catégorie.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Compensation des sujétions"
             }
           ]
         },
         {
-          "id": "KALISCTA000037238333",
+          "type": "section",
           "intOrdre": 1879113727,
           "title": "IV. - Annexe 3 Avenant cadres",
+          "id": "KALISCTA000037238333",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
-              "id": "KALIARTI000037217717",
-              "num": "13",
-              "intOrdre": 2028178999,
-              "content": "<p align='left'><br/>Le personnel effectuant des astreintes, et/ou travaillant occasionnellement le dimanche, un jour férié ou la nuit, et/ou travaillant en forfait jour, bénéficiera d'un jour de congé supplémentaire par an.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Compensation des sujétions"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000037238691",
+              "type": "section",
               "intOrdre": 2087831323,
               "title": "Annexe Tableau récapitulatif des classifications et description des emplois\n\n\n",
+              "id": "KALISCTA000037238691",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000037217720",
                   "num": null,
                   "intOrdre": 1073741823,
@@ -285,23 +303,51 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000037217717",
+              "num": "13",
+              "intOrdre": 2028178999,
+              "content": "<p align='left'><br/>Le personnel effectuant des astreintes, et/ou travaillant occasionnellement le dimanche, un jour férié ou la nuit, et/ou travaillant en forfait jour, bénéficiera d'un jour de congé supplémentaire par an.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Compensation des sujétions"
             }
           ]
         }
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000038435187",
+          "type": "section",
           "title": "Accord de méthode du 25 septembre 2018 en vue d'un rapprochement de la branche chaux avec une branche de l'industrie",
-          "dateParution": 1556755200000,
-          "articles": [
+          "id": "KALITEXT000038435187",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000038435190",
+              "etat": "VIGUEUR_NON_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000038435202",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p></p><p align='left'>Dans le cadre des ordonnances relatives à la réforme du code du travail de septembre 2017, le dispositif de rapprochement des branches initié par les lois du 5 mars 2014 et du 8 août 2016 a été confirmé.</p><p align='left'>L'objectif poursuivi est de favoriser le regroupement de branches.</p><p align='left'>Dans ce contexte, les partenaires sociaux de la branche de l'Industrie de la chaux ont décidé de se réunir pour élaborer un accord de méthode en vue d'un rapprochement de la branche chaux avec une branche de l'industrie afin de former un ensemble économique et social cohérent, notamment pour les salariés de la branche chaux.</p><p align='left'>Cet accord doit permettre de favoriser la mutualisation et la continuité d'un dialogue social constructif.</p><p align='left'>Les partenaires sociaux soulignent à ce sujet que la branche des Industries de la chaux a participé aux négociations interbranches relatives à la mise en place d'un accord relatif à la Formation professionnelle continue avec le secteur des matériaux de construction pour l'industrie, et plus spécifiquement depuis 2010, lors de la création de l'OPCA 3 +. Ces branches sont d'ailleurs réunies dans la même section paritaire professionnelle de l'OPCA 3 + sous l'appellation matériaux de construction des industries (MCI).</p><p></p>",
+                  "etat": "VIGUEUR_NON_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000038435191",
               "num": "1er",
               "intOrdre": 1048574,
@@ -310,6 +356,7 @@
               "surtitre": "Champ d'application de l'accord"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038435192",
               "num": "2",
               "intOrdre": 1572861,
@@ -318,6 +365,7 @@
               "surtitre": "Désignation de la branche de rapprochement"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038435193",
               "num": "3",
               "intOrdre": 2097148,
@@ -326,6 +374,7 @@
               "surtitre": "La méthode de rapprochement"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038435194",
               "num": "4",
               "intOrdre": 2621435,
@@ -334,6 +383,7 @@
               "surtitre": "Représentativité"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038435195",
               "num": "5",
               "intOrdre": 3145722,
@@ -342,6 +392,7 @@
               "surtitre": "Entrée en vigueur. – Clause de rendez-vous. – Dépôt"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038435197",
               "num": "6",
               "intOrdre": 3670009,
@@ -350,6 +401,7 @@
               "surtitre": "Adhésion"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038435199",
               "num": "7",
               "intOrdre": 4194296,
@@ -357,31 +409,32 @@
               "etat": "VIGUEUR_NON_ETEN",
               "surtitre": "Dénonciation, révision"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000038435190",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000038435202",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p></p><p align='left'>Dans le cadre des ordonnances relatives à la réforme du code du travail de septembre 2017, le dispositif de rapprochement des branches initié par les lois du 5 mars 2014 et du 8 août 2016 a été confirmé.</p><p align='left'>L'objectif poursuivi est de favoriser le regroupement de branches.</p><p align='left'>Dans ce contexte, les partenaires sociaux de la branche de l'Industrie de la chaux ont décidé de se réunir pour élaborer un accord de méthode en vue d'un rapprochement de la branche chaux avec une branche de l'industrie afin de former un ensemble économique et social cohérent, notamment pour les salariés de la branche chaux.</p><p align='left'>Cet accord doit permettre de favoriser la mutualisation et la continuité d'un dialogue social constructif.</p><p align='left'>Les partenaires sociaux soulignent à ce sujet que la branche des Industries de la chaux a participé aux négociations interbranches relatives à la mise en place d'un accord relatif à la Formation professionnelle continue avec le secteur des matériaux de construction pour l'industrie, et plus spécifiquement depuis 2010, lors de la création de l'OPCA 3 +. Ces branches sont d'ailleurs réunies dans la même section paritaire professionnelle de l'OPCA 3 + sous l'appellation matériaux de construction des industries (MCI).</p><p></p>",
-                  "etat": "VIGUEUR_NON_ETEN"
-                }
-              ]
-            }
           ]
         },
         {
-          "id": "KALITEXT000037217510",
+          "type": "section",
           "title": "Accord du 16 janvier 2018 relatif à l'enregistrement et l'extension de la convention collective du 16 janvier 2018 en remplacement de la CC du 2 décembre 2012 (brochure n° 3064)",
-          "dateParution": 1531872000000,
-          "articles": [
+          "id": "KALITEXT000037217510",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000037217513",
+              "etat": "VIGUEUR_NON_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000037217518",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'>La branche chaux a rédigé une <a alt='Convention collective nationale des industries de la fabrication de la chaux du 4 décembre 2012 (VNE)' href='/affichIDCC.do?cidTexte=KALITEXT000027547570&categorieLien=cid'>convention collective en 2012</a> fusionnant ainsi les 3 idcc existantes, ouvriers, ETAM et cadres en un document unique. </p><p align='left'>Cette convention collective a été signée par 2 organisations syndicales, la CFDT et la CFTC, la CGT ne s'opposant pas. </p><p align='left'>La nouvelle règle sur la représentativité, bien que notre accord ait été signé en 2012, a joué en la défaveur de l'extension demandée. </p><p align='left'>La convention collective de la branche chaux a donc été enregistrée mais non étendue. </p><p align='left'>Notre travail de simplification et d'unification de la CC chaux avait déjà pour objectif de nous permettre d'aborder une réflexion sur un rapprochement ultérieur avec une autre branche professionnelle. </p><p align='left'>Dans le cadre de notre première réunion paritaire CPPNI du 16 janvier 2018, et compte tenu de la concentration des branches représentatives, les partenaires sociaux de la branche chaux proposent de présenter à nouveau à la signature le texte brochure n° 3064 non modifié pour en demander l'extension afin que toutes les entreprises adhérentes et non adhérentes soient enfin couvertes par le même texte. </p><p align='left'>Ceci afin d'être en mesure de présenter une branche unie dans le cadre d'un rapprochement de branche souhaité par le ministère. </p><p align='left'>Il s'agit aussi pour nous, d'être uni et représentatif pour continuer à peser lors de la finalisation du rapprochement. </p><p align='left'>Les partenaires sociaux ont parfaitement conscience que des remarques et commentaires seront faits puisque : <br/>– ce texte est le même que celui passé en commission d'extension en 2014 ; <br/>– qu'il ne fait pas référence aux nouvelles lois Rebsamen, Macron, etc. </p><p align='left'>Ce choix est assumé car les nouveaux textes réglementaires publiés depuis 2014 sont nombreux et demandent en plus, pour ceux parus en 2017, des réflexions que nous engagerons dans le cadre des réunions paritaires CPPNI en ce qui concerne notamment les blocs I et II. </p><p align='left'>Ceci nous laissera aussi le temps de modifier les références inexactes, les articles à supprimer que nous travaillerons dans ces mêmes réunions de la CPPNI et pour lesquels nous présenterons des avenants. </p><p align='left'>Mais surtout ceci nous permettra de commencer à discuter du rapprochement de notre branche sur des bases qui prennent en compte la totalité des entreprises de la chaux adhérentes ou non adhérentes à l'organisation professionnelle.</p>",
+                  "etat": "VIGUEUR_NON_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000037217514",
               "num": "1er",
               "intOrdre": 1048574,
@@ -390,6 +443,7 @@
               "surtitre": "Objet"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037217515",
               "num": "2",
               "intOrdre": 1572861,
@@ -398,29 +452,13 @@
               "surtitre": "Durée"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037217516",
               "num": "3",
               "intOrdre": 2097148,
               "content": "<p align='left'><br/>Le présent accord fera l'objet d'un dépôt auprès des services centraux du ministre chargé du travail dans les conditions fixées à l'<a alt='Code du travail - art. D2231-3 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485209&dateTexte=&categorieLien=cid'>article D. 2231-3 du code du travail</a>.</p>",
               "etat": "VIGUEUR_NON_ETEN",
               "surtitre": "Dépôt"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000037217513",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000037217518",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'>La branche chaux a rédigé une <a alt='Convention collective nationale des industries de la fabrication de la chaux du 4 décembre 2012 (VNE)' href='/affichIDCC.do?cidTexte=KALITEXT000027547570&categorieLien=cid'>convention collective en 2012</a> fusionnant ainsi les 3 idcc existantes, ouvriers, ETAM et cadres en un document unique. </p><p align='left'>Cette convention collective a été signée par 2 organisations syndicales, la CFDT et la CFTC, la CGT ne s'opposant pas. </p><p align='left'>La nouvelle règle sur la représentativité, bien que notre accord ait été signé en 2012, a joué en la défaveur de l'extension demandée. </p><p align='left'>La convention collective de la branche chaux a donc été enregistrée mais non étendue. </p><p align='left'>Notre travail de simplification et d'unification de la CC chaux avait déjà pour objectif de nous permettre d'aborder une réflexion sur un rapprochement ultérieur avec une autre branche professionnelle. </p><p align='left'>Dans le cadre de notre première réunion paritaire CPPNI du 16 janvier 2018, et compte tenu de la concentration des branches représentatives, les partenaires sociaux de la branche chaux proposent de présenter à nouveau à la signature le texte brochure n° 3064 non modifié pour en demander l'extension afin que toutes les entreprises adhérentes et non adhérentes soient enfin couvertes par le même texte. </p><p align='left'>Ceci afin d'être en mesure de présenter une branche unie dans le cadre d'un rapprochement de branche souhaité par le ministère. </p><p align='left'>Il s'agit aussi pour nous, d'être uni et représentatif pour continuer à peser lors de la finalisation du rapprochement. </p><p align='left'>Les partenaires sociaux ont parfaitement conscience que des remarques et commentaires seront faits puisque : <br/>– ce texte est le même que celui passé en commission d'extension en 2014 ; <br/>– qu'il ne fait pas référence aux nouvelles lois Rebsamen, Macron, etc. </p><p align='left'>Ce choix est assumé car les nouveaux textes réglementaires publiés depuis 2014 sont nombreux et demandent en plus, pour ceux parus en 2017, des réflexions que nous engagerons dans le cadre des réunions paritaires CPPNI en ce qui concerne notamment les blocs I et II. </p><p align='left'>Ceci nous laissera aussi le temps de modifier les références inexactes, les articles à supprimer que nous travaillerons dans ces mêmes réunions de la CPPNI et pour lesquels nous présenterons des avenants. </p><p align='left'>Mais surtout ceci nous permettra de commencer à discuter du rapprochement de notre branche sur des bases qui prennent en compte la totalité des entreprises de la chaux adhérentes ou non adhérentes à l'organisation professionnelle.</p>",
-                  "etat": "VIGUEUR_NON_ETEN"
-                }
-              ]
             }
           ]
         }

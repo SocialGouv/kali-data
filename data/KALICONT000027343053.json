@@ -1,25 +1,26 @@
 {
+  "type": "section",
+  "title": "Convention collective des employés, techniciens et agents de maîtrise du bâtiment, travaux publics et activités annexes (Martinique) du 31 mai 2012",
   "id": "KALICONT000027343053",
   "num": "3107",
-  "title": "Convention collective des employés, techniciens et agents de maîtrise du bâtiment, travaux publics et activités annexes (Martinique) du 31 mai 2012",
   "shortTitle": "Bâtiment Tp Etam Martinique",
-  "categorisation": [
-    "Bâtiment et travaux publics et activités annexes ETAM (Martinique)"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000027206504",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective des employés, techniciens et agents de maîtrise du bâtiment, travaux publics et activités annexes (Martinique) du 31 mai 2012",
+      "id": "KALITEXT000027206504",
       "etat": "VIGUEUR_ETEN",
-      "sections": [
+      "children": [
         {
-          "id": "KALISCTA000027206506",
+          "type": "section",
           "intOrdre": 524287,
           "title": "Titre Ier Dispositions générales",
+          "id": "KALISCTA000027206506",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000027206535",
               "num": "1.8.6",
               "intOrdre": 7340018,
@@ -30,12 +31,14 @@
           ]
         },
         {
-          "id": "KALISCTA000027206507",
+          "type": "section",
           "intOrdre": 1048574,
           "title": "Titre II Contrat de travail",
+          "id": "KALISCTA000027206507",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000027206544",
               "num": "2.8",
               "intOrdre": 4194296,
@@ -46,18 +49,21 @@
           ]
         },
         {
-          "id": "KALISCTA000027206508",
+          "type": "section",
           "intOrdre": 1572861,
           "title": "Titre III Classification et rémunération",
+          "id": "KALISCTA000027206508",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000027206545",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Chapitre III.1 Classification",
+              "id": "KALISCTA000027206545",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000027206599",
                   "num": "3.1.5",
                   "intOrdre": 3145722,
@@ -68,12 +74,14 @@
               ]
             },
             {
-              "id": "KALISCTA000027206546",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre III.2 Rémunération",
+              "id": "KALISCTA000027206546",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000027206603",
                   "num": "3.2.4",
                   "intOrdre": 2097148,
@@ -86,18 +94,21 @@
           ]
         },
         {
-          "id": "KALISCTA000027206509",
+          "type": "section",
           "intOrdre": 2097148,
           "title": "Titre IV Durée et organisation du travail",
+          "id": "KALISCTA000027206509",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000027206547",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Chapitre IV.1 Horaires de travail",
+              "id": "KALISCTA000027206547",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000027206609",
                   "num": "4.1.5",
                   "intOrdre": 2621435,
@@ -108,12 +119,14 @@
               ]
             },
             {
-              "id": "KALISCTA000027206548",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre IV.2 Organisation du travail",
+              "id": "KALISCTA000027206548",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000027206619",
                   "num": "4.2.9",
                   "intOrdre": 4718583,
@@ -126,12 +139,14 @@
           ]
         },
         {
-          "id": "KALISCTA000027206510",
+          "type": "section",
           "intOrdre": 2621435,
           "title": "Titre V Congés payés. – Autorisations d'absence. – Jours fériés",
+          "id": "KALISCTA000027206510",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000027206559",
               "num": "5.3",
               "intOrdre": 3670009,
@@ -142,12 +157,14 @@
           ]
         },
         {
-          "id": "KALISCTA000027206511",
+          "type": "section",
           "intOrdre": 3145722,
           "title": "Titre VI Protection sociale",
+          "id": "KALISCTA000027206511",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000027206569",
               "num": "6.9",
               "intOrdre": 5242870,
@@ -158,18 +175,21 @@
           ]
         },
         {
-          "id": "KALISCTA000027206512",
+          "type": "section",
           "intOrdre": 3670009,
           "title": "Titre VII Déplacements",
+          "id": "KALISCTA000027206512",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000027206571",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Chapitre VII.1 Déplacements des ETAM en Martinique",
+              "id": "KALISCTA000027206571",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000027206627",
                   "num": "7.1.2",
                   "intOrdre": 1048574,
@@ -180,28 +200,21 @@
               ]
             },
             {
-              "id": "KALISCTA000027206572",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre VII.2 Déplacements des ETAM hors Martinique",
+              "id": "KALISCTA000027206572",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
-                  "id": "KALIARTI000027206629",
-                  "num": "7.2.2",
-                  "intOrdre": 1048574,
-                  "content": "<p align='left'><br/>L'entreprise assure à l'ETAM amené à se déplacer hors de Martinique, et cela quelle que soit la durée du déplacement, une garantie couvrant les frais d'accidents, notamment le rapatriement, le décès, l'invalidité, l'assistance juridique.<br/>L'entreprise doit assurer, dans la mesure du possible, la continuité des garanties collectives (retraites, couverture des risques d'invalidité, décès, accidents du travail, maladie, accidents et perte d'emploi) avec celles des régimes en vigueur en Martinique.</p>",
-                  "etat": "VIGUEUR_ETEN",
-                  "surtitre": "Assurance et garanties collectives"
-                }
-              ],
-              "sections": [
-                {
-                  "id": "KALISCTA000027206630",
+                  "type": "section",
                   "intOrdre": 1572861,
                   "title": "Section 1 Déplacements inférieurs à 3 mois",
+                  "id": "KALISCTA000027206630",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000027206644",
                       "num": "7.2.3",
                       "intOrdre": 524287,
@@ -212,12 +225,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000027206631",
+                  "type": "section",
                   "intOrdre": 2097148,
                   "title": "Section 2 Déplacements supérieurs à 3 mois",
+                  "id": "KALISCTA000027206631",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000027206648",
                       "num": "7.2.7",
                       "intOrdre": 2097148,
@@ -226,34 +241,36 @@
                       "surtitre": "Retour en Martinique"
                     }
                   ]
+                },
+                {
+                  "type": "article",
+                  "id": "KALIARTI000027206629",
+                  "num": "7.2.2",
+                  "intOrdre": 1048574,
+                  "content": "<p align='left'><br/>L'entreprise assure à l'ETAM amené à se déplacer hors de Martinique, et cela quelle que soit la durée du déplacement, une garantie couvrant les frais d'accidents, notamment le rapatriement, le décès, l'invalidité, l'assistance juridique.<br/>L'entreprise doit assurer, dans la mesure du possible, la continuité des garanties collectives (retraites, couverture des risques d'invalidité, décès, accidents du travail, maladie, accidents et perte d'emploi) avec celles des régimes en vigueur en Martinique.</p>",
+                  "etat": "VIGUEUR_ETEN",
+                  "surtitre": "Assurance et garanties collectives"
                 }
               ]
             }
           ]
         },
         {
-          "id": "KALISCTA000027206513",
+          "type": "section",
           "intOrdre": 4194296,
           "title": "Titre VIII Rupture du contrat de travail",
+          "id": "KALISCTA000027206513",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
-              "id": "KALIARTI000027206576",
-              "num": "8.3",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Pendant la période de préavis, l'ETAM licencié est autorisé, s'il en fait la demande, à s'absenter pour recherche d'emploi pendant 5 journées ou 10 demi-journées par mois, prises en une ou plusieurs fois. Les autorisations d'absence seront fixées moitié au gré de l'ETAM, moitié au gré de l'entreprise et moyennant information réciproque. Pendant ces absences la rémunération est maintenue, aucune indemnité n'étant due si ces journées ou demi-journées d'absence ne sont pas utilisées.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Autorisations d'absence pour recherche d'emploi"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000027206577",
+              "type": "section",
               "intOrdre": 2097148,
               "title": "Licenciement",
+              "id": "KALISCTA000027206577",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000027206633",
                   "num": "8.5",
                   "intOrdre": 1048574,
@@ -264,12 +281,14 @@
               ]
             },
             {
-              "id": "KALISCTA000027206578",
+              "type": "section",
               "intOrdre": 2621435,
               "title": "Mise à la retraite",
+              "id": "KALISCTA000027206578",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000027206637",
                   "num": "8.9",
                   "intOrdre": 2097148,
@@ -280,12 +299,14 @@
               ]
             },
             {
-              "id": "KALISCTA000027206579",
+              "type": "section",
               "intOrdre": 3145722,
               "title": "Départ à la retraite",
+              "id": "KALISCTA000027206579",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000027206641",
                   "num": "8.12",
                   "intOrdre": 1572861,
@@ -296,12 +317,14 @@
               ]
             },
             {
-              "id": "KALISCTA000027206580",
+              "type": "section",
               "intOrdre": 3670009,
               "title": "Dispositions communes",
+              "id": "KALISCTA000027206580",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000027206643",
                   "num": "8.14",
                   "intOrdre": 1048574,
@@ -310,16 +333,27 @@
                   "surtitre": "Engagements successifs"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027206576",
+              "num": "8.3",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Pendant la période de préavis, l'ETAM licencié est autorisé, s'il en fait la demande, à s'absenter pour recherche d'emploi pendant 5 journées ou 10 demi-journées par mois, prises en une ou plusieurs fois. Les autorisations d'absence seront fixées moitié au gré de l'ETAM, moitié au gré de l'entreprise et moyennant information réciproque. Pendant ces absences la rémunération est maintenue, aucune indemnité n'étant due si ces journées ou demi-journées d'absence ne sont pas utilisées.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Autorisations d'absence pour recherche d'emploi"
             }
           ]
         },
         {
-          "id": "KALISCTA000027206514",
+          "type": "section",
           "intOrdre": 4718583,
           "title": "Titre IX Autres dispositions",
+          "id": "KALISCTA000027206514",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000027206582",
               "num": "9.2",
               "intOrdre": 1048574,
@@ -330,12 +364,14 @@
           ]
         },
         {
-          "id": "KALISCTA000027206515",
+          "type": "section",
           "intOrdre": 5242870,
           "title": "Titre X Dispositions finales",
+          "id": "KALISCTA000027206515",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000027206590",
               "num": "10.5",
               "intOrdre": 2621435,
@@ -346,12 +382,14 @@
           ]
         },
         {
-          "id": "KALISCTA000027206516",
+          "type": "section",
           "intOrdre": 5767157,
           "title": "Annexe",
+          "id": "KALISCTA000027206516",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000027206591",
               "num": null,
               "intOrdre": 524287,
@@ -363,17 +401,19 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000036512208",
+          "type": "section",
           "title": "Accord du 12 octobre 2017 relatif aux congés pour événements familiaux",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000036512208",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036512211",
               "num": null,
               "intOrdre": 524287,
@@ -385,17 +425,19 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 3,
       "title": "Textes Salaires",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000035993578",
+          "type": "section",
           "title": "Accord du 26 juillet 2017 relatif aux salaires au 1er août 2017",
-          "dateParution": 1510185600000,
-          "articles": [
+          "id": "KALITEXT000035993578",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000035993580",
               "num": "1er",
               "intOrdre": 524287,
@@ -404,6 +446,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000035993581",
               "num": "2",
               "intOrdre": 1048574,
@@ -412,6 +455,7 @@
               "surtitre": "Salaires"
             },
             {
+              "type": "article",
               "id": "KALIARTI000035993582",
               "num": "3",
               "intOrdre": 1572861,
@@ -419,6 +463,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000035993583",
               "num": "4",
               "intOrdre": 2097148,
@@ -426,6 +471,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000035993584",
               "num": "5",
               "intOrdre": 2621435,
@@ -435,11 +481,12 @@
           ]
         },
         {
-          "id": "KALITEXT000031424430",
+          "type": "section",
           "title": "Accord du 9 juin 2015 relatif aux salaires à compter du 1er juin 2015",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000031424430",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000031424433",
               "num": "1er",
               "intOrdre": 524287,
@@ -448,6 +495,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000031424434",
               "num": "2",
               "intOrdre": 1048574,
@@ -456,6 +504,7 @@
               "surtitre": "Salaires"
             },
             {
+              "type": "article",
               "id": "KALIARTI000031424435",
               "num": "3",
               "intOrdre": 1572861,
@@ -463,6 +512,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000031424436",
               "num": "4",
               "intOrdre": 2097148,
@@ -470,6 +520,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000031424437",
               "num": "5",
               "intOrdre": 2621435,
@@ -479,11 +530,12 @@
           ]
         },
         {
-          "id": "KALITEXT000029617169",
+          "type": "section",
           "title": "Accord du 24 juin 2014 relatif aux salaires au 1er juin 2014",
-          "dateParution": 1413936000000,
-          "articles": [
+          "id": "KALITEXT000029617169",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000029617172",
               "num": "1er",
               "intOrdre": 524287,
@@ -492,6 +544,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029617173",
               "num": "2",
               "intOrdre": 1048574,
@@ -500,6 +553,7 @@
               "surtitre": "Salaires"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029617174",
               "num": "3",
               "intOrdre": 1572861,
@@ -507,6 +561,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029617175",
               "num": "4",
               "intOrdre": 2097148,
@@ -514,6 +569,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029617176",
               "num": "5",
               "intOrdre": 2621435,

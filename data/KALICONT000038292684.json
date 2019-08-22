@@ -1,34 +1,26 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale de travail du personnel des organismes de sécurité sociale du 8 février 1957",
   "id": "KALICONT000038292684",
   "num": "218",
-  "title": "Convention collective nationale de travail du personnel des organismes de sécurité sociale du 8 février 1957",
   "shortTitle": "Sécurité Sociale Organismes",
-  "categorisation": [
-    "Personnel des organismes de sécurité sociale"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000038276879",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale de travail du personnel des organismes de sécurité sociale du 8 février 1957",
+      "id": "KALITEXT000038276879",
       "etat": "VIGUEUR_NON_ETEN",
-      "articles": [
+      "children": [
         {
-          "id": "KALIARTI000038309173",
-          "num": null,
-          "intOrdre": 262143,
-          "content": "<p>NOTA : Les textes attachés à la convention collective seront intégrés sur le site ultérieurement.</p>",
-          "etat": "VIGUEUR_NON_ETEN"
-        }
-      ],
-      "sections": [
-        {
-          "id": "KALISCTA000038276882",
+          "type": "section",
           "intOrdre": 1048574,
           "title": "A. – Dispositions générales",
+          "id": "KALISCTA000038276882",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038276904",
               "num": "3",
               "intOrdre": 1572861,
@@ -38,12 +30,14 @@
           ]
         },
         {
-          "id": "KALISCTA000038276883",
+          "type": "section",
           "intOrdre": 1572861,
           "title": "B. – Délégués du personnel et comité d'entreprise",
+          "id": "KALISCTA000038276883",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038276906",
               "num": "5",
               "intOrdre": 1048574,
@@ -53,12 +47,14 @@
           ]
         },
         {
-          "id": "KALISCTA000038276884",
+          "type": "section",
           "intOrdre": 2097148,
           "title": "C. – Conciliation",
+          "id": "KALISCTA000038276884",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038276911",
               "num": "10",
               "intOrdre": 2621435,
@@ -68,12 +64,14 @@
           ]
         },
         {
-          "id": "KALISCTA000038276885",
+          "type": "section",
           "intOrdre": 2621435,
           "title": "D. – Droit syndical",
+          "id": "KALISCTA000038276885",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038276915",
               "num": "13",
               "intOrdre": 1572861,
@@ -83,12 +81,14 @@
           ]
         },
         {
-          "id": "KALISCTA000038276886",
+          "type": "section",
           "intOrdre": 3145722,
           "title": "E. – Recrutement",
+          "id": "KALISCTA000038276886",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038276921",
               "num": "18",
               "intOrdre": 2621435,
@@ -98,12 +98,14 @@
           ]
         },
         {
-          "id": "KALISCTA000038276887",
+          "type": "section",
           "intOrdre": 3670009,
           "title": "F. – Classification et salaires du personnel",
+          "id": "KALISCTA000038276887",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038276931",
               "num": "28",
               "intOrdre": 5242870,
@@ -113,12 +115,14 @@
           ]
         },
         {
-          "id": "KALISCTA000038276888",
+          "type": "section",
           "intOrdre": 4194296,
           "title": "G. – Avancement",
+          "id": "KALISCTA000038276888",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038276940",
               "num": "37",
               "intOrdre": 4718583,
@@ -128,12 +132,14 @@
           ]
         },
         {
-          "id": "KALISCTA000038276889",
+          "type": "section",
           "intOrdre": 4718583,
           "title": "H. – Congés annuels",
+          "id": "KALISCTA000038276889",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038276941",
               "num": "38",
               "intOrdre": 524287,
@@ -143,12 +149,14 @@
           ]
         },
         {
-          "id": "KALISCTA000038276890",
+          "type": "section",
           "intOrdre": 5242870,
           "title": "I. – Congés de courte durée",
+          "id": "KALISCTA000038276890",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038276942",
               "num": "39",
               "intOrdre": 524287,
@@ -158,12 +166,14 @@
           ]
         },
         {
-          "id": "KALISCTA000038276891",
+          "type": "section",
           "intOrdre": 5767157,
           "title": "J. – Congés sans solde",
+          "id": "KALISCTA000038276891",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038276943",
               "num": "40",
               "intOrdre": 524287,
@@ -173,12 +183,14 @@
           ]
         },
         {
-          "id": "KALISCTA000038276892",
+          "type": "section",
           "intOrdre": 6291444,
           "title": "K. – Congés maladie",
+          "id": "KALISCTA000038276892",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038276948",
               "num": "44",
               "intOrdre": 2097148,
@@ -188,12 +200,14 @@
           ]
         },
         {
-          "id": "KALISCTA000038276893",
+          "type": "section",
           "intOrdre": 6815731,
           "title": "L. – Congés maternité",
+          "id": "KALISCTA000038276893",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038276950",
               "num": "46",
               "intOrdre": 1048574,
@@ -203,12 +217,14 @@
           ]
         },
         {
-          "id": "KALISCTA000038276894",
+          "type": "section",
           "intOrdre": 7340018,
           "title": "M. Obligations militaires",
+          "id": "KALISCTA000038276894",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038276951",
               "num": "47",
               "intOrdre": 524287,
@@ -218,12 +234,14 @@
           ]
         },
         {
-          "id": "KALISCTA000038276895",
+          "type": "section",
           "intOrdre": 7864305,
           "title": "N. – Mesures disciplinaires",
+          "id": "KALISCTA000038276895",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038276957",
               "num": "53",
               "intOrdre": 3145722,
@@ -233,12 +251,14 @@
           ]
         },
         {
-          "id": "KALISCTA000038276896",
+          "type": "section",
           "intOrdre": 8388592,
           "title": "0 – Délai-congé – Indemnité de licenciement",
+          "id": "KALISCTA000038276896",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038276960",
               "num": "56",
               "intOrdre": 1572861,
@@ -248,12 +268,14 @@
           ]
         },
         {
-          "id": "KALISCTA000038276897",
+          "type": "section",
           "intOrdre": 8912879,
           "title": "P. – Compressions de personnel et suppressions d'emplois",
+          "id": "KALISCTA000038276897",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038276961",
               "num": "57",
               "intOrdre": 524287,
@@ -263,12 +285,14 @@
           ]
         },
         {
-          "id": "KALISCTA000038276898",
+          "type": "section",
           "intOrdre": 9437166,
           "title": "Q. – Agents atteints par la limite d'âge",
+          "id": "KALISCTA000038276898",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038276963",
               "num": "59",
               "intOrdre": 1048574,
@@ -278,12 +302,14 @@
           ]
         },
         {
-          "id": "KALISCTA000038276899",
+          "type": "section",
           "intOrdre": 9961453,
           "title": "R. – Dispositions spéciales en cas de décès",
+          "id": "KALISCTA000038276899",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038276964",
               "num": "60",
               "intOrdre": 524287,
@@ -293,12 +319,14 @@
           ]
         },
         {
-          "id": "KALISCTA000038276900",
+          "type": "section",
           "intOrdre": 10485740,
           "title": "S. – Régime de prévoyance",
+          "id": "KALISCTA000038276900",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038276965",
               "num": "61",
               "intOrdre": 524287,
@@ -308,12 +336,14 @@
           ]
         },
         {
-          "id": "KALISCTA000038276901",
+          "type": "section",
           "intOrdre": 11010027,
           "title": "T. – Règlement intérieur",
+          "id": "KALISCTA000038276901",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038276967",
               "num": "63",
               "intOrdre": 1048574,
@@ -321,21 +351,31 @@
               "etat": "VIGUEUR_NON_ETEN"
             }
           ]
+        },
+        {
+          "type": "article",
+          "id": "KALIARTI000038309173",
+          "num": null,
+          "intOrdre": 262143,
+          "content": "<p>NOTA : Les textes attachés à la convention collective seront intégrés sur le site ultérieurement.</p>",
+          "etat": "VIGUEUR_NON_ETEN"
         }
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000028901418",
+          "type": "section",
           "title": "Accord du 1er octobre 2013 relatif à la création d'une commission paritaire de validation des accords",
-          "dateParution": 1399248000000,
-          "articles": [
+          "id": "KALITEXT000028901418",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000028901420",
               "num": "1er",
               "intOrdre": 524287,
@@ -344,6 +384,7 @@
               "surtitre": "Missions de la commission paritaire nationale de validation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028901422",
               "num": "2",
               "intOrdre": 1048574,
@@ -352,6 +393,7 @@
               "surtitre": "Composition de la commission paritaire nationale de validation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028901423",
               "num": "3",
               "intOrdre": 1572861,
@@ -360,6 +402,7 @@
               "surtitre": "Fonctionnement de la commission paritaire nationale de validation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028901424",
               "num": "4",
               "intOrdre": 2097148,

@@ -1,6 +1,6 @@
 {
   "name": "@socialgouv/kali-data",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "homepage": "https://github.com/SocialGouv/kali-data",
   "repository": "https://github.com/SocialGouv/kali-data.git",
   "main": "index.js",
@@ -10,6 +10,7 @@
   ],
   "scripts": {
     "fetch": "node -r esm scripts/fetch-ccns.js",
+    "list": "node -r esm scripts/list-ccns.js",
     "lint": "eslint scripts/*"
   },
   "dependencies": {

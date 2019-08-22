@@ -1,25 +1,26 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale de la production audiovisuelle du 13 décembre 2006",
   "id": "KALICONT000018828041",
   "num": "2642",
-  "title": "Convention collective nationale de la production audiovisuelle du 13 décembre 2006",
   "shortTitle": "Production Audiovisuelle",
-  "categorisation": [
-    "Production audiovisuelle"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000018828046",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale de la production audiovisuelle du 13 décembre 2006",
+      "id": "KALITEXT000018828046",
       "etat": "VIGUEUR_ETEN",
-      "sections": [
+      "children": [
         {
-          "id": "KALISCTA000018828048",
+          "type": "section",
           "intOrdre": 524287,
           "title": "Préambule",
+          "id": "KALISCTA000018828048",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000033669831",
               "num": null,
               "intOrdre": 524287,
@@ -29,12 +30,14 @@
           ]
         },
         {
-          "id": "KALISCTA000018828049",
+          "type": "section",
           "intOrdre": 1048574,
           "title": "Titre Ier : Champ de la convention collective de la production audiovisuelle",
+          "id": "KALISCTA000018828049",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036084661",
               "num": null,
               "intOrdre": 524287,
@@ -44,12 +47,14 @@
           ]
         },
         {
-          "id": "KALISCTA000018828050",
+          "type": "section",
           "intOrdre": 1572861,
           "title": "Titre II : Liberté civique et égalité",
+          "id": "KALISCTA000018828050",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000020563124",
               "num": "II.2",
               "intOrdre": 1048574,
@@ -60,12 +65,14 @@
           ]
         },
         {
-          "id": "KALISCTA000018828051",
+          "type": "section",
           "intOrdre": 2097148,
           "title": "Titre III : Droit syndical et représentation des salariés",
+          "id": "KALISCTA000018828051",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038584955",
               "num": "III.5",
               "intOrdre": 2621435,
@@ -76,12 +83,14 @@
           ]
         },
         {
-          "id": "KALISCTA000018828052",
+          "type": "section",
           "intOrdre": 2621435,
           "title": "Titre IV : Fonctions, salaires et ancienneté",
+          "id": "KALISCTA000018828052",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036084659",
               "num": "IV.1",
               "intOrdre": 524287,
@@ -92,12 +101,14 @@
           ]
         },
         {
-          "id": "KALISCTA000018828053",
+          "type": "section",
           "intOrdre": 3145722,
           "title": "Titre V : Contrats de travail",
+          "id": "KALISCTA000018828053",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000033669824",
               "num": "V.2",
               "intOrdre": 1572861,
@@ -108,12 +119,14 @@
           ]
         },
         {
-          "id": "KALISCTA000018828054",
+          "type": "section",
           "intOrdre": 3670009,
           "title": "Titre VI : Durée du travail",
+          "id": "KALISCTA000018828054",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000037045872",
               "num": "VI.7",
               "intOrdre": 3670009,
@@ -124,12 +137,14 @@
           ]
         },
         {
-          "id": "KALISCTA000018828055",
+          "type": "section",
           "intOrdre": 4194296,
           "title": "Titre VII : Congés",
+          "id": "KALISCTA000018828055",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000037045897",
               "num": "VII.5",
               "intOrdre": 2621435,
@@ -140,12 +155,14 @@
           ]
         },
         {
-          "id": "KALISCTA000018828056",
+          "type": "section",
           "intOrdre": 4718583,
           "title": "Titre VIII : Maladie",
+          "id": "KALISCTA000018828056",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000028141154",
               "num": "VIII.2",
               "intOrdre": 1048574,
@@ -156,12 +173,14 @@
           ]
         },
         {
-          "id": "KALISCTA000018828057",
+          "type": "section",
           "intOrdre": 5242870,
           "title": "Titre IX : Prévoyance",
+          "id": "KALISCTA000018828057",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000028141170",
               "num": "IX.1",
               "intOrdre": 1048574,
@@ -172,12 +191,14 @@
           ]
         },
         {
-          "id": "KALISCTA000018828058",
+          "type": "section",
           "intOrdre": 5767157,
           "title": "Titre X : Transports et défraiements",
+          "id": "KALISCTA000018828058",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000018828222",
               "num": "X.4",
               "intOrdre": 2097148,
@@ -188,12 +209,14 @@
           ]
         },
         {
-          "id": "KALISCTA000018828059",
+          "type": "section",
           "intOrdre": 6291444,
           "title": "Titre XI : Formation",
+          "id": "KALISCTA000018828059",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000018828234",
               "num": "XI.2",
               "intOrdre": 1048574,
@@ -204,12 +227,14 @@
           ]
         },
         {
-          "id": "KALISCTA000018828060",
+          "type": "section",
           "intOrdre": 6815731,
           "title": "Titre XII : Hygiène et sécurité",
+          "id": "KALISCTA000018828060",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000020563200",
               "num": "XII.1",
               "intOrdre": 524287,
@@ -220,12 +245,14 @@
           ]
         },
         {
-          "id": "KALISCTA000018828061",
+          "type": "section",
           "intOrdre": 7340018,
           "title": "Titre XIII : Durée, révision, Commission de suivi et d'interprétation",
+          "id": "KALISCTA000018828061",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036084663",
               "num": "XIII.7",
               "intOrdre": 3670009,
@@ -236,12 +263,14 @@
           ]
         },
         {
-          "id": "KALISCTA000018828062",
+          "type": "section",
           "intOrdre": 7864305,
           "title": "ANNEXES",
+          "id": "KALISCTA000018828062",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000035249742",
               "num": "Annexe I",
               "intOrdre": 262143,
@@ -253,31 +282,19 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000029754111",
-          "title": "Adhésion par lettre du 12 septembre 2014 du SATEV à la convention",
-          "dateParution": 32472144000000,
-          "articles": [
-            {
-              "id": "KALIARTI000029754114",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p><br clear='none'/>Paris, le 12 septembre 2014. <br clear='none'/>SATEV <br clear='none'/>24, rue du Faubourg-Poissonnière <br clear='none'/>75010 Paris <br clear='none'/>Madame, Monsieur, <br clear='none'/>Le syndicat des agences de presse audiovisuelles (SATEV) vous notifie par la présente son adhésion à la  convention collective nationale de la production audiovisuelle du 13 décembre 2006  (idcc n° 2642), conformément à l'article XIII. 4 de la convention ainsi qu'aux annexes, accords et avenants attachés. <br clear='none'/>Le SATEV est composé quasi exclusivement d'entreprises ayant pour activité principale la production audiovisuelle, et relevant notamment des codes 5911. A et 5911. B de la nomenclature NAF, tel que prévu par l'alinéa 2 de l'article 1er de la convention collective relatif à son champ d'application. <br clear='none'/>Le SATEV a, par ailleurs, voté le 9 septembre 2014 une délibération spéciale excluant de sa démarche d'adhésion ses membres qui ne relèvent pas de l'activité de production audiovisuelle. Ainsi, l'adhésion s'inscrit de plein droit dans l'alinéa 1er de l'article XIII. 4 de la convention collective, sans qu'elle ait pour objet ou pour effet de modifier le champ d'application de la convention. <br clear='none'/>Cette adhésion est notifiée par lettre recommandée avec avis de réception à l'ensemble des signataires de la convention collective et fera l'objet du dépôt légal. <br clear='none'/>Veuillez agréer, Madame, Monsieur, l'expression de mes salutations respectueuses.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000038544963",
+          "type": "section",
           "title": "Avenant n° 11 du 19 décembre 2018 portant modification de l'articulation des niveaux de négociation",
-          "dateParution": 1559606400000,
-          "articles": [
+          "id": "KALITEXT000038544963",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038544966",
               "num": null,
               "intOrdre": 524287,
@@ -285,6 +302,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038544968",
               "num": "1er",
               "intOrdre": 1048574,
@@ -293,6 +311,7 @@
               "surtitre": "Articulation des niveaux de négociation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038544971",
               "num": "2",
               "intOrdre": 1572861,
@@ -303,26 +322,132 @@
           ]
         },
         {
-          "id": "KALITEXT000035993554",
-          "title": "Avenant n° 8 du 21 juin 2017 relatif à la mise en place de la commission paritaire permanente de négociation et d'interprétation (CPPNI)",
-          "dateParution": 1510185600000,
-          "articles": [
+          "type": "section",
+          "title": "Avenant n° 10 du 20 décembre 2017 relatif à la convention de forfait",
+          "id": "KALITEXT000037040967",
+          "children": [
             {
-              "id": "KALIARTI000035993557",
+              "type": "section",
+              "intOrdre": 1048574,
+              "title": "Titre 1er Convention de forfait",
+              "id": "KALISCTA000037040972",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000037040974",
+                  "num": "1er",
+                  "intOrdre": 524287,
+                  "content": "<p align='center'><br/>A. – Salariés visés </p><p align='left'><br/>L'avant-dernière phrase de l'article VI. 7.1.1 est modifiée comme suit : <br/>« Cette possibilité est cependant réservée aux salariés des catégories A et B des niveaux HN, I, II et IIIA. » </p><p align='center'><br/>B. – Régime juridique </p><p align='left'><br/>À la fin de l'article VI. 7.1.2, il est ajouté les paragraphes suivants : <br/>« Il est rédigé, dans le contrat de travail de l'intéressé, une convention déterminant : <br/>– le nombre d'heures travaillées dans l'année ; <br/>– les modalités de décomptes des heures travaillées et de prises des jours de repos ; <br/>– la rémunération ; <br/>– l'incidence des absences. »</p>",
+                  "etat": "VIGUEUR_ETEN",
+                  "surtitre": "Convention de forfait en heures"
+                },
+                {
+                  "type": "article",
+                  "id": "KALIARTI000037040976",
+                  "num": "2",
+                  "intOrdre": 1048574,
+                  "content": "<p align='center'><br/>A. – Salariés visés </p><p align='left'><br/>L'avant-dernière phrase de l'article VI. 7.2.1 est modifiée comme suit : <br/>« Cette possibilité est cependant réservée aux salariés des catégories A et B des niveaux HN, I, II, IIIA et IIIB. » </p><p align='center'><br/>B. – Régime juridique </p><p align='left'><br/>Le dernier paragraphe de l'article VI. 7.2.2 est rédigé comme suit : <br/>« Chaque salarié ayant conclu une convention de forfait en jour bénéficie au moins une fois chaque année d'un entretien avec son supérieur hiérarchique au cours duquel sont évoquées : <br/>– l'organisation et la charge de travail du salarié ; <br/>– l'amplitude de ses journées et la charge de travail qui en résulte ; <br/>– l'articulation entre son activité professionnelle et sa vie personnelle ; <br/>– sa rémunération ; <br/>– l'organisation du travail dans l'entreprise. » <br/>À la fin de l'article VI. 7.2.2, il est ajouté les deux paragraphes suivants. <br/>« Il est rédigé, dans le contrat de travail de l'intéressé, une convention déterminant : <br/>– le nombre de jours travaillés dans l'année ; <br/>– les modalités de décomptes des jours travaillés et de prises des jours de repos ; <br/>– la rémunération ; <br/>– l'incidence des absences ; <br/>– la possibilité de réaliser des jours supplémentaires de travail au-delà du forfait annuel et leur modalité de rémunération. <br/>À défaut de disposition prévue dans l'accord ou la charte de l'entreprise conformément à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901758&dateTexte=&categorieLien=cid'>article L. 2242-8 du code du travail</a>, la convention de forfait fixe les modalités selon lesquelles le salarié peut exercer son droit à la déconnexion des outils numériques mis à sa disposition par l'employeur pour l'exercice de sa mission, dès lors qu'il est dans une période de repos journalière ou hebdomadaire, ou en période de congés. »</p>",
+                  "etat": "VIGUEUR_ETEN",
+                  "surtitre": "Convention de forfait en jours"
+                },
+                {
+                  "type": "article",
+                  "id": "KALIARTI000037040978",
+                  "num": "3",
+                  "intOrdre": 1572861,
+                  "content": "<p align='left'><br/>Le premier paragraphe de l'article VI. 7.3.1 est modifié comme suit : <br/>« Les conventions de forfait sans référence horaire peuvent être conclues uniquement pour les cadres réunissant les conditions cumulatives suivantes : <br/>– participation effective à la direction de l'entreprise ; <br/>– responsabilités dont l'importance implique une grande indépendance dans l'organisation de l'emploi du temps ; <br/>– habilitation à prendre des décisions de façon largement autonome ; <br/>– rémunérations parmi les plus élevées de l'entreprise ou de l'établissement ; <br/>– fonction relevant du niveau I ou HN de la catégorie A. » <br/>Le second paragraphe de l'article VI. 7.3.1 est supprimé.</p>",
+                  "etat": "VIGUEUR_ETEN",
+                  "surtitre": "Convention de forfait sans référence horaire"
+                },
+                {
+                  "type": "article",
+                  "id": "KALIARTI000037040979",
+                  "num": "4",
+                  "intOrdre": 2097148,
+                  "content": "<p align='left'><br/>Au sein de l'article VI. 7.1.3, la référence à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006647821&dateTexte=&categorieLien=cid'>article L 212-5-1 </a>est remplacée par la référence à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902472&dateTexte=&categorieLien=cid'>article L. 3121-33 du code du travail</a>. <br/>Au sein de l'article VI. 7.2.2, la référence aux articles <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006647750&dateTexte=&categorieLien=cid'>L 212-1 </a>et <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006647810&dateTexte=&categorieLien=cid'>L 212-7</a> alinéa 2 est remplacée par la référence aux articles <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902457&dateTexte=&categorieLien=cid'>L. 3121-18</a>, <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902459&dateTexte=&categorieLien=cid'>L. 3121-20</a>, <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902461&dateTexte=&categorieLien=cid'>L. 3121-22 </a>et <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902466&dateTexte=&categorieLien=cid'>L. 3121-27 </a>du code du travail. <br/>Au sein de l'article VI. 7.3.2, la référence aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006647418&dateTexte=&categorieLien=cid'>articles L. 223-1 et suivants du code du travail </a>est remplacée par la référence aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902638&dateTexte=&categorieLien=cid'>articles L. 3141-1 et suivants du code du travail</a>.</p>",
+                  "etat": "VIGUEUR_ETEN",
+                  "surtitre": "Modifications de la numérotation des articles du code du travail"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "intOrdre": 1572861,
+              "title": "Titre II Jours fériés chômés et congés pour événements familiaux",
+              "id": "KALISCTA000037040973",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000037040987",
+                  "num": "1er",
+                  "intOrdre": 524287,
+                  "content": "<p align='left'><br/>Précision sur l'indemnisation des jours fériés chômés : <br/>À l'article VII. 2.2 de la convention collective, le 2e paragraphe est modifié comme suit : <br/>« Pour les salariés sous CDDU, lorsqu'un jour férié chômé, qui n'est ni un samedi ni un dimanche, est compris dans une période couverte par un contrat de travail d'une durée supérieure à 10 jours de travail effectif, ce jour est rémunéré (sans majoration pour jour férié). »</p>",
+                  "etat": "VIGUEUR_ETEN"
+                },
+                {
+                  "type": "article",
+                  "id": "KALIARTI000037040989",
+                  "num": "2",
+                  "intOrdre": 1048574,
+                  "content": "<p align='left'><br/>À l'article VII. 3.1, le nombre de jours de congés, sans condition d'ancienneté, est modifié comme suit : <br/>« – décès conjoint, concubin ou partenaire d'un Pacs : 3 jours ouvrés ; <br/>– décès d'un enfant : 5 jours <br/>– décès d'un parent : père, mère, frère, sœur, belle-mère, beau-père : 3 jours ouvrés. » <br/>Il est ajouté à cet article le cas suivant : <br/>« – survenance d'un handicap chez l'enfant : 2 jours ouvrés ». <br/>À l'article VII. 3.2, le nombre de jours de congés, sous condition d'ancienneté, est modifié comme suit : <br/>« – décès du conjoint, concubin ou du partenaire d'un Pacs : 1 jour ouvré supplémentaire ». <br/>Les jours de congés sans condition d'ancienneté étant augmentés, les jours de congés supplémentaires prévus en cas de décès d'un enfant ou d'un père ou d'une mère sont supprimés.</p>",
+                  "etat": "VIGUEUR_ETEN",
+                  "surtitre": "Congés exceptionnels"
+                },
+                {
+                  "type": "article",
+                  "id": "KALIARTI000037040990",
+                  "num": "3",
+                  "intOrdre": 1572861,
+                  "content": "<p align='left'><br/>À l'article VII. 4, le premier paragraphe est modifié comme suit : <br/>« En complément des <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006900948&dateTexte=&categorieLien=cid'>dispositions de l'article L. 1225-61 du code du travail</a>, les salariés bénéficient d'un congé, en cas de maladie ou d'accident, ou en raison du handicap, constatés par certificat médical, d'un enfant de moins de 16 ans dont il assume la charge au sens de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006743284&dateTexte=&categorieLien=cid'>article L. 513-1 du code de la sécurité sociale</a>. »</p>",
+                  "etat": "VIGUEUR_ETEN",
+                  "surtitre": "Congé pour enfant malade"
+                },
+                {
+                  "type": "article",
+                  "id": "KALIARTI000037040994",
+                  "num": "4",
+                  "intOrdre": 2097148,
+                  "content": "<p align='left'><br/>À la suite de l'article VII. 5, il est ajouté un article VII. 6 rédigé comme suit : </p><p align='center'><br/>« Article VII. 6 <br/>Maladie grave </p><p align='left'><br/>Conformément à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006900971&dateTexte=&categorieLien=cid'>article L. 1226-5 du code du travail</a>, tout salarié atteint d'une maladie grave au sens du <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000031670469&dateTexte=&categorieLien=cid'>3° et 4° de l'article L. 160-14 du code de la sécurité sociale </a>bénéficie d'autorisations d'absence pour suivre les traitements médicaux rendus nécessaires par son état de santé. »</p>",
+                  "etat": "VIGUEUR_ETEN",
+                  "surtitre": "Maladie grave"
+                },
+                {
+                  "type": "article",
+                  "id": "KALIARTI000037040997",
+                  "num": "5",
+                  "intOrdre": 2621435,
+                  "content": "<p align='left'><br/>Au titre VII, les numéros d'articles du code du travail sont modifiés comme suit : </p><p align='left'><div align='center'><center><table border='1'><tr><th>Ancienne numérotation </th><th>Nouvelle numérotation </th></tr><tr><td align='center'>Article L. 223-7 </td><td align='center'>Articles L. 3141-17 et suivants </td></tr><tr><td align='center'>Article L. 222-1 </td><td align='center'>Article L. 3133-1 </td></tr><tr><td align='center'>Article L. 222-1-1 </td><td align='center'>Article L. 3133-2 </td></tr><tr><td align='center'>Article L. 212-16 </td><td align='center'>Articles L. 3133-7 et suivants </td></tr><tr><td align='center'>Articles L. 122-25 et suivants </td><td align='center'>Articles L. 1225-1 et suivants </td></tr><tr><td align='center'>Article L. 122-26-3 </td><td align='center'>Article L. 1225-45 </td></tr></table></center></div></p><p align='left'><br/>À l'article VII. 1.1, le terme « DIF » est remplacé par « CPF ».</p>",
+                  "etat": "VIGUEUR_ETEN",
+                  "surtitre": "Modification de la numérotation des articles du code du travail"
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000037040970",
               "num": null,
               "intOrdre": 524287,
-              "content": "<p align='left'>La convention collective de la production audiovisuelle prévoit des majorations de rémunération pour certaines filières de la grille de classification, en raison de situations particulières de travail. <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000033660024&categorieLien=cid'>L'avenant n° 6 de </a>la convention collective a modifié les filières de la grille de classification, sans répercuter cette modification sur les dispositions prévoyant lesdites majorations, créant un problème d'application du texte. Ces questions sont traitées par le titre Ier du présent avenant. <br/><br/><a alt='lien vers un document Legifrance' href='/affichTexteArticle.do?cidTexte=JORFTEXT000032983213&idArticle=JORFARTI000032983924&categorieLien=cid'>L'article 24 de la loi du 8 août 2016</a> modifie les missions des commissions paritaires de suivi existantes au sein des conventions collectives. Ainsi, pour se conformer à cette nouvelle organisation, l'article 13.7 de la convention collective de la production audiovisuelle est modifié dans le titre II du présent avenant.</p><p></p>",
+              "content": "<p align='left'>Une entreprise de la branche de la production audiovisuelle s'est vu contester le recours au forfait sans référence horaire pour la fonction de producteur (catégorie hors niveau) par l'inspection du travail, au motif que celui-ci n'était pas un cadre dirigeant participant à la direction de l'entreprise.</p><p align='left'>Cette position remet en cause la capacité de conclure avec certains salariés de catégorie I ou HN des conventions de forfait sans référence horaire, alors que dans le même temps cette catégorie n'a pas accès au forfait jours du fait de la rédaction de la convention collective.</p><p align='left'>Le titre 1er du présent avenant vise à réserver la conclusion de forfait sans référence horaire aux seuls cadres dirigeants, participant à la direction de l'entreprise et à ouvrir la conclusion de forfait en jours aux salariés de catégorie I et HN.</p><p align='left'>Le titre 2 du présent avenant vise à rendre plus efficiente la règle d'indemnisation des jours fériés chômés, suite à des interprétations divergentes du texte. Il est aussi prévu de prendre en compte les améliorations intervenues par la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000032983213&categorieLien=cid'>loi n° 2016-1088 du 8 août 2016</a> sur les congés pour événements familiaux.</p>",
               "etat": "VIGUEUR_ETEN"
             }
-          ],
-          "sections": [
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 8 du 21 juin 2017 relatif à la mise en place de la commission paritaire permanente de négociation et d'interprétation (CPPNI)",
+          "id": "KALITEXT000035993554",
+          "children": [
             {
-              "id": "KALISCTA000035993559",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Titre Ier Dispositions diverses",
+              "id": "KALISCTA000035993559",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035993561",
                   "num": "1er",
                   "intOrdre": 524287,
@@ -331,6 +456,7 @@
                   "surtitre": "Modification de l'article VI.3.3 « Temps de disponibilité indemnisé »"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000035993563",
                   "num": "2",
                   "intOrdre": 1048574,
@@ -339,6 +465,7 @@
                   "surtitre": "Modification de l'article VI.8.3 « Paiement des heures supplémentaires »"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000035993565",
                   "num": "3",
                   "intOrdre": 1572861,
@@ -347,6 +474,7 @@
                   "surtitre": "Modification de l'article VI.10 « Travail de nuit »"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000035993566",
                   "num": "4",
                   "intOrdre": 2097148,
@@ -355,6 +483,7 @@
                   "surtitre": "Modification de l'article IV.1"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000035993567",
                   "num": "5",
                   "intOrdre": 2621435,
@@ -365,12 +494,14 @@
               ]
             },
             {
-              "id": "KALISCTA000035993560",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Titre II Commission paritaire permanente de négociation et d'interprétation",
+              "id": "KALISCTA000035993560",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035993569",
                   "num": null,
                   "intOrdre": 524287,
@@ -378,15 +509,24 @@
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000035993557",
+              "num": null,
+              "intOrdre": 524287,
+              "content": "<p align='left'>La convention collective de la production audiovisuelle prévoit des majorations de rémunération pour certaines filières de la grille de classification, en raison de situations particulières de travail. <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000033660024&categorieLien=cid'>L'avenant n° 6 de </a>la convention collective a modifié les filières de la grille de classification, sans répercuter cette modification sur les dispositions prévoyant lesdites majorations, créant un problème d'application du texte. Ces questions sont traitées par le titre Ier du présent avenant. <br/><br/><a alt='lien vers un document Legifrance' href='/affichTexteArticle.do?cidTexte=JORFTEXT000032983213&idArticle=JORFARTI000032983924&categorieLien=cid'>L'article 24 de la loi du 8 août 2016</a> modifie les missions des commissions paritaires de suivi existantes au sein des conventions collectives. Ainsi, pour se conformer à cette nouvelle organisation, l'article 13.7 de la convention collective de la production audiovisuelle est modifié dans le titre II du présent avenant.</p><p></p>",
+              "etat": "VIGUEUR_ETEN"
             }
           ]
         },
         {
-          "id": "KALITEXT000035232860",
+          "type": "section",
           "title": "Accord du 15 février 2017 relatif à l'annexe I « Réalisateurs »",
-          "dateParution": 1500422400000,
-          "articles": [
+          "id": "KALITEXT000035232860",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000035232863",
               "num": null,
               "intOrdre": 524287,
@@ -394,6 +534,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000035232864",
               "num": "1er",
               "intOrdre": 1048574,
@@ -402,6 +543,7 @@
               "surtitre": "Définition de fonction"
             },
             {
+              "type": "article",
               "id": "KALIARTI000035232865",
               "num": "2",
               "intOrdre": 1572861,
@@ -410,6 +552,7 @@
               "surtitre": "Structure du contrat"
             },
             {
+              "type": "article",
               "id": "KALIARTI000035232866",
               "num": "3",
               "intOrdre": 2097148,
@@ -420,41 +563,26 @@
           ]
         },
         {
-          "id": "KALITEXT000033660024",
+          "type": "section",
           "title": "Avenant n° 6 du 1er juillet 2016 modifiant le champ d'application de la convention collective et les dispositions du CDD d'usage",
-          "dateParution": 1482278400000,
-          "articles": [
+          "id": "KALITEXT000033660024",
+          "children": [
             {
-              "id": "KALIARTI000033660027",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p align='left'>Le II de <a alt='LOI n° 2015-994 du 17 août 2015 - art. 34 (V)' href='/affichTexteArticle.do?cidTexte=JORFTEXT000031046061&idArticle=JORFARTI000031046071&categorieLien=cid'>l'article 34 de la loi du 17 août 2015 </a>relative au dialogue social et à l'emploi a demandé aux partenaires sociaux des branches du spectacle de réviser les listes des fonctions pouvant être pourvues par la conclusion d'un contrat à durée déterminée d'usage et de négocier les conditions de recours au contrat à durée déterminée d'usage. <br/>Pour la branche de la production audiovisuelle, cette négociation a été engagée le 10 septembre 2015. Elle s'inscrit dans les dispositions existantes de la <a alt='Convention collective nationale du 13 décembre 2006 (VE)' href='/affichIDCC.do?cidTexte=KALITEXT000018828046&categorieLien=cid'>convention collective du 13 décembre 2006</a>, qui a défini les premières mesures d'encadrement du contrat à durée déterminée d'usage dans la branche de la production audiovisuelle. Il est ainsi rappelé que ce contrat de travail est encadré par les dispositions suivantes : </p><p align='left'>– restriction du recours au CDD d'usage aux fonctions en rapport avec la conception, la fabrication et au contenu même des programmes (art. V. 2.1 de la convention) ; <br/>– existence d'un formalisme contractuel (art. V. 2.2) ; <br/>– dispositions particulières applicables aux collaborations de longue durée (art. V. 2.4). <br/>L'ensemble des dispositions contenues dans le présent accord vient compléter les actuelles dispositions de la convention collective. <br/>Enfin, les parties à l'accord entendent rappeler leur attachement au salariat. Le recours à des autoentrepreneurs ne peut être envisagé dès lors qu'un lien de subordination est constaté.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000033660028",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Champ de la convention collective de la production audiovisuelle",
+              "id": "KALISCTA000033660028",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
-                  "id": "KALIARTI000033660029",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>Les derniers débats de la commission de suivi de la convention collective ont amené les partenaires sociaux de la branche à avoir une réflexion sur la définition du champ de la convention collective, notamment pour le secteur du programme institutionnel. Ce type d'activité fait en effet partie de la branche depuis la conclusion de la convention. Mais, les partenaires sociaux éprouvent une difficulté à appréhender ce secteur, qui, du fait des évolutions des médias et des technologies notamment web, a évolué de façon notable. Le présent accord modifie le préambule et précise le champ de la convention collective afin de mieux définir la production de programme institutionnel vis-à-vis des autres activités de l'audiovisuel et notamment de la prestation technique. <br/>Ainsi, il a été convenu d'apporter les précisions suivantes au texte de la convention. La présente rédaction remplace le préambule et le titre Ier de la convention. </p><p align='center'><br/>« Préambule </p><p align='left'><br/>La présente convention collective régit les relations entre employeurs et salariés dans la production audiovisuelle. <br/>La production audiovisuelle est une activité rattachée au domaine du spectacle vivant et enregistré. Elle consiste en la création, le développement, le financement et la mise en œuvre (soit la production selon le terme consacré) d'émissions réalisées à des fins récréatives, éducatives ou d'information, ayant pour destination principale leur diffusion sur les antennes des services de communication audiovisuelle de télévision, tels que définis par la <a alt='Loi n° 86-1067 du 30 septembre 1986 (V)' href='/affichTexte.do?cidTexte=JORFTEXT000000512205&categorieLien=cid'>loi n° 86-1067 du 30 septembre 1986 </a>modifiée. Par extension, la présente convention couvre aussi la production de programmes destinés à une exploitation économique diversifiée (édition vidéo, programmes pédagogiques, diffusion sur internet ou les mobiles, etc.). <br/>Au sein du domaine du spectacle, il arrive que des entreprises dont l'activité principale relève d'une branche particulière soient amenées à intervenir dans une branche voisine. Les partenaires sociaux signataires des présentes, attachés à créer des conditions homogènes de production des différentes formes de spectacle, ont souhaité prévoir des clauses « miroir », permettant aux entreprises d'appliquer, notamment pour les salariés employés sous contrat à durée déterminée d'usage, le cadre conventionnel spécifique à chacune de ces formes (titre Ier). <br/>La production audiovisuelle est organisée, pour chaque programme ou émission, en fonction des caractéristiques artistiques et techniques propres à ce programme. Chaque programme est un prototype, et ces caractéristiques varient sensiblement d'un programme à l'autre, ce qui confère à l'activité, pour les employeurs comme pour les salariés, un caractère particulièrement aléatoire. <br/>Cette discontinuité de l'activité de production a conduit à l'intégrer parmi les activités dans lesquelles il est d'usage de recourir au contrat à durée déterminée. Les partenaires sociaux de la branche se sont attachés, dans le présent texte, à assurer au mieux la protection des salariés dans ce cadre, et notamment à limiter, pour les salariés autres que les artistes interprètes et les artistes musiciens, le recours au contrat à durée déterminée d'usage aux seuls cas où l'objet de la mission du salarié rend ce recours à la fois légitime et indispensable (titre V). <br/>L'activité de prototype et les contraintes liées au spectacle impliquent une grande variabilité du rythme et du temps quotidien ou hebdomadaire de travail. Les partenaires sociaux ont cherché à encadrer cette variabilité, dans le respect des normes nationales et européennes, tout en prévoyant des circonstances dans lesquelles des dérogations pourront être sollicitées (titre VI). <br/>En outre, le fait que de nombreux salariés soient amenés à travailler pour de multiples employeurs, et la multiplicité, dans la branche, d'entreprises petites ou très petites, a conduit à envisager des modalités particulières de représentation des salariés (titre III). <br/>Enfin, la présente convention ne couvre pas l'emploi d'artistes interprètes. Concernant les artistes musiciens, une annexe à la présente convention a été conclue entre les partenaires sociaux afin de couvrir ces salariés. <br/>Les artistes interprètes, à l'exception des artistes musiciens, sont couverts par la convention collective des artistes interprètes engagés pour des émissions de télévision, commune aux deux champs de la production audiovisuelle et de la télédiffusion. <br/>Il est rappelé qu'une entreprise qui a pour activité principale la production audiovisuelle peut s'assurer le concours de journalistes professionnels, moyennant rémunération, dans les conditions prévues par les <a alt='Code du travail - art. L7111-3 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904511&dateTexte=&categorieLien=cid'>articles L. 7111-3 et suivants du code du travail</a>. Dans ce cadre, les partenaires sociaux rappellent que tout journaliste professionnel doit se voir appliquer la convention collective des journalistes (idcc 1480) et ne peut pas se voir appliquer la présente convention collective.</p>",
-                  "etat": "VIGUEUR_NON_ETEN"
-                }
-              ],
-              "sections": [
-                {
-                  "id": "KALISCTA000033660032",
+                  "type": "section",
                   "intOrdre": 1048574,
                   "title": "Titre Ier Champ de la convention collective de la production audiovisuelle",
+                  "id": "KALISCTA000033660032",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000033660040",
                       "num": null,
                       "intOrdre": 524287,
@@ -464,12 +592,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000033660033",
+                  "type": "section",
                   "intOrdre": 1572861,
                   "title": "Titre II Formalisme du contrat à durée déterminée d'usage",
+                  "id": "KALISCTA000033660033",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000033660041",
                       "num": null,
                       "intOrdre": 524287,
@@ -479,12 +609,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000033660034",
+                  "type": "section",
                   "intOrdre": 2097148,
                   "title": "Titre III Indemnité de licenciement",
+                  "id": "KALISCTA000033660034",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000033660044",
                       "num": null,
                       "intOrdre": 524287,
@@ -494,12 +626,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000033660035",
+                  "type": "section",
                   "intOrdre": 2621435,
                   "title": "Titre IV Passage d'un CDD d'usage à un CDI",
+                  "id": "KALISCTA000033660035",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000033660045",
                       "num": null,
                       "intOrdre": 524287,
@@ -509,12 +643,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000033660036",
+                  "type": "section",
                   "intOrdre": 3145722,
                   "title": "Titre V Liste des fonctions ouvertes au CDD d'usage",
+                  "id": "KALISCTA000033660036",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000033660046",
                       "num": null,
                       "intOrdre": 524287,
@@ -524,12 +660,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000033660037",
+                  "type": "section",
                   "intOrdre": 3670009,
                   "title": "Titre VI Classification et définition des fonctions",
+                  "id": "KALISCTA000033660037",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000033660047",
                       "num": null,
                       "intOrdre": 524287,
@@ -539,12 +677,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000033660038",
+                  "type": "section",
                   "intOrdre": 4194296,
                   "title": "Titre VII Productions pour le web",
+                  "id": "KALISCTA000033660038",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000033660048",
                       "num": null,
                       "intOrdre": 524287,
@@ -554,12 +694,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000033660039",
+                  "type": "section",
                   "intOrdre": 4718583,
                   "title": "Titre VIII Dispositions finales",
+                  "id": "KALISCTA000033660039",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000033660049",
                       "num": null,
                       "intOrdre": 524287,
@@ -567,23 +709,41 @@
                       "etat": "VIGUEUR_NON_ETEN"
                     }
                   ]
+                },
+                {
+                  "type": "article",
+                  "id": "KALIARTI000033660029",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'><br/>Les derniers débats de la commission de suivi de la convention collective ont amené les partenaires sociaux de la branche à avoir une réflexion sur la définition du champ de la convention collective, notamment pour le secteur du programme institutionnel. Ce type d'activité fait en effet partie de la branche depuis la conclusion de la convention. Mais, les partenaires sociaux éprouvent une difficulté à appréhender ce secteur, qui, du fait des évolutions des médias et des technologies notamment web, a évolué de façon notable. Le présent accord modifie le préambule et précise le champ de la convention collective afin de mieux définir la production de programme institutionnel vis-à-vis des autres activités de l'audiovisuel et notamment de la prestation technique. <br/>Ainsi, il a été convenu d'apporter les précisions suivantes au texte de la convention. La présente rédaction remplace le préambule et le titre Ier de la convention. </p><p align='center'><br/>« Préambule </p><p align='left'><br/>La présente convention collective régit les relations entre employeurs et salariés dans la production audiovisuelle. <br/>La production audiovisuelle est une activité rattachée au domaine du spectacle vivant et enregistré. Elle consiste en la création, le développement, le financement et la mise en œuvre (soit la production selon le terme consacré) d'émissions réalisées à des fins récréatives, éducatives ou d'information, ayant pour destination principale leur diffusion sur les antennes des services de communication audiovisuelle de télévision, tels que définis par la <a alt='Loi n° 86-1067 du 30 septembre 1986 (V)' href='/affichTexte.do?cidTexte=JORFTEXT000000512205&categorieLien=cid'>loi n° 86-1067 du 30 septembre 1986 </a>modifiée. Par extension, la présente convention couvre aussi la production de programmes destinés à une exploitation économique diversifiée (édition vidéo, programmes pédagogiques, diffusion sur internet ou les mobiles, etc.). <br/>Au sein du domaine du spectacle, il arrive que des entreprises dont l'activité principale relève d'une branche particulière soient amenées à intervenir dans une branche voisine. Les partenaires sociaux signataires des présentes, attachés à créer des conditions homogènes de production des différentes formes de spectacle, ont souhaité prévoir des clauses « miroir », permettant aux entreprises d'appliquer, notamment pour les salariés employés sous contrat à durée déterminée d'usage, le cadre conventionnel spécifique à chacune de ces formes (titre Ier). <br/>La production audiovisuelle est organisée, pour chaque programme ou émission, en fonction des caractéristiques artistiques et techniques propres à ce programme. Chaque programme est un prototype, et ces caractéristiques varient sensiblement d'un programme à l'autre, ce qui confère à l'activité, pour les employeurs comme pour les salariés, un caractère particulièrement aléatoire. <br/>Cette discontinuité de l'activité de production a conduit à l'intégrer parmi les activités dans lesquelles il est d'usage de recourir au contrat à durée déterminée. Les partenaires sociaux de la branche se sont attachés, dans le présent texte, à assurer au mieux la protection des salariés dans ce cadre, et notamment à limiter, pour les salariés autres que les artistes interprètes et les artistes musiciens, le recours au contrat à durée déterminée d'usage aux seuls cas où l'objet de la mission du salarié rend ce recours à la fois légitime et indispensable (titre V). <br/>L'activité de prototype et les contraintes liées au spectacle impliquent une grande variabilité du rythme et du temps quotidien ou hebdomadaire de travail. Les partenaires sociaux ont cherché à encadrer cette variabilité, dans le respect des normes nationales et européennes, tout en prévoyant des circonstances dans lesquelles des dérogations pourront être sollicitées (titre VI). <br/>En outre, le fait que de nombreux salariés soient amenés à travailler pour de multiples employeurs, et la multiplicité, dans la branche, d'entreprises petites ou très petites, a conduit à envisager des modalités particulières de représentation des salariés (titre III). <br/>Enfin, la présente convention ne couvre pas l'emploi d'artistes interprètes. Concernant les artistes musiciens, une annexe à la présente convention a été conclue entre les partenaires sociaux afin de couvrir ces salariés. <br/>Les artistes interprètes, à l'exception des artistes musiciens, sont couverts par la convention collective des artistes interprètes engagés pour des émissions de télévision, commune aux deux champs de la production audiovisuelle et de la télédiffusion. <br/>Il est rappelé qu'une entreprise qui a pour activité principale la production audiovisuelle peut s'assurer le concours de journalistes professionnels, moyennant rémunération, dans les conditions prévues par les <a alt='Code du travail - art. L7111-3 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904511&dateTexte=&categorieLien=cid'>articles L. 7111-3 et suivants du code du travail</a>. Dans ce cadre, les partenaires sociaux rappellent que tout journaliste professionnel doit se voir appliquer la convention collective des journalistes (idcc 1480) et ne peut pas se voir appliquer la présente convention collective.</p>",
+                  "etat": "VIGUEUR_NON_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000033660027",
+              "num": null,
+              "intOrdre": 524287,
+              "content": "<p align='left'>Le II de <a alt='LOI n° 2015-994 du 17 août 2015 - art. 34 (V)' href='/affichTexteArticle.do?cidTexte=JORFTEXT000031046061&idArticle=JORFARTI000031046071&categorieLien=cid'>l'article 34 de la loi du 17 août 2015 </a>relative au dialogue social et à l'emploi a demandé aux partenaires sociaux des branches du spectacle de réviser les listes des fonctions pouvant être pourvues par la conclusion d'un contrat à durée déterminée d'usage et de négocier les conditions de recours au contrat à durée déterminée d'usage. <br/>Pour la branche de la production audiovisuelle, cette négociation a été engagée le 10 septembre 2015. Elle s'inscrit dans les dispositions existantes de la <a alt='Convention collective nationale du 13 décembre 2006 (VE)' href='/affichIDCC.do?cidTexte=KALITEXT000018828046&categorieLien=cid'>convention collective du 13 décembre 2006</a>, qui a défini les premières mesures d'encadrement du contrat à durée déterminée d'usage dans la branche de la production audiovisuelle. Il est ainsi rappelé que ce contrat de travail est encadré par les dispositions suivantes : </p><p align='left'>– restriction du recours au CDD d'usage aux fonctions en rapport avec la conception, la fabrication et au contenu même des programmes (art. V. 2.1 de la convention) ; <br/>– existence d'un formalisme contractuel (art. V. 2.2) ; <br/>– dispositions particulières applicables aux collaborations de longue durée (art. V. 2.4). <br/>L'ensemble des dispositions contenues dans le présent accord vient compléter les actuelles dispositions de la convention collective. <br/>Enfin, les parties à l'accord entendent rappeler leur attachement au salariat. Le recours à des autoentrepreneurs ne peut être envisagé dès lors qu'un lien de subordination est constaté.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
             }
           ]
         },
         {
-          "id": "KALITEXT000032073761",
+          "type": "section",
           "title": "Annexe - Accord du 16 septembre 2015 relatif aux relations de travail entre les musiciens et les producteurs professionnels",
-          "dateParution": 32472144000000,
-          "sections": [
+          "id": "KALITEXT000032073761",
+          "children": [
             {
-              "id": "KALISCTA000032073764",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Titre Ier Champ d'application de l'accord",
+              "id": "KALISCTA000032073764",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073767",
                   "num": null,
                   "intOrdre": 524287,
@@ -591,6 +751,7 @@
                   "etat": "VIGUEUR_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073768",
                   "num": "1er",
                   "intOrdre": 1048574,
@@ -599,6 +760,7 @@
                   "surtitre": "Activités couvertes"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073769",
                   "num": "2",
                   "intOrdre": 1572861,
@@ -607,6 +769,7 @@
                   "surtitre": "Précision sur la qualité de producteur audiovisuel"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073770",
                   "num": "3",
                   "intOrdre": 2097148,
@@ -615,6 +778,7 @@
                   "surtitre": "Artistes visés par le présent accord"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073771",
                   "num": "4",
                   "intOrdre": 2621435,
@@ -625,12 +789,14 @@
               ]
             },
             {
-              "id": "KALISCTA000032073765",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Titre II Structure de la rémunération",
+              "id": "KALISCTA000032073765",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073772",
                   "num": "1er",
                   "intOrdre": 524287,
@@ -639,6 +805,7 @@
                   "surtitre": "Rémunération conventionnelle"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073773",
                   "num": "2",
                   "intOrdre": 1048574,
@@ -647,6 +814,7 @@
                   "surtitre": "Utilisations non commerciales couvertes par la rémunération conventionnelle"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073774",
                   "num": "3",
                   "intOrdre": 1572861,
@@ -655,6 +823,7 @@
                   "surtitre": "Rémunération des utilisations des programmes audiovisuels, des vidéogrammes"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073775",
                   "num": "4",
                   "intOrdre": 2097148,
@@ -663,6 +832,7 @@
                   "surtitre": "Cachet de base"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073776",
                   "num": "5",
                   "intOrdre": 2621435,
@@ -671,6 +841,7 @@
                   "surtitre": "Rémunération des modes par anticipation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073777",
                   "num": "6",
                   "intOrdre": 3145722,
@@ -681,12 +852,14 @@
               ]
             },
             {
-              "id": "KALISCTA000032073766",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Titre III Conditions de travail",
+              "id": "KALISCTA000032073766",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073778",
                   "num": null,
                   "intOrdre": 524287,
@@ -694,6 +867,7 @@
                   "etat": "VIGUEUR_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073779",
                   "num": "1er",
                   "intOrdre": 1048574,
@@ -702,6 +876,7 @@
                   "surtitre": "Engagement et organisation des services et des journées"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073780",
                   "num": "2",
                   "intOrdre": 1572861,
@@ -710,6 +885,7 @@
                   "surtitre": "Durée du travail"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073781",
                   "num": "3",
                   "intOrdre": 2097148,
@@ -718,6 +894,7 @@
                   "surtitre": "Majorations exceptionnelles"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073785",
                   "num": "4",
                   "intOrdre": 2621435,
@@ -726,6 +903,7 @@
                   "surtitre": "Trajet. – Transport. – Voyage"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073786",
                   "num": "5",
                   "intOrdre": 3145722,
@@ -734,6 +912,7 @@
                   "surtitre": "Remboursement des frais"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073787",
                   "num": "6",
                   "intOrdre": 3670009,
@@ -742,6 +921,7 @@
                   "surtitre": "Instruments"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073788",
                   "num": "7",
                   "intOrdre": 4194296,
@@ -750,6 +930,7 @@
                   "surtitre": "Rupture anticipée du contrat"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073794",
                   "num": "8",
                   "intOrdre": 4718583,
@@ -758,6 +939,7 @@
                   "surtitre": "Annulation d'un service ou d'une journée"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073795",
                   "num": "9",
                   "intOrdre": 5242870,
@@ -766,6 +948,7 @@
                   "surtitre": "Contrat. – Planning"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073796",
                   "num": "10",
                   "intOrdre": 5767157,
@@ -774,6 +957,7 @@
                   "surtitre": "Feuille d'émargement"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073797",
                   "num": "11",
                   "intOrdre": 6291444,
@@ -782,6 +966,7 @@
                   "surtitre": "Pause repas"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073798",
                   "num": "12",
                   "intOrdre": 6815731,
@@ -790,6 +975,7 @@
                   "surtitre": "Services ou journées supplémentaires"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032073799",
                   "num": "13",
                   "intOrdre": 7340018,
@@ -802,11 +988,12 @@
           ]
         },
         {
-          "id": "KALITEXT000031496508",
+          "type": "section",
           "title": "Adhésion par lettre du 8 septembre 2015 du SNTPCT à la convention",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000031496508",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000031496511",
               "num": null,
               "intOrdre": 524287,
@@ -816,114 +1003,44 @@
           ]
         },
         {
-          "id": "KALITEXT000037040967",
-          "title": "Avenant n° 10 du 20 décembre 2017 relatif à la convention de forfait",
-          "dateParution": 1528675200000,
-          "articles": [
+          "type": "section",
+          "title": "Adhésion par lettre du 12 septembre 2014 du SATEV à la convention",
+          "id": "KALITEXT000029754111",
+          "children": [
             {
-              "id": "KALIARTI000037040970",
+              "type": "article",
+              "id": "KALIARTI000029754114",
               "num": null,
               "intOrdre": 524287,
-              "content": "<p align='left'>Une entreprise de la branche de la production audiovisuelle s'est vu contester le recours au forfait sans référence horaire pour la fonction de producteur (catégorie hors niveau) par l'inspection du travail, au motif que celui-ci n'était pas un cadre dirigeant participant à la direction de l'entreprise.</p><p align='left'>Cette position remet en cause la capacité de conclure avec certains salariés de catégorie I ou HN des conventions de forfait sans référence horaire, alors que dans le même temps cette catégorie n'a pas accès au forfait jours du fait de la rédaction de la convention collective.</p><p align='left'>Le titre 1er du présent avenant vise à réserver la conclusion de forfait sans référence horaire aux seuls cadres dirigeants, participant à la direction de l'entreprise et à ouvrir la conclusion de forfait en jours aux salariés de catégorie I et HN.</p><p align='left'>Le titre 2 du présent avenant vise à rendre plus efficiente la règle d'indemnisation des jours fériés chômés, suite à des interprétations divergentes du texte. Il est aussi prévu de prendre en compte les améliorations intervenues par la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000032983213&categorieLien=cid'>loi n° 2016-1088 du 8 août 2016</a> sur les congés pour événements familiaux.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000037040972",
-              "intOrdre": 1048574,
-              "title": "Titre 1er Convention de forfait",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000037040974",
-                  "num": "1er",
-                  "intOrdre": 524287,
-                  "content": "<p align='center'><br/>A. – Salariés visés </p><p align='left'><br/>L'avant-dernière phrase de l'article VI. 7.1.1 est modifiée comme suit : <br/>« Cette possibilité est cependant réservée aux salariés des catégories A et B des niveaux HN, I, II et IIIA. » </p><p align='center'><br/>B. – Régime juridique </p><p align='left'><br/>À la fin de l'article VI. 7.1.2, il est ajouté les paragraphes suivants : <br/>« Il est rédigé, dans le contrat de travail de l'intéressé, une convention déterminant : <br/>– le nombre d'heures travaillées dans l'année ; <br/>– les modalités de décomptes des heures travaillées et de prises des jours de repos ; <br/>– la rémunération ; <br/>– l'incidence des absences. »</p>",
-                  "etat": "VIGUEUR_ETEN",
-                  "surtitre": "Convention de forfait en heures"
-                },
-                {
-                  "id": "KALIARTI000037040976",
-                  "num": "2",
-                  "intOrdre": 1048574,
-                  "content": "<p align='center'><br/>A. – Salariés visés </p><p align='left'><br/>L'avant-dernière phrase de l'article VI. 7.2.1 est modifiée comme suit : <br/>« Cette possibilité est cependant réservée aux salariés des catégories A et B des niveaux HN, I, II, IIIA et IIIB. » </p><p align='center'><br/>B. – Régime juridique </p><p align='left'><br/>Le dernier paragraphe de l'article VI. 7.2.2 est rédigé comme suit : <br/>« Chaque salarié ayant conclu une convention de forfait en jour bénéficie au moins une fois chaque année d'un entretien avec son supérieur hiérarchique au cours duquel sont évoquées : <br/>– l'organisation et la charge de travail du salarié ; <br/>– l'amplitude de ses journées et la charge de travail qui en résulte ; <br/>– l'articulation entre son activité professionnelle et sa vie personnelle ; <br/>– sa rémunération ; <br/>– l'organisation du travail dans l'entreprise. » <br/>À la fin de l'article VI. 7.2.2, il est ajouté les deux paragraphes suivants. <br/>« Il est rédigé, dans le contrat de travail de l'intéressé, une convention déterminant : <br/>– le nombre de jours travaillés dans l'année ; <br/>– les modalités de décomptes des jours travaillés et de prises des jours de repos ; <br/>– la rémunération ; <br/>– l'incidence des absences ; <br/>– la possibilité de réaliser des jours supplémentaires de travail au-delà du forfait annuel et leur modalité de rémunération. <br/>À défaut de disposition prévue dans l'accord ou la charte de l'entreprise conformément à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901758&dateTexte=&categorieLien=cid'>article L. 2242-8 du code du travail</a>, la convention de forfait fixe les modalités selon lesquelles le salarié peut exercer son droit à la déconnexion des outils numériques mis à sa disposition par l'employeur pour l'exercice de sa mission, dès lors qu'il est dans une période de repos journalière ou hebdomadaire, ou en période de congés. »</p>",
-                  "etat": "VIGUEUR_ETEN",
-                  "surtitre": "Convention de forfait en jours"
-                },
-                {
-                  "id": "KALIARTI000037040978",
-                  "num": "3",
-                  "intOrdre": 1572861,
-                  "content": "<p align='left'><br/>Le premier paragraphe de l'article VI. 7.3.1 est modifié comme suit : <br/>« Les conventions de forfait sans référence horaire peuvent être conclues uniquement pour les cadres réunissant les conditions cumulatives suivantes : <br/>– participation effective à la direction de l'entreprise ; <br/>– responsabilités dont l'importance implique une grande indépendance dans l'organisation de l'emploi du temps ; <br/>– habilitation à prendre des décisions de façon largement autonome ; <br/>– rémunérations parmi les plus élevées de l'entreprise ou de l'établissement ; <br/>– fonction relevant du niveau I ou HN de la catégorie A. » <br/>Le second paragraphe de l'article VI. 7.3.1 est supprimé.</p>",
-                  "etat": "VIGUEUR_ETEN",
-                  "surtitre": "Convention de forfait sans référence horaire"
-                },
-                {
-                  "id": "KALIARTI000037040979",
-                  "num": "4",
-                  "intOrdre": 2097148,
-                  "content": "<p align='left'><br/>Au sein de l'article VI. 7.1.3, la référence à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006647821&dateTexte=&categorieLien=cid'>article L 212-5-1 </a>est remplacée par la référence à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902472&dateTexte=&categorieLien=cid'>article L. 3121-33 du code du travail</a>. <br/>Au sein de l'article VI. 7.2.2, la référence aux articles <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006647750&dateTexte=&categorieLien=cid'>L 212-1 </a>et <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006647810&dateTexte=&categorieLien=cid'>L 212-7</a> alinéa 2 est remplacée par la référence aux articles <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902457&dateTexte=&categorieLien=cid'>L. 3121-18</a>, <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902459&dateTexte=&categorieLien=cid'>L. 3121-20</a>, <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902461&dateTexte=&categorieLien=cid'>L. 3121-22 </a>et <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902466&dateTexte=&categorieLien=cid'>L. 3121-27 </a>du code du travail. <br/>Au sein de l'article VI. 7.3.2, la référence aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006647418&dateTexte=&categorieLien=cid'>articles L. 223-1 et suivants du code du travail </a>est remplacée par la référence aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902638&dateTexte=&categorieLien=cid'>articles L. 3141-1 et suivants du code du travail</a>.</p>",
-                  "etat": "VIGUEUR_ETEN",
-                  "surtitre": "Modifications de la numérotation des articles du code du travail"
-                }
-              ]
-            },
-            {
-              "id": "KALISCTA000037040973",
-              "intOrdre": 1572861,
-              "title": "Titre II Jours fériés chômés et congés pour événements familiaux",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000037040987",
-                  "num": "1er",
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>Précision sur l'indemnisation des jours fériés chômés : <br/>À l'article VII. 2.2 de la convention collective, le 2e paragraphe est modifié comme suit : <br/>« Pour les salariés sous CDDU, lorsqu'un jour férié chômé, qui n'est ni un samedi ni un dimanche, est compris dans une période couverte par un contrat de travail d'une durée supérieure à 10 jours de travail effectif, ce jour est rémunéré (sans majoration pour jour férié). »</p>",
-                  "etat": "VIGUEUR_ETEN"
-                },
-                {
-                  "id": "KALIARTI000037040989",
-                  "num": "2",
-                  "intOrdre": 1048574,
-                  "content": "<p align='left'><br/>À l'article VII. 3.1, le nombre de jours de congés, sans condition d'ancienneté, est modifié comme suit : <br/>« – décès conjoint, concubin ou partenaire d'un Pacs : 3 jours ouvrés ; <br/>– décès d'un enfant : 5 jours <br/>– décès d'un parent : père, mère, frère, sœur, belle-mère, beau-père : 3 jours ouvrés. » <br/>Il est ajouté à cet article le cas suivant : <br/>« – survenance d'un handicap chez l'enfant : 2 jours ouvrés ». <br/>À l'article VII. 3.2, le nombre de jours de congés, sous condition d'ancienneté, est modifié comme suit : <br/>« – décès du conjoint, concubin ou du partenaire d'un Pacs : 1 jour ouvré supplémentaire ». <br/>Les jours de congés sans condition d'ancienneté étant augmentés, les jours de congés supplémentaires prévus en cas de décès d'un enfant ou d'un père ou d'une mère sont supprimés.</p>",
-                  "etat": "VIGUEUR_ETEN",
-                  "surtitre": "Congés exceptionnels"
-                },
-                {
-                  "id": "KALIARTI000037040990",
-                  "num": "3",
-                  "intOrdre": 1572861,
-                  "content": "<p align='left'><br/>À l'article VII. 4, le premier paragraphe est modifié comme suit : <br/>« En complément des <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006900948&dateTexte=&categorieLien=cid'>dispositions de l'article L. 1225-61 du code du travail</a>, les salariés bénéficient d'un congé, en cas de maladie ou d'accident, ou en raison du handicap, constatés par certificat médical, d'un enfant de moins de 16 ans dont il assume la charge au sens de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006743284&dateTexte=&categorieLien=cid'>article L. 513-1 du code de la sécurité sociale</a>. »</p>",
-                  "etat": "VIGUEUR_ETEN",
-                  "surtitre": "Congé pour enfant malade"
-                },
-                {
-                  "id": "KALIARTI000037040994",
-                  "num": "4",
-                  "intOrdre": 2097148,
-                  "content": "<p align='left'><br/>À la suite de l'article VII. 5, il est ajouté un article VII. 6 rédigé comme suit : </p><p align='center'><br/>« Article VII. 6 <br/>Maladie grave </p><p align='left'><br/>Conformément à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006900971&dateTexte=&categorieLien=cid'>article L. 1226-5 du code du travail</a>, tout salarié atteint d'une maladie grave au sens du <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000031670469&dateTexte=&categorieLien=cid'>3° et 4° de l'article L. 160-14 du code de la sécurité sociale </a>bénéficie d'autorisations d'absence pour suivre les traitements médicaux rendus nécessaires par son état de santé. »</p>",
-                  "etat": "VIGUEUR_ETEN",
-                  "surtitre": "Maladie grave"
-                },
-                {
-                  "id": "KALIARTI000037040997",
-                  "num": "5",
-                  "intOrdre": 2621435,
-                  "content": "<p align='left'><br/>Au titre VII, les numéros d'articles du code du travail sont modifiés comme suit : </p><p align='left'><div align='center'><center><table border='1'><tr><th>Ancienne numérotation </th><th>Nouvelle numérotation </th></tr><tr><td align='center'>Article L. 223-7 </td><td align='center'>Articles L. 3141-17 et suivants </td></tr><tr><td align='center'>Article L. 222-1 </td><td align='center'>Article L. 3133-1 </td></tr><tr><td align='center'>Article L. 222-1-1 </td><td align='center'>Article L. 3133-2 </td></tr><tr><td align='center'>Article L. 212-16 </td><td align='center'>Articles L. 3133-7 et suivants </td></tr><tr><td align='center'>Articles L. 122-25 et suivants </td><td align='center'>Articles L. 1225-1 et suivants </td></tr><tr><td align='center'>Article L. 122-26-3 </td><td align='center'>Article L. 1225-45 </td></tr></table></center></div></p><p align='left'><br/>À l'article VII. 1.1, le terme « DIF » est remplacé par « CPF ».</p>",
-                  "etat": "VIGUEUR_ETEN",
-                  "surtitre": "Modification de la numérotation des articles du code du travail"
-                }
-              ]
+              "content": "<p><br clear='none'/>Paris, le 12 septembre 2014. <br clear='none'/>SATEV <br clear='none'/>24, rue du Faubourg-Poissonnière <br clear='none'/>75010 Paris <br clear='none'/>Madame, Monsieur, <br clear='none'/>Le syndicat des agences de presse audiovisuelles (SATEV) vous notifie par la présente son adhésion à la  convention collective nationale de la production audiovisuelle du 13 décembre 2006  (idcc n° 2642), conformément à l'article XIII. 4 de la convention ainsi qu'aux annexes, accords et avenants attachés. <br clear='none'/>Le SATEV est composé quasi exclusivement d'entreprises ayant pour activité principale la production audiovisuelle, et relevant notamment des codes 5911. A et 5911. B de la nomenclature NAF, tel que prévu par l'alinéa 2 de l'article 1er de la convention collective relatif à son champ d'application. <br clear='none'/>Le SATEV a, par ailleurs, voté le 9 septembre 2014 une délibération spéciale excluant de sa démarche d'adhésion ses membres qui ne relèvent pas de l'activité de production audiovisuelle. Ainsi, l'adhésion s'inscrit de plein droit dans l'alinéa 1er de l'article XIII. 4 de la convention collective, sans qu'elle ait pour objet ou pour effet de modifier le champ d'application de la convention. <br clear='none'/>Cette adhésion est notifiée par lettre recommandée avec avis de réception à l'ensemble des signataires de la convention collective et fera l'objet du dépôt légal. <br clear='none'/>Veuillez agréer, Madame, Monsieur, l'expression de mes salutations respectueuses.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
             }
           ]
         },
         {
-          "id": "KALITEXT000028134534",
+          "type": "section",
           "title": "Avenant n° 5 du 31 mai 2013 relatif à la maladie et à la prévoyance",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000028134534",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000028134537",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000028134549",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'>Les parties à la convention collective nationale de la production audiovisuelle du 13 décembre 2006 se sont réunies afin d'étudier les dispositions applicables en cas de maladie ou d'accident des salariés, ainsi que le régime de prévoyance mis en place au sein de la branche.<br/>A cet égard, les parties ont notamment relevé que depuis la conclusion de la convention collective précitée, les dispositions légales quant à l'obligation, pour l'employeur, de maintenir le salaire en cas de maladie ou d'accident des salariés, avaient été modifiées par la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000019066178&categorieLien=cid'>loi n° 2008-596 du 25 juin 2008</a>.<br/>Qu'en outre, un accord collectif interbranches conclu le 20 décembre 2006 et modifié par les avenants des 16 juin 2008, 18 décembre 2009, 16 juin 2011 et 22 décembre 2011, avait institué des garanties collectives de prévoyance et de frais de santé au profit des intermittents du spectacle de différentes branches professionnelles parmi lesquelles figure la branche de la production audiovisuelle.<br/>Qu'enfin, presque 5 ans s'étaient écoulés depuis la désignation de l'organisme assureur des garanties de prévoyance et de frais de santé.<br/>En conséquence, les parties signataires ont décidé :<br/>– de mettre en conformité les dispositions de leur convention collective, relatives au maintien de salaire par l'employeur en cas de maladie et accident, avec les dernières évolutions législatives ;<br/>– de procéder au réexamen des modalités de mutualisation du risque auprès d'un organisme assureur désigné tel que prévu par l'article IX.2.3 de la convention collective nationale du 13 décembre 2006. Dans ce cadre, les parties ont décidé de reconduire la désignation de l'institution de prévoyance, Audiens Prévoyance ;<br/>– de supprimer le renvoi à l'accord collectif du 21 novembre 2002 concernant la couverture de prévoyance des intermittents de la branche. Ainsi, le régime de prévoyance applicable aux salariés intermittents non cadres de la branche est désormais exclusivement le régime de prévoyance résultant de l'accord interbranches précité.<br/>C'est dans ce contexte que les parties à la convention collective nationale du 13 décembre 2006 ont décidé d'en réviser les termes de la manière suivante.</p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000028134538",
               "num": "1er",
               "intOrdre": 1048574,
@@ -932,6 +1049,7 @@
               "surtitre": "Modification du titre VIII « Maladie »"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028134539",
               "num": "2",
               "intOrdre": 1572861,
@@ -940,6 +1058,7 @@
               "surtitre": "Modification du titre IX « Prévoyance »"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028134544",
               "num": "3",
               "intOrdre": 2097148,
@@ -948,6 +1067,7 @@
               "surtitre": "Reconduction de la désignation de l'organisme assureur"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028134546",
               "num": "4",
               "intOrdre": 2621435,
@@ -956,6 +1076,7 @@
               "surtitre": "Extension. – Date d'effet. – Durée"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028134547",
               "num": "5",
               "intOrdre": 3145722,
@@ -963,31 +1084,15 @@
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Dépôt"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000028134537",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000028134549",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'>Les parties à la convention collective nationale de la production audiovisuelle du 13 décembre 2006 se sont réunies afin d'étudier les dispositions applicables en cas de maladie ou d'accident des salariés, ainsi que le régime de prévoyance mis en place au sein de la branche.<br/>A cet égard, les parties ont notamment relevé que depuis la conclusion de la convention collective précitée, les dispositions légales quant à l'obligation, pour l'employeur, de maintenir le salaire en cas de maladie ou d'accident des salariés, avaient été modifiées par la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000019066178&categorieLien=cid'>loi n° 2008-596 du 25 juin 2008</a>.<br/>Qu'en outre, un accord collectif interbranches conclu le 20 décembre 2006 et modifié par les avenants des 16 juin 2008, 18 décembre 2009, 16 juin 2011 et 22 décembre 2011, avait institué des garanties collectives de prévoyance et de frais de santé au profit des intermittents du spectacle de différentes branches professionnelles parmi lesquelles figure la branche de la production audiovisuelle.<br/>Qu'enfin, presque 5 ans s'étaient écoulés depuis la désignation de l'organisme assureur des garanties de prévoyance et de frais de santé.<br/>En conséquence, les parties signataires ont décidé :<br/>– de mettre en conformité les dispositions de leur convention collective, relatives au maintien de salaire par l'employeur en cas de maladie et accident, avec les dernières évolutions législatives ;<br/>– de procéder au réexamen des modalités de mutualisation du risque auprès d'un organisme assureur désigné tel que prévu par l'article IX.2.3 de la convention collective nationale du 13 décembre 2006. Dans ce cadre, les parties ont décidé de reconduire la désignation de l'institution de prévoyance, Audiens Prévoyance ;<br/>– de supprimer le renvoi à l'accord collectif du 21 novembre 2002 concernant la couverture de prévoyance des intermittents de la branche. Ainsi, le régime de prévoyance applicable aux salariés intermittents non cadres de la branche est désormais exclusivement le régime de prévoyance résultant de l'accord interbranches précité.<br/>C'est dans ce contexte que les parties à la convention collective nationale du 13 décembre 2006 ont décidé d'en réviser les termes de la manière suivante.</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
           ]
         },
         {
-          "id": "KALITEXT000024408365",
+          "type": "section",
           "title": "Adhésion par lettre du 6 octobre 2010 de l'USNA CFTC à l'accord du 22 février 2010 relatif au CHSCT et au paritarisme",
-          "dateParution": 1311811200000,
-          "articles": [
+          "id": "KALITEXT000024408365",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000024408369",
               "num": null,
               "intOrdre": 1048574,
@@ -997,17 +1102,19 @@
           ]
         },
         {
-          "id": "KALITEXT000023277574",
+          "type": "section",
           "title": "Accord du 22 février 2010 relatif au comité central d'hygiène, de sécurité et des conditions de travail et au paritarisme",
-          "dateParution": 32472144000000,
-          "sections": [
+          "id": "KALITEXT000023277574",
+          "children": [
             {
-              "id": "KALISCTA000023277577",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Chapitre Ier Comité central d'hygiène, de sécurité et des conditions de travail dans la production audiovisuelle",
+              "id": "KALISCTA000023277577",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023277582",
                   "num": "1er",
                   "intOrdre": 524287,
@@ -1016,6 +1123,7 @@
                   "surtitre": "Constitution et missions du CCHSCT-PAV"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000023277584",
                   "num": "2",
                   "intOrdre": 1048574,
@@ -1024,6 +1132,7 @@
                   "surtitre": "Fonctionnement du CCHSCT-PAV"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000023277585",
                   "num": "3",
                   "intOrdre": 1572861,
@@ -1034,12 +1143,14 @@
               ]
             },
             {
-              "id": "KALISCTA000023277578",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre II Délégués de branche",
+              "id": "KALISCTA000023277578",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023277586",
                   "num": "4",
                   "intOrdre": 524287,
@@ -1048,6 +1159,7 @@
                   "surtitre": "Organisations et missions"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000023277588",
                   "num": "5",
                   "intOrdre": 1048574,
@@ -1058,12 +1170,14 @@
               ]
             },
             {
-              "id": "KALISCTA000023277579",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Chapitre III Aide au paritarisme",
+              "id": "KALISCTA000023277579",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023277589",
                   "num": "6",
                   "intOrdre": 524287,
@@ -1072,6 +1186,7 @@
                   "surtitre": "Principe et répartition"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000023277590",
                   "num": "7",
                   "intOrdre": 1048574,
@@ -1082,12 +1197,14 @@
               ]
             },
             {
-              "id": "KALISCTA000023277580",
+              "type": "section",
               "intOrdre": 2097148,
               "title": "Chapitre IV Association pour le paritarisme dans la branche de la production audiovisuelle (APPAV)",
+              "id": "KALISCTA000023277580",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023277591",
                   "num": "8",
                   "intOrdre": 524287,
@@ -1096,6 +1213,7 @@
                   "surtitre": "Institution et fonctionnement"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000023277592",
                   "num": "9",
                   "intOrdre": 1048574,
@@ -1106,12 +1224,14 @@
               ]
             },
             {
-              "id": "KALISCTA000023277581",
+              "type": "section",
               "intOrdre": 2621435,
               "title": "Chapitre V Intégration dans la convention collective",
+              "id": "KALISCTA000023277581",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023277593",
                   "num": "10",
                   "intOrdre": 524287,
@@ -1123,11 +1243,12 @@
           ]
         },
         {
-          "id": "KALITEXT000020498727",
+          "type": "section",
           "title": "Avenant n° 3 du 15 décembre 2008 modifiant des articles de la convention collective",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000020498727",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000020498730",
               "num": null,
               "intOrdre": 524287,
@@ -1135,6 +1256,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020498732",
               "num": "1",
               "intOrdre": 1048574,
@@ -1142,6 +1264,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020498734",
               "num": "2",
               "intOrdre": 1572861,
@@ -1149,6 +1272,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020498736",
               "num": "3",
               "intOrdre": 2097148,
@@ -1156,6 +1280,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020498737",
               "num": "4",
               "intOrdre": 2621435,
@@ -1163,6 +1288,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020498738",
               "num": "5",
               "intOrdre": 3145722,
@@ -1170,6 +1296,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020498739",
               "num": "6",
               "intOrdre": 3670009,
@@ -1177,6 +1304,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020498740",
               "num": "7",
               "intOrdre": 4194296,
@@ -1184,6 +1312,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020498741",
               "num": "8",
               "intOrdre": 4718583,
@@ -1191,6 +1320,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020498742",
               "num": "9",
               "intOrdre": 5242870,
@@ -1198,6 +1328,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020498744",
               "num": "10",
               "intOrdre": 5767157,
@@ -1205,6 +1336,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020498747",
               "num": "11",
               "intOrdre": 6291444,
@@ -1212,6 +1344,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020498748",
               "num": "12",
               "intOrdre": 6815731,
@@ -1219,6 +1352,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020498752",
               "num": "13",
               "intOrdre": 7340018,
@@ -1226,6 +1360,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020498756",
               "num": "14",
               "intOrdre": 7864305,
@@ -1233,6 +1368,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020498758",
               "num": "15",
               "intOrdre": 8388592,
@@ -1240,6 +1376,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020498759",
               "num": "16",
               "intOrdre": 8912879,
@@ -1247,6 +1384,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020498760",
               "num": "17",
               "intOrdre": 9437166,
@@ -1256,11 +1394,12 @@
           ]
         },
         {
-          "id": "KALITEXT000020013607",
+          "type": "section",
           "title": "Adhésion par lettre du 23 juillet 2008 de l'USNA-CFTC à la convention collective de la production audiovisuelle du 13 décembre 2006",
-          "dateParution": 1230681600000,
-          "articles": [
+          "id": "KALITEXT000020013607",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000020013611",
               "num": null,
               "intOrdre": 524287,
@@ -1270,17 +1409,19 @@
           ]
         },
         {
-          "id": "KALITEXT000018773470",
+          "type": "section",
           "title": "Avenant n° 2 du 15 novembre 2007 relatif aux salaires et portant modifications diverses",
-          "dateParution": 32472144000000,
-          "sections": [
+          "id": "KALITEXT000018773470",
+          "children": [
             {
-              "id": "KALISCTA000022899734",
+              "type": "section",
               "intOrdre": 262143,
               "title": "Article unique",
+              "id": "KALISCTA000022899734",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000018773472",
                   "num": null,
                   "intOrdre": 536870911,
@@ -1288,6 +1429,7 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000022899740",
                   "num": null,
                   "intOrdre": 1073741823,
@@ -1295,6 +1437,7 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000022899741",
                   "num": null,
                   "intOrdre": 1610612735,
@@ -1302,6 +1445,7 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000022899746",
                   "num": null,
                   "intOrdre": 1879048191,
@@ -1309,6 +1453,7 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000022899750",
                   "num": null,
                   "intOrdre": 2013265919,
@@ -1316,6 +1461,7 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000022899753",
                   "num": null,
                   "intOrdre": 2080374783,
@@ -1329,17 +1475,19 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 3,
       "title": "Textes Salaires",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000035993574",
+          "type": "section",
           "title": "Avenant n° 9 du 7 juillet 2017 relatif aux salaires minima au 1er août 2017",
-          "dateParution": 1510185600000,
-          "articles": [
+          "id": "KALITEXT000035993574",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000035993577",
               "num": "unique",
               "intOrdre": 524287,
@@ -1350,11 +1498,12 @@
           ]
         },
         {
-          "id": "KALITEXT000034449287",
+          "type": "section",
           "title": "Avenant n° 7 du 30 septembre 2016 relatif aux salaires minima au 1er octobre 2016",
-          "dateParution": 1492646400000,
-          "articles": [
+          "id": "KALITEXT000034449287",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000034449290",
               "num": "unique",
               "intOrdre": 524287,
@@ -1365,27 +1514,19 @@
           ]
         },
         {
-          "id": "KALITEXT000026562981",
+          "type": "section",
           "title": "Avenant n° 4 du 3 juillet 2012 relatif aux salaires minima au 1er juillet 2012",
-          "dateParution": 1351728000000,
-          "articles": [
+          "id": "KALITEXT000026562981",
+          "children": [
             {
-              "id": "KALIARTI000026562984",
-              "num": "unique",
-              "intOrdre": 524287,
-              "content": "<p align='left'><br/>Il est convenu, à compter du 1er juillet 2012, entre les partenaires sociaux de réévaluer les minima comme suit :<br/>+ 2 % pour l'ensemble des salariés sous CDI ;<br/>+ 2 % pour les salariés sous CDD d'usage des niveaux IV, V, IV IIIB ;<br/>+ 1 % pour les salariés sous CDD d'usage des niveaux IIIA, II et I.<br/>Une grille de salaire à jour est annexée au présent accord.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Revalorisation des minima"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000026562985",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Annexe",
+              "id": "KALISCTA000026562985",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000026562986",
                   "num": null,
                   "intOrdre": 524287,
@@ -1393,15 +1534,25 @@
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000026562984",
+              "num": "unique",
+              "intOrdre": 524287,
+              "content": "<p align='left'><br/>Il est convenu, à compter du 1er juillet 2012, entre les partenaires sociaux de réévaluer les minima comme suit :<br/>+ 2 % pour l'ensemble des salariés sous CDI ;<br/>+ 2 % pour les salariés sous CDD d'usage des niveaux IV, V, IV IIIB ;<br/>+ 1 % pour les salariés sous CDD d'usage des niveaux IIIA, II et I.<br/>Une grille de salaire à jour est annexée au présent accord.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Revalorisation des minima"
             }
           ]
         },
         {
-          "id": "KALITEXT000019700808",
+          "type": "section",
           "title": "Accord du 2 juillet 2008 relatif aux salaires au 1er juillet 2008",
-          "dateParution": 1225238400000,
-          "articles": [
+          "id": "KALITEXT000019700808",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000019700811",
               "num": null,
               "intOrdre": 524287,
@@ -1409,6 +1560,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019700812",
               "num": null,
               "intOrdre": 1048574,
@@ -1416,6 +1568,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019700813",
               "num": null,
               "intOrdre": 1572861,
@@ -1423,6 +1576,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019700814",
               "num": null,
               "intOrdre": 2097148,
@@ -1430,6 +1584,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019700815",
               "num": null,
               "intOrdre": 2621435,
@@ -1439,11 +1594,12 @@
           ]
         },
         {
-          "id": "KALITEXT000018155057",
+          "type": "section",
           "title": "Accord du 26 juin 2007 relatif aux salaires au 1er juillet 2007",
-          "dateParution": 1203552000000,
-          "articles": [
+          "id": "KALITEXT000018155057",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000018155059",
               "num": null,
               "intOrdre": 524287,

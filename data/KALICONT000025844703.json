@@ -1,25 +1,26 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale du personnel sédentaire des entreprises de navigation du 14 septembre 2010",
   "id": "KALICONT000025844703",
   "num": "2972",
-  "title": "Convention collective nationale du personnel sédentaire des entreprises de navigation du 14 septembre 2010",
   "shortTitle": "Navigation Personnel Sédentaire",
-  "categorisation": [
-    "Entreprises de navigation : personnel sédentaire"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000025843781",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale du personnel sédentaire des entreprises de navigation du 14 septembre 2010",
+      "id": "KALITEXT000025843781",
       "etat": "VIGUEUR_ETEN",
-      "sections": [
+      "children": [
         {
-          "id": "KALISCTA000025843783",
+          "type": "section",
           "intOrdre": 524287,
           "title": "Titre Ier Dispositions générales",
+          "id": "KALISCTA000025843783",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000025843798",
               "num": "1.4",
               "intOrdre": 2097148,
@@ -30,12 +31,14 @@
           ]
         },
         {
-          "id": "KALISCTA000025843784",
+          "type": "section",
           "intOrdre": 1048574,
           "title": "Titre II Dialogue social",
+          "id": "KALISCTA000025843784",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000025843805",
               "num": "2.4",
               "intOrdre": 2097148,
@@ -46,12 +49,14 @@
           ]
         },
         {
-          "id": "KALISCTA000025843785",
+          "type": "section",
           "intOrdre": 1572861,
           "title": "Titre III Contrat de travail",
+          "id": "KALISCTA000025843785",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000025843811",
               "num": "3.5",
               "intOrdre": 2621435,
@@ -62,12 +67,14 @@
           ]
         },
         {
-          "id": "KALISCTA000025843786",
+          "type": "section",
           "intOrdre": 2097148,
           "title": "Titre IV Gestion des ressources humaines",
+          "id": "KALISCTA000025843786",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000025843814",
               "num": "4.3",
               "intOrdre": 1572861,
@@ -78,12 +85,14 @@
           ]
         },
         {
-          "id": "KALISCTA000025843787",
+          "type": "section",
           "intOrdre": 2621435,
           "title": "Titre V Rémunération",
+          "id": "KALISCTA000025843787",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000025843815",
               "num": "5.1",
               "intOrdre": 524287,
@@ -94,12 +103,14 @@
           ]
         },
         {
-          "id": "KALISCTA000025843788",
+          "type": "section",
           "intOrdre": 3145722,
           "title": "Titre VI Garanties sociales",
+          "id": "KALISCTA000025843788",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000025843820",
               "num": "6.3",
               "intOrdre": 2097148,
@@ -110,12 +121,14 @@
           ]
         },
         {
-          "id": "KALISCTA000025843789",
+          "type": "section",
           "intOrdre": 3670009,
           "title": "Titre VII Temps de travail",
+          "id": "KALISCTA000025843789",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000035219794",
               "num": "7.1",
               "intOrdre": 524287,
@@ -126,12 +139,14 @@
           ]
         },
         {
-          "id": "KALISCTA000025843790",
+          "type": "section",
           "intOrdre": 4194296,
           "title": "Titre VIII Formation professionnelle",
+          "id": "KALISCTA000025843790",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000025843824",
               "num": "8.1",
               "intOrdre": 524287,
@@ -142,12 +157,14 @@
           ]
         },
         {
-          "id": "KALISCTA000025843791",
+          "type": "section",
           "intOrdre": 4718583,
           "title": "Titre IX Avantages acquis",
+          "id": "KALISCTA000025843791",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000025843826",
               "num": "9.1",
               "intOrdre": 524287,
@@ -158,12 +175,14 @@
           ]
         },
         {
-          "id": "KALISCTA000025843792",
+          "type": "section",
           "intOrdre": 5242870,
           "title": "Titre X Procédure de conciliation en cas de conflits collectifs",
+          "id": "KALISCTA000025843792",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000025843827",
               "num": "10.1",
               "intOrdre": 524287,
@@ -176,17 +195,19 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000035184745",
+          "type": "section",
           "title": "Avenant n° 6 du 26 janvier 2017 relatif aux congés pour événements familiaux",
-          "dateParution": 1499904000000,
-          "articles": [
+          "id": "KALITEXT000035184745",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000035184748",
               "num": null,
               "intOrdre": 524287,
@@ -196,17 +217,19 @@
           ]
         },
         {
-          "id": "KALITEXT000034135475",
+          "type": "section",
           "title": "Accord du 12 octobre 2016 relatif à l'égalité professionnelle",
-          "dateParution": 32472144000000,
-          "sections": [
+          "id": "KALITEXT000034135475",
+          "children": [
             {
-              "id": "KALISCTA000034135478",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000034135478",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000034135482",
                   "num": null,
                   "intOrdre": 524287,
@@ -216,12 +239,14 @@
               ]
             },
             {
-              "id": "KALISCTA000034135479",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "I. – Dispositions générales",
+              "id": "KALISCTA000034135479",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000034135483",
                   "num": "1er",
                   "intOrdre": 524287,
@@ -230,6 +255,7 @@
                   "surtitre": "Champ d'application"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000034135484",
                   "num": "2",
                   "intOrdre": 1048574,
@@ -238,6 +264,7 @@
                   "surtitre": "Principe d'égalité et de non-discrimination"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000034135487",
                   "num": "3",
                   "intOrdre": 1572861,
@@ -246,6 +273,7 @@
                   "surtitre": "Lutter contre les stéréotypes"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000034135488",
                   "num": "4",
                   "intOrdre": 2097148,
@@ -256,12 +284,14 @@
               ]
             },
             {
-              "id": "KALISCTA000034135480",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "II. – Recrutement, information et orientation professionnelle",
+              "id": "KALISCTA000034135480",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000034135490",
                   "num": "5",
                   "intOrdre": 524287,
@@ -270,6 +300,7 @@
                   "surtitre": "Recrutement"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000034135491",
                   "num": "6",
                   "intOrdre": 1048574,
@@ -278,6 +309,7 @@
                   "surtitre": "Formation professionnelle"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000034135492",
                   "num": "7",
                   "intOrdre": 1572861,
@@ -286,6 +318,7 @@
                   "surtitre": "Articulation vie professionnelle et vie privée"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000034135495",
                   "num": "8",
                   "intOrdre": 2097148,
@@ -294,6 +327,7 @@
                   "surtitre": "Egalité salariale et évolution professionnelle"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000034135496",
                   "num": "9",
                   "intOrdre": 2621435,
@@ -304,12 +338,14 @@
               ]
             },
             {
-              "id": "KALISCTA000034135481",
+              "type": "section",
               "intOrdre": 2097148,
               "title": "III. – Dispositions diverses",
+              "id": "KALISCTA000034135481",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000034135497",
                   "num": "10",
                   "intOrdre": 524287,
@@ -318,6 +354,7 @@
                   "surtitre": "Suivi de l'accord"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000034135498",
                   "num": "11",
                   "intOrdre": 1048574,
@@ -326,6 +363,7 @@
                   "surtitre": "Révision"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000034135499",
                   "num": "12",
                   "intOrdre": 1572861,
@@ -334,6 +372,7 @@
                   "surtitre": "Dénonciation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000034135501",
                   "num": "13",
                   "intOrdre": 2097148,
@@ -346,17 +385,19 @@
           ]
         },
         {
-          "id": "KALITEXT000030552017",
+          "type": "section",
           "title": "Accord du 16 décembre 2014 relatif à la formation professionnelle",
-          "dateParution": 1430870400000,
-          "sections": [
+          "id": "KALITEXT000030552017",
+          "children": [
             {
-              "id": "KALISCTA000030552020",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000030552020",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552027",
                   "num": null,
                   "intOrdre": 524287,
@@ -366,12 +407,14 @@
               ]
             },
             {
-              "id": "KALISCTA000030552021",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Titre Ier Dispositions générales",
+              "id": "KALISCTA000030552021",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552030",
                   "num": "1.1",
                   "intOrdre": 524287,
@@ -380,6 +423,7 @@
                   "surtitre": "Champ d'application"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552031",
                   "num": "1.2",
                   "intOrdre": 1048574,
@@ -388,6 +432,7 @@
                   "surtitre": "Durée, entrée en vigueur et extension"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552035",
                   "num": "1.3",
                   "intOrdre": 1572861,
@@ -396,6 +441,7 @@
                   "surtitre": "Révision"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552036",
                   "num": "1.4",
                   "intOrdre": 2097148,
@@ -406,12 +452,14 @@
               ]
             },
             {
-              "id": "KALISCTA000030552022",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Titre II Instances de la formation professionnelle",
+              "id": "KALISCTA000030552022",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552038",
                   "num": "2.1",
                   "intOrdre": 524287,
@@ -420,6 +468,7 @@
                   "surtitre": "Commission paritaire nationale de l'emploi et de la formation professionnelle (CPNE)"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552039",
                   "num": "2.2",
                   "intOrdre": 1048574,
@@ -428,6 +477,7 @@
                   "surtitre": "Observatoire prospectif des métiers et des qualifications"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552041",
                   "num": "2.3",
                   "intOrdre": 1572861,
@@ -438,12 +488,14 @@
               ]
             },
             {
-              "id": "KALISCTA000030552023",
+              "type": "section",
               "intOrdre": 2097148,
               "title": "Titre III Dispositifs de la formation professionnelle",
+              "id": "KALISCTA000030552023",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552044",
                   "num": "3.1",
                   "intOrdre": 524287,
@@ -452,6 +504,7 @@
                   "surtitre": "Plan de formation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552045",
                   "num": "3.2",
                   "intOrdre": 1048574,
@@ -460,6 +513,7 @@
                   "surtitre": "Bilan de compétences"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552046",
                   "num": "3.3",
                   "intOrdre": 1572861,
@@ -468,6 +522,7 @@
                   "surtitre": "Compte personnel de formation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552048",
                   "num": "3.3.1",
                   "intOrdre": 2097148,
@@ -476,6 +531,7 @@
                   "surtitre": "Heures acquises au titre du DIF"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552049",
                   "num": "3.3.2",
                   "intOrdre": 2621435,
@@ -484,6 +540,7 @@
                   "surtitre": "Alimentation du CPF"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552050",
                   "num": "3.3.3",
                   "intOrdre": 3145722,
@@ -492,6 +549,7 @@
                   "surtitre": "Formations éligibles au CPF"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552052",
                   "num": "3.3.4",
                   "intOrdre": 3670009,
@@ -500,6 +558,7 @@
                   "surtitre": "Utilisation du CPF"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552053",
                   "num": "3.3.5",
                   "intOrdre": 4194296,
@@ -508,6 +567,7 @@
                   "surtitre": "Articulation du CPF avec d'autres dispositifs de formation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552055",
                   "num": "3.3.6",
                   "intOrdre": 4718583,
@@ -516,6 +576,7 @@
                   "surtitre": "Prise en charge des frais de formation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552056",
                   "num": "3.3.7",
                   "intOrdre": 5242870,
@@ -524,6 +585,7 @@
                   "surtitre": "En présence d'un accord d'entreprise"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552057",
                   "num": "3.4",
                   "intOrdre": 5767157,
@@ -532,6 +594,7 @@
                   "surtitre": "Validation des acquis de l'expérience (VAE)"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552058",
                   "num": "3.5",
                   "intOrdre": 6291444,
@@ -540,6 +603,7 @@
                   "surtitre": "Congé individuel de formation (CIF)"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552059",
                   "num": "3.6",
                   "intOrdre": 6815731,
@@ -548,6 +612,7 @@
                   "surtitre": "Contrat de professionnalisation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552060",
                   "num": "3.6.1",
                   "intOrdre": 7340018,
@@ -556,6 +621,7 @@
                   "surtitre": "Modalités du contrat de professionnalisation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552061",
                   "num": "3.6.1.1",
                   "intOrdre": 7864305,
@@ -564,6 +630,7 @@
                   "surtitre": "Durée du contrat"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552063",
                   "num": "3.6.1.2",
                   "intOrdre": 8388592,
@@ -572,6 +639,7 @@
                   "surtitre": "Priorité en matière de contrats de professionnalisation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552064",
                   "num": "3.6.1.3",
                   "intOrdre": 8912879,
@@ -580,6 +648,7 @@
                   "surtitre": "Prise en charge des contrats et périodes de professionnalisation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552065",
                   "num": "3.6.2",
                   "intOrdre": 9437166,
@@ -588,6 +657,7 @@
                   "surtitre": "Rémunération du salarié"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552066",
                   "num": "3.7",
                   "intOrdre": 9961453,
@@ -596,6 +666,7 @@
                   "surtitre": "Périodes de professionnalisation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552068",
                   "num": "3.8",
                   "intOrdre": 10485740,
@@ -604,6 +675,7 @@
                   "surtitre": "Tutorat"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552069",
                   "num": "3.9",
                   "intOrdre": 11010027,
@@ -612,6 +684,7 @@
                   "surtitre": "Entretien professionnel"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552071",
                   "num": "3.10",
                   "intOrdre": 11534314,
@@ -622,12 +695,14 @@
               ]
             },
             {
-              "id": "KALISCTA000030552024",
+              "type": "section",
               "intOrdre": 2621435,
               "title": "Titre IV Dispositions particulières",
+              "id": "KALISCTA000030552024",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552074",
                   "num": "4.1",
                   "intOrdre": 524287,
@@ -636,6 +711,7 @@
                   "surtitre": "Egalité professionnelle entre les hommes et les femmes dans l'accès à la formation professionnelle"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552075",
                   "num": "4.2",
                   "intOrdre": 1048574,
@@ -646,12 +722,14 @@
               ]
             },
             {
-              "id": "KALISCTA000030552025",
+              "type": "section",
               "intOrdre": 3145722,
               "title": "Titre V Apprentissage",
+              "id": "KALISCTA000030552025",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000030552076",
                   "num": null,
                   "intOrdre": 524287,
@@ -661,18 +739,21 @@
               ]
             },
             {
-              "id": "KALISCTA000030552026",
+              "type": "section",
               "intOrdre": 3670009,
               "title": "Annexes",
+              "id": "KALISCTA000030552026",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000030576778",
+                  "type": "section",
                   "intOrdre": 262143,
                   "title": "Annexe 1",
+                  "id": "KALISCTA000030576778",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000030552077",
                       "num": null,
                       "intOrdre": 1073741823,
@@ -682,12 +763,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000030576888",
+                  "type": "section",
                   "intOrdre": 655358,
                   "title": "Annexe 2.1",
+                  "id": "KALISCTA000030576888",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000030552078",
                       "num": null,
                       "intOrdre": 1073741823,
@@ -697,12 +780,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000030577222",
+                  "type": "section",
                   "intOrdre": 1114109,
                   "title": "Annexe 2.2",
+                  "id": "KALISCTA000030577222",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000030552080",
                       "num": null,
                       "intOrdre": 1073741823,
@@ -712,12 +797,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000030577285",
+                  "type": "section",
                   "intOrdre": 1605628,
                   "title": "Annexe 2.3",
+                  "id": "KALISCTA000030577285",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000030552081",
                       "num": null,
                       "intOrdre": 1073741823,
@@ -731,11 +818,12 @@
           ]
         },
         {
-          "id": "KALITEXT000029532784",
+          "type": "section",
           "title": "Avenant n° 3 du 1er juillet 2014 relatif au travail à temps partiel",
-          "dateParution": 1412208000000,
-          "articles": [
+          "id": "KALITEXT000029532784",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000029532787",
               "num": "1er",
               "intOrdre": 524287,
@@ -744,6 +832,7 @@
               "surtitre": "Présentation générale. – Objet"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029532788",
               "num": "2",
               "intOrdre": 1048574,
@@ -752,6 +841,7 @@
               "surtitre": "Travail à temps partiel"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029532789",
               "num": "3",
               "intOrdre": 1572861,
@@ -762,11 +852,12 @@
           ]
         },
         {
-          "id": "KALITEXT000028837070",
+          "type": "section",
           "title": "Avenant n° 1 du 18 décembre 2013 relatif à la formation professionnelle",
-          "dateParution": 1397001600000,
-          "articles": [
+          "id": "KALITEXT000028837070",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000028837073",
               "num": "1er",
               "intOrdre": 524287,
@@ -775,6 +866,7 @@
               "surtitre": "Champ d'application et objet"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028837074",
               "num": "2",
               "intOrdre": 1048574,
@@ -783,6 +875,7 @@
               "surtitre": "Fonds paritaire de sécurisation des parcours professionnels (FPSPP)"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028837075",
               "num": "3",
               "intOrdre": 1572861,
@@ -791,6 +884,7 @@
               "surtitre": "Droit individuel à la formation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028837076",
               "num": "4",
               "intOrdre": 2097148,
@@ -801,11 +895,12 @@
           ]
         },
         {
-          "id": "KALITEXT000025843829",
+          "type": "section",
           "title": "Annexe I : Avenant n° 4 du 30 janvier 2009",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000025843829",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000025843832",
               "num": null,
               "intOrdre": 174762,
@@ -813,6 +908,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000025843833",
               "num": "unique",
               "intOrdre": 349524,
@@ -822,109 +918,26 @@
           ]
         },
         {
-          "id": "KALITEXT000025843834",
+          "type": "section",
           "title": "Annexe II : Accord du 19 février 1997 relatif à la classification",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000025843834",
+          "children": [
             {
-              "id": "KALIARTI000025843836",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p><br/>Annexe II</p><p><br/>Accord du 19 février 1997 relatif à la classification</p><p><br/>Avertissement : sans qu'aucune modification à la présente annexe ne soit apportée, il est néanmoins précisé que la référence à l'article L. 432-3-I du <a alt='Code du travail (V)' href='/affichCode.do?cidTexte=LEGITEXT000006072050&dateTexte=&categorieLien=cid'>code du travail</a> doit être lue comme l'article L. 2323-57 du <a alt='Code du travail (V)' href='/affichCode.do?cidTexte=LEGITEXT000006072050&dateTexte=&categorieLien=cid'>code du travail</a> (nouvelle numérotation 2008).</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000025843839",
-              "num": "Article 1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>L'accord du 19 février 1997 relatif à la classification des emplois du personnel sédentaire des entreprises de navigation libres se substitue aux articles 3 et 4 de la convention collective nationale du personnel sédentaire des entreprises de navigation libres du 20 février 1951.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000025843840",
-              "num": "Article 2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Compte tenu de la méthode de classification décrite dans le présent accord, les parties signataires conviennent qu'aucune correspondance ne peut être établie entre le classement des emplois tels que définis par cette méthode et la nomenclature des emplois antérieurement prévue à l'article 3 de la convention collective du 20 février 1951.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000025843841",
-              "num": "Article 3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Les emplois sédentaires des entreprises relevant du présent accord sont classés en fonction du contenu de l'emploi. A chaque emploi de l'entreprise est attribué un coefficient déterminé selon les modalités décrites à l'article 4. Selon la valeur de son coefficient, l'emploi est classé dans une échelle unique, constituée de 9 niveaux. Cette échelle est commune à tous les emplois de l'entreprise, quel que soit le pôle d'activité où ces emplois s'exercent.<br/>Aux catégories professionnelles correspondent les niveaux suivants :</p><p align='left'><div align='center'><center><table border='1'><tr><th>Catégorie</th><th>Niveau</th><th>Coefficient</th></tr><tr><td align='center'>Employés</td><td align='center'>I<br/>II<br/>III</td><td align='center'>100<br/>200<br/>225</td></tr><tr><td align='center'>Agents de maîtrise</td><td align='center'>IV<br/>V<br/>VI</td><td align='center'>260<br/>320<br/>450</td></tr><tr><td>Catégorie</td><td>Niveau</td><td>Coefficient</td></tr><tr><td align='center'>Cadres</td><td align='center'>VII<br/>VIII<br/>IX</td><td align='center'>500<br/>550<br/>700</td></tr></table></center></div></p><p align='left'><br/>Cet accord ne concerne pas les cadres dirigeants.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000025843842",
-              "num": "Article 4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Le contenu de chaque emploi est analysé et évalué compte tenu de l'expérience qu'il comporte vis-à-vis des 7 critères suivants :<br/>Trois critères de responsabilité :</p><p align='left'><br/>– l'importance du domaine d'action ;<br/>– l'influence sur le domaine d'action ;<br/>– l'autonomie d'action.<br/>Trois critères de compétence :</p><p align='left'><br/>– les connaissances requises ;<br/>– l'aptitude aux relations humaines ;<br/>– l'aptitude à l'encadrement.<br/>Un critère d'exigences particulières de l'emploi.<br/>Les définitions des critères, la table des valeurs des critères et son mode d'emploi font l'objet de l'annexe I au présent accord.<br/>L'évaluation du coefficient de l'emploi est réalisée par l'entreprise par pesée pour chacun des critères. La valeur du coefficient résulte de la somme arithmétique des points ainsi acquis.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000025843843",
-              "num": "Article 5",
-              "intOrdre": 3145722,
-              "content": "<p align='left'><br/>Douze emplois définis à l'annexe II du présent accord, choisis parmi les 3 pôles d'activité, flotte, commercial et administratif, servent de repères aux entreprises lors du classement de leurs propres emplois dans l'échelle des coefficients. Ces emplois sont appelés emplois repères. Ils sont positionnés sur l'échelle des coefficients comme suit.</p><p align='left'><div align='center'><center><table border='1'><tr><th>Catégorie</th><th>Coefficient</th><th>Niveau</th><th>Emploi repère</th></tr><tr><td align='center'>Employés</td><td align='center'>100</td><td align='center'>I</td><td align='center'>Employé administratif, agent d'exploitation</td></tr><tr><td><br/></td><td align='center'>200</td><td align='center'>II</td><td align='center'>Agent opérationnel</td></tr><tr><td><br/></td><td align='center'>225</td><td align='center'>III</td><td align='center'>Agent consignation marchandise</td></tr><tr><td align='center'>Agents<br/>de maîtrise</td><td align='center'>260</td><td align='center'>IV</td><td align='center'>Acheteur, agent de consignation coque, engageur de fret</td></tr><tr><td><br/></td><td align='center'>320</td><td align='center'>V</td><td align='center'>Responsable escale transbordeur, positionneur</td></tr><tr><td><br/></td><td align='center'>450</td><td align='center'>VI</td><td align='center'>Responsable administratif armement, shipplaneur</td></tr><tr><td align='center'>Cadres</td><td align='center'>500</td><td align='center'>VII</td><td><br/></td></tr><tr><td><br/></td><td align='center'>550</td><td align='center'>VIII</td><td align='center'>Responsable affrètement</td></tr><tr><td><br/></td><td align='center'>700</td><td align='center'>IX</td><td><br/></td></tr></table></center></div></p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000025843844",
-              "num": "Article 6",
-              "intOrdre": 3670009,
-              "content": "<p align='left'><br/>La mise en œuvre dans l'entreprise du présent accord fera l'objet des informations et consultations des instances représentatives des salariés prévues par le <a alt='Code du travail (V)' href='/affichCode.do?cidTexte=LEGITEXT000006072050&dateTexte=&categorieLien=cid'>code du travail</a>.<br/>A cet effet, les employeurs exposeront le présent accord et les principes qu'il contient au comité d'entreprise, ou, à défaut, aux délégués du personnel. Les délégués du personnel seront informés des modalités de mise en œuvre du présent accord dans le cadre de l'entreprise, compte tenu notamment de ses effectifs, de sa structure et de ses conditions particulières d'organisation ou de fonctionnement.<br/>Un bilan d'application du présent accord sera présenté annuellement au comité d'entreprise, dans le cadre des obligations prévues à l'article L. 432-3-I du <a alt='Code du travail (V)' href='/affichCode.do?cidTexte=LEGITEXT000006072050&dateTexte=&categorieLien=cid'>code du travail</a>.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000025843847",
-              "num": "Article 7",
-              "intOrdre": 4194296,
-              "content": "<p align='left'><br/>Chaque salarié recevra notification écrite du coefficient de l'emploi qu'il occupe. L'emploi peut faire l'objet d'une nouvelle évaluation à la demande motivée du salarié auprès de la direction de l'entreprise.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000025843848",
-              "num": "Article 8",
-              "intOrdre": 4718583,
-              "content": "<p align='left'><br/>Il est créé une commission nationale des classifications.<br/>Cette commission connaît, après tentative de règlement au sein de l'entreprise, les cas de désaccord persistant entre l'employeur et le salarié sur le niveau attribué à l'emploi occupé par ce dernier. Elle est saisie par l'une ou l'autre des parties.<br/>La commission est composée d'un représentant de chacune des organisations syndicales signataires de la convention collective (ou y adhérant ultérieurement) et d'un nombre égal de représentants d'employeurs désignés par Armateurs de France.<br/>Elle est présidée à tour de rôle par un représentant patronal et un représentant salarial. Les demandes d'avis lui sont adressées par courrier au siège d'Armateurs de France, accompagnées de toutes pièces utiles au traitement du dossier. La commission peut toutefois demander la communication d'informations complémentaires qu'elle jugerait nécessaires.<br/>La commission se réunit, en cas de besoin, une fois par trimestre et adresse ses conclusions aux parties concernées dans les 15 jours qui suivent sa date de réunion.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000025843849",
-              "num": "Article 9",
-              "intOrdre": 5242870,
-              "content": "<p align='left'><br/>Le barème annexé à l'accord du 20 février 1951 modifié concernant les conditions de rémunération, annexé à la convention collective du 20 février 1951, indique la rémunération mensuelle minimale applicable à chacun des 9 niveaux de la partie III du présent accord.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000025843850",
-              "num": "Article 10",
-              "intOrdre": 5767157,
-              "content": "<p align='left'><br/>La mise en œuvre dans les entreprises de la classification telle que prévue par le présent accord ne peut avoir pour résultat une diminution du montant global de la rémunération antérieurement perçue par le salarié, ni un déclassement catégoriel.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000025843851",
-              "num": "Article 11",
-              "intOrdre": 6291444,
-              "content": "<p align='left'><br/>Cet accord entrera en vigueur à la date de sa signature. Toutefois, les entreprises disposeront à compter de cette date d'un délai de 24 mois pour entreprendre sa mise en œuvre.<br/>Les signataires du présent accord conviennent de dresser un bilan d'étape de son application 12 mois après sa date d'entrée en vigueur. Un bilan global sera effectué à l'issue d'une période de 36 mois après sa date d'entrée en vigueur.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000025843852",
+              "type": "section",
               "intOrdre": 6815731,
               "title": "Annexe I ",
+              "id": "KALISCTA000025843852",
               "etat": "VIGUEUR_NON_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000025846552",
+                  "type": "section",
                   "intOrdre": 786430,
                   "title": "I. Table des valeurs des critères : Mode d'emploi",
+                  "id": "KALISCTA000025846552",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000025843853",
                       "num": null,
                       "intOrdre": 1073741823,
@@ -934,12 +947,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000025843854",
+                  "type": "section",
                   "intOrdre": 1048574,
                   "title": "II. – Définition des critères",
+                  "id": "KALISCTA000025843854",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000025843856",
                       "num": null,
                       "intOrdre": 524287,
@@ -951,12 +966,14 @@
               ]
             },
             {
-              "id": "KALISCTA000025843855",
+              "type": "section",
               "intOrdre": 1077149689,
               "title": "Annexe II",
+              "id": "KALISCTA000025843855",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000025843857",
                   "num": null,
                   "intOrdre": 524287,
@@ -964,21 +981,119 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000025843836",
+              "num": null,
+              "intOrdre": 524287,
+              "content": "<p><br/>Annexe II</p><p><br/>Accord du 19 février 1997 relatif à la classification</p><p><br/>Avertissement : sans qu'aucune modification à la présente annexe ne soit apportée, il est néanmoins précisé que la référence à l'article L. 432-3-I du <a alt='Code du travail (V)' href='/affichCode.do?cidTexte=LEGITEXT000006072050&dateTexte=&categorieLien=cid'>code du travail</a> doit être lue comme l'article L. 2323-57 du <a alt='Code du travail (V)' href='/affichCode.do?cidTexte=LEGITEXT000006072050&dateTexte=&categorieLien=cid'>code du travail</a> (nouvelle numérotation 2008).</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000025843839",
+              "num": "Article 1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>L'accord du 19 février 1997 relatif à la classification des emplois du personnel sédentaire des entreprises de navigation libres se substitue aux articles 3 et 4 de la convention collective nationale du personnel sédentaire des entreprises de navigation libres du 20 février 1951.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000025843840",
+              "num": "Article 2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Compte tenu de la méthode de classification décrite dans le présent accord, les parties signataires conviennent qu'aucune correspondance ne peut être établie entre le classement des emplois tels que définis par cette méthode et la nomenclature des emplois antérieurement prévue à l'article 3 de la convention collective du 20 février 1951.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000025843841",
+              "num": "Article 3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Les emplois sédentaires des entreprises relevant du présent accord sont classés en fonction du contenu de l'emploi. A chaque emploi de l'entreprise est attribué un coefficient déterminé selon les modalités décrites à l'article 4. Selon la valeur de son coefficient, l'emploi est classé dans une échelle unique, constituée de 9 niveaux. Cette échelle est commune à tous les emplois de l'entreprise, quel que soit le pôle d'activité où ces emplois s'exercent.<br/>Aux catégories professionnelles correspondent les niveaux suivants :</p><p align='left'><div align='center'><center><table border='1'><tr><th>Catégorie</th><th>Niveau</th><th>Coefficient</th></tr><tr><td align='center'>Employés</td><td align='center'>I<br/>II<br/>III</td><td align='center'>100<br/>200<br/>225</td></tr><tr><td align='center'>Agents de maîtrise</td><td align='center'>IV<br/>V<br/>VI</td><td align='center'>260<br/>320<br/>450</td></tr><tr><td>Catégorie</td><td>Niveau</td><td>Coefficient</td></tr><tr><td align='center'>Cadres</td><td align='center'>VII<br/>VIII<br/>IX</td><td align='center'>500<br/>550<br/>700</td></tr></table></center></div></p><p align='left'><br/>Cet accord ne concerne pas les cadres dirigeants.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000025843842",
+              "num": "Article 4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Le contenu de chaque emploi est analysé et évalué compte tenu de l'expérience qu'il comporte vis-à-vis des 7 critères suivants :<br/>Trois critères de responsabilité :</p><p align='left'><br/>– l'importance du domaine d'action ;<br/>– l'influence sur le domaine d'action ;<br/>– l'autonomie d'action.<br/>Trois critères de compétence :</p><p align='left'><br/>– les connaissances requises ;<br/>– l'aptitude aux relations humaines ;<br/>– l'aptitude à l'encadrement.<br/>Un critère d'exigences particulières de l'emploi.<br/>Les définitions des critères, la table des valeurs des critères et son mode d'emploi font l'objet de l'annexe I au présent accord.<br/>L'évaluation du coefficient de l'emploi est réalisée par l'entreprise par pesée pour chacun des critères. La valeur du coefficient résulte de la somme arithmétique des points ainsi acquis.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000025843843",
+              "num": "Article 5",
+              "intOrdre": 3145722,
+              "content": "<p align='left'><br/>Douze emplois définis à l'annexe II du présent accord, choisis parmi les 3 pôles d'activité, flotte, commercial et administratif, servent de repères aux entreprises lors du classement de leurs propres emplois dans l'échelle des coefficients. Ces emplois sont appelés emplois repères. Ils sont positionnés sur l'échelle des coefficients comme suit.</p><p align='left'><div align='center'><center><table border='1'><tr><th>Catégorie</th><th>Coefficient</th><th>Niveau</th><th>Emploi repère</th></tr><tr><td align='center'>Employés</td><td align='center'>100</td><td align='center'>I</td><td align='center'>Employé administratif, agent d'exploitation</td></tr><tr><td><br/></td><td align='center'>200</td><td align='center'>II</td><td align='center'>Agent opérationnel</td></tr><tr><td><br/></td><td align='center'>225</td><td align='center'>III</td><td align='center'>Agent consignation marchandise</td></tr><tr><td align='center'>Agents<br/>de maîtrise</td><td align='center'>260</td><td align='center'>IV</td><td align='center'>Acheteur, agent de consignation coque, engageur de fret</td></tr><tr><td><br/></td><td align='center'>320</td><td align='center'>V</td><td align='center'>Responsable escale transbordeur, positionneur</td></tr><tr><td><br/></td><td align='center'>450</td><td align='center'>VI</td><td align='center'>Responsable administratif armement, shipplaneur</td></tr><tr><td align='center'>Cadres</td><td align='center'>500</td><td align='center'>VII</td><td><br/></td></tr><tr><td><br/></td><td align='center'>550</td><td align='center'>VIII</td><td align='center'>Responsable affrètement</td></tr><tr><td><br/></td><td align='center'>700</td><td align='center'>IX</td><td><br/></td></tr></table></center></div></p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000025843844",
+              "num": "Article 6",
+              "intOrdre": 3670009,
+              "content": "<p align='left'><br/>La mise en œuvre dans l'entreprise du présent accord fera l'objet des informations et consultations des instances représentatives des salariés prévues par le <a alt='Code du travail (V)' href='/affichCode.do?cidTexte=LEGITEXT000006072050&dateTexte=&categorieLien=cid'>code du travail</a>.<br/>A cet effet, les employeurs exposeront le présent accord et les principes qu'il contient au comité d'entreprise, ou, à défaut, aux délégués du personnel. Les délégués du personnel seront informés des modalités de mise en œuvre du présent accord dans le cadre de l'entreprise, compte tenu notamment de ses effectifs, de sa structure et de ses conditions particulières d'organisation ou de fonctionnement.<br/>Un bilan d'application du présent accord sera présenté annuellement au comité d'entreprise, dans le cadre des obligations prévues à l'article L. 432-3-I du <a alt='Code du travail (V)' href='/affichCode.do?cidTexte=LEGITEXT000006072050&dateTexte=&categorieLien=cid'>code du travail</a>.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000025843847",
+              "num": "Article 7",
+              "intOrdre": 4194296,
+              "content": "<p align='left'><br/>Chaque salarié recevra notification écrite du coefficient de l'emploi qu'il occupe. L'emploi peut faire l'objet d'une nouvelle évaluation à la demande motivée du salarié auprès de la direction de l'entreprise.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000025843848",
+              "num": "Article 8",
+              "intOrdre": 4718583,
+              "content": "<p align='left'><br/>Il est créé une commission nationale des classifications.<br/>Cette commission connaît, après tentative de règlement au sein de l'entreprise, les cas de désaccord persistant entre l'employeur et le salarié sur le niveau attribué à l'emploi occupé par ce dernier. Elle est saisie par l'une ou l'autre des parties.<br/>La commission est composée d'un représentant de chacune des organisations syndicales signataires de la convention collective (ou y adhérant ultérieurement) et d'un nombre égal de représentants d'employeurs désignés par Armateurs de France.<br/>Elle est présidée à tour de rôle par un représentant patronal et un représentant salarial. Les demandes d'avis lui sont adressées par courrier au siège d'Armateurs de France, accompagnées de toutes pièces utiles au traitement du dossier. La commission peut toutefois demander la communication d'informations complémentaires qu'elle jugerait nécessaires.<br/>La commission se réunit, en cas de besoin, une fois par trimestre et adresse ses conclusions aux parties concernées dans les 15 jours qui suivent sa date de réunion.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000025843849",
+              "num": "Article 9",
+              "intOrdre": 5242870,
+              "content": "<p align='left'><br/>Le barème annexé à l'accord du 20 février 1951 modifié concernant les conditions de rémunération, annexé à la convention collective du 20 février 1951, indique la rémunération mensuelle minimale applicable à chacun des 9 niveaux de la partie III du présent accord.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000025843850",
+              "num": "Article 10",
+              "intOrdre": 5767157,
+              "content": "<p align='left'><br/>La mise en œuvre dans les entreprises de la classification telle que prévue par le présent accord ne peut avoir pour résultat une diminution du montant global de la rémunération antérieurement perçue par le salarié, ni un déclassement catégoriel.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000025843851",
+              "num": "Article 11",
+              "intOrdre": 6291444,
+              "content": "<p align='left'><br/>Cet accord entrera en vigueur à la date de sa signature. Toutefois, les entreprises disposeront à compter de cette date d'un délai de 24 mois pour entreprendre sa mise en œuvre.<br/>Les signataires du présent accord conviennent de dresser un bilan d'étape de son application 12 mois après sa date d'entrée en vigueur. Un bilan global sera effectué à l'issue d'une période de 36 mois après sa date d'entrée en vigueur.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
             }
           ]
         },
         {
-          "id": "KALITEXT000024891364",
+          "type": "section",
           "title": "Accord du 30 juin 2011 relatif à la formation professionnelle",
-          "dateParution": 1322697600000,
-          "sections": [
+          "id": "KALITEXT000024891364",
+          "children": [
             {
-              "id": "KALISCTA000024891366",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000024891366",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891378",
                   "num": null,
                   "intOrdre": 524287,
@@ -988,12 +1103,14 @@
               ]
             },
             {
-              "id": "KALISCTA000024891367",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "I. – Dispositions générales",
+              "id": "KALISCTA000024891367",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891381",
                   "num": "1.1",
                   "intOrdre": 524287,
@@ -1002,6 +1119,7 @@
                   "surtitre": "Champ d'application"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891383",
                   "num": "1.2",
                   "intOrdre": 1048574,
@@ -1010,6 +1128,7 @@
                   "surtitre": "Durée, entrée en vigueur et extension"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891386",
                   "num": "1.3",
                   "intOrdre": 1572861,
@@ -1018,6 +1137,7 @@
                   "surtitre": "Révision"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891387",
                   "num": "1.4",
                   "intOrdre": 2097148,
@@ -1028,12 +1148,14 @@
               ]
             },
             {
-              "id": "KALISCTA000024891368",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "II. – Instances de la formation professionnelle",
+              "id": "KALISCTA000024891368",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891389",
                   "num": "2.1",
                   "intOrdre": 524287,
@@ -1042,6 +1164,7 @@
                   "surtitre": "Commission paritaire nationale de l'emploi et de la formation professionnelle (CPNEFP)"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891390",
                   "num": "2.2",
                   "intOrdre": 1048574,
@@ -1050,6 +1173,7 @@
                   "surtitre": "Observatoire prospectif des métiers et des qualifications"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000028837706",
                   "num": "2.3",
                   "intOrdre": 1572861,
@@ -1058,6 +1182,7 @@
                   "surtitre": "Fonds paritaire de sécurisation des parcours professionnels (FPSPP)"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891392",
                   "num": "2.4",
                   "intOrdre": 2097148,
@@ -1068,12 +1193,14 @@
               ]
             },
             {
-              "id": "KALISCTA000024891369",
+              "type": "section",
               "intOrdre": 2097148,
               "title": "III. – Information et orientation des salariés",
+              "id": "KALISCTA000024891369",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891393",
                   "num": null,
                   "intOrdre": 524287,
@@ -1081,6 +1208,7 @@
                   "etat": "VIGUEUR_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891394",
                   "num": "3.1",
                   "intOrdre": 1048574,
@@ -1089,6 +1217,7 @@
                   "surtitre": "Bilan de compétences"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891395",
                   "num": "3.2",
                   "intOrdre": 1572861,
@@ -1099,12 +1228,14 @@
               ]
             },
             {
-              "id": "KALISCTA000024891370",
+              "type": "section",
               "intOrdre": 2621435,
               "title": "IV. – Plan de formation",
+              "id": "KALISCTA000024891370",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891396",
                   "num": "4.1",
                   "intOrdre": 524287,
@@ -1113,6 +1244,7 @@
                   "surtitre": "Orientations de la formation professionnelle"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891397",
                   "num": "4.2",
                   "intOrdre": 1048574,
@@ -1121,6 +1253,7 @@
                   "surtitre": "Information des salariés"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891398",
                   "num": "4.3",
                   "intOrdre": 1572861,
@@ -1131,12 +1264,14 @@
               ]
             },
             {
-              "id": "KALISCTA000024891371",
+              "type": "section",
               "intOrdre": 3145722,
               "title": "V. – Droit individuel à la formation (DIF)",
+              "id": "KALISCTA000024891371",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891399",
                   "num": null,
                   "intOrdre": 524287,
@@ -1144,6 +1279,7 @@
                   "etat": "VIGUEUR_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891400",
                   "num": "5.1",
                   "intOrdre": 1048574,
@@ -1152,6 +1288,7 @@
                   "surtitre": "Publics et actions de formation prioritaires"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891401",
                   "num": "5.2",
                   "intOrdre": 1572861,
@@ -1160,6 +1297,7 @@
                   "surtitre": "Mise en œuvre"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891402",
                   "num": "5.3",
                   "intOrdre": 2097148,
@@ -1170,12 +1308,14 @@
               ]
             },
             {
-              "id": "KALISCTA000024891372",
+              "type": "section",
               "intOrdre": 3670009,
               "title": "VI. – Congé individuel de formation (CIF)",
+              "id": "KALISCTA000024891372",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891403",
                   "num": null,
                   "intOrdre": 524287,
@@ -1185,12 +1325,14 @@
               ]
             },
             {
-              "id": "KALISCTA000024891373",
+              "type": "section",
               "intOrdre": 4194296,
               "title": "VII. – Période de professionnalisation",
+              "id": "KALISCTA000024891373",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891404",
                   "num": null,
                   "intOrdre": 524287,
@@ -1198,6 +1340,7 @@
                   "etat": "VIGUEUR_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891405",
                   "num": "7.1",
                   "intOrdre": 1048574,
@@ -1206,6 +1349,7 @@
                   "surtitre": "Publics et actions prioritaires"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891406",
                   "num": "7.2",
                   "intOrdre": 1572861,
@@ -1216,12 +1360,14 @@
               ]
             },
             {
-              "id": "KALISCTA000024891374",
+              "type": "section",
               "intOrdre": 4718583,
               "title": "VIII. – Contrat de professionnalisation",
+              "id": "KALISCTA000024891374",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891407",
                   "num": null,
                   "intOrdre": 524287,
@@ -1229,6 +1375,7 @@
                   "etat": "VIGUEUR_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891408",
                   "num": "8.1",
                   "intOrdre": 1048574,
@@ -1237,6 +1384,7 @@
                   "surtitre": "Modalités du contrat de professionnalisation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891409",
                   "num": "8.1.1",
                   "intOrdre": 1572861,
@@ -1245,6 +1393,7 @@
                   "surtitre": "Durée du contrat"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891411",
                   "num": "8.1.2",
                   "intOrdre": 2097148,
@@ -1253,6 +1402,7 @@
                   "surtitre": "Priorité en matière de contrats de professionnalisation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891412",
                   "num": "8.2",
                   "intOrdre": 2621435,
@@ -1263,12 +1413,14 @@
               ]
             },
             {
-              "id": "KALISCTA000024891375",
+              "type": "section",
               "intOrdre": 5242870,
               "title": "IX. – Dispositions communes aux contrats et périodes de professionnalisation",
+              "id": "KALISCTA000024891375",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891413",
                   "num": "9.1",
                   "intOrdre": 524287,
@@ -1277,6 +1429,7 @@
                   "surtitre": "Dispositions financières"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891414",
                   "num": "9.2",
                   "intOrdre": 1048574,
@@ -1287,12 +1440,14 @@
               ]
             },
             {
-              "id": "KALISCTA000024891376",
+              "type": "section",
               "intOrdre": 5767157,
               "title": "X. – Accès spécifique à la formation en faveur de certains salariés",
+              "id": "KALISCTA000024891376",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891415",
                   "num": "10.1",
                   "intOrdre": 524287,
@@ -1301,6 +1456,7 @@
                   "surtitre": "Egalité professionnelle entre hommes et femmes dans l'accès à la formation professionnelle"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891417",
                   "num": "10.2",
                   "intOrdre": 1048574,
@@ -1311,12 +1467,14 @@
               ]
             },
             {
-              "id": "KALISCTA000024891377",
+              "type": "section",
               "intOrdre": 6291444,
               "title": "Annexe",
+              "id": "KALISCTA000024891377",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000024891418",
                   "num": null,
                   "intOrdre": 524287,
@@ -1328,11 +1486,12 @@
           ]
         },
         {
-          "id": "KALITEXT000024891419",
+          "type": "section",
           "title": "Accord du 30 juin 2011 relatif à l'observatoire des métiers et des qualifications",
-          "dateParution": 1322697600000,
-          "articles": [
+          "id": "KALITEXT000024891419",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000024891421",
               "num": "1er",
               "intOrdre": 524287,
@@ -1341,6 +1500,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000024891422",
               "num": "2",
               "intOrdre": 1048574,
@@ -1349,6 +1509,7 @@
               "surtitre": "Durée. – Entrée en vigueur. – Extension"
             },
             {
+              "type": "article",
               "id": "KALIARTI000024891425",
               "num": "3",
               "intOrdre": 1572861,
@@ -1357,6 +1518,7 @@
               "surtitre": "Révision"
             },
             {
+              "type": "article",
               "id": "KALIARTI000024891426",
               "num": "4",
               "intOrdre": 2097148,
@@ -1365,6 +1527,7 @@
               "surtitre": "Dénonciation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000024891428",
               "num": "5",
               "intOrdre": 2621435,
@@ -1373,6 +1536,7 @@
               "surtitre": "Observatoire prospectif des métiers et des qualifications"
             },
             {
+              "type": "article",
               "id": "KALIARTI000024891429",
               "num": "5.1",
               "intOrdre": 3145722,
@@ -1381,6 +1545,7 @@
               "surtitre": "Missions de l'observatoire"
             },
             {
+              "type": "article",
               "id": "KALIARTI000024891430",
               "num": "5.2",
               "intOrdre": 3670009,
@@ -1389,6 +1554,7 @@
               "surtitre": "Composition de l'observatoire"
             },
             {
+              "type": "article",
               "id": "KALIARTI000024891431",
               "num": "5.3",
               "intOrdre": 4194296,
@@ -1397,6 +1563,7 @@
               "surtitre": "Fonctionnement"
             },
             {
+              "type": "article",
               "id": "KALIARTI000024891432",
               "num": "5.4",
               "intOrdre": 4718583,
@@ -1407,17 +1574,19 @@
           ]
         },
         {
-          "id": "KALITEXT000005649382",
+          "type": "section",
           "title": "Accord du 14 février 1995 relatif à l'adhésion à l'OPCA transport",
-          "dateParution": 32472144000000,
-          "sections": [
+          "id": "KALITEXT000005649382",
+          "children": [
             {
-              "id": "KALISCTA000025849391",
+              "type": "section",
               "intOrdre": 64423,
               "title": "Préambule",
+              "id": "KALISCTA000025849391",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005780078",
                   "num": null,
                   "intOrdre": 1073741823,
@@ -1427,12 +1596,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005695712",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Création et dénomination",
+              "id": "KALISCTA000005695712",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005780079",
                   "num": "1",
                   "intOrdre": 42949,
@@ -1442,12 +1613,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005695713",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Missions",
+              "id": "KALISCTA000005695713",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005780080",
                   "num": "2",
                   "intOrdre": 42949,
@@ -1457,12 +1630,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005695714",
+              "type": "section",
               "intOrdre": 171796,
               "title": "Conseil paritaire de section",
+              "id": "KALISCTA000005695714",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005780081",
                   "num": "3",
                   "intOrdre": 42949,
@@ -1472,12 +1647,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005695715",
+              "type": "section",
               "intOrdre": 214745,
               "title": "Participation aux réunions",
+              "id": "KALISCTA000005695715",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005780082",
                   "num": "4",
                   "intOrdre": 42949,
@@ -1487,12 +1664,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005695717",
+              "type": "section",
               "intOrdre": 257694,
               "title": "Emploi des contributions des entreprises",
+              "id": "KALISCTA000005695717",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005780083",
                   "num": "5",
                   "intOrdre": 42949,
@@ -1502,12 +1681,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005695718",
+              "type": "section",
               "intOrdre": 300643,
               "title": "Mutualisation des ressources",
+              "id": "KALISCTA000005695718",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005780084",
                   "num": "6",
                   "intOrdre": 42949,
@@ -1517,12 +1698,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005695719",
+              "type": "section",
               "intOrdre": 343592,
               "title": "Mise en oeuvre",
+              "id": "KALISCTA000005695719",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005780085",
                   "num": "7",
                   "intOrdre": 42949,
@@ -1532,12 +1715,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005695720",
+              "type": "section",
               "intOrdre": 386541,
               "title": "Entrée en application de l'accord",
+              "id": "KALISCTA000005695720",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005780087",
                   "num": "8",
                   "intOrdre": 42949,
@@ -1547,12 +1732,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005695721",
+              "type": "section",
               "intOrdre": 429490,
               "title": "Dénonciation de l'accord",
+              "id": "KALISCTA000005695721",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005780088",
                   "num": "9",
                   "intOrdre": 42949,
@@ -1562,12 +1749,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005695722",
+              "type": "section",
               "intOrdre": 472439,
               "title": "Publicité et dépôt",
+              "id": "KALISCTA000005695722",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005780089",
                   "num": "10",
                   "intOrdre": 42949,
@@ -1581,17 +1770,36 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 3,
       "title": "Textes Salaires",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000027662954",
+          "type": "section",
           "title": "Avenant n° 2 du 20 mars 2013 relatif aux salaires minima au 1er janvier 2013",
-          "dateParution": 1372896000000,
-          "articles": [
+          "id": "KALITEXT000027662954",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 2097148,
+              "title": "Annexe",
+              "id": "KALISCTA000027662963",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000027662964",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p></p><p> \t\t\t\t\tGrille des salaires visée à l'article 2.1<br/></p><p align='right'> \t\t\t\t\t(En euros.)<br/></p><p></p><div align='center'><center><table border='1'><tbody><tr><th>Catégorie</th><th>Niveau</th><th>Salaire annuel</th></tr><tr><td rowspan='4' align='center'>Employé \t\t\t\t\t\t\t\t\t\t<br/><br/><br/></td><td align='center'>I A moins de 6 mois</td><td align='center'>17 982,70</td></tr><tr><td align='center'>I B plus de 6 mois</td><td align='center'>18 578,64</td></tr><tr><td align='center'>II</td><td align='center'>19 111,85</td></tr><tr><td align='center'>III</td><td align='center'>19 979,62</td></tr><tr><td rowspan='3' align='center'>Agent de maîtrise \t\t\t\t\t\t\t\t\t\t<br/><br/></td><td align='center'>IV</td><td align='center'>21 328,32</td></tr><tr><td align='center'>V</td><td align='center'>24 046,64</td></tr><tr><td align='center'>VI</td><td align='center'>28 228,66</td></tr><tr><td rowspan='3' align='center'>Cadre \t\t\t\t\t\t\t\t\t\t<br/><br/></td><td align='center'>VII</td><td align='center'>31 365,18</td></tr><tr><td align='center'>VIII</td><td align='center'>39 729,23</td></tr><tr><td align='center'>IX</td><td align='center'>48 093,28</td></tr></tbody></table></center></div><p></p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000027662957",
               "num": "1er",
               "intOrdre": 524287,
@@ -1600,6 +1808,7 @@
               "surtitre": "Champ d'application et objet"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027662959",
               "num": "2",
               "intOrdre": 1048574,
@@ -1608,6 +1817,7 @@
               "surtitre": "Modifications apportées à la convention collective"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027662960",
               "num": "3",
               "intOrdre": 1572861,
@@ -1615,31 +1825,32 @@
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Entrée en vigueur"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000027662963",
-              "intOrdre": 2097148,
-              "title": "Annexe",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000027662964",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p></p><p> \t\t\t\t\tGrille des salaires visée à l'article 2.1<br/></p><p align='right'> \t\t\t\t\t(En euros.)<br/></p><p></p><div align='center'><center><table border='1'><tbody><tr><th>Catégorie</th><th>Niveau</th><th>Salaire annuel</th></tr><tr><td rowspan='4' align='center'>Employé \t\t\t\t\t\t\t\t\t\t<br/><br/><br/></td><td align='center'>I A moins de 6 mois</td><td align='center'>17 982,70</td></tr><tr><td align='center'>I B plus de 6 mois</td><td align='center'>18 578,64</td></tr><tr><td align='center'>II</td><td align='center'>19 111,85</td></tr><tr><td align='center'>III</td><td align='center'>19 979,62</td></tr><tr><td rowspan='3' align='center'>Agent de maîtrise \t\t\t\t\t\t\t\t\t\t<br/><br/></td><td align='center'>IV</td><td align='center'>21 328,32</td></tr><tr><td align='center'>V</td><td align='center'>24 046,64</td></tr><tr><td align='center'>VI</td><td align='center'>28 228,66</td></tr><tr><td rowspan='3' align='center'>Cadre \t\t\t\t\t\t\t\t\t\t<br/><br/></td><td align='center'>VII</td><td align='center'>31 365,18</td></tr><tr><td align='center'>VIII</td><td align='center'>39 729,23</td></tr><tr><td align='center'>IX</td><td align='center'>48 093,28</td></tr></tbody></table></center></div><p></p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
           ]
         },
         {
-          "id": "KALITEXT000026123425",
+          "type": "section",
           "title": "Avenant n° 1 du 7 mars 2012 relatif aux salaires minima pour l'année 2012",
-          "dateParution": 1341360000000,
-          "articles": [
+          "id": "KALITEXT000026123425",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 3145722,
+              "title": "Annexe",
+              "id": "KALISCTA000026123437",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000026123438",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p></p><p align='center'><b>Grille des salaires visée à l'article 2.1</b><br/></p><p align='right'> \t\t\t\t\t(En euros.)<br/></p><p></p><p></p><div align='center'><center><table border='1'><tbody><tr><th>Catégorie</th><th>Niveau</th><th>Salaire<br/>annuel</th></tr><tr><td rowspan='4' align='center'>Employé \t\t\t\t\t\t\t\t\t\t<br/><br/><br/></td><td align='center'>IA moins de 6 mois</td><td align='center'>17 595,60</td></tr><tr><td align='center'>IB plus de 6 mois</td><td align='center'>18 178,71</td></tr><tr><td align='center'>II</td><td align='center'>18 700,44</td></tr><tr><td align='center'>III</td><td align='center'>19 549,53</td></tr><tr><td rowspan='3' align='center'>Agent de maîtrise \t\t\t\t\t\t\t\t\t\t<br/><br/></td><td align='center'>IV</td><td align='center'>20 869,20</td></tr><tr><td align='center'>V</td><td align='center'>23 529,00</td></tr><tr><td align='center'>VI</td><td align='center'>27 621,00</td></tr><tr><td rowspan='3' align='center'>Cadre \t\t\t\t\t\t\t\t\t\t<br/><br/></td><td align='center'>VII</td><td align='center'>30 690,00</td></tr><tr><td align='center'>VIII</td><td align='center'>38 874,00</td></tr><tr><td align='center'>IX</td><td align='center'>47 058,00</td></tr></tbody></table></center></div><p></p><p></p><p align='center'><b>Grille des salaires visée à l'article 2.2</b><br/></p><p align='right'> \t\t\t\t\t(En euros.)<br/></p><p></p><p></p><div align='center'><center><table border='1'><tbody><tr><th>Catégorie</th><th>Niveau</th><th>Salaire<br/>mensuel</th></tr><tr><td rowspan='4' align='center'>Employé \t\t\t\t\t\t\t\t\t\t<br/><br/><br/></td><td align='center'>IA moins de 6 mois</td><td align='center'>1 435,26</td></tr><tr><td align='center'>IB plus de 6 mois</td><td align='center'>1 482,99</td></tr><tr><td align='center'>II</td><td align='center'>1 519,91</td></tr><tr><td align='center'>III</td><td align='center'>1 589,52</td></tr><tr><td rowspan='3' align='center'>Agent de maîtrise \t\t\t\t\t\t\t\t\t\t<br/><br/></td><td align='center'>IV</td><td align='center'>1 682,37</td></tr><tr><td align='center'>V</td><td align='center'>1 833,16</td></tr><tr><td align='center'>VI</td><td align='center'>2 093,60</td></tr><tr><td rowspan='3' align='center'>Cadre \t\t\t\t\t\t\t\t\t\t<br/><br/></td><td align='center'>VII</td><td align='center'>2 436,49</td></tr><tr><td align='center'>VIII</td><td align='center'>2 923,84</td></tr><tr><td align='center'>IX</td><td align='center'>3 480,73</td></tr></tbody></table></center></div><p></p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000026123428",
               "num": "1er",
               "intOrdre": 524287,
@@ -1648,6 +1859,7 @@
               "surtitre": "Champ d'application et objet"
             },
             {
+              "type": "article",
               "id": "KALIARTI000026123429",
               "num": "2",
               "intOrdre": 1048574,
@@ -1656,6 +1868,7 @@
               "surtitre": "Modifications apportées à la convention collective"
             },
             {
+              "type": "article",
               "id": "KALIARTI000026123430",
               "num": "2.1",
               "intOrdre": 1572861,
@@ -1664,6 +1877,7 @@
               "surtitre": "Entreprises soumises à la convention collective"
             },
             {
+              "type": "article",
               "id": "KALIARTI000026123431",
               "num": "2.2",
               "intOrdre": 2097148,
@@ -1672,6 +1886,7 @@
               "surtitre": "Entreprises bénéficiant d'un moratoire sur les salaires"
             },
             {
+              "type": "article",
               "id": "KALIARTI000026123435",
               "num": "3",
               "intOrdre": 2621435,
@@ -1679,60 +1894,22 @@
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Entrée en vigueur"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000026123437",
-              "intOrdre": 3145722,
-              "title": "Annexe",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000026123438",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p></p><p align='center'><b>Grille des salaires visée à l'article 2.1</b><br/></p><p align='right'> \t\t\t\t\t(En euros.)<br/></p><p></p><p></p><div align='center'><center><table border='1'><tbody><tr><th>Catégorie</th><th>Niveau</th><th>Salaire<br/>annuel</th></tr><tr><td rowspan='4' align='center'>Employé \t\t\t\t\t\t\t\t\t\t<br/><br/><br/></td><td align='center'>IA moins de 6 mois</td><td align='center'>17 595,60</td></tr><tr><td align='center'>IB plus de 6 mois</td><td align='center'>18 178,71</td></tr><tr><td align='center'>II</td><td align='center'>18 700,44</td></tr><tr><td align='center'>III</td><td align='center'>19 549,53</td></tr><tr><td rowspan='3' align='center'>Agent de maîtrise \t\t\t\t\t\t\t\t\t\t<br/><br/></td><td align='center'>IV</td><td align='center'>20 869,20</td></tr><tr><td align='center'>V</td><td align='center'>23 529,00</td></tr><tr><td align='center'>VI</td><td align='center'>27 621,00</td></tr><tr><td rowspan='3' align='center'>Cadre \t\t\t\t\t\t\t\t\t\t<br/><br/></td><td align='center'>VII</td><td align='center'>30 690,00</td></tr><tr><td align='center'>VIII</td><td align='center'>38 874,00</td></tr><tr><td align='center'>IX</td><td align='center'>47 058,00</td></tr></tbody></table></center></div><p></p><p></p><p align='center'><b>Grille des salaires visée à l'article 2.2</b><br/></p><p align='right'> \t\t\t\t\t(En euros.)<br/></p><p></p><p></p><div align='center'><center><table border='1'><tbody><tr><th>Catégorie</th><th>Niveau</th><th>Salaire<br/>mensuel</th></tr><tr><td rowspan='4' align='center'>Employé \t\t\t\t\t\t\t\t\t\t<br/><br/><br/></td><td align='center'>IA moins de 6 mois</td><td align='center'>1 435,26</td></tr><tr><td align='center'>IB plus de 6 mois</td><td align='center'>1 482,99</td></tr><tr><td align='center'>II</td><td align='center'>1 519,91</td></tr><tr><td align='center'>III</td><td align='center'>1 589,52</td></tr><tr><td rowspan='3' align='center'>Agent de maîtrise \t\t\t\t\t\t\t\t\t\t<br/><br/></td><td align='center'>IV</td><td align='center'>1 682,37</td></tr><tr><td align='center'>V</td><td align='center'>1 833,16</td></tr><tr><td align='center'>VI</td><td align='center'>2 093,60</td></tr><tr><td rowspan='3' align='center'>Cadre \t\t\t\t\t\t\t\t\t\t<br/><br/></td><td align='center'>VII</td><td align='center'>2 436,49</td></tr><tr><td align='center'>VIII</td><td align='center'>2 923,84</td></tr><tr><td align='center'>IX</td><td align='center'>3 480,73</td></tr></tbody></table></center></div><p></p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
           ]
         },
         {
-          "id": "KALITEXT000024170352",
+          "type": "section",
           "title": "Avenant n° 5 du 20 janvier 2011 relatif aux salaires minima pour l'année 2011",
-          "dateParution": 1308096000000,
-          "articles": [
+          "id": "KALITEXT000024170352",
+          "children": [
             {
-              "id": "KALIARTI000024170355",
-              "num": "1er",
-              "intOrdre": 524287,
-              "content": "<p align='left'>L'annexe au protocole d'accord du 21 novembre 2005 relatif aux rémunérations minimales du personnel sédentaire des entreprises de navigation est remplacée, à compter du 1er janvier 2011, par l'annexe au présent avenant.</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000024170356",
-              "num": "2",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Les partenaires sociaux se réuniront à nouveau dans l'hypothèse où la valeur du Smic évoluerait à compter du 1er juillet 2011.</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000024170357",
-              "num": "3",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Le présent accord, applicable dès sa signature, est d'une durée indéterminée et fera l'objet d'un dépôt conformément à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>article L. 2231-6 du code du travail</a>.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000024170359",
+              "type": "section",
               "intOrdre": 2097148,
               "title": "Annexe",
+              "id": "KALISCTA000024170359",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000024170360",
                   "num": null,
                   "intOrdre": 524287,
@@ -1740,6 +1917,30 @@
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000024170355",
+              "num": "1er",
+              "intOrdre": 524287,
+              "content": "<p align='left'>L'annexe au protocole d'accord du 21 novembre 2005 relatif aux rémunérations minimales du personnel sédentaire des entreprises de navigation est remplacée, à compter du 1er janvier 2011, par l'annexe au présent avenant.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000024170356",
+              "num": "2",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>Les partenaires sociaux se réuniront à nouveau dans l'hypothèse où la valeur du Smic évoluerait à compter du 1er juillet 2011.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000024170357",
+              "num": "3",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Le présent accord, applicable dès sa signature, est d'une durée indéterminée et fera l'objet d'un dépôt conformément à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>article L. 2231-6 du code du travail</a>.</p>",
+              "etat": "VIGUEUR_ETEN"
             }
           ]
         }

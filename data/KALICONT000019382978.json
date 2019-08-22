@@ -1,24 +1,25 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale des entreprises relevant de la sélection et de la reproduction animale du 15 avril 2008 ",
   "id": "KALICONT000019382978",
   "num": "7021",
-  "title": "Convention collective nationale des entreprises relevant de la sélection et de la reproduction animale du 15 avril 2008 ",
-  "categorisation": [
-    "Sélection et reproduction animale"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000019349290",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale des entreprises relevant de la sélection et de la reproduction animale du 15 avril 2008 ",
+      "id": "KALITEXT000019349290",
       "etat": "VIGUEUR_ETEN",
-      "sections": [
+      "children": [
         {
-          "id": "KALISCTA000019349292",
+          "type": "section",
           "intOrdre": 524287,
           "title": "Préambule",
+          "id": "KALISCTA000019349292",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000019349301",
               "num": null,
               "intOrdre": 524287,
@@ -28,18 +29,21 @@
           ]
         },
         {
-          "id": "KALISCTA000019349293",
+          "type": "section",
           "intOrdre": 1048574,
           "title": "Titre Ier : Dispositions générales",
+          "id": "KALISCTA000019349293",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000019349305",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Chapitre Ier : Objet. ― Champ d'application. ― Définition de l'ancienneté",
+              "id": "KALISCTA000019349305",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000019349347",
                   "num": "2",
                   "intOrdre": 1048574,
@@ -50,12 +54,14 @@
               ]
             },
             {
-              "id": "KALISCTA000019349306",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre II : Durée. ― Dénonciation. ― Révision",
+              "id": "KALISCTA000019349306",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000019349351",
                   "num": "5",
                   "intOrdre": 1572861,
@@ -66,12 +72,14 @@
               ]
             },
             {
-              "id": "KALISCTA000019349307",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Chapitre III : Procédure conventionnelle de conciliation, commission mixte nationale. ― Observatoire de la négociation collective",
+              "id": "KALISCTA000019349307",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000019349356",
                   "num": "10",
                   "intOrdre": 2621435,
@@ -84,18 +92,21 @@
           ]
         },
         {
-          "id": "KALISCTA000019349294",
+          "type": "section",
           "intOrdre": 1572861,
           "title": "Titre  II : Dialogue social",
+          "id": "KALISCTA000019349294",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000019349308",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Chapitre Ier : Négociation de branche",
+              "id": "KALISCTA000019349308",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000019349359",
                   "num": "13",
                   "intOrdre": 1572861,
@@ -106,12 +117,14 @@
               ]
             },
             {
-              "id": "KALISCTA000019349309",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre II : Négociation dans l'entreprise et les établissements",
+              "id": "KALISCTA000019349309",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000019349360",
                   "num": "14",
                   "intOrdre": 524287,
@@ -122,27 +135,21 @@
               ]
             },
             {
-              "id": "KALISCTA000019349310",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Chapitre III : Formes dérogatoires à la négociation collective dans l'entreprise : négociation avec les élus du personnel ou un salarié mandaté",
+              "id": "KALISCTA000019349310",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
-                  "id": "KALIARTI000019349362",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p><br/> Les dispositions du présent chapitre ont pour objectif de développer la négociation en l'absence de délégués syndicaux dans l'entreprise, en autorisant les représentants élus du personnel ou, en cas de carence aux élections, un ou plusieurs salariés mandatés à négocier et à conclure des accords collectifs selon les modalités suivantes.</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ],
-              "sections": [
-                {
-                  "id": "KALISCTA000019349363",
+                  "type": "section",
                   "intOrdre": 1048574,
                   "title": "Section 1 : Négociation avec les représentants élus du personnel",
+                  "id": "KALISCTA000019349363",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000019349439",
                       "num": "19",
                       "intOrdre": 2621435,
@@ -153,12 +160,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000019349364",
+                  "type": "section",
                   "intOrdre": 1572861,
                   "title": "Section 2 : Négociation avec un salarié mandaté",
+                  "id": "KALISCTA000019349364",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000019349450",
                       "num": "28",
                       "intOrdre": 4718583,
@@ -167,16 +176,26 @@
                       "surtitre": "Protection"
                     }
                   ]
+                },
+                {
+                  "type": "article",
+                  "id": "KALIARTI000019349362",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p><br/> Les dispositions du présent chapitre ont pour objectif de développer la négociation en l'absence de délégués syndicaux dans l'entreprise, en autorisant les représentants élus du personnel ou, en cas de carence aux élections, un ou plusieurs salariés mandatés à négocier et à conclure des accords collectifs selon les modalités suivantes.</p>",
+                  "etat": "VIGUEUR_ETEN"
                 }
               ]
             },
             {
-              "id": "KALISCTA000019349311",
+              "type": "section",
               "intOrdre": 2097148,
               "title": "Chapitre IV : Règlement des conflits collectifs dans l'entreprise",
+              "id": "KALISCTA000019349311",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000019349366",
                   "num": "30",
                   "intOrdre": 1048574,
@@ -189,18 +208,21 @@
           ]
         },
         {
-          "id": "KALISCTA000019349295",
+          "type": "section",
           "intOrdre": 2097148,
           "title": "Titre  III : Rerpésentants du personnel",
+          "id": "KALISCTA000019349295",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000019349312",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Chapitre Ier : Droit syndical",
+              "id": "KALISCTA000019349312",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000019349373",
                   "num": "34",
                   "intOrdre": 2097148,
@@ -211,12 +233,14 @@
               ]
             },
             {
-              "id": "KALISCTA000019349313",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre II : Représentants du personnel",
+              "id": "KALISCTA000019349313",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000019349381",
                   "num": "38",
                   "intOrdre": 2097148,
@@ -229,18 +253,21 @@
           ]
         },
         {
-          "id": "KALISCTA000019349296",
+          "type": "section",
           "intOrdre": 2621435,
           "title": "Titre  IV : Dispositions relatives à l'emploi",
+          "id": "KALISCTA000019349296",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000019349314",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Chapitre Ier : Conclusion du contrat de travail",
+              "id": "KALISCTA000019349314",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000019349383",
                   "num": "40",
                   "intOrdre": 1048574,
@@ -251,12 +278,14 @@
               ]
             },
             {
-              "id": "KALISCTA000019349315",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre II : Exécution du contrat de travail",
+              "id": "KALISCTA000019349315",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000019349388",
                   "num": "45",
                   "intOrdre": 2621435,
@@ -267,12 +296,14 @@
               ]
             },
             {
-              "id": "KALISCTA000019349316",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Chapitre III : Rupture du contrat de travail",
+              "id": "KALISCTA000019349316",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000019349391",
                   "num": "48",
                   "intOrdre": 1572861,
@@ -285,18 +316,21 @@
           ]
         },
         {
-          "id": "KALISCTA000019349297",
+          "type": "section",
           "intOrdre": 3145722,
           "title": "Titre  V : Conditions générales de travail",
+          "id": "KALISCTA000019349297",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000019349317",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Chapitre Ier : Repos hebdomadaire et jours fériés",
+              "id": "KALISCTA000019349317",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000019349394",
                   "num": "50",
                   "intOrdre": 1048574,
@@ -307,18 +341,21 @@
               ]
             },
             {
-              "id": "KALISCTA000019349318",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre II : Durée du travail",
+              "id": "KALISCTA000019349318",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000019349395",
+                  "type": "section",
                   "intOrdre": 524287,
                   "title": "Section 1 : Clauses générales",
+                  "id": "KALISCTA000019349395",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000019349455",
                       "num": "54",
                       "intOrdre": 2097148,
@@ -329,12 +366,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000019349396",
+                  "type": "section",
                   "intOrdre": 1048574,
                   "title": "Section 2 : Catégories de salariés",
+                  "id": "KALISCTA000019349396",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000019349459",
                       "num": "57",
                       "intOrdre": 1572861,
@@ -345,12 +384,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000019349397",
+                  "type": "section",
                   "intOrdre": 1572861,
                   "title": "Section 3 : Dispositifs d'organisation du temps de travail",
+                  "id": "KALISCTA000019349397",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000019349462",
                       "num": "60",
                       "intOrdre": 1572861,
@@ -361,12 +402,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000019349398",
+                  "type": "section",
                   "intOrdre": 2097148,
                   "title": "Section 4 : Travail à temps partiel",
+                  "id": "KALISCTA000019349398",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000019349466",
                       "num": "62",
                       "intOrdre": 1048574,
@@ -379,12 +422,14 @@
               ]
             },
             {
-              "id": "KALISCTA000019349319",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Chapitre III : Classification et rémunération",
+              "id": "KALISCTA000019349319",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000019349409",
                   "num": "73",
                   "intOrdre": 5767157,
@@ -395,12 +440,14 @@
               ]
             },
             {
-              "id": "KALISCTA000019349320",
+              "type": "section",
               "intOrdre": 2097148,
               "title": "Chapitre IV : Congés",
+              "id": "KALISCTA000019349320",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000019349419",
                   "num": "81",
                   "intOrdre": 4194296,
@@ -411,12 +458,14 @@
               ]
             },
             {
-              "id": "KALISCTA000019349321",
+              "type": "section",
               "intOrdre": 2621435,
               "title": "Chapitre V : Gestion prévisionnelle des emplois et des compétences Formation professionnelle",
+              "id": "KALISCTA000019349321",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000019349423",
                   "num": "83",
                   "intOrdre": 1048574,
@@ -427,12 +476,14 @@
               ]
             },
             {
-              "id": "KALISCTA000019349322",
+              "type": "section",
               "intOrdre": 3145722,
               "title": "Chapitre VI : Hygiène et sécurité",
+              "id": "KALISCTA000019349322",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000019349428",
                   "num": "86",
                   "intOrdre": 1572861,
@@ -443,12 +494,14 @@
               ]
             },
             {
-              "id": "KALISCTA000019349323",
+              "type": "section",
               "intOrdre": 3670009,
               "title": "Chapitre VII : Dispositions en matière d'égalité professionnelle et de lutte contre les discriminations",
+              "id": "KALISCTA000019349323",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000019349434",
                   "num": "89",
                   "intOrdre": 1572861,
@@ -461,12 +514,14 @@
           ]
         },
         {
-          "id": "KALISCTA000019349298",
+          "type": "section",
           "intOrdre": 3670009,
           "title": "Titre  VI : Retraite",
+          "id": "KALISCTA000019349298",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000019349327",
               "num": "92",
               "intOrdre": 1572861,
@@ -477,12 +532,14 @@
           ]
         },
         {
-          "id": "KALISCTA000019349299",
+          "type": "section",
           "intOrdre": 4194296,
           "title": "Titre  VII : Dispositions finales",
+          "id": "KALISCTA000019349299",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000019349338",
               "num": "98",
               "intOrdre": 3145722,
@@ -493,12 +550,14 @@
           ]
         },
         {
-          "id": "KALISCTA000019349300",
+          "type": "section",
           "intOrdre": 4718583,
           "title": "Annexes",
+          "id": "KALISCTA000019349300",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000019349344",
               "num": "ANNEXE II D",
               "intOrdre": 3145722,
@@ -510,23 +569,26 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000038377365",
+          "type": "section",
           "title": "Accord du 1er octobre 2018 relatif à la création d'une nouvelle branche professionnelle",
-          "dateParution": 1555372800000,
-          "sections": [
+          "id": "KALITEXT000038377365",
+          "children": [
             {
-              "id": "KALISCTA000038377369",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000038377369",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000038377375",
                   "num": null,
                   "intOrdre": 524287,
@@ -536,12 +598,14 @@
               ]
             },
             {
-              "id": "KALISCTA000038377370",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre Ier Création d'une nouvelle branche professionnelle « conseil et service en élevage »",
+              "id": "KALISCTA000038377370",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000038377379",
                   "num": "1er",
                   "intOrdre": 524287,
@@ -550,6 +614,7 @@
                   "surtitre": "Objet"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000038377380",
                   "num": "2",
                   "intOrdre": 1048574,
@@ -558,6 +623,7 @@
                   "surtitre": "Principes du rapprochement des conventions collectives nationales du contrôle laitier (IDCC 7008) et de la sélection et la reproduction animales (IDCC 7021)"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000038377381",
                   "num": "3",
                   "intOrdre": 1572861,
@@ -566,6 +632,7 @@
                   "surtitre": "Période de transition"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000038377383",
                   "num": "4",
                   "intOrdre": 2097148,
@@ -576,12 +643,14 @@
               ]
             },
             {
-              "id": "KALISCTA000038377371",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Chapitre II Création de la commission paritaire nationale commune et composition",
+              "id": "KALISCTA000038377371",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000038377384",
                   "num": "5",
                   "intOrdre": 524287,
@@ -590,6 +659,7 @@
                   "surtitre": "Objet et mission"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000038377385",
                   "num": "6",
                   "intOrdre": 1048574,
@@ -598,6 +668,7 @@
                   "surtitre": "Composition"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000038377386",
                   "num": "7",
                   "intOrdre": 1572861,
@@ -606,6 +677,7 @@
                   "surtitre": "Réunions"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000038377387",
                   "num": "8",
                   "intOrdre": 2097148,
@@ -616,12 +688,14 @@
               ]
             },
             {
-              "id": "KALISCTA000038377372",
+              "type": "section",
               "intOrdre": 2097148,
               "title": "Chapitre III Création de groupe de travail restreint paritaire",
+              "id": "KALISCTA000038377372",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000038377388",
                   "num": "9",
                   "intOrdre": 524287,
@@ -630,6 +704,7 @@
                   "surtitre": "Objet"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000038377389",
                   "num": "10",
                   "intOrdre": 1048574,
@@ -640,12 +715,14 @@
               ]
             },
             {
-              "id": "KALISCTA000038377373",
+              "type": "section",
               "intOrdre": 2621435,
               "title": "Chapitre IV Thèmes de négociation",
+              "id": "KALISCTA000038377373",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000038377390",
                   "num": "11",
                   "intOrdre": 524287,
@@ -654,6 +731,7 @@
                   "surtitre": "Fixation des thèmes de négociation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000038377393",
                   "num": "12",
                   "intOrdre": 1048574,
@@ -664,12 +742,14 @@
               ]
             },
             {
-              "id": "KALISCTA000038377374",
+              "type": "section",
               "intOrdre": 3145722,
               "title": "Chapitre V Dispositions finales",
+              "id": "KALISCTA000038377374",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000038377395",
                   "num": "13",
                   "intOrdre": 524287,
@@ -678,6 +758,7 @@
                   "surtitre": "Durée et suivi. – Clause de rendez-vous"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000038377396",
                   "num": "14",
                   "intOrdre": 1048574,
@@ -686,6 +767,7 @@
                   "surtitre": "Révision"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000038377399",
                   "num": "15",
                   "intOrdre": 1572861,
@@ -694,6 +776,7 @@
                   "surtitre": "Dépôt et publicité"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000038377400",
                   "num": "16",
                   "intOrdre": 2097148,
@@ -702,6 +785,7 @@
                   "surtitre": "Notification"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000038377402",
                   "num": "17",
                   "intOrdre": 2621435,
@@ -714,99 +798,19 @@
           ]
         },
         {
-          "id": "KALITEXT000036836203",
+          "type": "section",
           "title": "Accord collectif du 3 octobre 2017 relatif à la création de certificats de qualification professionnelle (CQP)",
-          "dateParution": 1524614400000,
-          "articles": [
+          "id": "KALITEXT000036836203",
+          "children": [
             {
-              "id": "KALIARTI000036836207",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'>Le certificat de qualification professionnelle (CQP) est une reconnaissance de qualification créée et délivrée au sein d'une branche professionnelle.</p><p align='left'>Il atteste de l'acquisition de l'ensemble des compétences décrites dans un référentiel de certification propre à un métier de ladite branche.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Définition et objet des CQP"
-            },
-            {
-              "id": "KALIARTI000036836208",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'>Les CQP TCGRA et AET s'appuient chacun sur :<br/>\n– un référentiel d'activités compétences permettant d'analyser les situations de travail et d'en déduire les connaissances et les compétences nécessaires ;<br/>\n– un référentiel de certification, découpé en blocs et unités de compétences, qui définit les modalités et les critères d'évaluation des acquis.</p><p align='left'>Ces deux CQP peuvent s'obtenir par les 3 voies d'accès suivantes :<br/>\n– formation ;<br/>\n– blocs de compétences ;<br/>\n– validation des acquis de l'expérience (VAE).</p><p align='left'>Les référentiels d'activités compétences des CQP précités repris dans 2 livrets « CQP Technicien conseil en gestion de la reproduction animale » et « CQP Animateur d'équipe et de territoire » ainsi que le guide mode d'emploi des outils CQP développés pour les 3 voies d'accès, figurent en annexe I, II et III du présent accord.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Voies d'accès et démarche d'acquisition des CQP TCGRA et AET"
-            },
-            {
-              "id": "KALIARTI000036836209",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='center'>A. – L'organisme certificateur (OC)</p><p align='left'>Les partenaires sociaux désignent l'organisme certificateur du secteur alimentaire comme l'administrateur des deux CQP précités de la branche sélection et reproduction animales.</p><p align='left'>À ce titre, sous l'autorité de la commission paritaire nationale interbranches de l'emploi et de la formation professionnelle (CPNIEFP) de la coopération agricole, l'OC :<br/>\n– forme et accompagne les professionnels évaluateurs et organise leurs interventions sur le terrain en lien avec l'organisme évaluateur (OE) ;<br/>\n– délivre les attestations de blocs de compétences et les parchemins CQP après délibération du jury paritaire national réuni à l'occasion de la commission mixte paritaire de la branche et après validation de la CPNIEFP.</p><p align='center'>B. – L'organisme évaluateur (OE)</p><p align='left'>L'organisme évaluateur (OE) pilote le dispositif d'acquisition des CQP. À ce titre, il prend en charge :<br/>\n– l'inscription des candidats ;<br/>\n– l'organisation et la réalisation des évaluations ;<br/>\n– la saisie des résultats pour les blocs de compétences et validation finale des CQP ;<br/>\n– fait passer les tests en ligne de connaissances (ECSA) ;<br/>\n– assure l'étude de recevabilité des candidats en VAE.</p><p align='left'>Pour la mise en œuvre des CQP AET et TCGRA, les partenaires sociaux conviennent d'avoir recours aux organismes évaluateurs habilités chaque année par l'OC sur l'ensemble du territoire.</p><p align='center'>C. – L'organisme de formation (OF)</p><p align='left'>Pour acquérir les compétences requises identifiées par les partenaires sociaux pour chaque CQP, les bénéficiaires ont recours aux organismes de formation de leur choix.</p><p align='left'>Les OF retenus doivent répondre aux obligations réglementaires visant notamment à assurer la qualité des actions de formation et répondre au catalogue des unités de compétences des CQP correspondant (annexe IV pour le CQP TCGRA et annexe V pour le CQP AET)</p><p align='center'>D. – L'évaluateur interne ou « tuteur »</p><p align='left'>L'évaluateur interne intervient pour évaluer les savoir-faire en situation professionnelle dans le cadre d'une acquisition de CQP par la voie de la formation ou des blocs de compétences.</p><p align='left'>Il formalise son appréciation à l'aide des outils définis par la démarche CQP et les transmet à l'OE.</p><p align='left'>Il bénéficie d'une formation spécifique obligatoire dont le cahier des charges est joint en annexe VI.</p><p align='center'>E. – Le professionnel évaluateur (PE)</p><p align='left'>Le professionnel évaluateur (PE) évalue la maîtrise professionnelle des candidats au CQP, quelle que soit la voie d'accès choisie par le bénéficiaire.</p><p align='left'>Il dispose d'une expertise métier et technique en lien avec le CQP et occupe ou a occupé un poste d'un niveau hiérarchique supérieur au niveau du CQP qu'il évalue.</p><p align='left'>Pour la branche et pour chaque CQP, l'OC sélectionne un pool de PE qui seront amenés à évaluer les candidats aux CQP.</p><p align='left'>La qualité de PE est validée par l'OC sur la base d'un dossier de candidature et d'un processus de sélection. Une fois la candidature validée, le PE est formé et accompagné par l'OC qui l'audite au moins une fois tous les 3 ans.</p><p align='left'>L'appréciation du PE d'un candidat au CQP est transmise au jury paritaire national par l'intermédiaire de l'organisme évaluateur.</p><p align='center'>F. – Le jury national paritaire CQP</p><p align='left'>Le jury national paritaire est issu de la commission paritaire nationale de la branche sélection et reproduction animales, par délégation de la CPNIEFP de la coopération agricole.</p><p align='left'>Il est composé d'un représentant de chaque organisation syndicale représentative signataire du présent accord et d'un nombre de représentants employeurs égal au total des représentants des organisations syndicales représentatives.</p><p align='left'>Sous réserve de dossiers à valider, il se réunit au moins deux fois par an à l'occasion d'une commission mixte paritaire.</p><p align='left'>Le jury national paritaire CQP prend connaissance de l'ensemble des résultats d'évaluation des compétences des candidats et délibère selon les règles d'évaluation suivantes, détaillées en annexe III :<br/>\n– le poids de chaque évaluateur (tuteur, OE, PE) est égal ;<br/>\n– l'échelle d'évaluation utilisée est le pourcentage de maîtrise des compétences ;<br/>\n– les règles de validation des compétences, pour valider un CQP, sont les suivantes :<br/>\n– chaque compétence générale est maîtrisée au minimum à 50 % ;<br/>\n– aucune compétence détaillée ne doit être inférieure à 30 % ;<br/>\n– aucune note attribuée par les évaluateurs ne doit être en dessous de 50 % ;<br/>\n– 1 bloc de compétences ne peut être acquis qu'à la condition que la moyenne des 3 évaluations (« tuteur », OE, PE) soit supérieure à 70 % ;<br/>\n– le CQP est acquis en totalité si tous les blocs de compétences sont supérieurs à 70 %.</p><p align='left'>Sur la base des règles d'évaluation précitées, le jury national paritaire s'accorde à la majorité sur l'attribution totale ou partielle du CQP, transmet à la CPNIEFP qui entérine et adresse les éléments à l'OC en vue de la délivrance des CQP aux candidats reçus.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Acteurs des CQP et leurs missions"
-            },
-            {
-              "id": "KALIARTI000036836210",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'>Le présent accord de branche est applicable aux salariés et entreprises entrant dans le champ de la convention collective nationale du 15 avril 2008 relevant de la sélection et de la reproduction animales.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Champ d'application"
-            },
-            {
-              "id": "KALIARTI000036836211",
-              "num": "5",
-              "intOrdre": 3145722,
-              "content": "<p align='left'>Chacune des parties au présent accord peut en demander la révision totale ou partielle. La demande doit être accompagnée d'une proposition de rédaction et être adressée par écrit au ­président du SNCIA en vue de son inscription à l'ordre du jour de la commission mixte nationale. Le SNCIA en assure la transmission à tous les membres de la commission mixte nationale.</p><p align='left'>La réunion de la commission paritaire nationale doit intervenir dans les 3 mois suivant la réception de la demande.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Révision"
-            },
-            {
-              "id": "KALIARTI000036836212",
-              "num": "6",
-              "intOrdre": 3670009,
-              "content": "<p align='left'>Le présent accord peut être dénoncé dans les conditions légales. La dénonciation est notifiée par son auteur aux signataires du présent accord et déposée dans les conditions prévues par voie réglementaire.</p><p align='left'>Lorsque la dénonciation émane de la totalité des signataires employeurs ou salariés, l'accord continue de produire effet jusqu'à l'entrée en vigueur d'un nouvel accord ou, à défaut, pendant une durée de 1 an à compter de l'expiration d'un délai de préavis de 3 mois.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Dénonciation"
-            },
-            {
-              "id": "KALIARTI000036836213",
-              "num": "7",
-              "intOrdre": 4194296,
-              "content": "<p align='left'>Afin de suivre la mise en application des CQP créés par la branche sélection et reproduction animales, les parties conviennent de faire, en commission mixte nationale, un bilan annuel du dispositif de certification mis en place.</p><p align='left'>Tous les 5 ans, les partenaires sociaux examineront le référentiel activités compétences de certification des CQP TCGRA et AET afin de procéder à une éventuelle révision.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Clause de bilan et révision du référentiel"
-            },
-            {
-              "id": "KALIARTI000036836214",
-              "num": "8",
-              "intOrdre": 4718583,
-              "content": "<p align='left'><br/>Établi en vertu des <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901660&dateTexte=&categorieLien=cid'>articles L. 2221-2 et suivants du code du travail</a>, le présent accord est établi en un nombre suffisant d'exemplaires pour notification à chacune des organisations syndicales représentatives dans la branche et dépôt dans les conditions prévues à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>article L. 2231-6 du code du travail</a>.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Notification et dépôt"
-            },
-            {
-              "id": "KALIARTI000036836217",
-              "num": "9",
-              "intOrdre": 5242870,
-              "content": "<p align='left'><br/>Les parties sollicitent l'extension du présent accord.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Demande d'extension"
-            },
-            {
-              "id": "KALIARTI000036836218",
-              "num": "10",
-              "intOrdre": 5767157,
-              "content": "<p align='left'>Le présent accord collectif est conclu pour une durée indéterminée.</p><p align='left'>Il ne s'appliquera qu'après validation de la CPNIEFP de la coopération agricole qui entérinera la création des deux CQP en vue de leurs inscriptions au RNCP.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Durée de l'accord et condition d'application"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000036836206",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000036836206",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000036836220",
                   "num": null,
                   "intOrdre": 524287,
@@ -816,12 +820,14 @@
               ]
             },
             {
-              "id": "KALISCTA000036836219",
+              "type": "section",
               "intOrdre": 6291444,
               "title": "Annexe",
+              "id": "KALISCTA000036836219",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000036836222",
                   "num": null,
                   "intOrdre": 524287,
@@ -829,15 +835,123 @@
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036836207",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'>Le certificat de qualification professionnelle (CQP) est une reconnaissance de qualification créée et délivrée au sein d'une branche professionnelle.</p><p align='left'>Il atteste de l'acquisition de l'ensemble des compétences décrites dans un référentiel de certification propre à un métier de ladite branche.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Définition et objet des CQP"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036836208",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'>Les CQP TCGRA et AET s'appuient chacun sur :<br/>\n– un référentiel d'activités compétences permettant d'analyser les situations de travail et d'en déduire les connaissances et les compétences nécessaires ;<br/>\n– un référentiel de certification, découpé en blocs et unités de compétences, qui définit les modalités et les critères d'évaluation des acquis.</p><p align='left'>Ces deux CQP peuvent s'obtenir par les 3 voies d'accès suivantes :<br/>\n– formation ;<br/>\n– blocs de compétences ;<br/>\n– validation des acquis de l'expérience (VAE).</p><p align='left'>Les référentiels d'activités compétences des CQP précités repris dans 2 livrets « CQP Technicien conseil en gestion de la reproduction animale » et « CQP Animateur d'équipe et de territoire » ainsi que le guide mode d'emploi des outils CQP développés pour les 3 voies d'accès, figurent en annexe I, II et III du présent accord.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Voies d'accès et démarche d'acquisition des CQP TCGRA et AET"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036836209",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='center'>A. – L'organisme certificateur (OC)</p><p align='left'>Les partenaires sociaux désignent l'organisme certificateur du secteur alimentaire comme l'administrateur des deux CQP précités de la branche sélection et reproduction animales.</p><p align='left'>À ce titre, sous l'autorité de la commission paritaire nationale interbranches de l'emploi et de la formation professionnelle (CPNIEFP) de la coopération agricole, l'OC :<br/>\n– forme et accompagne les professionnels évaluateurs et organise leurs interventions sur le terrain en lien avec l'organisme évaluateur (OE) ;<br/>\n– délivre les attestations de blocs de compétences et les parchemins CQP après délibération du jury paritaire national réuni à l'occasion de la commission mixte paritaire de la branche et après validation de la CPNIEFP.</p><p align='center'>B. – L'organisme évaluateur (OE)</p><p align='left'>L'organisme évaluateur (OE) pilote le dispositif d'acquisition des CQP. À ce titre, il prend en charge :<br/>\n– l'inscription des candidats ;<br/>\n– l'organisation et la réalisation des évaluations ;<br/>\n– la saisie des résultats pour les blocs de compétences et validation finale des CQP ;<br/>\n– fait passer les tests en ligne de connaissances (ECSA) ;<br/>\n– assure l'étude de recevabilité des candidats en VAE.</p><p align='left'>Pour la mise en œuvre des CQP AET et TCGRA, les partenaires sociaux conviennent d'avoir recours aux organismes évaluateurs habilités chaque année par l'OC sur l'ensemble du territoire.</p><p align='center'>C. – L'organisme de formation (OF)</p><p align='left'>Pour acquérir les compétences requises identifiées par les partenaires sociaux pour chaque CQP, les bénéficiaires ont recours aux organismes de formation de leur choix.</p><p align='left'>Les OF retenus doivent répondre aux obligations réglementaires visant notamment à assurer la qualité des actions de formation et répondre au catalogue des unités de compétences des CQP correspondant (annexe IV pour le CQP TCGRA et annexe V pour le CQP AET)</p><p align='center'>D. – L'évaluateur interne ou « tuteur »</p><p align='left'>L'évaluateur interne intervient pour évaluer les savoir-faire en situation professionnelle dans le cadre d'une acquisition de CQP par la voie de la formation ou des blocs de compétences.</p><p align='left'>Il formalise son appréciation à l'aide des outils définis par la démarche CQP et les transmet à l'OE.</p><p align='left'>Il bénéficie d'une formation spécifique obligatoire dont le cahier des charges est joint en annexe VI.</p><p align='center'>E. – Le professionnel évaluateur (PE)</p><p align='left'>Le professionnel évaluateur (PE) évalue la maîtrise professionnelle des candidats au CQP, quelle que soit la voie d'accès choisie par le bénéficiaire.</p><p align='left'>Il dispose d'une expertise métier et technique en lien avec le CQP et occupe ou a occupé un poste d'un niveau hiérarchique supérieur au niveau du CQP qu'il évalue.</p><p align='left'>Pour la branche et pour chaque CQP, l'OC sélectionne un pool de PE qui seront amenés à évaluer les candidats aux CQP.</p><p align='left'>La qualité de PE est validée par l'OC sur la base d'un dossier de candidature et d'un processus de sélection. Une fois la candidature validée, le PE est formé et accompagné par l'OC qui l'audite au moins une fois tous les 3 ans.</p><p align='left'>L'appréciation du PE d'un candidat au CQP est transmise au jury paritaire national par l'intermédiaire de l'organisme évaluateur.</p><p align='center'>F. – Le jury national paritaire CQP</p><p align='left'>Le jury national paritaire est issu de la commission paritaire nationale de la branche sélection et reproduction animales, par délégation de la CPNIEFP de la coopération agricole.</p><p align='left'>Il est composé d'un représentant de chaque organisation syndicale représentative signataire du présent accord et d'un nombre de représentants employeurs égal au total des représentants des organisations syndicales représentatives.</p><p align='left'>Sous réserve de dossiers à valider, il se réunit au moins deux fois par an à l'occasion d'une commission mixte paritaire.</p><p align='left'>Le jury national paritaire CQP prend connaissance de l'ensemble des résultats d'évaluation des compétences des candidats et délibère selon les règles d'évaluation suivantes, détaillées en annexe III :<br/>\n– le poids de chaque évaluateur (tuteur, OE, PE) est égal ;<br/>\n– l'échelle d'évaluation utilisée est le pourcentage de maîtrise des compétences ;<br/>\n– les règles de validation des compétences, pour valider un CQP, sont les suivantes :<br/>\n– chaque compétence générale est maîtrisée au minimum à 50 % ;<br/>\n– aucune compétence détaillée ne doit être inférieure à 30 % ;<br/>\n– aucune note attribuée par les évaluateurs ne doit être en dessous de 50 % ;<br/>\n– 1 bloc de compétences ne peut être acquis qu'à la condition que la moyenne des 3 évaluations (« tuteur », OE, PE) soit supérieure à 70 % ;<br/>\n– le CQP est acquis en totalité si tous les blocs de compétences sont supérieurs à 70 %.</p><p align='left'>Sur la base des règles d'évaluation précitées, le jury national paritaire s'accorde à la majorité sur l'attribution totale ou partielle du CQP, transmet à la CPNIEFP qui entérine et adresse les éléments à l'OC en vue de la délivrance des CQP aux candidats reçus.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Acteurs des CQP et leurs missions"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036836210",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'>Le présent accord de branche est applicable aux salariés et entreprises entrant dans le champ de la convention collective nationale du 15 avril 2008 relevant de la sélection et de la reproduction animales.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Champ d'application"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036836211",
+              "num": "5",
+              "intOrdre": 3145722,
+              "content": "<p align='left'>Chacune des parties au présent accord peut en demander la révision totale ou partielle. La demande doit être accompagnée d'une proposition de rédaction et être adressée par écrit au ­président du SNCIA en vue de son inscription à l'ordre du jour de la commission mixte nationale. Le SNCIA en assure la transmission à tous les membres de la commission mixte nationale.</p><p align='left'>La réunion de la commission paritaire nationale doit intervenir dans les 3 mois suivant la réception de la demande.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Révision"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036836212",
+              "num": "6",
+              "intOrdre": 3670009,
+              "content": "<p align='left'>Le présent accord peut être dénoncé dans les conditions légales. La dénonciation est notifiée par son auteur aux signataires du présent accord et déposée dans les conditions prévues par voie réglementaire.</p><p align='left'>Lorsque la dénonciation émane de la totalité des signataires employeurs ou salariés, l'accord continue de produire effet jusqu'à l'entrée en vigueur d'un nouvel accord ou, à défaut, pendant une durée de 1 an à compter de l'expiration d'un délai de préavis de 3 mois.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Dénonciation"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036836213",
+              "num": "7",
+              "intOrdre": 4194296,
+              "content": "<p align='left'>Afin de suivre la mise en application des CQP créés par la branche sélection et reproduction animales, les parties conviennent de faire, en commission mixte nationale, un bilan annuel du dispositif de certification mis en place.</p><p align='left'>Tous les 5 ans, les partenaires sociaux examineront le référentiel activités compétences de certification des CQP TCGRA et AET afin de procéder à une éventuelle révision.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Clause de bilan et révision du référentiel"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036836214",
+              "num": "8",
+              "intOrdre": 4718583,
+              "content": "<p align='left'><br/>Établi en vertu des <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901660&dateTexte=&categorieLien=cid'>articles L. 2221-2 et suivants du code du travail</a>, le présent accord est établi en un nombre suffisant d'exemplaires pour notification à chacune des organisations syndicales représentatives dans la branche et dépôt dans les conditions prévues à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>article L. 2231-6 du code du travail</a>.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Notification et dépôt"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036836217",
+              "num": "9",
+              "intOrdre": 5242870,
+              "content": "<p align='left'><br/>Les parties sollicitent l'extension du présent accord.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Demande d'extension"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036836218",
+              "num": "10",
+              "intOrdre": 5767157,
+              "content": "<p align='left'>Le présent accord collectif est conclu pour une durée indéterminée.</p><p align='left'>Il ne s'appliquera qu'après validation de la CPNIEFP de la coopération agricole qui entérinera la création des deux CQP en vue de leurs inscriptions au RNCP.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Durée de l'accord et condition d'application"
             }
           ]
         },
         {
-          "id": "KALITEXT000031255059",
+          "type": "section",
           "title": "Accord collectif cadre du 15 juin 2015 sur le dialogue social et l'exercice du droit syndical",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000031255059",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000031255062",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000031255073",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'><br/>Par le présent accord, les parties signataires affirment leur attachement au dialogue social et rappellent l'importance des organisations syndicales dans la construction de dispositifs sociaux adaptés aux spécificités des activités de la branche et aux mutations économiques, sociales et juridiques auxquelles les entreprises du secteur doivent faire face.<br/>Dans le souci commun de garantir la qualité du dialogue social, tant en entreprise qu'au niveau national, les parties signataires ont exprimé leur volonté de reconnaître l'action et l'implication des représentants du personnel et de faciliter, dans le respect des spécificités propres à chaque entreprise, l'exercice et l'efficience de leurs mandats électifs et désignatifs.<br/>Ils ont, en outre, souhaité rappeler que l'exercice d'un mandat représentatif ou d'une activité syndicale ne peut en aucun cas être pris en compte pour arrêter des décisions en matière notamment de formation, de rémunération et d'évolution de carrière.<br/>A ce titre, les entreprises sont invitées à rechercher les modalités les plus adaptées pour concilier au mieux l'exercice du mandat et l'activité professionnelle des intéressés.</p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000031255063",
               "num": "1er",
               "intOrdre": 1048574,
@@ -846,6 +960,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000031255064",
               "num": "2",
               "intOrdre": 1572861,
@@ -854,6 +969,7 @@
               "surtitre": "Annualisation des heures de délégation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000031255065",
               "num": "3",
               "intOrdre": 2097148,
@@ -862,6 +978,7 @@
               "surtitre": "Crédit d'heures forfaitaire de préparation des commissions mixtes nationales"
             },
             {
+              "type": "article",
               "id": "KALIARTI000031255066",
               "num": "4",
               "intOrdre": 2621435,
@@ -870,6 +987,7 @@
               "surtitre": "Développement en entreprise de nouveaux moyens de communication et d'information syndicale"
             },
             {
+              "type": "article",
               "id": "KALIARTI000031255067",
               "num": "5",
               "intOrdre": 3145722,
@@ -878,6 +996,7 @@
               "surtitre": "Révision"
             },
             {
+              "type": "article",
               "id": "KALIARTI000031255068",
               "num": "6",
               "intOrdre": 3670009,
@@ -886,6 +1005,7 @@
               "surtitre": "Durée"
             },
             {
+              "type": "article",
               "id": "KALIARTI000031255069",
               "num": "7",
               "intOrdre": 4194296,
@@ -894,6 +1014,7 @@
               "surtitre": "Notification et dépôt"
             },
             {
+              "type": "article",
               "id": "KALIARTI000031255071",
               "num": "8",
               "intOrdre": 4718583,
@@ -902,6 +1023,7 @@
               "surtitre": "Extension"
             },
             {
+              "type": "article",
               "id": "KALIARTI000031255072",
               "num": "9",
               "intOrdre": 5242870,
@@ -909,31 +1031,32 @@
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Date d'application"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000031255062",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000031255073",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>Par le présent accord, les parties signataires affirment leur attachement au dialogue social et rappellent l'importance des organisations syndicales dans la construction de dispositifs sociaux adaptés aux spécificités des activités de la branche et aux mutations économiques, sociales et juridiques auxquelles les entreprises du secteur doivent faire face.<br/>Dans le souci commun de garantir la qualité du dialogue social, tant en entreprise qu'au niveau national, les parties signataires ont exprimé leur volonté de reconnaître l'action et l'implication des représentants du personnel et de faciliter, dans le respect des spécificités propres à chaque entreprise, l'exercice et l'efficience de leurs mandats électifs et désignatifs.<br/>Ils ont, en outre, souhaité rappeler que l'exercice d'un mandat représentatif ou d'une activité syndicale ne peut en aucun cas être pris en compte pour arrêter des décisions en matière notamment de formation, de rémunération et d'évolution de carrière.<br/>A ce titre, les entreprises sont invitées à rechercher les modalités les plus adaptées pour concilier au mieux l'exercice du mandat et l'activité professionnelle des intéressés.</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
           ]
         },
         {
-          "id": "KALITEXT000027627934",
+          "type": "section",
           "title": "Accord du 8 octobre 2012 relatif à la rémunération des salariés en contrat de professionnalisation",
-          "dateParution": 1372636800000,
-          "articles": [
+          "id": "KALITEXT000027627934",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000027627937",
+              "etat": "VIGUEUR_NON_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000027627950",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p></p><p align='left'> \t\t\t\t\tPar le présent accord collectif, les parties signataires entendent confirmer la formation professionnelle comme un investissement au service du développement des salariés et de la performance des entreprises permettant l'adaptation nécessaire des métiers de la branche à leur environnement économique, technologique et sociétale.<br/> \t\t\t\t\tLe présent accord s'inscrit dans le cadre :<br/></p><p align='left'> \t\t\t\t\t– des orientations affichées par l'accord-cadre du 3 février 1997 sur les objectifs et les moyens de la formation professionnelle des salariés de la coopération agricole ;<br/> \t\t\t\t\t– d'une politique de branche visant à préserver l'attractivité des métiers relevant de la sélection et de la reproduction animale.<br/> \t\t\t\t\tIl vise à améliorer les conditions de rémunération des salariés titulaires d'un contrat de professionnalisation, tel que défini aux <a alt='Code du travail - art. L6325-1 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904253&dateTexte=&categorieLien=cid'>articles L. 6325-1 et suivants du code du travail</a>.<br/></p><p></p>",
+                  "etat": "VIGUEUR_NON_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000027627938",
               "num": "1er",
               "intOrdre": 1048574,
@@ -942,6 +1065,7 @@
               "surtitre": "Champ d'application géographique et professionnel"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627939",
               "num": "2",
               "intOrdre": 1572861,
@@ -950,6 +1074,7 @@
               "surtitre": "Durée"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627940",
               "num": "3",
               "intOrdre": 2097148,
@@ -958,6 +1083,7 @@
               "surtitre": "Révision"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627942",
               "num": "4",
               "intOrdre": 2621435,
@@ -966,6 +1092,7 @@
               "surtitre": "Rémunération des salariés en contrat de professionnalisation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627943",
               "num": "5",
               "intOrdre": 3145722,
@@ -974,6 +1101,7 @@
               "surtitre": "Clause de sauvegarde"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627945",
               "num": "6",
               "intOrdre": 3670009,
@@ -982,6 +1110,7 @@
               "surtitre": "Dépôt"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627948",
               "num": "7",
               "intOrdre": 4194296,
@@ -990,6 +1119,7 @@
               "surtitre": "Demande d'extension et clause suspensive"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627949",
               "num": "8",
               "intOrdre": 4718583,
@@ -997,31 +1127,32 @@
               "etat": "VIGUEUR_NON_ETEN",
               "surtitre": "Entrée en vigueur"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000027627937",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000027627950",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p></p><p align='left'> \t\t\t\t\tPar le présent accord collectif, les parties signataires entendent confirmer la formation professionnelle comme un investissement au service du développement des salariés et de la performance des entreprises permettant l'adaptation nécessaire des métiers de la branche à leur environnement économique, technologique et sociétale.<br/> \t\t\t\t\tLe présent accord s'inscrit dans le cadre :<br/></p><p align='left'> \t\t\t\t\t– des orientations affichées par l'accord-cadre du 3 février 1997 sur les objectifs et les moyens de la formation professionnelle des salariés de la coopération agricole ;<br/> \t\t\t\t\t– d'une politique de branche visant à préserver l'attractivité des métiers relevant de la sélection et de la reproduction animale.<br/> \t\t\t\t\tIl vise à améliorer les conditions de rémunération des salariés titulaires d'un contrat de professionnalisation, tel que défini aux <a alt='Code du travail - art. L6325-1 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904253&dateTexte=&categorieLien=cid'>articles L. 6325-1 et suivants du code du travail</a>.<br/></p><p></p>",
-                  "etat": "VIGUEUR_NON_ETEN"
-                }
-              ]
-            }
           ]
         },
         {
-          "id": "KALITEXT000027627952",
+          "type": "section",
           "title": "Accord du 8 octobre 2012 relatif à l'amélioration des conditions de travail, à la prévention de la pénibilité et aux risques psychosociaux",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000027627952",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000027627955",
+              "etat": "VIGUEUR_NON_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000027627999",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'><br/>Par le présent accord, les parties signataires affirment l'ambition d'impulser au sein de la branche une politique d'amélioration des conditions de travail et de préservation de la santé physique et mentale au travail.<br/>Dans un secteur en pleine mutation technologique et organisationnelle, cet accord doit encourager l'émergence d'un management de la santé au travail et sensibiliser tous les acteurs, internes et externes à l'entreprise, à la prévention de la pénibilité et des risques psychosociaux.<br/>Le présent accord s'inscrit dans une démarche dynamique et volontariste d'amélioration concrète des conditions de travail et d'intervention, notamment en élevage, fondée sur une action commune et concertée des employeurs, des salariés, des institutions représentatives du personnel et des éleveurs.<br/>Il a vocation à améliorer la qualité de vie au travail des salariés, de favoriser leur reconnaissance et leur implication, et de garantir ainsi l'attractivité des métiers de la branche.<br/>Le présent accord tient compte notamment du cadre légal et conventionnel suivant.</p><p align='center'><br/>Cadre légal</p><p align='left'><br/>Les articles L. 4121-1 à L. 4121-5 du code du travail.<br/>La <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000023022127&categorieLien=cid'>loi n° 2010-1330 du 9 novembre 2010</a> portant réforme des retraites, qui a allongé la durée de l'activité professionnelle des salariés et a érigé la prévention des risques professionnels et notamment celle de la pénibilité comme moyen devant permettre aux salariés de travailler plus longtemps en réduisant les risques de dégradation de la santé au travail.<br/>Les dispositions du <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000023792126&categorieLien=cid'>décret n° 2011-354 du 30 mars 2011</a> relatif à la définition des facteurs de risques professionnels, définissant la pénibilité.<br/>Le <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000024355005&categorieLien=cid'>décret n° 2011-824 du 7 juillet 2011</a> relatif au contenu des accords qui doivent être conclus pour prévenir la pénibilité dans les entreprises de 50 salariés dont au moins 50 % des effectifs sont occupés à des postes les exposant à un ou plusieurs des facteurs légaux de pénibilité.</p><p align='center'><br/>Cadre conventionnel</p><p align='left'><br/>Existence d'un dispositif conventionnel de branche ayant pris en compte la problématique de la santé au travail :</p><p align='left'><br/>– l'article 85 de la convention collective nationale de travail du 15 avril 2008 applicable aux salariés des entreprises relevant de la sélection et de la reproduction animale ;<br/>– l'accord collectif national du 18 décembre 2009 relatif à l'emploi des salariés âgés dans les entreprises relevant de la sélection et de la reproduction animale.<br/>Déclaration commune d'intention préalable signée le 1er juillet 2011 avec les partenaires sociaux de la branche, aux termes de laquelle il a été convenu :</p><p align='left'><br/>– d'engager une politique de branche sur la santé au travail dans le cadre d'une approche globale d'identification et de prévention des facteurs physiques et psychosociaux d'usure prématurée au travail ;<br/>– d'initier et d'impulser au niveau de la branche une véritable politique de prévention inscrivant la santé des salariés au cœur des préoccupations des entreprises, en réponse aux enjeux juridiques, économiques, technologiques et sociaux de la branche ;<br/>– de mettre en place des pistes d'actions concrètes de prévention et de compensation des risques professionnels identifiés à partir d'un diagnostic préalable de branche réalisé par des cabinets extérieurs.</p><p align='center'><br/>Diagnostic de branche préalable</p><p align='left'><br/>Conformément à la déclaration d'intention du 1er juillet 2011, un diagnostic de branche a été réalisé par les cabinets Septembre et Entreprises et performances à partir d'une méthodologie et d'un cahier des charges soumis aux partenaires sociaux lors de la commission mixte nationale du 19 décembre 2011.<br/>Le diagnostic, conduit notamment auprès de 5 entreprises pilotes, représentatives des spécificités de la branche, a fait l'objet d'une restitution lors de la commission mixte nationale du 26 avril 2012.<br/>L'étude, remise aux partenaires sociaux, a mis en relief notamment les trois « idées-forces » suivantes :</p><p align='left'><br/>– la prévention des risques professionnels cristallise de fortes attentes dans les entreprises, tant au niveau des salariés que des employeurs, qui démontrent la volonté unanime des acteurs d'engager des actions concrètes, durables et mesurables en faveur de la qualité de vie au travail ;<br/>– une véritable politique de santé au travail dans les entreprises doit impliquer l'ensemble des acteurs : employeurs, salariés, représentants du personnel et éleveurs ;<br/>– l'approche doit être intergénérationnelle et concourir à la préservation de l'attractivité des métiers de la branche.<br/>Elle a permis de nourrir et d'orienter le contenu du présent accord.</p>",
+                  "etat": "VIGUEUR_NON_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000027627956",
               "num": "1er",
               "intOrdre": 1048574,
@@ -1030,6 +1161,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627957",
               "num": "2",
               "intOrdre": 1572861,
@@ -1038,6 +1170,7 @@
               "surtitre": "Objet"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627958",
               "num": "3",
               "intOrdre": 2097148,
@@ -1046,6 +1179,7 @@
               "surtitre": "Obligations des employeurs en matière de prévention des risques professionnels"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627972",
               "num": "4",
               "intOrdre": 2621435,
@@ -1054,6 +1188,7 @@
               "surtitre": "Identification des facteurs de risques professionnels"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627973",
               "num": "4.1",
               "intOrdre": 3145722,
@@ -1062,6 +1197,7 @@
               "surtitre": "Seuils de détermination des facteurs légaux de risques de pénibilité au sein de la branche"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627979",
               "num": "4.2",
               "intOrdre": 3670009,
@@ -1070,6 +1206,7 @@
               "surtitre": "Axes d'identification de risques psychosociaux"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627980",
               "num": "5",
               "intOrdre": 4194296,
@@ -1078,6 +1215,7 @@
               "surtitre": "Pistes d'actions concrètes pour la prévention des risques professionnels et l'amélioration des conditions de travail en entreprise"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627981",
               "num": "5.1",
               "intOrdre": 4718583,
@@ -1086,6 +1224,7 @@
               "surtitre": "Méthodologie"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627985",
               "num": "5.2",
               "intOrdre": 5242870,
@@ -1094,6 +1233,7 @@
               "surtitre": "Actions en faveur de la prévention et de la compensation du risque de pénibilité"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627986",
               "num": "5.3",
               "intOrdre": 5767157,
@@ -1102,6 +1242,7 @@
               "surtitre": "Actions en faveur d'une meilleure prise en charge des risques psychosociaux ou de la qualité de vie au travail"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627987",
               "num": "6",
               "intOrdre": 6291444,
@@ -1110,6 +1251,7 @@
               "surtitre": "Chantiers nationaux à mener dans le prolongement du présent accord national"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627988",
               "num": "6.1",
               "intOrdre": 6815731,
@@ -1118,6 +1260,7 @@
               "surtitre": "Lancement d'une étude de prospective des métiers et des compétences au niveau de la branche"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627989",
               "num": "6.2",
               "intOrdre": 7340018,
@@ -1126,6 +1269,7 @@
               "surtitre": "Négociation d'un certificat de qualification professionnelle de technicien d'insémination"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627990",
               "num": "7",
               "intOrdre": 7864305,
@@ -1134,6 +1278,7 @@
               "surtitre": "Suivi et bilan du présent accord"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627991",
               "num": "8",
               "intOrdre": 8388592,
@@ -1142,6 +1287,7 @@
               "surtitre": "Clause de non-dérogation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627992",
               "num": "9",
               "intOrdre": 8912879,
@@ -1150,6 +1296,7 @@
               "surtitre": "Révision"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627993",
               "num": "10",
               "intOrdre": 9437166,
@@ -1158,6 +1305,7 @@
               "surtitre": "Durée"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627994",
               "num": "11",
               "intOrdre": 9961453,
@@ -1166,6 +1314,7 @@
               "surtitre": "Notification et dépôt"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627997",
               "num": "12",
               "intOrdre": 10485740,
@@ -1174,6 +1323,7 @@
               "surtitre": "Demande d'extension"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027627998",
               "num": "13",
               "intOrdre": 11010027,
@@ -1181,87 +1331,91 @@
               "etat": "VIGUEUR_NON_ETEN",
               "surtitre": "Date d'application"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000027627955",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000027627999",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>Par le présent accord, les parties signataires affirment l'ambition d'impulser au sein de la branche une politique d'amélioration des conditions de travail et de préservation de la santé physique et mentale au travail.<br/>Dans un secteur en pleine mutation technologique et organisationnelle, cet accord doit encourager l'émergence d'un management de la santé au travail et sensibiliser tous les acteurs, internes et externes à l'entreprise, à la prévention de la pénibilité et des risques psychosociaux.<br/>Le présent accord s'inscrit dans une démarche dynamique et volontariste d'amélioration concrète des conditions de travail et d'intervention, notamment en élevage, fondée sur une action commune et concertée des employeurs, des salariés, des institutions représentatives du personnel et des éleveurs.<br/>Il a vocation à améliorer la qualité de vie au travail des salariés, de favoriser leur reconnaissance et leur implication, et de garantir ainsi l'attractivité des métiers de la branche.<br/>Le présent accord tient compte notamment du cadre légal et conventionnel suivant.</p><p align='center'><br/>Cadre légal</p><p align='left'><br/>Les articles L. 4121-1 à L. 4121-5 du code du travail.<br/>La <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000023022127&categorieLien=cid'>loi n° 2010-1330 du 9 novembre 2010</a> portant réforme des retraites, qui a allongé la durée de l'activité professionnelle des salariés et a érigé la prévention des risques professionnels et notamment celle de la pénibilité comme moyen devant permettre aux salariés de travailler plus longtemps en réduisant les risques de dégradation de la santé au travail.<br/>Les dispositions du <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000023792126&categorieLien=cid'>décret n° 2011-354 du 30 mars 2011</a> relatif à la définition des facteurs de risques professionnels, définissant la pénibilité.<br/>Le <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000024355005&categorieLien=cid'>décret n° 2011-824 du 7 juillet 2011</a> relatif au contenu des accords qui doivent être conclus pour prévenir la pénibilité dans les entreprises de 50 salariés dont au moins 50 % des effectifs sont occupés à des postes les exposant à un ou plusieurs des facteurs légaux de pénibilité.</p><p align='center'><br/>Cadre conventionnel</p><p align='left'><br/>Existence d'un dispositif conventionnel de branche ayant pris en compte la problématique de la santé au travail :</p><p align='left'><br/>– l'article 85 de la convention collective nationale de travail du 15 avril 2008 applicable aux salariés des entreprises relevant de la sélection et de la reproduction animale ;<br/>– l'accord collectif national du 18 décembre 2009 relatif à l'emploi des salariés âgés dans les entreprises relevant de la sélection et de la reproduction animale.<br/>Déclaration commune d'intention préalable signée le 1er juillet 2011 avec les partenaires sociaux de la branche, aux termes de laquelle il a été convenu :</p><p align='left'><br/>– d'engager une politique de branche sur la santé au travail dans le cadre d'une approche globale d'identification et de prévention des facteurs physiques et psychosociaux d'usure prématurée au travail ;<br/>– d'initier et d'impulser au niveau de la branche une véritable politique de prévention inscrivant la santé des salariés au cœur des préoccupations des entreprises, en réponse aux enjeux juridiques, économiques, technologiques et sociaux de la branche ;<br/>– de mettre en place des pistes d'actions concrètes de prévention et de compensation des risques professionnels identifiés à partir d'un diagnostic préalable de branche réalisé par des cabinets extérieurs.</p><p align='center'><br/>Diagnostic de branche préalable</p><p align='left'><br/>Conformément à la déclaration d'intention du 1er juillet 2011, un diagnostic de branche a été réalisé par les cabinets Septembre et Entreprises et performances à partir d'une méthodologie et d'un cahier des charges soumis aux partenaires sociaux lors de la commission mixte nationale du 19 décembre 2011.<br/>Le diagnostic, conduit notamment auprès de 5 entreprises pilotes, représentatives des spécificités de la branche, a fait l'objet d'une restitution lors de la commission mixte nationale du 26 avril 2012.<br/>L'étude, remise aux partenaires sociaux, a mis en relief notamment les trois « idées-forces » suivantes :</p><p align='left'><br/>– la prévention des risques professionnels cristallise de fortes attentes dans les entreprises, tant au niveau des salariés que des employeurs, qui démontrent la volonté unanime des acteurs d'engager des actions concrètes, durables et mesurables en faveur de la qualité de vie au travail ;<br/>– une véritable politique de santé au travail dans les entreprises doit impliquer l'ensemble des acteurs : employeurs, salariés, représentants du personnel et éleveurs ;<br/>– l'approche doit être intergénérationnelle et concourir à la préservation de l'attractivité des métiers de la branche.<br/>Elle a permis de nourrir et d'orienter le contenu du présent accord.</p>",
-                  "etat": "VIGUEUR_NON_ETEN"
-                }
-              ]
-            }
           ]
         }
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 3,
       "title": "Textes Salaires",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000037652504",
-          "title": "Avenant n° 8 du 19 mars 2018 relatif aux salaires minimaux pour l'année 2018",
-          "dateParution": 1543363200000,
-          "articles": [
+          "type": "section",
+          "title": "Avenant n° 9 du 1er mars 2019",
+          "id": "KALITEXT000038895014",
+          "children": [
             {
-              "id": "KALIARTI000037652510",
+              "type": "article",
+              "id": "KALIARTI000038895017",
+              "num": null,
+              "intOrdre": 524287,
+              "content": "<p><br clear='none'/>Exposé des motifs </p><p><br clear='none'/>Les rémunérations conventionnelles annuelles minimales (RAM) et mensuelles minimales (RMM), définies à l' article 65 de la convention collective nationale du 15 avril 2008 , sont fixées à l'annexe 2D de cette dernière. <br clear='none'/>La fixation de leurs valeurs, calculées en fonction d'un indice de valorisation (IV) multiplié par un indice de salaire pour chaque niveau de qualification, est de la compétence de la commission mixte nationale, conformément à l' article 8 de la convention collective nationale du 15 avril 2008 . <br clear='none'/>Le présent accord salarial a pour objet une valorisation de la grille hiérarchique de RAM et de RMM au titre de l'année 2019.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000038895018",
               "num": "1er",
-              "intOrdre": 674083,
-              "content": "<p align='left'>L'indice de valorisation (IV) moyen pondéré servant au calcul des RAM pour 2018 est porté :<br/>\n– pour les niveaux 1 à 3 de 120,37 € à 121,81 €, soit une hausse en masse annuelle de 1,2 %, par effet d'une augmentation de 1,2 % de l'indice de valorisation au 1er janvier 2018, soit un IV de 121,81 € ;<br/>\n– pour les niveaux 4 et suivants de 119,55 € à 120,98 €, soit une hausse en masse annuelle de 1,2 %, par effet d'une augmentation de 1,2 % de l'indice de valorisation au 1er janvier 2018, soit un IV de 120,98 €.</p>",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>L'indice de valorisation (IV) moyen pondéré servant au calcul des RAM pour 2019 est porté :<br/>– pour les niveaux 1 à 3 de 121,81 € à 124 €, soit une hausse en masse annuelle de 1,8 %, par effet d'une augmentation de 1,8 % de l'indice de valorisation au 1er janvier 2019, soit un IV de 124 € ;<br/>– pour les niveaux 4 et suivants de 120,98 € à 123,16 €, soit une hausse en masse annuelle de 1,8 %, par effet d'une augmentation de 1,8 % de l'indice de valorisation au 1er janvier 2019, soit un IV de 123,16 €.</p>",
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Majoration de l'indice de valorisation moyen pondéré des RAM"
             },
             {
-              "id": "KALIARTI000037652511",
+              "type": "article",
+              "id": "KALIARTI000038895019",
               "num": "2",
-              "intOrdre": 748981,
-              "content": "<p align='left'>Consécutivement, l'indice de valorisation servant au calcul des RMM pour 2018 est augmenté dans les mêmes conditions que l'IV de RAM et porté au 1er janvier 2018 :<br/>\n– pour les niveaux 1 à 3 de 9,2597 € à 9,3708 € ;<br/>\n– pour les niveaux 4 et suivants de 9,1961 € à 9,3064 €.</p>",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Consécutivement, l'indice de valorisation servant au calcul des RMM pour 2019 est augmenté dans les mêmes conditions que le IV de RAM et porté au 1er janvier 2019 :<br/>– pour les niveaux 1 à 3 de 9,3708 € à 9,5394 € ;<br/>– pour les niveaux 4 et suivants de 9,3064 € à 9,4734 €.</p>",
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Majoration de l'indice de valorisation des RMM"
             },
             {
-              "id": "KALIARTI000037652512",
+              "type": "article",
+              "id": "KALIARTI000038895020",
               "num": "3",
-              "intOrdre": 823879,
-              "content": "<p align='left'>Le présent avenant est applicable à compter de son dépôt auprès de l'administration compétente.</p><p align='left'>La nouvelle grille hiérarchique des RAM et des RMM est reproduite en annexe du présent avenant. Elle annule et remplace celle fixée par l'<a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000031148698&categorieLien=cid'>avenant n° 6 du 15 juin 2015</a>.</p>",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Le présent avenant est applicable à compter de son dépôt auprès de l'administration compétente.<br/>La nouvelle grille hiérarchique des RAM et des RMM est reproduite en annexe du présent avenant. Elle annule et remplace celle fixée par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000037652504&categorieLien=cid'>avenant n° 8 du 19 mars 2018</a>.</p>",
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Date d'application"
             },
             {
-              "id": "KALIARTI000037652514",
+              "type": "article",
+              "id": "KALIARTI000038895022",
               "num": "4",
-              "intOrdre": 898777,
+              "intOrdre": 2621435,
               "content": "<p align='left'><br/>Les parties sollicitent l'extension du présent avenant.</p>",
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Extension"
             },
             {
-              "id": "KALIARTI000037652515",
+              "type": "article",
+              "id": "KALIARTI000038895023",
               "num": "5",
-              "intOrdre": 973675,
-              "content": "<p align='left'><br/>Établi en vertu des <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901659&dateTexte=&categorieLien=cid'>articles L. 2221-1 et suivants du code du travail</a>, le présent avenant est établi en un nombre suffisant d'exemplaires pour notification à chacune des organisations syndicales et dépôt dans les conditions prévues à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>article L. 2231-6 du code du travail</a>.</p>",
+              "intOrdre": 3145722,
+              "content": "<p align='left'><br/>Établi en vertu des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901659&dateTexte=&categorieLien=cid'>articles L. 2221-1 et suivants du code du travail</a>, le présent avenant est établi en un nombre suffisant d'exemplaires pour notification à chacune des organisations syndicales et dépôt dans les conditions prévues à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>article L. 2231-6 du code du travail</a>.</p>",
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Dépôts. – Notification"
             }
-          ],
-          "sections": [
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 8 du 19 mars 2018 relatif aux salaires minimaux pour l'année 2018",
+          "id": "KALITEXT000037652504",
+          "children": [
             {
-              "id": "KALISCTA000037652507",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Exposé des motifs",
+              "id": "KALISCTA000037652507",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000037652509",
                   "num": null,
                   "intOrdre": 1073741823,
@@ -1271,12 +1425,14 @@
               ]
             },
             {
-              "id": "KALISCTA000037652508",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Annexe",
+              "id": "KALISCTA000037652508",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000037652518",
                   "num": null,
                   "intOrdre": 524287,
@@ -1284,21 +1440,68 @@
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000037652510",
+              "num": "1er",
+              "intOrdre": 674083,
+              "content": "<p align='left'>L'indice de valorisation (IV) moyen pondéré servant au calcul des RAM pour 2018 est porté :<br/>\n– pour les niveaux 1 à 3 de 120,37 € à 121,81 €, soit une hausse en masse annuelle de 1,2 %, par effet d'une augmentation de 1,2 % de l'indice de valorisation au 1er janvier 2018, soit un IV de 121,81 € ;<br/>\n– pour les niveaux 4 et suivants de 119,55 € à 120,98 €, soit une hausse en masse annuelle de 1,2 %, par effet d'une augmentation de 1,2 % de l'indice de valorisation au 1er janvier 2018, soit un IV de 120,98 €.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Majoration de l'indice de valorisation moyen pondéré des RAM"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000037652511",
+              "num": "2",
+              "intOrdre": 748981,
+              "content": "<p align='left'>Consécutivement, l'indice de valorisation servant au calcul des RMM pour 2018 est augmenté dans les mêmes conditions que l'IV de RAM et porté au 1er janvier 2018 :<br/>\n– pour les niveaux 1 à 3 de 9,2597 € à 9,3708 € ;<br/>\n– pour les niveaux 4 et suivants de 9,1961 € à 9,3064 €.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Majoration de l'indice de valorisation des RMM"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000037652512",
+              "num": "3",
+              "intOrdre": 823879,
+              "content": "<p align='left'>Le présent avenant est applicable à compter de son dépôt auprès de l'administration compétente.</p><p align='left'>La nouvelle grille hiérarchique des RAM et des RMM est reproduite en annexe du présent avenant. Elle annule et remplace celle fixée par l'<a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000031148698&categorieLien=cid'>avenant n° 6 du 15 juin 2015</a>.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Date d'application"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000037652514",
+              "num": "4",
+              "intOrdre": 898777,
+              "content": "<p align='left'><br/>Les parties sollicitent l'extension du présent avenant.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Extension"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000037652515",
+              "num": "5",
+              "intOrdre": 973675,
+              "content": "<p align='left'><br/>Établi en vertu des <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901659&dateTexte=&categorieLien=cid'>articles L. 2221-1 et suivants du code du travail</a>, le présent avenant est établi en un nombre suffisant d'exemplaires pour notification à chacune des organisations syndicales et dépôt dans les conditions prévues à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>article L. 2231-6 du code du travail</a>.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Dépôts. – Notification"
             }
           ]
         },
         {
-          "id": "KALITEXT000036232310",
+          "type": "section",
           "title": "Avenant n° 7 du 18 avril 2017 relatif aux salaires minimaux pour l'année 2017",
-          "dateParution": 1513641600000,
-          "sections": [
+          "id": "KALITEXT000036232310",
+          "children": [
             {
-              "id": "KALISCTA000036232313",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Exposé des motifs",
+              "id": "KALISCTA000036232313",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000036232315",
                   "num": null,
                   "intOrdre": 524287,
@@ -1306,6 +1509,7 @@
                   "etat": "VIGUEUR_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000036232316",
                   "num": "1er",
                   "intOrdre": 1048574,
@@ -1314,6 +1518,7 @@
                   "surtitre": "Majoration de l'indice de valorisation moyen pondéré des RAM"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000036232317",
                   "num": "2",
                   "intOrdre": 1572861,
@@ -1322,6 +1527,7 @@
                   "surtitre": "Majoration de l'indice de valorisation des RMM"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000036232318",
                   "num": "3",
                   "intOrdre": 2097148,
@@ -1330,6 +1536,7 @@
                   "surtitre": "Clause de revoyure"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000036232319",
                   "num": "4",
                   "intOrdre": 2621435,
@@ -1338,6 +1545,7 @@
                   "surtitre": "Date d'application"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000036232321",
                   "num": "5",
                   "intOrdre": 3145722,
@@ -1346,6 +1554,7 @@
                   "surtitre": "Extension"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000036232322",
                   "num": "6",
                   "intOrdre": 3670009,
@@ -1356,12 +1565,14 @@
               ]
             },
             {
-              "id": "KALISCTA000036232314",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Annexe",
+              "id": "KALISCTA000036232314",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000036232325",
                   "num": null,
                   "intOrdre": 524287,
@@ -1373,11 +1584,29 @@
           ]
         },
         {
-          "id": "KALITEXT000029732246",
+          "type": "section",
           "title": "Avenant n° 5 du 31 mars 2014 relatif aux salaires minimaux pour l'année 2014",
-          "dateParution": 1415750400000,
-          "articles": [
+          "id": "KALITEXT000029732246",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 4194296,
+              "title": "Annexe",
+              "id": "KALISCTA000029732259",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000029732260",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='center'></p><p align='center'><b>RMM et RAM annuelles pondérées 2014</b><br/></p><p></p><div align='center'><center><table border='1'><tbody><tr><th>Points<br/>de<br/>cotation</th><th>Niveau</th><th>Indice<br/>de salaire</th><th>RAM<br/>(EN €)</th><th>RMM<br/>(EN €)</th><th>Taurellerie</th><th>Laboratoire</th><th>Zootechnie</th><th>Insémination</th><th>Transplantation<br/>embryonnaire</th><th>Technico-<br/>commercial</th><th>Administration</th><th>Comptabilité</th><th>Informatique</th><th>Transport</th><th>Entretien</th></tr><tr><td align='center'>725<br/>700</td><td align='center'>22</td><td align='center'>224</td><td align='center'>26 329</td><td align='center'>2 025</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Comptable 2°</td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>699<br/>675</td><td align='center'>21</td><td align='center'>220</td><td align='center'>25 859</td><td align='center'>1 989</td><td><br/></td><td><br/></td><td><br/></td><td align='center'>TI (*)<br/>coordinateur</td><td><br/></td><td><br/></td><td align='center'>Assistant<br/>direction</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>674<br/>650</td><td align='center'>20</td><td align='center'>216</td><td align='center'>25 389</td><td align='center'>1 953</td><td align='center'>Chef de<br/>taurellerie</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Animateur<br/>technico-<br/>commercial</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>649<br/>625</td><td align='center'>19</td><td align='center'>212</td><td align='center'>24 918</td><td align='center'>1 917</td><td><br/></td><td><br/></td><td align='center'>Tech. création génétique</td><td><br/></td><td align='center'>Technicien TE</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>624<br/>600</td><td align='center'>18</td><td align='center'>208</td><td align='center'>24 448</td><td align='center'>1 881</td><td><br/></td><td><br/></td><td align='center'>Tech.diffusion génétique</td><td align='center'>TI (*)<br/>spécialisé</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Technicien<br/>informatique</td><td><br/></td><td><br/></td></tr><tr><td align='center'>599<br/>575</td><td align='center'>17</td><td align='center'>204</td><td align='center'>23 978</td><td align='center'>1 845</td><td><br/></td><td><br/></td><td><br/></td><td align='center'>TI (*)<br/>qualifié</td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Comptable 1°</td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>574<br/>550</td><td align='center'>16</td><td align='center'>200</td><td align='center'>23 508</td><td align='center'>1 808</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>549<br/>525</td><td align='center'>15</td><td align='center'>196</td><td align='center'>23 038</td><td align='center'>1 772</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Agent technico-commercial</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>524<br/>500</td><td align='center'>14</td><td align='center'>192</td><td align='center'>22 568</td><td align='center'>1 736</td><td align='center'>Taurelier<br/>resp. équipe</td><td><br/></td><td><br/></td><td align='center'>TI (*)</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>499<br/>475</td><td align='center'>13</td><td align='center'>188</td><td align='center'>22 098</td><td align='center'>1 700</td><td><br/></td><td><br/></td><td><br/></td><td align='center'>TI (*)<br/>débutant</td><td><br/></td><td><br/></td><td align='center'>Assistant<br/>spécialisé</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>474<br/>450</td><td align='center'>12</td><td align='center'>184</td><td align='center'>21 627</td><td align='center'>1 664</td><td><br/></td><td align='center'>Laborantin 2°</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>449<br/>425</td><td align='center'>11</td><td align='center'>180</td><td align='center'>21 157</td><td align='center'>1 628</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>424<br/>400</td><td align='center'>10</td><td align='center'>178</td><td align='center'>20 922</td><td align='center'>1 609</td><td><br/></td><td align='center'>Laborantin<br/>répar. livreur</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Transporteur d'animaux</td><td><br/></td></tr><tr><td align='center'>399<br/>375</td><td align='center'>9</td><td align='center'>176</td><td align='center'>20 687</td><td align='center'>1 591</td><td align='center'>Taurelier<br/>spécialisé</td><td align='center'>Laborantin<br/>répartiteur</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Assistant<br/>administratif</td><td align='center'>Aide-comptable</td><td align='center'>Assistant<br/>informatique</td><td><br/></td><td><br/></td></tr><tr><td align='center'>374<br/>350</td><td align='center'>8</td><td align='center'>174</td><td align='center'>20 452</td><td align='center'>1 573</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>349<br/>325</td><td align='center'>7</td><td align='center'>172</td><td align='center'>20 217</td><td align='center'>1 555</td><td align='center'>Taurelier</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Livreur<br/>répartiteur</td><td align='center'>Agent<br/>d'entretien</td></tr><tr><td align='center'>324<br/>300</td><td align='center'>6</td><td align='center'>170</td><td align='center'>19 982</td><td align='center'>1 537</td><td><br/></td><td align='center'>Laborantin 1°</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>299<br/>275</td><td align='center'>5</td><td align='center'>168</td><td align='center'>19 747</td><td align='center'>1 519</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Livreur</td><td><br/></td></tr><tr><td align='center'>274<br/>250</td><td align='center'>4</td><td align='center'>166</td><td align='center'>19 512</td><td align='center'>1 501</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>249<br/>225</td><td align='center'>3</td><td align='center'>164</td><td align='center'>19 277</td><td align='center'>1 483</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Agent<br/>comptabilité</td><td align='center'>Opérateur<br/>saisie</td><td><br/></td><td><br/></td></tr><tr><td align='center'>224<br/>200</td><td align='center'>2</td><td align='center'>162</td><td align='center'>19 041</td><td align='center'>1 465</td><td><br/></td><td align='center'>Employé<br/>de laboratoire</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Agent<br/>administratif</td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Agent<br/>de propreté</td></tr><tr><td align='center'>199<br/>175</td><td align='center'>1</td><td align='center'>160</td><td align='center'>18 806</td><td align='center'>1 447</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td><br/></td><td><br/></td><td align='center'>IV =</td><td align='center'>117,54</td><td align='center'>9,042</td><td colspan='7'>(*) TI : technicien d'insémination</td></tr></tbody></table></center></div><p></p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000029732249",
               "num": null,
               "intOrdre": 524287,
@@ -1385,6 +1614,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029732250",
               "num": "1er",
               "intOrdre": 1048574,
@@ -1393,6 +1623,7 @@
               "surtitre": "Majoration de l'indice de valorisation moyen pondéré des RAM"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029732251",
               "num": "2",
               "intOrdre": 1572861,
@@ -1401,6 +1632,7 @@
               "surtitre": "Majoration de l'indice de valorisation des RMM"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029732252",
               "num": "3",
               "intOrdre": 2097148,
@@ -1409,6 +1641,7 @@
               "surtitre": "Date d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029732254",
               "num": "4",
               "intOrdre": 2621435,
@@ -1417,6 +1650,7 @@
               "surtitre": "Clause de revoyure"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029732255",
               "num": "5",
               "intOrdre": 3145722,
@@ -1425,6 +1659,7 @@
               "surtitre": "Extension"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029732256",
               "num": "6",
               "intOrdre": 3670009,
@@ -1432,31 +1667,32 @@
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Dépôt. – Notification"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000029732259",
-              "intOrdre": 4194296,
-              "title": "Annexe",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000029732260",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='center'></p><p align='center'><b>RMM et RAM annuelles pondérées 2014</b><br/></p><p></p><div align='center'><center><table border='1'><tbody><tr><th>Points<br/>de<br/>cotation</th><th>Niveau</th><th>Indice<br/>de salaire</th><th>RAM<br/>(EN €)</th><th>RMM<br/>(EN €)</th><th>Taurellerie</th><th>Laboratoire</th><th>Zootechnie</th><th>Insémination</th><th>Transplantation<br/>embryonnaire</th><th>Technico-<br/>commercial</th><th>Administration</th><th>Comptabilité</th><th>Informatique</th><th>Transport</th><th>Entretien</th></tr><tr><td align='center'>725<br/>700</td><td align='center'>22</td><td align='center'>224</td><td align='center'>26 329</td><td align='center'>2 025</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Comptable 2°</td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>699<br/>675</td><td align='center'>21</td><td align='center'>220</td><td align='center'>25 859</td><td align='center'>1 989</td><td><br/></td><td><br/></td><td><br/></td><td align='center'>TI (*)<br/>coordinateur</td><td><br/></td><td><br/></td><td align='center'>Assistant<br/>direction</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>674<br/>650</td><td align='center'>20</td><td align='center'>216</td><td align='center'>25 389</td><td align='center'>1 953</td><td align='center'>Chef de<br/>taurellerie</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Animateur<br/>technico-<br/>commercial</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>649<br/>625</td><td align='center'>19</td><td align='center'>212</td><td align='center'>24 918</td><td align='center'>1 917</td><td><br/></td><td><br/></td><td align='center'>Tech. création génétique</td><td><br/></td><td align='center'>Technicien TE</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>624<br/>600</td><td align='center'>18</td><td align='center'>208</td><td align='center'>24 448</td><td align='center'>1 881</td><td><br/></td><td><br/></td><td align='center'>Tech.diffusion génétique</td><td align='center'>TI (*)<br/>spécialisé</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Technicien<br/>informatique</td><td><br/></td><td><br/></td></tr><tr><td align='center'>599<br/>575</td><td align='center'>17</td><td align='center'>204</td><td align='center'>23 978</td><td align='center'>1 845</td><td><br/></td><td><br/></td><td><br/></td><td align='center'>TI (*)<br/>qualifié</td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Comptable 1°</td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>574<br/>550</td><td align='center'>16</td><td align='center'>200</td><td align='center'>23 508</td><td align='center'>1 808</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>549<br/>525</td><td align='center'>15</td><td align='center'>196</td><td align='center'>23 038</td><td align='center'>1 772</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Agent technico-commercial</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>524<br/>500</td><td align='center'>14</td><td align='center'>192</td><td align='center'>22 568</td><td align='center'>1 736</td><td align='center'>Taurelier<br/>resp. équipe</td><td><br/></td><td><br/></td><td align='center'>TI (*)</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>499<br/>475</td><td align='center'>13</td><td align='center'>188</td><td align='center'>22 098</td><td align='center'>1 700</td><td><br/></td><td><br/></td><td><br/></td><td align='center'>TI (*)<br/>débutant</td><td><br/></td><td><br/></td><td align='center'>Assistant<br/>spécialisé</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>474<br/>450</td><td align='center'>12</td><td align='center'>184</td><td align='center'>21 627</td><td align='center'>1 664</td><td><br/></td><td align='center'>Laborantin 2°</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>449<br/>425</td><td align='center'>11</td><td align='center'>180</td><td align='center'>21 157</td><td align='center'>1 628</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>424<br/>400</td><td align='center'>10</td><td align='center'>178</td><td align='center'>20 922</td><td align='center'>1 609</td><td><br/></td><td align='center'>Laborantin<br/>répar. livreur</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Transporteur d'animaux</td><td><br/></td></tr><tr><td align='center'>399<br/>375</td><td align='center'>9</td><td align='center'>176</td><td align='center'>20 687</td><td align='center'>1 591</td><td align='center'>Taurelier<br/>spécialisé</td><td align='center'>Laborantin<br/>répartiteur</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Assistant<br/>administratif</td><td align='center'>Aide-comptable</td><td align='center'>Assistant<br/>informatique</td><td><br/></td><td><br/></td></tr><tr><td align='center'>374<br/>350</td><td align='center'>8</td><td align='center'>174</td><td align='center'>20 452</td><td align='center'>1 573</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>349<br/>325</td><td align='center'>7</td><td align='center'>172</td><td align='center'>20 217</td><td align='center'>1 555</td><td align='center'>Taurelier</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Livreur<br/>répartiteur</td><td align='center'>Agent<br/>d'entretien</td></tr><tr><td align='center'>324<br/>300</td><td align='center'>6</td><td align='center'>170</td><td align='center'>19 982</td><td align='center'>1 537</td><td><br/></td><td align='center'>Laborantin 1°</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>299<br/>275</td><td align='center'>5</td><td align='center'>168</td><td align='center'>19 747</td><td align='center'>1 519</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Livreur</td><td><br/></td></tr><tr><td align='center'>274<br/>250</td><td align='center'>4</td><td align='center'>166</td><td align='center'>19 512</td><td align='center'>1 501</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>249<br/>225</td><td align='center'>3</td><td align='center'>164</td><td align='center'>19 277</td><td align='center'>1 483</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Agent<br/>comptabilité</td><td align='center'>Opérateur<br/>saisie</td><td><br/></td><td><br/></td></tr><tr><td align='center'>224<br/>200</td><td align='center'>2</td><td align='center'>162</td><td align='center'>19 041</td><td align='center'>1 465</td><td><br/></td><td align='center'>Employé<br/>de laboratoire</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Agent<br/>administratif</td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Agent<br/>de propreté</td></tr><tr><td align='center'>199<br/>175</td><td align='center'>1</td><td align='center'>160</td><td align='center'>18 806</td><td align='center'>1 447</td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td><br/></td><td><br/></td><td align='center'>IV =</td><td align='center'>117,54</td><td align='center'>9,042</td><td colspan='7'>(*) TI : technicien d'insémination</td></tr></tbody></table></center></div><p></p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
           ]
         },
         {
-          "id": "KALITEXT000026287980",
+          "type": "section",
           "title": "Avenant n° 4 du 26 avril 2012",
-          "dateParution": 1344988800000,
-          "articles": [
+          "id": "KALITEXT000026287980",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 1048574,
+              "title": "Annexe",
+              "id": "KALISCTA000026287984",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000026287995",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p> \t\t\t\t\t(Cliché non reproduit, consultable en ligne sur le site : journal-officiel.gouv.fr, rubrique Convention collective.)<br/></p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000026287985",
               "num": null,
               "intOrdre": 65535,
@@ -1465,6 +1701,7 @@
               "surtitre": "Exposé des motifs "
             },
             {
+              "type": "article",
               "id": "KALIARTI000026287986",
               "num": "1er",
               "intOrdre": 131070,
@@ -1473,6 +1710,7 @@
               "surtitre": "Majoration de l'indice de valorisation moyen pondéré des RAM"
             },
             {
+              "type": "article",
               "id": "KALIARTI000026287987",
               "num": "2",
               "intOrdre": 196605,
@@ -1481,6 +1719,7 @@
               "surtitre": "Majoration de l'indice de valorisation des RMM"
             },
             {
+              "type": "article",
               "id": "KALIARTI000026287988",
               "num": "3",
               "intOrdre": 262140,
@@ -1489,6 +1728,7 @@
               "surtitre": "Date d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000026287990",
               "num": "4",
               "intOrdre": 327675,
@@ -1497,6 +1737,7 @@
               "surtitre": "Clause de revoyure"
             },
             {
+              "type": "article",
               "id": "KALIARTI000026287991",
               "num": "5",
               "intOrdre": 393210,
@@ -1505,6 +1746,7 @@
               "surtitre": "Extension"
             },
             {
+              "type": "article",
               "id": "KALIARTI000026287992",
               "num": "6",
               "intOrdre": 458745,
@@ -1512,37 +1754,22 @@
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Dépôt. – Notification"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000026287984",
-              "intOrdre": 1048574,
-              "title": "Annexe",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000026287995",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p> \t\t\t\t\t(Cliché non reproduit, consultable en ligne sur le site : journal-officiel.gouv.fr, rubrique Convention collective.)<br/></p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
           ]
         },
         {
-          "id": "KALITEXT000025052912",
+          "type": "section",
           "title": "Avenant n° 3 du 1er juillet 2011 modifiant l'annexe II de la convention collective",
-          "dateParution": 1325116800000,
-          "sections": [
+          "id": "KALITEXT000025052912",
+          "children": [
             {
-              "id": "KALISCTA000025052915",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Exposé des motifs",
+              "id": "KALISCTA000025052915",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000025052917",
                   "num": null,
                   "intOrdre": 524287,
@@ -1550,6 +1777,7 @@
                   "etat": "VIGUEUR_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000025052918",
                   "num": "1er",
                   "intOrdre": 1048574,
@@ -1558,6 +1786,7 @@
                   "surtitre": "Majoration de l'indice de valorisation moyen pondéré des RAM"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000025052919",
                   "num": "2",
                   "intOrdre": 1572861,
@@ -1566,6 +1795,7 @@
                   "surtitre": "Majoration de l'indice de valorisation des RMM"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000025052920",
                   "num": "3",
                   "intOrdre": 2097148,
@@ -1574,6 +1804,7 @@
                   "surtitre": "Date d'application"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000025052922",
                   "num": "4",
                   "intOrdre": 2621435,
@@ -1582,6 +1813,7 @@
                   "surtitre": "Clause de revoyure"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000025052923",
                   "num": "5",
                   "intOrdre": 3145722,
@@ -1590,6 +1822,7 @@
                   "surtitre": "Extension"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000025052924",
                   "num": "6",
                   "intOrdre": 3670009,
@@ -1600,12 +1833,14 @@
               ]
             },
             {
-              "id": "KALISCTA000025052916",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Annexe",
+              "id": "KALISCTA000025052916",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000025052927",
                   "num": null,
                   "intOrdre": 524287,
@@ -1617,17 +1852,19 @@
           ]
         },
         {
-          "id": "KALITEXT000023331153",
+          "type": "section",
           "title": "Avenant n° 2 du 4 juin 2010",
-          "dateParution": 1293667200000,
-          "sections": [
+          "id": "KALITEXT000023331153",
+          "children": [
             {
-              "id": "KALISCTA000023331155",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Exposé des motifs",
+              "id": "KALISCTA000023331155",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023331156",
                   "num": null,
                   "intOrdre": 524287,
@@ -1635,6 +1872,7 @@
                   "etat": "VIGUEUR_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000023331157",
                   "num": "1er",
                   "intOrdre": 1048574,
@@ -1643,6 +1881,7 @@
                   "surtitre": "Majoration de l'indice de valorisation moyen pondéré des RAM"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000023331158",
                   "num": "2",
                   "intOrdre": 1572861,
@@ -1651,6 +1890,7 @@
                   "surtitre": "Majoration de l'indice de valorisation des RMM"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000023331159",
                   "num": "3",
                   "intOrdre": 2097148,
@@ -1659,6 +1899,7 @@
                   "surtitre": "Date d'application"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000023331161",
                   "num": "4",
                   "intOrdre": 2621435,
@@ -1667,6 +1908,7 @@
                   "surtitre": "Clause de revoyure"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000023331162",
                   "num": "4",
                   "intOrdre": 3145722,
@@ -1675,6 +1917,7 @@
                   "surtitre": "Extension"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000023331163",
                   "num": "5",
                   "intOrdre": 3670009,
@@ -1685,12 +1928,14 @@
               ]
             },
             {
-              "id": "KALISCTA000023365678",
+              "type": "section",
               "intOrdre": 1074003967,
               "title": "Annexe",
+              "id": "KALISCTA000023365678",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023365687",
                   "num": null,
                   "intOrdre": 1073741823,
@@ -1702,11 +1947,29 @@
           ]
         },
         {
-          "id": "KALITEXT000022425752",
+          "type": "section",
           "title": "Avenant n° 1 du 18 décembre 2009",
-          "dateParution": 1278288000000,
-          "articles": [
+          "id": "KALITEXT000022425752",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 3670009,
+              "title": "Annexe I",
+              "id": "KALISCTA000022425765",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000022425766",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p> \t\t\t\t\tNouvelle grille des RAM et des RMM<br/></p><p></p><div align='center'><center><table border='1'><tbody><tr><th>Point<br/>de<br/>cotation </th><th>Niveau </th><th>Indice<br/>de<br/>salaire </th><th>RAM<br/>(en euros) </th><th>RMM<br/>(en euros) </th><th>Taurellerie </th><th>Laboratoire </th><th>Zootechnie </th><th>Insémination </th><th>Transplant.<br/>embryonnaire </th></tr><tr><td align='center'>725<br/>700 </td><td align='center'>22 </td><td align='center'>224 </td><td align='center'>24 228 </td><td align='center'>1 886 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>699<br/>675 </td><td align='center'>21 </td><td align='center'>220 </td><td align='center'>23 795 </td><td align='center'>1 852 </td><td><br/></td><td><br/></td><td><br/></td><td align='center'>TI* coordinateur </td><td><br/></td></tr><tr><td align='center'>674<br/>650 </td><td align='center'>20 </td><td align='center'>216 </td><td align='center'>23 363 </td><td align='center'>1 819 </td><td align='center'>Chef de taurellerie </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>649<br/>625 </td><td align='center'>19 </td><td align='center'>212 </td><td align='center'>22 930 </td><td align='center'>1 785 </td><td><br/></td><td><br/></td><td align='center'>Techn. création génétique </td><td><br/></td><td align='center'>Technicien TE </td></tr><tr><td align='center'>624<br/>600 </td><td align='center'>18 </td><td align='center'>208 </td><td align='center'>22 497 </td><td align='center'>1 751 </td><td><br/></td><td><br/></td><td align='center'>Tech.diffusion génétique </td><td align='center'>TI* spécialisé </td><td><br/></td></tr><tr><td align='center'>599<br/>575 </td><td align='center'>17 </td><td align='center'>204 </td><td align='center'>22 065 </td><td align='center'>1 718 </td><td><br/></td><td><br/></td><td><br/></td><td align='center'>TI* qualifié </td><td><br/></td></tr><tr><td align='center'>574<br/>550 </td><td align='center'>16 </td><td align='center'>200 </td><td align='center'>21 632 </td><td align='center'>1 684 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>549<br/>525 </td><td align='center'>15 </td><td align='center'>196 </td><td align='center'>21 199 </td><td align='center'>1 650 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>524<br/>500 </td><td align='center'>14 </td><td align='center'>192 </td><td align='center'>20 767 </td><td align='center'>1 617 </td><td align='center'>Taurelier<br/>resp. équipe </td><td><br/></td><td><br/></td><td align='center'>TI* </td><td><br/></td></tr><tr><td align='center'>499<br/>475 </td><td align='center'>13 </td><td align='center'>188 </td><td align='center'>20 334 </td><td align='center'>1 583 </td><td><br/></td><td><br/></td><td><br/></td><td align='center'>TI* débutant </td><td><br/></td></tr><tr><td align='center'>474<br/>450 </td><td align='center'>12 </td><td align='center'>184 </td><td align='center'>19 901 </td><td align='center'>1 549 </td><td><br/></td><td align='center'>Laborantin 2 </td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>449<br/>425 </td><td align='center'>11 </td><td align='center'>180 </td><td align='center'>19 469 </td><td align='center'>1 516 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>424<br/>400 </td><td align='center'>10 </td><td align='center'>178 </td><td align='center'>19 252 </td><td align='center'>1 499 </td><td><br/></td><td align='center'>Laborantin<br/>répar. livreur </td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>399<br/>375 </td><td align='center'>9 </td><td align='center'>176 </td><td align='center'>19 036 </td><td align='center'>1 482 </td><td align='center'>Taurelier<br/>spécialisé </td><td align='center'>Laborantin<br/>répartiteur </td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>374<br/>350 </td><td align='center'>8 </td><td align='center'>174 </td><td align='center'>18 820 </td><td align='center'>1 465 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>349<br/>325 </td><td align='center'>7 </td><td align='center'>172 </td><td align='center'>18 604 </td><td align='center'>1 448 </td><td align='center'>Taurelier </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>324<br/>300 </td><td align='center'>6 </td><td align='center'>170 </td><td align='center'>18 387 </td><td align='center'>1 431 </td><td><br/></td><td align='center'>Laborantin 1 </td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>299<br/>275 </td><td align='center'>5 </td><td align='center'>168 </td><td align='center'>18 171 </td><td align='center'>1 415 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>274<br/>250 </td><td align='center'>4 </td><td align='center'>166 </td><td align='center'>17 955 </td><td align='center'>1 398 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>249<br/>225 </td><td align='center'>3 </td><td align='center'>164 </td><td align='center'>17 738 </td><td align='center'>1 381 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>224<br/>200 </td><td align='center'>2 </td><td align='center'>162 </td><td align='center'>17 522 </td><td align='center'>1 364 </td><td><br/></td><td align='center'>Employé<br/>de laboratoire </td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>199<br/>175 </td><td align='center'>1 </td><td align='center'>160 </td><td align='center'>17 306 </td><td align='center'>1 347 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td colspan='7' align='center'>IV = 108,16 8,42<br/>*TI : technicien d'insémination. </td></tr></tbody></table></center></div><div align='center'><center><table border='1'><tbody><tr><th>Point<br/>de<br/>cotation </th><th>Niveau </th><th>Indice<br/>de<br/>salaire </th><th>RAM<br/>(en euros) </th><th>RMM<br/>(en euros) </th><th>Technico<br/>commerciale </th><th>adm. </th><th>compt. </th><th>inform. </th><th>transport </th><th>Entretien </th></tr><tr><td align='center'>725<br/>700 </td><td align='center'>22 </td><td align='center'>224 </td><td align='center'>24 228 </td><td align='center'>1 886 </td><td><br/></td><td><br/></td><td align='center'>Comptable 2 </td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>699<br/>675 </td><td align='center'>21 </td><td align='center'>220 </td><td align='center'>23 795 </td><td align='center'>1 852 </td><td><br/></td><td align='center'>Assistant direction </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>674<br/>650 </td><td align='center'>20 </td><td align='center'>216 </td><td align='center'>23 363 </td><td align='center'>1 819 </td><td align='center'>Animateur technico-<br/>commercial </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>649<br/>625 </td><td align='center'>19 </td><td align='center'>212 </td><td align='center'>22 930 </td><td align='center'>1 785 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>624<br/>600 </td><td align='center'>18 </td><td align='center'>208 </td><td align='center'>22 497 </td><td align='center'>1 751 </td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Technicien informatique </td><td><br/></td><td><br/></td></tr><tr><td align='center'>599<br/>575 </td><td align='center'>17 </td><td align='center'>204 </td><td align='center'>22 065 </td><td align='center'>1 718 </td><td><br/></td><td><br/></td><td align='center'>Comptable 1 </td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>574<br/>550 </td><td align='center'>16 </td><td align='center'>200 </td><td align='center'>21 632 </td><td align='center'>1 684 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>549<br/>525 </td><td align='center'>15 </td><td align='center'>196 </td><td align='center'>21 199 </td><td align='center'>1 650 </td><td align='center'>Agent<br/>technico-<br/>commercial </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>524 </td><td align='center'>14 </td><td align='center'>192 </td><td align='center'>20 767 </td><td align='center'>1 617 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>500 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>499<br/>475 </td><td align='center'>13 </td><td align='center'>188 </td><td align='center'>20 334 </td><td align='center'>1 583 </td><td><br/></td><td align='center'>Assistant spécialisé </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>474<br/>450 </td><td align='center'>12 </td><td align='center'>184 </td><td align='center'>19 901 </td><td align='center'>1 549 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>449<br/>425 </td><td align='center'>11 </td><td align='center'>180 </td><td align='center'>19 469 </td><td align='center'>1 516 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>424<br/>400 </td><td align='center'>10 </td><td align='center'>178 </td><td align='center'>19 252 </td><td align='center'>1 499 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Transporteur d'animaux </td><td><br/></td></tr><tr><td align='center'>399<br/>375 </td><td align='center'>9 </td><td align='center'>176 </td><td align='center'>19 036 </td><td align='center'>1 482 </td><td><br/></td><td align='center'>Assistant administratif </td><td align='center'>Aide-<br/>comptable </td><td align='center'>Assistant informatique </td><td><br/></td><td><br/></td></tr><tr><td align='center'>374<br/>350 </td><td align='center'>8 </td><td align='center'>174 </td><td align='center'>18 820 </td><td align='center'>1 465 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>349<br/>325 </td><td align='center'>7 </td><td align='center'>172 </td><td align='center'>18 604 </td><td align='center'>1 448 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Livreur<br/>répartiteur </td><td align='center'>Agent d'entretien </td></tr><tr><td align='center'>324<br/>300 </td><td align='center'>6 </td><td align='center'>170 </td><td align='center'>18 387 </td><td align='center'>1 431 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>299<br/>275 </td><td align='center'>5 </td><td align='center'>168 </td><td align='center'>18 171 </td><td align='center'>1 415 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Livreur </td><td><br/></td></tr><tr><td align='center'>274<br/>250 </td><td align='center'>4 </td><td align='center'>166 </td><td align='center'>17 955 </td><td align='center'>1 398 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>249<br/>225 </td><td align='center'>3 </td><td align='center'>164 </td><td align='center'>17 738 </td><td align='center'>1 381 </td><td><br/></td><td><br/></td><td align='center'>Agent<br/>comptabilité </td><td align='center'>Opérateur<br/>de saisie </td><td><br/></td><td><br/></td></tr><tr><td align='center'>224<br/>200 </td><td align='center'>2 </td><td align='center'>162 </td><td align='center'>17 522 </td><td align='center'>1 364 </td><td><br/></td><td align='center'>Agent<br/>administratif </td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Agent<br/>de propreté </td></tr><tr><td align='center'>199<br/>175 </td><td align='center'>1 </td><td align='center'>160 </td><td align='center'>17 306 </td><td align='center'>1 347 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td colspan='7' align='center'>IV = 108,16 8,42<br/>*TI : technicien d'insémination. </td><td><br/></td></tr></tbody></table></center></div><p></p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000022425755",
               "num": null,
               "intOrdre": 524287,
@@ -1714,6 +1977,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000022425758",
               "num": "1er",
               "intOrdre": 1048574,
@@ -1722,6 +1986,7 @@
               "surtitre": "Majoration de l'indice de valorisation moyen pondéré des RAM"
             },
             {
+              "type": "article",
               "id": "KALIARTI000022425759",
               "num": "2",
               "intOrdre": 1572861,
@@ -1730,6 +1995,7 @@
               "surtitre": "Majoration de l'indice de valorisation des RMM"
             },
             {
+              "type": "article",
               "id": "KALIARTI000022425760",
               "num": "3",
               "intOrdre": 2097148,
@@ -1738,6 +2004,7 @@
               "surtitre": "Date d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000022425761",
               "num": "4",
               "intOrdre": 2621435,
@@ -1746,29 +2013,13 @@
               "surtitre": "Extension"
             },
             {
+              "type": "article",
               "id": "KALIARTI000022425762",
               "num": "5",
               "intOrdre": 3145722,
               "content": "<p align='left'><br/>Etabli en vertu des <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901659&dateTexte=&categorieLien=cid'>articles L. 2221-1 et suivants du code du travail</a>, le présent avenant est établi en un nombre suffisant d'exemplaires pour notification à chacune des organisations syndicales et dépôt dans les conditions prévues à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>article L. 2231-6 du code du travail</a>.</p>",
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Dépôts. – Notification"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000022425765",
-              "intOrdre": 3670009,
-              "title": "Annexe I",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000022425766",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p> \t\t\t\t\tNouvelle grille des RAM et des RMM<br/></p><p></p><div align='center'><center><table border='1'><tbody><tr><th>Point<br/>de<br/>cotation </th><th>Niveau </th><th>Indice<br/>de<br/>salaire </th><th>RAM<br/>(en euros) </th><th>RMM<br/>(en euros) </th><th>Taurellerie </th><th>Laboratoire </th><th>Zootechnie </th><th>Insémination </th><th>Transplant.<br/>embryonnaire </th></tr><tr><td align='center'>725<br/>700 </td><td align='center'>22 </td><td align='center'>224 </td><td align='center'>24 228 </td><td align='center'>1 886 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>699<br/>675 </td><td align='center'>21 </td><td align='center'>220 </td><td align='center'>23 795 </td><td align='center'>1 852 </td><td><br/></td><td><br/></td><td><br/></td><td align='center'>TI* coordinateur </td><td><br/></td></tr><tr><td align='center'>674<br/>650 </td><td align='center'>20 </td><td align='center'>216 </td><td align='center'>23 363 </td><td align='center'>1 819 </td><td align='center'>Chef de taurellerie </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>649<br/>625 </td><td align='center'>19 </td><td align='center'>212 </td><td align='center'>22 930 </td><td align='center'>1 785 </td><td><br/></td><td><br/></td><td align='center'>Techn. création génétique </td><td><br/></td><td align='center'>Technicien TE </td></tr><tr><td align='center'>624<br/>600 </td><td align='center'>18 </td><td align='center'>208 </td><td align='center'>22 497 </td><td align='center'>1 751 </td><td><br/></td><td><br/></td><td align='center'>Tech.diffusion génétique </td><td align='center'>TI* spécialisé </td><td><br/></td></tr><tr><td align='center'>599<br/>575 </td><td align='center'>17 </td><td align='center'>204 </td><td align='center'>22 065 </td><td align='center'>1 718 </td><td><br/></td><td><br/></td><td><br/></td><td align='center'>TI* qualifié </td><td><br/></td></tr><tr><td align='center'>574<br/>550 </td><td align='center'>16 </td><td align='center'>200 </td><td align='center'>21 632 </td><td align='center'>1 684 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>549<br/>525 </td><td align='center'>15 </td><td align='center'>196 </td><td align='center'>21 199 </td><td align='center'>1 650 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>524<br/>500 </td><td align='center'>14 </td><td align='center'>192 </td><td align='center'>20 767 </td><td align='center'>1 617 </td><td align='center'>Taurelier<br/>resp. équipe </td><td><br/></td><td><br/></td><td align='center'>TI* </td><td><br/></td></tr><tr><td align='center'>499<br/>475 </td><td align='center'>13 </td><td align='center'>188 </td><td align='center'>20 334 </td><td align='center'>1 583 </td><td><br/></td><td><br/></td><td><br/></td><td align='center'>TI* débutant </td><td><br/></td></tr><tr><td align='center'>474<br/>450 </td><td align='center'>12 </td><td align='center'>184 </td><td align='center'>19 901 </td><td align='center'>1 549 </td><td><br/></td><td align='center'>Laborantin 2 </td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>449<br/>425 </td><td align='center'>11 </td><td align='center'>180 </td><td align='center'>19 469 </td><td align='center'>1 516 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>424<br/>400 </td><td align='center'>10 </td><td align='center'>178 </td><td align='center'>19 252 </td><td align='center'>1 499 </td><td><br/></td><td align='center'>Laborantin<br/>répar. livreur </td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>399<br/>375 </td><td align='center'>9 </td><td align='center'>176 </td><td align='center'>19 036 </td><td align='center'>1 482 </td><td align='center'>Taurelier<br/>spécialisé </td><td align='center'>Laborantin<br/>répartiteur </td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>374<br/>350 </td><td align='center'>8 </td><td align='center'>174 </td><td align='center'>18 820 </td><td align='center'>1 465 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>349<br/>325 </td><td align='center'>7 </td><td align='center'>172 </td><td align='center'>18 604 </td><td align='center'>1 448 </td><td align='center'>Taurelier </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>324<br/>300 </td><td align='center'>6 </td><td align='center'>170 </td><td align='center'>18 387 </td><td align='center'>1 431 </td><td><br/></td><td align='center'>Laborantin 1 </td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>299<br/>275 </td><td align='center'>5 </td><td align='center'>168 </td><td align='center'>18 171 </td><td align='center'>1 415 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>274<br/>250 </td><td align='center'>4 </td><td align='center'>166 </td><td align='center'>17 955 </td><td align='center'>1 398 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>249<br/>225 </td><td align='center'>3 </td><td align='center'>164 </td><td align='center'>17 738 </td><td align='center'>1 381 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>224<br/>200 </td><td align='center'>2 </td><td align='center'>162 </td><td align='center'>17 522 </td><td align='center'>1 364 </td><td><br/></td><td align='center'>Employé<br/>de laboratoire </td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>199<br/>175 </td><td align='center'>1 </td><td align='center'>160 </td><td align='center'>17 306 </td><td align='center'>1 347 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td colspan='7' align='center'>IV = 108,16 8,42<br/>*TI : technicien d'insémination. </td></tr></tbody></table></center></div><div align='center'><center><table border='1'><tbody><tr><th>Point<br/>de<br/>cotation </th><th>Niveau </th><th>Indice<br/>de<br/>salaire </th><th>RAM<br/>(en euros) </th><th>RMM<br/>(en euros) </th><th>Technico<br/>commerciale </th><th>adm. </th><th>compt. </th><th>inform. </th><th>transport </th><th>Entretien </th></tr><tr><td align='center'>725<br/>700 </td><td align='center'>22 </td><td align='center'>224 </td><td align='center'>24 228 </td><td align='center'>1 886 </td><td><br/></td><td><br/></td><td align='center'>Comptable 2 </td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>699<br/>675 </td><td align='center'>21 </td><td align='center'>220 </td><td align='center'>23 795 </td><td align='center'>1 852 </td><td><br/></td><td align='center'>Assistant direction </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>674<br/>650 </td><td align='center'>20 </td><td align='center'>216 </td><td align='center'>23 363 </td><td align='center'>1 819 </td><td align='center'>Animateur technico-<br/>commercial </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>649<br/>625 </td><td align='center'>19 </td><td align='center'>212 </td><td align='center'>22 930 </td><td align='center'>1 785 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>624<br/>600 </td><td align='center'>18 </td><td align='center'>208 </td><td align='center'>22 497 </td><td align='center'>1 751 </td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Technicien informatique </td><td><br/></td><td><br/></td></tr><tr><td align='center'>599<br/>575 </td><td align='center'>17 </td><td align='center'>204 </td><td align='center'>22 065 </td><td align='center'>1 718 </td><td><br/></td><td><br/></td><td align='center'>Comptable 1 </td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>574<br/>550 </td><td align='center'>16 </td><td align='center'>200 </td><td align='center'>21 632 </td><td align='center'>1 684 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>549<br/>525 </td><td align='center'>15 </td><td align='center'>196 </td><td align='center'>21 199 </td><td align='center'>1 650 </td><td align='center'>Agent<br/>technico-<br/>commercial </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>524 </td><td align='center'>14 </td><td align='center'>192 </td><td align='center'>20 767 </td><td align='center'>1 617 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>500 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>499<br/>475 </td><td align='center'>13 </td><td align='center'>188 </td><td align='center'>20 334 </td><td align='center'>1 583 </td><td><br/></td><td align='center'>Assistant spécialisé </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>474<br/>450 </td><td align='center'>12 </td><td align='center'>184 </td><td align='center'>19 901 </td><td align='center'>1 549 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>449<br/>425 </td><td align='center'>11 </td><td align='center'>180 </td><td align='center'>19 469 </td><td align='center'>1 516 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>424<br/>400 </td><td align='center'>10 </td><td align='center'>178 </td><td align='center'>19 252 </td><td align='center'>1 499 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Transporteur d'animaux </td><td><br/></td></tr><tr><td align='center'>399<br/>375 </td><td align='center'>9 </td><td align='center'>176 </td><td align='center'>19 036 </td><td align='center'>1 482 </td><td><br/></td><td align='center'>Assistant administratif </td><td align='center'>Aide-<br/>comptable </td><td align='center'>Assistant informatique </td><td><br/></td><td><br/></td></tr><tr><td align='center'>374<br/>350 </td><td align='center'>8 </td><td align='center'>174 </td><td align='center'>18 820 </td><td align='center'>1 465 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>349<br/>325 </td><td align='center'>7 </td><td align='center'>172 </td><td align='center'>18 604 </td><td align='center'>1 448 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Livreur<br/>répartiteur </td><td align='center'>Agent d'entretien </td></tr><tr><td align='center'>324<br/>300 </td><td align='center'>6 </td><td align='center'>170 </td><td align='center'>18 387 </td><td align='center'>1 431 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>299<br/>275 </td><td align='center'>5 </td><td align='center'>168 </td><td align='center'>18 171 </td><td align='center'>1 415 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Livreur </td><td><br/></td></tr><tr><td align='center'>274<br/>250 </td><td align='center'>4 </td><td align='center'>166 </td><td align='center'>17 955 </td><td align='center'>1 398 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>249<br/>225 </td><td align='center'>3 </td><td align='center'>164 </td><td align='center'>17 738 </td><td align='center'>1 381 </td><td><br/></td><td><br/></td><td align='center'>Agent<br/>comptabilité </td><td align='center'>Opérateur<br/>de saisie </td><td><br/></td><td><br/></td></tr><tr><td align='center'>224<br/>200 </td><td align='center'>2 </td><td align='center'>162 </td><td align='center'>17 522 </td><td align='center'>1 364 </td><td><br/></td><td align='center'>Agent<br/>administratif </td><td><br/></td><td><br/></td><td><br/></td><td align='center'>Agent<br/>de propreté </td></tr><tr><td align='center'>199<br/>175 </td><td align='center'>1 </td><td align='center'>160 </td><td align='center'>17 306 </td><td align='center'>1 347 </td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td colspan='7' align='center'>IV = 108,16 8,42<br/>*TI : technicien d'insémination. </td><td><br/></td></tr></tbody></table></center></div><p></p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
             }
           ]
         }

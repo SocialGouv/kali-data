@@ -1,31 +1,33 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale des textiles artificiels et synthétiques et produits assimilés du 6 juin 1996.  Etendue par arrêté du 29 avril 1998 JORF 14 mai 1998.",
   "id": "KALICONT000005636003",
   "num": "1942",
-  "title": "Convention collective nationale des textiles artificiels et synthétiques et produits assimilés du 6 juin 1996.  Etendue par arrêté du 29 avril 1998 JORF 14 mai 1998.",
   "shortTitle": "Textiles Artificiels Et Synthétiques Industries",
-  "categorisation": [
-    "Textiles artificiels et synthétiques et produits assimilés"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000005670713",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale des textiles artificiels et synthétiques et produits assimilés du 6 juin 1996.  Etendue par arrêté du 29 avril 1998 JORF 14 mai 1998.",
+      "id": "KALITEXT000005670713",
       "etat": "VIGUEUR_ETEN",
-      "sections": [
+      "children": [
         {
-          "id": "KALISCTA000005714310",
+          "type": "section",
           "intOrdre": 42949,
           "title": "Titre Ier : Cadre juridique de la convention",
+          "id": "KALISCTA000005714310",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005747920",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Objet et champ d'application",
+              "id": "KALISCTA000005747920",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828244",
                   "num": "1er",
                   "intOrdre": 42949,
@@ -35,12 +37,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747921",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Durée de la convention - Procédure de révision et de dénonciation",
+              "id": "KALISCTA000005747921",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828246",
                   "num": "2",
                   "intOrdre": 42949,
@@ -52,18 +56,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005714311",
+          "type": "section",
           "intOrdre": 85898,
           "title": "Titre II : Liberté d'opinion et liberté syndicale",
+          "id": "KALISCTA000005714311",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005747922",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Liberté d'opinion",
+              "id": "KALISCTA000005747922",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828247",
                   "num": "3",
                   "intOrdre": 42949,
@@ -73,12 +80,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747923",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Liberté syndicale",
+              "id": "KALISCTA000005747923",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828248",
                   "num": "4",
                   "intOrdre": 42949,
@@ -90,18 +99,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005714312",
+          "type": "section",
           "intOrdre": 128847,
           "title": "Titre III : Représentants du personnel",
+          "id": "KALISCTA000005714312",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005747924",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Délégué du personnel",
+              "id": "KALISCTA000005747924",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828249",
                   "num": "5",
                   "intOrdre": 42949,
@@ -111,12 +123,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747925",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Comité d'entreprise",
+              "id": "KALISCTA000005747925",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828250",
                   "num": "6",
                   "intOrdre": 42949,
@@ -126,12 +140,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747926",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Elections",
+              "id": "KALISCTA000005747926",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828252",
                   "num": "8",
                   "intOrdre": 85898,
@@ -143,18 +159,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005714313",
+          "type": "section",
           "intOrdre": 171796,
           "title": "Titre IV : Sécurité, hygiène-Conditions de travail",
+          "id": "KALISCTA000005714313",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005747927",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Principes généraux",
+              "id": "KALISCTA000005747927",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828253",
                   "num": "9",
                   "intOrdre": 42949,
@@ -164,12 +183,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747928",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Rôle du CHSCT",
+              "id": "KALISCTA000005747928",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828254",
                   "num": "10",
                   "intOrdre": 42949,
@@ -179,12 +200,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747929",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Formation des représentants du personnel au CHSCT",
+              "id": "KALISCTA000005747929",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828256",
                   "num": "11",
                   "intOrdre": 42949,
@@ -194,12 +217,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747930",
+              "type": "section",
               "intOrdre": 171796,
               "title": "Dispositions spéciales aux femmes.",
+              "id": "KALISCTA000005747930",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000018819728",
                   "num": "12",
                   "intOrdre": 42949,
@@ -209,12 +234,14 @@
               ]
             },
             {
-              "id": "KALISCTA000018819731",
+              "type": "section",
               "intOrdre": 171796,
               "title": "Dispositions spéciales aux femmes enceintes",
+              "id": "KALISCTA000018819731",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000018819728",
                   "num": "12",
                   "intOrdre": 42949,
@@ -226,18 +253,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005714314",
+          "type": "section",
           "intOrdre": 214745,
           "title": "Titre V : Contrat de travail",
+          "id": "KALISCTA000005714314",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005747931",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Recrutement et promotion",
+              "id": "KALISCTA000005747931",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828258",
                   "num": "13",
                   "intOrdre": 42949,
@@ -247,12 +277,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747932",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Période d'essai",
+              "id": "KALISCTA000005747932",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000020808597",
                   "num": "14",
                   "intOrdre": 42949,
@@ -262,12 +294,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747933",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Définition de l'ancienneté",
+              "id": "KALISCTA000005747933",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828261",
                   "num": "15",
                   "intOrdre": 42949,
@@ -277,12 +311,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747934",
+              "type": "section",
               "intOrdre": 171796,
               "title": "Absences justifiées",
+              "id": "KALISCTA000005747934",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828262",
                   "num": "16",
                   "intOrdre": 42949,
@@ -292,12 +328,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747935",
+              "type": "section",
               "intOrdre": 214745,
               "title": "Absences indemnisées",
+              "id": "KALISCTA000005747935",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000025286093",
                   "num": "17",
                   "intOrdre": 42949,
@@ -307,12 +345,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747936",
+              "type": "section",
               "intOrdre": 257694,
               "title": "Service national",
+              "id": "KALISCTA000005747936",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828264",
                   "num": "18",
                   "intOrdre": 42949,
@@ -322,12 +362,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747937",
+              "type": "section",
               "intOrdre": 300643,
               "title": "Ralentissement d'activité",
+              "id": "KALISCTA000005747937",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828265",
                   "num": "19",
                   "intOrdre": 42949,
@@ -337,12 +379,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747938",
+              "type": "section",
               "intOrdre": 343592,
               "title": "Cessation du contrat de travail",
+              "id": "KALISCTA000005747938",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828267",
                   "num": "20",
                   "intOrdre": 42949,
@@ -352,12 +396,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747939",
+              "type": "section",
               "intOrdre": 386541,
               "title": "Licenciements collectifs",
+              "id": "KALISCTA000005747939",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828268",
                   "num": "21",
                   "intOrdre": 42949,
@@ -367,12 +413,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747940",
+              "type": "section",
               "intOrdre": 429490,
               "title": "Durée du préavis",
+              "id": "KALISCTA000005747940",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828269",
                   "num": "22",
                   "intOrdre": 42949,
@@ -382,12 +430,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747941",
+              "type": "section",
               "intOrdre": 472439,
               "title": "Indemnité de préavis",
+              "id": "KALISCTA000005747941",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828270",
                   "num": "23",
                   "intOrdre": 42949,
@@ -397,12 +447,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747942",
+              "type": "section",
               "intOrdre": 515388,
               "title": "Absences pour recherche d'emploi pendant le préavis",
+              "id": "KALISCTA000005747942",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828271",
                   "num": "24",
                   "intOrdre": 42949,
@@ -412,12 +464,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747943",
+              "type": "section",
               "intOrdre": 558337,
               "title": "Départ ou mise à la retraite",
+              "id": "KALISCTA000005747943",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828273",
                   "num": "25",
                   "intOrdre": 85898,
@@ -428,12 +482,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747945",
+              "type": "section",
               "intOrdre": 601286,
               "title": "Durée du travail",
+              "id": "KALISCTA000005747945",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828274",
                   "num": "26",
                   "intOrdre": 42949,
@@ -443,12 +499,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747946",
+              "type": "section",
               "intOrdre": 644235,
               "title": "Congés payés",
+              "id": "KALISCTA000005747946",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828275",
                   "num": "27",
                   "intOrdre": 42949,
@@ -458,12 +516,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747947",
+              "type": "section",
               "intOrdre": 687184,
               "title": "Date du départ en congé",
+              "id": "KALISCTA000005747947",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828276",
                   "num": "28",
                   "intOrdre": 42949,
@@ -473,12 +533,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747948",
+              "type": "section",
               "intOrdre": 730133,
               "title": "Préavis et congés payés",
+              "id": "KALISCTA000005747948",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828277",
                   "num": "29",
                   "intOrdre": 42949,
@@ -488,12 +550,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747949",
+              "type": "section",
               "intOrdre": 773082,
               "title": "Absences pour événements familiaux",
+              "id": "KALISCTA000005747949",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828278",
                   "num": "30",
                   "intOrdre": 42949,
@@ -503,12 +567,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747950",
+              "type": "section",
               "intOrdre": 816031,
               "title": "Changement de résidence en cas de mutation",
+              "id": "KALISCTA000005747950",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828279",
                   "num": "31",
                   "intOrdre": 42949,
@@ -520,18 +586,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005714315",
+          "type": "section",
           "intOrdre": 257694,
           "title": "Titre VI : Gratifications d'ancienneté",
+          "id": "KALISCTA000005714315",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005747951",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Gratifications",
+              "id": "KALISCTA000005747951",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828280",
                   "num": "32",
                   "intOrdre": 42949,
@@ -543,18 +612,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005714316",
+          "type": "section",
           "intOrdre": 300643,
           "title": "Titre VII : Apprentissage et formation",
+          "id": "KALISCTA000005714316",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005747952",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Champ d'application de l'accord relatif aux priorités et aux objectifs de l'apprentissage et de la formation professionnelle",
+              "id": "KALISCTA000005747952",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828281",
                   "num": "33",
                   "intOrdre": 42949,
@@ -564,12 +636,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747953",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Conditions générales et modalités particulières de l'apprentissage",
+              "id": "KALISCTA000005747953",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828283",
                   "num": "34",
                   "intOrdre": 42949,
@@ -579,12 +653,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747954",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Communication annuelle",
+              "id": "KALISCTA000005747954",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828284",
                   "num": "35",
                   "intOrdre": 42949,
@@ -596,18 +672,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005714317",
+          "type": "section",
           "intOrdre": 343592,
           "title": "Titre VIII : Principes généraux de rémunération",
+          "id": "KALISCTA000005714317",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005747955",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Egalité professionnelle",
+              "id": "KALISCTA000005747955",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828285",
                   "num": "36",
                   "intOrdre": 42949,
@@ -617,12 +696,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747956",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Principes généraux de rémunération",
+              "id": "KALISCTA000005747956",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828287",
                   "num": "37",
                   "intOrdre": 42949,
@@ -634,18 +715,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005714318",
+          "type": "section",
           "intOrdre": 386541,
           "title": "Titre IX : Inventions",
+          "id": "KALISCTA000005714318",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005747957",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Brevet d'invention et droits du salarié",
+              "id": "KALISCTA000005747957",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828288",
                   "num": "38",
                   "intOrdre": 42949,
@@ -657,18 +741,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005714319",
+          "type": "section",
           "intOrdre": 429490,
           "title": "Titre X : Accords textiles applicables à la branche",
+          "id": "KALISCTA000005714319",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005747958",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Les différents accords applicables",
+              "id": "KALISCTA000005747958",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828290",
                   "num": "39",
                   "intOrdre": 85898,
@@ -681,18 +768,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005714320",
+          "type": "section",
           "intOrdre": 472439,
           "title": "Titre XI : Dispositions diverses",
+          "id": "KALISCTA000005714320",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005747959",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Commission nationale paritaire d'interprétation et de conciliation",
+              "id": "KALISCTA000005747959",
               "etat": "REMPLACE",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000037170233",
                   "num": "40",
                   "intOrdre": 42949,
@@ -702,12 +792,14 @@
               ]
             },
             {
-              "id": "KALISCTA000037170236",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Commission nationale paritaire permanente de négociation, de conciliation et d'interprétation",
+              "id": "KALISCTA000037170236",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000037170233",
                   "num": "40",
                   "intOrdre": 42949,
@@ -717,12 +809,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747960",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Décisions de la commission paritaire nationale d'interprétation et de conciliation",
+              "id": "KALISCTA000005747960",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828293",
                   "num": "41",
                   "intOrdre": 42949,
@@ -732,12 +826,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005747961",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Formalités",
+              "id": "KALISCTA000005747961",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828294",
                   "num": "42",
                   "intOrdre": 42949,
@@ -751,23 +847,26 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000037147434",
+          "type": "section",
           "title": "Accord du 18 janvier 2018 portant création de la commission nationale paritaire permanente de négociation, de conciliation et d'interprétation",
-          "dateParution": 1530662400000,
-          "sections": [
+          "id": "KALITEXT000037147434",
+          "children": [
             {
-              "id": "KALISCTA000037147437",
+              "type": "section",
               "intOrdre": 524287,
               "title": "I. – Dispositions générales relatives à la création de la commission",
+              "id": "KALISCTA000037147437",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000037147439",
                   "num": null,
                   "intOrdre": 524287,
@@ -777,12 +876,14 @@
               ]
             },
             {
-              "id": "KALISCTA000037147438",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "II. – Notification. – Dépôt. – Extension",
+              "id": "KALISCTA000037147438",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000037147442",
                   "num": null,
                   "intOrdre": 524287,
@@ -794,11 +895,12 @@
           ]
         },
         {
-          "id": "KALITEXT000025264497",
+          "type": "section",
           "title": "Avenant du 22 juin 2011 relatif à l'indemnisation des absences",
-          "dateParution": 1328054400000,
-          "articles": [
+          "id": "KALITEXT000025264497",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000025264500",
               "num": null,
               "intOrdre": 524287,
@@ -808,11 +910,29 @@
           ]
         },
         {
-          "id": "KALITEXT000020783040",
+          "type": "section",
           "title": "Avenant du 10 décembre 2008 portant modification de l'article 14 relatif à la période d'essai",
-          "dateParution": 1245801600000,
-          "articles": [
+          "id": "KALITEXT000020783040",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000020783043",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000020783047",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'><br clear='none'/>L'accord national interprofessionnel du 11 janvier 2008 relatif à la modernisation du marché du travail, dont les dispositions ont été transposées dans le code du travail par la  loi du 25 juin 2008 , pose en ce qui concerne les périodes d'essai des problèmes d'articulation avec les dispositions conventionnelles.<br clear='none'/>C'est pourquoi les parties signataires du présent avenant ont décidé de procéder à la mise à jour technique de l'article 14 de la convention collective nationale précitée.</p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000020783044",
               "num": "1er",
               "intOrdre": 1048574,
@@ -821,6 +941,7 @@
               "surtitre": "Modification de l'article 14 « Période d'essai » de la convention collective (textes généraux communs)"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020783046",
               "num": "2",
               "intOrdre": 1572861,
@@ -828,31 +949,15 @@
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Dispositions diverses"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000020783043",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000020783047",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br clear='none'/>L'accord national interprofessionnel du 11 janvier 2008 relatif à la modernisation du marché du travail, dont les dispositions ont été transposées dans le code du travail par la  loi du 25 juin 2008 , pose en ce qui concerne les périodes d'essai des problèmes d'articulation avec les dispositions conventionnelles.<br clear='none'/>C'est pourquoi les parties signataires du présent avenant ont décidé de procéder à la mise à jour technique de l'article 14 de la convention collective nationale précitée.</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
           ]
         },
         {
-          "id": "KALITEXT000018658793",
+          "type": "section",
           "title": "Avenant du 3 juillet 2007 relatif aux femmes enceintes travaillant la nuit (art. 12)",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000018658793",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000018658796",
               "num": "1er",
               "intOrdre": 524287,
@@ -860,6 +965,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018658799",
               "num": "2",
               "intOrdre": 1048574,
@@ -869,17 +975,19 @@
           ]
         },
         {
-          "id": "KALITEXT000005670715",
+          "type": "section",
           "title": "Annexe I ATAM Fascicule I Convention collective nationale du 6 juin 1996",
-          "dateParution": 32472144000000,
-          "sections": [
+          "id": "KALITEXT000005670715",
+          "children": [
             {
-              "id": "KALISCTA000005714321",
+              "type": "section",
               "intOrdre": 42949,
               "title": "   Rémunération",
+              "id": "KALISCTA000005714321",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828297",
                   "num": null,
                   "intOrdre": 128847,
@@ -892,23 +1000,26 @@
           ]
         },
         {
-          "id": "KALITEXT000005670717",
+          "type": "section",
           "title": "Annexe I ATAM Fascicule II Convention collective nationale du 6 juin 1996",
-          "dateParution": 32472144000000,
-          "sections": [
+          "id": "KALITEXT000005670717",
+          "children": [
             {
-              "id": "KALISCTA000005714322",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Classification",
+              "id": "KALISCTA000005714322",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000005747962",
+                  "type": "section",
                   "intOrdre": 42949,
                   "title": "Principes",
+                  "id": "KALISCTA000005747962",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000005828298",
                       "num": "1er",
                       "intOrdre": 42949,
@@ -918,12 +1029,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000005747963",
+                  "type": "section",
                   "intOrdre": 85898,
                   "title": "Personnel concerné",
+                  "id": "KALISCTA000005747963",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000005828299",
                       "num": "2",
                       "intOrdre": 42949,
@@ -933,12 +1046,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000005747964",
+                  "type": "section",
                   "intOrdre": 128847,
                   "title": "Définitions",
+                  "id": "KALISCTA000005747964",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000005828300",
                       "num": "3",
                       "intOrdre": 42949,
@@ -948,12 +1063,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000005747965",
+                  "type": "section",
                   "intOrdre": 171796,
                   "title": "Responsabilité",
+                  "id": "KALISCTA000005747965",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000005828301",
                       "num": "4",
                       "intOrdre": 42949,
@@ -963,12 +1080,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000005747966",
+                  "type": "section",
                   "intOrdre": 214745,
                   "title": "Connaissances requises",
+                  "id": "KALISCTA000005747966",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000005828302",
                       "num": "5",
                       "intOrdre": 42949,
@@ -978,12 +1097,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000005747967",
+                  "type": "section",
                   "intOrdre": 257694,
                   "title": "Mise en application",
+                  "id": "KALISCTA000005747967",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000005828304",
                       "num": "6",
                       "intOrdre": 42949,
@@ -993,12 +1114,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000005747968",
+                  "type": "section",
                   "intOrdre": 300643,
                   "title": "Particularités",
+                  "id": "KALISCTA000005747968",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000005828305",
                       "num": "7",
                       "intOrdre": 42949,
@@ -1008,12 +1131,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000005747969",
+                  "type": "section",
                   "intOrdre": 343592,
                   "title": "Entretien professionnel",
+                  "id": "KALISCTA000005747969",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000005828306",
                       "num": "8",
                       "intOrdre": 42949,
@@ -1025,12 +1150,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005714323",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Filière Critères de responsabilité",
+              "id": "KALISCTA000005714323",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828307",
                   "num": null,
                   "intOrdre": 42949,
@@ -1042,11 +1169,12 @@
           ]
         },
         {
-          "id": "KALITEXT000005670719",
+          "type": "section",
           "title": "Annexe II Cadres Convention collective nationale du 6 juin 1996",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000005670719",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005828309",
               "num": null,
               "intOrdre": 85898,
@@ -1057,26 +1185,19 @@
           ]
         },
         {
-          "id": "KALITEXT000005670721",
+          "type": "section",
           "title": "Avenant du 19 décembre 2003 relatif aux contreparties liées à la mise à la retraite ",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000005670721",
+          "children": [
             {
-              "id": "KALIARTI000005828313",
-              "num": "3",
-              "intOrdre": 171796,
-              "content": "<p>Le présent accord fera l'objet d'une demande d'extension et d'un dépôt conformément aux dispositions prévues par le code du travail à la direction départementale du travail de Nanterre (Hauts-de-Seine) et au secrétariat-greffe du conseil de prud'hommes de Nanterre (Hauts-de-Seine).</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000005714324",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Préambule",
+              "id": "KALISCTA000005714324",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828310",
                   "num": null,
                   "intOrdre": 42949,
@@ -1086,12 +1207,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005714325",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Mise à la retraite",
+              "id": "KALISCTA000005714325",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828311",
                   "num": "1er",
                   "intOrdre": 42949,
@@ -1101,12 +1224,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005714326",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Gratification de fin de services (1)",
+              "id": "KALISCTA000005714326",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828312",
                   "num": "2",
                   "intOrdre": 42949,
@@ -1114,21 +1239,31 @@
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000005828313",
+              "num": "3",
+              "intOrdre": 171796,
+              "content": "<p>Le présent accord fera l'objet d'une demande d'extension et d'un dépôt conformément aux dispositions prévues par le code du travail à la direction départementale du travail de Nanterre (Hauts-de-Seine) et au secrétariat-greffe du conseil de prud'hommes de Nanterre (Hauts-de-Seine).</p>",
+              "etat": "VIGUEUR_ETEN"
             }
           ]
         },
         {
-          "id": "KALITEXT000005670723",
+          "type": "section",
           "title": "Avenant du 16 janvier 2006 relatif à la mise à jour de diverses dispositions ",
-          "dateParution": 32472144000000,
-          "sections": [
+          "id": "KALITEXT000005670723",
+          "children": [
             {
-              "id": "KALISCTA000005714328",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Dispositions figurant sous le titre X, article 39 des textes généraux communs",
+              "id": "KALISCTA000005714328",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828315",
                   "num": "1er",
                   "intOrdre": 42949,
@@ -1138,12 +1273,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005714329",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Dispositions figurant dans l'annexe I \" ATAM \", fascicule I Article III de ladite annexe",
+              "id": "KALISCTA000005714329",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828316",
                   "num": "2",
                   "intOrdre": 42949,
@@ -1151,6 +1288,7 @@
                   "etat": "VIGUEUR_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828317",
                   "num": "3",
                   "intOrdre": 85898,
@@ -1162,11 +1300,12 @@
           ]
         },
         {
-          "id": "KALITEXT000005670725",
+          "type": "section",
           "title": "Accord du 16 janvier 2006 relatif à la mise en oeuvre de l'entretien professionnel prévu à l'article 8 de l'annexe I (ATAM), fascicule II, et à l'article IV de l'annexe II (Cadres) ",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000005670725",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005828318",
               "num": null,
               "intOrdre": 42949,
@@ -1178,38 +1317,19 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 3,
       "title": "Textes Salaires",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000022797294",
-          "title": "Accord du 26 janvier 2010 relatif aux salaires minima garantis pour l'année 2010       ",
-          "dateParution": 32472144000000,
-          "articles": [
-            {
-              "id": "KALIARTI000022797297",
-              "num": "1er",
-              "intOrdre": 524287,
-              "content": "<p align='center'><br/>I. – Salaires minima garantis</p><p align='left'><br/>Les salaires mensuels minima garantis, fixés sur une base de 35 heures par semaine ou 152,19 heures par mois, sont augmentés au 1er février 2010, puis au 1er juillet 2010, et fixés comme suit.</p><p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Coefficient </th><th colspan='2'>Salaire mensuel garanti </th></tr><tr><td><br/></td><td>au 1er février 2010 </td><td>au 1er juillet 2010 </td></tr><tr><td align='center'>200 </td><td align='center'>1 349 </td><td align='center'>1 356 </td></tr><tr><td align='center'>210 </td><td align='center'>1 349 </td><td align='center'>1 356 </td></tr><tr><td align='center'>225 </td><td align='center'>1 352 </td><td align='center'>1 359 </td></tr><tr><td align='center'>240 </td><td align='center'>1 355 </td><td align='center'>1 362 </td></tr><tr><td align='center'>255 </td><td align='center'>1 358 </td><td align='center'>1 365 </td></tr><tr><td align='center'>270 </td><td align='center'>1 367 </td><td align='center'>1 374 </td></tr><tr><td align='center'>285 </td><td align='center'>1 375 </td><td align='center'>1 382 </td></tr><tr><td align='center'>300 </td><td align='center'>1 385 </td><td align='center'>1 392 </td></tr><tr><td align='center'>315 </td><td align='center'>1 401 </td><td align='center'>1 408 </td></tr><tr><td align='center'>330 </td><td align='center'>1 424 </td><td align='center'>1 431 </td></tr><tr><td align='center'>345 </td><td align='center'>1 511 </td><td align='center'>1 519 </td></tr><tr><td align='center'>360 </td><td align='center'>1 616 </td><td align='center'>1 624 </td></tr><tr><td align='center'>375 </td><td align='center'>1 721 </td><td align='center'>1 730 </td></tr><tr><td align='center'>390 </td><td align='center'>1 825 </td><td align='center'>1 834 </td></tr><tr><td align='center'>405 </td><td align='center'>1 967 </td><td align='center'>1 977 </td></tr><tr><td align='center'>420 </td><td align='center'>2 109 </td><td align='center'>2 120 </td></tr><tr><td align='center'>435 </td><td align='center'>2 254 </td><td align='center'>2 265 </td></tr><tr><td align='center'>450 </td><td align='center'>2 401 </td><td align='center'>2 413 </td></tr><tr><td align='center'>500 </td><td align='center'>2 751 </td><td align='center'>2 765 </td></tr><tr><td align='center'>600 </td><td align='center'>3 465 </td><td align='center'>3 482 </td></tr><tr><td align='center'>700 </td><td align='center'>4 354 </td><td align='center'>4 376 </td></tr><tr><td align='center'>800 </td><td align='center'>5 423 </td><td align='center'>5 450 </td></tr></table></center></div></p><p align='center'><br/>II. – Rémunération minimale garantie annuelle</p><p align='left'><br/>sLa rémunération minimale garantie annuelle (base 35 heures par semaine) est fixée à 16 230 € pour l'année 2010 (vérification à faire au 31 décembre 2010).</p><p align='center'><br/>III. – Rémunération garantie annuelle</p><p align='left'><br/>Les rémunérations garanties annuelles (base 35 heures par semaine) sont fixées à :</p><p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Rémunération<br/>garantie annuelle </th><th>Année 2009 </th><th>Année 2010 (*) </th></tr><tr><td align='center'>Niveau de responsabilité B </td><td align='center'>16 014 </td><td align='center'>16 230 </td></tr><tr><td align='center'>Niveau de responsabilité C </td><td align='center'>16 114 </td><td align='center'>16 300 </td></tr><tr><td align='center'>Niveau de responsabilité D </td><td align='center'>16 664 </td><td align='center'>16 831 </td></tr><tr><td align='center'>Niveau de responsabilité E </td><td align='center'>17 758 </td><td align='center'>17 936 </td></tr><tr><td align='center'>Niveau de responsabilité F </td><td align='center'>21 147 </td><td align='center'>21 358 </td></tr><tr><td align='center'>Niveau de responsabilité G </td><td align='center'>23 524 </td><td align='center'>23 759 </td></tr><tr><td align='center'>Niveau de responsabilité H </td><td align='center'>28 197 </td><td align='center'>28 479 </td></tr><tr><td colspan='3' align='center'>(*) Vérification à faire au 31 décembre 2010. </td></tr></table></center></div></p><p align='center'><br/>IV. – Indemnité journalière de panier</p><p align='left'><br/>A compter du 1er février 2010, l'indemnité journalière de panier de nuit est fixée à 6,16 €.</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000022797298",
-              "num": "2",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Le présent accord fera l'objet d'une demande d'extension et d'un dépôt conformément aux dispositions prévues par le code du travail.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000037433693",
+          "type": "section",
           "title": "Accord du 5 avril 2018 relatif aux salaires minima garantis pour 2018",
-          "dateParution": 1537920000000,
-          "articles": [
+          "id": "KALITEXT000037433693",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000037433696",
               "num": "1er",
               "intOrdre": 524287,
@@ -1217,6 +1337,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037433697",
               "num": "2",
               "intOrdre": 1048574,
@@ -1226,91 +1347,12 @@
           ]
         },
         {
-          "id": "KALITEXT000032730492",
-          "title": "Accord du 1er mars 2016 relatif aux salaires mensuels minima garantis au 1er mars 2016",
-          "dateParution": 1466467200000,
-          "articles": [
-            {
-              "id": "KALIARTI000032730495",
-              "num": "1er",
-              "intOrdre": 524287,
-              "content": "<p align='center'> \t\t\t\t\t\tI. – Salaires minima garantis<br/></p><p align='left'> \t\t\t\t\t\tLes salaires mensuels minima garantis, fixés sur une base de 35 heures par semaine, sont augmentés au 1er mars 2016, et fixés comme suit :<br/></p><p align='center'> \t\t\t\t\t\tSalaire mensuel garanti (base 35 heures par semaine ou 152,19 heures par mois)<br/></p><p align='right'> \t\t\t\t\t\t(En euros.)<br/></p><p align='left'></p><div align='center'><center><table border='1'><tbody><tr><th colspan='2'>Salaire mensuel garanti</th></tr><tr><td>Coefficient</td><td>Au 1er mars 2016</td></tr><tr><td align='center'>210</td><td align='center'>1 476</td></tr><tr><td align='center'>225</td><td align='center'>1 480</td></tr><tr><td align='center'>240</td><td align='center'>1 485</td></tr><tr><td align='center'>255</td><td align='center'>1 495</td></tr><tr><td align='center'>270</td><td align='center'>1 505</td></tr><tr><td align='center'>285</td><td align='center'>1 515</td></tr><tr><td align='center'>300</td><td align='center'>1 525</td></tr><tr><td align='center'>315</td><td align='center'>1 535</td></tr><tr><td align='center'>330</td><td align='center'>1 560</td></tr><tr><td align='center'>345</td><td align='center'>1 647</td></tr><tr><td align='center'>360</td><td align='center'>1 759</td></tr><tr><td align='center'>375</td><td align='center'>1 876</td></tr><tr><td align='center'>390</td><td align='center'>1 988</td></tr><tr><td align='center'>405</td><td align='center'>2 144</td></tr><tr><td align='center'>420</td><td align='center'>2 298</td></tr><tr><td align='center'>435</td><td align='center'>2 455</td></tr><tr><td align='center'>450</td><td align='center'>2 616</td></tr><tr><td align='center'>500</td><td align='center'>2 997</td></tr><tr><td align='center'>600</td><td align='center'>3 774</td></tr><tr><td align='center'>700</td><td align='center'>4 745</td></tr><tr><td align='center'>800</td><td align='center'>5 907</td></tr></tbody></table></center></div><p></p><p align='center'> \t\t\t\t\t\tII. – Rémunération minimale garantie annuelle<br/></p><p align='left'> \t\t\t\t\t\tLa rémunération minimale annuelle garantie (base 35 heures par semaine) est fixée à 17 711 € pour l'année 2016 (vérification à faire au 31 décembre 2016).<br/></p><p align='center'> \t\t\t\t\t\tIII. – Rémunération garantie annuelle<br/></p><p align='left'> \t\t\t\t\t\tLes rémunérations garanties annuelles (base 35 heures par semaine) sont fixées à :<br/></p><p align='right'> \t\t\t\t\t\t(En euros.)<br/></p><p align='left'></p><div align='center'><center><table border='1'><tbody><tr><th>Niveau de responsabilité</th><th>Rémunération garantie annuelle</th></tr><tr><td><br/></td><td>Année 2016 (*)</td></tr><tr><td align='center'>B</td><td align='center'>17 711</td></tr><tr><td align='center'>C</td><td align='center'>17 779</td></tr><tr><td align='center'>D</td><td align='center'>18 332</td></tr><tr><td align='center'>E</td><td align='center'>19 536</td></tr><tr><td align='center'>F</td><td align='center'>23 262</td></tr><tr><td align='center'>G</td><td align='center'>25 877</td></tr><tr><td align='center'>H</td><td align='center'>31 018</td></tr><tr><td colspan='2' align='left'>(*) Vérification à faire au 31 décembre 2016.</td></tr></tbody></table></center></div><p></p><p align='center'> \t\t\t\t\t\tIV. – Indemnité journalière de panier<br/></p><p align='left'> \t\t\t\t\t\tA compter du 1er mars 2016, l'indemnité journalière de panier de nuit est fixée à 6,64 €.<br/></p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000032730496",
-              "num": "2",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Comme il s'avère que le coefficient 200 est de moins en moins utilisé, le présent accord modifie l'échelle des coefficients, en supprimant le coefficient 200. En d'autres termes, les salariés ayant obtenu moins de 6 points (cumul des points de responsabilité et des points de connaissance) seront classés au coefficient 210. En conséquence, les dispositions figurant dans la <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000005670713&categorieLien=cid'>convention collective nationale </a>des textiles artificiels et synthétiques et produits assimilés à <a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000005670717&idArticle=KALIARTI000005828300&categorieLien=cid'>l'annexe I « ATAM », fascicule II, classifications, article 3</a> « Définitions » sous le paragraphe 3.5. « Echelle des coefficients » sont annulées et remplacées par les dispositions suivantes : </p><p align='left'><div align='center'><center><table border='1'><tr><th>Points obtenus </th><th>Coefficient </th></tr><tr><td align='center'>5 ou 6 </td><td align='center'>210 </td></tr><tr><td align='center'>7 </td><td align='center'>225 </td></tr><tr><td align='center'>8 </td><td align='center'>240 </td></tr><tr><td align='center'>9 </td><td align='center'>255 </td></tr><tr><td align='center'>10 </td><td align='center'>270 </td></tr><tr><td align='center'>11 </td><td align='center'>285 </td></tr><tr><td align='center'>12 </td><td align='center'>300 </td></tr><tr><td align='center'>13 </td><td align='center'>315 </td></tr><tr><td align='center'>14 </td><td align='center'>330 </td></tr><tr><td align='center'>15 </td><td align='center'>345 </td></tr><tr><td align='center'>16 </td><td align='center'>360 </td></tr><tr><td align='center'>17 </td><td align='center'>375 </td></tr><tr><td align='center'>18 </td><td align='center'>390 </td></tr><tr><td align='center'>19 </td><td align='center'>405 </td></tr><tr><td align='center'>20 </td><td align='center'>420 </td></tr><tr><td align='center'>21 </td><td align='center'>435 </td></tr><tr><td align='center'>22 </td><td align='center'>450</td></tr></table></center></div></p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Suppression du coefficient 200"
-            },
-            {
-              "id": "KALIARTI000032730497",
-              "num": "3",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Le présent accord, applicable à compter du 1er mars 2016, fera l'objet d'une demande d'extension et d'un dépôt conformément aux dispositions prévues par le code du travail.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000025981049",
-          "title": "Accord du 8 février 2012 relatif aux rémunérations minimales annuelles garanties et aux primes pour l'année 2012",
-          "dateParution": 1338940800000,
-          "articles": [
-            {
-              "id": "KALIARTI000025981052",
-              "num": "1er",
-              "intOrdre": 524287,
-              "content": "<p align='center'> \t\t\t\t\t\t1. Salaires minima garantis<br/></p><p align='left'> \t\t\t\t\t\tLes salaires mensuels minima garantis, fixés sur une base 35 heures par semaine, sont augmentés au 1er février 2012 et fixés comme suit :<br/></p><p align='center'> \t\t\t\t\t\tSalaire mensuel garanti</p><p align='center'> (base 35 heures par semaine ou 152,19 heures par mois)<br/></p><p align='right'> \t\t\t\t\t\t(En euros.)<br/></p><p align='left'></p><div align='center'><center><table border='1'><tbody><tr><th colspan='2'>Salaire mensuel garanti</th></tr><tr><td align='center'>Coefficient</td><td align='center'>Au 1er février 2012</td></tr><tr><td align='center'>200</td><td align='center'>1 414</td></tr><tr><td align='center'>210</td><td align='center'>1 414</td></tr><tr><td align='center'>225</td><td align='center'>1 417</td></tr><tr><td align='center'>240</td><td align='center'>1 420</td></tr><tr><td align='center'>255</td><td align='center'>1 423</td></tr><tr><td align='center'>270</td><td align='center'>1 432</td></tr><tr><td align='center'>285</td><td align='center'>1 441</td></tr><tr><td align='center'>300</td><td align='center'>1 452</td></tr><tr><td align='center'>315</td><td align='center'>1 469</td></tr><tr><td align='center'>330</td><td align='center'>1 493</td></tr><tr><td align='center'>345</td><td align='center'>1 584</td></tr><tr><td align='center'>360</td><td align='center'>1 693</td></tr><tr><td align='center'>375</td><td align='center'>1 805</td></tr><tr><td align='center'>390</td><td align='center'>1 913</td></tr><tr><td align='center'>405</td><td align='center'>2 062</td></tr><tr><td align='center'>420</td><td align='center'>2 211</td></tr><tr><td align='center'>435</td><td align='center'>2 362</td></tr><tr><td align='center'>450</td><td align='center'>2 517</td></tr><tr><td align='center'>500</td><td align='center'>2 884</td></tr><tr><td align='center'>600</td><td align='center'>3 631</td></tr><tr><td align='center'>700</td><td align='center'>4 565</td></tr><tr><td align='center'>800</td><td align='center'>5 683</td></tr></tbody></table></center></div><p></p><p align='center'> \t\t\t\t\t\t2. Rémunération minimale annuelle garantie<br/></p><p align='left'> \t\t\t\t\t\tLa rémunération minimale annuelle garantie (base 35 heures par semaine) est fixée à 16 957 € pour l'année 2012 (vérification à faire au 31 décembre 2012).<br/></p><p align='center'> \t\t\t\t\t\t3. Rémunération garantie annuelle<br/></p><p align='left'> \t\t\t\t\t\tLes rémunérations garanties annuelles (base 35 heures par semaine) sont fixées à :<br/></p><p align='right'> \t\t\t\t\t\t(En euros.)<br/></p><p align='left'></p><div align='center'><center><table border='1'><tbody><tr><th>Niveau de responsabilité</th><th colspan='2'>Rémunération garantie annuelle</th></tr><tr><td><br/></td><td align='center'>Année 2011</td><td align='center'>Année 2012 (*)</td></tr><tr><td align='center'>B</td><td align='center'>16 496</td><td align='center'>16 957</td></tr><tr><td align='center'>C</td><td align='center'>16 593</td><td align='center'>17 023</td></tr><tr><td align='center'>D</td><td align='center'>17 134</td><td align='center'>17 552</td></tr><tr><td align='center'>E</td><td align='center'>18 259</td><td align='center'>18 705</td></tr><tr><td align='center'>F</td><td align='center'>21 742</td><td align='center'>22 273</td></tr><tr><td align='center'>G</td><td align='center'>24 187</td><td align='center'>24 777</td></tr><tr><td align='center'>H</td><td align='center'>28 992</td><td align='center'>29 699</td></tr><tr><td colspan='3' align='center'>(*) Vérification à faire au 31 décembre 2012.</td></tr></tbody></table></center></div><p></p><p align='center'> \t\t\t\t\t\t4. Indemnité journalière de panier<br/></p><p align='left'> \t\t\t\t\t\tA compter du 1er février 2012, l'indemnité journalière de panier de nuit est fixée à 6,42 €.<br/></p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000025981053",
-              "num": "2",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Une réunion paritaire se tiendra fin septembre 2012 pour faire le point sur la situation des salaires minima.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Clause de rencontre"
-            },
-            {
-              "id": "KALIARTI000025981054",
-              "num": "3",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Le présent accord fera l'objet d'une demande d'extension et d'un dépôt conformément aux dispositions prévues par le code du travail.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000024408770",
-          "title": "Accord du 16 février 2011 relatif aux salaires minimaux et aux primes pour l'année 2011",
-          "dateParution": 1311811200000,
-          "articles": [
-            {
-              "id": "KALIARTI000024408773",
-              "num": "1er",
-              "intOrdre": 524287,
-              "content": "<p align='left'><br/>Les salaires mensuels minima garantis, fixés sur une base 35 heures par semaine ou 152,19 heures par mois, sont augmentés au 1er mars 2011, puis au 1er septembre 2011, et fixés comme suit :</p><p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Coefficient </th><th colspan='2'>Salaire mensuel garanti </th></tr><tr><td><br/></td><td>Au 1er mars 2011 </td><td>Au 1er septembre 2011 </td></tr><tr><td align='center'>200 </td><td align='center'>1 372 </td><td align='center'>1 380 </td></tr><tr><td align='center'>210 </td><td align='center'>1 372 </td><td align='center'>1 380 </td></tr><tr><td align='center'>225 </td><td align='center'>1 375 </td><td align='center'>1 383 </td></tr><tr><td align='center'>240 </td><td align='center'>1 378 </td><td align='center'>1 386 </td></tr><tr><td align='center'>255 </td><td align='center'>1 381 </td><td align='center'>1 389 </td></tr><tr><td align='center'>270 </td><td align='center'>1 390 </td><td align='center'>1 398 </td></tr><tr><td align='center'>285 </td><td align='center'>1 399 </td><td align='center'>1 407 </td></tr><tr><td align='center'>300 </td><td align='center'>1 409 </td><td align='center'>1 417 </td></tr><tr><td align='center'>315 </td><td align='center'>1 425 </td><td align='center'>1 434 </td></tr><tr><td align='center'>330 </td><td align='center'>1 448 </td><td align='center'>1 457 </td></tr><tr><td align='center'>345 </td><td align='center'>1 537 </td><td align='center'>1 546 </td></tr><tr><td align='center'>360 </td><td align='center'>1 643 </td><td align='center'>1 653 </td></tr><tr><td align='center'>375 </td><td align='center'>1 751 </td><td align='center'>1 762 </td></tr><tr><td align='center'>390 </td><td align='center'>1 856 </td><td align='center'>1 867 </td></tr><tr><td align='center'>405 </td><td align='center'>2 001 </td><td align='center'>2 013 </td></tr><tr><td align='center'>420 </td><td align='center'>2 145 </td><td align='center'>2 158 </td></tr><tr><td align='center'>435 </td><td align='center'>2 292 </td><td align='center'>2 306 </td></tr><tr><td align='center'>450 </td><td align='center'>2 442 </td><td align='center'>2 457 </td></tr><tr><td align='center'>500 </td><td align='center'>2 798 </td><td align='center'>2 815 </td></tr><tr><td align='center'>600 </td><td align='center'>3 524 </td><td align='center'>3 545 </td></tr><tr><td align='center'>700 </td><td align='center'>4 429 </td><td align='center'>4 456 </td></tr><tr><td align='center'>800 </td><td align='center'>5 515 </td><td align='center'>5 548 </td></tr></table></center></div></p><p align='center'><br/>2. Rémunération minimale annuelle garantie</p><p align='left'><br/>La rémunération minimale annuelle garantie (base 35 heures par semaine) est fixée à 16 496 € pour l'année 2011 (vérification à faire au 31 décembre 2011).</p><p align='center'><br/>3. Rémunération garantie annuelle</p><p align='left'><br/>Les rémunérations garanties annuelles (base 35 heures par semaine) sont fixées à :</p><p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Niveau de responsabilité </th><th colspan='2'>Rémunération garantie annuelle </th></tr><tr><td><br/></td><td>Année 2010 </td><td>Année 2011 (*) </td></tr><tr><td align='center'>B </td><td align='center'>16 230 </td><td align='center'>16 496 </td></tr><tr><td align='center'>C </td><td align='center'>16 300 </td><td align='center'>16 593 </td></tr><tr><td align='center'>D </td><td align='center'>16 831 </td><td align='center'>17 134 </td></tr><tr><td align='center'>E </td><td align='center'>17 936 </td><td align='center'>18 259 </td></tr><tr><td align='center'>F </td><td align='center'>21 358 </td><td align='center'>21 742 </td></tr><tr><td align='center'>G </td><td align='center'>23 759 </td><td align='center'>24 187 </td></tr><tr><td align='center'>H </td><td align='center'>28 479 </td><td align='center'>28 992 </td></tr><tr><td colspan='3' align='center'>(*) Vérification à faire au 31 décembre 2011. </td></tr></table></center></div></p><p align='center'><br/>4. Indemnité journalière de panier</p><p align='left'><br/>A compter du 1er mars 2011, l'indemnité journalière de panier de nuit est fixée à 6,23 €.<br/>A compter du 1er septembre 2011, l'indemnité journalière de panier de nuit est fixée à 6,27 €.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "1. Salaires minima garantis"
-            },
-            {
-              "id": "KALIARTI000024408774",
-              "num": "2",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Le présent accord fera l'objet d'une demande d'extension et d'un dépôt conformément aux dispositions prévues par le <a alt='lien vers un document Legifrance' href='/affichCode.do?cidTexte=LEGITEXT000006072050&dateTexte=&categorieLien=cid'>code du travail</a>.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000034898297",
+          "type": "section",
           "title": "Accord du 21 février 2017 relatif aux salaires mensuels minima garantis au 1er mars 2017",
-          "dateParution": 1497225600000,
-          "articles": [
+          "id": "KALITEXT000034898297",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000034898300",
               "num": "1er",
               "intOrdre": 524287,
@@ -1318,6 +1360,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000034898301",
               "num": "2",
               "intOrdre": 1048574,
@@ -1327,11 +1370,123 @@
           ]
         },
         {
-          "id": "KALITEXT000021482704",
-          "title": "Accord du 8 juillet 2009 relatif aux salaires pour l'année 2009",
-          "dateParution": 1260921600000,
-          "articles": [
+          "type": "section",
+          "title": "Accord du 1er mars 2016 relatif aux salaires mensuels minima garantis au 1er mars 2016",
+          "id": "KALITEXT000032730492",
+          "children": [
             {
+              "type": "article",
+              "id": "KALIARTI000032730495",
+              "num": "1er",
+              "intOrdre": 524287,
+              "content": "<p align='center'> \t\t\t\t\t\tI. – Salaires minima garantis<br/></p><p align='left'> \t\t\t\t\t\tLes salaires mensuels minima garantis, fixés sur une base de 35 heures par semaine, sont augmentés au 1er mars 2016, et fixés comme suit :<br/></p><p align='center'> \t\t\t\t\t\tSalaire mensuel garanti (base 35 heures par semaine ou 152,19 heures par mois)<br/></p><p align='right'> \t\t\t\t\t\t(En euros.)<br/></p><p align='left'></p><div align='center'><center><table border='1'><tbody><tr><th colspan='2'>Salaire mensuel garanti</th></tr><tr><td>Coefficient</td><td>Au 1er mars 2016</td></tr><tr><td align='center'>210</td><td align='center'>1 476</td></tr><tr><td align='center'>225</td><td align='center'>1 480</td></tr><tr><td align='center'>240</td><td align='center'>1 485</td></tr><tr><td align='center'>255</td><td align='center'>1 495</td></tr><tr><td align='center'>270</td><td align='center'>1 505</td></tr><tr><td align='center'>285</td><td align='center'>1 515</td></tr><tr><td align='center'>300</td><td align='center'>1 525</td></tr><tr><td align='center'>315</td><td align='center'>1 535</td></tr><tr><td align='center'>330</td><td align='center'>1 560</td></tr><tr><td align='center'>345</td><td align='center'>1 647</td></tr><tr><td align='center'>360</td><td align='center'>1 759</td></tr><tr><td align='center'>375</td><td align='center'>1 876</td></tr><tr><td align='center'>390</td><td align='center'>1 988</td></tr><tr><td align='center'>405</td><td align='center'>2 144</td></tr><tr><td align='center'>420</td><td align='center'>2 298</td></tr><tr><td align='center'>435</td><td align='center'>2 455</td></tr><tr><td align='center'>450</td><td align='center'>2 616</td></tr><tr><td align='center'>500</td><td align='center'>2 997</td></tr><tr><td align='center'>600</td><td align='center'>3 774</td></tr><tr><td align='center'>700</td><td align='center'>4 745</td></tr><tr><td align='center'>800</td><td align='center'>5 907</td></tr></tbody></table></center></div><p></p><p align='center'> \t\t\t\t\t\tII. – Rémunération minimale garantie annuelle<br/></p><p align='left'> \t\t\t\t\t\tLa rémunération minimale annuelle garantie (base 35 heures par semaine) est fixée à 17 711 € pour l'année 2016 (vérification à faire au 31 décembre 2016).<br/></p><p align='center'> \t\t\t\t\t\tIII. – Rémunération garantie annuelle<br/></p><p align='left'> \t\t\t\t\t\tLes rémunérations garanties annuelles (base 35 heures par semaine) sont fixées à :<br/></p><p align='right'> \t\t\t\t\t\t(En euros.)<br/></p><p align='left'></p><div align='center'><center><table border='1'><tbody><tr><th>Niveau de responsabilité</th><th>Rémunération garantie annuelle</th></tr><tr><td><br/></td><td>Année 2016 (*)</td></tr><tr><td align='center'>B</td><td align='center'>17 711</td></tr><tr><td align='center'>C</td><td align='center'>17 779</td></tr><tr><td align='center'>D</td><td align='center'>18 332</td></tr><tr><td align='center'>E</td><td align='center'>19 536</td></tr><tr><td align='center'>F</td><td align='center'>23 262</td></tr><tr><td align='center'>G</td><td align='center'>25 877</td></tr><tr><td align='center'>H</td><td align='center'>31 018</td></tr><tr><td colspan='2' align='left'>(*) Vérification à faire au 31 décembre 2016.</td></tr></tbody></table></center></div><p></p><p align='center'> \t\t\t\t\t\tIV. – Indemnité journalière de panier<br/></p><p align='left'> \t\t\t\t\t\tA compter du 1er mars 2016, l'indemnité journalière de panier de nuit est fixée à 6,64 €.<br/></p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032730496",
+              "num": "2",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>Comme il s'avère que le coefficient 200 est de moins en moins utilisé, le présent accord modifie l'échelle des coefficients, en supprimant le coefficient 200. En d'autres termes, les salariés ayant obtenu moins de 6 points (cumul des points de responsabilité et des points de connaissance) seront classés au coefficient 210. En conséquence, les dispositions figurant dans la <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000005670713&categorieLien=cid'>convention collective nationale </a>des textiles artificiels et synthétiques et produits assimilés à <a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000005670717&idArticle=KALIARTI000005828300&categorieLien=cid'>l'annexe I « ATAM », fascicule II, classifications, article 3</a> « Définitions » sous le paragraphe 3.5. « Echelle des coefficients » sont annulées et remplacées par les dispositions suivantes : </p><p align='left'><div align='center'><center><table border='1'><tr><th>Points obtenus </th><th>Coefficient </th></tr><tr><td align='center'>5 ou 6 </td><td align='center'>210 </td></tr><tr><td align='center'>7 </td><td align='center'>225 </td></tr><tr><td align='center'>8 </td><td align='center'>240 </td></tr><tr><td align='center'>9 </td><td align='center'>255 </td></tr><tr><td align='center'>10 </td><td align='center'>270 </td></tr><tr><td align='center'>11 </td><td align='center'>285 </td></tr><tr><td align='center'>12 </td><td align='center'>300 </td></tr><tr><td align='center'>13 </td><td align='center'>315 </td></tr><tr><td align='center'>14 </td><td align='center'>330 </td></tr><tr><td align='center'>15 </td><td align='center'>345 </td></tr><tr><td align='center'>16 </td><td align='center'>360 </td></tr><tr><td align='center'>17 </td><td align='center'>375 </td></tr><tr><td align='center'>18 </td><td align='center'>390 </td></tr><tr><td align='center'>19 </td><td align='center'>405 </td></tr><tr><td align='center'>20 </td><td align='center'>420 </td></tr><tr><td align='center'>21 </td><td align='center'>435 </td></tr><tr><td align='center'>22 </td><td align='center'>450</td></tr></table></center></div></p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Suppression du coefficient 200"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032730497",
+              "num": "3",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Le présent accord, applicable à compter du 1er mars 2016, fera l'objet d'une demande d'extension et d'un dépôt conformément aux dispositions prévues par le code du travail.</p>",
+              "etat": "VIGUEUR_ETEN"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Accord du 8 février 2012 relatif aux rémunérations minimales annuelles garanties et aux primes pour l'année 2012",
+          "id": "KALITEXT000025981049",
+          "children": [
+            {
+              "type": "article",
+              "id": "KALIARTI000025981052",
+              "num": "1er",
+              "intOrdre": 524287,
+              "content": "<p align='center'> \t\t\t\t\t\t1. Salaires minima garantis<br/></p><p align='left'> \t\t\t\t\t\tLes salaires mensuels minima garantis, fixés sur une base 35 heures par semaine, sont augmentés au 1er février 2012 et fixés comme suit :<br/></p><p align='center'> \t\t\t\t\t\tSalaire mensuel garanti</p><p align='center'> (base 35 heures par semaine ou 152,19 heures par mois)<br/></p><p align='right'> \t\t\t\t\t\t(En euros.)<br/></p><p align='left'></p><div align='center'><center><table border='1'><tbody><tr><th colspan='2'>Salaire mensuel garanti</th></tr><tr><td align='center'>Coefficient</td><td align='center'>Au 1er février 2012</td></tr><tr><td align='center'>200</td><td align='center'>1 414</td></tr><tr><td align='center'>210</td><td align='center'>1 414</td></tr><tr><td align='center'>225</td><td align='center'>1 417</td></tr><tr><td align='center'>240</td><td align='center'>1 420</td></tr><tr><td align='center'>255</td><td align='center'>1 423</td></tr><tr><td align='center'>270</td><td align='center'>1 432</td></tr><tr><td align='center'>285</td><td align='center'>1 441</td></tr><tr><td align='center'>300</td><td align='center'>1 452</td></tr><tr><td align='center'>315</td><td align='center'>1 469</td></tr><tr><td align='center'>330</td><td align='center'>1 493</td></tr><tr><td align='center'>345</td><td align='center'>1 584</td></tr><tr><td align='center'>360</td><td align='center'>1 693</td></tr><tr><td align='center'>375</td><td align='center'>1 805</td></tr><tr><td align='center'>390</td><td align='center'>1 913</td></tr><tr><td align='center'>405</td><td align='center'>2 062</td></tr><tr><td align='center'>420</td><td align='center'>2 211</td></tr><tr><td align='center'>435</td><td align='center'>2 362</td></tr><tr><td align='center'>450</td><td align='center'>2 517</td></tr><tr><td align='center'>500</td><td align='center'>2 884</td></tr><tr><td align='center'>600</td><td align='center'>3 631</td></tr><tr><td align='center'>700</td><td align='center'>4 565</td></tr><tr><td align='center'>800</td><td align='center'>5 683</td></tr></tbody></table></center></div><p></p><p align='center'> \t\t\t\t\t\t2. Rémunération minimale annuelle garantie<br/></p><p align='left'> \t\t\t\t\t\tLa rémunération minimale annuelle garantie (base 35 heures par semaine) est fixée à 16 957 € pour l'année 2012 (vérification à faire au 31 décembre 2012).<br/></p><p align='center'> \t\t\t\t\t\t3. Rémunération garantie annuelle<br/></p><p align='left'> \t\t\t\t\t\tLes rémunérations garanties annuelles (base 35 heures par semaine) sont fixées à :<br/></p><p align='right'> \t\t\t\t\t\t(En euros.)<br/></p><p align='left'></p><div align='center'><center><table border='1'><tbody><tr><th>Niveau de responsabilité</th><th colspan='2'>Rémunération garantie annuelle</th></tr><tr><td><br/></td><td align='center'>Année 2011</td><td align='center'>Année 2012 (*)</td></tr><tr><td align='center'>B</td><td align='center'>16 496</td><td align='center'>16 957</td></tr><tr><td align='center'>C</td><td align='center'>16 593</td><td align='center'>17 023</td></tr><tr><td align='center'>D</td><td align='center'>17 134</td><td align='center'>17 552</td></tr><tr><td align='center'>E</td><td align='center'>18 259</td><td align='center'>18 705</td></tr><tr><td align='center'>F</td><td align='center'>21 742</td><td align='center'>22 273</td></tr><tr><td align='center'>G</td><td align='center'>24 187</td><td align='center'>24 777</td></tr><tr><td align='center'>H</td><td align='center'>28 992</td><td align='center'>29 699</td></tr><tr><td colspan='3' align='center'>(*) Vérification à faire au 31 décembre 2012.</td></tr></tbody></table></center></div><p></p><p align='center'> \t\t\t\t\t\t4. Indemnité journalière de panier<br/></p><p align='left'> \t\t\t\t\t\tA compter du 1er février 2012, l'indemnité journalière de panier de nuit est fixée à 6,42 €.<br/></p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000025981053",
+              "num": "2",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>Une réunion paritaire se tiendra fin septembre 2012 pour faire le point sur la situation des salaires minima.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Clause de rencontre"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000025981054",
+              "num": "3",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Le présent accord fera l'objet d'une demande d'extension et d'un dépôt conformément aux dispositions prévues par le code du travail.</p>",
+              "etat": "VIGUEUR_ETEN"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Accord du 16 février 2011 relatif aux salaires minimaux et aux primes pour l'année 2011",
+          "id": "KALITEXT000024408770",
+          "children": [
+            {
+              "type": "article",
+              "id": "KALIARTI000024408773",
+              "num": "1er",
+              "intOrdre": 524287,
+              "content": "<p align='left'><br/>Les salaires mensuels minima garantis, fixés sur une base 35 heures par semaine ou 152,19 heures par mois, sont augmentés au 1er mars 2011, puis au 1er septembre 2011, et fixés comme suit :</p><p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Coefficient </th><th colspan='2'>Salaire mensuel garanti </th></tr><tr><td><br/></td><td>Au 1er mars 2011 </td><td>Au 1er septembre 2011 </td></tr><tr><td align='center'>200 </td><td align='center'>1 372 </td><td align='center'>1 380 </td></tr><tr><td align='center'>210 </td><td align='center'>1 372 </td><td align='center'>1 380 </td></tr><tr><td align='center'>225 </td><td align='center'>1 375 </td><td align='center'>1 383 </td></tr><tr><td align='center'>240 </td><td align='center'>1 378 </td><td align='center'>1 386 </td></tr><tr><td align='center'>255 </td><td align='center'>1 381 </td><td align='center'>1 389 </td></tr><tr><td align='center'>270 </td><td align='center'>1 390 </td><td align='center'>1 398 </td></tr><tr><td align='center'>285 </td><td align='center'>1 399 </td><td align='center'>1 407 </td></tr><tr><td align='center'>300 </td><td align='center'>1 409 </td><td align='center'>1 417 </td></tr><tr><td align='center'>315 </td><td align='center'>1 425 </td><td align='center'>1 434 </td></tr><tr><td align='center'>330 </td><td align='center'>1 448 </td><td align='center'>1 457 </td></tr><tr><td align='center'>345 </td><td align='center'>1 537 </td><td align='center'>1 546 </td></tr><tr><td align='center'>360 </td><td align='center'>1 643 </td><td align='center'>1 653 </td></tr><tr><td align='center'>375 </td><td align='center'>1 751 </td><td align='center'>1 762 </td></tr><tr><td align='center'>390 </td><td align='center'>1 856 </td><td align='center'>1 867 </td></tr><tr><td align='center'>405 </td><td align='center'>2 001 </td><td align='center'>2 013 </td></tr><tr><td align='center'>420 </td><td align='center'>2 145 </td><td align='center'>2 158 </td></tr><tr><td align='center'>435 </td><td align='center'>2 292 </td><td align='center'>2 306 </td></tr><tr><td align='center'>450 </td><td align='center'>2 442 </td><td align='center'>2 457 </td></tr><tr><td align='center'>500 </td><td align='center'>2 798 </td><td align='center'>2 815 </td></tr><tr><td align='center'>600 </td><td align='center'>3 524 </td><td align='center'>3 545 </td></tr><tr><td align='center'>700 </td><td align='center'>4 429 </td><td align='center'>4 456 </td></tr><tr><td align='center'>800 </td><td align='center'>5 515 </td><td align='center'>5 548 </td></tr></table></center></div></p><p align='center'><br/>2. Rémunération minimale annuelle garantie</p><p align='left'><br/>La rémunération minimale annuelle garantie (base 35 heures par semaine) est fixée à 16 496 € pour l'année 2011 (vérification à faire au 31 décembre 2011).</p><p align='center'><br/>3. Rémunération garantie annuelle</p><p align='left'><br/>Les rémunérations garanties annuelles (base 35 heures par semaine) sont fixées à :</p><p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Niveau de responsabilité </th><th colspan='2'>Rémunération garantie annuelle </th></tr><tr><td><br/></td><td>Année 2010 </td><td>Année 2011 (*) </td></tr><tr><td align='center'>B </td><td align='center'>16 230 </td><td align='center'>16 496 </td></tr><tr><td align='center'>C </td><td align='center'>16 300 </td><td align='center'>16 593 </td></tr><tr><td align='center'>D </td><td align='center'>16 831 </td><td align='center'>17 134 </td></tr><tr><td align='center'>E </td><td align='center'>17 936 </td><td align='center'>18 259 </td></tr><tr><td align='center'>F </td><td align='center'>21 358 </td><td align='center'>21 742 </td></tr><tr><td align='center'>G </td><td align='center'>23 759 </td><td align='center'>24 187 </td></tr><tr><td align='center'>H </td><td align='center'>28 479 </td><td align='center'>28 992 </td></tr><tr><td colspan='3' align='center'>(*) Vérification à faire au 31 décembre 2011. </td></tr></table></center></div></p><p align='center'><br/>4. Indemnité journalière de panier</p><p align='left'><br/>A compter du 1er mars 2011, l'indemnité journalière de panier de nuit est fixée à 6,23 €.<br/>A compter du 1er septembre 2011, l'indemnité journalière de panier de nuit est fixée à 6,27 €.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "1. Salaires minima garantis"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000024408774",
+              "num": "2",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>Le présent accord fera l'objet d'une demande d'extension et d'un dépôt conformément aux dispositions prévues par le <a alt='lien vers un document Legifrance' href='/affichCode.do?cidTexte=LEGITEXT000006072050&dateTexte=&categorieLien=cid'>code du travail</a>.</p>",
+              "etat": "VIGUEUR_ETEN"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Accord du 26 janvier 2010 relatif aux salaires minima garantis pour l'année 2010       ",
+          "id": "KALITEXT000022797294",
+          "children": [
+            {
+              "type": "article",
+              "id": "KALIARTI000022797297",
+              "num": "1er",
+              "intOrdre": 524287,
+              "content": "<p align='center'><br/>I. – Salaires minima garantis</p><p align='left'><br/>Les salaires mensuels minima garantis, fixés sur une base de 35 heures par semaine ou 152,19 heures par mois, sont augmentés au 1er février 2010, puis au 1er juillet 2010, et fixés comme suit.</p><p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Coefficient </th><th colspan='2'>Salaire mensuel garanti </th></tr><tr><td><br/></td><td>au 1er février 2010 </td><td>au 1er juillet 2010 </td></tr><tr><td align='center'>200 </td><td align='center'>1 349 </td><td align='center'>1 356 </td></tr><tr><td align='center'>210 </td><td align='center'>1 349 </td><td align='center'>1 356 </td></tr><tr><td align='center'>225 </td><td align='center'>1 352 </td><td align='center'>1 359 </td></tr><tr><td align='center'>240 </td><td align='center'>1 355 </td><td align='center'>1 362 </td></tr><tr><td align='center'>255 </td><td align='center'>1 358 </td><td align='center'>1 365 </td></tr><tr><td align='center'>270 </td><td align='center'>1 367 </td><td align='center'>1 374 </td></tr><tr><td align='center'>285 </td><td align='center'>1 375 </td><td align='center'>1 382 </td></tr><tr><td align='center'>300 </td><td align='center'>1 385 </td><td align='center'>1 392 </td></tr><tr><td align='center'>315 </td><td align='center'>1 401 </td><td align='center'>1 408 </td></tr><tr><td align='center'>330 </td><td align='center'>1 424 </td><td align='center'>1 431 </td></tr><tr><td align='center'>345 </td><td align='center'>1 511 </td><td align='center'>1 519 </td></tr><tr><td align='center'>360 </td><td align='center'>1 616 </td><td align='center'>1 624 </td></tr><tr><td align='center'>375 </td><td align='center'>1 721 </td><td align='center'>1 730 </td></tr><tr><td align='center'>390 </td><td align='center'>1 825 </td><td align='center'>1 834 </td></tr><tr><td align='center'>405 </td><td align='center'>1 967 </td><td align='center'>1 977 </td></tr><tr><td align='center'>420 </td><td align='center'>2 109 </td><td align='center'>2 120 </td></tr><tr><td align='center'>435 </td><td align='center'>2 254 </td><td align='center'>2 265 </td></tr><tr><td align='center'>450 </td><td align='center'>2 401 </td><td align='center'>2 413 </td></tr><tr><td align='center'>500 </td><td align='center'>2 751 </td><td align='center'>2 765 </td></tr><tr><td align='center'>600 </td><td align='center'>3 465 </td><td align='center'>3 482 </td></tr><tr><td align='center'>700 </td><td align='center'>4 354 </td><td align='center'>4 376 </td></tr><tr><td align='center'>800 </td><td align='center'>5 423 </td><td align='center'>5 450 </td></tr></table></center></div></p><p align='center'><br/>II. – Rémunération minimale garantie annuelle</p><p align='left'><br/>sLa rémunération minimale garantie annuelle (base 35 heures par semaine) est fixée à 16 230 € pour l'année 2010 (vérification à faire au 31 décembre 2010).</p><p align='center'><br/>III. – Rémunération garantie annuelle</p><p align='left'><br/>Les rémunérations garanties annuelles (base 35 heures par semaine) sont fixées à :</p><p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Rémunération<br/>garantie annuelle </th><th>Année 2009 </th><th>Année 2010 (*) </th></tr><tr><td align='center'>Niveau de responsabilité B </td><td align='center'>16 014 </td><td align='center'>16 230 </td></tr><tr><td align='center'>Niveau de responsabilité C </td><td align='center'>16 114 </td><td align='center'>16 300 </td></tr><tr><td align='center'>Niveau de responsabilité D </td><td align='center'>16 664 </td><td align='center'>16 831 </td></tr><tr><td align='center'>Niveau de responsabilité E </td><td align='center'>17 758 </td><td align='center'>17 936 </td></tr><tr><td align='center'>Niveau de responsabilité F </td><td align='center'>21 147 </td><td align='center'>21 358 </td></tr><tr><td align='center'>Niveau de responsabilité G </td><td align='center'>23 524 </td><td align='center'>23 759 </td></tr><tr><td align='center'>Niveau de responsabilité H </td><td align='center'>28 197 </td><td align='center'>28 479 </td></tr><tr><td colspan='3' align='center'>(*) Vérification à faire au 31 décembre 2010. </td></tr></table></center></div></p><p align='center'><br/>IV. – Indemnité journalière de panier</p><p align='left'><br/>A compter du 1er février 2010, l'indemnité journalière de panier de nuit est fixée à 6,16 €.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000022797298",
+              "num": "2",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>Le présent accord fera l'objet d'une demande d'extension et d'un dépôt conformément aux dispositions prévues par le code du travail.</p>",
+              "etat": "VIGUEUR_ETEN"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Accord du 8 juillet 2009 relatif aux salaires pour l'année 2009",
+          "id": "KALITEXT000021482704",
+          "children": [
+            {
+              "type": "article",
               "id": "KALIARTI000021482707",
               "num": "1er",
               "intOrdre": 524287,
@@ -1339,6 +1494,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000021482708",
               "num": "2",
               "intOrdre": 1048574,
@@ -1346,6 +1502,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000021482709",
               "num": "3",
               "intOrdre": 1572861,
@@ -1355,11 +1512,12 @@
           ]
         },
         {
-          "id": "KALITEXT000019653114",
+          "type": "section",
           "title": "Accord du 9 juillet 2008 relatif aux salaires et aux primes",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000019653114",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000019653117",
               "num": "1er",
               "intOrdre": 524287,
@@ -1367,6 +1525,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019653118",
               "num": "2",
               "intOrdre": 1048574,
@@ -1376,11 +1535,12 @@
           ]
         },
         {
-          "id": "KALITEXT000018043416",
+          "type": "section",
           "title": "Accord du 3 juillet 2007 relatif aux salaires et aux primes, à compter du 1er juillet 2007",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000018043416",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000018043419",
               "num": "1er",
               "intOrdre": 524287,
@@ -1388,6 +1548,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018043420",
               "num": "2",
               "intOrdre": 1048574,
@@ -1397,31 +1558,19 @@
           ]
         },
         {
-          "id": "KALITEXT000005670739",
-          "title": "Accord du 21 septembre 2006 relatif aux salaires ",
-          "dateParution": 32472144000000,
-          "articles": [
-            {
-              "id": "KALIARTI000005828326",
-              "num": null,
-              "intOrdre": 42949,
-              "content": "<p>Article 1er</p><p>   I. - Salaires minima garantis</p><p>   A dater du 1er octobre 2006 les salaires mensuels minima garantis sont fixés sur une base de 35 heures par semaine à :</p><p>   (En euros)</p><p><table><tbody><tr><td></td><td>   SALAIRE MENSUEL GARANTI   </td></tr><tr><td> COEFFICIENT </td><td> (base 35 heures par semaine </td></tr><tr><td></td><td>  ou 152,19 heures par mois) </td></tr><tr><td>     200     </td><td>          1 259              </td></tr><tr><td>     210     </td><td>          1 259              </td></tr><tr><td>     225     </td><td>          1 262              </td></tr><tr><td>     240     </td><td>          1 265              </td></tr><tr><td>     255     </td><td>          1 268              </td></tr><tr><td>     270     </td><td>          1 275              </td></tr><tr><td>     285     </td><td>          1 282              </td></tr><tr><td>     300     </td><td>          1 292              </td></tr><tr><td>     315     </td><td>          1 307              </td></tr><tr><td>     330     </td><td>          1 329              </td></tr><tr><td>     345     </td><td>          1 413              </td></tr><tr><td>     360     </td><td>          1 514              </td></tr><tr><td>     375     </td><td>          1 615              </td></tr><tr><td>     390     </td><td>          1 716              </td></tr><tr><td>     405     </td><td>          1 852              </td></tr><tr><td>     420     </td><td>          1 989              </td></tr><tr><td>     435     </td><td>          2 128              </td></tr><tr><td>     450     </td><td>          2 270              </td></tr><tr><td>     500     </td><td>          2 607              </td></tr><tr><td>     600     </td><td>          3 294              </td></tr><tr><td>     700     </td><td>          4 150              </td></tr><tr><td>     800     </td><td>          5 180              </td></tr></tbody></table></p><p>   II. - Rémunération minimale annuelle garantie</p><p>   La rémunération minimale annuelle garantie (base 35 heures par semaine) est fixée à 14 418  pour l'année 2005.</p><p>   III. - Rémunération garantie annuelle</p><p>   Les rémunérations garanties annuelles (base 35 heures/semaine) sont fixées pour l'année 2005 à :</p><p>   RGA (niveau de responsabilité B) = 14 524 €.</p><p>   RGA (niveau de responsabilité C) = 14 917 €.</p><p>   RGA (niveau de responsabilité D) = 15 426 €.</p><p>   RGA (niveau de responsabilité E) = 16 439 €.</p><p>   RGA (niveau de responsabilité F) = 19 577 €.</p><p>   RGA (niveau de responsabilité G) = 21 776 €.</p><p>   RGA (niveau de responsabilité H) = 26 102 €.</p><p>   IV4. - Indemnité journalière de panier</p><p>   A compter du 1er octobre 2006, l'indemnité journalière de panier de nuit est fixée à 5,70 Euros. Article 2</p><p>   Le présent accord fera l'objet d'une demande d'extension et d'un dépôt conformément aux dispositions prévues par le code du travail.</p><p>   Fait à Clichy, le 21 septembre 2006.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000005670733",
+          "type": "section",
           "title": "Avenant du 19 décembre 2002 relatif aux salaires (textiles artificiels et synthétiques) ",
-          "dateParution": 32472144000000,
-          "sections": [
+          "id": "KALITEXT000005670733",
+          "children": [
             {
-              "id": "KALISCTA000005714333",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Salaires au 1er janvier 2003 et au 1er juillet 2003",
+              "id": "KALISCTA000005714333",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005828323",
                   "num": null,
                   "intOrdre": 42949,
@@ -1429,6 +1578,21 @@
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Accord du 21 septembre 2006 relatif aux salaires ",
+          "id": "KALITEXT000005670739",
+          "children": [
+            {
+              "type": "article",
+              "id": "KALIARTI000005828326",
+              "num": null,
+              "intOrdre": 42949,
+              "content": "<p>Article 1er</p><p>   I. - Salaires minima garantis</p><p>   A dater du 1er octobre 2006 les salaires mensuels minima garantis sont fixés sur une base de 35 heures par semaine à :</p><p>   (En euros)</p><p><table><tbody><tr><td></td><td>   SALAIRE MENSUEL GARANTI   </td></tr><tr><td> COEFFICIENT </td><td> (base 35 heures par semaine </td></tr><tr><td></td><td>  ou 152,19 heures par mois) </td></tr><tr><td>     200     </td><td>          1 259              </td></tr><tr><td>     210     </td><td>          1 259              </td></tr><tr><td>     225     </td><td>          1 262              </td></tr><tr><td>     240     </td><td>          1 265              </td></tr><tr><td>     255     </td><td>          1 268              </td></tr><tr><td>     270     </td><td>          1 275              </td></tr><tr><td>     285     </td><td>          1 282              </td></tr><tr><td>     300     </td><td>          1 292              </td></tr><tr><td>     315     </td><td>          1 307              </td></tr><tr><td>     330     </td><td>          1 329              </td></tr><tr><td>     345     </td><td>          1 413              </td></tr><tr><td>     360     </td><td>          1 514              </td></tr><tr><td>     375     </td><td>          1 615              </td></tr><tr><td>     390     </td><td>          1 716              </td></tr><tr><td>     405     </td><td>          1 852              </td></tr><tr><td>     420     </td><td>          1 989              </td></tr><tr><td>     435     </td><td>          2 128              </td></tr><tr><td>     450     </td><td>          2 270              </td></tr><tr><td>     500     </td><td>          2 607              </td></tr><tr><td>     600     </td><td>          3 294              </td></tr><tr><td>     700     </td><td>          4 150              </td></tr><tr><td>     800     </td><td>          5 180              </td></tr></tbody></table></p><p>   II. - Rémunération minimale annuelle garantie</p><p>   La rémunération minimale annuelle garantie (base 35 heures par semaine) est fixée à 14 418  pour l'année 2005.</p><p>   III. - Rémunération garantie annuelle</p><p>   Les rémunérations garanties annuelles (base 35 heures/semaine) sont fixées pour l'année 2005 à :</p><p>   RGA (niveau de responsabilité B) = 14 524 €.</p><p>   RGA (niveau de responsabilité C) = 14 917 €.</p><p>   RGA (niveau de responsabilité D) = 15 426 €.</p><p>   RGA (niveau de responsabilité E) = 16 439 €.</p><p>   RGA (niveau de responsabilité F) = 19 577 €.</p><p>   RGA (niveau de responsabilité G) = 21 776 €.</p><p>   RGA (niveau de responsabilité H) = 26 102 €.</p><p>   IV4. - Indemnité journalière de panier</p><p>   A compter du 1er octobre 2006, l'indemnité journalière de panier de nuit est fixée à 5,70 Euros. Article 2</p><p>   Le présent accord fera l'objet d'une demande d'extension et d'un dépôt conformément aux dispositions prévues par le code du travail.</p><p>   Fait à Clichy, le 21 septembre 2006.</p>",
+              "etat": "VIGUEUR_ETEN"
             }
           ]
         }

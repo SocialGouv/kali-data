@@ -1,25 +1,26 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale des cadres des travaux publics du 20 novembre 2015",
   "id": "KALICONT000032437525",
   "num": "3212",
-  "title": "Convention collective nationale des cadres des travaux publics du 20 novembre 2015",
   "shortTitle": "Travaux Publics Cadres",
-  "categorisation": [
-    "Cadres des travaux publics"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000032426775",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale des cadres des travaux publics du 20 novembre 2015",
+      "id": "KALITEXT000032426775",
       "etat": "VIGUEUR_NON_ETEN",
-      "sections": [
+      "children": [
         {
-          "id": "KALISCTA000032426777",
+          "type": "section",
           "intOrdre": 524287,
           "title": "Titre Ier Dispositions générales",
+          "id": "KALISCTA000032426777",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000032426802",
               "num": "1.6.5",
               "intOrdre": 5767157,
@@ -30,12 +31,14 @@
           ]
         },
         {
-          "id": "KALISCTA000032426778",
+          "type": "section",
           "intOrdre": 1048574,
           "title": "Titre II Contrat de travail",
+          "id": "KALISCTA000032426778",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000032426807",
               "num": "2.5",
               "intOrdre": 2621435,
@@ -46,18 +49,21 @@
           ]
         },
         {
-          "id": "KALISCTA000032426779",
+          "type": "section",
           "intOrdre": 1572861,
           "title": "Titre III Classification et rémunération. – Durée du travail",
+          "id": "KALISCTA000032426779",
           "etat": "VIGUEUR_NON_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000032426808",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Chapitre III.1 Classification et rémunération",
+              "id": "KALISCTA000032426808",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032426881",
                   "num": null,
                   "intOrdre": 524287,
@@ -67,12 +73,14 @@
               ]
             },
             {
-              "id": "KALISCTA000032426809",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre III.2 Durée du travail",
+              "id": "KALISCTA000032426809",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032426889",
                   "num": "3.4",
                   "intOrdre": 2097148,
@@ -85,12 +93,14 @@
           ]
         },
         {
-          "id": "KALISCTA000032426780",
+          "type": "section",
           "intOrdre": 2097148,
           "title": "Titre IV Congés payés. – Autorisations d'absence. – Jours fériés",
+          "id": "KALISCTA000032426780",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000032426822",
               "num": "4.3",
               "intOrdre": 3670009,
@@ -101,12 +111,14 @@
           ]
         },
         {
-          "id": "KALISCTA000032426781",
+          "type": "section",
           "intOrdre": 2621435,
           "title": "Titre V Protection sociale",
+          "id": "KALISCTA000032426781",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000032426829",
               "num": "5.7",
               "intOrdre": 3670009,
@@ -117,18 +129,21 @@
           ]
         },
         {
-          "id": "KALISCTA000032426782",
+          "type": "section",
           "intOrdre": 3145722,
           "title": "Titre VI Déplacements",
+          "id": "KALISCTA000032426782",
           "etat": "VIGUEUR_NON_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000032426830",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Chapitre VI.1 Déplacements et changements de résidence en France à l'exclusion des départements et régions d'outre-mer et des collectivités d'outre-mer",
+              "id": "KALISCTA000032426830",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032426906",
                   "num": "6.1.8",
                   "intOrdre": 4194296,
@@ -139,28 +154,21 @@
               ]
             },
             {
-              "id": "KALISCTA000032426831",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre VI.2 Déplacements dans les départements et régions d'outre-mer et les collectivités d'outre-mer et hors de France",
+              "id": "KALISCTA000032426831",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
-                  "id": "KALIARTI000032426908",
-                  "num": "6.2.2",
-                  "intOrdre": 1048574,
-                  "content": "<p align='left'><br/>L'entreprise assure au cadre amené à se déplacer hors de France métropolitaine, et ce quelle que soit la durée du déplacement, une garantie couvrant les frais d'accidents, notamment le rapatriement, décès, invalidité, assistance juridique.<br/>L'entreprise assurera, dans la mesure du possible, la continuité des garanties collectives (retraites, couverture des risques d'invalidité, décès, accidents du travail, maladie, accidents et perte d'emploi) avec celles des régimes métropolitains.</p>",
-                  "etat": "VIGUEUR_NON_ETEN",
-                  "surtitre": "Assurance et garanties collectives"
-                }
-              ],
-              "sections": [
-                {
-                  "id": "KALISCTA000032426909",
+                  "type": "section",
                   "intOrdre": 1572861,
                   "title": "Section 1 Déplacements inférieurs à 3 mois",
+                  "id": "KALISCTA000032426909",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000032426953",
                       "num": "6.2.3",
                       "intOrdre": 524287,
@@ -171,12 +179,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000032426910",
+                  "type": "section",
                   "intOrdre": 2097148,
                   "title": "Section 2 Déplacements supérieurs à 3 mois",
+                  "id": "KALISCTA000032426910",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000032426958",
                       "num": "6.2.8",
                       "intOrdre": 2621435,
@@ -185,34 +195,36 @@
                       "surtitre": "Détachement dans une autre entreprise"
                     }
                   ]
+                },
+                {
+                  "type": "article",
+                  "id": "KALIARTI000032426908",
+                  "num": "6.2.2",
+                  "intOrdre": 1048574,
+                  "content": "<p align='left'><br/>L'entreprise assure au cadre amené à se déplacer hors de France métropolitaine, et ce quelle que soit la durée du déplacement, une garantie couvrant les frais d'accidents, notamment le rapatriement, décès, invalidité, assistance juridique.<br/>L'entreprise assurera, dans la mesure du possible, la continuité des garanties collectives (retraites, couverture des risques d'invalidité, décès, accidents du travail, maladie, accidents et perte d'emploi) avec celles des régimes métropolitains.</p>",
+                  "etat": "VIGUEUR_NON_ETEN",
+                  "surtitre": "Assurance et garanties collectives"
                 }
               ]
             }
           ]
         },
         {
-          "id": "KALISCTA000032426783",
+          "type": "section",
           "intOrdre": 3670009,
           "title": "Titre VII Rupture du contrat de travail",
+          "id": "KALISCTA000032426783",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
-              "id": "KALIARTI000032426834",
-              "num": "7.3",
-              "intOrdre": 1572861,
-              "content": "<p align='left'> \t\t\t\t\t\tPendant la période de préavis, le cadre licencié est autorisé, s'il en fait la demande, à s'absenter pour recherche d'emploi pendant 5 journées ou 10 demi-journées par mois, prises en une ou plusieurs fois. Les autorisations d'absence seront fixées pour moitié au gré du cadre, pour moitié au gré de l'entreprise et moyennant information réciproque. Pendant ces absences la rémunération est maintenue.<br/></p><p align='center'><br/></p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Autorisations d'absence pour recherche d'emploi"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000032436355",
+              "type": "section",
               "intOrdre": 1835004,
               "title": "Licenciement",
+              "id": "KALISCTA000032436355",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032426836",
                   "num": "7.5",
                   "intOrdre": 1610612735,
@@ -223,12 +235,14 @@
               ]
             },
             {
-              "id": "KALISCTA000032426837",
+              "type": "section",
               "intOrdre": 3145722,
               "title": "Mise à la retraite",
+              "id": "KALISCTA000032426837",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032426915",
                   "num": "7.8",
                   "intOrdre": 1572861,
@@ -239,12 +253,14 @@
               ]
             },
             {
-              "id": "KALISCTA000032436406",
+              "type": "section",
               "intOrdre": 1075314684,
               "title": "Départ à la retraite",
+              "id": "KALISCTA000032436406",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032426918",
                   "num": "7.10",
                   "intOrdre": 1610612735,
@@ -255,12 +271,14 @@
               ]
             },
             {
-              "id": "KALISCTA000032436469",
+              "type": "section",
               "intOrdre": 1343356924,
               "title": "Dispositions communes",
+              "id": "KALISCTA000032436469",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032426923",
                   "num": "7.13",
                   "intOrdre": 1879048191,
@@ -269,16 +287,27 @@
                   "surtitre": "Déclassement"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032426834",
+              "num": "7.3",
+              "intOrdre": 1572861,
+              "content": "<p align='left'> \t\t\t\t\t\tPendant la période de préavis, le cadre licencié est autorisé, s'il en fait la demande, à s'absenter pour recherche d'emploi pendant 5 journées ou 10 demi-journées par mois, prises en une ou plusieurs fois. Les autorisations d'absence seront fixées pour moitié au gré du cadre, pour moitié au gré de l'entreprise et moyennant information réciproque. Pendant ces absences la rémunération est maintenue.<br/></p><p align='center'><br/></p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Autorisations d'absence pour recherche d'emploi"
             }
           ]
         },
         {
-          "id": "KALISCTA000032426784",
+          "type": "section",
           "intOrdre": 4194296,
           "title": "Titre VIII Autres dispositions",
+          "id": "KALISCTA000032426784",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000032426839",
               "num": "8.2",
               "intOrdre": 1048574,
@@ -289,12 +318,14 @@
           ]
         },
         {
-          "id": "KALISCTA000032426785",
+          "type": "section",
           "intOrdre": 4718583,
           "title": "Titre IX Dispositions finales",
+          "id": "KALISCTA000032426785",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000032426848",
               "num": "9.6",
               "intOrdre": 3145722,
@@ -305,12 +336,14 @@
           ]
         },
         {
-          "id": "KALISCTA000032426786",
+          "type": "section",
           "intOrdre": 5242870,
           "title": "Annexe I - Protocole d'accord du 13 juin 1973 relatif à la gestion des organismes paritaires professionnels",
+          "id": "KALISCTA000032426786",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000032426849",
               "num": null,
               "intOrdre": 131071,
@@ -320,27 +353,21 @@
           ]
         },
         {
-          "id": "KALISCTA000032436574",
+          "type": "section",
           "intOrdre": 540803064,
           "title": "Annexe II - Avenant du 17 juin 1974 au protocole d'accord du 13 juin 1973",
+          "id": "KALISCTA000032436574",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
-              "id": "KALIARTI000032436836",
-              "num": "2",
-              "intOrdre": 1342177279,
-              "content": "<p> En application des dispositions du protocole d'accord du 13 juin 1973 sur l'harmonisation des indemnités à verser, par les organismes paritaires visés, à leurs administrateurs et membres de leurs commissions ou comités statutaires pour l'assistance aux réunions, les organisations d'employeurs et de salariés soussignées ont établi les règles figurant au document ci-annexé.<br/> Ces règles s'imposent de la même manière que les dispositions du protocole d'accord du 13 juin 1973 dont elles font désormais partie intégrante.<br/> Leur mise en application devra se faire dans le courant de l'année 1974, à la diligence des conseils d'administration de chaque organisme. </p><p>Fait à Paris, le 17 juin 1974. </p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000032426854",
+              "type": "section",
               "intOrdre": 1610612735,
               "title": "Annexe",
+              "id": "KALISCTA000032426854",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032426924",
                   "num": null,
                   "intOrdre": 524287,
@@ -348,31 +375,33 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032436836",
+              "num": "2",
+              "intOrdre": 1342177279,
+              "content": "<p> En application des dispositions du protocole d'accord du 13 juin 1973 sur l'harmonisation des indemnités à verser, par les organismes paritaires visés, à leurs administrateurs et membres de leurs commissions ou comités statutaires pour l'assistance aux réunions, les organisations d'employeurs et de salariés soussignées ont établi les règles figurant au document ci-annexé.<br/> Ces règles s'imposent de la même manière que les dispositions du protocole d'accord du 13 juin 1973 dont elles font désormais partie intégrante.<br/> Leur mise en application devra se faire dans le courant de l'année 1974, à la diligence des conseils d'administration de chaque organisme. </p><p>Fait à Paris, le 17 juin 1974. </p>",
+              "etat": "VIGUEUR_NON_ETEN"
             }
           ]
         },
         {
-          "id": "KALISCTA000032436791",
+          "type": "section",
           "intOrdre": 1344143355,
           "title": "Annexe III - Avenant n° 2 du 28 janvier 1981 au protocole d'accord du 13 juin 1973",
+          "id": "KALISCTA000032436791",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
-              "id": "KALIARTI000032436797",
-              "num": null,
-              "intOrdre": 1073741823,
-              "content": "<br/><p><br/>Cet avenant abroge et remplace celui du 17 juin 1974 (ainsi que son annexe).</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000032426867",
+              "type": "section",
               "intOrdre": 2139095039,
               "title": "Annexe",
+              "id": "KALISCTA000032426867",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032426925",
                   "num": null,
                   "intOrdre": 524287,
@@ -380,31 +409,33 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032436797",
+              "num": null,
+              "intOrdre": 1073741823,
+              "content": "<br/><p><br/>Cet avenant abroge et remplace celui du 17 juin 1974 (ainsi que son annexe).</p>",
+              "etat": "VIGUEUR_NON_ETEN"
             }
           ]
         },
         {
-          "id": "KALISCTA000032436900",
+          "type": "section",
           "intOrdre": 1745813501,
           "title": "Annexe IV - Avenant n° 3 du 7 juillet 1993 au protocole d'accord du 13 juin 1973",
+          "id": "KALISCTA000032436900",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
-              "id": "KALIARTI000032426868",
-              "num": null,
-              "intOrdre": 536870911,
-              "content": "<br/><p> \t\t\t\t\tLe présent avenant modifie le protocole d'accord du 13 juin 1973 dont le nouveau texte devient :<br/> \t\t\t\t\t« Les organisations d'employeurs et de salariés soussignées sont d'accord pour que les organismes paritaires suivants :<br/> \t\t\t\t\tCNPBTP, CNRBTP, CBTP, CBTP-R, CNRO, CNPO, Gestion BTP, CCCA, OPPBTP, GFCBTP, AREF-BTP, FAF-SAB,<br/> \t\t\t\t\tcontribuent financièrement à une partie des frais de préparation et d'études résultant pour elles de leur participation à la gestion de ces organismes et, de ce fait, au développement de la politique contractuelle dans les branches du bâtiment et des travaux publics.<br/> \t\t\t\t\tChaque organisation percevra annuellement une somme forfaitaire et globale qui, en 1997, au terme du calendrier indiqué ci-dessous, sera équivalente à 1/9 de 0,120 % des cotisations perçues par les organismes susvisés.<br/> \t\t\t\t\tLe calendrier d'évolution du pourcentage des cotisations retenu pour le calcul de la somme forfaitaire et globale est fixé comme suit :<br/> \t\t\t\t\t– en 1994 : 0,065 % ;<br/> \t\t\t\t\t– en 1995 : 0,075 % ;<br/> \t\t\t\t\t– en 1996 : 0,100 % ;<br/> \t\t\t\t\t– et à compter de 1997 : 0,120 %.<br/> \t\t\t\t\tLa charge totale sera répartie entre les organismes selon des modalités qui seront précisées ultérieurement, avant l'entrée en vigueur du présent avenant.<br/> \t\t\t\t\tDans le courant du mois d'avril, Gestion BTP effectuera le calcul des sommes dues et à percevoir et en informera les organismes et organisations intéressés. A la fin du même mois, chaque organisme versera directement à chaque organisation sa part contributive.<br/> \t\t\t\t\tLa répartition de la charge totale entre les organismes sera simultanément revue chaque année à la diligence de Gestion BTP selon les règles indiquées ci-dessus.<br/> \t\t\t\t\tChaque organisation d'employeurs ou de salariés percevra, pour l'assistance effective de chacun de ses représentants aux réunions des conseils, commissions ou comités statutaires des organismes paritaires, une vacation forfaitaire de 386 F, au 1er juillet 1993, par jour au maximum. Cette vacation sera versée par les organismes paritaires aux organisations nationales dont relèvent les administrateurs intéressés.<br/> \t\t\t\t\tElle variera tous les ans dans la même proportion que l'indice du coût de la construction mesuré par l'INSEE (indice du 3e trimestre) ; ainsi, la première réévaluation interviendra au début de l'année 1994 à partir de la comparaison des indices du 3e trimestre 1992 et du 3e trimestre 1993. La réévaluation sera applicable dès la publication officielle de l'indice susvisé.<br/> \t\t\t\t\tLes pertes réelles de salaire et les frais de déplacement réellement exposés seront en outre remboursés aux intéressés selon les règles figurant au document ci-annexé.<br/> \t\t\t\t\tCes règles s'imposent de la même manière que les dispositions du protocole d'accord du 13 juin 1973 dont elles font partie intégrante.<br/> \t\t\t\t\tElles seront applicables, à la diligence des conseils d'administration de chaque organisme, pour l'assistance aux réunions tenues à compter du 1er janvier 1994.<br/> \t\t\t\t\tLes signataires conviennent de suspendre l'application des clauses de réévaluation des vacations forfaitaires, des pertes de revenu d'activité et des remboursements de frais de déplacement dès que l'activité de la profession aura chuté de 10 %.<br/> \t\t\t\t\tCette activité sera calculée à partir des indices INSEE d'activité “bâtiment” et “travaux publics”, l'indice “bâtiment tout corps d'état” étant retenu pour 3/4 de sa valeur et l'indice “travaux publics” pour 1/4. Les indices de référence retenus sont la moyenne des indices des 12 derniers mois actuellement connus.<br/> \t\t\t\t\tDans cette éventualité, le présent avenant continuera de s'appliquer pour l'année en cours à charge pour les signataires de se rencontrer afin de déterminer de nouvelles dispositions quant à l'application du protocole d'accord pour l'année suivante.<br/> \t\t\t\t\tLes organisations soussignées s'engagent à donner mandat à leurs représentants aux conseils d'administration des organismes précités pour que chacun d'eux prenne les mesures nécessaires à l'application effective et conforme des présentes dispositions qui entreront en vigueur le 1er janvier 1994. </p><p>Fait à Paris, le 7 juillet 1993. </p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000032426870",
+              "type": "section",
               "intOrdre": 1342177279,
               "title": "Annexe",
+              "id": "KALISCTA000032426870",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032426926",
                   "num": null,
                   "intOrdre": 524287,
@@ -412,32 +443,33 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032426868",
+              "num": null,
+              "intOrdre": 536870911,
+              "content": "<br/><p> \t\t\t\t\tLe présent avenant modifie le protocole d'accord du 13 juin 1973 dont le nouveau texte devient :<br/> \t\t\t\t\t« Les organisations d'employeurs et de salariés soussignées sont d'accord pour que les organismes paritaires suivants :<br/> \t\t\t\t\tCNPBTP, CNRBTP, CBTP, CBTP-R, CNRO, CNPO, Gestion BTP, CCCA, OPPBTP, GFCBTP, AREF-BTP, FAF-SAB,<br/> \t\t\t\t\tcontribuent financièrement à une partie des frais de préparation et d'études résultant pour elles de leur participation à la gestion de ces organismes et, de ce fait, au développement de la politique contractuelle dans les branches du bâtiment et des travaux publics.<br/> \t\t\t\t\tChaque organisation percevra annuellement une somme forfaitaire et globale qui, en 1997, au terme du calendrier indiqué ci-dessous, sera équivalente à 1/9 de 0,120 % des cotisations perçues par les organismes susvisés.<br/> \t\t\t\t\tLe calendrier d'évolution du pourcentage des cotisations retenu pour le calcul de la somme forfaitaire et globale est fixé comme suit :<br/> \t\t\t\t\t– en 1994 : 0,065 % ;<br/> \t\t\t\t\t– en 1995 : 0,075 % ;<br/> \t\t\t\t\t– en 1996 : 0,100 % ;<br/> \t\t\t\t\t– et à compter de 1997 : 0,120 %.<br/> \t\t\t\t\tLa charge totale sera répartie entre les organismes selon des modalités qui seront précisées ultérieurement, avant l'entrée en vigueur du présent avenant.<br/> \t\t\t\t\tDans le courant du mois d'avril, Gestion BTP effectuera le calcul des sommes dues et à percevoir et en informera les organismes et organisations intéressés. A la fin du même mois, chaque organisme versera directement à chaque organisation sa part contributive.<br/> \t\t\t\t\tLa répartition de la charge totale entre les organismes sera simultanément revue chaque année à la diligence de Gestion BTP selon les règles indiquées ci-dessus.<br/> \t\t\t\t\tChaque organisation d'employeurs ou de salariés percevra, pour l'assistance effective de chacun de ses représentants aux réunions des conseils, commissions ou comités statutaires des organismes paritaires, une vacation forfaitaire de 386 F, au 1er juillet 1993, par jour au maximum. Cette vacation sera versée par les organismes paritaires aux organisations nationales dont relèvent les administrateurs intéressés.<br/> \t\t\t\t\tElle variera tous les ans dans la même proportion que l'indice du coût de la construction mesuré par l'INSEE (indice du 3e trimestre) ; ainsi, la première réévaluation interviendra au début de l'année 1994 à partir de la comparaison des indices du 3e trimestre 1992 et du 3e trimestre 1993. La réévaluation sera applicable dès la publication officielle de l'indice susvisé.<br/> \t\t\t\t\tLes pertes réelles de salaire et les frais de déplacement réellement exposés seront en outre remboursés aux intéressés selon les règles figurant au document ci-annexé.<br/> \t\t\t\t\tCes règles s'imposent de la même manière que les dispositions du protocole d'accord du 13 juin 1973 dont elles font partie intégrante.<br/> \t\t\t\t\tElles seront applicables, à la diligence des conseils d'administration de chaque organisme, pour l'assistance aux réunions tenues à compter du 1er janvier 1994.<br/> \t\t\t\t\tLes signataires conviennent de suspendre l'application des clauses de réévaluation des vacations forfaitaires, des pertes de revenu d'activité et des remboursements de frais de déplacement dès que l'activité de la profession aura chuté de 10 %.<br/> \t\t\t\t\tCette activité sera calculée à partir des indices INSEE d'activité “bâtiment” et “travaux publics”, l'indice “bâtiment tout corps d'état” étant retenu pour 3/4 de sa valeur et l'indice “travaux publics” pour 1/4. Les indices de référence retenus sont la moyenne des indices des 12 derniers mois actuellement connus.<br/> \t\t\t\t\tDans cette éventualité, le présent avenant continuera de s'appliquer pour l'année en cours à charge pour les signataires de se rencontrer afin de déterminer de nouvelles dispositions quant à l'application du protocole d'accord pour l'année suivante.<br/> \t\t\t\t\tLes organisations soussignées s'engagent à donner mandat à leurs représentants aux conseils d'administration des organismes précités pour que chacun d'eux prenne les mesures nécessaires à l'application effective et conforme des présentes dispositions qui entreront en vigueur le 1er janvier 1994. </p><p>Fait à Paris, le 7 juillet 1993. </p>",
+              "etat": "VIGUEUR_NON_ETEN"
             }
           ]
         },
         {
-          "id": "KALISCTA000032436984",
+          "type": "section",
           "intOrdre": 1946648574,
           "title": "Annexe V - Classification des cadres des travaux publics",
+          "id": "KALISCTA000032436984",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
-              "id": "KALIARTI000036524179",
-              "num": "2",
-              "intOrdre": 1879048191,
-              "content": "<p align='left'>Dès lors qu'ils mettent en œuvre effectivement le diplôme correspondant à leur emploi, les cadres débutant dans la profession, titulaires d'un diplôme de l'enseignement général et professionnel visé ci-dessous sont classés au sein du niveau A qui constitue un niveau spécifique d'entrée, dans les positions cadres A 1 ou cadres A 2 conformément au tableau ci-après :</p><p align='left'></p><center><table border='1'><tbody><tr><th>Niveau spécifique d'entrée :<br/>\n\t\t\tNiveau A</th><th>Diplômes</th></tr><tr><td align='left'>Position cadres A 1</td><td align='center'>Ingénieurs</td></tr><tr><td align='left'></td><td align='center'>Ingénieurs-maîtres</td></tr><tr><td align='left'></td><td align='center'>Master 1</td></tr><tr><td align='left'>Position cadres A 2</td><td align='center'>Grandes écoles</td></tr><tr><td align='left'></td><td align='center'>Master 2</td></tr></tbody></table></center><p align='left'>Les cadres accèdent au classement dans une des positions supérieures quand leurs fonctions le justifient. Ils peuvent occuper un emploi correspondant aux positions cadres A 1 ou cadres A 2 de la présente classification pendant une période d'au maximum 3 ans.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Prise en compte des diplômes"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000032426872",
+              "type": "section",
               "intOrdre": 1073741823,
               "title": "Préambule",
+              "id": "KALISCTA000032426872",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032426927",
                   "num": null,
                   "intOrdre": 524287,
@@ -447,12 +479,14 @@
               ]
             },
             {
-              "id": "KALISCTA000036524545",
+              "type": "section",
               "intOrdre": 2145386495,
               "title": "Annexe 1 - CADRES",
+              "id": "KALISCTA000036524545",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000036524181",
                   "num": null,
                   "intOrdre": 1073741823,
@@ -462,12 +496,14 @@
               ]
             },
             {
-              "id": "KALISCTA000036524571",
+              "type": "section",
               "intOrdre": 2146435071,
               "title": "Annexe 2 - Classifications ETAM. – Cadres Guide de présentation",
+              "id": "KALISCTA000036524571",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000036524183",
                   "num": null,
                   "intOrdre": 1073741823,
@@ -475,22 +511,34 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036524179",
+              "num": "2",
+              "intOrdre": 1879048191,
+              "content": "<p align='left'>Dès lors qu'ils mettent en œuvre effectivement le diplôme correspondant à leur emploi, les cadres débutant dans la profession, titulaires d'un diplôme de l'enseignement général et professionnel visé ci-dessous sont classés au sein du niveau A qui constitue un niveau spécifique d'entrée, dans les positions cadres A 1 ou cadres A 2 conformément au tableau ci-après :</p><p align='left'></p><center><table border='1'><tbody><tr><th>Niveau spécifique d'entrée :<br/>\n\t\t\tNiveau A</th><th>Diplômes</th></tr><tr><td align='left'>Position cadres A 1</td><td align='center'>Ingénieurs</td></tr><tr><td align='left'></td><td align='center'>Ingénieurs-maîtres</td></tr><tr><td align='left'></td><td align='center'>Master 1</td></tr><tr><td align='left'>Position cadres A 2</td><td align='center'>Grandes écoles</td></tr><tr><td align='left'></td><td align='center'>Master 2</td></tr></tbody></table></center><p align='left'>Les cadres accèdent au classement dans une des positions supérieures quand leurs fonctions le justifient. Ils peuvent occuper un emploi correspondant aux positions cadres A 1 ou cadres A 2 de la présente classification pendant une période d'au maximum 3 ans.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Prise en compte des diplômes"
             }
           ]
         },
         {
-          "id": "KALISCTA000032437199",
+          "type": "section",
           "intOrdre": 2122379262,
           "title": "Annexe VI - Accord national du 6 novembre 1998 sur l'organisation, la réduction du temps de travail et sur l'emploi dans le bâtiment et les travaux publics",
+          "id": "KALISCTA000032437199",
           "etat": "VIGUEUR_NON_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000032426877",
+              "type": "section",
               "intOrdre": 536870911,
               "title": "Préambule",
+              "id": "KALISCTA000032426877",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032426941",
                   "num": null,
                   "intOrdre": 524287,
@@ -500,12 +548,14 @@
               ]
             },
             {
-              "id": "KALISCTA000032426878",
+              "type": "section",
               "intOrdre": 1073741823,
               "title": "Champ d'application",
+              "id": "KALISCTA000032426878",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032426943",
                   "num": null,
                   "intOrdre": 524287,
@@ -515,12 +565,14 @@
               ]
             },
             {
-              "id": "KALISCTA000032426948",
+              "type": "section",
               "intOrdre": 1610612735,
               "title": "Titre Ier Organisation du temps de travail sur l'année et réduction de la durée du travail",
+              "id": "KALISCTA000032426948",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032426960",
                   "num": null,
                   "intOrdre": 524287,
@@ -530,12 +582,14 @@
               ]
             },
             {
-              "id": "KALISCTA000032426949",
+              "type": "section",
               "intOrdre": 1879048191,
               "title": "Titre II Contingent annuel d'heures supplémentaires sans autorisation de l'inspecteur du travail",
+              "id": "KALISCTA000032426949",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032426968",
                   "num": null,
                   "intOrdre": 524287,
@@ -545,12 +599,14 @@
               ]
             },
             {
-              "id": "KALISCTA000032426950",
+              "type": "section",
               "intOrdre": 2013265919,
               "title": "Titre III Dispositions relatives à l'encadrement",
+              "id": "KALISCTA000032426950",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032426972",
                   "num": null,
                   "intOrdre": 524287,
@@ -560,12 +616,14 @@
               ]
             },
             {
-              "id": "KALISCTA000032426951",
+              "type": "section",
               "intOrdre": 2080374783,
               "title": "Titre IV Compte épargne-temps",
+              "id": "KALISCTA000032426951",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032426973",
                   "num": null,
                   "intOrdre": 524287,
@@ -575,12 +633,14 @@
               ]
             },
             {
-              "id": "KALISCTA000032426952",
+              "type": "section",
               "intOrdre": 2113929215,
               "title": "Titre V Durée et date d'entrée en vigueur de l'accord",
+              "id": "KALISCTA000032426952",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032426983",
                   "num": null,
                   "intOrdre": 524287,
@@ -592,12 +652,14 @@
           ]
         },
         {
-          "id": "KALISCTA000032437221",
+          "type": "section",
           "intOrdre": 2134931454,
           "title": "Annexe VII - Prestations applicables au 1er janvier 2004",
+          "id": "KALISCTA000032437221",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000032426879",
               "num": null,
               "intOrdre": 1073741823,
@@ -609,81 +671,26 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000036504478",
+          "type": "section",
           "title": "Avenant n° 1 du 5 septembre 2017 relatif à la classification des cadres (annexe I)",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000036504478",
+          "children": [
             {
-              "id": "KALIARTI000036504482",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'>Dans l'annexe V de la convention collective nationale des cadres des travaux publics du 20 novembre 2015 la référence aux diplômes est modifiée comme suit :<br/><br/>\n– le terme « maîtrise» est remplacé par « master 1 » et les termes « DESS » et « DEA » par « master 2 ».</p><p></p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000036504484",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>L'annexe 1 de l'annexe V de la convention collective nationale des cadres des travaux publics du 20 novembre 2015 est abrogée et remplacée par l'annexe I du présent avenant.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000036504486",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>L'annexe II de l'annexe V de la convention collective nationale des cadres des travaux publics du 20 novembre 2015 est abrogée et remplacée par l'annexe II du présent avenant.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000036504488",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Le point de départ du niveau du minimum de la position B, avant la négociation des minima cadres pour 2018, est équidistant entre les positions A2 et B1.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000036504489",
-              "num": "5",
-              "intOrdre": 3145722,
-              "content": "<p align='left'>Il est prévu que les cadres niveau A ayant une ancienneté dans la profession (1) avant le 31 décembre 2017 :</p><p align='left'>– de 36 mois passent en position B1 ;<br/>\n– entre 24 et moins de 36 mois passent en B et ne peuvent rester plus de 1 an dans cette position ;<br/>\n– de moins de 24 mois se voient appliquer le régime mis en place par le présent avenant.</p><p><font color='808080'><em>(1) On entend par « Profession » toutes les entreprises appliquant la convention collective nationale des cadres de travaux publics.</em></font></p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000036504490",
-              "num": "6",
-              "intOrdre": 3670009,
-              "content": "<p align='left'><br/>Le présent avenant entrera en vigueur le 1er janvier 2018.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000036504491",
-              "num": "7",
-              "intOrdre": 4194296,
-              "content": "<p align='left'><br/>Toute organisation syndicale non signataire du présent avenant pourra y adhérer conformément à l'<a alt='Code du travail - art. L2261-3 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901781&dateTexte=&categorieLien=cid'>article L. 2261-3 du code du travail</a>.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000036504493",
-              "num": "8",
-              "intOrdre": 4718583,
-              "content": "<p align='left'>Le présent avenant comprenant le tableau et le guide de présentation (annexes I et II) sera déposé auprès de la direction générale du travail et au secrétariat-greffe du conseil des prud'hommes de Paris, en application des articles <a alt='Code du travail - art. L2231-2 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901671&dateTexte=&categorieLien=cid'>L. 2231-2</a> et <a alt='Code du travail - art. D2231-2 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid'>D. 2231-2</a> du code du travail.</p><p align='left'>Les parties signataires demanderont l'extension du présent accord conformément aux <a alt='Code du travail - art. L2261-19 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901797&dateTexte=&categorieLien=cid'>dispositions des articles L. 2261-19 et suivants du code du travail</a>.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000036504481",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000036504481",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000036504498",
                   "num": null,
                   "intOrdre": 524287,
@@ -693,12 +700,14 @@
               ]
             },
             {
-              "id": "KALISCTA000036504497",
+              "type": "section",
               "intOrdre": 5242870,
               "title": "Annexe",
+              "id": "KALISCTA000036504497",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000036504500",
                   "num": null,
                   "intOrdre": 524287,
@@ -706,23 +715,89 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504482",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'>Dans l'annexe V de la convention collective nationale des cadres des travaux publics du 20 novembre 2015 la référence aux diplômes est modifiée comme suit :<br/><br/>\n– le terme « maîtrise» est remplacé par « master 1 » et les termes « DESS » et « DEA » par « master 2 ».</p><p></p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504484",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>L'annexe 1 de l'annexe V de la convention collective nationale des cadres des travaux publics du 20 novembre 2015 est abrogée et remplacée par l'annexe I du présent avenant.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504486",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>L'annexe II de l'annexe V de la convention collective nationale des cadres des travaux publics du 20 novembre 2015 est abrogée et remplacée par l'annexe II du présent avenant.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504488",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Le point de départ du niveau du minimum de la position B, avant la négociation des minima cadres pour 2018, est équidistant entre les positions A2 et B1.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504489",
+              "num": "5",
+              "intOrdre": 3145722,
+              "content": "<p align='left'>Il est prévu que les cadres niveau A ayant une ancienneté dans la profession (1) avant le 31 décembre 2017 :</p><p align='left'>– de 36 mois passent en position B1 ;<br/>\n– entre 24 et moins de 36 mois passent en B et ne peuvent rester plus de 1 an dans cette position ;<br/>\n– de moins de 24 mois se voient appliquer le régime mis en place par le présent avenant.</p><p><font color='808080'><em>(1) On entend par « Profession » toutes les entreprises appliquant la convention collective nationale des cadres de travaux publics.</em></font></p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504490",
+              "num": "6",
+              "intOrdre": 3670009,
+              "content": "<p align='left'><br/>Le présent avenant entrera en vigueur le 1er janvier 2018.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504491",
+              "num": "7",
+              "intOrdre": 4194296,
+              "content": "<p align='left'><br/>Toute organisation syndicale non signataire du présent avenant pourra y adhérer conformément à l'<a alt='Code du travail - art. L2261-3 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901781&dateTexte=&categorieLien=cid'>article L. 2261-3 du code du travail</a>.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504493",
+              "num": "8",
+              "intOrdre": 4718583,
+              "content": "<p align='left'>Le présent avenant comprenant le tableau et le guide de présentation (annexes I et II) sera déposé auprès de la direction générale du travail et au secrétariat-greffe du conseil des prud'hommes de Paris, en application des articles <a alt='Code du travail - art. L2231-2 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901671&dateTexte=&categorieLien=cid'>L. 2231-2</a> et <a alt='Code du travail - art. D2231-2 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid'>D. 2231-2</a> du code du travail.</p><p align='left'>Les parties signataires demanderont l'extension du présent accord conformément aux <a alt='Code du travail - art. L2261-19 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901797&dateTexte=&categorieLien=cid'>dispositions des articles L. 2261-19 et suivants du code du travail</a>.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
             }
           ]
         }
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 3,
       "title": "Textes Salaires",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000038632708",
+          "type": "section",
           "title": "Accord du 20 novembre 2018 relatif aux salaires minima pour l'année 2019",
-          "dateParution": 1560816000000,
-          "articles": [
+          "id": "KALITEXT000038632708",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038632711",
               "num": null,
               "intOrdre": 524287,
@@ -730,6 +805,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038632713",
               "num": "1er",
               "intOrdre": 1048574,
@@ -737,6 +813,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038632714",
               "num": "2",
               "intOrdre": 1572861,
@@ -744,6 +821,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038632715",
               "num": "3",
               "intOrdre": 2097148,
@@ -751,6 +829,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038632717",
               "num": "4",
               "intOrdre": 2621435,
@@ -758,6 +837,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038632718",
               "num": "5",
               "intOrdre": 3145722,
@@ -765,6 +845,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038632720",
               "num": "6",
               "intOrdre": 3670009,
@@ -774,11 +855,12 @@
           ]
         },
         {
-          "id": "KALITEXT000036651460",
+          "type": "section",
           "title": "Accord du 21 novembre 2017 relatif au barème des minima pour 2018",
-          "dateParution": 1519776000000,
-          "articles": [
+          "id": "KALITEXT000036651460",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036651463",
               "num": "1er",
               "intOrdre": 524287,
@@ -786,6 +868,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036651464",
               "num": "2",
               "intOrdre": 1048574,
@@ -793,6 +876,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036651465",
               "num": "3",
               "intOrdre": 1572861,
@@ -800,6 +884,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036651467",
               "num": "4",
               "intOrdre": 2097148,
@@ -807,6 +892,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036651468",
               "num": "5",
               "intOrdre": 2621435,
@@ -814,6 +900,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036651470",
               "num": "6",
               "intOrdre": 3145722,
@@ -823,11 +910,12 @@
           ]
         },
         {
-          "id": "KALITEXT000034331326",
+          "type": "section",
           "title": "Accord du 25 novembre 2016 relatif au barème des minima pour 2017",
-          "dateParution": 1491177600000,
-          "articles": [
+          "id": "KALITEXT000034331326",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000034331329",
               "num": "1er",
               "intOrdre": 524287,
@@ -835,6 +923,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000034331330",
               "num": "2",
               "intOrdre": 1048574,
@@ -842,6 +931,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000034331331",
               "num": "3",
               "intOrdre": 1572861,
@@ -849,6 +939,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000034331332",
               "num": "4",
               "intOrdre": 2097148,
@@ -856,6 +947,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000034331334",
               "num": "5",
               "intOrdre": 2621435,
