@@ -1,40 +1,33 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale de la coopération maritime du 7 décembre 2004 (réécrite par avenant n° 8 du 23 novembre 2011) ",
   "id": "KALICONT000018563634",
   "num": "2494",
-  "title": "Convention collective nationale de la coopération maritime du 7 décembre 2004 (réécrite par avenant n° 8 du 23 novembre 2011) ",
   "shortTitle": "Coopération Maritime Salariés Non Navigants",
-  "categorisation": [
-    "Coopération maritime"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000026277387",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale de la coopération maritime du 7 décembre 2004 (réécrite par avenant n° 8 du 23 novembre 2011) ",
+      "id": "KALITEXT000026277387",
       "etat": "VIGUEUR_ETEN",
-      "articles": [
+      "children": [
         {
-          "id": "KALIARTI000026295354",
-          "num": null,
-          "intOrdre": 3139578,
-          "content": "<p>Annexe I</p><p>Grille de salaires minima applicable au 1er janvier 2012 </p><p align='center'><br/>Ouvriers, employés </p><p align='right'><br/>(En euros.) </p><center><table border='1'><tbody><tr><th>Niveau </th><th>Echelon </th><th>Salaire </th></tr><tr><td align='center'>I </td><td align='center'>1 </td><td align='center'>16 781 </td></tr><tr><td align='center'><br/></td><td align='center'>2 </td><td align='center'>17 005 </td></tr><tr><td align='center'>II </td><td align='center'>1 </td><td align='center'>17 836 </td></tr><tr><td align='center'><br/></td><td align='center'>2 </td><td align='center'>18 966 </td></tr><tr><td align='center'>III </td><td align='center'>1 </td><td align='center'>19 651 </td></tr><tr><td align='center'><br/></td><td align='center'>2 </td><td align='center'>20 889 </td></tr><tr><td align='center'><br/></td><td align='center'>3 </td><td align='center'>21 666 </td></tr></tbody></table></center><p></p><p align='center'><br/>Agents de maîtrise </p><p align='right'><br/>(En euros.) </p><center><table border='1'><tbody><tr><th>Niveau </th><th>Salaire </th></tr><tr><td align='center'>IV </td><td align='center'>22 443 </td></tr><tr><td align='center'>V </td><td align='center'>26 309 </td></tr></tbody></table></center><p></p><p align='center'><br/>Cadres </p><p align='right'><br/>(En euros.) </p><center><table border='1'><tbody><tr><th>Niveau </th><th>Coefficient </th><th>Salaire </th></tr><tr><td align='center'>VI </td><td align='center'>A (moins de 3 ans dans la fonction) </td><td align='center'>27 370 </td></tr><tr><td align='center'><br/></td><td align='center'>B (plus de 3 ans dans la fonction) </td><td align='center'>30 791 </td></tr><tr><td align='center'>VII </td><td align='center'>A (moins de 3 ans dans la fonction) </td><td align='center'>29 650 </td></tr><tr><td align='center'><br/></td><td align='center'>B (plus de 3 ans dans la fonction) </td><td align='center'>33 868 </td></tr><tr><td align='center'>VIII </td><td align='center'><br/></td><td align='center'>37 632 </td></tr><tr><td align='center'>IX </td><td align='center'><br/></td><td align='center'>42 764</td></tr></tbody></table></center>",
-          "etat": "VIGUEUR_ETEN"
-        }
-      ],
-      "sections": [
-        {
-          "id": "KALISCTA000026277420",
+          "type": "section",
           "intOrdre": 1572861,
           "title": "Titre Ier Dispositions générales",
+          "id": "KALISCTA000026277420",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000026277430",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Chapitre Ier Objet et durée",
+              "id": "KALISCTA000026277430",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000026277470",
                   "num": "7 bis",
                   "intOrdre": 4194296,
@@ -45,12 +38,14 @@
               ]
             },
             {
-              "id": "KALISCTA000026277431",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre II Droit syndical et instances représentatives du personnel",
+              "id": "KALISCTA000026277431",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000026277474",
                   "num": "11",
                   "intOrdre": 2097148,
@@ -61,12 +56,14 @@
               ]
             },
             {
-              "id": "KALISCTA000026277432",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Chapitre III Principes d'égalité",
+              "id": "KALISCTA000026277432",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000026277475",
                   "num": "12",
                   "intOrdre": 524287,
@@ -79,12 +76,14 @@
           ]
         },
         {
-          "id": "KALISCTA000026277421",
+          "type": "section",
           "intOrdre": 2359291,
           "title": "Titre II Embauche",
+          "id": "KALISCTA000026277421",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000031642538",
               "num": "17 ter",
               "intOrdre": 3407865,
@@ -95,18 +94,21 @@
           ]
         },
         {
-          "id": "KALISCTA000026277422",
+          "type": "section",
           "intOrdre": 2752506,
           "title": "Titre III Durée du travail",
+          "id": "KALISCTA000026277422",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000026277440",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Chapitre Ier Organisation du temps de travail",
+              "id": "KALISCTA000026277440",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000026277497",
                   "num": "25.8",
                   "intOrdre": 11534314,
@@ -117,12 +119,14 @@
               ]
             },
             {
-              "id": "KALISCTA000026277441",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre II Congés",
+              "id": "KALISCTA000026277441",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000026277507",
                   "num": "29",
                   "intOrdre": 5242870,
@@ -133,12 +137,14 @@
               ]
             },
             {
-              "id": "KALISCTA000026277442",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Chapitre III Absences",
+              "id": "KALISCTA000026277442",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000026277512",
                   "num": "34",
                   "intOrdre": 2621435,
@@ -151,12 +157,14 @@
           ]
         },
         {
-          "id": "KALISCTA000026277423",
+          "type": "section",
           "intOrdre": 2949114,
           "title": "Titre IV Retraite. – Prévoyance",
+          "id": "KALISCTA000026277423",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000026277445",
               "num": "36 bis",
               "intOrdre": 1572861,
@@ -167,12 +175,14 @@
           ]
         },
         {
-          "id": "KALISCTA000026277424",
+          "type": "section",
           "intOrdre": 3047418,
           "title": "Titre V Rémunération",
+          "id": "KALISCTA000026277424",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000026277451",
               "num": "42",
               "intOrdre": 3145722,
@@ -183,12 +193,14 @@
           ]
         },
         {
-          "id": "KALISCTA000026277425",
+          "type": "section",
           "intOrdre": 3096570,
           "title": "Titre VI Résiliation ou cessation du contrat de travail",
+          "id": "KALISCTA000026277425",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000026277458",
               "num": "49",
               "intOrdre": 3670009,
@@ -199,12 +211,14 @@
           ]
         },
         {
-          "id": "KALISCTA000026277426",
+          "type": "section",
           "intOrdre": 3121146,
           "title": "Titre VII Classification",
+          "id": "KALISCTA000026277426",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000026295352",
               "num": "51",
               "intOrdre": 1048574,
@@ -215,12 +229,14 @@
           ]
         },
         {
-          "id": "KALISCTA000026277427",
+          "type": "section",
           "intOrdre": 3133434,
           "title": "Titre VIII Dispositions finales",
+          "id": "KALISCTA000026277427",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000026277462",
               "num": "53",
               "intOrdre": 1048574,
@@ -229,70 +245,48 @@
               "surtitre": "Adhésion à la convention"
             }
           ]
+        },
+        {
+          "type": "article",
+          "id": "KALIARTI000026295354",
+          "num": null,
+          "intOrdre": 3139578,
+          "content": "<p>Annexe I</p><p>Grille de salaires minima applicable au 1er janvier 2012 </p><p align='center'><br/>Ouvriers, employés </p><p align='right'><br/>(En euros.) </p><center><table border='1'><tbody><tr><th>Niveau </th><th>Echelon </th><th>Salaire </th></tr><tr><td align='center'>I </td><td align='center'>1 </td><td align='center'>16 781 </td></tr><tr><td align='center'><br/></td><td align='center'>2 </td><td align='center'>17 005 </td></tr><tr><td align='center'>II </td><td align='center'>1 </td><td align='center'>17 836 </td></tr><tr><td align='center'><br/></td><td align='center'>2 </td><td align='center'>18 966 </td></tr><tr><td align='center'>III </td><td align='center'>1 </td><td align='center'>19 651 </td></tr><tr><td align='center'><br/></td><td align='center'>2 </td><td align='center'>20 889 </td></tr><tr><td align='center'><br/></td><td align='center'>3 </td><td align='center'>21 666 </td></tr></tbody></table></center><p></p><p align='center'><br/>Agents de maîtrise </p><p align='right'><br/>(En euros.) </p><center><table border='1'><tbody><tr><th>Niveau </th><th>Salaire </th></tr><tr><td align='center'>IV </td><td align='center'>22 443 </td></tr><tr><td align='center'>V </td><td align='center'>26 309 </td></tr></tbody></table></center><p></p><p align='center'><br/>Cadres </p><p align='right'><br/>(En euros.) </p><center><table border='1'><tbody><tr><th>Niveau </th><th>Coefficient </th><th>Salaire </th></tr><tr><td align='center'>VI </td><td align='center'>A (moins de 3 ans dans la fonction) </td><td align='center'>27 370 </td></tr><tr><td align='center'><br/></td><td align='center'>B (plus de 3 ans dans la fonction) </td><td align='center'>30 791 </td></tr><tr><td align='center'>VII </td><td align='center'>A (moins de 3 ans dans la fonction) </td><td align='center'>29 650 </td></tr><tr><td align='center'><br/></td><td align='center'>B (plus de 3 ans dans la fonction) </td><td align='center'>33 868 </td></tr><tr><td align='center'>VIII </td><td align='center'><br/></td><td align='center'>37 632 </td></tr><tr><td align='center'>IX </td><td align='center'><br/></td><td align='center'>42 764</td></tr></tbody></table></center>",
+          "etat": "VIGUEUR_ETEN"
         }
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000024408438",
-          "title": "Avenant n° 6 du 9 février 2011 portant modification du champ d'application",
-          "dateParution": 1311811200000,
-          "articles": [
-            {
-              "id": "KALIARTI000024408441",
-              "num": "1er",
-              "intOrdre": 524287,
-              "content": "<p align='left'><br/>Le champ d'application défini par l'article 1er de la convention collective nationale de la coopération maritime est modifié comme suit : </p><p align='center'><br/>« Article 1er <br/>Champ d'application </p><p align='left'><br/>La présente convention collective, conclue conformément aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901797&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-19 du code du travail</a>, règle pour l'ensemble du territoire national métropolitain ainsi que pour les départements d'outre-mer sous réserve des dispositions d'ordre public qui y sont appliquées, les rapports entre les salariés et les employeurs relevant des activités suivantes : </p><p align='left'><br/>– les coopératives maritimes régies par la loi du 20 juillet 1983 et exerçant une activité d'avitaillement, d'armement, de gestion, de mareyage, de cultures marines, de conserverie, de mécanique et plus généralement aux coopératives exerçant une activité dans le domaine maritime ; <br/>– les organisations de production de pêche et cultures marines ; <br/>– les sociétés, quelle que soit leur forme juridique dont le capital est détenu directement ou indirectement, majoritairement par une ou plusieurs coopératives maritimes, et exerçant une activité dans l'un des domaines susvisés ; <br/>– les structures juridiques suivantes et leurs filiales dont l'activité est principalement liée à celle des coopératives maritimes et de leurs sociétaires : <br/>– les associations régionales de développement économique des coopératives maritimes (ARDECOM) ; <br/>– la coopération maritime et ses filiales ; <br/>– le centre de gestion de la pêche artisanale (CGPA) ; <br/>– l'association pour l'investissement et le développement de la pêche artisanale (ASSIDEPA) ; <br/>– CECOMER et ses filiales ; <br/>– les organismes de gestion et de comptabilité affiliés à la coopération maritime. <br/>Elle s'applique à l'ensemble des salariés non navigants, cadres et non cadres. »</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000024408443",
-              "num": "2",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Il est ajouté un 2e alinéa à l'article 35 : <br/>« Les structures nouvellement créées rentrant dans le champ d'application de la présente convention sont invitées à se rapprocher de l'association de prévoyance maritime APMAR 2000 pour la mise en place des régimes de retraite complémentaire cadre et non cadre. »</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000024408445",
-              "num": "3",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>L'alinéa 2 de l'article 36 de la convention collective est modifié comme suit : <br/>« Les structures relevant du champ d'application de la présente convention appliquent majoritairement le régime géré par l'union de coopératives maritimes Le Littoral. » <br/>L'alinéa 3 est modifié comme suit : <br/>« Les structures qui entreront dans le champ d'application de la présente convention et qui n'auraient pas souscrit un tel régime sont invitées à se rapprocher de l'union de coopératives maritimes Le Littoral pour la mise en place de ces garanties. »</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000024408448",
-              "num": "4",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Le présent accord prendra effet dès sa signature.</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000024408449",
-              "num": "5",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Les parties signataires décident de demander l'extension du présent avenant.</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000024408450",
-              "num": "6",
-              "intOrdre": 3145722,
-              "content": "<p align='left'><br/>Le présent avenant sera déposé par la partie la plus diligente conformément aux dispositions légales.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000032695913",
+          "type": "section",
           "title": "Avenant du 2 février 2016 relatif à l'égalité professionnelle",
-          "dateParution": 1465862400000,
-          "articles": [
+          "id": "KALITEXT000032695913",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000032695916",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000032695938",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'>Les parties signataires affirment, par le présent accord, leur volonté d'inscrire le principe d'égalité professionnelle entre les femmes et les hommes, tout au long de la vie professionnelle, comme étant source de complémentarité et un facteur d'enrichissement collectif, de cohésion sociale et d'efficacité économique pour les entreprises.</p><p align='left'>Cet accord a pour objet de s'inscrire dans le cadre de l'égalité professionnelle et la qualité de vie au travail.</p><p align='left'>L'égalité entre les femmes et les hommes est un principe fort que les partenaires sociaux s'engagent à inscrire dans les relations individuelles et collectives du travail. Ils constatent, d'après le rapport de la situation comparée de la branche (données sociales 2015), que les femmes représentent 42 % des salariés.</p><p align='left'>Les partenaires sociaux remarquent en outre que certains emplois sont fortement féminisés ou masculinisés, conséquence le plus souvent de représentations socioculturelles, de logiques structurelles dans les orientations scolaires et dans les formations initiales, de comportements managériaux relevant de ces représentations comme de comportements qui dépassent le cadre du travail.</p><p align='left'>Par le biais du présent accord, les partenaires sociaux visent :</p><p align='left'>– l'information des entreprises, des salariés et de leurs représentants, sur l'enjeu de l'égalité entre les femmes et les hommes ;<br/>\n– la sensibilisation des acteurs de l'entreprise au sujet de l'égalité professionnelle qui passe notamment par l'identification des stéréotypes sexistes et des représentations que peuvent avoir les hommes et les femmes dans leur parcours professionnel ;<br/>\n– la promotion de la mixité et l'égalité professionnelle au sein des entreprises afin de sensibiliser les salarié(e)s sur cette question et susciter une évolution des mentalités ;<br/>\n– la prise en compte de la parentalité dans le cadre professionnel, les modalités de départ et de retour de congés maternité/parentaux, pour prendre en compte les objectifs de carrière.</p><p align='left'>Les signataires du présent accord conviennent de mener une politique globale et d'agir sur les neuf domaines d'actions suivants :</p><p align='left'>– embauche ;<br/>\n– formation ;<br/>\n– promotion professionnelle ;<br/>\n– qualification ;<br/>\n– classification ;<br/>\n– conditions de travail ;<br/>\n– sécurité et santé au travail ;<br/>\n– rémunération effective ;<br/>\n– articulation entre activité professionnelle et exercice de la responsabilité familiale.</p><p></p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000032695917",
               "num": "1er",
               "intOrdre": 1048574,
@@ -301,6 +295,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032695918",
               "num": "2",
               "intOrdre": 1572861,
@@ -309,6 +304,7 @@
               "surtitre": "Rappel des dispositions légales de négociation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032695922",
               "num": "3",
               "intOrdre": 2097148,
@@ -317,6 +313,7 @@
               "surtitre": "Domaines d'actions"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032695923",
               "num": "3.1",
               "intOrdre": 2621435,
@@ -325,6 +322,7 @@
               "surtitre": "Embauche"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032695924",
               "num": "3.2",
               "intOrdre": 3145722,
@@ -333,6 +331,7 @@
               "surtitre": "Formation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032695925",
               "num": "3.3",
               "intOrdre": 3670009,
@@ -341,6 +340,7 @@
               "surtitre": "Promotion professionnelle"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032695926",
               "num": "3.4",
               "intOrdre": 4194296,
@@ -349,6 +349,7 @@
               "surtitre": "Qualification et classification"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032695927",
               "num": "3.5",
               "intOrdre": 4718583,
@@ -357,6 +358,7 @@
               "surtitre": "Conditions de travail"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032695928",
               "num": "3.6",
               "intOrdre": 5242870,
@@ -365,6 +367,7 @@
               "surtitre": "Sécurité et santé au travail"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032695929",
               "num": "3.7",
               "intOrdre": 5767157,
@@ -373,6 +376,7 @@
               "surtitre": "Rémunération effective"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032695930",
               "num": "3.8",
               "intOrdre": 6291444,
@@ -381,6 +385,7 @@
               "surtitre": "Articulation entre activité professionnelle et exercice de la responsabilité familiale"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032695932",
               "num": "4",
               "intOrdre": 6815731,
@@ -389,6 +394,7 @@
               "surtitre": "Bilan et suivi de la mise en œuvre de l'accord"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032695933",
               "num": "5",
               "intOrdre": 7340018,
@@ -397,6 +403,7 @@
               "surtitre": "Formalités administratives"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032695935",
               "num": "6",
               "intOrdre": 7864305,
@@ -405,6 +412,7 @@
               "surtitre": "Entrée en vigueur"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032695936",
               "num": "7",
               "intOrdre": 8388592,
@@ -412,292 +420,22 @@
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Révision et dénonciation"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000032695916",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000032695938",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'>Les parties signataires affirment, par le présent accord, leur volonté d'inscrire le principe d'égalité professionnelle entre les femmes et les hommes, tout au long de la vie professionnelle, comme étant source de complémentarité et un facteur d'enrichissement collectif, de cohésion sociale et d'efficacité économique pour les entreprises.</p><p align='left'>Cet accord a pour objet de s'inscrire dans le cadre de l'égalité professionnelle et la qualité de vie au travail.</p><p align='left'>L'égalité entre les femmes et les hommes est un principe fort que les partenaires sociaux s'engagent à inscrire dans les relations individuelles et collectives du travail. Ils constatent, d'après le rapport de la situation comparée de la branche (données sociales 2015), que les femmes représentent 42 % des salariés.</p><p align='left'>Les partenaires sociaux remarquent en outre que certains emplois sont fortement féminisés ou masculinisés, conséquence le plus souvent de représentations socioculturelles, de logiques structurelles dans les orientations scolaires et dans les formations initiales, de comportements managériaux relevant de ces représentations comme de comportements qui dépassent le cadre du travail.</p><p align='left'>Par le biais du présent accord, les partenaires sociaux visent :</p><p align='left'>– l'information des entreprises, des salariés et de leurs représentants, sur l'enjeu de l'égalité entre les femmes et les hommes ;<br/>\n– la sensibilisation des acteurs de l'entreprise au sujet de l'égalité professionnelle qui passe notamment par l'identification des stéréotypes sexistes et des représentations que peuvent avoir les hommes et les femmes dans leur parcours professionnel ;<br/>\n– la promotion de la mixité et l'égalité professionnelle au sein des entreprises afin de sensibiliser les salarié(e)s sur cette question et susciter une évolution des mentalités ;<br/>\n– la prise en compte de la parentalité dans le cadre professionnel, les modalités de départ et de retour de congés maternité/parentaux, pour prendre en compte les objectifs de carrière.</p><p align='left'>Les signataires du présent accord conviennent de mener une politique globale et d'agir sur les neuf domaines d'actions suivants :</p><p align='left'>– embauche ;<br/>\n– formation ;<br/>\n– promotion professionnelle ;<br/>\n– qualification ;<br/>\n– classification ;<br/>\n– conditions de travail ;<br/>\n– sécurité et santé au travail ;<br/>\n– rémunération effective ;<br/>\n– articulation entre activité professionnelle et exercice de la responsabilité familiale.</p><p></p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
           ]
         },
         {
-          "id": "KALITEXT000032452731",
-          "title": "Accord du 29 septembre 2014 relatif à la désignation de l'OPCA",
-          "dateParution": 1461628800000,
-          "articles": [
-            {
-              "id": "KALIARTI000032452735",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'>Le présent accord s'applique aux entreprises relevant du champ de la <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000026277387&categorieLien=cid'>convention collective nationale de la coopération maritime du 7 décembre 2004</a> (étendue par arrêté du 12 décembre 2007, Journal officiel du 18 décembre 2007, applicable à compter du 1er janvier 2005).<br/></p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Champ d'application"
-            },
-            {
-              "id": "KALIARTI000032452736",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Les parties signataires désignent AGEFOS-PME comme organisme paritaire collecteur agréé (OPCA) de la branche.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Organisme paritaire collecteur agréé"
-            },
-            {
-              "id": "KALIARTI000032452737",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='center'><br/>3.1. Durée. – Dépôt. – Entrée en vigueur </p><p align='left'><br/>Le présent accord est conclu pour une durée indéterminée. Il prend effet à compter de sa signature, sous réserve de l'agrément de l'AGEFOS-PME en tant qu'OPCA de la branche. <br/>Toutefois, les entreprises qui ne cotisent pas à l'AGEFOS-PME à la date de signature du présent accord bénéficient d'un délai supplémentaire pour y adhérer. Elles devront verser leur contribution à l'AGEFOS-PME, au plus tard pour la collecte effectuée au titre du troisième exercice plein, suivant la date d'extension du présent accord. <br/>Conformément à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>article L. 2231-6 du code du travail</a>, il sera déposé auprès du greffe du conseil des prud'hommes du lieu de sa signature et auprès des services centraux du ministère chargé du travail par le secrétariat de la commission paritaire. <br/>Son extension sera demandée auprès de la direction générale du travail. </p><p align='center'><br/><i>3.2. Révision</i> <a shape='rect' href='#RENVOI_KALIARTI000032452737_1'> (1)</a></p><p align='left'><br/>Chaque syndicat signataire ou adhérent peut demander la révision de tout ou partie du présent accord selon les modalités suivantes : <br/>– toute demande de révision doit être adressée par lettre recommandée avec avis de réception à chacun des autres signataires ou adhérents et comporter, outre l'indication des dispositions dont la révision est demandée, des propositions de remplacement ; <br/>– le plus rapidement possible et au plus tard dans un délai de 3 mois suivant la réception de cette lettre, les parties devront ouvrir une négociation en vue de la conclusion éventuelle d'un nouveau texte ; <br/>– les dispositions de l'accord dont la révision est demandée resteront en vigueur jusqu'à la conclusion d'un nouvel accord. A défaut d'accord dans un délai de 12 mois à compter de la demande de révision, cette dernière deviendra caduque ; <br/>– sous réserve de l'exercice du droit d'opposition dans les conditions prévues par la loi, les dispositions de l'avenant portant révision se substitueront de plein droit à celles de l'accord qu'elles modifient et seront opposables à l'ensemble des employeurs et des salariés liés par l'accord, soit à la date qui aura été expressément convenue, soit, à défaut, à partir du jour de son extension par les services compétents. </p><p align='center'><br/>3.3. Dénonciation </p><p align='left'><br/>Le présent accord pourra être dénoncé conformément à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901668&dateTexte=&categorieLien=cid'>article L. 2222-6 du code du travail</a>. <br/>La dénonciation sera notifiée par lettre recommandée avec avis de réception à chacun des autres signataires ou adhérents et déposée par la partie la plus diligente auprès des services du ministère du travail et du secrétariat-greffe des prud'hommes. <br/>Lorsque l'accord a été dénoncé par la totalité des signataires (ou adhérents) employeurs ou la totalité des signataires (ou adhérents) salariés, la dénonciation entraîne l'obligation pour tous les signataires ou adhérents de se réunir le plus rapidement possible, et au plus tard dans un délai de 3 mois suivant la réception de la lettre de dénonciation, en vue de déterminer le calendrier des négociations. <br/>L'accord continue de produire effet au plus pendant 12 mois à compter de l'expiration du préavis de 3 mois. Si un nouvel accord est signé dans ce délai de 12 mois suivant l'expiration du préavis, les dispositions du nouvel accord se substitueront intégralement à l'accord dénoncé.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000032452737_1'></a>(1) L'article 3.2 est étendu sous réserve de l'application des dispositions des articles L. 2231-1 et L. 2261-7 du code du travail, telles qu'interprétées par la jurisprudence de la Cour de cassation.  <br/>(Arrêté du 24 mai 2016 - art. 1)</em></font></p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Durée. – Formalités. – Révision. – Dénonciation"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000032452734",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000032452740",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>La désignation d'AGEFOS-PME par la branche professionnelle de la coopération maritime est considérée par les signataires comme un moyen essentiel au service de la stratégie de la branche, et plus largement de la « filière maritime », en matière de formation et de gestion des compétences.</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000030786101",
-          "title": "Avenant n° 13 du 23 février 2015 relatif au travail à temps partiel",
-          "dateParution": 1435536000000,
-          "articles": [
-            {
-              "id": "KALIARTI000030786105",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>L'article 17 de la convention est modifié comme suit : </p><p align='center'><br/>« Article 17 <br/>Temps partiel </p><p align='left'><br/>Les employeurs pourront occuper de façon permanente du personnel travaillant à temps partiel, c'est-à-dire effectuant un horaire de travail inférieur à la durée légale ou conventionnelle du travail. <br/>En application de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000027550512&dateTexte=&categorieLien=cid'>article L. 3123-14-3 du code du travail</a>, pour tenir compte des particularités des structures relevant de la présente convention, il a été convenu de réduire la durée minimale prévue à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000027550508&dateTexte=&categorieLien=cid'>article L. 3123-14-1 du code du travail</a>. <br/>Cette durée minimale peut être fixée à 7 heures par semaine pour les catégories d'emplois suivantes : agent d'entretien et de nettoyage et personnel de vente. Toutefois, à la demande du salarié, cette durée pourra être fixée à un seuil inférieur, sous réserve qu'il atteste occuper d'autres emplois lui permettant d'atteindre un nombre minimum de 7 heures de travail par semaine. <br/>Pour les autres catégories d'emplois non visées au paragraphe qui précède, la durée du travail pourra être inférieure à 24 heures. Le contrat de travail devra prévoir une fixation régulière des horaires de travail sur la semaine ou sur le mois. Les horaires de travail seront regroupés sur des demi-journées ou des journées complètes de travail définies au contrat de travail, afin de permettre au salarié concerné d'occuper un ou plusieurs autres emplois. <br/>Ce personnel bénéficiera d'un contrat écrit à durée indéterminée ou déterminée précisant les horaires de travail et la répartition de la durée du travail, conformément aux dispositions légales. <br/>L'employeur pourra demander au salarié d'exécuter des heures complémentaires dans les limites qui auront été prévues au contrat, en respectant un délai de prévenance de 3 jours, sauf accord exprès de l'intéressé ou circonstances exceptionnelles. <br/>Le salarié pourra toutefois être dispensé d'exécuter les heures complémentaires s'il justifie, dès qu'il est informé de la demande d'exécution d'heures complémentaires, avoir une autre activité salariée rendant impossible l'exécution de ces heures. <br/>Le nombre d'heures complémentaires ne peut être supérieur à 1/3 de la durée hebdomadaire ou mensuelle prévue au contrat, ni avoir pour effet de porter la durée hebdomadaire du travail ou, le cas échéant, mensuelle au-delà de la durée légale ou conventionnelle du travail. <br/>Les heures complémentaires réalisées seront majorées de 10 %, y compris celles comprises entre 10 % et 1/3 de l'horaire contractuel. <br/>Le refus d'accomplir des heures complémentaires demandées par l'employeur ne constitue pas une faute pour le salarié s'il a été informé de la demande moins de 3 jours à l'avance. <br/>Compte tenu de la durée de leur travail et de leur ancienneté dans l'entreprise, la rémunération des salariés employés à temps partiel est proportionnelle à celle des salariés qui, à qualifications égales, occupent à temps complet un emploi équivalent dans l'établissement ou l'entreprise. <br/>Les salariés employés à temps partiel bénéficieront des droits reconnus aux salariés à temps complet par la loi, les conventions et les accords collectifs d'entreprise. »</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000030786108",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Il est créé un article 17 ter rédigé comme suit : </p><p align='center'><br/>« Article 17 ter <br/>Complément d'heures </p><p align='left'><br/>Il est possible, d'un commun accord entre l'employeur et le salarié, d'établir par voie d'avenant au contrat de travail un complément d'heures de travail venant s'ajouter temporairement à l'horaire contractuel, afin notamment de permettre de faire face à un surcroît de travail, de remplacer un salarié absent ou pour des besoins liés à la saison. <br/>Le nombre d'heures de travail objet du complément ne pourra avoir pour effet d'excéder la durée légale du travail. <br/>Dans ce cas, l'avenant au contrat de travail devra préciser la nouvelle répartition des horaires sur la semaine ou sur le mois ainsi que la durée d'application du complément d'heures. <br/>Le nombre maximum d'avenants conclus avec le même salarié ne pourra excéder 8 par an, sauf cas de remplacement d'un salarié absent nommément désigné. <br/>Les heures de travail effectuées dans le cadre de ce complément d'heures ne donneront pas lieu à majoration du taux horaire à fonctions égales. <br/>Les salariés à temps partiel souhaitant obtenir un complément d'heures bénéficieront d'une priorité dans l'hypothèse où l'entreprise aurait recours au complément d'heures sur un poste similaire à celui des salariés concernés. <br/>Les salariés intéressés devront faire connaître à leur employeur leur souhait de bénéficier de cette priorité au début de chaque année civile. Ils y seront invités par voie d'affichage par l'employeur. »</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000030786109",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Les parties signataires décident de demander l'extension du présent avenant.</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000030786110",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Le présent avenant prendra effet dès la publication de l'arrêté d'extension.</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000030786111",
-              "num": "5",
-              "intOrdre": 3145722,
-              "content": "<p align='left'><br/>Le présent avenant sera déposé par la partie diligente, conformément aux dispositions légales.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000030786104",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000030786112",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>Les signataires de la convention collective nationale de la coopération maritime se sont réunis afin de négocier la grille des salaires minima applicable en 2014.<br/>Par ailleurs, la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000027546648&categorieLien=cid'>loi n° 2013-504 du 14 juin 2013</a> relative à la sécurisation de l'emploi ayant réformé les règles d'organisation du travail à temps partiel et incité les partenaires sociaux à négocier notamment la durée minimale de travail des salariés à temps partiel, ceux-ci ont décidé ce qui suit :</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000026277513",
-          "title": "Avenant n° 9 du 24 janvier 2012 relatif aux classifications et aux salaires au 1er janvier 2012",
-          "dateParution": 32472144000000,
-          "articles": [
-            {
-              "id": "KALIARTI000026277516",
-              "num": "1er",
-              "intOrdre": 524287,
-              "content": "<p align='left'><br/><a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000026277387&idArticle=KALIARTI000026277460&categorieLien=cid'>L'article 51 </a>de la convention collective nationale de la coopération maritime mention « Définition des postes » paragraphe 1 « Ouvriers-employés » est modifié comme suit : </p><p align='center'><br/>« Comptabilité </p><p align='left'><div align='center'><center><table border='1'><tr><th>Fonction </th><th>Niveau </th><th>Echelon </th></tr><tr><td align='center'>Aide-comptable, secrétaire comptable <br/>Aide-comptable qualifié : assure la tenue des livres, contrôle et ajuste les balances intermédiaires. </td><td align='center'>II </td><td align='center'>1 </td></tr><tr><td align='center'><br/></td><td align='center'><br/></td><td align='center'>2 </td></tr><tr><td align='center'>Comptable : assure, sous le contrôle de l'expert-comptable, la tenue de l'ensemble de la comptabilité jusqu'aux écritures de bilan. </td><td align='center'><br/></td><td align='center'>1 </td></tr><tr><td align='center'>Comptable qualifié : assure, sous le contrôle de l'expert comptable, la tenue de l'ensemble de la comptabilité jusqu'aux écritures de bilan ; encadre une ou plusieurs personnes de son service. </td><td align='center'>III </td><td align='center'>2 </td></tr><tr><td align='center'>Comptable confirmé : possède des compétences de comptable qualifié et dispose d'une expérience reconnue en matière fiscale, sociale et informatique. </td><td align='center'><br/></td><td align='center'>3</td></tr></table></center></div></p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000026277518",
-              "num": "2",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>La grille des salaires minima figurant à l'<a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000026277387&idArticle=KALIARTI000026277428&categorieLien=cid'>annexe I </a>et applicable au 1er janvier 2012 est définie comme suit : </p><p align='center'><br/>« Annexe I <br/>Grille de salaires minima applicable au 1er janvier 2012 </p><p align='center'><br/>Ouvriers, employés </p><p align='right'><br/>(En euros.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>Niveau </th><th>Echelon </th><th>Salaire </th></tr><tr><td align='center'>I </td><td align='center'>1 </td><td align='center'>16 781 </td></tr><tr><td align='center'><br/></td><td align='center'>2 </td><td align='center'>17 005 </td></tr><tr><td align='center'>II </td><td align='center'>1 </td><td align='center'>17 836 </td></tr><tr><td align='center'><br/></td><td align='center'>2 </td><td align='center'>18 966 </td></tr><tr><td align='center'>III </td><td align='center'>1 </td><td align='center'>19 651 </td></tr><tr><td align='center'><br/></td><td align='center'>2 </td><td align='center'>20 889 </td></tr><tr><td align='center'><br/></td><td align='center'>3 </td><td align='center'>21 666 </td></tr></table></center></div></p><p align='center'><br/>Agents de maîtrise </p><p align='right'><br/>(En euros.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>Niveau </th><th>Salaire </th></tr><tr><td align='center'>IV </td><td align='center'>22 443 </td></tr><tr><td align='center'>V </td><td align='center'>26 309 </td></tr></table></center></div></p><p align='center'><br/>Cadres </p><p align='right'><br/>(En euros.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>Niveau </th><th>Coefficient </th><th>Salaire </th></tr><tr><td align='center'>VI </td><td align='center'>A (moins de 3 ans dans la fonction) </td><td align='center'>27 370 </td></tr><tr><td align='center'><br/></td><td align='center'>B (plus de 3 ans dans la fonction) </td><td align='center'>30 791 </td></tr><tr><td align='center'>VII </td><td align='center'>A (moins de 3 ans dans la fonction) </td><td align='center'>29 650 </td></tr><tr><td align='center'><br/></td><td align='center'>B (plus de 3 ans dans la fonction) </td><td align='center'>33 868 </td></tr><tr><td align='center'>VIII </td><td align='center'><br/></td><td align='center'>37 632 </td></tr><tr><td align='center'>IX </td><td align='center'><br/></td><td align='center'>42 764</td></tr></table></center></div></p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000026277519",
-              "num": "3",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Le présent accord prendra effet dès sa signature.</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000026277520",
-              "num": "4",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Les parties signataires décident de demander l'extension du présent avenant.</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000026277521",
-              "num": "5",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Le présent avenant sera déposé par la partie diligente conformément aux dispositions légales.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000032489173",
+          "type": "section",
           "title": "Avenant n° 14 du 5 novembre 2015 relatif au régime frais de santé",
-          "dateParution": 1462320000000,
-          "articles": [
+          "id": "KALITEXT000032489173",
+          "children": [
             {
-              "id": "KALIARTI000032489177",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br clear='none'/>Le présent avenant est applicable à l'ensemble des entreprises relevant du champ d'application de la  convention collective nationale de la coopération maritime du 7 décembre 2004 .</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Champ d'application"
-            },
-            {
-              "id": "KALIARTI000032489178",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Le régime conventionnel frais de santé se compose d'un régime unique sur la base d'un tarif uniforme : ce régime couvre le salarié et ses ayants droit moyennant une cotisation unique.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Architecture du régime conventionnel frais de santé"
-            },
-            {
-              "id": "KALIARTI000032489179",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Les dispositions du présent avenant s'appliquent obligatoirement à tous les salariés relevant de son champ d'application, sans condition d'ancienneté.<br/>Il s'applique également aux anciens salariés des entreprises visées à l'article 1er ci-dessus qui bénéficient de la portabilité du régime frais de santé.</p><p align='center'><br/>Dispense d'affiliation</p><p align='left'><br/>Toutefois, par dérogation au caractère obligatoire, peuvent être dispensés d'affiliation au présent régime les salariés visés à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000025130566&dateTexte=&categorieLien=cid'>article R. 242-1-6 du code de la sécurité sociale</a>. A titre informatif, à la date de signature du présent avenant, l'article précité vise les cas de dispense suivants :<br/>– les salariés et apprentis bénéficiaires d'un contrat à durée déterminée ou d'un contrat de mission d'une durée au moins égale à 12 mois, à condition de justifier par écrit en produisant tous documents d'une couverture individuelle souscrite par ailleurs pour le même type de garanties ;<br/>– les salariés et apprentis bénéficiaires d'un contrat à durée déterminée ou d'un contrat de mission d'une durée inférieure à 12 mois, même s'ils ne bénéficient pas d'une couverture individuelle souscrite par ailleurs ;<br/>– les salariés à temps partiel et apprentis dont l'adhésion au système de garanties les conduirait à s'acquitter d'une cotisation au moins égale à 10 % de leur rémunération brute ;<br/>– les salariés bénéficiaires d'une couverture complémentaire en application de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745383&dateTexte=&categorieLien=cid'>article L. 861-3 du code de la sécurité sociale</a> ou d'une aide à l'acquisition d'une complémentaire santé en application de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745456&dateTexte=&categorieLien=cid'>article L. 863-1 du code de la sécurité sociale</a>. La dispense ne peut alors jouer que jusqu'à la date à laquelle les salariés cessent de bénéficier de cette couverture ou de cette aide ;<br/>– les salariés couverts par une assurance individuelle de frais de santé au moment de la mise en place des garanties ou de l'embauche si elle est postérieure. La dispense ne peut alors jouer que jusqu'à échéance du contrat individuel ;<br/>– les salariés qui bénéficient par ailleurs, y compris en tant qu'ayants droit, d'une couverture collective relevant d'un dispositif de prévoyance complémentaire conforme à un de ceux fixés par arrêté du ministre chargé de la sécurité sociale, à condition de le justifier chaque année.<br/>Dans tous les cas, l'employeur doit être en mesure de produire la demande de dispense des salariés concernés. Outre la volonté du salarié d'être dispensé, cette demande doit comporter la mention selon laquelle le salarié a été préalablement informé par l'employeur des conséquences de son choix.<br/>La mise en œuvre d'un de ces cas de dispense ne peut avoir lieu que sur demande expresse formulée dans le mois par le salarié concerné, qui devra produire chaque année à l'entreprise adhérente les justificatifs permettant de vérifier que les conditions nécessaires pour bénéficier de la dispense d'affiliation sont remplies.<br/>Dans les cas de dispense d'affiliation précités, les cotisations correspondantes ne sont dues ni par le salarié ni par l'entreprise adhérente.<br/>Le salarié qui ne remplit plus les conditions requises à la dispense d'affiliation doit en informer son entreprise. Il doit alors obligatoirement être affilié au présent régime à compter du premier jour du mois civil suivant.<br/>Les employeurs pourront mettre en place des régimes sans cas de dispense d'affiliation possibles ou prévoyant seulement certains des cas de dispense mentionnés ci-dessus, sous réserve, bien entendu, de respecter le formalisme requis par l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745462&dateTexte=&categorieLien=cid'>article L. 911-1 du code de la sécurité sociale</a>.<br/>A titre informatif, cet article, dans sa version en vigueur au jour de la rédaction du présent avenant, dispose que les garanties doivent être déterminées soit par voie de conventions ou d'accords collectifs, soit à la suite de la ratification à la majorité des intéressés d'un projet d'accord proposé par le chef d'entreprise, soit par une décision unilatérale du chef d'entreprise constatée dans un écrit remis par celui-ci à chaque intéressé.</p><p align='center'><br/>Définition des ayants droit</p><p align='left'><br/>Pour le bénéfice des garanties du régime, les ayants droit sont définis comme suit :<br/>Conjoint : par conjoint, il faut entendre la personne mariée avec le (la) salarié(e) et non séparée de droit.<br/>Sont assimilés au conjoint le cocontractant d'un Pacs ainsi que le concubin.<br/>Cocontractant d'un Pacs : par cocontractant d'un Pacs, il faut entendre la personne ayant conclu un pacte civil de solidarité (Pacs) avec le (la) salarié(e).<br/>Concubin : par concubin, il faut entendre la personne vivant en concubinage selon les dispositions de l'article L. 515-8 du code civil avec le (la) salarié(e), sous réserve que le (la) salarié(e) soit libre au regard de l'état civil de tout lien de mariage ou de Pacs.<br/>Enfants à charge :<br/>Par enfants à charge, il faut entendre :<br/>– les enfants du salarié (légitimes, adoptés ou reconnus, nés) ;<br/>– les enfants qu'il a recueillis et pour lesquels la qualité de tuteur lui est reconnue ;<br/>– les enfants dont la qualité d'ayant droit du salarié aura été reconnue par le régime de base de la sécurité sociale,<br/>dès lors que ces enfants remplissent l'une des conditions suivantes :<br/>Il convient de préciser l'âge qui sera retenu si les enfants ne poursuivent pas d'études. Par conséquent, il faut ajouter :<br/>– être âgés de moins de 26 ans et, s'ils travaillent, que leur rémunération n'excède pas 55 % du Smic ;<br/>– être âgés de moins de 28 ans, sous réserve qu'ils poursuivent leurs études ou qu'ils soient apprentis ;<br/>– quel que soit leur âge, lorsqu'ils sont invalides au sens de la législation sociale, si l'état d'invalidité a été constaté avant leur 21e anniversaire.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000032489179_1'></a>(1) Article étendu sous réserve de l'application des dispositions des articles L. 911-7 et D. 911-2 et suivants du code de la sécurité sociale dans leur rédaction issue de l'article 34 de la loi n° 2015-1702 du 21 décembre 2015 de financement de la sécurité sociale pour 2016 et son décret d'application du 30 décembre 2015.<br/>  <br/>(Arrêté du 6 février 2017 - art. 1)</em></font></p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Salariés bénéficiaires"
-            },
-            {
-              "id": "KALIARTI000032489185",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Le régime conventionnel frais de santé s'inscrit dans le cadre du dispositif législatif relatif aux contrats dits « responsables ».<br/>En tout état de cause, les garanties du présent régime seront automatiquement adaptées en fonction des évolutions législatives et réglementaires régissant les garanties des contrats dits « responsables ».<br/>Le tableau reprenant le niveau des garanties minimales est joint en annexe. Il est établi sous réserve des évolutions réglementaires liées aux réformes notamment des contrats responsables pouvant intervenir postérieurement à la conclusion du présent avenant.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Garanties"
-            },
-            {
-              "id": "KALIARTI000032489186",
-              "num": "5",
-              "intOrdre": 3145722,
-              "content": "<p align='center'><br/>Taux de cotisation</p><p align='left'><br/>Les garanties du régime conventionnel frais de santé sont accordées moyennant le paiement d'une cotisation dont le taux est défini ci-après.<br/>Les taux de cotisation sont exprimés en pourcentage du plafond mensuel de la sécurité sociale (PMSS). (A titre informatif, le PMSS 2015 est de 3 170 €.)<br/>Les cotisations mensuelles totales (salarié et employeur) sont les suivantes :<br/>– personnel non cadre : 4,28 % ;<br/>– personnel cadre : 5,68 %.<br/>Les tarifs comprennent le maintien de la garantie frais de santé au titre de la portabilité.</p><p align='center'><br/>Révision du taux de cotisation</p><p align='left'><br/>Toute modification de la réglementation pourra donner lieu à des modifications tarifaires qui feront l'objet d'un avenant au présent avenant, après analyse par la commission paritaire de suivi.<br/>Au-delà de la première année de fonctionnement du régime, les résultats techniques du régime présentés par l'organisme assureur détermineront les taux de cotisation applicables.</p><p align='center'><br/>Répartition du taux de cotisation</p><p align='left'><br/>Les cotisations sont réparties à hauteur de 60 % à la charge de l'employeur et de 40 % à la charge du salarié.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000032489186_2'></a>(2) Article étendu sous réserve de l'application des dispositions de l'article D. 911-1-1 du code de la sécurité sociale.<br/>  <br/>(Arrêté du 6 février 2017 - art. 1)</em></font></p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Cotisations"
-            },
-            {
-              "id": "KALIARTI000032489187",
-              "num": "6",
-              "intOrdre": 3670009,
-              "content": "<p align='center'><br/>Suspension du contrat de travail donnant lieu à indemnisation</p><p align='left'><br/>Les garanties du présent régime sont maintenues au profit des salariés dont le contrat de travail est suspendu pour la période au titre de laquelle ils bénéficient d'un maintien de salaire, total ou partiel, ou d'indemnités journalières complémentaires financées au moins pour partie par l'employeur.<br/>La participation patronale doit alors être versée au profit des salariés absents, sauf si le régime prévoit un maintien de garantie gratuit.<br/>Cette participation patronale est calculée selon les règles prévues par le régime.<br/>Le salarié devra également acquitter la part salariale calculée selon les règles prévues par le régime, sauf si le maintien de garantie est gratuit.</p><p align='center'><br/>Suspension du contrat de travail ne donnant pas lieu à indemnisation</p><p align='left'><br/>Les salariés dont le contrat de travail est suspendu sans maintien total ou partiel de salaire, ni d'indemnités journalières le cas échéant, financées au moins pour partie par l'employeur, ne bénéficient plus des garanties prévues par le présent régime, et ce pendant la durée de la suspension non rémunérée et non indemnisée.<br/>Pour autant le salarié pourra demander le maintien de sa garantie frais de santé à l'organisme assureur, sous réserve qu'il s'acquitte de la totalité de la cotisation (part patronale et part salariale).</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Cas de suspension du contrat de travail"
-            },
-            {
-              "id": "KALIARTI000032489188",
-              "num": "7",
-              "intOrdre": 4194296,
-              "content": "<p align='left'><br/>Les salariés bénéficient des dispositions légales sur le maintien des garanties de protection sociale complémentaire (portabilité) en cas de cessation du contrat de travail, non consécutive à une faute lourde, ouvrant droit à une prise en charge par le régime de l'assurance chômage. <br/>Les dispositions prévues au présent article sont celles en vigueur au jour de la signature du présent avenant. Elles sont rappelées à titre purement informatif. Par conséquent, si la réglementation relative à la portabilité était amenée à évoluer, les entreprises devraient s'y conformer, sans qu'une révision du présent avenant ne soit nécessaire. </p><p align='center'><br/>Bénéficiaires </p><p align='left'><br/>Continuent à bénéficier de la garantie frais de santé qui les couvrait en tant qu'actifs les anciens salariés relevant du champ d'application du présent avenant, dont le contrat de travail a été rompu et remplissant les conditions suivantes : <br/>– être indemnisés par le régime de l'assurance chômage et le justifier auprès de l'organisme assureur ; <br/>– avoir été affiliés et bénéficier de la garantie frais de santé avant la rupture du contrat de travail par le présent régime. <br/>Le bénéfice de cette couverture est étendu aux ayants droit de l'ancien salarié, sous réserve que ces derniers étaient déjà couverts avant la rupture du contrat de travail. </p><p align='center'><br/>Ouverture et durée des droits à portabilité </p><p align='left'><br/>L'ancien salarié bénéficie des prestations de la garantie frais de santé au titre de la portabilité à compter de la rupture effective de son contrat de travail. <br/>La durée du maintien de la garantie frais de santé est égale à la durée du dernier contrat de travail de l'ancien salarié ou, le cas échéant, des derniers contrats de travail de l'intéressé lorsqu'ils sont consécutifs dans l'entreprise adhérente, dans la limite de 12 mois. <br/>Cette durée est appréciée en mois, le cas échéant arrondie au nombre supérieur, dans la limite maximale de 12 mois. </p><p align='center'><br/><i>Cessation de la portabilité</i> <a shape='rect' href='#RENVOI_KALIARTI000032489188_3'> (3)</a></p><p align='left'><br/>Le maintien de la garantie frais de santé cesse, au plus tard, 12 mois après la date de rupture du contrat de travail et en tout état de cause : <br/>– à la fin de la durée de maintien à laquelle l'ancien salarié a droit si elle est inférieure à 12 mois ; <br/>– à la date de reprise d'une activité professionnelle par l'ancien salarié ; <br/>– à la date de cessation du versement des allocations chômage ; <br/>– à la date de liquidation de la pension d'assurance vieillesse du régime de base, y compris pour inaptitude au travail. <br/>En cas de changement d'organisme assureur, le nouvel assureur prendra en charge les bénéficiaires de la portabilité à compter de la date d'effet du nouveau contrat collectif.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000032489188_3'></a>(3) Paragraphe étendu sous réserve de l'application des dispositions de l'article L. 911-8 du code de la sécurité sociale.  <br/>(Arrêté du 6 février 2017 - art. 1)</em></font></p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Maintien de la garantie frais de santé au titre de la portabilité des droits"
-            },
-            {
-              "id": "KALIARTI000032489189",
-              "num": "8",
-              "intOrdre": 4718583,
-              "content": "<p align='left'><br/>En application de l'<a alt='lien vers un document Legifrance' href='/affichTexteArticle.do?cidTexte=JORFTEXT000000709057&idArticle=LEGIARTI000006756598&dateTexte=&categorieLien=cid'>article 4 de la loi n° 89-1009 du 31 décembre 1989</a> renforçant les garanties offertes aux personnes assurées contre certains risques (loi Evin), les salariés dont le contrat de travail est rompu et le cas échéant ses ayants droit, et qui répondent à l'une des conditions visées ci-dessous, pourront demander le maintien de leur garantie frais de santé, dans le cadre d'une adhésion à un contrat individuel, sans questionnaire ou examen médicaux ni période probatoire.<br/>Sont visés par cette disposition les salariés dont le contrat de travail est rompu et qui bénéficient :<br/>– d'une rente d'incapacité ou d'invalidité ;<br/>– ou d'une pension de retraite ;<br/>– ou, s'ils sont privés d'emploi, d'un revenu de remplacement.<br/>Sont également visés les ayants droit d'un salarié décédé, lesquels peuvent demander le maintien de la garantie santé pendant une durée minimale de 12 mois.<br/>La demande de maintien de la garantie frais de santé doit être réalisée par l'ancien salarié dans les 6 mois suivant la rupture du contrat de travail ou suivant l'expiration de la période de maintien de la garantie frais de santé au titre de la portabilité des droits.<br/>Les ayants droit d'un salarié décédé disposent d'un délai de 6 mois suivant le décès du salarié pour demander le maintien de leur garantie.<br/>L'<a alt='lien vers un document Legifrance' href='/affichTexteArticle.do?cidTexte=JORFTEXT000000350253&idArticle=LEGIARTI000006775110&dateTexte=&categorieLien=cid'>article 1er du décret n° 90-769 du 30 août 1990</a> précise que les tarifs relatifs à ce maintien de la garantie frais de santé ne pourront être supérieurs de plus de 50 % à la cotisation totale payée par l'employeur et le salarié.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Maintien de la garantie frais de santé au titre de l'article 4 de la loi Evin"
-            },
-            {
-              "id": "KALIARTI000032489192",
-              "num": "9",
-              "intOrdre": 5242870,
-              "content": "<p align='left'><br/>Il est institué au sein de la branche professionnelle une commission paritaire de gestion du régime frais de santé.</p><p align='center'><br/>Composition</p><p align='left'><br/>La commission paritaire de gestion du régime frais de santé est composée de membres désignés par les organisations représentatives dans le champ d'application de l'avenant :<br/>– un collège salariés comprenant un représentant pour chacune des organisations représentatives ;<br/>– un collège employeurs du même nombre total de représentants.</p><p align='center'><br/>Rôles</p><p align='left'><br/>La commission paritaire de gestion du régime frais de santé a compétence pour examiner et traiter toutes questions relatives au fonctionnement du régime frais de santé institué par l'avenant :<br/>– application de l'avenant frais de santé ;<br/>– examen des litiges éventuels résultant de cette application, conciliation ;<br/>– examen des comptes annuels ;<br/>– propositions d'ajustement et d'amélioration des dispositions de l'avenant : garanties, fonctionnement ;<br/>– suivi de la mise en conformité des contrats existants.<br/>En cas de litiges relatifs à l'application des dispositions de l'avenant, elle pourra être saisie afin d'interpréter et d'arrêter un avis sur les dossiers qui lui seront soumis.</p><p align='center'><br/>Réunions</p><p align='left'><br/>La commission paritaire de gestion du régime frais de santé se réunit au moins une fois par an.<br/>Les convocations sont adressées par le secrétariat du paritarisme en liaison avec les organismes désignés. Les convocations sont adressées au moins 15 jours à l'avance et sont accompagnées des documents de gestion liés à l'ordre du jour.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Commission paritaire de gestion du régime frais de santé"
-            },
-            {
-              "id": "KALIARTI000032489193",
-              "num": "10",
-              "intOrdre": 5767157,
-              "content": "<p align='left'><br/>Le présent avenant, dont les parties signataires demandent l'extension, sera établi et déposé selon les formalités prévues à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>article L. 2231-6 du code du travail</a>.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Formalités administratives"
-            },
-            {
-              "id": "KALIARTI000032489195",
-              "num": "11",
-              "intOrdre": 6291444,
-              "content": "<p align='left'><br/>Le présent avenant est conclu pour une durée indéterminée et entrera en vigueur le premier jour du mois qui suit la publication de son arrêté d'extension au Journal officiel.<br/>Les partenaires signataires incitent les employeurs disposant, au jour de l'entrée en vigueur du présent avenant, d'un régime frais de santé mis en place selon les <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745462&dateTexte=&categorieLien=cid'>dispositions de l'article L. 911-1 du code de la sécurité sociale</a> et comprenant des garanties d'un niveau au moins équivalent (apprécié pour chaque risque) à celui défini dans le présent avenant à maintenir leur régime.<br/>En revanche, si le niveau des garanties mises en place (pour chaque risque) par l'employeur est inférieur à celui de celles définies dans le présent avenant, ce dernier devra les rendre conformes au présent avenant au plus tard dans le délai de 4 mois suivant son entrée en vigueur. Ce délai n'exonérera pas l'employeur de son obligation de respecter, dès le 1er janvier 2016, les dispositions résultant de la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000027546648&categorieLien=cid'>loi n° 2013-504 du 14 juin 2013</a>.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Entrée en vigueur"
-            },
-            {
-              "id": "KALIARTI000032489198",
-              "num": "12",
-              "intOrdre": 6815731,
-              "content": "<p align='left'><br/>Le présent avenant pourra être révisé ou dénoncé dans les conditions prévues par le code du ­travail.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Révision et dénonciation"
-            },
-            {
-              "id": "KALIARTI000032489199",
-              "num": "13",
-              "intOrdre": 7340018,
-              "content": "<p align='left'><br/>Le présent avenant sera déposé dans les conditions prévues par le <a alt='lien vers un document Legifrance' href='/affichCode.do?cidTexte=LEGITEXT000006072050&dateTexte=&categorieLien=cid'>code du travail</a>.<br/>Les parties signataires sont convenues de demander sans délai l'extension du présent accord.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Dépôt et demande d'extension"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000032489176",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000032489176",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032489202",
                   "num": null,
                   "intOrdre": 524287,
@@ -707,12 +445,14 @@
               ]
             },
             {
-              "id": "KALISCTA000032489201",
+              "type": "section",
               "intOrdre": 7864305,
               "title": "Annexe",
+              "id": "KALISCTA000032489201",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032489204",
                   "num": null,
                   "intOrdre": 524287,
@@ -720,15 +460,350 @@
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032489177",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br clear='none'/>Le présent avenant est applicable à l'ensemble des entreprises relevant du champ d'application de la  convention collective nationale de la coopération maritime du 7 décembre 2004 .</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Champ d'application"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032489178",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Le régime conventionnel frais de santé se compose d'un régime unique sur la base d'un tarif uniforme : ce régime couvre le salarié et ses ayants droit moyennant une cotisation unique.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Architecture du régime conventionnel frais de santé"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032489179",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Les dispositions du présent avenant s'appliquent obligatoirement à tous les salariés relevant de son champ d'application, sans condition d'ancienneté.<br/>Il s'applique également aux anciens salariés des entreprises visées à l'article 1er ci-dessus qui bénéficient de la portabilité du régime frais de santé.</p><p align='center'><br/>Dispense d'affiliation</p><p align='left'><br/>Toutefois, par dérogation au caractère obligatoire, peuvent être dispensés d'affiliation au présent régime les salariés visés à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000025130566&dateTexte=&categorieLien=cid'>article R. 242-1-6 du code de la sécurité sociale</a>. A titre informatif, à la date de signature du présent avenant, l'article précité vise les cas de dispense suivants :<br/>– les salariés et apprentis bénéficiaires d'un contrat à durée déterminée ou d'un contrat de mission d'une durée au moins égale à 12 mois, à condition de justifier par écrit en produisant tous documents d'une couverture individuelle souscrite par ailleurs pour le même type de garanties ;<br/>– les salariés et apprentis bénéficiaires d'un contrat à durée déterminée ou d'un contrat de mission d'une durée inférieure à 12 mois, même s'ils ne bénéficient pas d'une couverture individuelle souscrite par ailleurs ;<br/>– les salariés à temps partiel et apprentis dont l'adhésion au système de garanties les conduirait à s'acquitter d'une cotisation au moins égale à 10 % de leur rémunération brute ;<br/>– les salariés bénéficiaires d'une couverture complémentaire en application de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745383&dateTexte=&categorieLien=cid'>article L. 861-3 du code de la sécurité sociale</a> ou d'une aide à l'acquisition d'une complémentaire santé en application de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745456&dateTexte=&categorieLien=cid'>article L. 863-1 du code de la sécurité sociale</a>. La dispense ne peut alors jouer que jusqu'à la date à laquelle les salariés cessent de bénéficier de cette couverture ou de cette aide ;<br/>– les salariés couverts par une assurance individuelle de frais de santé au moment de la mise en place des garanties ou de l'embauche si elle est postérieure. La dispense ne peut alors jouer que jusqu'à échéance du contrat individuel ;<br/>– les salariés qui bénéficient par ailleurs, y compris en tant qu'ayants droit, d'une couverture collective relevant d'un dispositif de prévoyance complémentaire conforme à un de ceux fixés par arrêté du ministre chargé de la sécurité sociale, à condition de le justifier chaque année.<br/>Dans tous les cas, l'employeur doit être en mesure de produire la demande de dispense des salariés concernés. Outre la volonté du salarié d'être dispensé, cette demande doit comporter la mention selon laquelle le salarié a été préalablement informé par l'employeur des conséquences de son choix.<br/>La mise en œuvre d'un de ces cas de dispense ne peut avoir lieu que sur demande expresse formulée dans le mois par le salarié concerné, qui devra produire chaque année à l'entreprise adhérente les justificatifs permettant de vérifier que les conditions nécessaires pour bénéficier de la dispense d'affiliation sont remplies.<br/>Dans les cas de dispense d'affiliation précités, les cotisations correspondantes ne sont dues ni par le salarié ni par l'entreprise adhérente.<br/>Le salarié qui ne remplit plus les conditions requises à la dispense d'affiliation doit en informer son entreprise. Il doit alors obligatoirement être affilié au présent régime à compter du premier jour du mois civil suivant.<br/>Les employeurs pourront mettre en place des régimes sans cas de dispense d'affiliation possibles ou prévoyant seulement certains des cas de dispense mentionnés ci-dessus, sous réserve, bien entendu, de respecter le formalisme requis par l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745462&dateTexte=&categorieLien=cid'>article L. 911-1 du code de la sécurité sociale</a>.<br/>A titre informatif, cet article, dans sa version en vigueur au jour de la rédaction du présent avenant, dispose que les garanties doivent être déterminées soit par voie de conventions ou d'accords collectifs, soit à la suite de la ratification à la majorité des intéressés d'un projet d'accord proposé par le chef d'entreprise, soit par une décision unilatérale du chef d'entreprise constatée dans un écrit remis par celui-ci à chaque intéressé.</p><p align='center'><br/>Définition des ayants droit</p><p align='left'><br/>Pour le bénéfice des garanties du régime, les ayants droit sont définis comme suit :<br/>Conjoint : par conjoint, il faut entendre la personne mariée avec le (la) salarié(e) et non séparée de droit.<br/>Sont assimilés au conjoint le cocontractant d'un Pacs ainsi que le concubin.<br/>Cocontractant d'un Pacs : par cocontractant d'un Pacs, il faut entendre la personne ayant conclu un pacte civil de solidarité (Pacs) avec le (la) salarié(e).<br/>Concubin : par concubin, il faut entendre la personne vivant en concubinage selon les dispositions de l'article L. 515-8 du code civil avec le (la) salarié(e), sous réserve que le (la) salarié(e) soit libre au regard de l'état civil de tout lien de mariage ou de Pacs.<br/>Enfants à charge :<br/>Par enfants à charge, il faut entendre :<br/>– les enfants du salarié (légitimes, adoptés ou reconnus, nés) ;<br/>– les enfants qu'il a recueillis et pour lesquels la qualité de tuteur lui est reconnue ;<br/>– les enfants dont la qualité d'ayant droit du salarié aura été reconnue par le régime de base de la sécurité sociale,<br/>dès lors que ces enfants remplissent l'une des conditions suivantes :<br/>Il convient de préciser l'âge qui sera retenu si les enfants ne poursuivent pas d'études. Par conséquent, il faut ajouter :<br/>– être âgés de moins de 26 ans et, s'ils travaillent, que leur rémunération n'excède pas 55 % du Smic ;<br/>– être âgés de moins de 28 ans, sous réserve qu'ils poursuivent leurs études ou qu'ils soient apprentis ;<br/>– quel que soit leur âge, lorsqu'ils sont invalides au sens de la législation sociale, si l'état d'invalidité a été constaté avant leur 21e anniversaire.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000032489179_1'></a>(1) Article étendu sous réserve de l'application des dispositions des articles L. 911-7 et D. 911-2 et suivants du code de la sécurité sociale dans leur rédaction issue de l'article 34 de la loi n° 2015-1702 du 21 décembre 2015 de financement de la sécurité sociale pour 2016 et son décret d'application du 30 décembre 2015.<br/>  <br/>(Arrêté du 6 février 2017 - art. 1)</em></font></p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Salariés bénéficiaires"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032489185",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Le régime conventionnel frais de santé s'inscrit dans le cadre du dispositif législatif relatif aux contrats dits « responsables ».<br/>En tout état de cause, les garanties du présent régime seront automatiquement adaptées en fonction des évolutions législatives et réglementaires régissant les garanties des contrats dits « responsables ».<br/>Le tableau reprenant le niveau des garanties minimales est joint en annexe. Il est établi sous réserve des évolutions réglementaires liées aux réformes notamment des contrats responsables pouvant intervenir postérieurement à la conclusion du présent avenant.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Garanties"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032489186",
+              "num": "5",
+              "intOrdre": 3145722,
+              "content": "<p align='center'><br/>Taux de cotisation</p><p align='left'><br/>Les garanties du régime conventionnel frais de santé sont accordées moyennant le paiement d'une cotisation dont le taux est défini ci-après.<br/>Les taux de cotisation sont exprimés en pourcentage du plafond mensuel de la sécurité sociale (PMSS). (A titre informatif, le PMSS 2015 est de 3 170 €.)<br/>Les cotisations mensuelles totales (salarié et employeur) sont les suivantes :<br/>– personnel non cadre : 4,28 % ;<br/>– personnel cadre : 5,68 %.<br/>Les tarifs comprennent le maintien de la garantie frais de santé au titre de la portabilité.</p><p align='center'><br/>Révision du taux de cotisation</p><p align='left'><br/>Toute modification de la réglementation pourra donner lieu à des modifications tarifaires qui feront l'objet d'un avenant au présent avenant, après analyse par la commission paritaire de suivi.<br/>Au-delà de la première année de fonctionnement du régime, les résultats techniques du régime présentés par l'organisme assureur détermineront les taux de cotisation applicables.</p><p align='center'><br/>Répartition du taux de cotisation</p><p align='left'><br/>Les cotisations sont réparties à hauteur de 60 % à la charge de l'employeur et de 40 % à la charge du salarié.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000032489186_2'></a>(2) Article étendu sous réserve de l'application des dispositions de l'article D. 911-1-1 du code de la sécurité sociale.<br/>  <br/>(Arrêté du 6 février 2017 - art. 1)</em></font></p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Cotisations"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032489187",
+              "num": "6",
+              "intOrdre": 3670009,
+              "content": "<p align='center'><br/>Suspension du contrat de travail donnant lieu à indemnisation</p><p align='left'><br/>Les garanties du présent régime sont maintenues au profit des salariés dont le contrat de travail est suspendu pour la période au titre de laquelle ils bénéficient d'un maintien de salaire, total ou partiel, ou d'indemnités journalières complémentaires financées au moins pour partie par l'employeur.<br/>La participation patronale doit alors être versée au profit des salariés absents, sauf si le régime prévoit un maintien de garantie gratuit.<br/>Cette participation patronale est calculée selon les règles prévues par le régime.<br/>Le salarié devra également acquitter la part salariale calculée selon les règles prévues par le régime, sauf si le maintien de garantie est gratuit.</p><p align='center'><br/>Suspension du contrat de travail ne donnant pas lieu à indemnisation</p><p align='left'><br/>Les salariés dont le contrat de travail est suspendu sans maintien total ou partiel de salaire, ni d'indemnités journalières le cas échéant, financées au moins pour partie par l'employeur, ne bénéficient plus des garanties prévues par le présent régime, et ce pendant la durée de la suspension non rémunérée et non indemnisée.<br/>Pour autant le salarié pourra demander le maintien de sa garantie frais de santé à l'organisme assureur, sous réserve qu'il s'acquitte de la totalité de la cotisation (part patronale et part salariale).</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Cas de suspension du contrat de travail"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032489188",
+              "num": "7",
+              "intOrdre": 4194296,
+              "content": "<p align='left'><br/>Les salariés bénéficient des dispositions légales sur le maintien des garanties de protection sociale complémentaire (portabilité) en cas de cessation du contrat de travail, non consécutive à une faute lourde, ouvrant droit à une prise en charge par le régime de l'assurance chômage. <br/>Les dispositions prévues au présent article sont celles en vigueur au jour de la signature du présent avenant. Elles sont rappelées à titre purement informatif. Par conséquent, si la réglementation relative à la portabilité était amenée à évoluer, les entreprises devraient s'y conformer, sans qu'une révision du présent avenant ne soit nécessaire. </p><p align='center'><br/>Bénéficiaires </p><p align='left'><br/>Continuent à bénéficier de la garantie frais de santé qui les couvrait en tant qu'actifs les anciens salariés relevant du champ d'application du présent avenant, dont le contrat de travail a été rompu et remplissant les conditions suivantes : <br/>– être indemnisés par le régime de l'assurance chômage et le justifier auprès de l'organisme assureur ; <br/>– avoir été affiliés et bénéficier de la garantie frais de santé avant la rupture du contrat de travail par le présent régime. <br/>Le bénéfice de cette couverture est étendu aux ayants droit de l'ancien salarié, sous réserve que ces derniers étaient déjà couverts avant la rupture du contrat de travail. </p><p align='center'><br/>Ouverture et durée des droits à portabilité </p><p align='left'><br/>L'ancien salarié bénéficie des prestations de la garantie frais de santé au titre de la portabilité à compter de la rupture effective de son contrat de travail. <br/>La durée du maintien de la garantie frais de santé est égale à la durée du dernier contrat de travail de l'ancien salarié ou, le cas échéant, des derniers contrats de travail de l'intéressé lorsqu'ils sont consécutifs dans l'entreprise adhérente, dans la limite de 12 mois. <br/>Cette durée est appréciée en mois, le cas échéant arrondie au nombre supérieur, dans la limite maximale de 12 mois. </p><p align='center'><br/><i>Cessation de la portabilité</i> <a shape='rect' href='#RENVOI_KALIARTI000032489188_3'> (3)</a></p><p align='left'><br/>Le maintien de la garantie frais de santé cesse, au plus tard, 12 mois après la date de rupture du contrat de travail et en tout état de cause : <br/>– à la fin de la durée de maintien à laquelle l'ancien salarié a droit si elle est inférieure à 12 mois ; <br/>– à la date de reprise d'une activité professionnelle par l'ancien salarié ; <br/>– à la date de cessation du versement des allocations chômage ; <br/>– à la date de liquidation de la pension d'assurance vieillesse du régime de base, y compris pour inaptitude au travail. <br/>En cas de changement d'organisme assureur, le nouvel assureur prendra en charge les bénéficiaires de la portabilité à compter de la date d'effet du nouveau contrat collectif.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000032489188_3'></a>(3) Paragraphe étendu sous réserve de l'application des dispositions de l'article L. 911-8 du code de la sécurité sociale.  <br/>(Arrêté du 6 février 2017 - art. 1)</em></font></p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Maintien de la garantie frais de santé au titre de la portabilité des droits"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032489189",
+              "num": "8",
+              "intOrdre": 4718583,
+              "content": "<p align='left'><br/>En application de l'<a alt='lien vers un document Legifrance' href='/affichTexteArticle.do?cidTexte=JORFTEXT000000709057&idArticle=LEGIARTI000006756598&dateTexte=&categorieLien=cid'>article 4 de la loi n° 89-1009 du 31 décembre 1989</a> renforçant les garanties offertes aux personnes assurées contre certains risques (loi Evin), les salariés dont le contrat de travail est rompu et le cas échéant ses ayants droit, et qui répondent à l'une des conditions visées ci-dessous, pourront demander le maintien de leur garantie frais de santé, dans le cadre d'une adhésion à un contrat individuel, sans questionnaire ou examen médicaux ni période probatoire.<br/>Sont visés par cette disposition les salariés dont le contrat de travail est rompu et qui bénéficient :<br/>– d'une rente d'incapacité ou d'invalidité ;<br/>– ou d'une pension de retraite ;<br/>– ou, s'ils sont privés d'emploi, d'un revenu de remplacement.<br/>Sont également visés les ayants droit d'un salarié décédé, lesquels peuvent demander le maintien de la garantie santé pendant une durée minimale de 12 mois.<br/>La demande de maintien de la garantie frais de santé doit être réalisée par l'ancien salarié dans les 6 mois suivant la rupture du contrat de travail ou suivant l'expiration de la période de maintien de la garantie frais de santé au titre de la portabilité des droits.<br/>Les ayants droit d'un salarié décédé disposent d'un délai de 6 mois suivant le décès du salarié pour demander le maintien de leur garantie.<br/>L'<a alt='lien vers un document Legifrance' href='/affichTexteArticle.do?cidTexte=JORFTEXT000000350253&idArticle=LEGIARTI000006775110&dateTexte=&categorieLien=cid'>article 1er du décret n° 90-769 du 30 août 1990</a> précise que les tarifs relatifs à ce maintien de la garantie frais de santé ne pourront être supérieurs de plus de 50 % à la cotisation totale payée par l'employeur et le salarié.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Maintien de la garantie frais de santé au titre de l'article 4 de la loi Evin"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032489192",
+              "num": "9",
+              "intOrdre": 5242870,
+              "content": "<p align='left'><br/>Il est institué au sein de la branche professionnelle une commission paritaire de gestion du régime frais de santé.</p><p align='center'><br/>Composition</p><p align='left'><br/>La commission paritaire de gestion du régime frais de santé est composée de membres désignés par les organisations représentatives dans le champ d'application de l'avenant :<br/>– un collège salariés comprenant un représentant pour chacune des organisations représentatives ;<br/>– un collège employeurs du même nombre total de représentants.</p><p align='center'><br/>Rôles</p><p align='left'><br/>La commission paritaire de gestion du régime frais de santé a compétence pour examiner et traiter toutes questions relatives au fonctionnement du régime frais de santé institué par l'avenant :<br/>– application de l'avenant frais de santé ;<br/>– examen des litiges éventuels résultant de cette application, conciliation ;<br/>– examen des comptes annuels ;<br/>– propositions d'ajustement et d'amélioration des dispositions de l'avenant : garanties, fonctionnement ;<br/>– suivi de la mise en conformité des contrats existants.<br/>En cas de litiges relatifs à l'application des dispositions de l'avenant, elle pourra être saisie afin d'interpréter et d'arrêter un avis sur les dossiers qui lui seront soumis.</p><p align='center'><br/>Réunions</p><p align='left'><br/>La commission paritaire de gestion du régime frais de santé se réunit au moins une fois par an.<br/>Les convocations sont adressées par le secrétariat du paritarisme en liaison avec les organismes désignés. Les convocations sont adressées au moins 15 jours à l'avance et sont accompagnées des documents de gestion liés à l'ordre du jour.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Commission paritaire de gestion du régime frais de santé"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032489193",
+              "num": "10",
+              "intOrdre": 5767157,
+              "content": "<p align='left'><br/>Le présent avenant, dont les parties signataires demandent l'extension, sera établi et déposé selon les formalités prévues à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>article L. 2231-6 du code du travail</a>.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Formalités administratives"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032489195",
+              "num": "11",
+              "intOrdre": 6291444,
+              "content": "<p align='left'><br/>Le présent avenant est conclu pour une durée indéterminée et entrera en vigueur le premier jour du mois qui suit la publication de son arrêté d'extension au Journal officiel.<br/>Les partenaires signataires incitent les employeurs disposant, au jour de l'entrée en vigueur du présent avenant, d'un régime frais de santé mis en place selon les <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745462&dateTexte=&categorieLien=cid'>dispositions de l'article L. 911-1 du code de la sécurité sociale</a> et comprenant des garanties d'un niveau au moins équivalent (apprécié pour chaque risque) à celui défini dans le présent avenant à maintenir leur régime.<br/>En revanche, si le niveau des garanties mises en place (pour chaque risque) par l'employeur est inférieur à celui de celles définies dans le présent avenant, ce dernier devra les rendre conformes au présent avenant au plus tard dans le délai de 4 mois suivant son entrée en vigueur. Ce délai n'exonérera pas l'employeur de son obligation de respecter, dès le 1er janvier 2016, les dispositions résultant de la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000027546648&categorieLien=cid'>loi n° 2013-504 du 14 juin 2013</a>.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Entrée en vigueur"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032489198",
+              "num": "12",
+              "intOrdre": 6815731,
+              "content": "<p align='left'><br/>Le présent avenant pourra être révisé ou dénoncé dans les conditions prévues par le code du ­travail.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Révision et dénonciation"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032489199",
+              "num": "13",
+              "intOrdre": 7340018,
+              "content": "<p align='left'><br/>Le présent avenant sera déposé dans les conditions prévues par le <a alt='lien vers un document Legifrance' href='/affichCode.do?cidTexte=LEGITEXT000006072050&dateTexte=&categorieLien=cid'>code du travail</a>.<br/>Les parties signataires sont convenues de demander sans délai l'extension du présent accord.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Dépôt et demande d'extension"
             }
           ]
         },
         {
-          "id": "KALITEXT000023375084",
-          "title": "Avenant n° 5 du 17 décembre 2009 relatif aux classifications",
-          "dateParution": 1294272000000,
-          "articles": [
+          "type": "section",
+          "title": "Accord du 29 septembre 2014 relatif à la désignation de l'OPCA",
+          "id": "KALITEXT000032452731",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000032452734",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000032452740",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'><br/>La désignation d'AGEFOS-PME par la branche professionnelle de la coopération maritime est considérée par les signataires comme un moyen essentiel au service de la stratégie de la branche, et plus largement de la « filière maritime », en matière de formation et de gestion des compétences.</p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032452735",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'>Le présent accord s'applique aux entreprises relevant du champ de la <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000026277387&categorieLien=cid'>convention collective nationale de la coopération maritime du 7 décembre 2004</a> (étendue par arrêté du 12 décembre 2007, Journal officiel du 18 décembre 2007, applicable à compter du 1er janvier 2005).<br/></p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Champ d'application"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032452736",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Les parties signataires désignent AGEFOS-PME comme organisme paritaire collecteur agréé (OPCA) de la branche.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Organisme paritaire collecteur agréé"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032452737",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='center'><br/>3.1. Durée. – Dépôt. – Entrée en vigueur </p><p align='left'><br/>Le présent accord est conclu pour une durée indéterminée. Il prend effet à compter de sa signature, sous réserve de l'agrément de l'AGEFOS-PME en tant qu'OPCA de la branche. <br/>Toutefois, les entreprises qui ne cotisent pas à l'AGEFOS-PME à la date de signature du présent accord bénéficient d'un délai supplémentaire pour y adhérer. Elles devront verser leur contribution à l'AGEFOS-PME, au plus tard pour la collecte effectuée au titre du troisième exercice plein, suivant la date d'extension du présent accord. <br/>Conformément à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>article L. 2231-6 du code du travail</a>, il sera déposé auprès du greffe du conseil des prud'hommes du lieu de sa signature et auprès des services centraux du ministère chargé du travail par le secrétariat de la commission paritaire. <br/>Son extension sera demandée auprès de la direction générale du travail. </p><p align='center'><br/><i>3.2. Révision</i> <a shape='rect' href='#RENVOI_KALIARTI000032452737_1'> (1)</a></p><p align='left'><br/>Chaque syndicat signataire ou adhérent peut demander la révision de tout ou partie du présent accord selon les modalités suivantes : <br/>– toute demande de révision doit être adressée par lettre recommandée avec avis de réception à chacun des autres signataires ou adhérents et comporter, outre l'indication des dispositions dont la révision est demandée, des propositions de remplacement ; <br/>– le plus rapidement possible et au plus tard dans un délai de 3 mois suivant la réception de cette lettre, les parties devront ouvrir une négociation en vue de la conclusion éventuelle d'un nouveau texte ; <br/>– les dispositions de l'accord dont la révision est demandée resteront en vigueur jusqu'à la conclusion d'un nouvel accord. A défaut d'accord dans un délai de 12 mois à compter de la demande de révision, cette dernière deviendra caduque ; <br/>– sous réserve de l'exercice du droit d'opposition dans les conditions prévues par la loi, les dispositions de l'avenant portant révision se substitueront de plein droit à celles de l'accord qu'elles modifient et seront opposables à l'ensemble des employeurs et des salariés liés par l'accord, soit à la date qui aura été expressément convenue, soit, à défaut, à partir du jour de son extension par les services compétents. </p><p align='center'><br/>3.3. Dénonciation </p><p align='left'><br/>Le présent accord pourra être dénoncé conformément à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901668&dateTexte=&categorieLien=cid'>article L. 2222-6 du code du travail</a>. <br/>La dénonciation sera notifiée par lettre recommandée avec avis de réception à chacun des autres signataires ou adhérents et déposée par la partie la plus diligente auprès des services du ministère du travail et du secrétariat-greffe des prud'hommes. <br/>Lorsque l'accord a été dénoncé par la totalité des signataires (ou adhérents) employeurs ou la totalité des signataires (ou adhérents) salariés, la dénonciation entraîne l'obligation pour tous les signataires ou adhérents de se réunir le plus rapidement possible, et au plus tard dans un délai de 3 mois suivant la réception de la lettre de dénonciation, en vue de déterminer le calendrier des négociations. <br/>L'accord continue de produire effet au plus pendant 12 mois à compter de l'expiration du préavis de 3 mois. Si un nouvel accord est signé dans ce délai de 12 mois suivant l'expiration du préavis, les dispositions du nouvel accord se substitueront intégralement à l'accord dénoncé.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000032452737_1'></a>(1) L'article 3.2 est étendu sous réserve de l'application des dispositions des articles L. 2231-1 et L. 2261-7 du code du travail, telles qu'interprétées par la jurisprudence de la Cour de cassation.  <br/>(Arrêté du 24 mai 2016 - art. 1)</em></font></p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Durée. – Formalités. – Révision. – Dénonciation"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 13 du 23 février 2015 relatif au travail à temps partiel",
+          "id": "KALITEXT000030786101",
+          "children": [
+            {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000030786104",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000030786112",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'><br/>Les signataires de la convention collective nationale de la coopération maritime se sont réunis afin de négocier la grille des salaires minima applicable en 2014.<br/>Par ailleurs, la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000027546648&categorieLien=cid'>loi n° 2013-504 du 14 juin 2013</a> relative à la sécurisation de l'emploi ayant réformé les règles d'organisation du travail à temps partiel et incité les partenaires sociaux à négocier notamment la durée minimale de travail des salariés à temps partiel, ceux-ci ont décidé ce qui suit :</p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030786105",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>L'article 17 de la convention est modifié comme suit : </p><p align='center'><br/>« Article 17 <br/>Temps partiel </p><p align='left'><br/>Les employeurs pourront occuper de façon permanente du personnel travaillant à temps partiel, c'est-à-dire effectuant un horaire de travail inférieur à la durée légale ou conventionnelle du travail. <br/>En application de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000027550512&dateTexte=&categorieLien=cid'>article L. 3123-14-3 du code du travail</a>, pour tenir compte des particularités des structures relevant de la présente convention, il a été convenu de réduire la durée minimale prévue à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000027550508&dateTexte=&categorieLien=cid'>article L. 3123-14-1 du code du travail</a>. <br/>Cette durée minimale peut être fixée à 7 heures par semaine pour les catégories d'emplois suivantes : agent d'entretien et de nettoyage et personnel de vente. Toutefois, à la demande du salarié, cette durée pourra être fixée à un seuil inférieur, sous réserve qu'il atteste occuper d'autres emplois lui permettant d'atteindre un nombre minimum de 7 heures de travail par semaine. <br/>Pour les autres catégories d'emplois non visées au paragraphe qui précède, la durée du travail pourra être inférieure à 24 heures. Le contrat de travail devra prévoir une fixation régulière des horaires de travail sur la semaine ou sur le mois. Les horaires de travail seront regroupés sur des demi-journées ou des journées complètes de travail définies au contrat de travail, afin de permettre au salarié concerné d'occuper un ou plusieurs autres emplois. <br/>Ce personnel bénéficiera d'un contrat écrit à durée indéterminée ou déterminée précisant les horaires de travail et la répartition de la durée du travail, conformément aux dispositions légales. <br/>L'employeur pourra demander au salarié d'exécuter des heures complémentaires dans les limites qui auront été prévues au contrat, en respectant un délai de prévenance de 3 jours, sauf accord exprès de l'intéressé ou circonstances exceptionnelles. <br/>Le salarié pourra toutefois être dispensé d'exécuter les heures complémentaires s'il justifie, dès qu'il est informé de la demande d'exécution d'heures complémentaires, avoir une autre activité salariée rendant impossible l'exécution de ces heures. <br/>Le nombre d'heures complémentaires ne peut être supérieur à 1/3 de la durée hebdomadaire ou mensuelle prévue au contrat, ni avoir pour effet de porter la durée hebdomadaire du travail ou, le cas échéant, mensuelle au-delà de la durée légale ou conventionnelle du travail. <br/>Les heures complémentaires réalisées seront majorées de 10 %, y compris celles comprises entre 10 % et 1/3 de l'horaire contractuel. <br/>Le refus d'accomplir des heures complémentaires demandées par l'employeur ne constitue pas une faute pour le salarié s'il a été informé de la demande moins de 3 jours à l'avance. <br/>Compte tenu de la durée de leur travail et de leur ancienneté dans l'entreprise, la rémunération des salariés employés à temps partiel est proportionnelle à celle des salariés qui, à qualifications égales, occupent à temps complet un emploi équivalent dans l'établissement ou l'entreprise. <br/>Les salariés employés à temps partiel bénéficieront des droits reconnus aux salariés à temps complet par la loi, les conventions et les accords collectifs d'entreprise. »</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030786108",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Il est créé un article 17 ter rédigé comme suit : </p><p align='center'><br/>« Article 17 ter <br/>Complément d'heures </p><p align='left'><br/>Il est possible, d'un commun accord entre l'employeur et le salarié, d'établir par voie d'avenant au contrat de travail un complément d'heures de travail venant s'ajouter temporairement à l'horaire contractuel, afin notamment de permettre de faire face à un surcroît de travail, de remplacer un salarié absent ou pour des besoins liés à la saison. <br/>Le nombre d'heures de travail objet du complément ne pourra avoir pour effet d'excéder la durée légale du travail. <br/>Dans ce cas, l'avenant au contrat de travail devra préciser la nouvelle répartition des horaires sur la semaine ou sur le mois ainsi que la durée d'application du complément d'heures. <br/>Le nombre maximum d'avenants conclus avec le même salarié ne pourra excéder 8 par an, sauf cas de remplacement d'un salarié absent nommément désigné. <br/>Les heures de travail effectuées dans le cadre de ce complément d'heures ne donneront pas lieu à majoration du taux horaire à fonctions égales. <br/>Les salariés à temps partiel souhaitant obtenir un complément d'heures bénéficieront d'une priorité dans l'hypothèse où l'entreprise aurait recours au complément d'heures sur un poste similaire à celui des salariés concernés. <br/>Les salariés intéressés devront faire connaître à leur employeur leur souhait de bénéficier de cette priorité au début de chaque année civile. Ils y seront invités par voie d'affichage par l'employeur. »</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030786109",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Les parties signataires décident de demander l'extension du présent avenant.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030786110",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Le présent avenant prendra effet dès la publication de l'arrêté d'extension.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030786111",
+              "num": "5",
+              "intOrdre": 3145722,
+              "content": "<p align='left'><br/>Le présent avenant sera déposé par la partie diligente, conformément aux dispositions légales.</p>",
+              "etat": "VIGUEUR_ETEN"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 9 du 24 janvier 2012 relatif aux classifications et aux salaires au 1er janvier 2012",
+          "id": "KALITEXT000026277513",
+          "children": [
+            {
+              "type": "article",
+              "id": "KALIARTI000026277516",
+              "num": "1er",
+              "intOrdre": 524287,
+              "content": "<p align='left'><br/><a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000026277387&idArticle=KALIARTI000026277460&categorieLien=cid'>L'article 51 </a>de la convention collective nationale de la coopération maritime mention « Définition des postes » paragraphe 1 « Ouvriers-employés » est modifié comme suit : </p><p align='center'><br/>« Comptabilité </p><p align='left'><div align='center'><center><table border='1'><tr><th>Fonction </th><th>Niveau </th><th>Echelon </th></tr><tr><td align='center'>Aide-comptable, secrétaire comptable <br/>Aide-comptable qualifié : assure la tenue des livres, contrôle et ajuste les balances intermédiaires. </td><td align='center'>II </td><td align='center'>1 </td></tr><tr><td align='center'><br/></td><td align='center'><br/></td><td align='center'>2 </td></tr><tr><td align='center'>Comptable : assure, sous le contrôle de l'expert-comptable, la tenue de l'ensemble de la comptabilité jusqu'aux écritures de bilan. </td><td align='center'><br/></td><td align='center'>1 </td></tr><tr><td align='center'>Comptable qualifié : assure, sous le contrôle de l'expert comptable, la tenue de l'ensemble de la comptabilité jusqu'aux écritures de bilan ; encadre une ou plusieurs personnes de son service. </td><td align='center'>III </td><td align='center'>2 </td></tr><tr><td align='center'>Comptable confirmé : possède des compétences de comptable qualifié et dispose d'une expérience reconnue en matière fiscale, sociale et informatique. </td><td align='center'><br/></td><td align='center'>3</td></tr></table></center></div></p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000026277518",
+              "num": "2",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>La grille des salaires minima figurant à l'<a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000026277387&idArticle=KALIARTI000026277428&categorieLien=cid'>annexe I </a>et applicable au 1er janvier 2012 est définie comme suit : </p><p align='center'><br/>« Annexe I <br/>Grille de salaires minima applicable au 1er janvier 2012 </p><p align='center'><br/>Ouvriers, employés </p><p align='right'><br/>(En euros.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>Niveau </th><th>Echelon </th><th>Salaire </th></tr><tr><td align='center'>I </td><td align='center'>1 </td><td align='center'>16 781 </td></tr><tr><td align='center'><br/></td><td align='center'>2 </td><td align='center'>17 005 </td></tr><tr><td align='center'>II </td><td align='center'>1 </td><td align='center'>17 836 </td></tr><tr><td align='center'><br/></td><td align='center'>2 </td><td align='center'>18 966 </td></tr><tr><td align='center'>III </td><td align='center'>1 </td><td align='center'>19 651 </td></tr><tr><td align='center'><br/></td><td align='center'>2 </td><td align='center'>20 889 </td></tr><tr><td align='center'><br/></td><td align='center'>3 </td><td align='center'>21 666 </td></tr></table></center></div></p><p align='center'><br/>Agents de maîtrise </p><p align='right'><br/>(En euros.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>Niveau </th><th>Salaire </th></tr><tr><td align='center'>IV </td><td align='center'>22 443 </td></tr><tr><td align='center'>V </td><td align='center'>26 309 </td></tr></table></center></div></p><p align='center'><br/>Cadres </p><p align='right'><br/>(En euros.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>Niveau </th><th>Coefficient </th><th>Salaire </th></tr><tr><td align='center'>VI </td><td align='center'>A (moins de 3 ans dans la fonction) </td><td align='center'>27 370 </td></tr><tr><td align='center'><br/></td><td align='center'>B (plus de 3 ans dans la fonction) </td><td align='center'>30 791 </td></tr><tr><td align='center'>VII </td><td align='center'>A (moins de 3 ans dans la fonction) </td><td align='center'>29 650 </td></tr><tr><td align='center'><br/></td><td align='center'>B (plus de 3 ans dans la fonction) </td><td align='center'>33 868 </td></tr><tr><td align='center'>VIII </td><td align='center'><br/></td><td align='center'>37 632 </td></tr><tr><td align='center'>IX </td><td align='center'><br/></td><td align='center'>42 764</td></tr></table></center></div></p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000026277519",
+              "num": "3",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Le présent accord prendra effet dès sa signature.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000026277520",
+              "num": "4",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Les parties signataires décident de demander l'extension du présent avenant.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000026277521",
+              "num": "5",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Le présent avenant sera déposé par la partie diligente conformément aux dispositions légales.</p>",
+              "etat": "VIGUEUR_ETEN"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 6 du 9 février 2011 portant modification du champ d'application",
+          "id": "KALITEXT000024408438",
+          "children": [
+            {
+              "type": "article",
+              "id": "KALIARTI000024408441",
+              "num": "1er",
+              "intOrdre": 524287,
+              "content": "<p align='left'><br/>Le champ d'application défini par l'article 1er de la convention collective nationale de la coopération maritime est modifié comme suit : </p><p align='center'><br/>« Article 1er <br/>Champ d'application </p><p align='left'><br/>La présente convention collective, conclue conformément aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901797&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-19 du code du travail</a>, règle pour l'ensemble du territoire national métropolitain ainsi que pour les départements d'outre-mer sous réserve des dispositions d'ordre public qui y sont appliquées, les rapports entre les salariés et les employeurs relevant des activités suivantes : </p><p align='left'><br/>– les coopératives maritimes régies par la loi du 20 juillet 1983 et exerçant une activité d'avitaillement, d'armement, de gestion, de mareyage, de cultures marines, de conserverie, de mécanique et plus généralement aux coopératives exerçant une activité dans le domaine maritime ; <br/>– les organisations de production de pêche et cultures marines ; <br/>– les sociétés, quelle que soit leur forme juridique dont le capital est détenu directement ou indirectement, majoritairement par une ou plusieurs coopératives maritimes, et exerçant une activité dans l'un des domaines susvisés ; <br/>– les structures juridiques suivantes et leurs filiales dont l'activité est principalement liée à celle des coopératives maritimes et de leurs sociétaires : <br/>– les associations régionales de développement économique des coopératives maritimes (ARDECOM) ; <br/>– la coopération maritime et ses filiales ; <br/>– le centre de gestion de la pêche artisanale (CGPA) ; <br/>– l'association pour l'investissement et le développement de la pêche artisanale (ASSIDEPA) ; <br/>– CECOMER et ses filiales ; <br/>– les organismes de gestion et de comptabilité affiliés à la coopération maritime. <br/>Elle s'applique à l'ensemble des salariés non navigants, cadres et non cadres. »</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000024408443",
+              "num": "2",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>Il est ajouté un 2e alinéa à l'article 35 : <br/>« Les structures nouvellement créées rentrant dans le champ d'application de la présente convention sont invitées à se rapprocher de l'association de prévoyance maritime APMAR 2000 pour la mise en place des régimes de retraite complémentaire cadre et non cadre. »</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000024408445",
+              "num": "3",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>L'alinéa 2 de l'article 36 de la convention collective est modifié comme suit : <br/>« Les structures relevant du champ d'application de la présente convention appliquent majoritairement le régime géré par l'union de coopératives maritimes Le Littoral. » <br/>L'alinéa 3 est modifié comme suit : <br/>« Les structures qui entreront dans le champ d'application de la présente convention et qui n'auraient pas souscrit un tel régime sont invitées à se rapprocher de l'union de coopératives maritimes Le Littoral pour la mise en place de ces garanties. »</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000024408448",
+              "num": "4",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Le présent accord prendra effet dès sa signature.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000024408449",
+              "num": "5",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Les parties signataires décident de demander l'extension du présent avenant.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000024408450",
+              "num": "6",
+              "intOrdre": 3145722,
+              "content": "<p align='left'><br/>Le présent avenant sera déposé par la partie la plus diligente conformément aux dispositions légales.</p>",
+              "etat": "VIGUEUR_ETEN"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 5 du 17 décembre 2009 relatif aux classifications",
+          "id": "KALITEXT000023375084",
+          "children": [
+            {
+              "type": "article",
               "id": "KALIARTI000023375087",
               "num": "1er",
               "intOrdre": 524287,
@@ -736,6 +811,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023375088",
               "num": "2",
               "intOrdre": 1048574,
@@ -743,6 +819,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023375089",
               "num": "3",
               "intOrdre": 1572861,
@@ -750,6 +827,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023375090",
               "num": "4",
               "intOrdre": 2097148,
@@ -757,6 +835,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023375091",
               "num": "5",
               "intOrdre": 2621435,
@@ -764,6 +843,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023375092",
               "num": "6",
               "intOrdre": 3145722,
@@ -773,11 +853,12 @@
           ]
         },
         {
-          "id": "KALITEXT000021041166",
+          "type": "section",
           "title": "Avenant n° 4 bis du 1er juillet 2009 relatif au champ d'application",
-          "dateParution": 1253059200000,
-          "articles": [
+          "id": "KALITEXT000021041166",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000021041169",
               "num": null,
               "intOrdre": 524287,
@@ -785,6 +866,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000021041172",
               "num": "1",
               "intOrdre": 1048574,
@@ -792,6 +874,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000021041174",
               "num": "2",
               "intOrdre": 1572861,
@@ -799,6 +882,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000021041177",
               "num": "3",
               "intOrdre": 2097148,
@@ -806,6 +890,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000021041180",
               "num": "4",
               "intOrdre": 2621435,
@@ -813,6 +898,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000021041182",
               "num": "5",
               "intOrdre": 3145722,
@@ -820,6 +906,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000021041184",
               "num": "6",
               "intOrdre": 3670009,
@@ -827,6 +914,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000021041185",
               "num": "7",
               "intOrdre": 4194296,
@@ -835,6 +923,7 @@
               "surtitre": "Date d'effet"
             },
             {
+              "type": "article",
               "id": "KALIARTI000021041186",
               "num": "8",
               "intOrdre": 4718583,
@@ -845,11 +934,29 @@
           ]
         },
         {
-          "id": "KALITEXT000020498818",
+          "type": "section",
           "title": "Avenant n° 3 du 12 décembre 2007 portant diverses modifications",
-          "dateParution": 1239235200000,
-          "articles": [
+          "id": "KALITEXT000020498818",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 3145722,
+              "title": "Annexe",
+              "id": "KALISCTA000020498828",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000020498829",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p><br/>ANNEXE I<br/> Grille des salaires minima applicable au 1er janvier 2008<br/>Ouvriers et employés</p><p><br/>(En euros.) </p><p><div align='center'><center><table border='1'><tr><th>NIVEAU</th><th>ÉCHELON</th><th>SALAIRE</th></tr><tr><td align='center'> </td><td align='center'> </td><td align='center'> </td></tr><tr><td align='center'>I</td><td align='center'>1</td><td align='center'>15 362</td></tr><tr><td align='center'> </td><td align='center'>2</td><td align='center'>15 526</td></tr><tr><td align='center'>II</td><td align='center'>1</td><td align='center'>16 285</td></tr><tr><td align='center'> </td><td align='center'>2</td><td align='center'>17 488</td></tr><tr><td align='center'>III</td><td align='center'>1</td><td align='center'>18 120</td></tr><tr><td align='center'> </td><td align='center'>2</td><td align='center'>19 262</td></tr></table></center></div></p><p><br/>Agents de maîtrise</p><p><br/>(En euros.) </p><p><div align='center'><center><table border='1'><tr><th>NIVEAU</th><th>ÉCHELON</th><th>SALAIRE</th></tr><tr><td align='center'>IV</td><td align='center'> </td><td align='center'>20 783</td></tr><tr><td align='center'>V</td><td align='center'> </td><td align='center'>24 362</td></tr></table></center></div></p><p><br/>Cadres</p><p><br/>(En euros.) </p><p><div align='center'><center><table border='1'><tr><th>NIVEAU</th><th>ÉCHELON</th><th>SALAIRE</th></tr><tr><td align='center'>VI</td><td align='center'>A (moins de 3 ans dans la fonction)</td><td align='center'>25 345</td></tr><tr><td align='center'> </td><td align='center'>B (plus de 3 ans dans la fonction)</td><td align='center'>28 513</td></tr><tr><td align='center'>VII</td><td align='center'>A (moins de 3 ans dans la fonction)</td><td align='center'>27 456</td></tr><tr><td align='center'> </td><td align='center'>B (plus de 3 ans dans la fonction)</td><td align='center'>31 363</td></tr><tr><td align='center'>VIII</td><td align='center'> </td><td align='center'>34 848</td></tr><tr><td align='center'>IX</td><td align='center'> </td><td align='center'>39 600</td></tr></table></center></div></p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000020498821",
               "num": "1",
               "intOrdre": 524287,
@@ -857,6 +964,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020498823",
               "num": "2",
               "intOrdre": 1048574,
@@ -864,6 +972,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020498825",
               "num": "3",
               "intOrdre": 1572861,
@@ -871,6 +980,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020498826",
               "num": "4",
               "intOrdre": 2097148,
@@ -879,6 +989,7 @@
               "surtitre": "Date d'effet"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020498827",
               "num": "5",
               "intOrdre": 2621435,
@@ -886,70 +997,15 @@
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Extension"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000020498828",
-              "intOrdre": 3145722,
-              "title": "Annexe",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000020498829",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p><br/>ANNEXE I<br/> Grille des salaires minima applicable au 1er janvier 2008<br/>Ouvriers et employés</p><p><br/>(En euros.) </p><p><div align='center'><center><table border='1'><tr><th>NIVEAU</th><th>ÉCHELON</th><th>SALAIRE</th></tr><tr><td align='center'> </td><td align='center'> </td><td align='center'> </td></tr><tr><td align='center'>I</td><td align='center'>1</td><td align='center'>15 362</td></tr><tr><td align='center'> </td><td align='center'>2</td><td align='center'>15 526</td></tr><tr><td align='center'>II</td><td align='center'>1</td><td align='center'>16 285</td></tr><tr><td align='center'> </td><td align='center'>2</td><td align='center'>17 488</td></tr><tr><td align='center'>III</td><td align='center'>1</td><td align='center'>18 120</td></tr><tr><td align='center'> </td><td align='center'>2</td><td align='center'>19 262</td></tr></table></center></div></p><p><br/>Agents de maîtrise</p><p><br/>(En euros.) </p><p><div align='center'><center><table border='1'><tr><th>NIVEAU</th><th>ÉCHELON</th><th>SALAIRE</th></tr><tr><td align='center'>IV</td><td align='center'> </td><td align='center'>20 783</td></tr><tr><td align='center'>V</td><td align='center'> </td><td align='center'>24 362</td></tr></table></center></div></p><p><br/>Cadres</p><p><br/>(En euros.) </p><p><div align='center'><center><table border='1'><tr><th>NIVEAU</th><th>ÉCHELON</th><th>SALAIRE</th></tr><tr><td align='center'>VI</td><td align='center'>A (moins de 3 ans dans la fonction)</td><td align='center'>25 345</td></tr><tr><td align='center'> </td><td align='center'>B (plus de 3 ans dans la fonction)</td><td align='center'>28 513</td></tr><tr><td align='center'>VII</td><td align='center'>A (moins de 3 ans dans la fonction)</td><td align='center'>27 456</td></tr><tr><td align='center'> </td><td align='center'>B (plus de 3 ans dans la fonction)</td><td align='center'>31 363</td></tr><tr><td align='center'>VIII</td><td align='center'> </td><td align='center'>34 848</td></tr><tr><td align='center'>IX</td><td align='center'> </td><td align='center'>39 600</td></tr></table></center></div></p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
           ]
         },
         {
-          "id": "KALITEXT000018878921",
-          "title": "Avenant n° 2 du 14 novembre 2006 relatif aux salaires et au compte épargne-temps",
-          "dateParution": 32472144000000,
-          "articles": [
-            {
-              "id": "KALIARTI000018878924",
-              "num": "1",
-              "intOrdre": 524287,
-              "content": "<p align='left'><br/>La grille des salaires minima figurant à <a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000018563639&idArticle=KALIARTI000018563687&categorieLien=cid'>l'annexe I</a> et applicable au 1er janvier 2007 est définie comme suit. </p><p align='center'><br/>ANNEXE I <br/>Grille des salaires minima applicable au 1er janvier 2007 <br/>Ouvriers et employés </p><p align='right'><br/>(En euros.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>NIVEAU </th><th>ÉCHELON </th><th>SALAIRE </th></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>  </td></tr><tr><td align='center'>I </td><td align='center'>1 </td><td align='center'>15   052 </td></tr><tr><td align='center'>  </td><td align='center'>2 </td><td align='center'>15   221 </td></tr><tr><td align='center'>II </td><td align='center'>1 </td><td align='center'>15   965 </td></tr><tr><td align='center'>  </td><td align='center'>2 </td><td align='center'>17   145 </td></tr><tr><td align='center'>III </td><td align='center'>1 </td><td align='center'>17   765 </td></tr><tr><td align='center'>  </td><td align='center'>2 </td><td align='center'>18   884 </td></tr></table></center></div></p><p align='center'><br/>Agents de maîtrise </p><p align='right'><br/>(En euros.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>NIVEAU </th><th>ÉCHELON </th><th>SALAIRE </th></tr><tr><td align='center'>IV </td><td align='center'>  </td><td align='center'>20   375 </td></tr><tr><td align='center'>V </td><td align='center'>  </td><td align='center'>23   884 </td></tr></table></center></div></p><p align='center'><br/>Cadres </p><p align='right'><br/>(En euros.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>NIVEAU </th><th>ÉCHELON </th><th>SALAIRE </th></tr><tr><td align='center'>VI </td><td align='center'>A (moins de 3 ans dans la fonction) </td><td align='center'>24   848 </td></tr><tr><td align='center'>  </td><td align='center'>B (plus de 3 ans dans la fonction) </td><td align='center'>27   954 </td></tr><tr><td align='center'>VII </td><td align='center'>A (moins de 3 ans dans la fonction) </td><td align='center'>26   918 </td></tr><tr><td align='center'>  </td><td align='center'>B (plus de 3 ans dans la fonction) </td><td align='center'>30   749 </td></tr><tr><td align='center'>VIII </td><td align='center'>  </td><td align='center'>34   165 </td></tr><tr><td align='center'>IX </td><td align='center'>  </td><td align='center'>38   824</td></tr></table></center></div></p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Grille des salaires (annexe I)"
-            },
-            {
-              "id": "KALIARTI000018878925",
-              "num": "2",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Les dispositions de <a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000018563639&idArticle=KALIARTI000018563730&categorieLien=cid'>l'article 25. 4 de la convention collective « Alimentation du compte » </a>sont modifiées comme suit :<br/>« Le compte peut-être alimenté par les éléments suivants : <br/>― un report des congés annuels dans la limite de 10 jours ouvrés par an ; <br/>― une partie des journées ou demi-journées de repos attribuées au titre de la réduction de l'horaire effectif de travail utilisable à l'initiative du salarié ; <br/>― les primes attribuées en vertu d'un accord d'intéressement, lorsqu'il existe ; <br/>― les sommes attribuées au titre de la participation lorsqu'elle existe, au-delà de leur période d'indisponibilité. » <br/>Le salarié indiqué par écrit à l'employeur le pourcentage de chacun des éléments susceptibles d'alimenter le compte qu'il entend y affecter. <br/>Les dispositions de l'article 25. 5 de la convention collective « Congés indemnisables » sont modifiées comme suit : <br/>« Le compte épargne-temps peut être utilisé pour financer, totalement ou partiellement, l'un des congés sans solde prévu par la loi, les dispositions conventionnelles applicables à l'entreprise, ou le contrat de travail. Il peut également être utilisé, dans les mêmes conditions, pour l'un des passages à temps partiel définis aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006646791&dateTexte=&categorieLien=cid'>articles L. 122-28-1 et L. 122-28-9 du code du travail</a>. La durée et les conditions de prise de ces congés ou de ces passages à temps partiel sont définies par les dispositions législatives, réglementaires, conventionnelles, ou contractuelles qui les instituent. <br/>Les compte épargne-temps peut aussi être utilisé pour financer, en accord avec l'employeur, totalement ou partiellement un autre congé. <br/>Dans le cadre de ce congé, le salarié doit formuler sa demande par écrit au moins 6 mois avant la date prévue pour son départ en congé ou son passage à temps partiel.L'employeur a la faculté de différer de 3 mois au plus la date du départ en congé demandée par le salarié. <br/>En cas de prise de congé, la durée de celui-ci ne peut être inférieure à 2 mois. »</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Compte épargne-temps"
-            },
-            {
-              "id": "KALIARTI000018878927",
-              "num": "3",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/> Le présent avenant prendra effet dès sa signature.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Date d'effet"
-            },
-            {
-              "id": "KALIARTI000018878928",
-              "num": "4",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/> Les parties signataires décident de demander l'extension du présent avenant.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Extension"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000018878504",
+          "type": "section",
           "title": "Avenant n° 1 du 14 novembre 2005 relatif à la classification des cadres",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000018878504",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000018878507",
               "num": "1",
               "intOrdre": 524287,
@@ -957,6 +1013,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018878508",
               "num": "2",
               "intOrdre": 1048574,
@@ -964,6 +1021,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018878509",
               "num": "3",
               "intOrdre": 1572861,
@@ -972,6 +1030,7 @@
               "surtitre": "Grille des salaires (annexe I)"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018878510",
               "num": "4",
               "intOrdre": 2097148,
@@ -980,64 +1039,73 @@
               "surtitre": "Durée du travail (chapitre Ier)"
             }
           ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 2 du 14 novembre 2006 relatif aux salaires et au compte épargne-temps",
+          "id": "KALITEXT000018878921",
+          "children": [
+            {
+              "type": "article",
+              "id": "KALIARTI000018878924",
+              "num": "1",
+              "intOrdre": 524287,
+              "content": "<p align='left'><br/>La grille des salaires minima figurant à <a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000018563639&idArticle=KALIARTI000018563687&categorieLien=cid'>l'annexe I</a> et applicable au 1er janvier 2007 est définie comme suit. </p><p align='center'><br/>ANNEXE I <br/>Grille des salaires minima applicable au 1er janvier 2007 <br/>Ouvriers et employés </p><p align='right'><br/>(En euros.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>NIVEAU </th><th>ÉCHELON </th><th>SALAIRE </th></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>  </td></tr><tr><td align='center'>I </td><td align='center'>1 </td><td align='center'>15   052 </td></tr><tr><td align='center'>  </td><td align='center'>2 </td><td align='center'>15   221 </td></tr><tr><td align='center'>II </td><td align='center'>1 </td><td align='center'>15   965 </td></tr><tr><td align='center'>  </td><td align='center'>2 </td><td align='center'>17   145 </td></tr><tr><td align='center'>III </td><td align='center'>1 </td><td align='center'>17   765 </td></tr><tr><td align='center'>  </td><td align='center'>2 </td><td align='center'>18   884 </td></tr></table></center></div></p><p align='center'><br/>Agents de maîtrise </p><p align='right'><br/>(En euros.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>NIVEAU </th><th>ÉCHELON </th><th>SALAIRE </th></tr><tr><td align='center'>IV </td><td align='center'>  </td><td align='center'>20   375 </td></tr><tr><td align='center'>V </td><td align='center'>  </td><td align='center'>23   884 </td></tr></table></center></div></p><p align='center'><br/>Cadres </p><p align='right'><br/>(En euros.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>NIVEAU </th><th>ÉCHELON </th><th>SALAIRE </th></tr><tr><td align='center'>VI </td><td align='center'>A (moins de 3 ans dans la fonction) </td><td align='center'>24   848 </td></tr><tr><td align='center'>  </td><td align='center'>B (plus de 3 ans dans la fonction) </td><td align='center'>27   954 </td></tr><tr><td align='center'>VII </td><td align='center'>A (moins de 3 ans dans la fonction) </td><td align='center'>26   918 </td></tr><tr><td align='center'>  </td><td align='center'>B (plus de 3 ans dans la fonction) </td><td align='center'>30   749 </td></tr><tr><td align='center'>VIII </td><td align='center'>  </td><td align='center'>34   165 </td></tr><tr><td align='center'>IX </td><td align='center'>  </td><td align='center'>38   824</td></tr></table></center></div></p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Grille des salaires (annexe I)"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000018878925",
+              "num": "2",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>Les dispositions de <a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000018563639&idArticle=KALIARTI000018563730&categorieLien=cid'>l'article 25. 4 de la convention collective « Alimentation du compte » </a>sont modifiées comme suit :<br/>« Le compte peut-être alimenté par les éléments suivants : <br/>― un report des congés annuels dans la limite de 10 jours ouvrés par an ; <br/>― une partie des journées ou demi-journées de repos attribuées au titre de la réduction de l'horaire effectif de travail utilisable à l'initiative du salarié ; <br/>― les primes attribuées en vertu d'un accord d'intéressement, lorsqu'il existe ; <br/>― les sommes attribuées au titre de la participation lorsqu'elle existe, au-delà de leur période d'indisponibilité. » <br/>Le salarié indiqué par écrit à l'employeur le pourcentage de chacun des éléments susceptibles d'alimenter le compte qu'il entend y affecter. <br/>Les dispositions de l'article 25. 5 de la convention collective « Congés indemnisables » sont modifiées comme suit : <br/>« Le compte épargne-temps peut être utilisé pour financer, totalement ou partiellement, l'un des congés sans solde prévu par la loi, les dispositions conventionnelles applicables à l'entreprise, ou le contrat de travail. Il peut également être utilisé, dans les mêmes conditions, pour l'un des passages à temps partiel définis aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006646791&dateTexte=&categorieLien=cid'>articles L. 122-28-1 et L. 122-28-9 du code du travail</a>. La durée et les conditions de prise de ces congés ou de ces passages à temps partiel sont définies par les dispositions législatives, réglementaires, conventionnelles, ou contractuelles qui les instituent. <br/>Les compte épargne-temps peut aussi être utilisé pour financer, en accord avec l'employeur, totalement ou partiellement un autre congé. <br/>Dans le cadre de ce congé, le salarié doit formuler sa demande par écrit au moins 6 mois avant la date prévue pour son départ en congé ou son passage à temps partiel.L'employeur a la faculté de différer de 3 mois au plus la date du départ en congé demandée par le salarié. <br/>En cas de prise de congé, la durée de celui-ci ne peut être inférieure à 2 mois. »</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Compte épargne-temps"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000018878927",
+              "num": "3",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/> Le présent avenant prendra effet dès sa signature.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Date d'effet"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000018878928",
+              "num": "4",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/> Les parties signataires décident de demander l'extension du présent avenant.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Extension"
+            }
+          ]
         }
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 3,
       "title": "Textes Salaires",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000037808248",
+          "type": "section",
           "title": "Avenant du 29 mars 2018 relatif aux rémunérations annuelles garanties pour l'année 2018",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000037808248",
+          "children": [
             {
-              "id": "KALIARTI000037808252",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'>En conséquence, les signataires du présent avenant décident, à compter du 1er janvier 2018, d'une augmentation des salaires minima comme suit.</p><p align='center'>Grille de salaires annuels (base 35 heures hebdomadaires) applicable à compter du 1er janvier 2018</p><p align='center'>Ouvriers employés</p><p align='left'>Niveau 1</p><center><table border='1'><tbody><tr><td>Échelon 1</td><td>17 981,64 €</td></tr><tr><td align='center'>Échelon 2</td><td align='center'>18 206 €</td></tr></tbody></table></center><p align='left'>Niveau 2</p><center><table border='1'><tbody><tr><td>Échelon 1</td><td>19 000 €</td></tr><tr><td align='center'>Échelon 2</td><td align='center'>20 204 €</td></tr></tbody></table></center><p align='left'>Niveau 3</p><center><table border='1'><tbody><tr><td>Échelon 1</td><td>21 044 €</td></tr><tr><td align='center'>Échelon 2</td><td align='center'>22 150 €</td></tr><tr><td align='center'>Échelon 3</td><td align='center'>22 974 €</td></tr></tbody></table></center><p align='center'>Agent de maîtrise</p><center><table border='1'><tbody><tr><td>Niveau 4</td><td>24 033 €</td></tr><tr><td align='center'>Niveau 5</td><td align='center'>27 868 €</td></tr></tbody></table></center><p align='center'>Cadre</p><center><table border='1'><tbody><tr><th></th><th>A (– 3 ans d'ancienneté)</th><th>B (+ 3 ans d'ancienneté)</th></tr><tr><td align='center'>Niveau 6</td><td align='center'>29 309 €</td><td align='center'>32 650 €</td></tr><tr><td align='center'>Niveau 7</td><td align='center'>31 751 €</td><td align='center'>35 913 €</td></tr></tbody></table></center><p></p><center><table border='1'><tbody><tr><td>Niveau 9</td><td>45 347 €</td></tr></tbody></table></center><p align='left'>Les entreprises devront respecter l'objectif d'égalité professionnelle entre les femmes et les hommes en prenant notamment en compte les éléments fixés par l'accord relatif à l'égalité entre les femmes et les hommes en date du 2 février 2016 étendu par arrêté du 11 janvier 2018 JO du 18 janvier 2018.</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000037808253",
-              "num": "4",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Afin de faire régulièrement le point sur la signature du présent avenant et de mesurer l'opportunité de le modifier, les parties signataires prévoient que lors de chaque première réunion annuelle de la commission paritaire permanente de négociation et d'interprétation, il sera abordé les salaires.</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000037808254",
-              "num": "5",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Les parties signataires conviennent de demander sans délai l'extension du présent avenant, la fédération nationale syndicale de la coopération et du crédit maritimes étant chargée des formalités à accomplir à cette fin.</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000037808255",
-              "num": "6",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Le présent avenant entrera en vigueur au 1er janvier 2018.</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000037808256",
-              "num": "7",
-              "intOrdre": 3145722,
-              "content": "<p align='left'>Les présent avenant sera déposé en un exemplaire original signé des parties, à la direction des relations du travail, dépôt des accords, 39-43, quai André-Citroën, 75902 Paris Cedex 15, ainsi que par voie électronique à l'adresse de messagerie : depot.accord@travail.gouv.fr.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000037808251",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000037808251",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000037808257",
                   "num": null,
                   "intOrdre": 524287,
@@ -1045,58 +1113,63 @@
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000034868979",
-          "title": "Avenant n° 15 du 20 janvier 2017 relatif aux salaires minima au 1er janvier 2017",
-          "dateParution": 1496793600000,
-          "articles": [
+            },
             {
-              "id": "KALIARTI000034868983",
+              "type": "article",
+              "id": "KALIARTI000037808252",
               "num": "1er",
               "intOrdre": 1048574,
-              "content": "<p align='left'><br/>En conséquence, les signataires du présent avenant décident, à compter du 1er janvier 2017, d'une augmentation des salaires minima comme suit :</p><p align='center'><br/>Grille de salaires annuels (base 35 heures hebdomadaires) applicable à compter du 1er janvier 2017.<br/>Ouvriers employés</p><p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Niveau</th><th>Echelon</th><th>Salaire</th></tr><tr><td align='center'>I</td><td align='center'>1<br/>2</td><td align='center'>17 763,19<br/>18 026,00</td></tr><tr><td align='center'>II</td><td align='center'>1<br/>2</td><td align='center'>18 812<br/>20 004</td></tr><tr><td align='center'>III</td><td align='center'>1<br/>2<br/>3</td><td align='center'>20 836<br/>21 931<br/>22 747</td></tr></table></center></div></p><p align='center'><br/>Agents de maîtrise</p><p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Niveau</th><th>Salaire</th></tr><tr><td align='center'>IV</td><td align='center'>23 796</td></tr><tr><td align='center'>V</td><td align='center'>27 622</td></tr></table></center></div></p><p align='center'><br/>Cadres</p><p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Niveau</th><th>A (– 3 ans) ancienneté</th><th>B (+ 3 ans) ancienneté</th></tr><tr><td align='center'>VI</td><td align='center'>29 019</td><td align='center'>32 327</td></tr><tr><td align='center'>VII</td><td align='center'>31 437</td><td align='center'>35 558</td></tr></table></center></div></p><p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Niveau</th><th>Salaire</th></tr><tr><td align='center'>VIII</td><td align='center'>39 508</td></tr><tr><td align='center'>IX</td><td align='center'>44 899</td></tr></table></center></div></p><p align='left'><br/>Les entreprises devront respecter l'objectif d'égalité professionnelle entre les femmes et les hommes en prenant notamment en compte les éléments fixés par l'accord relatif à l'égalité entre les femmes et les hommes en date du 2 février 2016.</p>",
+              "content": "<p align='left'>En conséquence, les signataires du présent avenant décident, à compter du 1er janvier 2018, d'une augmentation des salaires minima comme suit.</p><p align='center'>Grille de salaires annuels (base 35 heures hebdomadaires) applicable à compter du 1er janvier 2018</p><p align='center'>Ouvriers employés</p><p align='left'>Niveau 1</p><center><table border='1'><tbody><tr><td>Échelon 1</td><td>17 981,64 €</td></tr><tr><td align='center'>Échelon 2</td><td align='center'>18 206 €</td></tr></tbody></table></center><p align='left'>Niveau 2</p><center><table border='1'><tbody><tr><td>Échelon 1</td><td>19 000 €</td></tr><tr><td align='center'>Échelon 2</td><td align='center'>20 204 €</td></tr></tbody></table></center><p align='left'>Niveau 3</p><center><table border='1'><tbody><tr><td>Échelon 1</td><td>21 044 €</td></tr><tr><td align='center'>Échelon 2</td><td align='center'>22 150 €</td></tr><tr><td align='center'>Échelon 3</td><td align='center'>22 974 €</td></tr></tbody></table></center><p align='center'>Agent de maîtrise</p><center><table border='1'><tbody><tr><td>Niveau 4</td><td>24 033 €</td></tr><tr><td align='center'>Niveau 5</td><td align='center'>27 868 €</td></tr></tbody></table></center><p align='center'>Cadre</p><center><table border='1'><tbody><tr><th></th><th>A (– 3 ans d'ancienneté)</th><th>B (+ 3 ans d'ancienneté)</th></tr><tr><td align='center'>Niveau 6</td><td align='center'>29 309 €</td><td align='center'>32 650 €</td></tr><tr><td align='center'>Niveau 7</td><td align='center'>31 751 €</td><td align='center'>35 913 €</td></tr></tbody></table></center><p></p><center><table border='1'><tbody><tr><td>Niveau 9</td><td>45 347 €</td></tr></tbody></table></center><p align='left'>Les entreprises devront respecter l'objectif d'égalité professionnelle entre les femmes et les hommes en prenant notamment en compte les éléments fixés par l'accord relatif à l'égalité entre les femmes et les hommes en date du 2 février 2016 étendu par arrêté du 11 janvier 2018 JO du 18 janvier 2018.</p>",
               "etat": "VIGUEUR_ETEN"
             },
             {
-              "id": "KALIARTI000034868984",
+              "type": "article",
+              "id": "KALIARTI000037808253",
               "num": "4",
               "intOrdre": 1572861,
               "content": "<p align='left'><br/>Afin de faire régulièrement le point sur la signature du présent avenant et de mesurer l'opportunité de le modifier, les parties signataires prévoient que lors de chaque première réunion annuelle de la commission paritaire permanente de négociation et d'interprétation, il sera abordé les salaires.</p>",
               "etat": "VIGUEUR_ETEN"
             },
             {
-              "id": "KALIARTI000034868985",
+              "type": "article",
+              "id": "KALIARTI000037808254",
               "num": "5",
               "intOrdre": 2097148,
               "content": "<p align='left'><br/>Les parties signataires conviennent de demander sans délai l'extension du présent avenant, la fédération nationale syndicale de la coopération et du crédit maritimes étant chargée des formalités à accomplir à cette fin.</p>",
               "etat": "VIGUEUR_ETEN"
             },
             {
-              "id": "KALIARTI000034868986",
+              "type": "article",
+              "id": "KALIARTI000037808255",
               "num": "6",
               "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Le présent avenant entrera en vigueur au 1er janvier 2017.</p>",
+              "content": "<p align='left'><br/>Le présent avenant entrera en vigueur au 1er janvier 2018.</p>",
               "etat": "VIGUEUR_ETEN"
             },
             {
-              "id": "KALIARTI000034868987",
+              "type": "article",
+              "id": "KALIARTI000037808256",
               "num": "7",
               "intOrdre": 3145722,
-              "content": "<p align='left'><br/>Le présent avenant sera déposé en un exemplaire original signé des parties, à la direction des relations du travail, dépôt des accords, 39-43, quai André-Citroën, 75902 Paris Cedex 15, ainsi que par voie électronique à l'adresse de messagerie : depot.accord@travail.gouv.fr.</p>",
+              "content": "<p align='left'>Les présent avenant sera déposé en un exemplaire original signé des parties, à la direction des relations du travail, dépôt des accords, 39-43, quai André-Citroën, 75902 Paris Cedex 15, ainsi que par voie électronique à l'adresse de messagerie : depot.accord@travail.gouv.fr.</p>",
               "etat": "VIGUEUR_ETEN"
             }
-          ],
-          "sections": [
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 15 du 20 janvier 2017 relatif aux salaires minima au 1er janvier 2017",
+          "id": "KALITEXT000034868979",
+          "children": [
             {
-              "id": "KALISCTA000034868982",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000034868982",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000034868988",
                   "num": null,
                   "intOrdre": 524287,
@@ -1104,51 +1177,63 @@
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000034868983",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>En conséquence, les signataires du présent avenant décident, à compter du 1er janvier 2017, d'une augmentation des salaires minima comme suit :</p><p align='center'><br/>Grille de salaires annuels (base 35 heures hebdomadaires) applicable à compter du 1er janvier 2017.<br/>Ouvriers employés</p><p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Niveau</th><th>Echelon</th><th>Salaire</th></tr><tr><td align='center'>I</td><td align='center'>1<br/>2</td><td align='center'>17 763,19<br/>18 026,00</td></tr><tr><td align='center'>II</td><td align='center'>1<br/>2</td><td align='center'>18 812<br/>20 004</td></tr><tr><td align='center'>III</td><td align='center'>1<br/>2<br/>3</td><td align='center'>20 836<br/>21 931<br/>22 747</td></tr></table></center></div></p><p align='center'><br/>Agents de maîtrise</p><p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Niveau</th><th>Salaire</th></tr><tr><td align='center'>IV</td><td align='center'>23 796</td></tr><tr><td align='center'>V</td><td align='center'>27 622</td></tr></table></center></div></p><p align='center'><br/>Cadres</p><p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Niveau</th><th>A (– 3 ans) ancienneté</th><th>B (+ 3 ans) ancienneté</th></tr><tr><td align='center'>VI</td><td align='center'>29 019</td><td align='center'>32 327</td></tr><tr><td align='center'>VII</td><td align='center'>31 437</td><td align='center'>35 558</td></tr></table></center></div></p><p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Niveau</th><th>Salaire</th></tr><tr><td align='center'>VIII</td><td align='center'>39 508</td></tr><tr><td align='center'>IX</td><td align='center'>44 899</td></tr></table></center></div></p><p align='left'><br/>Les entreprises devront respecter l'objectif d'égalité professionnelle entre les femmes et les hommes en prenant notamment en compte les éléments fixés par l'accord relatif à l'égalité entre les femmes et les hommes en date du 2 février 2016.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000034868984",
+              "num": "4",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Afin de faire régulièrement le point sur la signature du présent avenant et de mesurer l'opportunité de le modifier, les parties signataires prévoient que lors de chaque première réunion annuelle de la commission paritaire permanente de négociation et d'interprétation, il sera abordé les salaires.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000034868985",
+              "num": "5",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Les parties signataires conviennent de demander sans délai l'extension du présent avenant, la fédération nationale syndicale de la coopération et du crédit maritimes étant chargée des formalités à accomplir à cette fin.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000034868986",
+              "num": "6",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Le présent avenant entrera en vigueur au 1er janvier 2017.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000034868987",
+              "num": "7",
+              "intOrdre": 3145722,
+              "content": "<p align='left'><br/>Le présent avenant sera déposé en un exemplaire original signé des parties, à la direction des relations du travail, dépôt des accords, 39-43, quai André-Citroën, 75902 Paris Cedex 15, ainsi que par voie électronique à l'adresse de messagerie : depot.accord@travail.gouv.fr.</p>",
+              "etat": "VIGUEUR_ETEN"
             }
           ]
         },
         {
-          "id": "KALITEXT000030786090",
+          "type": "section",
           "title": "Avenant n° 12 du 23 février 2015 relatif aux salaires minima au 1er janvier 2015",
-          "dateParution": 1435536000000,
-          "articles": [
+          "id": "KALITEXT000030786090",
+          "children": [
             {
-              "id": "KALIARTI000030786094",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p></p><p align='left'> \t\t\t\t\t\tLes partenaires sociaux prennent en compte l'évolution du contexte économique.<br/> \t\t\t\t\t\tEn conséquence, les signataires du présent avenant décident, à compter du 1er janvier 2015, d'une augmentation des salaires minima comme suit :<br/></p><p align='center'> \t\t\t\t\t\tGrille de salaires annuels (base 35 heures hebdomadaires) applicable à compter du 1er janvier 2015</p><p align='center'> \t\t\t\t\tOuvriers, employés<br/></p><p align='right'> \t\t\t\t\t(En euros.)<br/></p><p></p><p></p><div align='center'><center><table border='1'><tbody><tr><th>Niveau</th><th>Echelon</th><th>Salaire</th></tr><tr><td rowspan='2' align='center'>I \t\t\t\t\t\t\t\t\t\t<br/></td><td align='center'>1</td><td align='center'>17 491</td></tr><tr><td align='center'>2</td><td align='center'>17 758</td></tr><tr><td rowspan='2' align='center'>II \t\t\t\t\t\t\t\t\t\t<br/></td><td align='center'>1</td><td align='center'>18 626</td></tr><tr><td align='center'>2</td><td align='center'>19 806</td></tr><tr><td rowspan='3' align='center'>III \t\t\t\t\t\t\t\t\t\t<br/><br/></td><td align='center'>1</td><td align='center'>20 630</td></tr><tr><td align='center'>2</td><td align='center'>21 714</td></tr><tr><td align='center'>3</td><td align='center'>22 522</td></tr></tbody></table></center></div><div align='center'> \t\t\t\t\t \t\t\t\t \t\t\t\t\tAgents de maîtrise</div><div align='left'><p align='right'> \t\t\t\t\t\t(En euros.)<br/></p><p align='left'></p><div align='center'><center><table border='1'><tbody><tr><th>Niveau</th><th>Salaire</th></tr><tr><td align='center'>IV</td><td align='center'>23 560</td></tr><tr><td align='center'>V</td><td align='center'>27 349</td></tr></tbody></table></center></div><p align='center'> \t\t\t\t\t\tCadres<br/></p><p align='right'> \t\t\t\t\t\t(En euros.)<br/></p><p align='left'></p><div align='center'><center><table border='1'><tbody><tr><th>Niveau</th><th>A<br/>(moins de 3 ans<br/>d'ancienneté)</th><th>B<br/>(plus de 3 ans<br/>d'ancienneté)</th></tr><tr><td align='center'>VI</td><td align='center'>28 732</td><td align='center'>32 007</td></tr><tr><td align='center'>VII</td><td align='center'>31 126</td><td align='center'>35 206</td></tr></tbody></table></center></div><p align='right'> \t\t\t\t\t\t(En euros.)<br/></p><p align='left'></p><div align='center'><center><table border='1'><tbody><tr><th>Niveau</th><th>Salaire</th></tr><tr><td align='center'>VIII</td><td align='center'>39 117</td></tr><tr><td align='center'>IX</td><td align='center'>44 454</td></tr></tbody></table></center></div> \t\t\t\t\t\t \t\t\t\t\t  \t\t\t\t\t\tLes entreprises devront prendre en compte l'objectif d'égalité  professionnelle entre les femmes et les hommes, en prenant notamment en  compte des mesures concernant le recrutement, la rémunération, la  formation et l'évolution de carrière. <br/></div><p align='center'></p><p></p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000030786097",
-              "num": "2",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Les parties signataires décident de demander l'extension du présent avenant.</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000030786098",
-              "num": "3",
-              "intOrdre": 3145722,
-              "content": "<p align='left'><br/>Le présent avenant prendra effet dès la publication de l'arrêté d'extension.</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000030786099",
-              "num": "4",
-              "intOrdre": 3670009,
-              "content": "<p align='left'><br/>Le présent avenant sera déposé par la partie diligente, conformément aux dispositions légales.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000030786093",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000030786093",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000030786100",
                   "num": null,
                   "intOrdre": 524287,
@@ -1156,15 +1241,48 @@
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030786094",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p></p><p align='left'> \t\t\t\t\t\tLes partenaires sociaux prennent en compte l'évolution du contexte économique.<br/> \t\t\t\t\t\tEn conséquence, les signataires du présent avenant décident, à compter du 1er janvier 2015, d'une augmentation des salaires minima comme suit :<br/></p><p align='center'> \t\t\t\t\t\tGrille de salaires annuels (base 35 heures hebdomadaires) applicable à compter du 1er janvier 2015</p><p align='center'> \t\t\t\t\tOuvriers, employés<br/></p><p align='right'> \t\t\t\t\t(En euros.)<br/></p><p></p><p></p><div align='center'><center><table border='1'><tbody><tr><th>Niveau</th><th>Echelon</th><th>Salaire</th></tr><tr><td rowspan='2' align='center'>I \t\t\t\t\t\t\t\t\t\t<br/></td><td align='center'>1</td><td align='center'>17 491</td></tr><tr><td align='center'>2</td><td align='center'>17 758</td></tr><tr><td rowspan='2' align='center'>II \t\t\t\t\t\t\t\t\t\t<br/></td><td align='center'>1</td><td align='center'>18 626</td></tr><tr><td align='center'>2</td><td align='center'>19 806</td></tr><tr><td rowspan='3' align='center'>III \t\t\t\t\t\t\t\t\t\t<br/><br/></td><td align='center'>1</td><td align='center'>20 630</td></tr><tr><td align='center'>2</td><td align='center'>21 714</td></tr><tr><td align='center'>3</td><td align='center'>22 522</td></tr></tbody></table></center></div><div align='center'> \t\t\t\t\t \t\t\t\t \t\t\t\t\tAgents de maîtrise</div><div align='left'><p align='right'> \t\t\t\t\t\t(En euros.)<br/></p><p align='left'></p><div align='center'><center><table border='1'><tbody><tr><th>Niveau</th><th>Salaire</th></tr><tr><td align='center'>IV</td><td align='center'>23 560</td></tr><tr><td align='center'>V</td><td align='center'>27 349</td></tr></tbody></table></center></div><p align='center'> \t\t\t\t\t\tCadres<br/></p><p align='right'> \t\t\t\t\t\t(En euros.)<br/></p><p align='left'></p><div align='center'><center><table border='1'><tbody><tr><th>Niveau</th><th>A<br/>(moins de 3 ans<br/>d'ancienneté)</th><th>B<br/>(plus de 3 ans<br/>d'ancienneté)</th></tr><tr><td align='center'>VI</td><td align='center'>28 732</td><td align='center'>32 007</td></tr><tr><td align='center'>VII</td><td align='center'>31 126</td><td align='center'>35 206</td></tr></tbody></table></center></div><p align='right'> \t\t\t\t\t\t(En euros.)<br/></p><p align='left'></p><div align='center'><center><table border='1'><tbody><tr><th>Niveau</th><th>Salaire</th></tr><tr><td align='center'>VIII</td><td align='center'>39 117</td></tr><tr><td align='center'>IX</td><td align='center'>44 454</td></tr></tbody></table></center></div> \t\t\t\t\t\t \t\t\t\t\t  \t\t\t\t\t\tLes entreprises devront prendre en compte l'objectif d'égalité  professionnelle entre les femmes et les hommes, en prenant notamment en  compte des mesures concernant le recrutement, la rémunération, la  formation et l'évolution de carrière. <br/></div><p align='center'></p><p></p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030786097",
+              "num": "2",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Les parties signataires décident de demander l'extension du présent avenant.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030786098",
+              "num": "3",
+              "intOrdre": 3145722,
+              "content": "<p align='left'><br/>Le présent avenant prendra effet dès la publication de l'arrêté d'extension.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030786099",
+              "num": "4",
+              "intOrdre": 3670009,
+              "content": "<p align='left'><br/>Le présent avenant sera déposé par la partie diligente, conformément aux dispositions légales.</p>",
+              "etat": "VIGUEUR_ETEN"
             }
           ]
         },
         {
-          "id": "KALITEXT000029337951",
+          "type": "section",
           "title": "Avenant n° 10 du 18 février 2013 relatif aux salaires minima au 1er janvier 2013",
-          "dateParution": 1407283200000,
-          "articles": [
+          "id": "KALITEXT000029337951",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000029337955",
               "num": "1er",
               "intOrdre": 1048574,
@@ -1172,6 +1290,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029337956",
               "num": "2",
               "intOrdre": 1572861,
@@ -1179,6 +1298,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029337957",
               "num": "3",
               "intOrdre": 2097148,
@@ -1186,6 +1306,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029337958",
               "num": "4",
               "intOrdre": 2621435,
@@ -1195,11 +1316,12 @@
           ]
         },
         {
-          "id": "KALITEXT000024408451",
+          "type": "section",
           "title": "Avenant n° 7 du 9 février 2011 relatif aux salaires minima au 1er janvier 2011",
-          "dateParution": 1311811200000,
-          "articles": [
+          "id": "KALITEXT000024408451",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000024408454",
               "num": "1er",
               "intOrdre": 524287,
@@ -1207,6 +1329,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000024408455",
               "num": "2",
               "intOrdre": 1048574,
@@ -1214,6 +1337,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000024408456",
               "num": "3",
               "intOrdre": 1572861,
@@ -1221,6 +1345,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000024408457",
               "num": "4",
               "intOrdre": 2097148,

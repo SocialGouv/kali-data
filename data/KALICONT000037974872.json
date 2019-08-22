@@ -1,25 +1,26 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale du personnel navigant du groupement des armateurs de services de passages d'eau du 23 mai 2018 ",
   "id": "KALICONT000037974872",
   "num": "3228",
-  "title": "Convention collective nationale du personnel navigant du groupement des armateurs de services de passages d'eau du 23 mai 2018 ",
   "shortTitle": "Armateurs Service Passage D'eau Personnel Navigant",
-  "categorisation": [
-    "Groupement des armateurs de services de passages d'eau (personnel navigant)"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000037768050",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale du personnel navigant du groupement des armateurs de services de passages d'eau du 23 mai 2018 ",
+      "id": "KALITEXT000037768050",
       "etat": "VIGUEUR_NON_ETEN",
-      "sections": [
+      "children": [
         {
-          "id": "KALISCTA000037768052",
+          "type": "section",
           "intOrdre": 524287,
           "title": "1. Dispositions générales",
+          "id": "KALISCTA000037768052",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000037975269",
               "num": "6",
               "intOrdre": 2080391167,
@@ -30,12 +31,14 @@
           ]
         },
         {
-          "id": "KALISCTA000037768053",
+          "type": "section",
           "intOrdre": 1048574,
           "title": "2. Contrat de travail",
+          "id": "KALISCTA000037768053",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000037975473",
               "num": "14",
               "intOrdre": 2130710527,
@@ -46,12 +49,14 @@
           ]
         },
         {
-          "id": "KALISCTA000037768054",
+          "type": "section",
           "intOrdre": 1572861,
           "title": "3. Organisation du travail, congés et repos",
+          "id": "KALISCTA000037768054",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000037975722",
               "num": "21",
               "intOrdre": 2113937407,
@@ -62,12 +67,14 @@
           ]
         },
         {
-          "id": "KALISCTA000037768055",
+          "type": "section",
           "intOrdre": 2097148,
           "title": "4. Emplois et rémunérations",
+          "id": "KALISCTA000037768055",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000037975991",
               "num": "32",
               "intOrdre": 2145387007,
@@ -78,12 +85,14 @@
           ]
         },
         {
-          "id": "KALISCTA000037768056",
+          "type": "section",
           "intOrdre": 2621435,
           "title": "5. Formation professionnelle",
+          "id": "KALISCTA000037768056",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000037768088",
               "num": null,
               "intOrdre": 524287,
@@ -93,12 +102,14 @@
           ]
         },
         {
-          "id": "KALISCTA000037768057",
+          "type": "section",
           "intOrdre": 3145722,
           "title": "6. Protection sociale",
+          "id": "KALISCTA000037768057",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000037976289",
               "num": "37",
               "intOrdre": 2013298687,
@@ -109,12 +120,14 @@
           ]
         },
         {
-          "id": "KALISCTA000037768058",
+          "type": "section",
           "intOrdre": 3670009,
           "title": "7. Représentation du personnel et droit syndical",
+          "id": "KALISCTA000037768058",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000037976415",
               "num": "40",
               "intOrdre": 1610743807,
@@ -125,12 +138,14 @@
           ]
         },
         {
-          "id": "KALISCTA000037768059",
+          "type": "section",
           "intOrdre": 4194296,
           "title": "8. Annexes",
+          "id": "KALISCTA000037768059",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000037973970",
               "num": null,
               "intOrdre": 1932787711,
@@ -143,17 +158,36 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000038326441",
+          "type": "section",
           "title": "Accord du 30 juillet 2015 relatif à la formation professionnelle (Annexe 4)",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000038326441",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000038326444",
+              "etat": "VIGUEUR_NON_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000038326461",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'>L'accord national interprofessionnel du 14 décembre 2013 et la <a href='/affichTexte.do?cidTexte=JORFTEXT000028683576&categorieLien=cid' title='LOI n°2014-288  du 5 mars 2014 (V)'>loi n° 2014-288 du 5 mars 2014</a> invitent les branches professionnelles à renégocier leurs accords en matière de formation pour les adapter au nouveau contexte de financement de la formation professionnelle et à la création du compte personnel de formation.</p><p align='left'>Sans préjudice des dispositions légales, réglementaires et conventionnelles applicables, les organisations syndicales de marins et gens de mer représentatives et le GASPE ont souhaité convenir ensemble des objectifs prioritaires en matière de formation professionnelle au sein de la branche.</p><p align='left'>L'accord a également pour objet de déterminer les actions relatives à la formation professionnelle continue que devront mettre en œuvre les entreprises relevant du champ d'application afin d'atteindre ces objectifs.</p><p></p>",
+                  "etat": "VIGUEUR_NON_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000038326445",
               "num": "1",
               "intOrdre": 1048574,
@@ -162,6 +196,7 @@
               "surtitre": "Dispositions générales"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038326450",
               "num": "2",
               "intOrdre": 1572861,
@@ -170,6 +205,7 @@
               "surtitre": "Objectifs de la branche en matière de formation professionnelle continue"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038326451",
               "num": "3",
               "intOrdre": 2097148,
@@ -178,6 +214,7 @@
               "surtitre": "Dispositifs de la formation professionnelle"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038326459",
               "num": "4",
               "intOrdre": 2621435,
@@ -185,31 +222,32 @@
               "etat": "VIGUEUR_NON_ETEN",
               "surtitre": "Instances de la formation professionnelle"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000038326444",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000038326461",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'>L'accord national interprofessionnel du 14 décembre 2013 et la <a href='/affichTexte.do?cidTexte=JORFTEXT000028683576&categorieLien=cid' title='LOI n°2014-288  du 5 mars 2014 (V)'>loi n° 2014-288 du 5 mars 2014</a> invitent les branches professionnelles à renégocier leurs accords en matière de formation pour les adapter au nouveau contexte de financement de la formation professionnelle et à la création du compte personnel de formation.</p><p align='left'>Sans préjudice des dispositions légales, réglementaires et conventionnelles applicables, les organisations syndicales de marins et gens de mer représentatives et le GASPE ont souhaité convenir ensemble des objectifs prioritaires en matière de formation professionnelle au sein de la branche.</p><p align='left'>L'accord a également pour objet de déterminer les actions relatives à la formation professionnelle continue que devront mettre en œuvre les entreprises relevant du champ d'application afin d'atteindre ces objectifs.</p><p></p>",
-                  "etat": "VIGUEUR_NON_ETEN"
-                }
-              ]
-            }
           ]
         },
         {
-          "id": "KALITEXT000038326464",
+          "type": "section",
           "title": "Avenant n° 1 du 27 avril 2017 à l'accord du 30 juillet 2015 relatif à la formation professionnelle (Annexe 4)",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000038326464",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000038326467",
+              "etat": "VIGUEUR_NON_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000038326478",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'>L'accord signé le 30 juillet 2015 annexé aux conventions collectives du GASPE avait pour objet d'adapter les dispositions relatives à la formation professionnelle au sein de la branche au nouveau cadre légal et réglementaire mis en place suite à la <a href='/affichTexte.do?cidTexte=JORFTEXT000028683576&categorieLien=cid' title='LOI n°2014-288  du 5 mars 2014 (V)'>loi n° 2014-288 du 5 mars 2014</a>.</p><p align='left'>Les parties ont souhaité compléter les dispositions contenues dans l'accord de branche de 2015 concernant le compte personnel de formation (art. 3.1.6) afin de créer une commission paritaire nationale de l'emploi chargée de déterminer la liste des formations qualifiantes ou certifiantes au niveau de la branche professionnelle du GASPE.</p><p align='left'>Il est rappelé que le compte personnel de formation est un dispositif destiné à favoriser l'accès à la formation professionnelle pour chaque personne, salariée ou non, de manière à lui permettre d'acquérir un premier niveau de qualification ou de développer ses compétences et qualifications en lui permettant de bénéficier de formation.</p><p align='left'>Les formations peuvent avoir lieu durant une période de contrat de travail ou hors périodes de contrat de travail, sur le temps de travail ou hors temps de travail.</p><p align='left'>Le compte personnel de formation est mobilisé à l'initiative du salarié et peut l'être à tout moment de sa vie active afin d'effectuer une formation éligible au regard de la liste définie par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904228&dateTexte=&categorieLien=cid' title='Code du travail - art. L6323-6 (MMN)'>article L. 6323-6 du code du travail</a>.</p><p align='left'>L'objet de cet avenant est de définir la liste des « formations qualifiantes ou certifiantes élaborées par les partenaires sociaux au niveau de la branche professionnelle » tel que le prévoit l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904041&dateTexte=&categorieLien=cid' title='Code du travail - art. L6223-6 (V)'>article L. 6223-6 du code du travail</a>.</p><p></p>",
+                  "etat": "VIGUEUR_NON_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000038326468",
               "num": "1",
               "intOrdre": 1048574,
@@ -218,6 +256,7 @@
               "surtitre": "Dispositions générales"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038326473",
               "num": "2",
               "intOrdre": 1572861,
@@ -226,6 +265,7 @@
               "surtitre": "Commission paritaire nationale de l'emploi (CPNE)"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038326475",
               "num": "3",
               "intOrdre": 2097148,
@@ -234,28 +274,12 @@
               "surtitre": "Formations éligibles au compte personnel de formation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038326477",
               "num": null,
               "intOrdre": 2621435,
               "content": "<p>Liste des formations éligibles au CPF</p><p>CCN GASPE projet avenant à l'accord formation</p><p></p><center><table border='1'><tbody><tr><th>Niveau</th><th>Nom de la formation</th><th>Certification</th><th>Inscription AU RNCP</th><th>Inscription à l'inventaire</th><th>Code CPF</th></tr><tr><td></td><td align='center'>Brevet de second capitaine</td><td align='center'>Brevet STCW</td><td align='center'>X</td><td></td><td></td></tr><tr><td></td><td align='center'>Brevet de second mécanicien</td><td align='center'>Brevet STCW</td><td align='center'>X</td><td></td><td></td></tr><tr><td></td><td align='center'>Brevet de second polyvalent</td><td align='center'>Brevet STCW</td><td align='center'>X</td><td></td><td></td></tr><tr><td></td><td align='center'>Brevet de chef mécanicien</td><td align='center'>Brevet STCW</td><td align='center'>X</td><td></td><td></td></tr><tr><td></td><td align='center'>Brevet de capitaine de 1re classe</td><td align='center'>Brevet STCW</td><td align='center'>X</td><td></td><td></td></tr><tr><td></td><td align='center'>Brevet de capitaine</td><td align='center'>Brevet STCW</td><td align='center'>X</td><td></td><td></td></tr><tr><td></td><td align='center'>Ingénieur diplômé de l'ENSM</td><td align='center'>Titre ingénieur</td><td align='center'>X</td><td></td><td></td></tr><tr><td align='center'>II</td><td align='center'>Brevet de chef mécanicien 8 000 kW</td><td align='center'>Brevet STCW</td><td align='center'>X</td><td></td><td></td></tr><tr><td align='center'>II</td><td align='center'>Brevet de second mécanicien 8 000 kW</td><td align='center'>Brevet STCW</td><td align='center'>X</td><td></td><td></td></tr><tr><td align='center'>II</td><td align='center'>Chef de quart passerelle</td><td align='center'>Brevet STCW</td><td align='center'>X</td><td></td><td></td></tr><tr><td align='center'>II</td><td align='center'>Brevet de second capitaine 3 000</td><td align='center'>Brevet STCW</td><td align='center'>X</td><td></td><td></td></tr><tr><td align='center'>II</td><td align='center'>Brevet de chef de quart de navire de mer</td><td align='center'>Brevet STCW</td><td align='center'>X</td><td></td><td></td></tr><tr><td align='center'>II</td><td align='center'>Brevet de capitaine 3 000</td><td align='center'>Brevet STCW</td><td align='center'>X</td><td></td><td></td></tr><tr><td align='center'>III</td><td align='center'>Brevet de second mécanicien 3 000 kW</td><td align='center'>Brevet STCW</td><td align='center'>X</td><td></td><td></td></tr><tr><td align='center'>III</td><td align='center'>Brevet de chef mécanicien 3 000 kW</td><td align='center'>Brevet STCW</td><td align='center'>X</td><td></td><td></td></tr><tr><td align='center'>IV</td><td align='center'>Brevet de capitaine 500</td><td align='center'>Brevet STCW</td><td align='center'>X</td><td></td><td></td></tr><tr><td align='center'>IV</td><td align='center'>Brevet de chef de quart 500</td><td align='center'>Brevet STCW</td><td align='center'>X</td><td></td><td></td></tr><tr><td rowspan='52' align='center'>V</td><td align='center'>Brevet de capitaine 200</td><td align='center'>Brevet STCW</td><td align='center'>X</td><td></td><td></td></tr><tr><td align='center'>Certificat de matelot pont</td><td align='center'>Brevet STCW</td><td align='center'>X</td><td></td><td></td></tr><tr><td align='center'>Certificat de matelot de quart passerelle</td><td align='center'>Brevet STCW</td><td align='center'>X</td><td></td><td></td></tr><tr><td align='center'>Certificat de mécanicien de quart à la machine</td><td align='center'>Brevet STCW</td><td align='center'>X</td><td></td><td></td></tr><tr><td align='center'>Certificat de marin qualifié pont</td><td align='center'>Brevet STCW</td><td align='center'>X</td><td></td><td></td></tr><tr><td align='center'>Brevet de mécanicien 750 kw</td><td align='center'>Brevet STCW</td><td align='center'>X</td><td></td><td></td></tr><tr><td align='center'>BEP maritimes de marin du commerce</td><td align='center'></td><td></td><td align='center'>X</td><td align='center'></td></tr><tr><td align='center'>Attestation de formation à la direction et au travail en équipe ainsi qu'à la gestion des ressources à la passerelle (formation Bridge Resource Management dite BRM)</td><td align='center'>Arrêté du 24 avril 2014</td><td></td><td></td><td align='center'>183685</td></tr><tr><td align='center'>Attestation de formation complémentaire à la gestion des ressources à la machine (formation)</td><td align='center'>Arrêté du 24 avril 2014</td><td></td><td></td><td></td></tr><tr><td align='center'>Attestation de formation relative à la gestion des risques à bord (Formation System Resource Management site SRM)</td><td align='center'>Arrêté du 24 avril 2014</td><td></td><td></td><td></td></tr><tr><td align='center'>Attestation de formation à l'encadrement des passagers (navire > 500 ums)</td><td align='center'>Arrêté du 6 mai 2014</td><td></td><td align='center'>X</td><td align='center'>183681</td></tr><tr><td align='center'>Attestation de formation en matière de gestion des situations de crise et de comportement humain</td><td align='center'>Arrêté du 6 mai 2014</td><td></td><td align='center'>X</td><td align='center'>183679</td></tr><tr><td align='center'>Attestation de formation en matière de sécurité à l'intention du personnel assurant directement un service aux passagers</td><td align='center'>Arrêté du 6 mai 2014</td><td></td><td align='center'>X</td><td align='center'>183678</td></tr><tr><td align='center'>Attestation de formation en matière de sécurité des passagers et de la cargaison et d'intégrité de la coque</td><td align='center'>Arrêté du 6 mai 2014</td><td></td><td align='center'>X</td><td align='center'>183680</td></tr><tr><td align='center'>Bac pro conduite et gestion des entreprises maritimes option commerce</td><td></td><td align='center'>X</td><td></td><td></td></tr><tr><td align='center'>BTS maritime maintenance des systèmes électro-navals</td><td></td><td></td><td align='center'>X</td><td align='center'>20040</td></tr><tr><td align='center'>Certificat d'aptitude à l'exploitation des canots de secours rapide</td><td></td><td></td><td align='center'>X</td><td align='center'>19846</td></tr><tr><td align='center'>Certificat d'aptitude à l'exploitation des embarcations et radeaux de sauvetage (CAEERS)</td><td align='center'>Arrêté du 26 juillet 2013</td><td></td><td></td><td align='center'>19847</td></tr><tr><td align='center'>Certificat d'aptitude aux fonctions de cuisinier embarqué</td><td></td><td align='center'>X</td><td></td><td align='center'>2059</td></tr><tr><td align='center'>CFBS</td><td align='center'>Arrêté du 26 juillet 2013</td><td></td><td align='center'>X</td><td align='center'>19848</td></tr><tr><td align='center'>Attestation de formation d'agent de sûreté de compagnie</td><td align='center'>Arrêté du 5 décembre 2003</td><td></td><td></td><td></td></tr><tr><td align='center'>Certificat d'aptitude aux fonctions d'agent de sûreté du navire</td><td align='center'>Arrêté du 26 juin 2008</td><td></td><td align='center'>X</td><td align='center'>183688</td></tr><tr><td align='center'>Certificat de formation spécifique à la sûreté</td><td align='center'>Arrêté du 19 novembre 2012</td><td></td><td align='center'>X</td><td align='center'>183687</td></tr><tr><td align='center'>Certificat de sensibilisation à la sûreté</td><td align='center'>Arrêté du 19 novembre 2012</td><td></td><td align='center'>X</td><td align='center'>183686</td></tr><tr><td align='center'>Conduite des engins à grande vitesse</td><td align='center'>Arrêté du 6 juillet 1999</td><td></td><td align='center'>X</td><td align='center'>19845</td></tr><tr><td align='center'>Formation ECDIS</td><td align='center'>Arrêté du 27 juillet 2012</td><td></td><td align='center'>X</td><td align='center'>183676</td></tr><tr><td align='center'>Formation avancée à la haute tension à bord des navires</td><td align='center'>Arrêté du 12 avril 2016</td><td></td><td align='center'>X</td><td align='center'>183682</td></tr><tr><td align='center'>Formations médicales (niveau 1, 11, Ill)</td><td align='center'>Arrêté du 29 juin 2011</td><td></td><td align='center'>X</td><td align='center'>19849</td></tr><tr><td align='center'>Préparation aux écoles de la marine marchande</td><td></td><td></td><td align='center'>X</td><td align='center'>20037</td></tr><tr><td align='center'>Sécurité maritime navires à passager</td><td></td><td></td><td align='center'>X</td><td align='center'>19843</td></tr><tr><td align='center'>Certificat restreint d'opérateur (CRO)</td><td align='center'>Arrêté du 8 février 2016</td><td></td><td align='center'>X</td><td align='center'>19842</td></tr><tr><td align='center'>Certificat général d'opérateur (CGO)</td><td align='center'>Arrêté du 8 février 2016</td><td></td><td></td><td align='center'>19841</td></tr><tr><td align='center'>Certificat de radioélectronicien de 1re classe du service mobile maritime et du service mobile maritime par satellite (CR1)</td><td align='center'>Arrêté du 8 février 2016</td><td></td><td></td><td align='center'>19840</td></tr><tr><td align='center'>Certificat de qualification avancée à la lutte contre l'incendie</td><td align='center'>Arrêté du 26 juillet 2013</td><td></td><td align='center'>x</td><td align='center'>183677</td></tr><tr><td align='center'>Certificat de qualification navire-citerne</td><td align='center'>Arrêté du 8 juillet 1999</td><td></td><td></td><td></td></tr><tr><td align='center'>Formation aux matières juridiques des capitaines et officiers chargés de leur suppléance</td><td align='center'>Arrêté du 5 juillet 2016</td><td></td><td></td><td></td></tr><tr><td align='center'>Formation acheteur</td><td></td><td></td><td></td><td></td></tr><tr><td align='center'>Certificat de sauveteur-secouriste du travail (SST)</td><td></td><td></td><td></td><td></td></tr><tr><td align='center'>Initiation ou perfectionnement à l'utilisation des outils et logiciels informatiques</td><td></td><td></td><td></td><td></td></tr><tr><td align='center'>Certificat d'aptitude à la conduite en sécurité R372 (toutes catégories) engins de manutention ou de levage (CACES)</td><td align='center'>Formation sanctionnée par la délivrance d'un certificat d'autorisation de conduite</td><td></td><td></td><td></td></tr><tr><td align='center'>Formation management. Exemple : gestion d'équipe, conduite des entretiens individuels etc.</td><td></td><td></td><td></td><td></td></tr><tr><td align='center'>Formation de base à l'hygiène</td><td></td><td></td><td></td><td></td></tr><tr><td align='center'>Formation qualité sécurité environnement</td><td></td><td></td><td></td><td></td></tr><tr><td align='center'>Formation gestes et postures au travail</td><td></td><td></td><td></td><td></td></tr><tr><td align='center'>Habilitations électriques tous niveaux</td><td align='center'>Organismes autorisés à délivrer les attestations (APAVE, BV…)</td><td></td><td></td><td></td></tr><tr><td align='center'>Formation HACCP</td><td align='center'>Norme HACCP</td><td></td><td></td><td></td></tr><tr><td align='center'>Formation ISM : auditeur interne et personne désignée</td><td align='center'>Code ISM</td><td></td><td></td><td></td></tr><tr><td align='center'>Formation PSC1 (gestes d'urgence)</td><td></td><td></td><td></td><td></td></tr><tr><td align='center'>Formation à l'utilisation Radar ARPA anti collision</td><td align='center'>ex : CEFCM</td><td></td><td></td><td></td></tr><tr><td align='center'>BULATS (Business Language Testing Service)</td><td></td><td></td><td></td><td align='center'>131287</td></tr><tr><td align='center'>Tests TOEFL (Test of English as Foreign Language)</td><td></td><td></td><td></td><td align='center'>131285</td></tr><tr><td align='center'>Tests TOEIC (Test of English of International Communication)</td><td></td><td></td><td></td><td align='center'>131285</td></tr></tbody></table></center><p></p>",
               "etat": "VIGUEUR_NON_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000038326467",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000038326478",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'>L'accord signé le 30 juillet 2015 annexé aux conventions collectives du GASPE avait pour objet d'adapter les dispositions relatives à la formation professionnelle au sein de la branche au nouveau cadre légal et réglementaire mis en place suite à la <a href='/affichTexte.do?cidTexte=JORFTEXT000028683576&categorieLien=cid' title='LOI n°2014-288  du 5 mars 2014 (V)'>loi n° 2014-288 du 5 mars 2014</a>.</p><p align='left'>Les parties ont souhaité compléter les dispositions contenues dans l'accord de branche de 2015 concernant le compte personnel de formation (art. 3.1.6) afin de créer une commission paritaire nationale de l'emploi chargée de déterminer la liste des formations qualifiantes ou certifiantes au niveau de la branche professionnelle du GASPE.</p><p align='left'>Il est rappelé que le compte personnel de formation est un dispositif destiné à favoriser l'accès à la formation professionnelle pour chaque personne, salariée ou non, de manière à lui permettre d'acquérir un premier niveau de qualification ou de développer ses compétences et qualifications en lui permettant de bénéficier de formation.</p><p align='left'>Les formations peuvent avoir lieu durant une période de contrat de travail ou hors périodes de contrat de travail, sur le temps de travail ou hors temps de travail.</p><p align='left'>Le compte personnel de formation est mobilisé à l'initiative du salarié et peut l'être à tout moment de sa vie active afin d'effectuer une formation éligible au regard de la liste définie par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904228&dateTexte=&categorieLien=cid' title='Code du travail - art. L6323-6 (MMN)'>article L. 6323-6 du code du travail</a>.</p><p align='left'>L'objet de cet avenant est de définir la liste des « formations qualifiantes ou certifiantes élaborées par les partenaires sociaux au niveau de la branche professionnelle » tel que le prévoit l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904041&dateTexte=&categorieLien=cid' title='Code du travail - art. L6223-6 (V)'>article L. 6223-6 du code du travail</a>.</p><p></p>",
-                  "etat": "VIGUEUR_NON_ETEN"
-                }
-              ]
             }
           ]
         }

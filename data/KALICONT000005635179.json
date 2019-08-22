@@ -1,25 +1,26 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale des médecins spécialistes qualifiés au regard du conseil de l'ordre travaillant dans les établissements et services pour personnes inadaptées et handicapées du 1er mars 1979.",
   "id": "KALICONT000005635179",
   "num": "1001",
-  "title": "Convention collective nationale des médecins spécialistes qualifiés au regard du conseil de l'ordre travaillant dans les établissements et services pour personnes inadaptées et handicapées du 1er mars 1979.",
   "shortTitle": "Personnes Inadaptées Médecins Spécialistes",
-  "categorisation": [
-    "Handicapés : établissements et services pour les personnes inadaptées et handicapées"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000005684876",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale des médecins spécialistes qualifiés au regard du conseil de l'ordre travaillant dans les établissements et services pour personnes inadaptées et handicapées du 1er mars 1979.",
+      "id": "KALITEXT000005684876",
       "etat": "VIGUEUR_NON_ETEN",
-      "sections": [
+      "children": [
         {
-          "id": "KALISCTA000005729127",
+          "type": "section",
           "intOrdre": 42949,
           "title": "Champ d'application",
+          "id": "KALISCTA000005729127",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005863803",
               "num": "1er",
               "intOrdre": 85898,
@@ -30,12 +31,14 @@
           ]
         },
         {
-          "id": "KALISCTA000005729128",
+          "type": "section",
           "intOrdre": 85898,
           "title": "Durée, résiliation, révision",
+          "id": "KALISCTA000005729128",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005863805",
               "num": "2",
               "intOrdre": 85898,
@@ -46,12 +49,14 @@
           ]
         },
         {
-          "id": "KALISCTA000005729129",
+          "type": "section",
           "intOrdre": 128847,
           "title": "Contrats",
+          "id": "KALISCTA000005729129",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005863807",
               "num": "3",
               "intOrdre": 85898,
@@ -62,12 +67,14 @@
           ]
         },
         {
-          "id": "KALISCTA000005729130",
+          "type": "section",
           "intOrdre": 171796,
           "title": "Champ d'application fonctionnel",
+          "id": "KALISCTA000005729130",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005863809",
               "num": "4",
               "intOrdre": 85898,
@@ -78,18 +85,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005729131",
+          "type": "section",
           "intOrdre": 214745,
           "title": "Titre Ier : Temps plein, temps partiel",
+          "id": "KALISCTA000005729131",
           "etat": "VIGUEUR_NON_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005755119",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Application des dispositions générales de la convention collective nationale",
+              "id": "KALISCTA000005755119",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005863811",
                   "num": "5",
                   "intOrdre": 85898,
@@ -100,12 +110,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005755120",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Rupture du contrat de travail, délai-congé, indemnité de licenciement",
+              "id": "KALISCTA000005755120",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000024664028",
                   "num": "6",
                   "intOrdre": 85898,
@@ -116,12 +128,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005755121",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Rémunération",
+              "id": "KALISCTA000005755121",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000024664247",
                   "num": "7",
                   "intOrdre": 42949,
@@ -132,12 +146,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005755122",
+              "type": "section",
               "intOrdre": 171796,
               "title": "Temps de travail",
+              "id": "KALISCTA000005755122",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000024664270",
                   "num": "8",
                   "intOrdre": 85898,
@@ -148,12 +164,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005755123",
+              "type": "section",
               "intOrdre": 214745,
               "title": "Remplacements",
+              "id": "KALISCTA000005755123",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005863821",
                   "num": "9",
                   "intOrdre": 85898,
@@ -164,12 +182,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005755124",
+              "type": "section",
               "intOrdre": 257694,
               "title": "Congés",
+              "id": "KALISCTA000005755124",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000024232252",
                   "num": "10",
                   "intOrdre": 85898,
@@ -179,12 +199,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005755126",
+              "type": "section",
               "intOrdre": 300643,
               "title": "Frais de déplacement",
+              "id": "KALISCTA000005755126",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005863825",
                   "num": "11",
                   "intOrdre": 85898,
@@ -195,12 +217,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005755127",
+              "type": "section",
               "intOrdre": 343592,
               "title": "Perfectionnement",
+              "id": "KALISCTA000005755127",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005863827",
                   "num": "12",
                   "intOrdre": 85898,
@@ -213,12 +237,14 @@
           ]
         },
         {
-          "id": "KALISCTA000005729133",
+          "type": "section",
           "intOrdre": 343592,
           "title": "Titre III : Effets des dispositions transitoires",
+          "id": "KALISCTA000005729133",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005863831",
               "num": "20",
               "intOrdre": 85898,
@@ -231,17 +257,19 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000032594066",
+          "type": "section",
           "title": "Adhésion par lettre du 16 décembre 2015 de la FEGAPEI-SYNEAS à la convention des médecins",
-          "dateParution": 1464566400000,
-          "articles": [
+          "id": "KALITEXT000032594066",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000032594069",
               "num": null,
               "intOrdre": 524287,
@@ -251,11 +279,12 @@
           ]
         },
         {
-          "id": "KALITEXT000005684878",
+          "type": "section",
           "title": "Modèle de contrat Temps plein et temps partiel",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000005684878",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000022895896",
               "num": null,
               "intOrdre": 21474,
@@ -263,6 +292,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000005863832",
               "num": "1er",
               "intOrdre": 42949,
@@ -270,6 +300,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000005863833",
               "num": "2",
               "intOrdre": 85898,
@@ -277,6 +308,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000005863834",
               "num": "3",
               "intOrdre": 128847,
@@ -284,6 +316,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000005863835",
               "num": "4",
               "intOrdre": 171796,
@@ -291,6 +324,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000005863836",
               "num": "5",
               "intOrdre": 214745,
@@ -298,6 +332,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000005863837",
               "num": "6",
               "intOrdre": 257694,
@@ -305,6 +340,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000005863838",
               "num": "7",
               "intOrdre": 300643,
@@ -312,6 +348,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000005863839",
               "num": "8",
               "intOrdre": 343592,
@@ -319,6 +356,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000005863840",
               "num": "9",
               "intOrdre": 386541,
@@ -326,6 +364,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000005863841",
               "num": "10",
               "intOrdre": 429490,
@@ -333,6 +372,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000005863842",
               "num": "11",
               "intOrdre": 472439,
@@ -340,6 +380,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000005863843",
               "num": "12",
               "intOrdre": 515388,
@@ -347,6 +388,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000005863845",
               "num": "13",
               "intOrdre": 558337,
@@ -356,17 +398,19 @@
           ]
         },
         {
-          "id": "KALITEXT000005684880",
+          "type": "section",
           "title": "Elargissement du champ d'application de la convention Protocole d'accord du 6 avril 1993",
-          "dateParution": 32472144000000,
-          "sections": [
+          "id": "KALITEXT000005684880",
+          "children": [
             {
-              "id": "KALISCTA000005729134",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Elargissement du champ d'application de la convention des psychiatres.",
+              "id": "KALISCTA000005729134",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005863846",
                   "num": "1er",
                   "intOrdre": 42949,
@@ -374,6 +418,7 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000005863847",
                   "num": "2",
                   "intOrdre": 85898,
@@ -381,6 +426,7 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000005863848",
                   "num": "3",
                   "intOrdre": 128847,
@@ -388,6 +434,7 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000005863849",
                   "num": "4",
                   "intOrdre": 171796,
@@ -395,6 +442,7 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000005863850",
                   "num": "5",
                   "intOrdre": 214745,
@@ -408,10 +456,12 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 3,
       "title": "Textes Salaires",
-      "etat": "VIGUEUR"
+      "id": null,
+      "etat": "VIGUEUR",
+      "children": []
     }
   ]
 }

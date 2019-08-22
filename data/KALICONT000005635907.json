@@ -1,40 +1,33 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale du personnel des sociétés coopératives d'HLM du 15 mai 1990. ",
   "id": "KALICONT000005635907",
   "num": "1588",
-  "title": "Convention collective nationale du personnel des sociétés coopératives d'HLM du 15 mai 1990. ",
   "shortTitle": "Hlm Sociétés Coopératives",
-  "categorisation": [
-    "Personnel des sociétés coopératives d'HLM"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000005649795",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale du personnel des sociétés coopératives d'HLM du 15 mai 1990. ",
+      "id": "KALITEXT000005649795",
       "etat": "VIGUEUR_NON_ETEN",
-      "articles": [
+      "children": [
         {
-          "id": "KALIARTI000005781185",
-          "num": "Préambule",
-          "intOrdre": 42949,
-          "content": "<p>La convention collective du personnel des sociétés coopératives d'HLM a pour but de déterminer les conditions minimales qui régissent les contrats de travail liant les salariés aux sociétés coopératives.</p><p>Elle doit assurer aux salariés, quel que soit leur grade ou leur fonction, la sécurité matérielle et morale sans laquelle il ne peut être question d'un travail efficace.</p><p>Mais les sociétés coopératives, dont l'activité désintéressée n'est plus à souligner, ne disposent que des ressources qui leur sont accordées par la réglementation en vigueur.</p><p>Le problème qui se pose est donc celui de la définition d'une convention collective qui tienne compte des deux impératifs précédents : sécurité de l'emploi et possibilités financières des sociétés.</p><p>En réalité, d'ailleurs, la question est rendue encore plus complexe par le fait que la situation des sociétés peut être différente.</p><p>Dans ces conditions, il est nécessaire de prendre exactement conscience des possibilités de chacune d'entre elles, et de ne pas déterminer les règles de la convention collective, par définition applicable à tous, sur quelques exemples particuliers.</p><p>L'esprit coopératif se doit de présider à l'élaboration des dispositions de la convention collective qui doit être un instrument d'entente et de solidarité entre ceux qui auront mission de l'appliquer.</p>",
-          "etat": "MODIFIE"
-        }
-      ],
-      "sections": [
-        {
-          "id": "KALISCTA000005696190",
+          "type": "section",
           "intOrdre": 85898,
           "title": "Dispositions générales",
+          "id": "KALISCTA000005696190",
           "etat": "VIGUEUR_NON_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000023111943",
+              "type": "section",
               "intOrdre": 64423,
               "title": "Champ d'application",
+              "id": "KALISCTA000023111943",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023124342",
                   "num": "1",
                   "intOrdre": 1073741823,
@@ -44,12 +37,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005736524",
+              "type": "section",
               "intOrdre": 171796,
               "title": "Application volontaire de la convention collective.",
+              "id": "KALISCTA000005736524",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005781190",
                   "num": "1 bis",
                   "intOrdre": 42949,
@@ -60,12 +55,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005736526",
+              "type": "section",
               "intOrdre": 300643,
               "title": "Durée, révision et dénonciation de la convention collective",
+              "id": "KALISCTA000005736526",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023124339",
                   "num": "2",
                   "intOrdre": 85898,
@@ -77,18 +74,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005696191",
+          "type": "section",
           "intOrdre": 128847,
           "title": "Droit syndical",
+          "id": "KALISCTA000005696191",
           "etat": "VIGUEUR_NON_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005736527",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Droit syndical",
+              "id": "KALISCTA000005736527",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000027218651",
                   "num": "3",
                   "intOrdre": 42949,
@@ -98,12 +98,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005736528",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Représentation du personnel",
+              "id": "KALISCTA000005736528",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023124333",
                   "num": "4",
                   "intOrdre": 42949,
@@ -115,18 +117,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005696192",
+          "type": "section",
           "intOrdre": 214745,
           "title": "Commission paritaire nationale",
+          "id": "KALISCTA000005696192",
           "etat": "VIGUEUR_NON_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005736529",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Commission paritaire nationale",
+              "id": "KALISCTA000005736529",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023124330",
                   "num": "5",
                   "intOrdre": 42949,
@@ -138,18 +143,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005696193",
+          "type": "section",
           "intOrdre": 257694,
           "title": "Personnel des sociétés coopératives d'HLM",
+          "id": "KALISCTA000005696193",
           "etat": "VIGUEUR_NON_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005736530",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Définition",
+              "id": "KALISCTA000005736530",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005781204",
                   "num": "6",
                   "intOrdre": 42949,
@@ -160,12 +168,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005736531",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Recrutement",
+              "id": "KALISCTA000005736531",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000031698698",
                   "num": "7",
                   "intOrdre": 42949,
@@ -175,12 +185,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005736532",
+              "type": "section",
               "intOrdre": 171796,
               "title": "Procédure de recrutement",
+              "id": "KALISCTA000005736532",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000027218646",
                   "num": "8",
                   "intOrdre": 42949,
@@ -190,12 +202,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005736533",
+              "type": "section",
               "intOrdre": 257694,
               "title": "Personnel sous contrat à durée indéterminée : période d'essai",
+              "id": "KALISCTA000005736533",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000027218642",
                   "num": "9",
                   "intOrdre": 42949,
@@ -205,12 +219,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005736534",
+              "type": "section",
               "intOrdre": 343592,
               "title": "Personnel sous contrat à durée déterminée",
+              "id": "KALISCTA000005736534",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023124324",
                   "num": "10",
                   "intOrdre": 42949,
@@ -220,12 +236,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005736535",
+              "type": "section",
               "intOrdre": 429490,
               "title": "Droits des personnels à l'essai et des contrats à durée déterminée",
+              "id": "KALISCTA000005736535",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023124321",
                   "num": "11",
                   "intOrdre": 42949,
@@ -235,12 +253,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005736536",
+              "type": "section",
               "intOrdre": 558337,
               "title": "Classification",
+              "id": "KALISCTA000005736536",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005781227",
                   "num": "12",
                   "intOrdre": 42949,
@@ -251,12 +271,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005736537",
+              "type": "section",
               "intOrdre": 601286,
               "title": "Discipline",
+              "id": "KALISCTA000005736537",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023124318",
                   "num": "13",
                   "intOrdre": 42949,
@@ -268,18 +290,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005696195",
+          "type": "section",
           "intOrdre": 300643,
           "title": "Préavis et indemnités",
+          "id": "KALISCTA000005696195",
           "etat": "VIGUEUR_NON_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005736538",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Préavis et indemnité de licenciement",
+              "id": "KALISCTA000005736538",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023124315",
                   "num": "14",
                   "intOrdre": 42949,
@@ -289,12 +314,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005736539",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Licenciement collectif",
+              "id": "KALISCTA000005736539",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023124312",
                   "num": "15",
                   "intOrdre": 42949,
@@ -304,12 +331,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005736540",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Age de fin de carrière",
+              "id": "KALISCTA000005736540",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023124309",
                   "num": "16",
                   "intOrdre": 42949,
@@ -319,12 +348,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005736541",
+              "type": "section",
               "intOrdre": 171796,
               "title": "Indemnité de fin de carrière",
+              "id": "KALISCTA000005736541",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023124306",
                   "num": "17",
                   "intOrdre": 42949,
@@ -334,12 +365,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005736542",
+              "type": "section",
               "intOrdre": 214745,
               "title": "Congés annuels.",
+              "id": "KALISCTA000005736542",
               "etat": "MODIFIE",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023124302",
                   "num": "18",
                   "intOrdre": 42949,
@@ -349,12 +382,14 @@
               ]
             },
             {
-              "id": "KALISCTA000023124304",
+              "type": "section",
               "intOrdre": 214745,
               "title": "Congés",
+              "id": "KALISCTA000023124304",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023124302",
                   "num": "18",
                   "intOrdre": 42949,
@@ -364,12 +399,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005736544",
+              "type": "section",
               "intOrdre": 300643,
               "title": "Maladie  - Accident du travail.",
+              "id": "KALISCTA000005736544",
               "etat": "MODIFIE",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023124296",
                   "num": "19",
                   "intOrdre": 42949,
@@ -379,12 +416,14 @@
               ]
             },
             {
-              "id": "KALISCTA000023124298",
+              "type": "section",
               "intOrdre": 300643,
               "title": "Maladie  - Accident du travail",
+              "id": "KALISCTA000023124298",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023124296",
                   "num": "19",
                   "intOrdre": 42949,
@@ -394,12 +433,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005736545",
+              "type": "section",
               "intOrdre": 343592,
               "title": "Rémunération.",
+              "id": "KALISCTA000005736545",
               "etat": "MODIFIE",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000031698701",
                   "num": "20",
                   "intOrdre": 42949,
@@ -409,12 +450,14 @@
               ]
             },
             {
-              "id": "KALISCTA000023124294",
+              "type": "section",
               "intOrdre": 343592,
               "title": "Rémunération",
+              "id": "KALISCTA000023124294",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000031698701",
                   "num": "20",
                   "intOrdre": 42949,
@@ -426,18 +469,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005696198",
+          "type": "section",
           "intOrdre": 386541,
           "title": "Allocations diverses",
+          "id": "KALISCTA000005696198",
           "etat": "VIGUEUR_NON_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005736547",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Prime d'ancienneté",
+              "id": "KALISCTA000005736547",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023124289",
                   "num": "21",
                   "intOrdre": 42949,
@@ -447,12 +493,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005736548",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Gratification de fin d'année",
+              "id": "KALISCTA000005736548",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023124286",
                   "num": "22",
                   "intOrdre": 42949,
@@ -462,12 +510,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005736549",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Primes de vacances",
+              "id": "KALISCTA000005736549",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000031126669",
                   "num": "23",
                   "intOrdre": 42949,
@@ -477,12 +527,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005736550",
+              "type": "section",
               "intOrdre": 171796,
               "title": "Indemnité de fonctions",
+              "id": "KALISCTA000005736550",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023124280",
                   "num": "24",
                   "intOrdre": 42949,
@@ -492,12 +544,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005736551",
+              "type": "section",
               "intOrdre": 214745,
               "title": "Frais de déplacement - Achat de véhicule",
+              "id": "KALISCTA000005736551",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023124276",
                   "num": "25",
                   "intOrdre": 42949,
@@ -509,18 +563,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005696200",
+          "type": "section",
           "intOrdre": 429490,
           "title": "Retraite et prévoyance",
+          "id": "KALISCTA000005696200",
           "etat": "VIGUEUR_NON_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005736552",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Retraite.",
+              "id": "KALISCTA000005736552",
               "etat": "MODIFIE",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023124271",
                   "num": "26",
                   "intOrdre": 42949,
@@ -530,12 +587,14 @@
               ]
             },
             {
-              "id": "KALISCTA000023124274",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Retraite",
+              "id": "KALISCTA000023124274",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023124271",
                   "num": "26",
                   "intOrdre": 42949,
@@ -545,12 +604,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005736553",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Prévoyance",
+              "id": "KALISCTA000005736553",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023124268",
                   "num": "27",
                   "intOrdre": 42949,
@@ -560,12 +621,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005736554",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Durée du travail",
+              "id": "KALISCTA000005736554",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023124265",
                   "num": "28",
                   "intOrdre": 42949,
@@ -575,12 +638,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005736556",
+              "type": "section",
               "intOrdre": 214745,
               "title": "Formation professionnelle",
+              "id": "KALISCTA000005736556",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000031126647",
                   "num": "30",
                   "intOrdre": 42949,
@@ -590,75 +655,48 @@
               ]
             }
           ]
+        },
+        {
+          "type": "article",
+          "id": "KALIARTI000005781185",
+          "num": "Préambule",
+          "intOrdre": 42949,
+          "content": "<p>La convention collective du personnel des sociétés coopératives d'HLM a pour but de déterminer les conditions minimales qui régissent les contrats de travail liant les salariés aux sociétés coopératives.</p><p>Elle doit assurer aux salariés, quel que soit leur grade ou leur fonction, la sécurité matérielle et morale sans laquelle il ne peut être question d'un travail efficace.</p><p>Mais les sociétés coopératives, dont l'activité désintéressée n'est plus à souligner, ne disposent que des ressources qui leur sont accordées par la réglementation en vigueur.</p><p>Le problème qui se pose est donc celui de la définition d'une convention collective qui tienne compte des deux impératifs précédents : sécurité de l'emploi et possibilités financières des sociétés.</p><p>En réalité, d'ailleurs, la question est rendue encore plus complexe par le fait que la situation des sociétés peut être différente.</p><p>Dans ces conditions, il est nécessaire de prendre exactement conscience des possibilités de chacune d'entre elles, et de ne pas déterminer les règles de la convention collective, par définition applicable à tous, sur quelques exemples particuliers.</p><p>L'esprit coopératif se doit de présider à l'élaboration des dispositions de la convention collective qui doit être un instrument d'entente et de solidarité entre ceux qui auront mission de l'appliquer.</p>",
+          "etat": "MODIFIE"
         }
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000027779159",
-          "title": "Avenant du 29 novembre 2012 à l'accord du 30 juin 2005 relatif à la formation professionnelle tout au long de la vie",
-          "dateParution": 1375228800000,
-          "articles": [
-            {
-              "id": "KALIARTI000027779162",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p align='left'><br/>il est conclu le présent avenant à l'<a alt='accord collectif national du 30 juin 2005 sur la formation professionnelle' href='/affichIDCC.do?cidTexte=KALITEXT000005649815&categorieLien=cid'>accord collectif national du 30 juin 2005 sur la formation professionnelle </a>tout au long de la vie dans les sociétés coopératives d'HLM. <br/>Le présent accord a pour objet, dans le cadre de l'<a alt='Code du travail - art. L6332-18 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904360&dateTexte=&categorieLien=cid'>article L. 6332-18</a> portant création du fonds paritaire de sécurisation des parcours professionnels (FPSPP), de fixer les modalités permettant de répartir les sommes mentionnées aux <a alt='Code du travail - art. L6332-19 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904361&dateTexte=&categorieLien=cid'>1° et 2° de l'article L. 6332-19 du code du travail</a>. <br/>Les parties signataires décident :</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000027779165",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Le présent accord s'applique à l'ensemble des entreprises telles que définies à l'<a alt='Convention collective nationale du 15 mai 1990 -  Champ d'application (VNE)' href='/affichIDCC.do?cidTexte=KALITEXT000005649795&idSectionTA=KALISCTA000023111943&categorieLien=cid'>article 1er « Champ d'application » de la convention collective nationale du personnel des sociétés coopératives d'HLM</a>.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Champ d'application"
-            },
-            {
-              "id": "KALIARTI000027779166",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Le montant calculé selon les modalités fixées par l'<a alt='Code du travail - art. L6332-19 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904361&dateTexte=&categorieLien=cid'>article L. 6332-19 du code du travail</a> est réparti comme suit :</p><p align='center'><br/>Au titre du plan de formation</p><p align='left'><br/>La somme correspondant à 60 % du pourcentage, fixé annuellement par arrêté ministériel, de la participation légale au titre du plan de formation.</p><p align='center'><br/>Au titre de la professionnalisation</p><p align='left'><br/>La somme correspondant à 100 % du pourcentage, fixé annuellement par arrêté ministériel, de la participation légale au titre de la professionnalisation majorée du solde de 40 % du pourcentage, fixé annuellement par arrêté ministériel, de la participation légale au titre du plan de formation.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Répartition"
-            },
-            {
-              "id": "KALIARTI000027779168",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Cette décision s'applique à compter de la collecte assise sur les masses salariales 2013.<br/>Les parties conviennent de se revoir dans la mesure où les besoins de financement résultant des engagements de formation pris par Uniformation au titre de la professionnalisation et du plan de formation où l'évolution des taux tels qu'ils résultent de l'<a alt='Code du travail - art. L6332-19 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904361&dateTexte=&categorieLien=cid'>article L. 6332-19 du code du travail</a> conduiraient à modifier cette répartition. La décision sera prise par les parties signataires du présent accord au vu du bilan annuel produit par Uniformation.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Date d'application"
-            },
-            {
-              "id": "KALIARTI000027779170",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>La dénonciation du présent accord s'effectue selon les <a alt='Code du travail - art. L2261-9 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid'>dispositions des articles L. 2261-9 et suivants du code du travail</a>.<br/>La demande de révision du présent accord peut s'effectuer par l'un des signataires conformément à la procédure prévue aux <a alt='Code du travail - art. L2261-7 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid'>articles L. 2261-7 et suivants du code du travail</a>.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Dénonciation. – Révision"
-            },
-            {
-              "id": "KALIARTI000027779173",
-              "num": "5",
-              "intOrdre": 3145722,
-              "content": "<p align='left'><br/>Conformément aux <a alt='Code du travail - art. L2231-6 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>articles L. 2231-6 </a>et <a alt='Code du travail - art. D2231-3 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485209&dateTexte=&categorieLien=cid'>D. 2231-3 du code du travail</a>, le présent accord sera déposé par la partie la plus diligente auprès des services centraux du ministre chargé du travail en un exemplaire original sur support papier et un exemplaire sur support électronique. <br/>Les parties signataires conviennent de procéder à la demande d'extension du présent accord. <br/>Après avoir lu et paraphé la page précédente, les représentants mentionnés ci-après ont approuvé et signé l'ensemble de l'accord au nom de leur organisation.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Dépôt. – Extension"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000036550615",
+          "type": "section",
           "title": "Accord du 19 janvier 2017 portant création de la commission paritaire permanente de négociation et d'interprétation (CPPNI)",
-          "dateParution": 1517184000000,
-          "articles": [
+          "id": "KALITEXT000036550615",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000036550618",
+              "etat": "VIGUEUR_NON_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000036550634",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'><br/>En application des dispositions des articles <a alt='Code du travail - art. L2232-9 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901694&dateTexte=&categorieLien=cid'>L. 2232-9</a> et <a alt='Code du travail - art. D2232-1-1 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033500174&dateTexte=&categorieLien=cid'>D. 2232-1-1</a> du code du travail, il est institué, au niveau de la branche professionnelle du personnel des sociétés coopératives d'HLM une commission paritaire permanente de négociation et d'interprétation.<br/>Le présent accord a pour objet de créer une telle commission pour la branche et d'en déterminer le rôle et les modalités de fonctionnement.</p>",
+                  "etat": "VIGUEUR_NON_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000036550619",
               "num": "1er",
               "intOrdre": 1048574,
@@ -667,6 +705,7 @@
               "surtitre": "Création de la commission paritaire permanente de négociation et d'interprétation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036550620",
               "num": "2",
               "intOrdre": 1572861,
@@ -675,6 +714,7 @@
               "surtitre": "Rôle de la commission paritaire permanente de négociation et d'interprétation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036550624",
               "num": "3",
               "intOrdre": 2097148,
@@ -683,6 +723,7 @@
               "surtitre": "Transmission des accords collectifs des coopératives d'HLM"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036550625",
               "num": "3.1",
               "intOrdre": 2621435,
@@ -691,6 +732,7 @@
               "surtitre": "Accords collectifs à transmettre à la commission"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036550626",
               "num": "3.2",
               "intOrdre": 3145722,
@@ -699,6 +741,7 @@
               "surtitre": "Adresse de la commission paritaire permanente de négociation et d'interprétation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036550627",
               "num": "3.3",
               "intOrdre": 3670009,
@@ -707,6 +750,7 @@
               "surtitre": "Rôle de la commission paritaire permanente de négociation et d'interprétation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036550628",
               "num": "4",
               "intOrdre": 4194296,
@@ -715,6 +759,7 @@
               "surtitre": "Modalités de fonctionnement de la commission paritaire permanente de négociation et d'interprétation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036550629",
               "num": "5",
               "intOrdre": 4718583,
@@ -723,6 +768,7 @@
               "surtitre": "Durée"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036550630",
               "num": "6",
               "intOrdre": 5242870,
@@ -731,6 +777,7 @@
               "surtitre": "Dénonciation et révision"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036550632",
               "num": "7",
               "intOrdre": 5767157,
@@ -739,6 +786,7 @@
               "surtitre": "Dépôt"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036550633",
               "num": "8",
               "intOrdre": 6291444,
@@ -746,349 +794,15 @@
               "etat": "VIGUEUR_NON_ETEN",
               "surtitre": "Date d'entrée en vigueur"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000036550618",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000036550634",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>En application des dispositions des articles <a alt='Code du travail - art. L2232-9 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901694&dateTexte=&categorieLien=cid'>L. 2232-9</a> et <a alt='Code du travail - art. D2232-1-1 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033500174&dateTexte=&categorieLien=cid'>D. 2232-1-1</a> du code du travail, il est institué, au niveau de la branche professionnelle du personnel des sociétés coopératives d'HLM une commission paritaire permanente de négociation et d'interprétation.<br/>Le présent accord a pour objet de créer une telle commission pour la branche et d'en déterminer le rôle et les modalités de fonctionnement.</p>",
-                  "etat": "VIGUEUR_NON_ETEN"
-                }
-              ]
-            }
           ]
         },
         {
-          "id": "KALITEXT000031646776",
-          "title": "Avenant n° 15 du 8 juin 2015 portant modification des articles 7 et 20 relatifs au recrutement et à la rémunération",
-          "dateParution": 1450656000000,
-          "articles": [
-            {
-              "id": "KALIARTI000031646779",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p align='left'><br/>Le présent avenant :<br/>– modifie l'article 7 de la convention collective du personnel des sociétés coopératives d'HLM ;<br/>– annule et remplace le paragraphe « B. – Autres catégories de personnel » de l'<a alt='Rémunérations (VNE)' href='/affichIDCC.do?cidTexte=KALITEXT000027206708&categorieLien=cid'>avenant n° 11 du 14 mai 2012</a> portant sur l'article 20 de la convention collective.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000031646781",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Le deuxième paragraphe de l'article 7 est annulé et remplacé parle paragraphe suivant : <br/>« Chaque embauche sera confirmée par une lettre ou un contrat d'embauche, dans lequel la fonction de l'intéressé et sa classification seront nettement définies, ainsi que le mode de rémunération, et où sera précisée la date de prise en considération pour fixer le point de départ de son ancienneté dans la société. » <br/>Le reste de l'article 7 de la convention collective n'est pas modifié.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Modification de l'article 7 de la convention collective"
-            },
-            {
-              "id": "KALIARTI000031646783",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='center'><br/>« B. – Autres catégories de personnel </p><p align='left'><br/>Pour les autres emplois que ceux de vendeurs commissionnés, les parties conviennent que le salaire complet est constitué par : <br/>1. La rémunération minimale de base correspondant à l'emploi considéré tel que défini dans l'<a alt='Classification des emplois (VNE)' href='/affichIDCC.do?cidTexte=KALITEXT000027300713&categorieLien=cid'>avenant n° 10 du 14 mai 2012 </a>; <br/>2. La prime d'ancienneté au sens de l'article 21 de la convention collective. <br/>Ces salaires minimaux correspondent à la durée légale en vigueur. <br/>Ils sont définis, pour le personnel payé mensuellement, par la commission paritaire nationale. » <br/>Le reste de l'article 20 de la convention collective n'est pas modifié.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Paragraphe B de l'article 20 de la convention collective du personnel des sociétés coopératives d'HLM"
-            },
-            {
-              "id": "KALIARTI000031646785",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Le présent avenant est conclu pour une durée indéterminée.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Durée"
-            },
-            {
-              "id": "KALIARTI000031646786",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Le présent avenant peut être dénoncé à tout moment par l'une des parties signataires, dans le cadre des dispositions prévues aux <a alt='Code du travail - art. L2261-9 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid'>articles L. 2261-9 et suivants du code du travail</a>, moyennant un préavis de 3 mois.<br/>Chaque partie signataire peut demander la révision du présent avenant. Toute demande de révision est faite par lettre recommandée avec avis de réception à chacune des parties signataires et doit être accompagnée d'un projet de révision afin que des négociations puissent être entamées.<br/>Qu'il s'agisse de dénonciation ou de révision, le présent avenant restera en vigueur jusqu'à la date d'application des nouvelles dispositions.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Dénonciation et révision"
-            },
-            {
-              "id": "KALIARTI000031646788",
-              "num": "5",
-              "intOrdre": 3145722,
-              "content": "<p align='left'><br/>Le présent avenant sera déposé en deux exemplaires, dont une version sur support papier signée des parties et une version sur support électronique, auprès des services centraux du ministère du travail accompagné d'une copie de la pièce justificative de la notification du texte à l'ensemble des organisations syndicales représentatives. Il sera également déposé auprès du secrétariat-greffe du conseil des prud'hommes du lieu de conclusion.<br/>Le présent avenant est applicable à partir de sa date de signature.<br/>Après avoir lu et paraphé la page précédente, les représentants mentionnés ont approuvé et signé l'avenant au nom de leur organisation.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Dépôt et entrée en vigueur"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000031123645",
-          "title": "Avenant n° 14 du 18 décembre 2014 relatif aux salaires minimaux et à la prime de vacances",
-          "dateParution": 1441152000000,
-          "articles": [
-            {
-              "id": "KALIARTI000031123648",
-              "num": "1er",
-              "intOrdre": 524287,
-              "content": "<p align='left'><br/>A compter du 1er janvier 2015, les salaires mensuels minimaux ont les valeurs ci-dessous :</p><p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th colspan='4'>Ancienne classification</th><th colspan='2'>Nouvelle classification</th></tr><tr><td align='center'>Employé</td><td align='center'>Classe I</td><td align='center'>Smic</td><td align='center'>Smic</td><td align='center'>A1</td><td align='center'>Smic</td></tr><tr><td><br/></td><td align='center'>Classe II</td><td align='center'>+ 12</td><td align='center'>1 589,60</td><td align='center'>A2</td><td align='center'>1 589,60</td></tr><tr><td><br/></td><td align='center'>Classe III</td><td align='center'>+ 12</td><td align='center'>1 696,40</td><td align='center'>A3</td><td align='center'>1 696,40</td></tr><tr><td align='center'>Agent<br/>de maîtrise</td><td align='center'>Classe I</td><td align='center'>+ 10</td><td align='center'>1 872,40</td><td align='center'>A4</td><td align='center'>1 872,40</td></tr><tr><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>A5</td><td align='center'>2 050,40</td></tr><tr><td><br/></td><td align='center'>Classe II</td><td align='center'>+ 10</td><td align='center'>2 050,40</td><td align='center'>A6</td><td align='center'>2 278,92</td></tr><tr><td align='center'>Cadre</td><td align='center'>Classe I</td><td align='center'>+ 10</td><td align='center'>2 278,92</td><td align='center'>A7</td><td align='center'>2 485,40</td></tr><tr><td><br/></td><td align='center'>Classe II</td><td align='center'>+ 0</td><td align='center'>2 485,40</td><td align='center'>A8</td><td align='center'>2 681,20</td></tr><tr><td><br/></td><td align='center'>Classe III</td><td align='center'>+ 0</td><td align='center'>2 681,20</td><td align='center'>A9</td><td align='center'>2 841,40</td></tr><tr><td><br/></td><td align='center'>Classe IV</td><td align='center'>+ 0</td><td align='center'>2 841,40</td><td align='center'>A10</td><td align='center'>3 108,40</td></tr></table></center></div></p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Objet de la négociation"
-            },
-            {
-              "id": "KALIARTI000031123649",
-              "num": "2",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>La rédaction de l'article 23 de la convention nationale du personnel des sociétés coopératives d'HLM du 15 mai 1990 révisée est annulée et remplacée par la rédaction suivante : <br/>« Une prime de vacances est accordée au personnel ayant 1 an de présence effective entre le 1er juin précédent et le 31 mai de l'année en cours. <br/>Elle est payable avant le départ en congés au plus tard le 30 juin. <br/>Son montant est égal à 45,5 % du minimum mensuel du niveau A2. <br/>Pour le personnel employé à temps partiel, absent pour congé de maladie ou licencié, cette prime est accordée au prorata du temps de présence effective. »</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Primes de vacances"
-            },
-            {
-              "id": "KALIARTI000031123650",
-              "num": "3",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Le présent protocole d'accord s'applique au personnel soumis à la convention collective nationale du personnel des sociétés coopératives d'HLM du 15 mai 1990.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Champ d'application"
-            },
-            {
-              "id": "KALIARTI000031123651",
-              "num": "4",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Le présent protocole d'accord sera déposé en un exemplaire au conseil de prud'hommes de Paris et en un exemplaire papier accompagné d'une version sur support électronique auprès des services centraux du ministre chargé du travail. Il sera remis un original à chacune des parties signataires.<br/>Le présent avenant est applicable à partir du 1er janvier 2015.<br/>Après avoir lu et paraphé la page précédente, les représentants mentionnés ci-après ont approuvé et signé l'ensemble de l'accord au nom de leur organisation.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Publicité et dépôt"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000031123637",
-          "title": "Avenant n° 13 du 18 décembre 2014 relatif à l'article 30 « Formation professionnelle » de la convention",
-          "dateParution": 1441152000000,
-          "articles": [
-            {
-              "id": "KALIARTI000031123640",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p><br/>Le présent avenant modifie l'article 30 de la convention nationale du personnel des sociétés coopératives d'HLM concernant la formation professionnelle afin de prendre en compte la loi du 14 mars 2014 modifiant les taux légaux applicables en matière de formation professionnelle.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000031123641",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>La rédaction de l'article 30 de la convention nationale du personnel des sociétés coopératives d'HLM du 15 mai 1990 révisée est annulée et remplacée par la rédaction suivante : <br/>« La politique de formation dans la branche des sociétés coopératives d'HLM repose sur les objectifs suivants : <br/>– permettre aux salariés de la branche de bénéficier d'actions de formation dans le cadre du plan de formation des sociétés tout au long de leur vie professionnelle ; <br/>– homogénéiser l'accès à la formation quel que soit l'effectif de la société ; <br/>– favoriser l'adaptation des coopératives aux nouveaux enjeux et permettre leur développement ; <br/>– renforcer le professionnalisme des sociétés et de leurs collaborateurs ; <br/>– faciliter la cohérence des pratiques et multiplier les échanges de méthodes et d'expériences. <br/>Considérant ces objectifs, la simple utilisation de la formation comme « boîte à outils » ou de stricte adaptation au poste de travail ne saurait suffire. A ce titre, la loi du 5 mars 2014, en mettant au centre le développement des compétences et les parcours certifiants renforçant la responsabilité de chacun dans le processus de formation tout au long de la vie, appelle le regroupement de moyens pour anticiper les évolutions, conforter les emplois existants, en éviter l'obsolescence, et permettre par les voies de l'alternance d'adapter les jeunes à notre milieu professionnel, tout cela concourant à la sauvegarde et au développement de nos coopératives. <br/>Au regard de ce qui précède, il semble important notamment de développer des formations généralistes interdisciplinaires visant à doter les professionnels de nos entreprises, et ce quel que soit leur niveau hiérarchique, de clés de compréhension et d'analyse du contexte dans lequel s'insère leur action professionnelle, afin de favoriser des pratiques adaptées pertinentes et évolutives. <br/>Pour atteindre ces objectifs, il est décidé de maintenir le pourcentage de la masse salariale collecté : </p><p align='right'><br/>(En pourcentage.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>Tranche </th><th>Plan <br/>LEGAL </th><th>Plan <br/>conventionnel </th><th>Professionnalisation </th><th>CIF CDI </th><th>CPF </th><th>FPSPP </th><th>Total </th></tr><tr><td align='center'>Moins <br/>de 10 salariés </td><td align='center'>0,40 </td><td align='center'>1,289 </td><td align='center'>0,15 </td><td><br/></td><td><br/></td><td><br/></td><td align='center'>1,839 </td></tr><tr><td align='center'>De 10 <br/>à 19 salariés </td><td align='center'>0,20 </td><td align='center'>0,839 </td><td align='center'>0,30 </td><td align='center'>0,15 </td><td align='center'>0,20 </td><td align='center'>0,15 </td><td align='center'>1,84 </td></tr><tr><td align='center'>De 20 <br/>à 49 salariés </td><td align='center'>0,20 </td><td align='center'>1,389 </td><td align='center'>0,30 </td><td align='center'>0,15 </td><td align='center'>0,20 </td><td align='center'>0,15 </td><td align='center'>2,389 </td></tr><tr><td align='center'>De 50 salariés <br/>et plus </td><td align='center'>0,10 </td><td align='center'>1,389 </td><td align='center'>0,30 </td><td align='center'>0,20 </td><td align='center'>0,20 </td><td align='center'>0,20 </td><td align='center'>2,39 </td></tr></table></center></div></p><p align='left'><br/>La commission paritaire, instituée en commission « formation », est chargée du contrôle et du suivi du dispositif ainsi mis en place et du budget qui lui est consacré. <br/>La mise en œuvre de ce dispositif prend effet à compter de la collecte au titre de l'exercice 2015. »</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000031123642",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Le présent avenant peut être dénoncé à tout moment par l'une des parties signataires, dans le cadre des dispositions prévues aux <a alt='Code du travail - art. L2261-9 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid'>articles L. 2261-9 et suivants du code du travail</a>, moyennant un préavis de 3 mois.<br/>Chaque partie signataire peut demander la révision du présent avenant. Toute demande de révision est faite par lettre recommandée avec avis de réception à chacune des parties signataires et doit être accompagnée d'un projet de révision afin que des négociations puissent être entamées.<br/>Qu'il s'agisse de dénonciation ou de révision, le présent avenant restera en vigueur jusqu'à la date d'application des nouvelles dispositions.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Dénonciation et révision"
-            },
-            {
-              "id": "KALIARTI000031123644",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Le présent avenant sera déposé en deux exemplaires, dont une version sur support papier et une version sur support électronique, auprès des services centraux du ministère du travail. Il sera également déposé auprès du secrétariat du conseil des prud'hommes.<br/>Le présent avenant est applicable à partir du 1er janvier 2015.<br/>Après avoir lu et paraphé la page précédente, les représentants mentionnés ci-après ont approuvé et signé l'ensemble de l'accord au nom de leur organisation.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Dépôt et entrée en vigueur"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000031123627",
-          "title": "Avenant n° 12 du 18 décembre 2014 à l'avenant n° 10 du 14 mai 2012 relatif à la classification",
-          "dateParution": 1441152000000,
-          "articles": [
-            {
-              "id": "KALIARTI000031123630",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p><br/>Le présent avenant modifie l'article concernant les conditions d'application dans les entreprises, de <a alt='Classification des emplois (VNE)' href='/affichIDCC.do?cidTexte=KALITEXT000027300713&categorieLien=cid'>l'avenant n° 10</a> relatif à la classification des emplois du personnel dans la branche des coopératives d'HLM conclu le 14 mai 2012.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000031123632",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>La dernière phrase du paragraphe IV « Conditions d'application dans les entreprises » de l'avenant n° 10 est annulée et remplacée par le paragraphe suivant : <br/>« Le positionnement des emplois dans la nouvelle grille de classification relève du pouvoir de direction de l'employeur et devra être réalisé au plus tard le 31 décembre 2015. »</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Conditions d'application dans les entreprises"
-            },
-            {
-              "id": "KALIARTI000031123634",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Le présent avenant peut être dénoncé à tout moment par l'une des parties signataires, dans le cadre des dispositions prévues aux <a alt='Code du travail - art. L2261-9 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid'>articles L. 2261-9 et suivants du code du travail</a> moyennant un préavis de 3 mois.<br/>Chaque partie signataire peut demander la révision du présent avenant. Toute demande de révision est faite par lettre recommandée avec avis de réception à chacune des parties signataires et doit être accompagnée d'un projet de révision afin que des négociations puissent être entamées.<br/>Qu'il s'agisse de dénonciation ou de révision, le présent avenant restera en vigueur jusqu'à la date d'application des nouvelles dispositions.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Dénonciation et révision"
-            },
-            {
-              "id": "KALIARTI000031123636",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Le présent avenant sera déposé en deux exemplaires, dont une version sur support papier et une version sur support électronique, auprès des services centraux du ministère du travail. Il sera également déposé auprès du secrétariat du conseil des prud'hommes.<br/>Le présent avenant est applicable à partir de sa date de signature.<br/>Après avoir lu et paraphé la page précédente, les représentants mentionnés ci-après ont approuvé et signé l'ensemble de l'accord au nom de leur organisation.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Dépôt et entrée en vigueur"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000029439486",
-          "title": "Accord du 30 juin 2014 relatif au temps partiel",
-          "dateParution": 1410393600000,
-          "articles": [
-            {
-              "id": "KALIARTI000029439490",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'>Le présent accord a pour objet de fixer les conditions d'exercice du travail à temps partiel au sein de la branche des sociétés coopératives d'HLM à la suite de l'entrée en vigueur de la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000027546648&categorieLien=cid'>loi du 14 juin 2013 relative à la sécurisation de l'emploi</a>.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Objet et champ d'application"
-            },
-            {
-              "id": "KALIARTI000029439491",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Trois catégories d'emplois sont concernées par cet accord :<br/>– le personnel de proximité ;<br/>– le personnel de direction ;<br/>– le personnel participant à l'animation du sociétariat (conseil d'administration, conseil de surveillance, assemblée générale…).<br/>Les autres catégories de personnel travaillant à temps partiel restent soumises aux dispositions légales prévues aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902541&dateTexte=&categorieLien=cid'>articles L. 3123-1 à L. 3123-30 du code du travail</a>.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Personnel concerné"
-            },
-            {
-              "id": "KALIARTI000029439493",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Selon l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000027550508&dateTexte=&categorieLien=cid'>article L. 3123-14-1 du code du travail</a>, la durée minimale de travail à temps partiel est fixée à 24 heures par semaine ou l'équivalent mensuel ou calculé sur une période d'aménagement du temps de travail prévue par un accord collectif.<br/>Compte tenu des activités des coopératives, il peut être dérogé selon les conditions prévues au présent article à la durée minimale prévue par la loi pour les personnels définis dans l'article 2.<br/>La durée minimale de travail du salarié à temps partiel est fixée dans les coopératives d'Hlm à 2 heures par semaine ou son équivalent mensuel ou annuel pour les seuls emplois définis dans l'article 2.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Durée minimale d'activité"
-            },
-            {
-              "id": "KALIARTI000029439495",
-              "num": "3.1",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Pour le personnel visé à l'article 2 du présent accord, tout recrutement à temps partiel donnera lieu obligatoirement à l'établissement d'un contrat de travail écrit mentionnant notamment :<br/>– la qualification du salarié ;<br/>– les éléments de la rémunération ;<br/>– la durée hebdomadaire ou mensuelle du travail ;<br/>– la répartition de la durée du travail entre les jours de la semaine ou les semaines du mois ;<br/>– les modalités selon lesquelles les horaires de travail pour chaque journée travaillée seront communiqués par écrit au salarié ;<br/>– les cas dans lesquels une modification de la répartition des horaires peut avoir lieu et la nature de cette modification ;<br/>– les conditions de recours aux heures complémentaires ainsi que leur nombre maximum ;<br/>– la priorité dont bénéficient les salariés à temps partiel souhaitant occuper ou reprendre un emploi à temps complet pour l'attribution d'un emploi ressortissant à leur catégorie professionnelle ou d'un emploi équivalent dans les conditions de l'article 6 du présent accord ;<br/>– la convention collective appliquée par l'entreprise.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Contrat de travail à temps partiel"
-            },
-            {
-              "id": "KALIARTI000029439496",
-              "num": "4",
-              "intOrdre": 3145722,
-              "content": "<p align='left'><br/>Les salariés bénéficiant du cumul de plusieurs emplois disposent de la faculté de refuser le changement de leur planning dès lors que ce changement n'est pas compatible avec l'exercice d'une autre activité professionnelle salariée ou non salariée. Dans ce cas, l'existence du cumul de plusieurs emplois doit être portée à la connaissance de l'employeur.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Cumul de plusieurs emplois et changement du planning"
-            },
-            {
-              "id": "KALIARTI000029439497",
-              "num": "5",
-              "intOrdre": 3670009,
-              "content": "<p align='left'><br/>Afin de permettre au salarié de cumuler plusieurs activités de manière à atteindre une durée globale d'activité professionnelle correspondant à un temps plein ou au moins égal à la durée minimale légale de travail de 24 heures (calculée dans le cadre de l'aménagement de la durée de travail), les horaires de travail des salariés à temps partiel visés à l'article 2 seront regroupés sur des demi-journées ou journées complètes.<br/>Les horaires de travail du salarié seront regroupés sur des journées ou des demi-journées de la façon suivante :<br/>La journée complète se définit comme toute journée de travail qui comporte au minimum 2 heures de travail effectif.<br/>D'autres modalités de regroupement des horaires de travail sur la demi-journée ou la journée complète ou régulière peuvent être prévues par accord d'entreprise.<br/>L'entreprise organise alors la planification du temps de travail en journées complètes ou demi-journées. Cette répartition du temps de travail est prévue par le contrat de travail ou un avenant à celui-ci telle que prévue à l'article 3.1.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Regroupement des horaires de travail sur des demi-journées ou des journées complètes"
-            },
-            {
-              "id": "KALIARTI000029439498",
-              "num": "6",
-              "intOrdre": 4194296,
-              "content": "<p align='left'><br/>Les salariés à temps partiel bénéficient d'une priorité pour l'attribution, dans la structure qui les emploie, d'un poste disponible à temps complet ou à temps partiel dont l'horaire de travail est plus important que le leur et ressortissant à leur catégorie professionnelle ou d'un emploi équivalent.<br/>L'employeur porte à la connaissance de ces salariés, par voie d'affichage, la liste des emplois disponibles correspondant.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Priorité d'emploi"
-            },
-            {
-              "id": "KALIARTI000029439499",
-              "num": "7",
-              "intOrdre": 4718583,
-              "content": "<p align='left'><br/>Les heures complémentaires effectuées au-delà de la durée contractuelle, dans la limite de 1/10 de cette durée, sont majorées au taux prévu par la loi, soit 10 %.<br/>Au titre de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902558&dateTexte=&categorieLien=cid'>article L. 3123-18 du code du travail</a>, le nombre d'heures complémentaires peut être porté au-delà de 1/10 de la durée contractuelle de travail, et ce dans la limite de 1/3 de cette même durée. Les heures réalisées dans ce cadre sont majorées à un taux de 20 %.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Heures complémentaires"
-            },
-            {
-              "id": "KALIARTI000029439501",
-              "num": "8",
-              "intOrdre": 5242870,
-              "content": "",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Dispositions d'application"
-            },
-            {
-              "id": "KALIARTI000029439502",
-              "num": "8.1",
-              "intOrdre": 5767157,
-              "content": "<p align='left'><br/>Il est constitué une commission de suivi du présent accord au sein de la commission paritaire nationale. Cette commission se réunira au moins une fois par an. Elle a pour mission :<br/>– le suivi de l'application de ces dispositions ;<br/>– la proposition de modifications au regard d'un bilan réalisé par ses soins ;<br/>– la réalisation de tout document permettant la bonne compréhension du texte pour les salariés et les employeurs.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Commission de suivi"
-            },
-            {
-              "id": "KALIARTI000029439503",
-              "num": "8.2",
-              "intOrdre": 6291444,
-              "content": "<p align='left'><br/>Le présent accord est conclu pour une durée indéterminée.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Durée de l'accord"
-            },
-            {
-              "id": "KALIARTI000029439504",
-              "num": "8.3",
-              "intOrdre": 6815731,
-              "content": "<p align='left'><br/>Le présent accord peut être révisé et dénoncé totalement ou partiellement dans les conditions prévues par le code du travail.<br/>A la demande d'une des parties signataires, une négociation relative aux catégories de salariés concernés pourra s'engager chaque année à la date anniversaire du présent accord et la liste des catégories d'emplois prévues à l'article 2 pourra être modifiée par avenant.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Révision et dénonciation"
-            },
-            {
-              "id": "KALIARTI000029439506",
-              "num": "8.4",
-              "intOrdre": 7340018,
-              "content": "<p align='left'><br/>Les parties conviennent qu'elles demanderont l'extension du présent accord et des avenants qui viendraient à le modifier en vue de les rendre accessibles à toutes les entreprises concernées par le champ d'application.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Extension"
-            },
-            {
-              "id": "KALIARTI000029439507",
-              "num": "8.5",
-              "intOrdre": 7864305,
-              "content": "<p align='left'><br/>Le présent accord entrera en vigueur au 1er juillet 2014.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Date d'effet"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000029439489",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000029439508",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>Suite à la promulgation de la loi sur la sécurisation de l'emploi du 14 juin 2013, les partenaires sociaux ont fait le choix d'engager une négociation sur les modalités de mise en œuvre des dispositions prévues pour les salariés à temps partiel compte tenu de la nécessité pour les entreprises de la branche de recourir au temps partiel.<br/>Selon le rapport d'activité et d'orientation de la fédération de 2013, la branche est caractérisée par une forte proportion de petites entreprises (effectif moyen par coopérative de 10,6 salariés en 2012). Ainsi, 67 % des coopératives emploient moins de 10 salariés, et seules deux structures comptent plus de 50 salariés.<br/>Dans la branche, le travail à temps partiel inférieur à 24 heures par semaine concerne 17 % du personnel de direction et 14 % du personnel de proximité.<br/>Les coopératives sont attentives à la conciliation entre la vie professionnelle et la vie personnelle.</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000029439509",
-          "title": "Adhésion par lettre du 15 juillet 2014 de la FPSPS FO à l'accord du 30 juin 2014 relatif au temps partiel",
-          "dateParution": 32472144000000,
-          "articles": [
-            {
-              "id": "KALIARTI000029439512",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p><br/>Paris, le 15 juillet 2014. <br/>FPSPS FO<br/>153-155, rue de Rome <br/>75017 Paris <br/>Madame, Monsieur, <br/>Par application de l'<a alt='Code du travail - art. L2261-3 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901781&dateTexte=&categorieLien=cid'>article L. 2261-3 du code du travail</a>, je vous informe que la fédération des personnels des services publics et des services de santé FO a décidé d'adhérer par la présente à l'<a alt='relatif au temps partiel (VNE)' href='/affichIDCC.do?cidTexte=KALITEXT000029439486&categorieLien=cid'>accord national du 30 juin 2014 </a>relatif au travail à temps partiel dans les sociétés coopératives d'HLM. <br/>Je vous prie de croire, Madame, Monsieur, en l'assurance de mes salutations distinguées. </p><p><br/>Le secrétaire général.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000033028514",
+          "type": "section",
           "title": "Avenant n° 16 du 17 mars 2016 modifiant l'avenant n° 10 du 14 mai 2012 relatif à la classification des emplois",
-          "dateParution": 1471219200000,
-          "articles": [
+          "id": "KALITEXT000033028514",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000033028517",
               "num": null,
               "intOrdre": 524287,
@@ -1096,6 +810,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033028519",
               "num": "1er",
               "intOrdre": 1048574,
@@ -1104,6 +819,7 @@
               "surtitre": "Remplacement du terme « statut » par les termes « catégorie professionnelle » dans le titre II « La grille de classification », paragraphe B, « Le relationnel »"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033028520",
               "num": "2",
               "intOrdre": 1572861,
@@ -1112,6 +828,7 @@
               "surtitre": "Modification du titre III relatif au barème des rémunérations minima"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033028521",
               "num": "3",
               "intOrdre": 2097148,
@@ -1120,6 +837,7 @@
               "surtitre": "Titre III bis relatif aux catégories professionnelles d'employé, d'agent de maîtrise et de cadre"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033028522",
               "num": "4",
               "intOrdre": 2621435,
@@ -1128,6 +846,7 @@
               "surtitre": "Durée"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033028523",
               "num": "5",
               "intOrdre": 3145722,
@@ -1136,6 +855,7 @@
               "surtitre": "Dénonciation et révision du présent avenant"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033028525",
               "num": "6",
               "intOrdre": 3670009,
@@ -1144,6 +864,7 @@
               "surtitre": "Dépôt"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033028526",
               "num": "7",
               "intOrdre": 4194296,
@@ -1154,11 +875,423 @@
           ]
         },
         {
-          "id": "KALITEXT000027300713",
-          "title": "Avenant n° 10 du 14 mai 2012 relatif à la classification des emplois",
-          "dateParution": 1365984000000,
-          "articles": [
+          "type": "section",
+          "title": "Avenant n° 15 du 8 juin 2015 portant modification des articles 7 et 20 relatifs au recrutement et à la rémunération",
+          "id": "KALITEXT000031646776",
+          "children": [
             {
+              "type": "article",
+              "id": "KALIARTI000031646779",
+              "num": null,
+              "intOrdre": 524287,
+              "content": "<p align='left'><br/>Le présent avenant :<br/>– modifie l'article 7 de la convention collective du personnel des sociétés coopératives d'HLM ;<br/>– annule et remplace le paragraphe « B. – Autres catégories de personnel » de l'<a alt='Rémunérations (VNE)' href='/affichIDCC.do?cidTexte=KALITEXT000027206708&categorieLien=cid'>avenant n° 11 du 14 mai 2012</a> portant sur l'article 20 de la convention collective.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000031646781",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>Le deuxième paragraphe de l'article 7 est annulé et remplacé parle paragraphe suivant : <br/>« Chaque embauche sera confirmée par une lettre ou un contrat d'embauche, dans lequel la fonction de l'intéressé et sa classification seront nettement définies, ainsi que le mode de rémunération, et où sera précisée la date de prise en considération pour fixer le point de départ de son ancienneté dans la société. » <br/>Le reste de l'article 7 de la convention collective n'est pas modifié.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Modification de l'article 7 de la convention collective"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000031646783",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='center'><br/>« B. – Autres catégories de personnel </p><p align='left'><br/>Pour les autres emplois que ceux de vendeurs commissionnés, les parties conviennent que le salaire complet est constitué par : <br/>1. La rémunération minimale de base correspondant à l'emploi considéré tel que défini dans l'<a alt='Classification des emplois (VNE)' href='/affichIDCC.do?cidTexte=KALITEXT000027300713&categorieLien=cid'>avenant n° 10 du 14 mai 2012 </a>; <br/>2. La prime d'ancienneté au sens de l'article 21 de la convention collective. <br/>Ces salaires minimaux correspondent à la durée légale en vigueur. <br/>Ils sont définis, pour le personnel payé mensuellement, par la commission paritaire nationale. » <br/>Le reste de l'article 20 de la convention collective n'est pas modifié.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Paragraphe B de l'article 20 de la convention collective du personnel des sociétés coopératives d'HLM"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000031646785",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Le présent avenant est conclu pour une durée indéterminée.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Durée"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000031646786",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Le présent avenant peut être dénoncé à tout moment par l'une des parties signataires, dans le cadre des dispositions prévues aux <a alt='Code du travail - art. L2261-9 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid'>articles L. 2261-9 et suivants du code du travail</a>, moyennant un préavis de 3 mois.<br/>Chaque partie signataire peut demander la révision du présent avenant. Toute demande de révision est faite par lettre recommandée avec avis de réception à chacune des parties signataires et doit être accompagnée d'un projet de révision afin que des négociations puissent être entamées.<br/>Qu'il s'agisse de dénonciation ou de révision, le présent avenant restera en vigueur jusqu'à la date d'application des nouvelles dispositions.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Dénonciation et révision"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000031646788",
+              "num": "5",
+              "intOrdre": 3145722,
+              "content": "<p align='left'><br/>Le présent avenant sera déposé en deux exemplaires, dont une version sur support papier signée des parties et une version sur support électronique, auprès des services centraux du ministère du travail accompagné d'une copie de la pièce justificative de la notification du texte à l'ensemble des organisations syndicales représentatives. Il sera également déposé auprès du secrétariat-greffe du conseil des prud'hommes du lieu de conclusion.<br/>Le présent avenant est applicable à partir de sa date de signature.<br/>Après avoir lu et paraphé la page précédente, les représentants mentionnés ont approuvé et signé l'avenant au nom de leur organisation.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Dépôt et entrée en vigueur"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 12 du 18 décembre 2014 à l'avenant n° 10 du 14 mai 2012 relatif à la classification",
+          "id": "KALITEXT000031123627",
+          "children": [
+            {
+              "type": "article",
+              "id": "KALIARTI000031123630",
+              "num": null,
+              "intOrdre": 524287,
+              "content": "<p><br/>Le présent avenant modifie l'article concernant les conditions d'application dans les entreprises, de <a alt='Classification des emplois (VNE)' href='/affichIDCC.do?cidTexte=KALITEXT000027300713&categorieLien=cid'>l'avenant n° 10</a> relatif à la classification des emplois du personnel dans la branche des coopératives d'HLM conclu le 14 mai 2012.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000031123632",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>La dernière phrase du paragraphe IV « Conditions d'application dans les entreprises » de l'avenant n° 10 est annulée et remplacée par le paragraphe suivant : <br/>« Le positionnement des emplois dans la nouvelle grille de classification relève du pouvoir de direction de l'employeur et devra être réalisé au plus tard le 31 décembre 2015. »</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Conditions d'application dans les entreprises"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000031123634",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Le présent avenant peut être dénoncé à tout moment par l'une des parties signataires, dans le cadre des dispositions prévues aux <a alt='Code du travail - art. L2261-9 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid'>articles L. 2261-9 et suivants du code du travail</a> moyennant un préavis de 3 mois.<br/>Chaque partie signataire peut demander la révision du présent avenant. Toute demande de révision est faite par lettre recommandée avec avis de réception à chacune des parties signataires et doit être accompagnée d'un projet de révision afin que des négociations puissent être entamées.<br/>Qu'il s'agisse de dénonciation ou de révision, le présent avenant restera en vigueur jusqu'à la date d'application des nouvelles dispositions.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Dénonciation et révision"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000031123636",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Le présent avenant sera déposé en deux exemplaires, dont une version sur support papier et une version sur support électronique, auprès des services centraux du ministère du travail. Il sera également déposé auprès du secrétariat du conseil des prud'hommes.<br/>Le présent avenant est applicable à partir de sa date de signature.<br/>Après avoir lu et paraphé la page précédente, les représentants mentionnés ci-après ont approuvé et signé l'ensemble de l'accord au nom de leur organisation.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Dépôt et entrée en vigueur"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 13 du 18 décembre 2014 relatif à l'article 30 « Formation professionnelle » de la convention",
+          "id": "KALITEXT000031123637",
+          "children": [
+            {
+              "type": "article",
+              "id": "KALIARTI000031123640",
+              "num": null,
+              "intOrdre": 524287,
+              "content": "<p><br/>Le présent avenant modifie l'article 30 de la convention nationale du personnel des sociétés coopératives d'HLM concernant la formation professionnelle afin de prendre en compte la loi du 14 mars 2014 modifiant les taux légaux applicables en matière de formation professionnelle.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000031123641",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>La rédaction de l'article 30 de la convention nationale du personnel des sociétés coopératives d'HLM du 15 mai 1990 révisée est annulée et remplacée par la rédaction suivante : <br/>« La politique de formation dans la branche des sociétés coopératives d'HLM repose sur les objectifs suivants : <br/>– permettre aux salariés de la branche de bénéficier d'actions de formation dans le cadre du plan de formation des sociétés tout au long de leur vie professionnelle ; <br/>– homogénéiser l'accès à la formation quel que soit l'effectif de la société ; <br/>– favoriser l'adaptation des coopératives aux nouveaux enjeux et permettre leur développement ; <br/>– renforcer le professionnalisme des sociétés et de leurs collaborateurs ; <br/>– faciliter la cohérence des pratiques et multiplier les échanges de méthodes et d'expériences. <br/>Considérant ces objectifs, la simple utilisation de la formation comme « boîte à outils » ou de stricte adaptation au poste de travail ne saurait suffire. A ce titre, la loi du 5 mars 2014, en mettant au centre le développement des compétences et les parcours certifiants renforçant la responsabilité de chacun dans le processus de formation tout au long de la vie, appelle le regroupement de moyens pour anticiper les évolutions, conforter les emplois existants, en éviter l'obsolescence, et permettre par les voies de l'alternance d'adapter les jeunes à notre milieu professionnel, tout cela concourant à la sauvegarde et au développement de nos coopératives. <br/>Au regard de ce qui précède, il semble important notamment de développer des formations généralistes interdisciplinaires visant à doter les professionnels de nos entreprises, et ce quel que soit leur niveau hiérarchique, de clés de compréhension et d'analyse du contexte dans lequel s'insère leur action professionnelle, afin de favoriser des pratiques adaptées pertinentes et évolutives. <br/>Pour atteindre ces objectifs, il est décidé de maintenir le pourcentage de la masse salariale collecté : </p><p align='right'><br/>(En pourcentage.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>Tranche </th><th>Plan <br/>LEGAL </th><th>Plan <br/>conventionnel </th><th>Professionnalisation </th><th>CIF CDI </th><th>CPF </th><th>FPSPP </th><th>Total </th></tr><tr><td align='center'>Moins <br/>de 10 salariés </td><td align='center'>0,40 </td><td align='center'>1,289 </td><td align='center'>0,15 </td><td><br/></td><td><br/></td><td><br/></td><td align='center'>1,839 </td></tr><tr><td align='center'>De 10 <br/>à 19 salariés </td><td align='center'>0,20 </td><td align='center'>0,839 </td><td align='center'>0,30 </td><td align='center'>0,15 </td><td align='center'>0,20 </td><td align='center'>0,15 </td><td align='center'>1,84 </td></tr><tr><td align='center'>De 20 <br/>à 49 salariés </td><td align='center'>0,20 </td><td align='center'>1,389 </td><td align='center'>0,30 </td><td align='center'>0,15 </td><td align='center'>0,20 </td><td align='center'>0,15 </td><td align='center'>2,389 </td></tr><tr><td align='center'>De 50 salariés <br/>et plus </td><td align='center'>0,10 </td><td align='center'>1,389 </td><td align='center'>0,30 </td><td align='center'>0,20 </td><td align='center'>0,20 </td><td align='center'>0,20 </td><td align='center'>2,39 </td></tr></table></center></div></p><p align='left'><br/>La commission paritaire, instituée en commission « formation », est chargée du contrôle et du suivi du dispositif ainsi mis en place et du budget qui lui est consacré. <br/>La mise en œuvre de ce dispositif prend effet à compter de la collecte au titre de l'exercice 2015. »</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000031123642",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Le présent avenant peut être dénoncé à tout moment par l'une des parties signataires, dans le cadre des dispositions prévues aux <a alt='Code du travail - art. L2261-9 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid'>articles L. 2261-9 et suivants du code du travail</a>, moyennant un préavis de 3 mois.<br/>Chaque partie signataire peut demander la révision du présent avenant. Toute demande de révision est faite par lettre recommandée avec avis de réception à chacune des parties signataires et doit être accompagnée d'un projet de révision afin que des négociations puissent être entamées.<br/>Qu'il s'agisse de dénonciation ou de révision, le présent avenant restera en vigueur jusqu'à la date d'application des nouvelles dispositions.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Dénonciation et révision"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000031123644",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Le présent avenant sera déposé en deux exemplaires, dont une version sur support papier et une version sur support électronique, auprès des services centraux du ministère du travail. Il sera également déposé auprès du secrétariat du conseil des prud'hommes.<br/>Le présent avenant est applicable à partir du 1er janvier 2015.<br/>Après avoir lu et paraphé la page précédente, les représentants mentionnés ci-après ont approuvé et signé l'ensemble de l'accord au nom de leur organisation.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Dépôt et entrée en vigueur"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 14 du 18 décembre 2014 relatif aux salaires minimaux et à la prime de vacances",
+          "id": "KALITEXT000031123645",
+          "children": [
+            {
+              "type": "article",
+              "id": "KALIARTI000031123648",
+              "num": "1er",
+              "intOrdre": 524287,
+              "content": "<p align='left'><br/>A compter du 1er janvier 2015, les salaires mensuels minimaux ont les valeurs ci-dessous :</p><p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th colspan='4'>Ancienne classification</th><th colspan='2'>Nouvelle classification</th></tr><tr><td align='center'>Employé</td><td align='center'>Classe I</td><td align='center'>Smic</td><td align='center'>Smic</td><td align='center'>A1</td><td align='center'>Smic</td></tr><tr><td><br/></td><td align='center'>Classe II</td><td align='center'>+ 12</td><td align='center'>1 589,60</td><td align='center'>A2</td><td align='center'>1 589,60</td></tr><tr><td><br/></td><td align='center'>Classe III</td><td align='center'>+ 12</td><td align='center'>1 696,40</td><td align='center'>A3</td><td align='center'>1 696,40</td></tr><tr><td align='center'>Agent<br/>de maîtrise</td><td align='center'>Classe I</td><td align='center'>+ 10</td><td align='center'>1 872,40</td><td align='center'>A4</td><td align='center'>1 872,40</td></tr><tr><td><br/></td><td><br/></td><td><br/></td><td><br/></td><td align='center'>A5</td><td align='center'>2 050,40</td></tr><tr><td><br/></td><td align='center'>Classe II</td><td align='center'>+ 10</td><td align='center'>2 050,40</td><td align='center'>A6</td><td align='center'>2 278,92</td></tr><tr><td align='center'>Cadre</td><td align='center'>Classe I</td><td align='center'>+ 10</td><td align='center'>2 278,92</td><td align='center'>A7</td><td align='center'>2 485,40</td></tr><tr><td><br/></td><td align='center'>Classe II</td><td align='center'>+ 0</td><td align='center'>2 485,40</td><td align='center'>A8</td><td align='center'>2 681,20</td></tr><tr><td><br/></td><td align='center'>Classe III</td><td align='center'>+ 0</td><td align='center'>2 681,20</td><td align='center'>A9</td><td align='center'>2 841,40</td></tr><tr><td><br/></td><td align='center'>Classe IV</td><td align='center'>+ 0</td><td align='center'>2 841,40</td><td align='center'>A10</td><td align='center'>3 108,40</td></tr></table></center></div></p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Objet de la négociation"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000031123649",
+              "num": "2",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>La rédaction de l'article 23 de la convention nationale du personnel des sociétés coopératives d'HLM du 15 mai 1990 révisée est annulée et remplacée par la rédaction suivante : <br/>« Une prime de vacances est accordée au personnel ayant 1 an de présence effective entre le 1er juin précédent et le 31 mai de l'année en cours. <br/>Elle est payable avant le départ en congés au plus tard le 30 juin. <br/>Son montant est égal à 45,5 % du minimum mensuel du niveau A2. <br/>Pour le personnel employé à temps partiel, absent pour congé de maladie ou licencié, cette prime est accordée au prorata du temps de présence effective. »</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Primes de vacances"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000031123650",
+              "num": "3",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Le présent protocole d'accord s'applique au personnel soumis à la convention collective nationale du personnel des sociétés coopératives d'HLM du 15 mai 1990.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Champ d'application"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000031123651",
+              "num": "4",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Le présent protocole d'accord sera déposé en un exemplaire au conseil de prud'hommes de Paris et en un exemplaire papier accompagné d'une version sur support électronique auprès des services centraux du ministre chargé du travail. Il sera remis un original à chacune des parties signataires.<br/>Le présent avenant est applicable à partir du 1er janvier 2015.<br/>Après avoir lu et paraphé la page précédente, les représentants mentionnés ci-après ont approuvé et signé l'ensemble de l'accord au nom de leur organisation.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Publicité et dépôt"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Accord du 30 juin 2014 relatif au temps partiel",
+          "id": "KALITEXT000029439486",
+          "children": [
+            {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000029439489",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000029439508",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'><br/>Suite à la promulgation de la loi sur la sécurisation de l'emploi du 14 juin 2013, les partenaires sociaux ont fait le choix d'engager une négociation sur les modalités de mise en œuvre des dispositions prévues pour les salariés à temps partiel compte tenu de la nécessité pour les entreprises de la branche de recourir au temps partiel.<br/>Selon le rapport d'activité et d'orientation de la fédération de 2013, la branche est caractérisée par une forte proportion de petites entreprises (effectif moyen par coopérative de 10,6 salariés en 2012). Ainsi, 67 % des coopératives emploient moins de 10 salariés, et seules deux structures comptent plus de 50 salariés.<br/>Dans la branche, le travail à temps partiel inférieur à 24 heures par semaine concerne 17 % du personnel de direction et 14 % du personnel de proximité.<br/>Les coopératives sont attentives à la conciliation entre la vie professionnelle et la vie personnelle.</p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000029439490",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'>Le présent accord a pour objet de fixer les conditions d'exercice du travail à temps partiel au sein de la branche des sociétés coopératives d'HLM à la suite de l'entrée en vigueur de la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000027546648&categorieLien=cid'>loi du 14 juin 2013 relative à la sécurisation de l'emploi</a>.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Objet et champ d'application"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000029439491",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Trois catégories d'emplois sont concernées par cet accord :<br/>– le personnel de proximité ;<br/>– le personnel de direction ;<br/>– le personnel participant à l'animation du sociétariat (conseil d'administration, conseil de surveillance, assemblée générale…).<br/>Les autres catégories de personnel travaillant à temps partiel restent soumises aux dispositions légales prévues aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902541&dateTexte=&categorieLien=cid'>articles L. 3123-1 à L. 3123-30 du code du travail</a>.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Personnel concerné"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000029439493",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Selon l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000027550508&dateTexte=&categorieLien=cid'>article L. 3123-14-1 du code du travail</a>, la durée minimale de travail à temps partiel est fixée à 24 heures par semaine ou l'équivalent mensuel ou calculé sur une période d'aménagement du temps de travail prévue par un accord collectif.<br/>Compte tenu des activités des coopératives, il peut être dérogé selon les conditions prévues au présent article à la durée minimale prévue par la loi pour les personnels définis dans l'article 2.<br/>La durée minimale de travail du salarié à temps partiel est fixée dans les coopératives d'Hlm à 2 heures par semaine ou son équivalent mensuel ou annuel pour les seuls emplois définis dans l'article 2.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Durée minimale d'activité"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000029439495",
+              "num": "3.1",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Pour le personnel visé à l'article 2 du présent accord, tout recrutement à temps partiel donnera lieu obligatoirement à l'établissement d'un contrat de travail écrit mentionnant notamment :<br/>– la qualification du salarié ;<br/>– les éléments de la rémunération ;<br/>– la durée hebdomadaire ou mensuelle du travail ;<br/>– la répartition de la durée du travail entre les jours de la semaine ou les semaines du mois ;<br/>– les modalités selon lesquelles les horaires de travail pour chaque journée travaillée seront communiqués par écrit au salarié ;<br/>– les cas dans lesquels une modification de la répartition des horaires peut avoir lieu et la nature de cette modification ;<br/>– les conditions de recours aux heures complémentaires ainsi que leur nombre maximum ;<br/>– la priorité dont bénéficient les salariés à temps partiel souhaitant occuper ou reprendre un emploi à temps complet pour l'attribution d'un emploi ressortissant à leur catégorie professionnelle ou d'un emploi équivalent dans les conditions de l'article 6 du présent accord ;<br/>– la convention collective appliquée par l'entreprise.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Contrat de travail à temps partiel"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000029439496",
+              "num": "4",
+              "intOrdre": 3145722,
+              "content": "<p align='left'><br/>Les salariés bénéficiant du cumul de plusieurs emplois disposent de la faculté de refuser le changement de leur planning dès lors que ce changement n'est pas compatible avec l'exercice d'une autre activité professionnelle salariée ou non salariée. Dans ce cas, l'existence du cumul de plusieurs emplois doit être portée à la connaissance de l'employeur.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Cumul de plusieurs emplois et changement du planning"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000029439497",
+              "num": "5",
+              "intOrdre": 3670009,
+              "content": "<p align='left'><br/>Afin de permettre au salarié de cumuler plusieurs activités de manière à atteindre une durée globale d'activité professionnelle correspondant à un temps plein ou au moins égal à la durée minimale légale de travail de 24 heures (calculée dans le cadre de l'aménagement de la durée de travail), les horaires de travail des salariés à temps partiel visés à l'article 2 seront regroupés sur des demi-journées ou journées complètes.<br/>Les horaires de travail du salarié seront regroupés sur des journées ou des demi-journées de la façon suivante :<br/>La journée complète se définit comme toute journée de travail qui comporte au minimum 2 heures de travail effectif.<br/>D'autres modalités de regroupement des horaires de travail sur la demi-journée ou la journée complète ou régulière peuvent être prévues par accord d'entreprise.<br/>L'entreprise organise alors la planification du temps de travail en journées complètes ou demi-journées. Cette répartition du temps de travail est prévue par le contrat de travail ou un avenant à celui-ci telle que prévue à l'article 3.1.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Regroupement des horaires de travail sur des demi-journées ou des journées complètes"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000029439498",
+              "num": "6",
+              "intOrdre": 4194296,
+              "content": "<p align='left'><br/>Les salariés à temps partiel bénéficient d'une priorité pour l'attribution, dans la structure qui les emploie, d'un poste disponible à temps complet ou à temps partiel dont l'horaire de travail est plus important que le leur et ressortissant à leur catégorie professionnelle ou d'un emploi équivalent.<br/>L'employeur porte à la connaissance de ces salariés, par voie d'affichage, la liste des emplois disponibles correspondant.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Priorité d'emploi"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000029439499",
+              "num": "7",
+              "intOrdre": 4718583,
+              "content": "<p align='left'><br/>Les heures complémentaires effectuées au-delà de la durée contractuelle, dans la limite de 1/10 de cette durée, sont majorées au taux prévu par la loi, soit 10 %.<br/>Au titre de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902558&dateTexte=&categorieLien=cid'>article L. 3123-18 du code du travail</a>, le nombre d'heures complémentaires peut être porté au-delà de 1/10 de la durée contractuelle de travail, et ce dans la limite de 1/3 de cette même durée. Les heures réalisées dans ce cadre sont majorées à un taux de 20 %.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Heures complémentaires"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000029439501",
+              "num": "8",
+              "intOrdre": 5242870,
+              "content": "",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Dispositions d'application"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000029439502",
+              "num": "8.1",
+              "intOrdre": 5767157,
+              "content": "<p align='left'><br/>Il est constitué une commission de suivi du présent accord au sein de la commission paritaire nationale. Cette commission se réunira au moins une fois par an. Elle a pour mission :<br/>– le suivi de l'application de ces dispositions ;<br/>– la proposition de modifications au regard d'un bilan réalisé par ses soins ;<br/>– la réalisation de tout document permettant la bonne compréhension du texte pour les salariés et les employeurs.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Commission de suivi"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000029439503",
+              "num": "8.2",
+              "intOrdre": 6291444,
+              "content": "<p align='left'><br/>Le présent accord est conclu pour une durée indéterminée.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Durée de l'accord"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000029439504",
+              "num": "8.3",
+              "intOrdre": 6815731,
+              "content": "<p align='left'><br/>Le présent accord peut être révisé et dénoncé totalement ou partiellement dans les conditions prévues par le code du travail.<br/>A la demande d'une des parties signataires, une négociation relative aux catégories de salariés concernés pourra s'engager chaque année à la date anniversaire du présent accord et la liste des catégories d'emplois prévues à l'article 2 pourra être modifiée par avenant.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Révision et dénonciation"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000029439506",
+              "num": "8.4",
+              "intOrdre": 7340018,
+              "content": "<p align='left'><br/>Les parties conviennent qu'elles demanderont l'extension du présent accord et des avenants qui viendraient à le modifier en vue de les rendre accessibles à toutes les entreprises concernées par le champ d'application.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Extension"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000029439507",
+              "num": "8.5",
+              "intOrdre": 7864305,
+              "content": "<p align='left'><br/>Le présent accord entrera en vigueur au 1er juillet 2014.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Date d'effet"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Adhésion par lettre du 15 juillet 2014 de la FPSPS FO à l'accord du 30 juin 2014 relatif au temps partiel",
+          "id": "KALITEXT000029439509",
+          "children": [
+            {
+              "type": "article",
+              "id": "KALIARTI000029439512",
+              "num": null,
+              "intOrdre": 524287,
+              "content": "<p><br/>Paris, le 15 juillet 2014. <br/>FPSPS FO<br/>153-155, rue de Rome <br/>75017 Paris <br/>Madame, Monsieur, <br/>Par application de l'<a alt='Code du travail - art. L2261-3 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901781&dateTexte=&categorieLien=cid'>article L. 2261-3 du code du travail</a>, je vous informe que la fédération des personnels des services publics et des services de santé FO a décidé d'adhérer par la présente à l'<a alt='relatif au temps partiel (VNE)' href='/affichIDCC.do?cidTexte=KALITEXT000029439486&categorieLien=cid'>accord national du 30 juin 2014 </a>relatif au travail à temps partiel dans les sociétés coopératives d'HLM. <br/>Je vous prie de croire, Madame, Monsieur, en l'assurance de mes salutations distinguées. </p><p><br/>Le secrétaire général.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant du 29 novembre 2012 à l'accord du 30 juin 2005 relatif à la formation professionnelle tout au long de la vie",
+          "id": "KALITEXT000027779159",
+          "children": [
+            {
+              "type": "article",
+              "id": "KALIARTI000027779162",
+              "num": null,
+              "intOrdre": 524287,
+              "content": "<p align='left'><br/>il est conclu le présent avenant à l'<a alt='accord collectif national du 30 juin 2005 sur la formation professionnelle' href='/affichIDCC.do?cidTexte=KALITEXT000005649815&categorieLien=cid'>accord collectif national du 30 juin 2005 sur la formation professionnelle </a>tout au long de la vie dans les sociétés coopératives d'HLM. <br/>Le présent accord a pour objet, dans le cadre de l'<a alt='Code du travail - art. L6332-18 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904360&dateTexte=&categorieLien=cid'>article L. 6332-18</a> portant création du fonds paritaire de sécurisation des parcours professionnels (FPSPP), de fixer les modalités permettant de répartir les sommes mentionnées aux <a alt='Code du travail - art. L6332-19 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904361&dateTexte=&categorieLien=cid'>1° et 2° de l'article L. 6332-19 du code du travail</a>. <br/>Les parties signataires décident :</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027779165",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>Le présent accord s'applique à l'ensemble des entreprises telles que définies à l'<a alt='Convention collective nationale du 15 mai 1990 -  Champ d'application (VNE)' href='/affichIDCC.do?cidTexte=KALITEXT000005649795&idSectionTA=KALISCTA000023111943&categorieLien=cid'>article 1er « Champ d'application » de la convention collective nationale du personnel des sociétés coopératives d'HLM</a>.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Champ d'application"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027779166",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Le montant calculé selon les modalités fixées par l'<a alt='Code du travail - art. L6332-19 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904361&dateTexte=&categorieLien=cid'>article L. 6332-19 du code du travail</a> est réparti comme suit :</p><p align='center'><br/>Au titre du plan de formation</p><p align='left'><br/>La somme correspondant à 60 % du pourcentage, fixé annuellement par arrêté ministériel, de la participation légale au titre du plan de formation.</p><p align='center'><br/>Au titre de la professionnalisation</p><p align='left'><br/>La somme correspondant à 100 % du pourcentage, fixé annuellement par arrêté ministériel, de la participation légale au titre de la professionnalisation majorée du solde de 40 % du pourcentage, fixé annuellement par arrêté ministériel, de la participation légale au titre du plan de formation.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Répartition"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027779168",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Cette décision s'applique à compter de la collecte assise sur les masses salariales 2013.<br/>Les parties conviennent de se revoir dans la mesure où les besoins de financement résultant des engagements de formation pris par Uniformation au titre de la professionnalisation et du plan de formation où l'évolution des taux tels qu'ils résultent de l'<a alt='Code du travail - art. L6332-19 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904361&dateTexte=&categorieLien=cid'>article L. 6332-19 du code du travail</a> conduiraient à modifier cette répartition. La décision sera prise par les parties signataires du présent accord au vu du bilan annuel produit par Uniformation.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Date d'application"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027779170",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>La dénonciation du présent accord s'effectue selon les <a alt='Code du travail - art. L2261-9 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid'>dispositions des articles L. 2261-9 et suivants du code du travail</a>.<br/>La demande de révision du présent accord peut s'effectuer par l'un des signataires conformément à la procédure prévue aux <a alt='Code du travail - art. L2261-7 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid'>articles L. 2261-7 et suivants du code du travail</a>.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Dénonciation. – Révision"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027779173",
+              "num": "5",
+              "intOrdre": 3145722,
+              "content": "<p align='left'><br/>Conformément aux <a alt='Code du travail - art. L2231-6 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>articles L. 2231-6 </a>et <a alt='Code du travail - art. D2231-3 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485209&dateTexte=&categorieLien=cid'>D. 2231-3 du code du travail</a>, le présent accord sera déposé par la partie la plus diligente auprès des services centraux du ministre chargé du travail en un exemplaire original sur support papier et un exemplaire sur support électronique. <br/>Les parties signataires conviennent de procéder à la demande d'extension du présent accord. <br/>Après avoir lu et paraphé la page précédente, les représentants mentionnés ci-après ont approuvé et signé l'ensemble de l'accord au nom de leur organisation.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Dépôt. – Extension"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 10 du 14 mai 2012 relatif à la classification des emplois",
+          "id": "KALITEXT000027300713",
+          "children": [
+            {
+              "type": "article",
               "id": "KALIARTI000033055115",
               "num": null,
               "intOrdre": 524287,
@@ -1168,42 +1301,12 @@
           ]
         },
         {
-          "id": "KALITEXT000027206697",
-          "title": "Avenant n° 9 du 14 mai 2012 relatif à la mise à jour de la convention",
-          "dateParution": 1364169600000,
-          "articles": [
-            {
-              "id": "KALIARTI000027206701",
-              "num": null,
-              "intOrdre": 1048574,
-              "content": "<p><br/>« <a alt='Convention collective nationale du 15 mai 1990 - art. 3 (VNE)' href='/affichIDCCArticle.do?cidTexte=KALITEXT000005649795&idArticle=KALIARTI000005781195&categorieLien=cid'>Article 3.2 </a></p><p><br/>d) La possibilité pour les salariés, pendant leur temps de travail, de pouvoir assister aux réunions des organisations syndicales reconnues représentatives se tenant dans l'enceinte de la société, mais en dehors des locaux de travail fera l'objet d'une négociation collective au sein de la société. <br/>Les réunions mentionnées ci-dessus ainsi que celles prévues par les <a alt='Code du travail - art. L2142-10 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901623&dateTexte=&categorieLien=cid'>articles L. 2142-10 et L. 2142-11 du code du travail </a>ne doivent pas porter atteinte au fonctionnement du service. Ces réunions font l'objet d'une information du responsable de la société ou de son représentant. <br/>Pour la tenue de ces réunions, à défaut de local syndical ou pour répondre à sa demande, la section syndicale pourra disposer d'une salle qui devra lui être affectée par le responsable de la société ou son représentant en fonction des disponibilités et des nécessités de service. » </p><p><br/>« <a alt='Convention collective nationale du 15 mai 1990 - art. 8 (VNE)' href='/affichIDCCArticle.do?cidTexte=KALITEXT000005649795&idArticle=KALIARTI000005781207&categorieLien=cid'>Article 8 </a><br/>Procédure de recrutement </p><p><br/>L'embauche est subordonnée aux résultats d'un examen pratiqué par le médecin du travail de la société. <br/>Un dossier peut être exigé comprenant notamment : <br/>1. Un justificatif d'identité. <br/>2. Une copie des diplômes ou certificats. <br/>Les frais afférents à la constitution du dossier sont, pour les candidats embauchés, à la charge de la société. <br/>Aucune personne ne peut-être écartée d'une procédure de recrutement pour l'un des motifs discriminatoires énoncés aux <a alt='Code du travail - art. L1132-1 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006900787&dateTexte=&categorieLien=cid'>articles L. 1132-1 et suivants du code du travail </a>du code du travail (sexe, religion, mœurs, situation de famille, activités syndicales ou mutualistes, par exemple). <br/>Le candidat doit être informé au préalable des méthodes et techniques d'aide au recrutement utilisées à son égard conformément au code du travail. </p><p><br/><a alt='Convention collective nationale du 15 mai 1990 - art. 9 (VNE)' href='/affichIDCCArticle.do?cidTexte=KALITEXT000005649795&idArticle=KALIARTI000005781209&categorieLien=cid'>Article 9 </a><br/>Personnel sous contrat à durée indéterminée : période d'essai </p><p><br/>Il est rappelé que la <a alt='LOI n° 2008-596 du 25 juin 2008 (V)' href='/affichTexte.do?cidTexte=JORFTEXT000019066178&categorieLien=cid'>loi n° 2008-596 du 25 juin 2008 </a>a instauré des durées maximales de période d'essai à savoir : </p><p><br/>– 2 mois pour les ouvriers et les employés ; <br/>– 3 mois pour les agents de maîtrise et les techniciens ; <br/>– 4 mois pour les cadres. <br/>Le présent accord n'a pas prévu la possibilité de renouveler la période d'essai. <br/>Pour ce qui concerne le personnel de gardiennage, celui-ci ne pourra être obligé à quitter son logement avant un délai minimum de 3 mois, ou sans le paiement d'une indemnité égale au prix de la location trimestrielle d'un logement équivalent à celui qu'il occupe et des avantages en nature qu'il reçoit du propriétaire. » </p><p><br/>« <a alt='Convention collective nationale du 15 mai 1990 - art. 20 (VNE)' href='/affichIDCCArticle.do?cidTexte=KALITEXT000005649795&idArticle=KALIARTI000005781240&categorieLien=cid'>Article 20 </a><br/>Rémunération </p><p><br/>d) Intéressement <br/>Dans toutes les sociétés, des accords d'intéressement doivent être conclus avec le personnel en application des dispositions légales. » </p><p><br/>Dépôt et entrée en vigueur </p><p><br/>Le présent avenant sera déposé en deux exemplaires, dont une version sur support papier et une version sur support électronique, auprès des services centraux du ministère du travail. Il sera également déposé auprès du secrétariat du conseil des prud'hommes. <br/>Le présent avenant est applicable à partir de sa date de signature. <br/>Après avoir lu et paraphé les deux pages précédentes, les représentants mentionnés ci-après ont approuvé et signé l'ensemble de l'accord au nom de leur organisation.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000027206700",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000027206707",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>Le présent avenant a pour objectif de mettre à jour la convention collective nationale avec la réglementation en vigueur.</p>",
-                  "etat": "VIGUEUR_NON_ETEN"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000027206688",
+          "type": "section",
           "title": "Avenant du 14 mai 2012 à l'accord du 30 juin 2005 relatif à la formation professionnelle",
-          "dateParution": 1364169600000,
-          "articles": [
+          "id": "KALITEXT000027206688",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000027206691",
               "num": null,
               "intOrdre": 524287,
@@ -1211,6 +1314,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027206693",
               "num": "1er",
               "intOrdre": 1048574,
@@ -1218,6 +1322,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027206696",
               "num": "2",
               "intOrdre": 1572861,
@@ -1227,11 +1332,61 @@
           ]
         },
         {
-          "id": "KALITEXT000023104863",
-          "title": "Avenant du 1er avril 2010 relatif à la mise à jour de la convention",
-          "dateParution": 1290038400000,
-          "articles": [
+          "type": "section",
+          "title": "Avenant n° 9 du 14 mai 2012 relatif à la mise à jour de la convention",
+          "id": "KALITEXT000027206697",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000027206700",
+              "etat": "VIGUEUR_NON_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000027206707",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'><br/>Le présent avenant a pour objectif de mettre à jour la convention collective nationale avec la réglementation en vigueur.</p>",
+                  "etat": "VIGUEUR_NON_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027206701",
+              "num": null,
+              "intOrdre": 1048574,
+              "content": "<p><br/>« <a alt='Convention collective nationale du 15 mai 1990 - art. 3 (VNE)' href='/affichIDCCArticle.do?cidTexte=KALITEXT000005649795&idArticle=KALIARTI000005781195&categorieLien=cid'>Article 3.2 </a></p><p><br/>d) La possibilité pour les salariés, pendant leur temps de travail, de pouvoir assister aux réunions des organisations syndicales reconnues représentatives se tenant dans l'enceinte de la société, mais en dehors des locaux de travail fera l'objet d'une négociation collective au sein de la société. <br/>Les réunions mentionnées ci-dessus ainsi que celles prévues par les <a alt='Code du travail - art. L2142-10 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901623&dateTexte=&categorieLien=cid'>articles L. 2142-10 et L. 2142-11 du code du travail </a>ne doivent pas porter atteinte au fonctionnement du service. Ces réunions font l'objet d'une information du responsable de la société ou de son représentant. <br/>Pour la tenue de ces réunions, à défaut de local syndical ou pour répondre à sa demande, la section syndicale pourra disposer d'une salle qui devra lui être affectée par le responsable de la société ou son représentant en fonction des disponibilités et des nécessités de service. » </p><p><br/>« <a alt='Convention collective nationale du 15 mai 1990 - art. 8 (VNE)' href='/affichIDCCArticle.do?cidTexte=KALITEXT000005649795&idArticle=KALIARTI000005781207&categorieLien=cid'>Article 8 </a><br/>Procédure de recrutement </p><p><br/>L'embauche est subordonnée aux résultats d'un examen pratiqué par le médecin du travail de la société. <br/>Un dossier peut être exigé comprenant notamment : <br/>1. Un justificatif d'identité. <br/>2. Une copie des diplômes ou certificats. <br/>Les frais afférents à la constitution du dossier sont, pour les candidats embauchés, à la charge de la société. <br/>Aucune personne ne peut-être écartée d'une procédure de recrutement pour l'un des motifs discriminatoires énoncés aux <a alt='Code du travail - art. L1132-1 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006900787&dateTexte=&categorieLien=cid'>articles L. 1132-1 et suivants du code du travail </a>du code du travail (sexe, religion, mœurs, situation de famille, activités syndicales ou mutualistes, par exemple). <br/>Le candidat doit être informé au préalable des méthodes et techniques d'aide au recrutement utilisées à son égard conformément au code du travail. </p><p><br/><a alt='Convention collective nationale du 15 mai 1990 - art. 9 (VNE)' href='/affichIDCCArticle.do?cidTexte=KALITEXT000005649795&idArticle=KALIARTI000005781209&categorieLien=cid'>Article 9 </a><br/>Personnel sous contrat à durée indéterminée : période d'essai </p><p><br/>Il est rappelé que la <a alt='LOI n° 2008-596 du 25 juin 2008 (V)' href='/affichTexte.do?cidTexte=JORFTEXT000019066178&categorieLien=cid'>loi n° 2008-596 du 25 juin 2008 </a>a instauré des durées maximales de période d'essai à savoir : </p><p><br/>– 2 mois pour les ouvriers et les employés ; <br/>– 3 mois pour les agents de maîtrise et les techniciens ; <br/>– 4 mois pour les cadres. <br/>Le présent accord n'a pas prévu la possibilité de renouveler la période d'essai. <br/>Pour ce qui concerne le personnel de gardiennage, celui-ci ne pourra être obligé à quitter son logement avant un délai minimum de 3 mois, ou sans le paiement d'une indemnité égale au prix de la location trimestrielle d'un logement équivalent à celui qu'il occupe et des avantages en nature qu'il reçoit du propriétaire. » </p><p><br/>« <a alt='Convention collective nationale du 15 mai 1990 - art. 20 (VNE)' href='/affichIDCCArticle.do?cidTexte=KALITEXT000005649795&idArticle=KALIARTI000005781240&categorieLien=cid'>Article 20 </a><br/>Rémunération </p><p><br/>d) Intéressement <br/>Dans toutes les sociétés, des accords d'intéressement doivent être conclus avec le personnel en application des dispositions légales. » </p><p><br/>Dépôt et entrée en vigueur </p><p><br/>Le présent avenant sera déposé en deux exemplaires, dont une version sur support papier et une version sur support électronique, auprès des services centraux du ministère du travail. Il sera également déposé auprès du secrétariat du conseil des prud'hommes. <br/>Le présent avenant est applicable à partir de sa date de signature. <br/>Après avoir lu et paraphé les deux pages précédentes, les représentants mentionnés ci-après ont approuvé et signé l'ensemble de l'accord au nom de leur organisation.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant du 1er avril 2010 relatif à la mise à jour de la convention",
+          "id": "KALITEXT000023104863",
+          "children": [
+            {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000023104866",
+              "etat": "VIGUEUR_NON_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000023104893",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'><br/>Suite à la recodification du code du travail, les parties ont entamé, dans le cadre de la commission paritaire nationale, un processus de négociation dont le présent avenant a pour objet de mettre à jour la convention collective nationale au regard de la réglementation en vigueur.</p>",
+                  "etat": "VIGUEUR_NON_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000023104867",
               "num": "1er",
               "intOrdre": 1048574,
@@ -1240,6 +1395,7 @@
               "surtitre": "Champ d'application de l'avenant"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023104869",
               "num": "2",
               "intOrdre": 1572861,
@@ -1248,6 +1404,7 @@
               "surtitre": "Objet de l'avenant"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023104892",
               "num": "3",
               "intOrdre": 2097148,
@@ -1255,19 +1412,26 @@
               "etat": "VIGUEUR_NON_ETEN",
               "surtitre": "Durée et date d'entrée en vigueur de l'accord"
             }
-          ],
-          "sections": [
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Annexe : classification  convention collective nationale du 15 mai 1990",
+          "id": "KALITEXT000005649803",
+          "children": [
             {
-              "id": "KALISCTA000023104866",
-              "intOrdre": 524287,
-              "title": "Préambule",
+              "type": "section",
+              "intOrdre": 42949,
+              "title": "Classification des emplois des personnels des sociétés coopératives d'HLM",
+              "id": "KALISCTA000005696205",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
-                  "id": "KALIARTI000023104893",
+                  "type": "article",
+                  "id": "KALIARTI000027312252",
                   "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>Suite à la recodification du code du travail, les parties ont entamé, dans le cadre de la commission paritaire nationale, un processus de négociation dont le présent avenant a pour objet de mettre à jour la convention collective nationale au regard de la réglementation en vigueur.</p>",
+                  "intOrdre": 42949,
+                  "content": "<p>Les présentes annexes à la convention collective des personnels des sociétés coopératives d'HLM ont pour objet de définir un minimum de points pour chacune des classes d'emplois.</p><p>Le nombre de points attribués à un emploi peut dépasser le minimum fixé pour la classe supérieure sans pour autant entraîner pour celui-ci un passage automatique à ladite classe.</p><p>Les conditions de rémunération des salariés concernés par une suppression de leurs fonctions dans la classification sont déterminées par référence aux emplois visés par la classification qui paraissent les plus voisins du poste tenu et qui comportent un salaire égal ou immédiatement supérieur.</p><p>ANNEXE I</p><p>Remplacée par Avenant n° 10 du 14 mai 2012 BO 2013/07.</p><p>ANNEXE II</p><p>Remplacée par Avenant n° 10 du 14 mai 2012 BO 2013/07.</p><p>ANNEXE III</p><p>Remplacée par Avenant n° 10 du 14 mai 2012 BO 2013/07.</p><p>ANNEXE IV</p><p>Personnel d'entretien et de gardiennage</p><p>1re catégorie :</p><p>- personnel d'entretien (bureaux et immeubles) ;</p><p>- femme de ménage : SMIC ;</p><p>- ouvrier spécialisé : SMIC ;</p><p>- ouvrier qualifié : 300 points ;</p><p>- ouvrier hautement qualifié : 305 points ;</p><p>- ouvrier hautement qualifié possédant plusieurs qualifications :</p><p>315 points ;</p><p>- ouvrier hautement qualifié chargé de menus travaux administratifs et de réception de bâtiment : 325 points ;</p><p>- chef d'équipe : 375 points ;</p><p>- contremaître chargé de la surveillance du personnel, du contrôle des bons travaux, des travaux d'entretien : 405 points.</p><p>2e catégorie :</p><p>- veilleur de nuit, gardien remplaçant dont la durée de présence comporte l'application des équivalences (1) ;</p><p>- personnel non logé : SMIC ;</p><p>- aide-gardien, surveillant, personnel logé dont la durée de présence hebdomadaire comporte l'application des équivalences (2) : SMIC.</p><p>a) Rémunération principale :</p><p>- gardien d'immeubles : SMIC ;</p><p>- gardien chef : 305 points.</p><p>b) Avantages en nature (3) :</p><p>- logement gratuit ;</p><p>- consommation d'eau gratuite dans la limite de 50 mètres cubes par an ;</p><p>- éclairage : consommation d'électricité dans la limite de 76 kW par mois ;</p><p>- chauffage gratuit dans le cas de chauffage collectif. Indemnité équivalente à la valeur du chauffage gratuit dans les autres cas ;</p><p>- gaz : gratuit dans la limite de 374 kW/h par mois ;</p><p>- prime de vélomoteur : lorsqu'un gardien aura à s'occuper de plusieurs groupes d'habitation distants de plus de 500 mètres, il bénéficiera d'une prime mensuelle de vélomoteur dont le montant sera fixé par le conseil d'administration et ne pourra en aucun cas être inférieur à 3 fois la valeur du point ;</p><p>- prime d'ascenseur : 2 points supplémentaires par ascenseur en service avec un minimum de 4 points ;</p><p>- les frais de déplacement seront remboursés forfaitairement ou sur justificatifs, en application de l'article 32 de la convention.</p><p>Les personnels de gardiennage et d'entretien appelés à assurer un service continu pendant les heures de repas, en dehors de leur domicile, bénéficieront d'une prime de panier dont le montant sera égal à 1 fois et et demie la valeur du point.</p><p>Fait à Paris, le 26 mars 2003.</p>",
                   "etat": "VIGUEUR_NON_ETEN"
                 }
               ]
@@ -1275,11 +1439,12 @@
           ]
         },
         {
-          "id": "KALITEXT000005649813",
+          "type": "section",
           "title": "Avenant n° 6 du 26 mars 2003 portant réactualisation de la convention collective ",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000005649813",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005781292",
               "num": "1",
               "intOrdre": 42949,
@@ -1287,6 +1452,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000005781293",
               "num": "2",
               "intOrdre": 85898,
@@ -1297,17 +1463,19 @@
           ]
         },
         {
-          "id": "KALITEXT000005649815",
+          "type": "section",
           "title": "Accord du 30 juin 2005 relatif à la formation professionnelle continue tout au long de la vie",
-          "dateParution": 32472144000000,
-          "sections": [
+          "id": "KALITEXT000005649815",
+          "children": [
             {
-              "id": "KALISCTA000005696211",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Préambule",
+              "id": "KALISCTA000005696211",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005781294",
                   "num": null,
                   "intOrdre": 42949,
@@ -1317,12 +1485,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005696212",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Champ d'application",
+              "id": "KALISCTA000005696212",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005781295",
                   "num": "1",
                   "intOrdre": 42949,
@@ -1332,12 +1502,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005696213",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Le nouveau droit individuel à la formation (DIF)",
+              "id": "KALISCTA000005696213",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005781297",
                   "num": "2",
                   "intOrdre": 42949,
@@ -1347,12 +1519,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005696214",
+              "type": "section",
               "intOrdre": 171796,
               "title": "Les contrats et les périodes de professionnalisation",
+              "id": "KALISCTA000005696214",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005781298",
                   "num": "3",
                   "intOrdre": 42949,
@@ -1362,12 +1536,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005696215",
+              "type": "section",
               "intOrdre": 214745,
               "title": "Contrats de professionnalisation",
+              "id": "KALISCTA000005696215",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005781299",
                   "num": "3.1",
                   "intOrdre": 42949,
@@ -1377,12 +1553,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005696216",
+              "type": "section",
               "intOrdre": 257694,
               "title": "Périodes de professionnalisation",
+              "id": "KALISCTA000005696216",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005781300",
                   "num": "3.2",
                   "intOrdre": 42949,
@@ -1392,12 +1570,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005696217",
+              "type": "section",
               "intOrdre": 300643,
               "title": "Financement des contrats et périodes de professionnalisation",
+              "id": "KALISCTA000005696217",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000027213383",
                   "num": "3.3",
                   "intOrdre": 42949,
@@ -1407,12 +1587,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005696218",
+              "type": "section",
               "intOrdre": 343592,
               "title": "Tutorat",
+              "id": "KALISCTA000005696218",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005781302",
                   "num": "4",
                   "intOrdre": 42949,
@@ -1422,12 +1604,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005696220",
+              "type": "section",
               "intOrdre": 386541,
               "title": "Commission paritaire nationale emploi et formation",
+              "id": "KALISCTA000005696220",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005781303",
                   "num": "5",
                   "intOrdre": 42949,
@@ -1437,12 +1621,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005696221",
+              "type": "section",
               "intOrdre": 429490,
               "title": "Observatoire prospectif des métiers et des qualifications",
+              "id": "KALISCTA000005696221",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005781304",
                   "num": "6",
                   "intOrdre": 42949,
@@ -1452,12 +1638,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005696222",
+              "type": "section",
               "intOrdre": 472439,
               "title": "Principe de non-dérogation",
+              "id": "KALISCTA000005696222",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005781305",
                   "num": "7",
                   "intOrdre": 42949,
@@ -1467,12 +1655,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005696223",
+              "type": "section",
               "intOrdre": 515388,
               "title": "Révision",
+              "id": "KALISCTA000005696223",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005781306",
                   "num": "8",
                   "intOrdre": 42949,
@@ -1482,43 +1672,23 @@
               ]
             }
           ]
-        },
-        {
-          "id": "KALITEXT000005649803",
-          "title": "Annexe : classification  convention collective nationale du 15 mai 1990",
-          "dateParution": 32472144000000,
-          "sections": [
-            {
-              "id": "KALISCTA000005696205",
-              "intOrdre": 42949,
-              "title": "Classification des emplois des personnels des sociétés coopératives d'HLM",
-              "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000027312252",
-                  "num": null,
-                  "intOrdre": 42949,
-                  "content": "<p>Les présentes annexes à la convention collective des personnels des sociétés coopératives d'HLM ont pour objet de définir un minimum de points pour chacune des classes d'emplois.</p><p>Le nombre de points attribués à un emploi peut dépasser le minimum fixé pour la classe supérieure sans pour autant entraîner pour celui-ci un passage automatique à ladite classe.</p><p>Les conditions de rémunération des salariés concernés par une suppression de leurs fonctions dans la classification sont déterminées par référence aux emplois visés par la classification qui paraissent les plus voisins du poste tenu et qui comportent un salaire égal ou immédiatement supérieur.</p><p>ANNEXE I</p><p>Remplacée par Avenant n° 10 du 14 mai 2012 BO 2013/07.</p><p>ANNEXE II</p><p>Remplacée par Avenant n° 10 du 14 mai 2012 BO 2013/07.</p><p>ANNEXE III</p><p>Remplacée par Avenant n° 10 du 14 mai 2012 BO 2013/07.</p><p>ANNEXE IV</p><p>Personnel d'entretien et de gardiennage</p><p>1re catégorie :</p><p>- personnel d'entretien (bureaux et immeubles) ;</p><p>- femme de ménage : SMIC ;</p><p>- ouvrier spécialisé : SMIC ;</p><p>- ouvrier qualifié : 300 points ;</p><p>- ouvrier hautement qualifié : 305 points ;</p><p>- ouvrier hautement qualifié possédant plusieurs qualifications :</p><p>315 points ;</p><p>- ouvrier hautement qualifié chargé de menus travaux administratifs et de réception de bâtiment : 325 points ;</p><p>- chef d'équipe : 375 points ;</p><p>- contremaître chargé de la surveillance du personnel, du contrôle des bons travaux, des travaux d'entretien : 405 points.</p><p>2e catégorie :</p><p>- veilleur de nuit, gardien remplaçant dont la durée de présence comporte l'application des équivalences (1) ;</p><p>- personnel non logé : SMIC ;</p><p>- aide-gardien, surveillant, personnel logé dont la durée de présence hebdomadaire comporte l'application des équivalences (2) : SMIC.</p><p>a) Rémunération principale :</p><p>- gardien d'immeubles : SMIC ;</p><p>- gardien chef : 305 points.</p><p>b) Avantages en nature (3) :</p><p>- logement gratuit ;</p><p>- consommation d'eau gratuite dans la limite de 50 mètres cubes par an ;</p><p>- éclairage : consommation d'électricité dans la limite de 76 kW par mois ;</p><p>- chauffage gratuit dans le cas de chauffage collectif. Indemnité équivalente à la valeur du chauffage gratuit dans les autres cas ;</p><p>- gaz : gratuit dans la limite de 374 kW/h par mois ;</p><p>- prime de vélomoteur : lorsqu'un gardien aura à s'occuper de plusieurs groupes d'habitation distants de plus de 500 mètres, il bénéficiera d'une prime mensuelle de vélomoteur dont le montant sera fixé par le conseil d'administration et ne pourra en aucun cas être inférieur à 3 fois la valeur du point ;</p><p>- prime d'ascenseur : 2 points supplémentaires par ascenseur en service avec un minimum de 4 points ;</p><p>- les frais de déplacement seront remboursés forfaitairement ou sur justificatifs, en application de l'article 32 de la convention.</p><p>Les personnels de gardiennage et d'entretien appelés à assurer un service continu pendant les heures de repas, en dehors de leur domicile, bénéficieront d'une prime de panier dont le montant sera égal à 1 fois et et demie la valeur du point.</p><p>Fait à Paris, le 26 mars 2003.</p>",
-                  "etat": "VIGUEUR_NON_ETEN"
-                }
-              ]
-            }
-          ]
         }
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 3,
       "title": "Textes Salaires",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000037079603",
+          "type": "section",
           "title": "Protocole d'accord du 8 décembre 2017 relatif aux salaires pour l'année 2018",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000037079603",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000037079606",
               "num": "1er",
               "intOrdre": 524287,
@@ -1527,6 +1697,7 @@
               "surtitre": "Objet de la négociation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037079607",
               "num": "2",
               "intOrdre": 1048574,
@@ -1535,6 +1706,7 @@
               "surtitre": "Prime de vacances"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037079608",
               "num": "3",
               "intOrdre": 1572861,
@@ -1543,6 +1715,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037079609",
               "num": "4",
               "intOrdre": 2097148,
@@ -1553,11 +1726,12 @@
           ]
         },
         {
-          "id": "KALITEXT000034763981",
+          "type": "section",
           "title": "Accord du 1er décembre 2016 relatif aux salaires minimaux pour l'année 2017",
-          "dateParution": 1495065600000,
-          "articles": [
+          "id": "KALITEXT000034763981",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000034763984",
               "num": null,
               "intOrdre": 524287,
@@ -1565,6 +1739,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000034763986",
               "num": "1er",
               "intOrdre": 1048574,
@@ -1573,6 +1748,7 @@
               "surtitre": "Objet de la négociation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000034763987",
               "num": "2",
               "intOrdre": 1572861,
@@ -1581,6 +1757,7 @@
               "surtitre": "Prime de vacances"
             },
             {
+              "type": "article",
               "id": "KALIARTI000034763988",
               "num": "3",
               "intOrdre": 2097148,
@@ -1589,6 +1766,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000034763989",
               "num": "4",
               "intOrdre": 2621435,
@@ -1599,11 +1777,12 @@
           ]
         },
         {
-          "id": "KALITEXT000032508480",
+          "type": "section",
           "title": "Accord du 4 décembre 2015 relatif aux salaires minimaux pour l'année 2016",
-          "dateParution": 1462838400000,
-          "articles": [
+          "id": "KALITEXT000032508480",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000032508483",
               "num": null,
               "intOrdre": 524287,
@@ -1611,6 +1790,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032508484",
               "num": "1er",
               "intOrdre": 1048574,
@@ -1619,6 +1799,7 @@
               "surtitre": "Objet de la négociation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032508485",
               "num": "2",
               "intOrdre": 1572861,
@@ -1627,6 +1808,7 @@
               "surtitre": "Prime de vacances"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032508486",
               "num": "3",
               "intOrdre": 2097148,
@@ -1635,6 +1817,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032508487",
               "num": "4",
               "intOrdre": 2621435,
@@ -1645,11 +1828,12 @@
           ]
         },
         {
-          "id": "KALITEXT000027206708",
+          "type": "section",
           "title": "Avenant n° 11 du 14 mai 2012 relatif aux rémunérations",
-          "dateParution": 1364169600000,
-          "articles": [
+          "id": "KALITEXT000027206708",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000027206711",
               "num": null,
               "intOrdre": 524287,
@@ -1659,11 +1843,12 @@
           ]
         },
         {
-          "id": "KALITEXT000026123378",
+          "type": "section",
           "title": "Accord du 5 décembre 2011 relatif aux salaires minima au 1er janvier 2012",
-          "dateParution": 1341360000000,
-          "articles": [
+          "id": "KALITEXT000026123378",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000026123381",
               "num": "1er",
               "intOrdre": 524287,
@@ -1672,6 +1857,7 @@
               "surtitre": "Objet de la négociation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000026123382",
               "num": "2",
               "intOrdre": 1048574,
@@ -1680,6 +1866,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000026123383",
               "num": "3",
               "intOrdre": 1572861,
@@ -1690,11 +1877,12 @@
           ]
         },
         {
-          "id": "KALITEXT000005649851",
+          "type": "section",
           "title": "Protocole d'accord du 8 décembre 2005 relatif aux salaires",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000005649851",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005781328",
               "num": null,
               "intOrdre": 42949,

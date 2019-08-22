@@ -1,25 +1,26 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale du personnel des offices publics de l'habitat du 6 avril 2017",
   "id": "KALICONT000036872099",
   "num": "3220",
-  "title": "Convention collective nationale du personnel des offices publics de l'habitat du 6 avril 2017",
   "shortTitle": "Offices Publics De L'habitat Personnel",
-  "categorisation": [
-    "Personnel des offices publics de l'habitat"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000035400808",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale du personnel des offices publics de l'habitat du 6 avril 2017",
+      "id": "KALITEXT000035400808",
       "etat": "VIGUEUR_ETEN",
-      "sections": [
+      "children": [
         {
-          "id": "KALISCTA000035400810",
+          "type": "section",
           "intOrdre": 524287,
           "title": "Préambule",
+          "id": "KALISCTA000035400810",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000035400824",
               "num": null,
               "intOrdre": 524287,
@@ -29,12 +30,14 @@
           ]
         },
         {
-          "id": "KALISCTA000035400811",
+          "type": "section",
           "intOrdre": 1048574,
           "title": "Chapitre Ier Champ d'application professionnel et territorial de la convention collective nationale",
+          "id": "KALISCTA000035400811",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000035400830",
               "num": null,
               "intOrdre": 524287,
@@ -44,18 +47,21 @@
           ]
         },
         {
-          "id": "KALISCTA000035400812",
+          "type": "section",
           "intOrdre": 1572861,
           "title": "Chapitre II Dialogue social et représentation du personnel",
+          "id": "KALISCTA000035400812",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000036868173",
+              "type": "section",
               "intOrdre": 1073741823,
               "title": "I. – Instances paritaires nationales",
+              "id": "KALISCTA000036868173",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000038394520",
                   "num": "1er",
                   "intOrdre": 1073741823,
@@ -66,12 +72,14 @@
               ]
             },
             {
-              "id": "KALISCTA000035400897",
+              "type": "section",
               "intOrdre": 1610612735,
               "title": "II. – Libertés d'opinion et d'expression du personnel des offices publics de l'habitat",
+              "id": "KALISCTA000035400897",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035400948",
                   "num": null,
                   "intOrdre": 524287,
@@ -81,12 +89,14 @@
               ]
             },
             {
-              "id": "KALISCTA000035400898",
+              "type": "section",
               "intOrdre": 1879048191,
               "title": "III. – Délégués syndicaux et la présence syndicale dans les offices publics de l'habitat",
+              "id": "KALISCTA000035400898",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035400961",
                   "num": "4",
                   "intOrdre": 2097148,
@@ -97,12 +107,14 @@
               ]
             },
             {
-              "id": "KALISCTA000035400899",
+              "type": "section",
               "intOrdre": 2013265919,
               "title": "IV. – Négociation collective dans les offices publics de l'habitat",
+              "id": "KALISCTA000035400899",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000038394528",
                   "num": "2",
                   "intOrdre": 1048574,
@@ -113,12 +125,14 @@
               ]
             },
             {
-              "id": "KALISCTA000035400900",
+              "type": "section",
               "intOrdre": 2080374783,
               "title": "V. – Délégués du personnel et comité d'entreprise",
+              "id": "KALISCTA000035400900",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035400990",
                   "num": "4",
                   "intOrdre": 2621435,
@@ -129,12 +143,14 @@
               ]
             },
             {
-              "id": "KALISCTA000035400901",
+              "type": "section",
               "intOrdre": 2113929215,
               "title": "VI. – Comité d'hygiène, de sécurité et des conditions de travail (CHSCT)",
+              "id": "KALISCTA000035400901",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035400993",
                   "num": "2",
                   "intOrdre": 1048574,
@@ -145,12 +161,14 @@
               ]
             },
             {
-              "id": "KALISCTA000035400902",
+              "type": "section",
               "intOrdre": 2130706431,
               "title": "VII. – Délégation unique du personnel",
+              "id": "KALISCTA000035400902",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035400995",
                   "num": null,
                   "intOrdre": 524287,
@@ -160,12 +178,14 @@
               ]
             },
             {
-              "id": "KALISCTA000035400903",
+              "type": "section",
               "intOrdre": 2139095039,
               "title": "VIII. – Moyens accordés au dialogue social et aux représentants du personnel dans les offices publics de l'habitat",
+              "id": "KALISCTA000035400903",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000038394507",
                   "num": "4",
                   "intOrdre": 2097148,
@@ -178,24 +198,28 @@
           ]
         },
         {
-          "id": "KALISCTA000035400813",
+          "type": "section",
           "intOrdre": 2097148,
           "title": "Chapitre III Relations de travail",
+          "id": "KALISCTA000035400813",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000035400837",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Sous-chapitre Ier Relation individuelle de travail",
+              "id": "KALISCTA000035400837",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000035400904",
+                  "type": "section",
                   "intOrdre": 524287,
                   "title": "I. – Formalités de recrutement",
+                  "id": "KALISCTA000035400904",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035401025",
                       "num": "3",
                       "intOrdre": 1572861,
@@ -206,12 +230,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000035401031",
+                  "type": "section",
                   "intOrdre": 537264127,
                   "title": "II. – Périodes d'essai",
+                  "id": "KALISCTA000035401031",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035401076",
                       "num": "2",
                       "intOrdre": 1048574,
@@ -222,12 +248,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000035401032",
+                  "type": "section",
                   "intOrdre": 738541567,
                   "title": "III. – Congés payés et congés pour événements familiaux",
+                  "id": "KALISCTA000035401032",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035401087",
                       "num": "5",
                       "intOrdre": 2621435,
@@ -238,12 +266,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000035401033",
+                  "type": "section",
                   "intOrdre": 939819007,
                   "title": "IV. – Autorisations spéciales d'absence",
+                  "id": "KALISCTA000035401033",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035401094",
                       "num": "4",
                       "intOrdre": 2097148,
@@ -254,12 +284,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000035401034",
+                  "type": "section",
                   "intOrdre": 1141096447,
                   "title": "V. – Commission disciplinaire en cas de sanction disciplinaire envisagée",
+                  "id": "KALISCTA000035401034",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035401101",
                       "num": "4",
                       "intOrdre": 2097148,
@@ -270,12 +302,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000035401035",
+                  "type": "section",
                   "intOrdre": 1241735167,
                   "title": "VI. – Modalités de rupture du contrat de travail",
+                  "id": "KALISCTA000035401035",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035401105",
                       "num": "4",
                       "intOrdre": 2097148,
@@ -286,12 +320,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000035401036",
+                  "type": "section",
                   "intOrdre": 1292054527,
                   "title": "VII. – Autre modalité de rupture du contrat de travail : la retraite",
+                  "id": "KALISCTA000035401036",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035401106",
                       "num": null,
                       "intOrdre": 524287,
@@ -303,18 +339,21 @@
               ]
             },
             {
-              "id": "KALISCTA000036870259",
+              "type": "section",
               "intOrdre": 1074003967,
               "title": "Sous-chapitre II Emplois et leur classification",
+              "id": "KALISCTA000036870259",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000036870294",
+                  "type": "section",
                   "intOrdre": 1073741823,
                   "title": "I. – Description des emplois",
+                  "id": "KALISCTA000036870294",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000036870585",
                       "num": null,
                       "intOrdre": 536870911,
@@ -324,12 +363,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000036870541",
+                  "type": "section",
                   "intOrdre": 1610612735,
                   "title": "II. – Classification des emplois",
+                  "id": "KALISCTA000036870541",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000036870636",
                       "num": "3",
                       "intOrdre": 1744830463,
@@ -340,12 +381,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000036870645",
+                  "type": "section",
                   "intOrdre": 1879048191,
                   "title": "III. – Parcours professionnel et déroulement de carrière",
+                  "id": "KALISCTA000036870645",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000036870683",
                       "num": null,
                       "intOrdre": 1073741823,
@@ -357,12 +400,14 @@
               ]
             },
             {
-              "id": "KALISCTA000036870364",
+              "type": "section",
               "intOrdre": 1610743807,
               "title": "Sous-chapitre III  Gestion des emplois et des parcours professionnels (GEPP)",
+              "id": "KALISCTA000036870364",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000038394525",
                   "num": "1er",
                   "intOrdre": 1073741823,
@@ -373,12 +418,14 @@
               ]
             },
             {
-              "id": "KALISCTA000036870383",
+              "type": "section",
               "intOrdre": 1879113727,
               "title": "Sous-chapitre IV Modifications dans la situation juridique des offices publics de l'habitat",
+              "id": "KALISCTA000036870383",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000036871065",
                   "num": null,
                   "intOrdre": 1073741823,
@@ -388,18 +435,21 @@
               ]
             },
             {
-              "id": "KALISCTA000036870390",
+              "type": "section",
               "intOrdre": 2013298687,
               "title": "Sous-chapitre V Rémunération et frais professionnels",
+              "id": "KALISCTA000036870390",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000036871172",
+                  "type": "section",
                   "intOrdre": 1073741823,
                   "title": "I. – Barème national des rémunérations de base",
+                  "id": "KALISCTA000036871172",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035401131",
                       "num": "4",
                       "intOrdre": 2013265919,
@@ -410,12 +460,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000036871186",
+                  "type": "section",
                   "intOrdre": 1610612735,
                   "title": "II. – Primes et indemnités",
+                  "id": "KALISCTA000036871186",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035401133",
                       "num": null,
                       "intOrdre": 1073741823,
@@ -425,12 +477,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000036871194",
+                  "type": "section",
                   "intOrdre": 1879048191,
                   "title": "III. – Avantages en nature",
+                  "id": "KALISCTA000036871194",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035401137",
                       "num": null,
                       "intOrdre": 1073741823,
@@ -440,12 +494,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000036871206",
+                  "type": "section",
                   "intOrdre": 2013265919,
                   "title": "IV. – Frais professionnels",
+                  "id": "KALISCTA000036871206",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035401139",
                       "num": null,
                       "intOrdre": 536870911,
@@ -457,12 +513,14 @@
               ]
             },
             {
-              "id": "KALISCTA000036870396",
+              "type": "section",
               "intOrdre": 2080391167,
               "title": "Sous-chapitre VI Emploi des travailleurs handicapés",
+              "id": "KALISCTA000036870396",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000038394533",
                   "num": null,
                   "intOrdre": 1073741823,
@@ -474,12 +532,14 @@
           ]
         },
         {
-          "id": "KALISCTA000035400814",
+          "type": "section",
           "intOrdre": 2621435,
           "title": "Chapitre IV Temps de travail",
+          "id": "KALISCTA000035400814",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038394500",
               "num": null,
               "intOrdre": 524287,
@@ -489,12 +549,14 @@
           ]
         },
         {
-          "id": "KALISCTA000035400815",
+          "type": "section",
           "intOrdre": 3145722,
           "title": "Chapitre V Intéressement collectif et épargne salariale",
+          "id": "KALISCTA000035400815",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038394498",
               "num": "8",
               "intOrdre": 4718583,
@@ -505,24 +567,28 @@
           ]
         },
         {
-          "id": "KALISCTA000035400816",
+          "type": "section",
           "intOrdre": 3670009,
           "title": "Chapitre VI Protection sociale complémentaire",
+          "id": "KALISCTA000035400816",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000035400869",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Sous-chapitre Ier Prévoyance complémentaire",
+              "id": "KALISCTA000035400869",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000035400905",
+                  "type": "section",
                   "intOrdre": 524287,
                   "title": "I. – Obligations des offices publics de l'habitat issues du décret n° 2011-636 du 8 juin 2011",
+                  "id": "KALISCTA000035400905",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035401045",
                       "num": "5",
                       "intOrdre": 3145722,
@@ -533,12 +599,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000035401049",
+                  "type": "section",
                   "intOrdre": 1074003967,
                   "title": "II. – Régime de protection sociale complémentaire en matière de prévoyance",
+                  "id": "KALISCTA000035401049",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000038394496",
                       "num": "8",
                       "intOrdre": 4194296,
@@ -549,12 +617,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000035401050",
+                  "type": "section",
                   "intOrdre": 1610743807,
                   "title": "III. – Frais de santé",
+                  "id": "KALISCTA000035401050",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035401156",
                       "num": null,
                       "intOrdre": 524287,
@@ -566,12 +636,14 @@
               ]
             },
             {
-              "id": "KALISCTA000036871748",
+              "type": "section",
               "intOrdre": 1074003967,
               "title": "Sous-chapitre II Retraites complémentaire et supplémentaire",
+              "id": "KALISCTA000036871748",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000036871765",
                   "num": "2",
                   "intOrdre": 1610612735,
@@ -584,18 +656,21 @@
           ]
         },
         {
-          "id": "KALISCTA000035400817",
+          "type": "section",
           "intOrdre": 4194296,
           "title": "Chapitre VII Conditions de travail et santé au travail",
+          "id": "KALISCTA000035400817",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000035400870",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Sous-chapitre Ier Médecine du travail",
+              "id": "KALISCTA000035400870",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035400909",
                   "num": "2",
                   "intOrdre": 1048574,
@@ -606,12 +681,14 @@
               ]
             },
             {
-              "id": "KALISCTA000035400871",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Sous-chapitre II Prévention de la pénibilité et amélioration des conditions de travail",
+              "id": "KALISCTA000035400871",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035400916",
                   "num": null,
                   "intOrdre": 524287,
@@ -621,12 +698,14 @@
               ]
             },
             {
-              "id": "KALISCTA000035400872",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Sous-chapitre III Santé au travail et risques psychosociaux",
+              "id": "KALISCTA000035400872",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035400917",
                   "num": null,
                   "intOrdre": 524287,
@@ -638,24 +717,28 @@
           ]
         },
         {
-          "id": "KALISCTA000035400818",
+          "type": "section",
           "intOrdre": 4718583,
           "title": "Chapitre VIII Formation professionnelle et formation syndicale",
+          "id": "KALISCTA000035400818",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000035400873",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Sous-chapitre Ier Formation professionnelle",
+              "id": "KALISCTA000035400873",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000035400918",
+                  "type": "section",
                   "intOrdre": 524287,
                   "title": "I. – Financement de la formation professionnelle",
+                  "id": "KALISCTA000035400918",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035401052",
                       "num": "2",
                       "intOrdre": 1048574,
@@ -666,12 +749,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000035401054",
+                  "type": "section",
                   "intOrdre": 1074003967,
                   "title": "II. – Formation à l'initiative de l'employeur : le plan de formation",
+                  "id": "KALISCTA000035401054",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035401159",
                       "num": null,
                       "intOrdre": 524287,
@@ -681,12 +766,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000035401055",
+                  "type": "section",
                   "intOrdre": 1610743807,
                   "title": "III. – Formation à l'initiative du salarié",
+                  "id": "KALISCTA000035401055",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035401164",
                       "num": "2",
                       "intOrdre": 1048574,
@@ -697,12 +784,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000035401056",
+                  "type": "section",
                   "intOrdre": 1879113727,
                   "title": "IV. – Entretien professionnel, distinct de l'entretien d'évaluation",
+                  "id": "KALISCTA000035401056",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035401170",
                       "num": "2",
                       "intOrdre": 1572861,
@@ -713,12 +802,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000035401057",
+                  "type": "section",
                   "intOrdre": 2013298687,
                   "title": "V. – Autres dispositifs",
+                  "id": "KALISCTA000035401057",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035401175",
                       "num": "5",
                       "intOrdre": 2621435,
@@ -729,12 +820,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000035401058",
+                  "type": "section",
                   "intOrdre": 2080391167,
                   "title": "VI. – Actions de formation et publics prioritaires de branche",
+                  "id": "KALISCTA000035401058",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035401176",
                       "num": null,
                       "intOrdre": 524287,
@@ -746,12 +839,14 @@
               ]
             },
             {
-              "id": "KALISCTA000036871800",
+              "type": "section",
               "intOrdre": 1074003967,
               "title": "Sous-chapitre II Congé de formation syndicale",
+              "id": "KALISCTA000036871800",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000036871835",
                   "num": "3",
                   "intOrdre": 1879048191,
@@ -764,18 +859,21 @@
           ]
         },
         {
-          "id": "KALISCTA000035400819",
+          "type": "section",
           "intOrdre": 5242870,
           "title": "Chapitre IX Égalité professionnelle et principe de non-discrimination",
+          "id": "KALISCTA000035400819",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000035400874",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Sous-chapitre Ier Égalité professionnelle",
+              "id": "KALISCTA000035400874",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000038394492",
                   "num": null,
                   "intOrdre": 524287,
@@ -785,12 +883,14 @@
               ]
             },
             {
-              "id": "KALISCTA000035400875",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Sous-chapitre II Prévention et traitement des discriminations",
+              "id": "KALISCTA000035400875",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035400934",
                   "num": "3",
                   "intOrdre": 1572861,
@@ -803,12 +903,14 @@
           ]
         },
         {
-          "id": "KALISCTA000035400820",
+          "type": "section",
           "intOrdre": 5767157,
           "title": "Chapitre X Engagements de négociations futures",
+          "id": "KALISCTA000035400820",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038394546",
               "num": "1er",
               "intOrdre": 524287,
@@ -819,18 +921,21 @@
           ]
         },
         {
-          "id": "KALISCTA000035400821",
+          "type": "section",
           "intOrdre": 6291444,
           "title": "Chapitre XI Modalités d'application et de suivi de la convention",
+          "id": "KALISCTA000035400821",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000035400878",
+              "type": "section",
               "intOrdre": 524287,
               "title": "I. – Commission de suivi",
+              "id": "KALISCTA000035400878",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000038394490",
                   "num": null,
                   "intOrdre": 524287,
@@ -840,12 +945,14 @@
               ]
             },
             {
-              "id": "KALISCTA000035400936",
+              "type": "section",
               "intOrdre": 1074003967,
               "title": "II. – Clause de rendez-vous",
+              "id": "KALISCTA000035400936",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035401059",
                   "num": null,
                   "intOrdre": 524287,
@@ -855,12 +962,14 @@
               ]
             },
             {
-              "id": "KALISCTA000035400937",
+              "type": "section",
               "intOrdre": 1610743807,
               "title": "III. – Traitement des demandes des organisations syndicales de salariés représentatives",
+              "id": "KALISCTA000035400937",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000038394488",
                   "num": null,
                   "intOrdre": 524287,
@@ -870,12 +979,14 @@
               ]
             },
             {
-              "id": "KALISCTA000035400938",
+              "type": "section",
               "intOrdre": 1879113727,
               "title": "IV. – Mise en conformité des accords collectifs d'entreprise à la convention collective nationale",
+              "id": "KALISCTA000035400938",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035401061",
                   "num": null,
                   "intOrdre": 524287,
@@ -885,12 +996,14 @@
               ]
             },
             {
-              "id": "KALISCTA000035400939",
+              "type": "section",
               "intOrdre": 2013298687,
               "title": "V. – Révision des accords collectifs nationaux",
+              "id": "KALISCTA000035400939",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035401062",
                   "num": null,
                   "intOrdre": 524287,
@@ -902,18 +1015,21 @@
           ]
         },
         {
-          "id": "KALISCTA000035400822",
+          "type": "section",
           "intOrdre": 6815731,
           "title": "Chapitre XII Dispositions finales",
+          "id": "KALISCTA000035400822",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000035400879",
+              "type": "section",
               "intOrdre": 524287,
               "title": "I. – Entrée en vigueur de la convention et l'ordre public conventionnel",
+              "id": "KALISCTA000035400879",
               "etat": "REMPLACE",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000038394538",
                   "num": "2",
                   "intOrdre": 1048574,
@@ -924,12 +1040,14 @@
               ]
             },
             {
-              "id": "KALISCTA000038394536",
+              "type": "section",
               "intOrdre": 524287,
               "title": "I. – L'entrée en vigueur de la convention et son articulation avec les dispositions conventionnelles d'entreprise",
+              "id": "KALISCTA000038394536",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000038394538",
                   "num": "2",
                   "intOrdre": 1048574,
@@ -940,12 +1058,14 @@
               ]
             },
             {
-              "id": "KALISCTA000035400944",
+              "type": "section",
               "intOrdre": 1074003967,
               "title": "II. – Formalités de dépôt et de diffusion de la convention",
+              "id": "KALISCTA000035400944",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035401064",
                   "num": null,
                   "intOrdre": 524287,
@@ -955,12 +1075,14 @@
               ]
             },
             {
-              "id": "KALISCTA000035400945",
+              "type": "section",
               "intOrdre": 1610743807,
               "title": "III. – Durée de la convention collective, ses modalités de révision et de dénonciation",
+              "id": "KALISCTA000035400945",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035401067",
                   "num": null,
                   "intOrdre": 524287,
@@ -970,12 +1092,14 @@
               ]
             },
             {
-              "id": "KALISCTA000035400946",
+              "type": "section",
               "intOrdre": 1879113727,
               "title": "IV. – Adhésion à la convention",
+              "id": "KALISCTA000035400946",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035401070",
                   "num": null,
                   "intOrdre": 524287,
@@ -985,12 +1109,14 @@
               ]
             },
             {
-              "id": "KALISCTA000035400947",
+              "type": "section",
               "intOrdre": 2013298687,
               "title": "V. – Demande d'extension de la convention",
+              "id": "KALISCTA000035400947",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035401072",
                   "num": null,
                   "intOrdre": 524287,
@@ -1002,12 +1128,14 @@
           ]
         },
         {
-          "id": "KALISCTA000035400823",
+          "type": "section",
           "intOrdre": 7340018,
           "title": "Annexes",
+          "id": "KALISCTA000035400823",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000035400884",
               "num": null,
               "intOrdre": 2621435,
@@ -1019,17 +1147,36 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000038337516",
+          "type": "section",
           "title": "Avenant n° 1 du 13 septembre 2018 relatif à la mise en place de la CPPNI",
-          "dateParution": 1554336000000,
-          "articles": [
+          "id": "KALITEXT000038337516",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000038337519",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000038337549",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'>À la suite de la parution de l'arrêté d'extension du 20 avril 2018 de la convention collective nationale du personnel des offices publics de l'habitat du 6 avril 2017 au Journal officiel du 26 avril suivant, les organisations syndicales représentatives et la fédération des offices publics de l'habitat de la branche professionnelle se sont entendues pour réviser par le présent avenant certaines dispositions de plusieurs de ses chapitres afin de tenir compte des observations formulées dans le cadre de son extension.</p><p align='left'>À cette occasion, elles ont également souhaité en réviser le chapitre X relatif aux engagements de négociations futures.</p><p></p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000038337520",
               "num": "1er",
               "intOrdre": 1048574,
@@ -1038,6 +1185,7 @@
               "surtitre": "Substitution de la notion de commission paritaire permanente de négociation et d'interprétation (CPPNI) à la notion de commission paritaire nationale de négociation et d'interprétation (CPNNI)"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038337527",
               "num": "2",
               "intOrdre": 1572861,
@@ -1046,6 +1194,7 @@
               "surtitre": "Suppression de la référence aux négociations sur le contrat de génération"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038337529",
               "num": "3",
               "intOrdre": 2097148,
@@ -1054,6 +1203,7 @@
               "surtitre": "Précision concernant la pénalité financière en cas de non-respect de l'obligation d'emploi des travailleurs handicapés"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038337531",
               "num": "4",
               "intOrdre": 2621435,
@@ -1062,6 +1212,7 @@
               "surtitre": "Suppression des dispositions relatives à l'articulation des dispositions conventionnelles de branche et d'entreprise sur le congé de formation syndicale"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038337532",
               "num": "5",
               "intOrdre": 3145722,
@@ -1070,6 +1221,7 @@
               "surtitre": "Suppression des dispositions relatives à l'ordre public conventionnel / Modification des dispositions relatives à l'articulation des dispositions conventionnelles de branche et d'entreprise"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038337539",
               "num": "6",
               "intOrdre": 3670009,
@@ -1078,6 +1230,7 @@
               "surtitre": "Modification des dispositions conventionnelles relatives aux engagements de négociations futures"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038337540",
               "num": "7",
               "intOrdre": 4194296,
@@ -1086,6 +1239,7 @@
               "surtitre": "Application dans les offices publics de l'habitat de moins de 50 salariés"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038337542",
               "num": "8",
               "intOrdre": 4718583,
@@ -1094,6 +1248,7 @@
               "surtitre": "Entrée en vigueur et durée"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038337543",
               "num": "9",
               "intOrdre": 5242870,
@@ -1102,6 +1257,7 @@
               "surtitre": "Formalités de dépôt et de publicité"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038337546",
               "num": "10",
               "intOrdre": 5767157,
@@ -1110,6 +1266,7 @@
               "surtitre": "Clauses de suivi et de rendez-vous"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038337547",
               "num": "11",
               "intOrdre": 6291444,
@@ -1118,6 +1275,7 @@
               "surtitre": "Modalités de révision et de dénonciation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038337548",
               "num": "12",
               "intOrdre": 6815731,
@@ -1125,37 +1283,22 @@
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Demande d'extension"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000038337519",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000038337549",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'>À la suite de la parution de l'arrêté d'extension du 20 avril 2018 de la convention collective nationale du personnel des offices publics de l'habitat du 6 avril 2017 au Journal officiel du 26 avril suivant, les organisations syndicales représentatives et la fédération des offices publics de l'habitat de la branche professionnelle se sont entendues pour réviser par le présent avenant certaines dispositions de plusieurs de ses chapitres afin de tenir compte des observations formulées dans le cadre de son extension.</p><p align='left'>À cette occasion, elles ont également souhaité en réviser le chapitre X relatif aux engagements de négociations futures.</p><p></p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
           ]
         },
         {
-          "id": "KALITEXT000029264580",
+          "type": "section",
           "title": "Accord du 15 janvier 2014 en faveur de l'emploi des travailleurs handicapés dans les offices publics de l'habitat",
-          "dateParution": 32472144000000,
-          "sections": [
+          "id": "KALITEXT000029264580",
+          "children": [
             {
-              "id": "KALISCTA000029264583",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000029264583",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000029264591",
                   "num": null,
                   "intOrdre": 524287,
@@ -1165,18 +1308,21 @@
               ]
             },
             {
-              "id": "KALISCTA000029264584",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre Ier Dispositions générales",
+              "id": "KALISCTA000029264584",
               "etat": "VIGUEUR_NON_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000029282838",
+                  "type": "section",
                   "intOrdre": 262143,
                   "title": "Champ d'application et entrée en vigueur",
+                  "id": "KALISCTA000029282838",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000029264592",
                       "num": "1er",
                       "intOrdre": 1073741823,
@@ -1186,12 +1332,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000029282839",
+                  "type": "section",
                   "intOrdre": 655358,
                   "title": "Durée, révision et dénonciation",
+                  "id": "KALISCTA000029282839",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000029264594",
                       "num": "2",
                       "intOrdre": 1073741823,
@@ -1201,12 +1349,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000029282842",
+                  "type": "section",
                   "intOrdre": 1114109,
                   "title": "Objectif",
+                  "id": "KALISCTA000029282842",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000029264597",
                       "num": "3",
                       "intOrdre": 1073741823,
@@ -1218,18 +1368,21 @@
               ]
             },
             {
-              "id": "KALISCTA000029264585",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Chapitre II Mise en œuvre d'une politique globale pour l'emploi des travailleurs handicapés",
+              "id": "KALISCTA000029264585",
               "etat": "VIGUEUR_NON_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000029282845",
+                  "type": "section",
                   "intOrdre": 262143,
                   "title": "Réalisation d'un diagnostic, conseil approfondi",
+                  "id": "KALISCTA000029282845",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000029264598",
                       "num": "4",
                       "intOrdre": 1073741823,
@@ -1239,12 +1392,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000029282848",
+                  "type": "section",
                   "intOrdre": 655358,
                   "title": "Clause de rediscussion",
+                  "id": "KALISCTA000029282848",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000029264599",
                       "num": "5",
                       "intOrdre": 1073741823,
@@ -1256,18 +1411,21 @@
               ]
             },
             {
-              "id": "KALISCTA000029264586",
+              "type": "section",
               "intOrdre": 2097148,
               "title": "Chapitre III Programme d'actions pluriannuel en faveur de l'emploi des personnes en situation de handicap",
+              "id": "KALISCTA000029264586",
               "etat": "VIGUEUR_NON_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000029282849",
+                  "type": "section",
                   "intOrdre": 262143,
                   "title": "Emploi des personnes en situation de handicap",
+                  "id": "KALISCTA000029282849",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000029264600",
                       "num": "6",
                       "intOrdre": 1073741823,
@@ -1279,18 +1437,21 @@
               ]
             },
             {
-              "id": "KALISCTA000029264587",
+              "type": "section",
               "intOrdre": 2621435,
               "title": "Chapitre IV Mesures d'accompagnement et maintien dans l'emploi des personnes en situation de handicap",
+              "id": "KALISCTA000029264587",
               "etat": "VIGUEUR_NON_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000029282850",
+                  "type": "section",
                   "intOrdre": 262143,
                   "title": "Accompagnement des personnes en situation de handicap",
+                  "id": "KALISCTA000029282850",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000029264601",
                       "num": "7",
                       "intOrdre": 1073741823,
@@ -1300,12 +1461,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000029282851",
+                  "type": "section",
                   "intOrdre": 655358,
                   "title": "Aménagement des postes de travail",
+                  "id": "KALISCTA000029282851",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000029264602",
                       "num": "8",
                       "intOrdre": 1073741823,
@@ -1315,12 +1478,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000029282852",
+                  "type": "section",
                   "intOrdre": 1114109,
                   "title": "Adaptation aux mutations technologiques",
+                  "id": "KALISCTA000029282852",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000029264603",
                       "num": "9",
                       "intOrdre": 1073741823,
@@ -1332,27 +1497,21 @@
               ]
             },
             {
-              "id": "KALISCTA000029264588",
+              "type": "section",
               "intOrdre": 3145722,
               "title": "Chapitre V Mesures en matière de formation",
+              "id": "KALISCTA000029264588",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
-                  "id": "KALIARTI000029264604",
-                  "num": null,
-                  "intOrdre": 131071,
-                  "content": "<p align='left'><br/>Les parties au présent accord affirment que les personnes en situation de handicap ont accès à la formation professionnelle au même titre que l'ensemble du personnel des offices publics de l'habitat. Cependant, la formation est un vecteur de changement des comportements et surtout d'adaptation des comportements des collaborateurs qui devront accueillir une personne en situation de handicap.</p>",
-                  "etat": "VIGUEUR_NON_ETEN"
-                }
-              ],
-              "sections": [
-                {
-                  "id": "KALISCTA000029282853",
+                  "type": "section",
                   "intOrdre": 262143,
                   "title": "Formation des personnes en situation de handicap",
+                  "id": "KALISCTA000029282853",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000029264605",
                       "num": "10",
                       "intOrdre": 1073741823,
@@ -1362,12 +1521,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000029282858",
+                  "type": "section",
                   "intOrdre": 851966,
                   "title": "Formation des équipes pour accueillir des personnes en situation de handicap",
+                  "id": "KALISCTA000029282858",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000029264606",
                       "num": "11",
                       "intOrdre": 1073741823,
@@ -1375,31 +1536,33 @@
                       "etat": "VIGUEUR_NON_ETEN"
                     }
                   ]
+                },
+                {
+                  "type": "article",
+                  "id": "KALIARTI000029264604",
+                  "num": null,
+                  "intOrdre": 131071,
+                  "content": "<p align='left'><br/>Les parties au présent accord affirment que les personnes en situation de handicap ont accès à la formation professionnelle au même titre que l'ensemble du personnel des offices publics de l'habitat. Cependant, la formation est un vecteur de changement des comportements et surtout d'adaptation des comportements des collaborateurs qui devront accueillir une personne en situation de handicap.</p>",
+                  "etat": "VIGUEUR_NON_ETEN"
                 }
               ]
             },
             {
-              "id": "KALISCTA000029264589",
+              "type": "section",
               "intOrdre": 3670009,
               "title": "Chapitre VI Recours aux prestations externes",
+              "id": "KALISCTA000029264589",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
-                  "id": "KALIARTI000029264607",
-                  "num": null,
-                  "intOrdre": 268435455,
-                  "content": "<p align='left'><br/>Selon les résultats de l'enquête menée par la fédération, 183 OPH ont déclaré avoir eu recours à celles-ci sur les 3 dernières années. En 2011, 63 % des OPH ont eu recours à des emplois indirects dans le secteur protégé.</p>",
-                  "etat": "VIGUEUR_NON_ETEN"
-                }
-              ],
-              "sections": [
-                {
-                  "id": "KALISCTA000029282859",
+                  "type": "section",
                   "intOrdre": 536870911,
                   "title": "Développement du recours au secteur protégé",
+                  "id": "KALISCTA000029282859",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000029264608",
                       "num": "12",
                       "intOrdre": 1073741823,
@@ -1407,22 +1570,33 @@
                       "etat": "VIGUEUR_NON_ETEN"
                     }
                   ]
+                },
+                {
+                  "type": "article",
+                  "id": "KALIARTI000029264607",
+                  "num": null,
+                  "intOrdre": 268435455,
+                  "content": "<p align='left'><br/>Selon les résultats de l'enquête menée par la fédération, 183 OPH ont déclaré avoir eu recours à celles-ci sur les 3 dernières années. En 2011, 63 % des OPH ont eu recours à des emplois indirects dans le secteur protégé.</p>",
+                  "etat": "VIGUEUR_NON_ETEN"
                 }
               ]
             },
             {
-              "id": "KALISCTA000029264590",
+              "type": "section",
               "intOrdre": 4194296,
               "title": "Chapitre VII Mise en œuvre et suivi",
+              "id": "KALISCTA000029264590",
               "etat": "VIGUEUR_NON_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000029282862",
+                  "type": "section",
                   "intOrdre": 131071,
                   "title": "Mission nationale handicap",
+                  "id": "KALISCTA000029282862",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000029264609",
                       "num": "13",
                       "intOrdre": 1073741823,
@@ -1432,12 +1606,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000029282863",
+                  "type": "section",
                   "intOrdre": 393214,
                   "title": "Communication et information",
+                  "id": "KALISCTA000029282863",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000029264610",
                       "num": "14",
                       "intOrdre": 1073741823,
@@ -1451,17 +1627,19 @@
           ]
         },
         {
-          "id": "KALITEXT000023950302",
+          "type": "section",
           "title": "Accord du 17 novembre 2010 relatif à l'égalité professionnelle entre les femmes et les hommes",
-          "dateParution": 32472144000000,
-          "sections": [
+          "id": "KALITEXT000023950302",
+          "children": [
             {
-              "id": "KALISCTA000023950304",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Partie 1. Dispositions générales",
+              "id": "KALISCTA000023950304",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023950307",
                   "num": "1er",
                   "intOrdre": 524287,
@@ -1470,6 +1648,7 @@
                   "surtitre": "Champ de l'accord"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000023950312",
                   "num": "2",
                   "intOrdre": 1048574,
@@ -1478,6 +1657,7 @@
                   "surtitre": "Durée et contenu de l'accord"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000023950314",
                   "num": "3",
                   "intOrdre": 1572861,
@@ -1488,12 +1668,14 @@
               ]
             },
             {
-              "id": "KALISCTA000023950305",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Partie 2. Thèmes de négociation retenus",
+              "id": "KALISCTA000023950305",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023950316",
                   "num": "4",
                   "intOrdre": 524287,
@@ -1502,6 +1684,7 @@
                   "surtitre": "Réduction des écarts de rémunération constatés"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000023950317",
                   "num": "5",
                   "intOrdre": 1048574,
@@ -1510,6 +1693,7 @@
                   "surtitre": "Accès et retour à l'emploi, accès à la formation et à la promotion professionnelles"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000023950319",
                   "num": "6",
                   "intOrdre": 1572861,
@@ -1518,6 +1702,7 @@
                   "surtitre": "Conditions d'emploi des salariés à temps partiel"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000023950320",
                   "num": "7",
                   "intOrdre": 2097148,
@@ -1526,6 +1711,7 @@
                   "surtitre": "Autres engagements des offices publics de l'habitat"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000023950322",
                   "num": "8",
                   "intOrdre": 2621435,
@@ -1536,12 +1722,14 @@
               ]
             },
             {
-              "id": "KALISCTA000023950306",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Annexe",
+              "id": "KALISCTA000023950306",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023950324",
                   "num": null,
                   "intOrdre": 524287,

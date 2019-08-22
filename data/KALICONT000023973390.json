@@ -1,35 +1,26 @@
 {
+  "type": "section",
+  "title": "Convention collective du travail du personnel des banques de la Guyane du 18 décembre 2007",
   "id": "KALICONT000023973390",
   "num": "2701",
-  "title": "Convention collective du travail du personnel des banques de la Guyane du 18 décembre 2007",
   "shortTitle": "Banques Personnel Guyane",
-  "categorisation": [
-    "Banque : personnel des banques de la Guyane"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000023973395",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective du travail du personnel des banques de la Guyane du 18 décembre 2007",
+      "id": "KALITEXT000023973395",
       "etat": "VIGUEUR_NON_ETEN",
-      "articles": [
+      "children": [
         {
-          "id": "KALIARTI000023973399",
-          "num": "2",
-          "intOrdre": 1572861,
-          "content": "<p align='left'><br/>La présente convention est conclue pour une durée indéterminée, sauf révision ou dénonciation – totale ou partielle – dans les conditions ci-après.<br/>S'agissant de la révision, toute demande par l'une des parties signataires devra être portée à la connaissance des autres signataires par lettre recommandée avec avis de réception précisant les dispositions sur lesquelles porte la demande et ce qui la motive.<br/>La partie qui demande la révision devra accompagner sa demande d'un nouveau projet d'accord sur les points sujets à révision.<br/>Les négociations concernant une demande de révision, auxquelles sera invité l'ensemble des organisations syndicales de salariés représentatives, devront s'ouvrir au plus tard dans les 3 mois, de date à date, suivant la date de réception de la demande de révision par l'ensemble des parties. Dans la mesure où il y aurait des dates de réception différentes, seule serait retenue la plus tardive de toutes.<br/>La présente convention peut être dénoncée à tout moment par l'une des parties signataires dans le cadre des dispositions prévues à l'<a alt='Code du travail - art. L132-8 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006647009&dateTexte=&categorieLien=cid'>article L. 132-8 du code du travail</a>, moyennant un préavis de 3 mois qui commence le lendemain du jour où la dénonciation est déposée auprès de la direction départementale du travail, de l'emploi et de la formation professionnelle compétente.<br/>Dans le même temps, la dénonciation par l'une des parties signataires doit être portée à la connaissance des autres signataires par lettre recommandée avec avis de réception.<br/>La dénonciation peut être totale et concerner l'ensemble des titres, chapitres, articles, annexes et/ou avenants de la présente convention collective.<br/>La dénonciation peut être partielle et ne concerner qu'un ou plusieurs chapitres.</p>",
-          "etat": "VIGUEUR_NON_ETEN",
-          "surtitre": "Durée et mode d'évolution de la convention collective"
-        }
-      ],
-      "sections": [
-        {
-          "id": "KALISCTA000023973397",
+          "type": "section",
           "intOrdre": 524287,
           "title": "Préambule",
+          "id": "KALISCTA000023973397",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973413",
               "num": null,
               "intOrdre": 524287,
@@ -39,12 +30,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023973401",
+          "type": "section",
           "intOrdre": 2097148,
           "title": "Chapitre Ier Principes généraux",
+          "id": "KALISCTA000023973401",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973417",
               "num": "5",
               "intOrdre": 2097148,
@@ -55,12 +48,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023973402",
+          "type": "section",
           "intOrdre": 2621435,
           "title": "Chapitre II Droit syndical",
+          "id": "KALISCTA000023973402",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973422",
               "num": "7.2",
               "intOrdre": 2097148,
@@ -71,12 +66,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023973403",
+          "type": "section",
           "intOrdre": 3145722,
           "title": "Chapitre III Commission paritaire locale",
+          "id": "KALISCTA000023973403",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973431",
               "num": "10",
               "intOrdre": 3670009,
@@ -87,12 +84,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023973404",
+          "type": "section",
           "intOrdre": 3670009,
           "title": "Chapitre IV Institutions représentatives du personnel",
+          "id": "KALISCTA000023973404",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973437",
               "num": "14",
               "intOrdre": 2097148,
@@ -103,12 +102,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023973405",
+          "type": "section",
           "intOrdre": 4194296,
           "title": "Chapitre V Embauche. – Période d'essai. – Auxiliaires. – Stagiaires",
+          "id": "KALISCTA000023973405",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973448",
               "num": "20",
               "intOrdre": 3145722,
@@ -119,12 +120,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023973406",
+          "type": "section",
           "intOrdre": 4718583,
           "title": "Chapitre VI Formation professionnelle",
+          "id": "KALISCTA000023973406",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973458",
               "num": "23",
               "intOrdre": 5242870,
@@ -135,12 +138,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023973407",
+          "type": "section",
           "intOrdre": 5242870,
           "title": "Chapitre VII Evaluation professionnelle. – Mobilité",
+          "id": "KALISCTA000023973407",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973461",
               "num": "25",
               "intOrdre": 1048574,
@@ -151,12 +156,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023973408",
+          "type": "section",
           "intOrdre": 5767157,
           "title": "Chapitre VIII Discipline et sanctions. – Licenciements individuels et collectifs. – Cessation de travail",
+          "id": "KALISCTA000023973408",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973482",
               "num": "32.3",
               "intOrdre": 8912879,
@@ -167,12 +174,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023973409",
+          "type": "section",
           "intOrdre": 6291444,
           "title": "Chapitre IX Rémunération du travail. – Salaires minima conventionnels. – Garantie individuelle de salaire. – Primes et indemnités. – Classification des emplois",
+          "id": "KALISCTA000023973409",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973499",
               "num": "40",
               "intOrdre": 6291444,
@@ -183,12 +192,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023973410",
+          "type": "section",
           "intOrdre": 6815731,
           "title": "Chapitre X Durée du travail. – Travail effectif Heures supplémentaires. – Répartition du temps de travail",
+          "id": "KALISCTA000023973410",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973506",
               "num": "43",
               "intOrdre": 1572861,
@@ -199,12 +210,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023973411",
+          "type": "section",
           "intOrdre": 7340018,
           "title": "Chapitre XI Congés payés. – Jours fériés. – Congés particuliers",
+          "id": "KALISCTA000023973411",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973520",
               "num": "49",
               "intOrdre": 4194296,
@@ -215,12 +228,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023973412",
+          "type": "section",
           "intOrdre": 7864305,
           "title": "Chapitre XII Garanties sociales. – Maternité. – Adoption. – Congé parental. – Maladie",
+          "id": "KALISCTA000023973412",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973545",
               "num": "59",
               "intOrdre": 9437166,
@@ -229,21 +244,32 @@
               "surtitre": "Dispositif transitoire de majoration au titre de l'ancienneté"
             }
           ]
+        },
+        {
+          "type": "article",
+          "id": "KALIARTI000023973399",
+          "num": "2",
+          "intOrdre": 1572861,
+          "content": "<p align='left'><br/>La présente convention est conclue pour une durée indéterminée, sauf révision ou dénonciation – totale ou partielle – dans les conditions ci-après.<br/>S'agissant de la révision, toute demande par l'une des parties signataires devra être portée à la connaissance des autres signataires par lettre recommandée avec avis de réception précisant les dispositions sur lesquelles porte la demande et ce qui la motive.<br/>La partie qui demande la révision devra accompagner sa demande d'un nouveau projet d'accord sur les points sujets à révision.<br/>Les négociations concernant une demande de révision, auxquelles sera invité l'ensemble des organisations syndicales de salariés représentatives, devront s'ouvrir au plus tard dans les 3 mois, de date à date, suivant la date de réception de la demande de révision par l'ensemble des parties. Dans la mesure où il y aurait des dates de réception différentes, seule serait retenue la plus tardive de toutes.<br/>La présente convention peut être dénoncée à tout moment par l'une des parties signataires dans le cadre des dispositions prévues à l'<a alt='Code du travail - art. L132-8 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006647009&dateTexte=&categorieLien=cid'>article L. 132-8 du code du travail</a>, moyennant un préavis de 3 mois qui commence le lendemain du jour où la dénonciation est déposée auprès de la direction départementale du travail, de l'emploi et de la formation professionnelle compétente.<br/>Dans le même temps, la dénonciation par l'une des parties signataires doit être portée à la connaissance des autres signataires par lettre recommandée avec avis de réception.<br/>La dénonciation peut être totale et concerner l'ensemble des titres, chapitres, articles, annexes et/ou avenants de la présente convention collective.<br/>La dénonciation peut être partielle et ne concerner qu'un ou plusieurs chapitres.</p>",
+          "etat": "VIGUEUR_NON_ETEN",
+          "surtitre": "Durée et mode d'évolution de la convention collective"
         }
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000036903677",
+          "type": "section",
           "title": "Accord du 1er décembre 2017 relatif aux négociations annuelles obligatoires de branche pour 2017",
-          "dateParution": 1526342400000,
-          "articles": [
+          "id": "KALITEXT000036903677",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036903680",
               "num": null,
               "intOrdre": 524287,
@@ -251,6 +277,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036903682",
               "num": "1er",
               "intOrdre": 1048574,
@@ -259,6 +286,7 @@
               "surtitre": "Constat des désaccords"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036903683",
               "num": "2",
               "intOrdre": 1572861,
@@ -267,6 +295,7 @@
               "surtitre": "Constat des accords"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036903685",
               "num": "3",
               "intOrdre": 2097148,
@@ -277,11 +306,12 @@
           ]
         },
         {
-          "id": "KALITEXT000023973546",
+          "type": "section",
           "title": "Annexe I Règlement intérieur de la commission paritaire locale 18 décembre 2007",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000023973546",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973548",
               "num": null,
               "intOrdre": 524287,
@@ -291,11 +321,12 @@
           ]
         },
         {
-          "id": "KALITEXT000023973549",
+          "type": "section",
           "title": "Annexe II Conseil paritaire de recours interne 18 décembre 2007",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000023973549",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973551",
               "num": null,
               "intOrdre": 524287,
@@ -305,11 +336,12 @@
           ]
         },
         {
-          "id": "KALITEXT000023973552",
+          "type": "section",
           "title": "Annexe III Glossaire 18 décembre 2007",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000023973552",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973554",
               "num": null,
               "intOrdre": 524287,
@@ -319,17 +351,19 @@
           ]
         },
         {
-          "id": "KALITEXT000023973555",
+          "type": "section",
           "title": "Annexe IV Métiers repères 18 décembre 2007",
-          "dateParution": 32472144000000,
-          "sections": [
+          "id": "KALITEXT000023973555",
+          "children": [
             {
-              "id": "KALISCTA000023973557",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Liste des métiers repères et exemples d'emplois types regroupés dans chacun des métiers repères",
+              "id": "KALISCTA000023973557",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023973559",
                   "num": null,
                   "intOrdre": 524287,
@@ -339,12 +373,14 @@
               ]
             },
             {
-              "id": "KALISCTA000023973558",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Positionnement des métiers repères dans la grille de classificatio",
+              "id": "KALISCTA000023973558",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023973560",
                   "num": null,
                   "intOrdre": 524287,
@@ -356,11 +392,12 @@
           ]
         },
         {
-          "id": "KALITEXT000023973561",
+          "type": "section",
           "title": "Annexe V Grille des salaires annuels minima hors ancienneté au 1er janvier 2007 (art. 35) 18 décembre 2007",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000023973561",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973563",
               "num": null,
               "intOrdre": 524287,
@@ -370,11 +407,12 @@
           ]
         },
         {
-          "id": "KALITEXT000023973564",
+          "type": "section",
           "title": "Annexe VI Grille des salaires annuels minima à l'ancienneté au 1er janvier 2007 (art. 35) 18 décembre 2007",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000023973564",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973566",
               "num": null,
               "intOrdre": 524287,
@@ -384,11 +422,12 @@
           ]
         },
         {
-          "id": "KALITEXT000023973567",
+          "type": "section",
           "title": "Annexe VII Grille de référence pour l'application de la garantie salariale individuelle (art. 36) au 1er janvier 2007 18 décembre 2007",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000023973567",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973569",
               "num": null,
               "intOrdre": 524287,
@@ -398,11 +437,12 @@
           ]
         },
         {
-          "id": "KALITEXT000023973570",
+          "type": "section",
           "title": "Annexe VIII Références pour l'application de l'article 38 (Indemnités diverses) 18 décembre 2007",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000023973570",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973572",
               "num": null,
               "intOrdre": 524287,
@@ -412,11 +452,12 @@
           ]
         },
         {
-          "id": "KALITEXT000023973573",
+          "type": "section",
           "title": "Annexe IX Jours fériés spécifiques 18 décembre 2007",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000023973573",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973575",
               "num": null,
               "intOrdre": 524287,

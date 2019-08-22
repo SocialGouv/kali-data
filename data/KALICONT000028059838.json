@@ -1,40 +1,33 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale de la production cinématographique du 19 janvier 2012.",
   "id": "KALICONT000028059838",
   "num": "3097",
-  "title": "Convention collective nationale de la production cinématographique du 19 janvier 2012.",
   "shortTitle": "Production Cinématographique Titres I -ii -iii- Iv",
-  "categorisation": [
-    "Production cinématographique"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000028053370",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale de la production cinématographique du 19 janvier 2012.",
+      "id": "KALITEXT000028053370",
       "etat": "VIGUEUR_ETEN",
-      "articles": [
+      "children": [
         {
-          "id": "KALIARTI000038360887",
-          "num": null,
-          "intOrdre": 262143,
-          "content": "<p align='left'>NOTA : Dans l'ensemble des articles des titres suivants : titre I, titre II, titre III, titre IV et de tous les textes rattachés à la CCNPC, les locutions :</p><p align='left'>« les parties, les parties contractantes, les parties signataires, les partenaires sociaux »</p><p align='left'>sont remplacées en tant que de besoin par les locutions suivantes :</p><p align='left'>les « Organisations syndicales de salariés représentatives et les Organisations d'employeurs représentatives dans la branche de la CCNPC » ou les « partenaires sociaux représentatifs de la branche de la CCNPC ».</p><p>(<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000038326423&idArticle=KALIARTI000038326429&categorieLien=cid' title='Mise en place de la CPPNI - art. 2 (VNE)'>Article 2 de l'avenant du 12 septembre 2018</a> relatif à la mise en place de la CPPNI - BOCC 2018-48).</p>",
-          "etat": "VIGUEUR_NON_ETEN"
-        }
-      ],
-      "sections": [
-        {
-          "id": "KALISCTA000028053372",
+          "type": "section",
           "intOrdre": 524287,
           "title": "Titre Ier Dispositions communes",
+          "id": "KALISCTA000028053372",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000028053376",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Chapitre Ier Champ d'application",
+              "id": "KALISCTA000028053376",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028343089",
                   "num": "1er",
                   "intOrdre": 524287,
@@ -45,12 +38,14 @@
               ]
             },
             {
-              "id": "KALISCTA000028053377",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre II Libertés civiques et égalité",
+              "id": "KALISCTA000028053377",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028053434",
                   "num": "6",
                   "intOrdre": 1572861,
@@ -61,12 +56,14 @@
               ]
             },
             {
-              "id": "KALISCTA000028053378",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Chapitre III Dialogue social",
+              "id": "KALISCTA000028053378",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000038361107",
                   "num": "9",
                   "intOrdre": 1572861,
@@ -77,12 +74,14 @@
               ]
             },
             {
-              "id": "KALISCTA000028053379",
+              "type": "section",
               "intOrdre": 2097148,
               "title": "Chapitre IV Contrats de travail",
+              "id": "KALISCTA000028053379",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028053458",
                   "num": "15",
                   "intOrdre": 2621435,
@@ -93,12 +92,14 @@
               ]
             },
             {
-              "id": "KALISCTA000028053380",
+              "type": "section",
               "intOrdre": 2621435,
               "title": "Chapitre V Congés",
+              "id": "KALISCTA000028053380",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028053467",
                   "num": "18",
                   "intOrdre": 1572861,
@@ -109,12 +110,14 @@
               ]
             },
             {
-              "id": "KALISCTA000028053381",
+              "type": "section",
               "intOrdre": 3145722,
               "title": "Chapitre VI Durée du travail",
+              "id": "KALISCTA000028053381",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028053476",
                   "num": "23",
                   "intOrdre": 3145722,
@@ -125,12 +128,14 @@
               ]
             },
             {
-              "id": "KALISCTA000028053382",
+              "type": "section",
               "intOrdre": 3670009,
               "title": "Chapitre VII Santé, prévoyance, retraite complémentaire",
+              "id": "KALISCTA000028053382",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028053491",
                   "num": "28",
                   "intOrdre": 2621435,
@@ -141,12 +146,14 @@
               ]
             },
             {
-              "id": "KALISCTA000028053383",
+              "type": "section",
               "intOrdre": 4194296,
               "title": "Chapitre VIII Formation et emploi",
+              "id": "KALISCTA000028053383",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028053493",
                   "num": "30",
                   "intOrdre": 1048574,
@@ -157,12 +164,14 @@
               ]
             },
             {
-              "id": "KALISCTA000028053384",
+              "type": "section",
               "intOrdre": 4718583,
               "title": "Chapitre IX Dispositions finales",
+              "id": "KALISCTA000028053384",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028053506",
                   "num": "36",
                   "intOrdre": 3145722,
@@ -175,28 +184,21 @@
           ]
         },
         {
-          "id": "KALISCTA000028053373",
+          "type": "section",
           "intOrdre": 1048574,
           "title": "Titre II Techniciens de la production cinématographique",
+          "id": "KALISCTA000028053373",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
-              "id": "KALIARTI000028053385",
-              "num": "1er",
-              "intOrdre": 524287,
-              "content": "<p align='left'><br/>Le titre II est établi en conformité et en application des dispositions du titre Ier « Dispositions communes ».<br/>Le titre II est applicable limitativement aux salariés techniciens concourant à la réalisation des films.<br/>Les dispositions du titre II sont applicables spécifiquement et exclusivement aux salariés de l'équipe technique engagés pour la réalisation des films sous contrat de travail à durée déterminée d'usage au titre des fonctions fixées au chapitre Ier du présent titre, et par exception à certains personnels concourant spécifiquement à la réalisation du film, engagés sous contrat de travail à durée déterminée de droit commun et entrant dans la comptabilité du film.<br/>A compter de son entrée en vigueur, ce présent titre, à l'exception de l'accord national professionnel du 30 décembre 1991 relatif à la retraite complémentaire des intermittents techniques cadres et non cadres, annule et remplace les dispositions de la convention collective nationale des techniciens signée le 30 avril 1950, celles de la convention collective nationale des travailleurs indépendants signée le 1er août 1960 et celles des dispositions communes du protocole d'accord du 29 mars 1973 relatives aux conventions susdites.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Champ d'application"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000028053387",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre Ier Titres des fonctions",
+              "id": "KALISCTA000028053387",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000034056351",
                   "num": "2",
                   "intOrdre": 524287,
@@ -207,12 +209,14 @@
               ]
             },
             {
-              "id": "KALISCTA000028053388",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Chapitre II Droit syndical et représentation des salariés",
+              "id": "KALISCTA000028053388",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028053515",
                   "num": "8",
                   "intOrdre": 2621435,
@@ -223,12 +227,14 @@
               ]
             },
             {
-              "id": "KALISCTA000028053389",
+              "type": "section",
               "intOrdre": 2097148,
               "title": "Chapitre III Salaires",
+              "id": "KALISCTA000028053389",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028053523",
                   "num": "12",
                   "intOrdre": 2097148,
@@ -239,12 +245,14 @@
               ]
             },
             {
-              "id": "KALISCTA000028053390",
+              "type": "section",
               "intOrdre": 2621435,
               "title": "Chapitre IV Engagement",
+              "id": "KALISCTA000028053390",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028053526",
                   "num": "15",
                   "intOrdre": 1572861,
@@ -255,12 +263,14 @@
               ]
             },
             {
-              "id": "KALISCTA000028053391",
+              "type": "section",
               "intOrdre": 3145722,
               "title": "Chapitre V Contrat de travail",
+              "id": "KALISCTA000028053391",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028053536",
                   "num": "23",
                   "intOrdre": 4194296,
@@ -271,12 +281,14 @@
               ]
             },
             {
-              "id": "KALISCTA000028053392",
+              "type": "section",
               "intOrdre": 3670009,
               "title": "Chapitre VI Durée du travail",
+              "id": "KALISCTA000028053392",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028343092",
                   "num": "36",
                   "intOrdre": 6815731,
@@ -287,12 +299,14 @@
               ]
             },
             {
-              "id": "KALISCTA000028053393",
+              "type": "section",
               "intOrdre": 4194296,
               "title": "Chapitre VII Congés",
+              "id": "KALISCTA000028053393",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028053561",
                   "num": "45",
                   "intOrdre": 1048574,
@@ -303,12 +317,14 @@
               ]
             },
             {
-              "id": "KALISCTA000028053394",
+              "type": "section",
               "intOrdre": 4718583,
               "title": "Chapitre VIII Restauration, transports et défraiement",
+              "id": "KALISCTA000028053394",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028053567",
                   "num": "50",
                   "intOrdre": 2621435,
@@ -319,12 +335,14 @@
               ]
             },
             {
-              "id": "KALISCTA000028053395",
+              "type": "section",
               "intOrdre": 5242870,
               "title": "Chapitre IX Commission paritaire d'interprétation et de conciliation",
+              "id": "KALISCTA000028053395",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028053568",
                   "num": null,
                   "intOrdre": 524287,
@@ -334,12 +352,14 @@
               ]
             },
             {
-              "id": "KALISCTA000028053396",
+              "type": "section",
               "intOrdre": 5767157,
               "title": "Chapitre X Réalisateur",
+              "id": "KALISCTA000028053396",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028053573",
                   "num": "53",
                   "intOrdre": 2097148,
@@ -348,37 +368,41 @@
                   "surtitre": "Mode de rémunération"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000028053385",
+              "num": "1er",
+              "intOrdre": 524287,
+              "content": "<p align='left'><br/>Le titre II est établi en conformité et en application des dispositions du titre Ier « Dispositions communes ».<br/>Le titre II est applicable limitativement aux salariés techniciens concourant à la réalisation des films.<br/>Les dispositions du titre II sont applicables spécifiquement et exclusivement aux salariés de l'équipe technique engagés pour la réalisation des films sous contrat de travail à durée déterminée d'usage au titre des fonctions fixées au chapitre Ier du présent titre, et par exception à certains personnels concourant spécifiquement à la réalisation du film, engagés sous contrat de travail à durée déterminée de droit commun et entrant dans la comptabilité du film.<br/>A compter de son entrée en vigueur, ce présent titre, à l'exception de l'accord national professionnel du 30 décembre 1991 relatif à la retraite complémentaire des intermittents techniques cadres et non cadres, annule et remplace les dispositions de la convention collective nationale des techniciens signée le 30 avril 1950, celles de la convention collective nationale des travailleurs indépendants signée le 1er août 1960 et celles des dispositions communes du protocole d'accord du 29 mars 1973 relatives aux conventions susdites.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Champ d'application"
             }
           ]
         },
         {
-          "id": "KALISCTA000028053374",
+          "type": "section",
           "intOrdre": 1572861,
           "title": "Titre III Salariés de l'équipe artistique",
+          "id": "KALISCTA000028053374",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
-              "id": "KALIARTI000028053397",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p align='center'><br/>Préambule</p><p align='left'><br/>Les membres de l'équipe artistique engagés dans le cadre de la présente convention collective sont présumés salariés dans les conditions prévues aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904528&dateTexte=&categorieLien=cid'>articles L. 7121-3 à L. 7121-7 du code du travail</a>.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000028053399",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Sous-titre Ier Artistes-interprètes",
+              "id": "KALISCTA000028053399",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000028053576",
+                  "type": "section",
                   "intOrdre": 524287,
                   "title": "Chapitre Ier Fonctions",
+                  "id": "KALISCTA000028053576",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000028053589",
                       "num": "1.2",
                       "intOrdre": 1048574,
@@ -389,12 +413,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000028053577",
+                  "type": "section",
                   "intOrdre": 1048574,
                   "title": "Chapitre II Contrats de travail",
+                  "id": "KALISCTA000028053577",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000028053592",
                       "num": "2.3",
                       "intOrdre": 1572861,
@@ -405,12 +431,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000028053578",
+                  "type": "section",
                   "intOrdre": 1572861,
                   "title": "Chapitre III Conditions de travail",
+                  "id": "KALISCTA000028053578",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000028053600",
                       "num": "3.8",
                       "intOrdre": 4194296,
@@ -421,12 +449,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000028053579",
+                  "type": "section",
                   "intOrdre": 2097148,
                   "title": "Chapitre IV Durée du travail",
+                  "id": "KALISCTA000028053579",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000028053606",
                       "num": "4.4",
                       "intOrdre": 2097148,
@@ -437,12 +467,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000028053580",
+                  "type": "section",
                   "intOrdre": 2621435,
                   "title": "Chapitre V Défraiements et voyages",
+                  "id": "KALISCTA000028053580",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000028053614",
                       "num": "5.4",
                       "intOrdre": 2097148,
@@ -453,12 +485,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000028053581",
+                  "type": "section",
                   "intOrdre": 3145722,
                   "title": "Chapitre VI Droits et obligations de l'artiste-interprète",
+                  "id": "KALISCTA000028053581",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000028053622",
                       "num": "6.8",
                       "intOrdre": 4194296,
@@ -471,18 +505,21 @@
               ]
             },
             {
-              "id": "KALISCTA000028053400",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Sous-titre II Acteurs de complément",
+              "id": "KALISCTA000028053400",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000028053582",
+                  "type": "section",
                   "intOrdre": 524287,
                   "title": "Chapitre Ier Fonctions",
+                  "id": "KALISCTA000028053582",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000028053625",
                       "num": "1.2",
                       "intOrdre": 1048574,
@@ -493,12 +530,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000028053583",
+                  "type": "section",
                   "intOrdre": 1048574,
                   "title": "Chapitre II Contrats de travail",
+                  "id": "KALISCTA000028053583",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000028053630",
                       "num": "2.3",
                       "intOrdre": 1572861,
@@ -509,12 +548,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000028053584",
+                  "type": "section",
                   "intOrdre": 1572861,
                   "title": "Chapitre III Conditions de travail",
+                  "id": "KALISCTA000028053584",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000028053637",
                       "num": "3.7",
                       "intOrdre": 3670009,
@@ -525,12 +566,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000028053585",
+                  "type": "section",
                   "intOrdre": 2097148,
                   "title": "Chapitre IV Durée du travail",
+                  "id": "KALISCTA000028053585",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000028053643",
                       "num": "4.4",
                       "intOrdre": 2097148,
@@ -541,12 +584,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000028053586",
+                  "type": "section",
                   "intOrdre": 2621435,
                   "title": "Chapitre V Défraiements et voyages",
+                  "id": "KALISCTA000028053586",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000028053647",
                       "num": "5.4",
                       "intOrdre": 2097148,
@@ -557,22 +602,33 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000028053397",
+              "num": null,
+              "intOrdre": 524287,
+              "content": "<p align='center'><br/>Préambule</p><p align='left'><br/>Les membres de l'équipe artistique engagés dans le cadre de la présente convention collective sont présumés salariés dans les conditions prévues aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904528&dateTexte=&categorieLien=cid'>articles L. 7121-3 à L. 7121-7 du code du travail</a>.</p>",
+              "etat": "VIGUEUR_ETEN"
             }
           ]
         },
         {
-          "id": "KALISCTA000033892901",
+          "type": "section",
           "intOrdre": 1835004,
           "title": "Titre IV Salariés attachés à l'activité permanente de l'entreprise",
+          "id": "KALISCTA000033892901",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000033892899",
+              "type": "section",
               "intOrdre": 1073741823,
               "title": "Chapitre Ier Fonctions",
+              "id": "KALISCTA000033892899",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000033892897",
                   "num": "I.1",
                   "intOrdre": 1073741823,
@@ -583,12 +639,14 @@
               ]
             },
             {
-              "id": "KALISCTA000033892893",
+              "type": "section",
               "intOrdre": 1610612735,
               "title": "Chapitre II Contrats de travail",
+              "id": "KALISCTA000033892893",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000033892891",
                   "num": "II.1",
                   "intOrdre": 1073741823,
@@ -599,12 +657,14 @@
               ]
             },
             {
-              "id": "KALISCTA000033892879",
+              "type": "section",
               "intOrdre": 1879048191,
               "title": "Chapitre III Congés",
+              "id": "KALISCTA000033892879",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000033892877",
                   "num": "III.1",
                   "intOrdre": 1073741823,
@@ -615,12 +675,14 @@
               ]
             },
             {
-              "id": "KALISCTA000033892873",
+              "type": "section",
               "intOrdre": 2013265919,
               "title": "Chapitre IV Durée du travail",
+              "id": "KALISCTA000033892873",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000033892871",
                   "num": "IV.1",
                   "intOrdre": 1073741823,
@@ -631,12 +693,14 @@
               ]
             },
             {
-              "id": "KALISCTA000033892859",
+              "type": "section",
               "intOrdre": 2080374783,
               "title": "Chapitre V Frais et voyages",
+              "id": "KALISCTA000033892859",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000033892857",
                   "num": "V.1",
                   "intOrdre": 1073741823,
@@ -647,12 +711,14 @@
               ]
             },
             {
-              "id": "KALISCTA000033892847",
+              "type": "section",
               "intOrdre": 2113929215,
               "title": "Chapitre VI Salaires",
+              "id": "KALISCTA000033892847",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000033892845",
                   "num": "VI.1",
                   "intOrdre": 1073741823,
@@ -663,12 +729,14 @@
               ]
             },
             {
-              "id": "KALISCTA000033892835",
+              "type": "section",
               "intOrdre": 2122317823,
               "title": "Chapitre VII Santé, prévoyance",
+              "id": "KALISCTA000033892835",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000033892833",
                   "num": null,
                   "intOrdre": 1073741823,
@@ -678,12 +746,14 @@
               ]
             },
             {
-              "id": "KALISCTA000033892831",
+              "type": "section",
               "intOrdre": 2126512127,
               "title": "Chapitre VIII Formation professionnelle",
+              "id": "KALISCTA000033892831",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000033892829",
                   "num": null,
                   "intOrdre": 1073741823,
@@ -695,24 +765,28 @@
           ]
         },
         {
-          "id": "KALISCTA000028053375",
+          "type": "section",
           "intOrdre": 2097148,
           "title": "ANNEXES",
+          "id": "KALISCTA000028053375",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000028059896",
+              "type": "section",
               "intOrdre": 262143,
               "title": "\nGrille de salaires minimaux garantis et montant des indemnités repas et casse-croûte",
+              "id": "KALISCTA000028059896",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000028338703",
+                  "type": "section",
                   "intOrdre": 536870911,
                   "title": "Grille de salaires minimaux garantis et montant des indemnités repas et casse-croûte",
+                  "id": "KALISCTA000028338703",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000034056361",
                       "num": null,
                       "intOrdre": 1073741823,
@@ -722,12 +796,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000028338710",
+                  "type": "section",
                   "intOrdre": 1342177279,
                   "title": "Rémunération conventionnelle des réalisateurs",
+                  "id": "KALISCTA000028338710",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000028338711",
                       "num": null,
                       "intOrdre": 1073741823,
@@ -739,18 +815,21 @@
               ]
             },
             {
-              "id": "KALISCTA000028059897",
+              "type": "section",
               "intOrdre": 655358,
               "title": "\nGrille des durées hebdomadaires de travail comprenant des durées d'équivalence",
+              "id": "KALISCTA000028059897",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000028338719",
+                  "type": "section",
                   "intOrdre": 1610612735,
                   "title": "Grille des durées hebdomadaires de travail comprenant des durées d'équivalence",
+                  "id": "KALISCTA000028338719",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000034056359",
                       "num": null,
                       "intOrdre": 1073741823,
@@ -762,28 +841,21 @@
               ]
             },
             {
-              "id": "KALISCTA000028059898",
+              "type": "section",
               "intOrdre": 1114109,
               "title": "Annexe III : Techniciens de la production cinématographique - Intéressement aux recettes d'exploitation",
+              "id": "KALISCTA000028059898",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
-                  "id": "KALIARTI000028343107",
-                  "num": "1er",
-                  "intOrdre": 477218588,
-                  "content": "<p align='left'>Le recours à l'application de l'annexe III pour la production de films tels que fixés dans celle-ci est lié au choix du producteur. Le producteur peut ne pas y recourir et appliquer les conditions fixées dans la convention collective. <br/><br/>Le recours aux dispositions de l'annexe III s'applique pour la production de films agréés principalement tournés en France, sauf raisons artistiques liées au scénario, en référence à l'article 220 sexies du code général des impôts. <br/><br/>Pour l'application de la présente annexe, les partenaires sociaux décident de la mise en place d'une commission paritaire. <br/><br/>Elle est présidée par un des représentants du collège employeurs. <br/><br/>Cette commission paritaire se dote d'un règlement intérieur annexé à la présente annexe. <br/><br/>Cette commission a pour charge d'examiner, préalablement aux demandes d'agrément fixées par le code du cinéma et de l'image animée, les demandes des entreprises de production qui souhaiteraient recourir pour les productions de leurs films à la présente. <br/><br/>La commission fera parvenir au CNC sa décision d'acceptation ou de refus. <br/><br/>Le producteur ne peut passer outre cette décision conventionnelle et présenter valablement au CNC une demande d'agrément au bénéfice du soutien financier de l'Etat. <br/><br/>L'intéressement aux recettes d'exploitation consiste en l'attribution d'une participation aux''recettes nettes producteur''d'un film qui remplit les critères cumulatifs suivants : <br/><br/>- pour les films de fiction, le budget prévisionnel ne dépasse pas 3 millions d'euros de dépenses extérieures à la société de production, étant précisé que ces budgets s'entendent hors imprévus ; <br/><br/>- pour les films de documentaires, le budget prévisionnel est inférieur à 0,6 million d'euros de dépenses extérieures à la société de production, étant précisé que ces budgets s'entendent hors imprévus ; <br/><br/>- la masse salariale effective brute des personnels techniques est au moins égale à 18 % du budget prévisionnel du film ; <br/><br/>- la masse salariale effective brute des personnels techniques (hors rémunération du réalisateur technicien) représente au moins 80 % d'un poste regroupant les rémunérations brutes des auteurs, producteurs et titulaires des rôles principaux, ainsi que les commissions d'agents telles qu'elles sont prévues dans le budget prévisionnel. <br/><br/>Ces critères devront être confirmés à l'agrément de production, étant précisé que la consommation des imprévus portant le budget au-delà de 3 millions d'euros devra donner lieu à un examen par la commission paritaire, qui pourra confirmer le bénéfice de l'annexe. <br/><br/>Cet article s'applique aux techniciens ayant contribué à la réalisation de ce film et couverts par la convention collective des techniciens de la production cinématographique. <br/><br/>La production de films de court-métrage et la production de films publicitaires, relevant d'une économie réglementaire différente et, en particulier, ne faisant pas l'objet de recettes d'exploitation salles, sont exclues du recours à l'application des dispositions de l'annexe III. <br/><br/>La commission paritaire se réunira annuellement afin d'établir un bilan. Les partenaires sociaux conviennent de tirer un bilan annuel du dispositif, afin qu'en moyenne annuelle seuls 20 % des films agréés et entrant dans le seuil défini ci-dessus puissent appliquer le dispositif prévu à la présente annexe. <br/><br/>Il est entendu que le seuil de 20 % du nombre de films agréés s'apprécie sur une durée de 5 années à dater de l'entrée en vigueur de l'annexe. <br/><br/>Au terme de la 3e année, les partenaires sociaux se réuniront afin d'examiner les effets de l'application de l'annexe et de son règlement intérieur ainsi que ceux concernant les montants d'intéressements revenant aux techniciens, afin d'avoir un aperçu d'ensemble.</p>",
-                  "etat": "VIGUEUR_ETEN",
-                  "surtitre": "Champ d'application"
-                }
-              ],
-              "sections": [
-                {
-                  "id": "KALISCTA000028338682",
+                  "type": "section",
                   "intOrdre": 1968526675,
                   "title": "Grille des salaires minima garantis et montant des indemnités repas et casse-croûte",
+                  "id": "KALISCTA000028338682",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000034056357",
                       "num": null,
                       "intOrdre": 1073741823,
@@ -793,12 +865,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000028338698",
+                  "type": "section",
                   "intOrdre": 2028178999,
                   "title": "Grille des durées hebdomadaires de travail comprenant des durées d'équivalence",
+                  "id": "KALISCTA000028338698",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000034056355",
                       "num": null,
                       "intOrdre": 1073741823,
@@ -806,16 +880,27 @@
                       "etat": "VIGUEUR_ETEN"
                     }
                   ]
+                },
+                {
+                  "type": "article",
+                  "id": "KALIARTI000028343107",
+                  "num": "1er",
+                  "intOrdre": 477218588,
+                  "content": "<p align='left'>Le recours à l'application de l'annexe III pour la production de films tels que fixés dans celle-ci est lié au choix du producteur. Le producteur peut ne pas y recourir et appliquer les conditions fixées dans la convention collective. <br/><br/>Le recours aux dispositions de l'annexe III s'applique pour la production de films agréés principalement tournés en France, sauf raisons artistiques liées au scénario, en référence à l'article 220 sexies du code général des impôts. <br/><br/>Pour l'application de la présente annexe, les partenaires sociaux décident de la mise en place d'une commission paritaire. <br/><br/>Elle est présidée par un des représentants du collège employeurs. <br/><br/>Cette commission paritaire se dote d'un règlement intérieur annexé à la présente annexe. <br/><br/>Cette commission a pour charge d'examiner, préalablement aux demandes d'agrément fixées par le code du cinéma et de l'image animée, les demandes des entreprises de production qui souhaiteraient recourir pour les productions de leurs films à la présente. <br/><br/>La commission fera parvenir au CNC sa décision d'acceptation ou de refus. <br/><br/>Le producteur ne peut passer outre cette décision conventionnelle et présenter valablement au CNC une demande d'agrément au bénéfice du soutien financier de l'Etat. <br/><br/>L'intéressement aux recettes d'exploitation consiste en l'attribution d'une participation aux''recettes nettes producteur''d'un film qui remplit les critères cumulatifs suivants : <br/><br/>- pour les films de fiction, le budget prévisionnel ne dépasse pas 3 millions d'euros de dépenses extérieures à la société de production, étant précisé que ces budgets s'entendent hors imprévus ; <br/><br/>- pour les films de documentaires, le budget prévisionnel est inférieur à 0,6 million d'euros de dépenses extérieures à la société de production, étant précisé que ces budgets s'entendent hors imprévus ; <br/><br/>- la masse salariale effective brute des personnels techniques est au moins égale à 18 % du budget prévisionnel du film ; <br/><br/>- la masse salariale effective brute des personnels techniques (hors rémunération du réalisateur technicien) représente au moins 80 % d'un poste regroupant les rémunérations brutes des auteurs, producteurs et titulaires des rôles principaux, ainsi que les commissions d'agents telles qu'elles sont prévues dans le budget prévisionnel. <br/><br/>Ces critères devront être confirmés à l'agrément de production, étant précisé que la consommation des imprévus portant le budget au-delà de 3 millions d'euros devra donner lieu à un examen par la commission paritaire, qui pourra confirmer le bénéfice de l'annexe. <br/><br/>Cet article s'applique aux techniciens ayant contribué à la réalisation de ce film et couverts par la convention collective des techniciens de la production cinématographique. <br/><br/>La production de films de court-métrage et la production de films publicitaires, relevant d'une économie réglementaire différente et, en particulier, ne faisant pas l'objet de recettes d'exploitation salles, sont exclues du recours à l'application des dispositions de l'annexe III. <br/><br/>La commission paritaire se réunira annuellement afin d'établir un bilan. Les partenaires sociaux conviennent de tirer un bilan annuel du dispositif, afin qu'en moyenne annuelle seuls 20 % des films agréés et entrant dans le seuil défini ci-dessus puissent appliquer le dispositif prévu à la présente annexe. <br/><br/>Il est entendu que le seuil de 20 % du nombre de films agréés s'apprécie sur une durée de 5 années à dater de l'entrée en vigueur de l'annexe. <br/><br/>Au terme de la 3e année, les partenaires sociaux se réuniront afin d'examiner les effets de l'application de l'annexe et de son règlement intérieur ainsi que ceux concernant les montants d'intéressements revenant aux techniciens, afin d'avoir un aperçu d'ensemble.</p>",
+                  "etat": "VIGUEUR_ETEN",
+                  "surtitre": "Champ d'application"
                 }
               ]
             },
             {
-              "id": "KALISCTA000028059903",
+              "type": "section",
               "intOrdre": 3440633,
               "title": "Annexe III.1 : Annexe au sous-titre Ier (Artistes-interprètes) du titre III",
+              "id": "KALISCTA000028059903",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000038231770",
                   "num": null,
                   "intOrdre": 238609294,
@@ -825,12 +910,14 @@
               ]
             },
             {
-              "id": "KALISCTA000028059905",
+              "type": "section",
               "intOrdre": 6701043,
               "title": "Annexe III.2 : Annexe au sous-titre II (Acteurs de complément) du titre III",
+              "id": "KALISCTA000028059905",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028053421",
                   "num": null,
                   "intOrdre": 1073741823,
@@ -840,12 +927,14 @@
               ]
             },
             {
-              "id": "KALISCTA000033892827",
+              "type": "section",
               "intOrdre": 1077092345,
               "title": "Annexe IV.A : Grille des salaires minima conventionnels",
+              "id": "KALISCTA000033892827",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000033892825",
                   "num": null,
                   "intOrdre": 1073741823,
@@ -855,12 +944,14 @@
               ]
             },
             {
-              "id": "KALISCTA000033892823",
+              "type": "section",
               "intOrdre": 1612287996,
               "title": "Annexe IV.B : Emplois repères",
+              "id": "KALISCTA000033892823",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000033892821",
                   "num": null,
                   "intOrdre": 1073741823,
@@ -870,59 +961,31 @@
               ]
             }
           ]
+        },
+        {
+          "type": "article",
+          "id": "KALIARTI000038360887",
+          "num": null,
+          "intOrdre": 262143,
+          "content": "<p align='left'>NOTA : Dans l'ensemble des articles des titres suivants : titre I, titre II, titre III, titre IV et de tous les textes rattachés à la CCNPC, les locutions :</p><p align='left'>« les parties, les parties contractantes, les parties signataires, les partenaires sociaux »</p><p align='left'>sont remplacées en tant que de besoin par les locutions suivantes :</p><p align='left'>les « Organisations syndicales de salariés représentatives et les Organisations d'employeurs représentatives dans la branche de la CCNPC » ou les « partenaires sociaux représentatifs de la branche de la CCNPC ».</p><p>(<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000038326423&idArticle=KALIARTI000038326429&categorieLien=cid' title='Mise en place de la CPPNI - art. 2 (VNE)'>Article 2 de l'avenant du 12 septembre 2018</a> relatif à la mise en place de la CPPNI - BOCC 2018-48).</p>",
+          "etat": "VIGUEUR_NON_ETEN"
         }
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000032426289",
-          "title": "Accord du 3 novembre 2015 relatif à l'aide au paritarisme",
-          "dateParution": 1461024000000,
-          "articles": [
-            {
-              "id": "KALIARTI000032426292",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p><br/>Etant préalablement exposé ce qui suit : <br/>Vu les dispositions de l'<a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000028053370&idArticle=KALIARTI000028053440&categorieLien=cid'>article 10 du titre Ier</a> de la convention collective nationale de la production cinématographique (ci-après désignée « la convention collective ») : <br/>« Les parties signataires confirment leur attachement à développer une politique de concertation et de négociation, qui implique la mise en œuvre d'un financement du paritarisme, afin notamment : <br/>– d'anticiper, de coordonner et d'accompagner l'application du dispositif conventionnel ; <br/>– de suivre l'évolution de l'emploi et les besoins de compétence et de qualification propres aux salariés relevant respectivement des titres II et suivants. <br/>Le financement de ces fonds sera assuré par une contribution annuelle dont le montant est référencé à la masse salariale des personnels des entreprises relevant de la présence convention collective et selon des modalités qui seront définies dans un accord de branche à venir. Cet accord, en ce compris ses avenants et annexes, constituera une annexe à la présente convention collective. <br/>A cet effet, la gestion de cette contribution sera assurée par l'association de gestion du CCHSCT de la production cinématographique. <br/>Le produit de cette contribution sera réparti entre les organisations d'employeurs, d'une part, et les organisations de salariés représentatives dans la branche, d'autre part. L'accord précité définira également les modalités de collecte, de gestion et de répartition entre les organisations de chaque collège du produit des contributions au financement du paritarisme. » <br/>Les parties au présent accord décident ce qui suit :</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000032426293",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Le présent accord a pour champ d'application celui défini à l'<a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000028053370&idArticle=KALIARTI000028053423&categorieLien=cid'>article 1er du titre Ier </a>de la convention collective, dont il constitue une annexe. <br/>Par dérogation au sixième paragraphe de l'<a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000028053370&idArticle=KALIARTI000028053496&categorieLien=cid'>article 32 du titre Ier</a> de la convention collective, le présent accord entrera en vigueur le premier jour du trimestre suivant la date de publication de son arrêté d'extension. <br/>Hormis la dérogation précitée, le présent accord suit les dispositions prévues à ladite convention collective.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Champ d'application"
-            },
-            {
-              "id": "KALIARTI000032426294",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>La gestion du produit de la contribution au financement du paritarisme est assurée par l'association de gestion du CCHSCT de la production cinématographique et de films publicitaires séparément de celle concernant le CCHSCT. A cet effet sera ouvert un numéro de compte bancaire spécifique. </p><p align='center'><br/>2.1. Taux de la contribution </p><p align='left'><br/>Le financement du fonds d'aide au paritarisme, prévu à l'article 10 du titre Ier de la convention collective, est assuré par une contribution à la charge des entreprises relevant de la convention collective dont le montant, qui est révisé par avenant, est fixé à 0,045 % de la masse salariale brute des personnels intermittents, techniciens et artistes, et des personnels permanents desdites entreprises. <br/>Les parties conviennent, au cas où le montant total de la contribution au paritarisme résultant du pourcentage de 0,045 % de la masse salariale serait inférieur à 180 000 €, que le pourcentage de 0,045 % sera proportionnellement réajusté, afin de garantir ce montant plancher du paritarisme collecté, sous réserve de la conjoncture sectorielle. Ce réajustement fait l'objet d'un avenant au présent accord. </p><p align='center'><br/><i>2.2. Répartition du produit de la contribution</i> <a shape='rect' href='#RENVOI_KALIARTI000032426294_1'> (1)</a></p><p align='left'><br/>Par dérogation à l'<a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000028053370&idArticle=KALIARTI000028053440&categorieLien=cid'>article 10 du titre Ier </a>de la convention collective, les parties au présent accord conviennent de répartir le produit de cette contribution de la manière suivante, après prélèvement des frais de gestion afférents au financement du paritarisme, fixés selon les modalités prévues dans les statuts de l'association de gestion du CCHSCT et du financement du paritarisme de la production cinématographique (ci-après dénommée l'association) : <br/>– 78 % pour les organisations de salariés représentatives dans la branche ; <br/>– 22 % pour les organisations d'employeurs. </p><p align='center'><br/>2.2.1. Répartition entre les organisations de salariés </p><p align='left'><br/>La part d'aide au paritarisme revenant aux organisations syndicales de salariés citées au 2.1 est répartie proportionnellement à leur représentativité fixée par l'arrêté ministériel en vigueur arrêtant la liste des organisations syndicales reconnues représentatives dans la branche de la production cinématographique et de films publicitaires, sous réserve de la déduction préalable d'une part fixe de 3 000 € accordée indistinctement à chacune des organisations syndicales de salariés représentatives dans la branche. </p><p align='center'><br/>2.2.2. Répartition entre organisations d'employeurs </p><p align='left'><br/>Les organisations d'employeurs signataires du présent accord conviennent de consacrer prioritairement leur part d'aide au paritarisme au financement du fonctionnement de la commission paritaire dérogatoire instituée à l'annexe III du titre II de la convention collective (dénommée ci-après « la commission »). <br/>La somme correspondante comprendra, d'une part, les frais de secrétariat et, d'autre part, les indemnités de présence versées aux membres de la commission présents aux réunions de celle-ci dans la limite de 20 % de ladite somme. <br/>Le secrétariat de la commission est assuré par l'une des organisations d'employeurs signataires du présent accord selon des modalités arrêtées dans les statuts de l'association ci-après désignée. Depuis le 22 novembre 2013, le SPI a été désigné par le collège employeur pour prendre en charge le secrétariat de la commission. <br/>La part d'aide au paritarisme correspondant aux besoins de la commission est affectée au secrétariat de la commission, après approbation des comptes de l'année considérée par l'assemblée générale annuelle de l'association. A cet effet, le collège employeur au sein de l'association se réunit chaque année pour évaluer le montant des sommes correspondantes sur proposition de l'organisation en charge du secrétariat de cette commission. <br/>Le reliquat d'aide au paritarisme revenant le cas échéant aux organisations d'employeurs après affectation des sommes dédiées au fonctionnement de la commission est réparti entre les organisations du collège employeur de la branche selon des modalités définies entre elles en référence aux dispositions légales qui seront en vigueur à cette date. <br/>En cas de modification de la gestion du secrétariat de la commission, le montant du paritarisme revenant au collège employeur de la branche sera réparti entre les organisations qui en sont membres selon des modalités définies entre elles en référence aux modalités fixées par les dispositions légales qui seront vigueur à cette date.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000032426294_1'></a>(1) Article étendu sous réserve de l'application du principe d'égalité à valeur constitutionnelle résultant de l'article 6 de la Déclaration des droits de l'homme et du citoyen du 26 août 1789 et du sixième alinéa du préambule de la Constitution de 1946 (Cass. soc. 29 mai 2001, Cegelec).  <br/>(Arrêté du 12 mai 2017 - art. 1)</em></font></p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Contribution au financement du paritarisme"
-            },
-            {
-              "id": "KALIARTI000032426295",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>La contribution au financement du paritarisme est collectée de manière trimestrielle auprès des entreprises relevant de la convention collective par l'intermédiaire d'AGEPRO, filiale du groupe Audiens, désignée par le présent accord comme organisme de collecte. Le produit de la collecte est reversé dans son intégralité sur un numéro de compte bancaire spécifique au financement du paritarisme ouvert par l'association de gestion du CCHSCT cinéma visée au protocole d'accord instituant le CCHSCT de la production cinématographique du 17 décembre 2007 (ci-après dénommée « l'association »). <br/>La convention de gestion conclue le 2 avril 2008 entre l'association et AGEPRO, qui définit les modalités de collecte de la contribution au titre du CCHSCT cinéma, sera révisée sous le contrôle des organisations d'employeurs et de salariés constituant l'association de gestion du CCHSCT afin d'ajouter les prestations nécessaires à la collecte et l'attribution de la contribution au financement du paritarisme dans le champ de ses compétences. <br/>Conformément à l'<a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000028053370&idArticle=KALIARTI000028053440&categorieLien=cid'>article 10 du titre Ier</a> de la convention collective, les sommes revenant aux organisations syndicales de salariés et aux organisations d'employeurs concernées au titre de l'aide au paritarisme sont reversées et soldées une fois par an par l'association à celles-ci, après approbation des comptes de l'année considérée du financement du paritarisme par l'assemblée générale annuelle de l'association. Une avance peut être versée en cours d'année si le niveau des fonds collectés le permet, et sous réserve d'approbation des comptes ultérieure. <br/>Le présent accord fera l'objet d'une demande d'extension auprès du ministère du travail par la partie la plus diligente.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Collecte de la contribution"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000038746365",
+          "type": "section",
           "title": "Accord du 20 février 2019 relatif à l'annexe III du titre II de la convention collective",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000038746365",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038746368",
               "num": null,
               "intOrdre": 524287,
@@ -932,11 +995,89 @@
           ]
         },
         {
-          "id": "KALITEXT000038184352",
-          "title": "Avenant du 30 octobre 2018 portant révision des salaires des artistes-interprètes",
-          "dateParution": 1551312000000,
-          "articles": [
+          "type": "section",
+          "title": "Avenant du 12 septembre 2018 relatif à la mise en place de la CPPNI",
+          "id": "KALITEXT000038326423",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000038326426",
+              "etat": "VIGUEUR_NON_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000038326438",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'>Aux termes du présent avenant, les organisations de salariés représentatives et les organisations d'employeurs représentatives (également dénommées les « partenaires sociaux représentatifs ») dans la branche de la production cinématographique, parties au présent avenant, ont décidé d'adapter les dispositions de la convention collective nationale de la production cinématographique (IDCC 3097) à la notion de représentativité et aux missions confiées à la branche professionnelle, notamment celles intéressant la négociation, l'interprétation et la conciliation.</p><p align='left'>L'actuelle commission mixte paritaire de la production cinématographique est remplacée par la commission paritaire permanente de négociation et d'interprétation (CPPNI) qui assure les missions de représentation, d'appui conseil et de négociation prévues par les dispositions légales en vigueur et les missions d'interprétation et de conciliation prévues par les dispositions de la convention collective nationale de la production cinématographique (CCNPC).</p><p align='left'>En particulier, les partenaires sociaux représentatifs conviennent que les missions de la CPPNI sont celles visées au jour de la signature des présentes par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901694&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-9 (M)'>article L. 2232-9 du code du travail </a>:</p><p align='center'>« Article L. 2232-9</p><p align='left'>I. – Une commission paritaire permanente de négociation et d'interprétation est mise en place par accord ou convention dans chaque branche.</p><p align='left'>II. – La commission paritaire exerce les missions d'intérêt général suivantes :</p><p align='left'>1° Elle représente la branche, notamment dans l'appui aux entreprises et vis-à-vis des pouvoirs publics.</p><p align='left'>2° Elle exerce un rôle de veille sur les conditions de travail et l'emploi.</p><p align='left'>3° Elle établit un rapport annuel d'activité qu'elle verse dans la base de données nationale mentionnée à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033008925&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-5-1 (V)'>article L. 2231-5.1</a>. Ce rapport comprend un bilan des accords collectifs d'entreprise conclus dans le cadre du titre II, des chapitres Ier et III du titre III et des titres IV et V du livre Ier de la troisième partie, en particulier de l'impact de ces accords sur les conditions de travail des salariés et sur la concurrence entre les entreprises de la branche, et formule, le cas échéant, des recommandations destinées à répondre aux difficultés identifiées.</p><p align='left'>Elle peut rendre un avis à la demande d'une juridiction sur l'interprétation d'une convention ou d'un accord collectif dans les conditions mentionnées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006071164&idArticle=LEGIARTI000006572227&dateTexte=&categorieLien=cid' title='Code de l'organisation judiciaire - art. L441-1 (V)'>article L. 441-1 du code de l'organisation judiciaire</a>.</p><p align='left'>Elle peut également exercer les missions de l'observatoire paritaire mentionné à l'article L. 2232-10.</p><p align='left'>Un décret définit les conditions dans lesquelles les conventions et accords d'entreprise conclus dans le cadre du titre II, des chapitres Ier et III du titre III et des titres IV et V du livre Ier de la troisième partie du présent code sont transmis aux commissions mentionnées au I du présent article.</p><p align='left'>III. – La commission paritaire est réunie au moins trois fois par an en vue des négociations mentionnées au chapitre Ier du titre IV du présent livre. Elle définit son calendrier de négociations dans les conditions prévues à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901665&dateTexte=&categorieLien=cid' title='Code du travail - art. L2222-3 (V)'>article L. 2222-3</a>. »</p><p align='left'>Dans ce but, le présent avenant annule et remplace les dispositions relatives aux commissions paritaires d'interprétation et de conciliation prévues à l'article 31, chapitre IX, titre I de la CCNPC et au chapitre IX, titre II de la CCNPC.</p>",
+                  "etat": "VIGUEUR_NON_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000038326427",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'>Le présent avenant a pour champ d'application celui défini à l'article 1 du titre I de la convention collective nationale de la production cinématographique (ou CCNPC).</p><p align='left'>Les partenaires sociaux représentatifs estiment que les dispositions dudit avenant sont pleinement justifiées et applicables à toutes les entreprises relevant de la branche. À ce titre, ils précisent que, conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>dispositions de l'article L. 2261-23-1 du code du travail</a>, l'objet du présent avenant ne justifie pas la mise en place de mesures spécifiques pour les entreprises de moins de 50 salariés.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Champ d'application. – Entreprises de moins de 50 salariés"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000038326429",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='center'>2.1. Modifications générales</p><p align='left'>Dans l'ensemble des articles des titres suivants : titre I, titre II, titre III, titre IV et de tous les textes rattachés à la CCNPC, les locutions :</p><p align='left'>« les parties, les parties contractantes, les parties signataires, les partenaires sociaux »</p><p align='left'>sont remplacées en tant que de besoin par les locutions suivantes :</p><p align='left'>les « Organisations syndicales de salariés représentatives et les Organisations d'employeurs représentatives dans la branche de la CCNPC » ou les « partenaires sociaux représentatifs de la branche de la CCNPC ».</p><p align='center'>2.2. Modification de l'article 11 du titre I</p><p align='left'>L'article 11 du titre I de la convention collective nationale de la production cinématographique est remplacé par l'alinéa suivant :</p><p align='left'>« La représentativité des organisations représentatives de salariés et des organisations représentatives d'employeurs est déterminée conformément aux dispositions légales et réglementaires en vigueur. »</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Représentativité"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000038326430",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='center'>3.1. Modification de l'intitulé de l'article 9 du titre I. – Négociations de branche</p><p align='left'>L'intitulé de l'article 9 du titre I de la CCNPC est modifié comme il suit :</p><p align='center'>« Article 9<br/>\nNégociations de branche et Instances Paritaires-CPPNI et CPPHSCT »<br/>\n3.2. Modification de l'article 9 du titre I<br/>\nNégociations de branche et Instances Paritaires-CPPNI et CPPHSCT :</p><p align='left'>Le 1er paragraphe de l'article 9 est modifié comme il suit :</p><p align='left'>« 9.1. Les organisations d'employeurs et les organisations syndicales de salariés représentatives dans la branche de la production cinématographique organiseront les négociations annuelle, triennale et quinquennale prévues par les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901738&dateTexte=&categorieLien=cid' title='Code du travail - art. L2241-1 (M)'>articles L. 2241-1 à L. 2241-18 du code du travail</a>. »</p><p align='left'>Les deuxième et troisième paragraphes de l'article 9 sont inchangés.</p><p align='left'>Il est inséré à l'article 9 un 4e et un 5e paragraphes rédigés comme il suit :</p><p align='left'>« En application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901775&dateTexte=&categorieLien=cid' title='Code du travail - art. L2253-2 (M)'>article L. 2253-2 du code du travail</a>, dans les matières énumérées ci-après, toute convention d'entreprise conclue postérieurement au présent accord ne peut comporter des stipulations différentes de celles qui lui sont applicables en vertu de la CCNPC, sauf lorsque la convention d'entreprise assure des garanties au moins équivalentes :<br/>\n– la prévention des effets de l'exposition aux facteurs de risques professionnels ;<br/>\n– l'insertion professionnelle et le maintien dans l'emploi des travailleurs handicapés ;<br/>\n– l'effectif à partir duquel les délégués syndicaux peuvent être désignés, leur nombre et la valorisation de leurs parcours syndical ;<br/>\n– les primes pour travaux dangereux ou insalubres.</p><p align='left'>Le comité central d'hygiène, de sécurité et des conditions de travail de la production cinématographique (CCHSCT) exerce ses missions prévues par les dispositions de la CCNPC et des textes qui lui sont rattachés, y compris le protocole du 17 décembre 2007, sous la nouvelle dénomination : « Comité Paritaire de Prévention relatif à l'Hygiène, à la Sécurité et aux Conditions de travail de la production cinématographique » (CPPHSCT) qui remplace l'ancienne dénomination dans l'ensemble des dispositions précitées ».</p><p align='left'>Après le 5e paragraphe, l'article 9 est complété comme il suit :</p><p align='left'>« 9.2. La commission paritaire permanente de négociation et d'interprétation (CPPNI) est composée des représentants des organisations d'employeurs représentatives dans la branche d'une part, et des organisations syndicales de salariés représentatives dans la branche d'autre part.</p><p align='left'>9.3. Les missions de la CPPNI sont celles d'ordre public définies par la loi en vigueur.</p><p align='left'>Elles incluent l'ensemble des missions jusqu'alors exercées par la commission mixte paritaire de la production cinématographique, notamment en matière de négociation.</p><p align='left'>Elle exerce un rôle de veille sur les conditions de travail et d'emploi dans la branche. À ce titre, les accords d'entreprise susceptibles d'intervenir doivent être obligatoirement transmis pour information à la CPPNI. Les accords d'entreprise doivent respecter les salaires minima garantis incluant les majorations, tels que définis par les annexes aux différents titres de la CCNPC relatives aux salaires.</p><p align='left'>La CPPNI se réunit au moins trois fois par an pour mener les négociations au niveau de la branche.</p><p align='left'>9.4. La présidence de la CPPNI est assurée par le représentant d'une des organisations d'employeurs représentatives dans la branche, désigné par celles-ci.<br/>\nSur demande des partenaires sociaux représentatifs, la CPPNI peut être présidée par un représentant du ministre du travail et se réunit alors sur convocation du ministère du travail.</p><p align='left'>Le secrétariat de la CPPNI est géré par une des organisations représentatives des employeurs.</p><p align='left'>L'adresse numérique et postale de la commission paritaire permanente de négociation et d'interprétation est :<br/>\n– cppni@productioncinematographique.fr ;<br/>\n– 37, rue Étienne Marcel, 75001 Paris,<br/>\nqui correspond à l'adresse de l'organisation d'employeurs en charge du secrétariat de la CPPNI au jour de la signature du présent avenant.</p><p align='left'>Le droit d'accès à l'adresse numérique et postale de la CPPNI est réservé aux organisations de salariés représentatives dans la branche et aux organisations d'employeurs représentatives dans la branche.</p><p align='left'>9.5. En ce qui concerne la mission d'interprétation et de conciliation, la CPPNI se réunit en formation de « commission paritaire d'interprétation et de conciliation » (CPIC).</p><p align='center'>9.5.1. Les membres, la présidence et la vice-présidence de la CPIC</p><p align='left'>Chaque organisation représentative dans la branche, membre de la CPPNI est membre de la CPIC. Chaque organisation représentative membre de la CPIC comprend une délégation de trois représentants maximum, dont la liste est transmise préalablement au secrétariat de la CPIC.</p><p align='left'>La CPIC est présidée alternativement tous les ans, soit par une organisation représentative du collège employeurs, désignée par les organisations représentatives du collège employeurs, soit par une organisation représentative du collège salariés, désignée par les organisations représentatives du collège salariés.</p><p align='left'>La vice-présidence est assurée par le collège n'assurant pas la présidence, qui désigne parmi les organisations de son collège l'organisation à laquelle est confiée la vice-présidence.</p><p align='left'>Les procès-verbaux sont signés par le président et le vice-président.</p><p align='center'>9.5.2. Le secrétariat de la CPIC</p><p align='left'>Le secrétariat de la CPIC est pris en charge par l'organisation du collège employeurs investie du mandat, soit de la présidence de la commission soit de la vice-présidence de la commission compte tenu du principe de présidence alternée. Le secrétariat est établi au lieu du siège de l'organisation du collège employeurs en charge de la présidence ou de la vice-présidence de la commission.</p><p align='left'>La CPIC de la production cinématographique (IDCC 3097) a pour adresse numérique cpic@gmail.com.</p><p align='left'>L'adresse postale correspond à l'adresse de l'organisation d'employeurs en charge du secrétariat de la CPIC.</p><p align='left'>Le droit d'accès à l'adresse numérique et postale de la CPIC est réservé à ses membres tels que précisés à l'article 9.5.1 susvisé.</p><p align='left'>Le secrétariat de la CPIC a pour mission :<br/>\n– d'enregistrer les coordonnées des membres de la délégation de chaque organisation siégeant au sein de la commission ;<br/>\n– de traiter les demandes dont est saisie la commission, notamment en adressant les convocations et ordre du jour à l'ensemble de ses membres ;<br/>\n– d'effectuer les diligences nécessaires en amont des réunions de la commission ;<br/>\n– d'établir, de faire signer et de diffuser les procès-verbaux à l'ensemble des membres de la commission.</p><p align='center'>9.5.3. Saisine de la CPIC</p><p align='left'>La CPIC est obligatoirement saisie soit à l'initiative d'une ou plusieurs organisations des salariés représentatives dans la branche, soit à l'initiative d'une ou plusieurs organisations des employeurs représentatives dans la branche.</p><p align='left'>La lettre de saisine doit exposer sommairement son objet.</p><p align='left'>Toute lettre de saisine doit être adressée au président et au vice-président de la commission paritaire d'interprétation et de conciliation et envoyée par lettre recommandée avec avis de réception à l'adresse du secrétariat de la CPIC.</p><p align='left'>Le secrétariat communique, par voie postale ou par voie électronique, la lettre de saisine à l'ensemble des membres de la CPIC.</p><p align='left'>Après concertation, le secrétariat adresse une convocation en vue de réunir la CPIC dans les meilleurs délais après réception de la lettre de saisine, c'est-à-dire dans les 15 jours suivants sa saisine.</p><p align='left'>Par ailleurs, conformément aux dispositions du code de l'organisation judiciaire et à celles réglementaires s'y rapportant, la CPIC peut également être directement sollicitée par les juridictions de l'ordre judiciaire, aux fins de rendre un avis motivé sur l'interprétation des dispositions conventionnelles.</p><p align='center'>9.5.4. Missions<br/>\n(i) Conciliation</p><p align='left'>En matière de conciliation, la commission peut être saisie de tout conflit collectif ou de tout différend individuel lié à l'application ou à l'interprétation de la convention collective nationale de la production cinématographique.</p><p align='left'>Après saisine, le salarié et l'employeur parties au litige pourront être entendus par la commission ou se faire représenter par l'organisation représentative dans la branche de leur choix, qui devra alors justifier d'un mandat à cet effet.</p><p align='left'>En plus de la convocation adressée aux membres de la commission, le secrétariat convoque chacune des parties au litige.</p><p align='left'>Dans le cas d'un conflit collectif, sans préjudice du respect du droit de grève et par exception au paragraphe 9.5.3 ci-dessus, la commission doit être réunie au plus tard dans la semaine suivant la date de réception de la saisine.</p><p align='left'>À l'issue de sa réunion, la commission établit par l'intermédiaire de son secrétariat un procès-verbal de conciliation ou de non-conciliation, qu'elle transmet à l'ensemble de ses membres et aux parties intéressées.</p><p align='center'>(ii) Interprétation</p><p align='left'>La commission peut être saisie des difficultés relatives à l'interprétation du texte de la CCNPC.</p><p align='left'>Les réunions sont ouvertes à l'ensemble des représentants des organisations des employeurs représentatives dans la branche et des organisations des salariés représentatives dans la branche, dans les limites fixées à l'article 9.5.1.</p><p align='left'>Pour que les réunions se tiennent valablement, il est nécessaire qu'au moins deux organisations du collège employeurs et deux organisations du collège salariés soient présentes ou représentées. Si le quorum n'est pas atteint, une seconde réunion se tient sans aucune obligation de quorum, dans un délai maximum de 1 semaine. En cas d'indisponibilité d'une organisation, elle peut donner pouvoir à l'une des autres organisations issues de son collège.</p><p align='left'>À l'issue de la réunion de la commission, un projet de procès-verbal est établi. Il est soumis aux organisations présentes et représentées des deux collèges pour validation dans la semaine suivant sa réception. Il est ensuite transmis aux parties intéressées.</p><p align='left'>Dans le cas d'un accord unanime dans les deux collèges sur l'interprétation à donner à la ou les questions posées, le procès-verbal vaut avis de la commission et il pourra ensuite faire l'objet d'un avenant au texte de la CCNPC.</p><p align='left'>À défaut d'accord unanime, le procès-verbal de carence précise la position de chacune des organisations de salariés et d'employeurs présentes ou représentées. »</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Commission paritaire permanente de négociation et d'interprétation"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000038326435",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Les parties au présent avenant conviennent que celui-ci entre en vigueur à l'expiration du délai prévu à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901688&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-6 (M)'>article L. 2232-6 du code du travail</a> pour l'exercice du droit d'opposition. Il est convenu que les parties demandent l'extension du présent avenant, conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901802&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-24 (V)'>article L. 2261-24 du code du travail</a>. L'avenant sera porté à l'extension par la partie la plus diligente.<br/>Le présent avenant est conclu pour une durée indéterminée.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Entrée en vigueur et durée"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant du 30 octobre 2018 portant révision des salaires des artistes-interprètes",
+          "id": "KALITEXT000038184352",
+          "children": [
+            {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000038184355",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000038184368",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'><br/>À l'issue de la négociation prévue à l'article 9 du chapitre III du titre Ier de la convention collective nationale de la production cinématographique (CCNPC), les partenaires sociaux de la branche de la production cinématographique, parties au présent avenant, ont décidé de revaloriser les salaires minima applicables aux salariés artistes-interprètes de l'équipe artistique engagés sur un long-métrage et sur un court-métrage. Sous réserve de la correction d'erreurs matérielles, cet avenant est identique à l'avenant du 22 juin 2018 qu'il annule et remplace.</p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000038184356",
               "num": "1er",
               "intOrdre": 1048574,
@@ -945,6 +1086,7 @@
               "surtitre": "Champ d'application. – Entreprises de moins de 50 salariés"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038184358",
               "num": "2",
               "intOrdre": 1572861,
@@ -953,6 +1095,7 @@
               "surtitre": "Révision de l'annexe III.1 de la CCNPC : artistes-interprètes de longs-métrages"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038184361",
               "num": "3",
               "intOrdre": 2097148,
@@ -961,6 +1104,7 @@
               "surtitre": "Révision de l'accord du 9 juillet 2014 et de son annexe : artistes-interprètes de courts-métrages"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038184366",
               "num": "4",
               "intOrdre": 2621435,
@@ -968,66 +1112,29 @@
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Entrée en vigueur. – Dépôt. – Extension"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000038184355",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000038184368",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>À l'issue de la négociation prévue à l'article 9 du chapitre III du titre Ier de la convention collective nationale de la production cinématographique (CCNPC), les partenaires sociaux de la branche de la production cinématographique, parties au présent avenant, ont décidé de revaloriser les salaires minima applicables aux salariés artistes-interprètes de l'équipe artistique engagés sur un long-métrage et sur un court-métrage. Sous réserve de la correction d'erreurs matérielles, cet avenant est identique à l'avenant du 22 juin 2018 qu'il annule et remplace.</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
           ]
         },
         {
-          "id": "KALITEXT000033860165",
-          "title": "Adhésion par lettre du 20 octobre 2016 de Sud culture à la convention",
-          "dateParution": 1484179200000,
-          "articles": [
-            {
-              "id": "KALIARTI000033860168",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p><br/>Paris, le 20 octobre 2016. <br/>Sud culture, <br/>61 rue de Richelieu, <br/>75002 Paris<br/>Madame, Monsieur ; <br/>En application de l'<a alt='Code du travail - art. L2261-3 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901781&dateTexte=&categorieLien=cid'>article L. 2261-3 du code du travail</a>, l'union syndicale solidaires a le plaisir de vous confirmer qu'elle adhère à la convention collective nationale de la production cinématographique (idcc 3097) du 19 janvier 2012, à ses avenants et annexes. <br/>Veuillez agréer l'expression de nos syndicales salutations. </p><p><br/>Pour le secrétariat national de Sud culture solidaires</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000033860077",
+          "type": "section",
           "title": "Accord du 29 juillet 2016 relatif au titre IV « Salariés permanents »",
-          "dateParution": 1484179200000,
-          "articles": [
+          "id": "KALITEXT000033860077",
+          "children": [
             {
-              "id": "KALIARTI000037343149",
-              "num": null,
-              "intOrdre": 262143,
-              "content": "<p>Nota : les réserves et exclusions apportées par l'article 1 de l'arrêté du 27 juillet 2018 sont consultables dans le titre IV Salariés attachés à l'activité permanente de l'entreprise, de la convention collective de la production cinématographique du 19 janvier 2012.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000033860080",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Titre IV Salariés attachés à l'activité permanente de l'entreprise",
+              "id": "KALISCTA000033860080",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000033860082",
+                  "type": "section",
                   "intOrdre": 524287,
                   "title": "Chapitre Ier Fonctions",
+                  "id": "KALISCTA000033860082",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860092",
                       "num": "I.1",
                       "intOrdre": 524287,
@@ -1036,6 +1143,7 @@
                       "surtitre": "Salariés visés"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860093",
                       "num": "I.2",
                       "intOrdre": 1048574,
@@ -1046,12 +1154,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000033860083",
+                  "type": "section",
                   "intOrdre": 1048574,
                   "title": "Chapitre II Contrats de travail",
+                  "id": "KALISCTA000033860083",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860095",
                       "num": "II.1",
                       "intOrdre": 524287,
@@ -1060,6 +1170,7 @@
                       "surtitre": "Principes généraux"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860097",
                       "num": "II.2",
                       "intOrdre": 1048574,
@@ -1068,6 +1179,7 @@
                       "surtitre": "Egalité professionnelle et absence de discrimination"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860099",
                       "num": "II.3",
                       "intOrdre": 1572861,
@@ -1076,6 +1188,7 @@
                       "surtitre": "Conclusion du contrat de travail"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860100",
                       "num": "II.4",
                       "intOrdre": 2097148,
@@ -1084,6 +1197,7 @@
                       "surtitre": "Contrat de travail à durée indéterminée"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860108",
                       "num": "II.5",
                       "intOrdre": 2621435,
@@ -1092,6 +1206,7 @@
                       "surtitre": "Contrat de travail à durée déterminée de droit commun"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860120",
                       "num": "II.6",
                       "intOrdre": 3145722,
@@ -1102,12 +1217,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000033860084",
+                  "type": "section",
                   "intOrdre": 1572861,
                   "title": "Chapitre III Congés",
+                  "id": "KALISCTA000033860084",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860121",
                       "num": "III.1",
                       "intOrdre": 524287,
@@ -1116,6 +1233,7 @@
                       "surtitre": "Congés payés"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860123",
                       "num": "III.2",
                       "intOrdre": 1048574,
@@ -1126,12 +1244,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000033860085",
+                  "type": "section",
                   "intOrdre": 2097148,
                   "title": "Chapitre IV Durée du travail",
+                  "id": "KALISCTA000033860085",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860125",
                       "num": "IV.1",
                       "intOrdre": 524287,
@@ -1140,6 +1260,7 @@
                       "surtitre": "Durées maximales du travail et repos"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860126",
                       "num": "IV.2",
                       "intOrdre": 1048574,
@@ -1148,6 +1269,7 @@
                       "surtitre": "Travail du dimanche et des jours fériés"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860128",
                       "num": "IV.3",
                       "intOrdre": 1572861,
@@ -1156,6 +1278,7 @@
                       "surtitre": "Organisation et durée collective du travail"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860137",
                       "num": "IV.4",
                       "intOrdre": 2097148,
@@ -1164,6 +1287,7 @@
                       "surtitre": "Forfait en jours"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860144",
                       "num": "IV.5",
                       "intOrdre": 2621435,
@@ -1172,6 +1296,7 @@
                       "surtitre": "Forfait sans référence horaire"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860147",
                       "num": "IV.6",
                       "intOrdre": 3145722,
@@ -1182,12 +1307,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000033860086",
+                  "type": "section",
                   "intOrdre": 2621435,
                   "title": "Chapitre V Frais et voyages",
+                  "id": "KALISCTA000033860086",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860153",
                       "num": "V.1",
                       "intOrdre": 524287,
@@ -1196,6 +1323,7 @@
                       "surtitre": "Frais de transport"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860154",
                       "num": "V.2",
                       "intOrdre": 1048574,
@@ -1204,6 +1332,7 @@
                       "surtitre": "Indemnités de grand déplacement (« défraiement »)"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860155",
                       "num": "V.3",
                       "intOrdre": 1572861,
@@ -1212,6 +1341,7 @@
                       "surtitre": "Voyages"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860156",
                       "num": "V.4",
                       "intOrdre": 2097148,
@@ -1220,6 +1350,7 @@
                       "surtitre": "Frais de déménagement"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860157",
                       "num": "V.5",
                       "intOrdre": 2621435,
@@ -1230,12 +1361,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000033860087",
+                  "type": "section",
                   "intOrdre": 3145722,
                   "title": "Chapitre VI Salaires",
+                  "id": "KALISCTA000033860087",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860158",
                       "num": "VI.1",
                       "intOrdre": 524287,
@@ -1244,6 +1377,7 @@
                       "surtitre": "Salaire minimum"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860159",
                       "num": "VI.2",
                       "intOrdre": 1048574,
@@ -1252,6 +1386,7 @@
                       "surtitre": "Plancher de rémunération annuelle"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860160",
                       "num": "VI.3",
                       "intOrdre": 1572861,
@@ -1260,6 +1395,7 @@
                       "surtitre": "Expérience acquise"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860161",
                       "num": "VI.4",
                       "intOrdre": 2097148,
@@ -1270,12 +1406,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000033860088",
+                  "type": "section",
                   "intOrdre": 3670009,
                   "title": "Chapitre VII Santé, prévoyance",
+                  "id": "KALISCTA000033860088",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860162",
                       "num": null,
                       "intOrdre": 524287,
@@ -1285,12 +1423,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000033860089",
+                  "type": "section",
                   "intOrdre": 4194296,
                   "title": "Chapitre VIII Formation professionnelle",
+                  "id": "KALISCTA000033860089",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860163",
                       "num": null,
                       "intOrdre": 524287,
@@ -1302,12 +1442,14 @@
               ]
             },
             {
-              "id": "KALISCTA000033860081",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Annexe",
+              "id": "KALISCTA000033860081",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000033860090",
                   "num": null,
                   "intOrdre": 524287,
@@ -1315,6 +1457,7 @@
                   "etat": "VIGUEUR_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000033860091",
                   "num": null,
                   "intOrdre": 1048574,
@@ -1322,71 +1465,39 @@
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000037343149",
+              "num": null,
+              "intOrdre": 262143,
+              "content": "<p>Nota : les réserves et exclusions apportées par l'article 1 de l'arrêté du 27 juillet 2018 sont consultables dans le titre IV Salariés attachés à l'activité permanente de l'entreprise, de la convention collective de la production cinématographique du 19 janvier 2012.</p>",
+              "etat": "VIGUEUR_ETEN"
             }
           ]
         },
         {
-          "id": "KALITEXT000038326423",
-          "title": "Avenant du 12 septembre 2018 relatif à la mise en place de la CPPNI",
-          "dateParution": 1554163200000,
-          "articles": [
+          "type": "section",
+          "title": "Adhésion par lettre du 20 octobre 2016 de Sud culture à la convention",
+          "id": "KALITEXT000033860165",
+          "children": [
             {
-              "id": "KALIARTI000038326427",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'>Le présent avenant a pour champ d'application celui défini à l'article 1 du titre I de la convention collective nationale de la production cinématographique (ou CCNPC).</p><p align='left'>Les partenaires sociaux représentatifs estiment que les dispositions dudit avenant sont pleinement justifiées et applicables à toutes les entreprises relevant de la branche. À ce titre, ils précisent que, conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>dispositions de l'article L. 2261-23-1 du code du travail</a>, l'objet du présent avenant ne justifie pas la mise en place de mesures spécifiques pour les entreprises de moins de 50 salariés.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Champ d'application. – Entreprises de moins de 50 salariés"
-            },
-            {
-              "id": "KALIARTI000038326429",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='center'>2.1. Modifications générales</p><p align='left'>Dans l'ensemble des articles des titres suivants : titre I, titre II, titre III, titre IV et de tous les textes rattachés à la CCNPC, les locutions :</p><p align='left'>« les parties, les parties contractantes, les parties signataires, les partenaires sociaux »</p><p align='left'>sont remplacées en tant que de besoin par les locutions suivantes :</p><p align='left'>les « Organisations syndicales de salariés représentatives et les Organisations d'employeurs représentatives dans la branche de la CCNPC » ou les « partenaires sociaux représentatifs de la branche de la CCNPC ».</p><p align='center'>2.2. Modification de l'article 11 du titre I</p><p align='left'>L'article 11 du titre I de la convention collective nationale de la production cinématographique est remplacé par l'alinéa suivant :</p><p align='left'>« La représentativité des organisations représentatives de salariés et des organisations représentatives d'employeurs est déterminée conformément aux dispositions légales et réglementaires en vigueur. »</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Représentativité"
-            },
-            {
-              "id": "KALIARTI000038326430",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='center'>3.1. Modification de l'intitulé de l'article 9 du titre I. – Négociations de branche</p><p align='left'>L'intitulé de l'article 9 du titre I de la CCNPC est modifié comme il suit :</p><p align='center'>« Article 9<br/>\nNégociations de branche et Instances Paritaires-CPPNI et CPPHSCT »<br/>\n3.2. Modification de l'article 9 du titre I<br/>\nNégociations de branche et Instances Paritaires-CPPNI et CPPHSCT :</p><p align='left'>Le 1er paragraphe de l'article 9 est modifié comme il suit :</p><p align='left'>« 9.1. Les organisations d'employeurs et les organisations syndicales de salariés représentatives dans la branche de la production cinématographique organiseront les négociations annuelle, triennale et quinquennale prévues par les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901738&dateTexte=&categorieLien=cid' title='Code du travail - art. L2241-1 (M)'>articles L. 2241-1 à L. 2241-18 du code du travail</a>. »</p><p align='left'>Les deuxième et troisième paragraphes de l'article 9 sont inchangés.</p><p align='left'>Il est inséré à l'article 9 un 4e et un 5e paragraphes rédigés comme il suit :</p><p align='left'>« En application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901775&dateTexte=&categorieLien=cid' title='Code du travail - art. L2253-2 (M)'>article L. 2253-2 du code du travail</a>, dans les matières énumérées ci-après, toute convention d'entreprise conclue postérieurement au présent accord ne peut comporter des stipulations différentes de celles qui lui sont applicables en vertu de la CCNPC, sauf lorsque la convention d'entreprise assure des garanties au moins équivalentes :<br/>\n– la prévention des effets de l'exposition aux facteurs de risques professionnels ;<br/>\n– l'insertion professionnelle et le maintien dans l'emploi des travailleurs handicapés ;<br/>\n– l'effectif à partir duquel les délégués syndicaux peuvent être désignés, leur nombre et la valorisation de leurs parcours syndical ;<br/>\n– les primes pour travaux dangereux ou insalubres.</p><p align='left'>Le comité central d'hygiène, de sécurité et des conditions de travail de la production cinématographique (CCHSCT) exerce ses missions prévues par les dispositions de la CCNPC et des textes qui lui sont rattachés, y compris le protocole du 17 décembre 2007, sous la nouvelle dénomination : « Comité Paritaire de Prévention relatif à l'Hygiène, à la Sécurité et aux Conditions de travail de la production cinématographique » (CPPHSCT) qui remplace l'ancienne dénomination dans l'ensemble des dispositions précitées ».</p><p align='left'>Après le 5e paragraphe, l'article 9 est complété comme il suit :</p><p align='left'>« 9.2. La commission paritaire permanente de négociation et d'interprétation (CPPNI) est composée des représentants des organisations d'employeurs représentatives dans la branche d'une part, et des organisations syndicales de salariés représentatives dans la branche d'autre part.</p><p align='left'>9.3. Les missions de la CPPNI sont celles d'ordre public définies par la loi en vigueur.</p><p align='left'>Elles incluent l'ensemble des missions jusqu'alors exercées par la commission mixte paritaire de la production cinématographique, notamment en matière de négociation.</p><p align='left'>Elle exerce un rôle de veille sur les conditions de travail et d'emploi dans la branche. À ce titre, les accords d'entreprise susceptibles d'intervenir doivent être obligatoirement transmis pour information à la CPPNI. Les accords d'entreprise doivent respecter les salaires minima garantis incluant les majorations, tels que définis par les annexes aux différents titres de la CCNPC relatives aux salaires.</p><p align='left'>La CPPNI se réunit au moins trois fois par an pour mener les négociations au niveau de la branche.</p><p align='left'>9.4. La présidence de la CPPNI est assurée par le représentant d'une des organisations d'employeurs représentatives dans la branche, désigné par celles-ci.<br/>\nSur demande des partenaires sociaux représentatifs, la CPPNI peut être présidée par un représentant du ministre du travail et se réunit alors sur convocation du ministère du travail.</p><p align='left'>Le secrétariat de la CPPNI est géré par une des organisations représentatives des employeurs.</p><p align='left'>L'adresse numérique et postale de la commission paritaire permanente de négociation et d'interprétation est :<br/>\n– cppni@productioncinematographique.fr ;<br/>\n– 37, rue Étienne Marcel, 75001 Paris,<br/>\nqui correspond à l'adresse de l'organisation d'employeurs en charge du secrétariat de la CPPNI au jour de la signature du présent avenant.</p><p align='left'>Le droit d'accès à l'adresse numérique et postale de la CPPNI est réservé aux organisations de salariés représentatives dans la branche et aux organisations d'employeurs représentatives dans la branche.</p><p align='left'>9.5. En ce qui concerne la mission d'interprétation et de conciliation, la CPPNI se réunit en formation de « commission paritaire d'interprétation et de conciliation » (CPIC).</p><p align='center'>9.5.1. Les membres, la présidence et la vice-présidence de la CPIC</p><p align='left'>Chaque organisation représentative dans la branche, membre de la CPPNI est membre de la CPIC. Chaque organisation représentative membre de la CPIC comprend une délégation de trois représentants maximum, dont la liste est transmise préalablement au secrétariat de la CPIC.</p><p align='left'>La CPIC est présidée alternativement tous les ans, soit par une organisation représentative du collège employeurs, désignée par les organisations représentatives du collège employeurs, soit par une organisation représentative du collège salariés, désignée par les organisations représentatives du collège salariés.</p><p align='left'>La vice-présidence est assurée par le collège n'assurant pas la présidence, qui désigne parmi les organisations de son collège l'organisation à laquelle est confiée la vice-présidence.</p><p align='left'>Les procès-verbaux sont signés par le président et le vice-président.</p><p align='center'>9.5.2. Le secrétariat de la CPIC</p><p align='left'>Le secrétariat de la CPIC est pris en charge par l'organisation du collège employeurs investie du mandat, soit de la présidence de la commission soit de la vice-présidence de la commission compte tenu du principe de présidence alternée. Le secrétariat est établi au lieu du siège de l'organisation du collège employeurs en charge de la présidence ou de la vice-présidence de la commission.</p><p align='left'>La CPIC de la production cinématographique (IDCC 3097) a pour adresse numérique cpic@gmail.com.</p><p align='left'>L'adresse postale correspond à l'adresse de l'organisation d'employeurs en charge du secrétariat de la CPIC.</p><p align='left'>Le droit d'accès à l'adresse numérique et postale de la CPIC est réservé à ses membres tels que précisés à l'article 9.5.1 susvisé.</p><p align='left'>Le secrétariat de la CPIC a pour mission :<br/>\n– d'enregistrer les coordonnées des membres de la délégation de chaque organisation siégeant au sein de la commission ;<br/>\n– de traiter les demandes dont est saisie la commission, notamment en adressant les convocations et ordre du jour à l'ensemble de ses membres ;<br/>\n– d'effectuer les diligences nécessaires en amont des réunions de la commission ;<br/>\n– d'établir, de faire signer et de diffuser les procès-verbaux à l'ensemble des membres de la commission.</p><p align='center'>9.5.3. Saisine de la CPIC</p><p align='left'>La CPIC est obligatoirement saisie soit à l'initiative d'une ou plusieurs organisations des salariés représentatives dans la branche, soit à l'initiative d'une ou plusieurs organisations des employeurs représentatives dans la branche.</p><p align='left'>La lettre de saisine doit exposer sommairement son objet.</p><p align='left'>Toute lettre de saisine doit être adressée au président et au vice-président de la commission paritaire d'interprétation et de conciliation et envoyée par lettre recommandée avec avis de réception à l'adresse du secrétariat de la CPIC.</p><p align='left'>Le secrétariat communique, par voie postale ou par voie électronique, la lettre de saisine à l'ensemble des membres de la CPIC.</p><p align='left'>Après concertation, le secrétariat adresse une convocation en vue de réunir la CPIC dans les meilleurs délais après réception de la lettre de saisine, c'est-à-dire dans les 15 jours suivants sa saisine.</p><p align='left'>Par ailleurs, conformément aux dispositions du code de l'organisation judiciaire et à celles réglementaires s'y rapportant, la CPIC peut également être directement sollicitée par les juridictions de l'ordre judiciaire, aux fins de rendre un avis motivé sur l'interprétation des dispositions conventionnelles.</p><p align='center'>9.5.4. Missions<br/>\n(i) Conciliation</p><p align='left'>En matière de conciliation, la commission peut être saisie de tout conflit collectif ou de tout différend individuel lié à l'application ou à l'interprétation de la convention collective nationale de la production cinématographique.</p><p align='left'>Après saisine, le salarié et l'employeur parties au litige pourront être entendus par la commission ou se faire représenter par l'organisation représentative dans la branche de leur choix, qui devra alors justifier d'un mandat à cet effet.</p><p align='left'>En plus de la convocation adressée aux membres de la commission, le secrétariat convoque chacune des parties au litige.</p><p align='left'>Dans le cas d'un conflit collectif, sans préjudice du respect du droit de grève et par exception au paragraphe 9.5.3 ci-dessus, la commission doit être réunie au plus tard dans la semaine suivant la date de réception de la saisine.</p><p align='left'>À l'issue de sa réunion, la commission établit par l'intermédiaire de son secrétariat un procès-verbal de conciliation ou de non-conciliation, qu'elle transmet à l'ensemble de ses membres et aux parties intéressées.</p><p align='center'>(ii) Interprétation</p><p align='left'>La commission peut être saisie des difficultés relatives à l'interprétation du texte de la CCNPC.</p><p align='left'>Les réunions sont ouvertes à l'ensemble des représentants des organisations des employeurs représentatives dans la branche et des organisations des salariés représentatives dans la branche, dans les limites fixées à l'article 9.5.1.</p><p align='left'>Pour que les réunions se tiennent valablement, il est nécessaire qu'au moins deux organisations du collège employeurs et deux organisations du collège salariés soient présentes ou représentées. Si le quorum n'est pas atteint, une seconde réunion se tient sans aucune obligation de quorum, dans un délai maximum de 1 semaine. En cas d'indisponibilité d'une organisation, elle peut donner pouvoir à l'une des autres organisations issues de son collège.</p><p align='left'>À l'issue de la réunion de la commission, un projet de procès-verbal est établi. Il est soumis aux organisations présentes et représentées des deux collèges pour validation dans la semaine suivant sa réception. Il est ensuite transmis aux parties intéressées.</p><p align='left'>Dans le cas d'un accord unanime dans les deux collèges sur l'interprétation à donner à la ou les questions posées, le procès-verbal vaut avis de la commission et il pourra ensuite faire l'objet d'un avenant au texte de la CCNPC.</p><p align='left'>À défaut d'accord unanime, le procès-verbal de carence précise la position de chacune des organisations de salariés et d'employeurs présentes ou représentées. »</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Commission paritaire permanente de négociation et d'interprétation"
-            },
-            {
-              "id": "KALIARTI000038326435",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Les parties au présent avenant conviennent que celui-ci entre en vigueur à l'expiration du délai prévu à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901688&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-6 (M)'>article L. 2232-6 du code du travail</a> pour l'exercice du droit d'opposition. Il est convenu que les parties demandent l'extension du présent avenant, conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901802&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-24 (V)'>article L. 2261-24 du code du travail</a>. L'avenant sera porté à l'extension par la partie la plus diligente.<br/>Le présent avenant est conclu pour une durée indéterminée.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Entrée en vigueur et durée"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000038326426",
+              "type": "article",
+              "id": "KALIARTI000033860168",
+              "num": null,
               "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000038326438",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'>Aux termes du présent avenant, les organisations de salariés représentatives et les organisations d'employeurs représentatives (également dénommées les « partenaires sociaux représentatifs ») dans la branche de la production cinématographique, parties au présent avenant, ont décidé d'adapter les dispositions de la convention collective nationale de la production cinématographique (IDCC 3097) à la notion de représentativité et aux missions confiées à la branche professionnelle, notamment celles intéressant la négociation, l'interprétation et la conciliation.</p><p align='left'>L'actuelle commission mixte paritaire de la production cinématographique est remplacée par la commission paritaire permanente de négociation et d'interprétation (CPPNI) qui assure les missions de représentation, d'appui conseil et de négociation prévues par les dispositions légales en vigueur et les missions d'interprétation et de conciliation prévues par les dispositions de la convention collective nationale de la production cinématographique (CCNPC).</p><p align='left'>En particulier, les partenaires sociaux représentatifs conviennent que les missions de la CPPNI sont celles visées au jour de la signature des présentes par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901694&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-9 (M)'>article L. 2232-9 du code du travail </a>:</p><p align='center'>« Article L. 2232-9</p><p align='left'>I. – Une commission paritaire permanente de négociation et d'interprétation est mise en place par accord ou convention dans chaque branche.</p><p align='left'>II. – La commission paritaire exerce les missions d'intérêt général suivantes :</p><p align='left'>1° Elle représente la branche, notamment dans l'appui aux entreprises et vis-à-vis des pouvoirs publics.</p><p align='left'>2° Elle exerce un rôle de veille sur les conditions de travail et l'emploi.</p><p align='left'>3° Elle établit un rapport annuel d'activité qu'elle verse dans la base de données nationale mentionnée à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033008925&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-5-1 (V)'>article L. 2231-5.1</a>. Ce rapport comprend un bilan des accords collectifs d'entreprise conclus dans le cadre du titre II, des chapitres Ier et III du titre III et des titres IV et V du livre Ier de la troisième partie, en particulier de l'impact de ces accords sur les conditions de travail des salariés et sur la concurrence entre les entreprises de la branche, et formule, le cas échéant, des recommandations destinées à répondre aux difficultés identifiées.</p><p align='left'>Elle peut rendre un avis à la demande d'une juridiction sur l'interprétation d'une convention ou d'un accord collectif dans les conditions mentionnées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006071164&idArticle=LEGIARTI000006572227&dateTexte=&categorieLien=cid' title='Code de l'organisation judiciaire - art. L441-1 (V)'>article L. 441-1 du code de l'organisation judiciaire</a>.</p><p align='left'>Elle peut également exercer les missions de l'observatoire paritaire mentionné à l'article L. 2232-10.</p><p align='left'>Un décret définit les conditions dans lesquelles les conventions et accords d'entreprise conclus dans le cadre du titre II, des chapitres Ier et III du titre III et des titres IV et V du livre Ier de la troisième partie du présent code sont transmis aux commissions mentionnées au I du présent article.</p><p align='left'>III. – La commission paritaire est réunie au moins trois fois par an en vue des négociations mentionnées au chapitre Ier du titre IV du présent livre. Elle définit son calendrier de négociations dans les conditions prévues à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901665&dateTexte=&categorieLien=cid' title='Code du travail - art. L2222-3 (V)'>article L. 2222-3</a>. »</p><p align='left'>Dans ce but, le présent avenant annule et remplace les dispositions relatives aux commissions paritaires d'interprétation et de conciliation prévues à l'article 31, chapitre IX, titre I de la CCNPC et au chapitre IX, titre II de la CCNPC.</p>",
-                  "etat": "VIGUEUR_NON_ETEN"
-                }
-              ]
+              "content": "<p><br/>Paris, le 20 octobre 2016. <br/>Sud culture, <br/>61 rue de Richelieu, <br/>75002 Paris<br/>Madame, Monsieur ; <br/>En application de l'<a alt='Code du travail - art. L2261-3 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901781&dateTexte=&categorieLien=cid'>article L. 2261-3 du code du travail</a>, l'union syndicale solidaires a le plaisir de vous confirmer qu'elle adhère à la convention collective nationale de la production cinématographique (idcc 3097) du 19 janvier 2012, à ses avenants et annexes. <br/>Veuillez agréer l'expression de nos syndicales salutations. </p><p><br/>Pour le secrétariat national de Sud culture solidaires</p>",
+              "etat": "VIGUEUR_NON_ETEN"
             }
           ]
         },
         {
-          "id": "KALITEXT000032426281",
+          "type": "section",
           "title": "Avenant n° 2 du 3 novembre 2015 portant révision du protocole d'accord collectif du 17 décembre 2007",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000032426281",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000032426284",
               "num": null,
               "intOrdre": 524287,
@@ -1394,6 +1505,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032426286",
               "num": "1er",
               "intOrdre": 1048574,
@@ -1402,6 +1514,7 @@
               "surtitre": "Révision du taux de la contribution CCHSCT"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032426287",
               "num": "2",
               "intOrdre": 1572861,
@@ -1412,11 +1525,17 @@
           ]
         },
         {
-          "id": "KALITEXT000031521855",
+          "type": "section",
+          "id": "KALITEXT000032426289",
+          "children": []
+        },
+        {
+          "type": "section",
           "title": "Adhésion par lettre du 15 septembre 2015 de l'API à l'accord du 24 juillet 2015 relatif aux salaires du personnel technique",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000031521855",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000031521858",
               "num": null,
               "intOrdre": 524287,
@@ -1426,11 +1545,12 @@
           ]
         },
         {
-          "id": "KALITEXT000028465836",
+          "type": "section",
           "title": "Adhésion par lettre du 25 novembre 2013 de l'AFPF, de l'APC, du SPI, de l'UPF à la convention",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000028465836",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000028465839",
               "num": null,
               "intOrdre": 524287,
@@ -1440,47 +1560,19 @@
           ]
         },
         {
-          "id": "KALITEXT000028319313",
+          "type": "section",
           "title": "Avenant du 8 octobre 2013 modifiant la convention",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000028319313",
+          "children": [
             {
-              "id": "KALIARTI000028319317",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Le titre Ier de la convention collective est modifié comme suit : </p><p align='center'><br/>Chapitre Ier <br/>Article 1er <br/>Champ d'application </p><p align='left'><br/>Sixième alinéa : <br/>« On entend par films cinématographiques de courte durée les œuvres devant faire l'objet d'un visa d'exploitation délivré par le ministre de la culture conformément à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000020908868&idArticle=LEGIARTI000020907879&dateTexte=&categorieLien=cid'>article L. 211-1 du code du cinéma et de l'image animée</a>, et dont la durée est inférieure à 1 heure conformément à l'<a alt='lien vers un document Legifrance' href='/affichTexteArticle.do?cidTexte=JORFTEXT000000575329&idArticle=LEGIARTI000006426491&dateTexte=&categorieLien=cid'>article 6 (2°) du décret n° 99-130 du 24 février 1999</a>. <br/>Compte tenu de l'économie particulière des films de courte durée, une annexe spécifique à ces films sera attachée ultérieurement au titre II. <br/>Compte tenu de l'économie particulière des films de fiction de longue durée dont le budget prévisionnel ne dépasse pas 1 million d'euros de financement extérieur au producteur, conformément à la prise en compte de la singularité de ces films par la Commission européenne les qualifiant de''difficiles et à petit budget'', les partenaires sociaux s'engagent à faire aboutir dans les 6 mois une négociation spécifique afin de déterminer les mécanismes de progression qui autorisent le renouvellement des talents et des écritures tout autant que les parcours professionnels vers les productions dont le financement est plus solide. A l'issue de cette négociation, les partenaires sociaux conviendront du régime qui leur sera appliqué. »</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000028319320",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Le titre II de la convention collective est modifié comme suit : <br/>L'article 36 est modifié comme suit : <br/>« Les différentes majorations définies ci-avant et ci-après aux articles 34 et 35 et de 37 à 42 se calculent en référence au salaire horaire de base et s'appliquent indépendamment les unes des autres, chacune de ces majorations ayant son objet spécifique, étant précisé que leur cumul ne peut conduire à dépasser une majoration de 100 % du salaire horaire de base. »</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000028319320_1'></a>(1) Article étendu sous réserve de l'application des dispositions des articles L. 3121-22 et L. 3133-6 du code du travail.  <br/>(ARRÊTÉ du 31 mars 2015 - art. 1)</em></font></p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000028319322",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>L'annexe III du titre II « Techniciens de la production cinématographique » de la convention collective est désormais rédigée comme suit : </p><p align='center'><br/>« Annexe III <br/>Intéressement aux recettes d'exploitation <br/>Article 1er <br/>Champ d'application </p><p align='left'><br/>Le recours à l'application de l'annexe III pour la production de films tels que fixés dans celle-ci est lié au choix du producteur. Le producteur peut ne pas y recourir et appliquer les conditions fixées dans la convention collective. <br/>Le recours aux dispositions de l'annexe III s'applique pour la production de films agréés principalement tournés en France, sauf raisons artistiques liées au scénario, en référence à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069577&idArticle=LEGIARTI000006303577&dateTexte=&categorieLien=cid'>article 220 sexies du code général des impôts</a>. <br/>Pour l'application de la présente annexe, les partenaires sociaux décident de la mise en place d'une commission paritaire. <br/>Elle est présidée par un des représentants du collège employeurs. <br/>Cette commission paritaire se dote d'un règlement intérieur annexé à la présente annexe. <br/>Cette commission a pour charge d'examiner, préalablement aux demandes d'agrément fixées par le <a alt='lien vers un document Legifrance' href='/affichCode.do?cidTexte=LEGITEXT000020908868&dateTexte=&categorieLien=cid'>code du cinéma et de l'image animée</a>, les demandes des entreprises de production qui souhaiteraient recourir pour les productions de leurs films à la présente. <br/>La commission fera parvenir au CNC sa décision d'acceptation ou de refus. <br/>Le producteur ne peut passer outre cette décision conventionnelle et présenter valablement au CNC une demande d'agrément au bénéfice du soutien financier de l'Etat. <br/>L'intéressement aux recettes d'exploitation consiste en l'attribution d'une participation aux''recettes nettes producteur''d'un film qui remplit les critères cumulatifs suivants : <br/>– pour les films de fiction, le budget prévisionnel ne dépasse pas 3 millions d'euros de dépenses extérieures à la société de production, étant précisé que ces budgets s'entendent hors imprévus ; <br/>– pour les films de documentaires, le budget prévisionnel est inférieur à 0,6 million d'euros de dépenses extérieures à la société de production, étant précisé que ces budgets s'entendent hors imprévus ; <br/>– la masse salariale effective brute des personnels techniques est au moins égale à 18 % du budget prévisionnel du film ; <br/>– la masse salariale effective brute des personnels techniques (hors rémunération du réalisateur technicien) représente au moins 80 % d'un poste regroupant les rémunérations brutes des auteurs, producteurs et titulaires des rôles principaux, ainsi que les commissions d'agents telles qu'elles sont prévues dans le budget prévisionnel. <br/>Ces critères devront être confirmés à l'agrément de production, étant précisé que la consommation des imprévus portant le budget au-delà de 3 millions d'euros devra donner lieu à un examen par la commission paritaire, qui pourra confirmer le bénéfice de l'annexe. <br/>Cet article s'applique aux techniciens ayant contribué à la réalisation de ce film et couverts par la convention collective des techniciens de la production cinématographique. <br/>La production de films de court-métrage et la production de films publicitaires, relevant d'une économie réglementaire différente et, en particulier, ne faisant pas l'objet de recettes d'exploitation salles, sont exclues du recours à l'application des dispositions de l'annexe III. <br/>La commission paritaire se réunira annuellement afin d'établir un bilan. Les partenaires sociaux conviennent de tirer un bilan annuel du dispositif, afin qu'en moyenne annuelle seuls 20 % des films agréés et entrant dans le seuil défini ci-dessus puissent appliquer le dispositif prévu à la présente annexe. <br/>Il est entendu que le seuil de 20 % du nombre de films agréés s'apprécie sur une durée de 5 années à dater de l'entrée en vigueur de l'annexe. <br/>Au terme de la 3e année, les partenaires sociaux se réuniront afin d'examiner les effets de l'application de l'annexe et de son règlement intérieur ainsi que ceux concernant les montants d'intéressements revenant aux techniciens, afin d'avoir un aperçu d'ensemble. </p><p align='center'><br/>Article 2 <br/>Grille de salaires d'application obligatoire pour les films agréés </p><p align='left'><br/>Les salaires minimum hebdomadaires inférieurs à 750 € brut de la grille des salaires de l'annexe I et de l'annexe II sont exclus de la présente annexe. </p><p align='center'><br/>Article 3 <br/>Définition de l'intéressement </p><p align='left'><br/>L'intéressement consiste à différer le paiement d'une partie du salaire avec une majoration compensatoire de son caractère aléatoire. <br/>L'intéressement aux recettes d'exploitation consiste en l'attribution d'une participation aux''recettes nettes producteur''d'un film. </p><p align='center'><br/>Article 4 <br/>Montant de l'intéressement </p><p align='left'><br/>Le montant placé en intéressement est égal à deux fois la différence entre le montant hebdomadaire du salaire prévu par la grille des salaires de l'annexe I ou de l'annexe II de la convention collective des techniciens de la production cinématographique et le salaire perçu par le salarié dans le cadre de l'application de la présente annexe (art. 1 et 2). <br/>Le montant de l'intéressement attribué pour chaque semaine de travail à chaque membre du personnel technique est égal à la part d'intéressement placée, proratisée et dans la limite des recettes nettes producteur équivalentes au total des sommes placées en intéressement. </p><p align='center'><br/>Article 5 <br/>Versement de l'intéressement </p><p align='left'><br/>Le versement de cet intéressement intervient de la façon suivante : <br/>Sur 100 % de toutes les recettes nettes – France et étranger – des producteurs délégués issues de l'exploitation du film (salles, diffusion à la télévision, vidéogrammes …), 50 % sont délégués au paiement du salaire producteur et des frais généraux dans la limite de 12 % du budget du film et 50 % au salaire différé des techniciens de la production cinématographique, charges sociales comprises, dans la limite de deux fois la différence entre le montant hebdomadaire du salaire prévu par la grille des salaires de l'annexe I ou de l'annexe II de la convention collective des techniciens de la production cinématographique et le salaire perçu par le salarié dans le cadre de l'application de la présente annexe (art. 1 et 2). <br/>Cet accord d'intéressement est inscrit au RPCA. </p><p align='center'><br/>Article 6 <br/>Périodicité de versement </p><p align='left'><br/>Les versements interviendront semestriellement à compter de la sortie du film pendant la première année d'exploitation, puis annuellement au-delà. <br/>Des redditions de comptes détaillés et dûment certifiés sur l'honneur par le producteur seront établies et détermineront à chacune de ces dates les montants d'intéressements revenant aux techniciens concernés. </p><p align='center'><br/>Article 7 <br/>Durée''dispositif des films de la diversité''</p><p align='left'><br/>Le présent accord annexé à la convention collective nationale de la production cinématographique est conclu pour une durée de 5 ans sans clause de tacite reconduction son extension et sa publication au Journal officiel. <br/>Les partenaires sociaux se réunissent au cours de la 5e année pour examiner l'opportunité de modifier ou de proroger cette dérogation. <br/>Durant cette période, les partenaires sociaux étudieront avec les pouvoirs publics l'amélioration du financement des films entrant dans le cadre de l'annexe III. <br/>Toute dénonciation antérieure à la date prévue par le précédent alinéa du présent article vaut dénonciation du titre II''Personnels techniques''de la convention collective nationale de la production cinématographique. <br/>La dénonciation du titre II''Personnels techniques''de la convention collective nationale de la production cinématographique vaut dénonciation du présent accord. »</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000028319325",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Les organisations d'employeurs non signataires de la convention collective mais signataires du présent avenant adhèrent, par les présentes, à la totalité des clauses de ladite convention collective. Conformément à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901782&dateTexte=&categorieLien=cid'>article L. 2261-4 du code du travail</a>, cette adhésion entraîne pour elles l'attribution des mêmes droits et obligations que les organisations signataires de la convention collective. <br/>Tous les articles correspondants de la convention collective sont, en tant que de besoin, modifiés en conséquence, et notamment l'article 36 du titre Ier.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000028319316",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000028319316",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028319327",
                   "num": null,
                   "intOrdre": 524287,
@@ -1488,42 +1580,69 @@
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000028319317",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>Le titre Ier de la convention collective est modifié comme suit : </p><p align='center'><br/>Chapitre Ier <br/>Article 1er <br/>Champ d'application </p><p align='left'><br/>Sixième alinéa : <br/>« On entend par films cinématographiques de courte durée les œuvres devant faire l'objet d'un visa d'exploitation délivré par le ministre de la culture conformément à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000020908868&idArticle=LEGIARTI000020907879&dateTexte=&categorieLien=cid'>article L. 211-1 du code du cinéma et de l'image animée</a>, et dont la durée est inférieure à 1 heure conformément à l'<a alt='lien vers un document Legifrance' href='/affichTexteArticle.do?cidTexte=JORFTEXT000000575329&idArticle=LEGIARTI000006426491&dateTexte=&categorieLien=cid'>article 6 (2°) du décret n° 99-130 du 24 février 1999</a>. <br/>Compte tenu de l'économie particulière des films de courte durée, une annexe spécifique à ces films sera attachée ultérieurement au titre II. <br/>Compte tenu de l'économie particulière des films de fiction de longue durée dont le budget prévisionnel ne dépasse pas 1 million d'euros de financement extérieur au producteur, conformément à la prise en compte de la singularité de ces films par la Commission européenne les qualifiant de''difficiles et à petit budget'', les partenaires sociaux s'engagent à faire aboutir dans les 6 mois une négociation spécifique afin de déterminer les mécanismes de progression qui autorisent le renouvellement des talents et des écritures tout autant que les parcours professionnels vers les productions dont le financement est plus solide. A l'issue de cette négociation, les partenaires sociaux conviendront du régime qui leur sera appliqué. »</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000028319320",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Le titre II de la convention collective est modifié comme suit : <br/>L'article 36 est modifié comme suit : <br/>« Les différentes majorations définies ci-avant et ci-après aux articles 34 et 35 et de 37 à 42 se calculent en référence au salaire horaire de base et s'appliquent indépendamment les unes des autres, chacune de ces majorations ayant son objet spécifique, étant précisé que leur cumul ne peut conduire à dépasser une majoration de 100 % du salaire horaire de base. »</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000028319320_1'></a>(1) Article étendu sous réserve de l'application des dispositions des articles L. 3121-22 et L. 3133-6 du code du travail.  <br/>(ARRÊTÉ du 31 mars 2015 - art. 1)</em></font></p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000028319322",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>L'annexe III du titre II « Techniciens de la production cinématographique » de la convention collective est désormais rédigée comme suit : </p><p align='center'><br/>« Annexe III <br/>Intéressement aux recettes d'exploitation <br/>Article 1er <br/>Champ d'application </p><p align='left'><br/>Le recours à l'application de l'annexe III pour la production de films tels que fixés dans celle-ci est lié au choix du producteur. Le producteur peut ne pas y recourir et appliquer les conditions fixées dans la convention collective. <br/>Le recours aux dispositions de l'annexe III s'applique pour la production de films agréés principalement tournés en France, sauf raisons artistiques liées au scénario, en référence à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069577&idArticle=LEGIARTI000006303577&dateTexte=&categorieLien=cid'>article 220 sexies du code général des impôts</a>. <br/>Pour l'application de la présente annexe, les partenaires sociaux décident de la mise en place d'une commission paritaire. <br/>Elle est présidée par un des représentants du collège employeurs. <br/>Cette commission paritaire se dote d'un règlement intérieur annexé à la présente annexe. <br/>Cette commission a pour charge d'examiner, préalablement aux demandes d'agrément fixées par le <a alt='lien vers un document Legifrance' href='/affichCode.do?cidTexte=LEGITEXT000020908868&dateTexte=&categorieLien=cid'>code du cinéma et de l'image animée</a>, les demandes des entreprises de production qui souhaiteraient recourir pour les productions de leurs films à la présente. <br/>La commission fera parvenir au CNC sa décision d'acceptation ou de refus. <br/>Le producteur ne peut passer outre cette décision conventionnelle et présenter valablement au CNC une demande d'agrément au bénéfice du soutien financier de l'Etat. <br/>L'intéressement aux recettes d'exploitation consiste en l'attribution d'une participation aux''recettes nettes producteur''d'un film qui remplit les critères cumulatifs suivants : <br/>– pour les films de fiction, le budget prévisionnel ne dépasse pas 3 millions d'euros de dépenses extérieures à la société de production, étant précisé que ces budgets s'entendent hors imprévus ; <br/>– pour les films de documentaires, le budget prévisionnel est inférieur à 0,6 million d'euros de dépenses extérieures à la société de production, étant précisé que ces budgets s'entendent hors imprévus ; <br/>– la masse salariale effective brute des personnels techniques est au moins égale à 18 % du budget prévisionnel du film ; <br/>– la masse salariale effective brute des personnels techniques (hors rémunération du réalisateur technicien) représente au moins 80 % d'un poste regroupant les rémunérations brutes des auteurs, producteurs et titulaires des rôles principaux, ainsi que les commissions d'agents telles qu'elles sont prévues dans le budget prévisionnel. <br/>Ces critères devront être confirmés à l'agrément de production, étant précisé que la consommation des imprévus portant le budget au-delà de 3 millions d'euros devra donner lieu à un examen par la commission paritaire, qui pourra confirmer le bénéfice de l'annexe. <br/>Cet article s'applique aux techniciens ayant contribué à la réalisation de ce film et couverts par la convention collective des techniciens de la production cinématographique. <br/>La production de films de court-métrage et la production de films publicitaires, relevant d'une économie réglementaire différente et, en particulier, ne faisant pas l'objet de recettes d'exploitation salles, sont exclues du recours à l'application des dispositions de l'annexe III. <br/>La commission paritaire se réunira annuellement afin d'établir un bilan. Les partenaires sociaux conviennent de tirer un bilan annuel du dispositif, afin qu'en moyenne annuelle seuls 20 % des films agréés et entrant dans le seuil défini ci-dessus puissent appliquer le dispositif prévu à la présente annexe. <br/>Il est entendu que le seuil de 20 % du nombre de films agréés s'apprécie sur une durée de 5 années à dater de l'entrée en vigueur de l'annexe. <br/>Au terme de la 3e année, les partenaires sociaux se réuniront afin d'examiner les effets de l'application de l'annexe et de son règlement intérieur ainsi que ceux concernant les montants d'intéressements revenant aux techniciens, afin d'avoir un aperçu d'ensemble. </p><p align='center'><br/>Article 2 <br/>Grille de salaires d'application obligatoire pour les films agréés </p><p align='left'><br/>Les salaires minimum hebdomadaires inférieurs à 750 € brut de la grille des salaires de l'annexe I et de l'annexe II sont exclus de la présente annexe. </p><p align='center'><br/>Article 3 <br/>Définition de l'intéressement </p><p align='left'><br/>L'intéressement consiste à différer le paiement d'une partie du salaire avec une majoration compensatoire de son caractère aléatoire. <br/>L'intéressement aux recettes d'exploitation consiste en l'attribution d'une participation aux''recettes nettes producteur''d'un film. </p><p align='center'><br/>Article 4 <br/>Montant de l'intéressement </p><p align='left'><br/>Le montant placé en intéressement est égal à deux fois la différence entre le montant hebdomadaire du salaire prévu par la grille des salaires de l'annexe I ou de l'annexe II de la convention collective des techniciens de la production cinématographique et le salaire perçu par le salarié dans le cadre de l'application de la présente annexe (art. 1 et 2). <br/>Le montant de l'intéressement attribué pour chaque semaine de travail à chaque membre du personnel technique est égal à la part d'intéressement placée, proratisée et dans la limite des recettes nettes producteur équivalentes au total des sommes placées en intéressement. </p><p align='center'><br/>Article 5 <br/>Versement de l'intéressement </p><p align='left'><br/>Le versement de cet intéressement intervient de la façon suivante : <br/>Sur 100 % de toutes les recettes nettes – France et étranger – des producteurs délégués issues de l'exploitation du film (salles, diffusion à la télévision, vidéogrammes …), 50 % sont délégués au paiement du salaire producteur et des frais généraux dans la limite de 12 % du budget du film et 50 % au salaire différé des techniciens de la production cinématographique, charges sociales comprises, dans la limite de deux fois la différence entre le montant hebdomadaire du salaire prévu par la grille des salaires de l'annexe I ou de l'annexe II de la convention collective des techniciens de la production cinématographique et le salaire perçu par le salarié dans le cadre de l'application de la présente annexe (art. 1 et 2). <br/>Cet accord d'intéressement est inscrit au RPCA. </p><p align='center'><br/>Article 6 <br/>Périodicité de versement </p><p align='left'><br/>Les versements interviendront semestriellement à compter de la sortie du film pendant la première année d'exploitation, puis annuellement au-delà. <br/>Des redditions de comptes détaillés et dûment certifiés sur l'honneur par le producteur seront établies et détermineront à chacune de ces dates les montants d'intéressements revenant aux techniciens concernés. </p><p align='center'><br/>Article 7 <br/>Durée''dispositif des films de la diversité''</p><p align='left'><br/>Le présent accord annexé à la convention collective nationale de la production cinématographique est conclu pour une durée de 5 ans sans clause de tacite reconduction son extension et sa publication au Journal officiel. <br/>Les partenaires sociaux se réunissent au cours de la 5e année pour examiner l'opportunité de modifier ou de proroger cette dérogation. <br/>Durant cette période, les partenaires sociaux étudieront avec les pouvoirs publics l'amélioration du financement des films entrant dans le cadre de l'annexe III. <br/>Toute dénonciation antérieure à la date prévue par le précédent alinéa du présent article vaut dénonciation du titre II''Personnels techniques''de la convention collective nationale de la production cinématographique. <br/>La dénonciation du titre II''Personnels techniques''de la convention collective nationale de la production cinématographique vaut dénonciation du présent accord. »</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000028319325",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Les organisations d'employeurs non signataires de la convention collective mais signataires du présent avenant adhèrent, par les présentes, à la totalité des clauses de ladite convention collective. Conformément à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901782&dateTexte=&categorieLien=cid'>article L. 2261-4 du code du travail</a>, cette adhésion entraîne pour elles l'attribution des mêmes droits et obligations que les organisations signataires de la convention collective. <br/>Tous les articles correspondants de la convention collective sont, en tant que de besoin, modifiés en conséquence, et notamment l'article 36 du titre Ier.</p>",
+              "etat": "VIGUEUR_ETEN"
             }
           ]
         },
         {
-          "id": "KALITEXT000028053648",
+          "type": "section",
           "title": "Avenant du 1er juillet 2013 ajoutant un titre III « Salariés de l'équipe artistique » à la convention",
-          "dateParution": 32472144000000,
-          "sections": [
+          "id": "KALITEXT000028053648",
+          "children": [
             {
-              "id": "KALISCTA000028053650",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Titre III Salariés de l'équipe artistique",
+              "id": "KALISCTA000028053650",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
-                  "id": "KALIARTI000028053652",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='center'><br/>Préambule </p><p align='left'><br/>Les membres de l'équipe artistique engagés dans le cadre de la présente convention collective sont présumés salariés dans les conditions prévues aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904528&dateTexte=&categorieLien=cid'>articles L. 7121-3 à L. 7121-7 du code du travail</a>.</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ],
-              "sections": [
-                {
-                  "id": "KALISCTA000028053654",
+                  "type": "section",
                   "intOrdre": 1048574,
                   "title": "Sous-titre Ier Artistes-interprètes",
+                  "id": "KALISCTA000028053654",
                   "etat": "VIGUEUR_ETEN",
-                  "sections": [
+                  "children": [
                     {
-                      "id": "KALISCTA000028053666",
+                      "type": "section",
                       "intOrdre": 524287,
                       "title": "Chapitre Ier Fonctions",
+                      "id": "KALISCTA000028053666",
                       "etat": "VIGUEUR_ETEN",
-                      "articles": [
+                      "children": [
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053677",
                           "num": "1.1",
                           "intOrdre": 524287,
@@ -1532,6 +1651,7 @@
                           "surtitre": "Salariés visés"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053679",
                           "num": "1.2",
                           "intOrdre": 1048574,
@@ -1542,12 +1662,14 @@
                       ]
                     },
                     {
-                      "id": "KALISCTA000028053667",
+                      "type": "section",
                       "intOrdre": 1048574,
                       "title": "Chapitre II Contrats de travail",
+                      "id": "KALISCTA000028053667",
                       "etat": "VIGUEUR_ETEN",
-                      "articles": [
+                      "children": [
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053680",
                           "num": "2.1",
                           "intOrdre": 524287,
@@ -1556,6 +1678,7 @@
                           "surtitre": "Forme et contenu du contrat"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053681",
                           "num": "2.2",
                           "intOrdre": 1048574,
@@ -1564,6 +1687,7 @@
                           "surtitre": "Prise d'effet"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053682",
                           "num": "2.3",
                           "intOrdre": 1572861,
@@ -1574,12 +1698,14 @@
                       ]
                     },
                     {
-                      "id": "KALISCTA000028053668",
+                      "type": "section",
                       "intOrdre": 1572861,
                       "title": "Chapitre III Conditions de travail",
+                      "id": "KALISCTA000028053668",
                       "etat": "VIGUEUR_ETEN",
-                      "articles": [
+                      "children": [
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053683",
                           "num": "3.1",
                           "intOrdre": 524287,
@@ -1588,6 +1714,7 @@
                           "surtitre": "Majorations conventionnelles"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053684",
                           "num": "3.2",
                           "intOrdre": 1048574,
@@ -1596,6 +1723,7 @@
                           "surtitre": "Majoration de courte durée en cas d'engagement à la journée"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053685",
                           "num": "3.3",
                           "intOrdre": 1572861,
@@ -1604,6 +1732,7 @@
                           "surtitre": "Répétitions et entraînements en dehors des périodes de tournage"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053686",
                           "num": "3.4",
                           "intOrdre": 2097148,
@@ -1612,6 +1741,7 @@
                           "surtitre": "Postsynchronisation"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053687",
                           "num": "3.5",
                           "intOrdre": 2621435,
@@ -1620,6 +1750,7 @@
                           "surtitre": "Réenregistrements (retakes)"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053688",
                           "num": "3.6",
                           "intOrdre": 3145722,
@@ -1628,6 +1759,7 @@
                           "surtitre": "Changement ou modification du rôle"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053689",
                           "num": "3.7",
                           "intOrdre": 3670009,
@@ -1636,6 +1768,7 @@
                           "surtitre": "Film en plusieurs versions"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053690",
                           "num": "3.8",
                           "intOrdre": 4194296,
@@ -1646,12 +1779,14 @@
                       ]
                     },
                     {
-                      "id": "KALISCTA000028053669",
+                      "type": "section",
                       "intOrdre": 2097148,
                       "title": "Chapitre IV Durée du travail",
+                      "id": "KALISCTA000028053669",
                       "etat": "VIGUEUR_ETEN",
-                      "articles": [
+                      "children": [
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053691",
                           "num": "4.1",
                           "intOrdre": 524287,
@@ -1660,6 +1795,7 @@
                           "surtitre": "Organisation quotidienne du travail"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053694",
                           "num": "4.2",
                           "intOrdre": 1048574,
@@ -1668,6 +1804,7 @@
                           "surtitre": "Organisation hebdomadaire du travail"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053695",
                           "num": "4.3",
                           "intOrdre": 1572861,
@@ -1676,6 +1813,7 @@
                           "surtitre": "Organisation des horaires de travail"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053696",
                           "num": "4.4",
                           "intOrdre": 2097148,
@@ -1686,12 +1824,14 @@
                       ]
                     },
                     {
-                      "id": "KALISCTA000028053670",
+                      "type": "section",
                       "intOrdre": 2621435,
                       "title": "Chapitre V Défraiements et voyages",
+                      "id": "KALISCTA000028053670",
                       "etat": "VIGUEUR_ETEN",
-                      "articles": [
+                      "children": [
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053701",
                           "num": "5.1",
                           "intOrdre": 524287,
@@ -1700,6 +1840,7 @@
                           "surtitre": "Frais de nourriture"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053702",
                           "num": "5.2",
                           "intOrdre": 1048574,
@@ -1708,6 +1849,7 @@
                           "surtitre": "Voyages"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053703",
                           "num": "5.3",
                           "intOrdre": 1572861,
@@ -1716,6 +1858,7 @@
                           "surtitre": "Obligation de logement sur place"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053704",
                           "num": "5.4",
                           "intOrdre": 2097148,
@@ -1726,12 +1869,14 @@
                       ]
                     },
                     {
-                      "id": "KALISCTA000028053671",
+                      "type": "section",
                       "intOrdre": 3145722,
                       "title": "Chapitre VI Droits et obligations de l'artiste-interprète",
+                      "id": "KALISCTA000028053671",
                       "etat": "VIGUEUR_ETEN",
-                      "articles": [
+                      "children": [
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053705",
                           "num": "6.1",
                           "intOrdre": 524287,
@@ -1740,6 +1885,7 @@
                           "surtitre": "Discipline"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053706",
                           "num": "6.2",
                           "intOrdre": 1048574,
@@ -1748,6 +1894,7 @@
                           "surtitre": "Disponibilité. – Exclusivité des services"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053707",
                           "num": "6.3",
                           "intOrdre": 1572861,
@@ -1756,6 +1903,7 @@
                           "surtitre": "Présence de l'artiste-interprète"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053708",
                           "num": "6.4",
                           "intOrdre": 2097148,
@@ -1764,6 +1912,7 @@
                           "surtitre": "Physique de l'artiste-interprète"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053709",
                           "num": "6.5",
                           "intOrdre": 2621435,
@@ -1772,6 +1921,7 @@
                           "surtitre": "Sanctions"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053710",
                           "num": "6.6",
                           "intOrdre": 3145722,
@@ -1780,6 +1930,7 @@
                           "surtitre": "Costumes"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053711",
                           "num": "6.7",
                           "intOrdre": 3670009,
@@ -1788,6 +1939,7 @@
                           "surtitre": "Conditions d'accueil de l'artiste-interprète"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053712",
                           "num": "6.8",
                           "intOrdre": 4194296,
@@ -1800,18 +1952,21 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000028053663",
+                  "type": "section",
                   "intOrdre": 1074266110,
                   "title": "Sous-titre II Acteurs de complément",
+                  "id": "KALISCTA000028053663",
                   "etat": "VIGUEUR_ETEN",
-                  "sections": [
+                  "children": [
                     {
-                      "id": "KALISCTA000028053672",
+                      "type": "section",
                       "intOrdre": 524287,
                       "title": "Chapitre Ier Fonctions",
+                      "id": "KALISCTA000028053672",
                       "etat": "VIGUEUR_ETEN",
-                      "articles": [
+                      "children": [
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053714",
                           "num": "1.1",
                           "intOrdre": 524287,
@@ -1820,6 +1975,7 @@
                           "surtitre": "Salariés visés"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053715",
                           "num": "1.2",
                           "intOrdre": 1048574,
@@ -1830,12 +1986,14 @@
                       ]
                     },
                     {
-                      "id": "KALISCTA000028053673",
+                      "type": "section",
                       "intOrdre": 1048574,
                       "title": "Chapitre II Contrats de travail",
+                      "id": "KALISCTA000028053673",
                       "etat": "VIGUEUR_ETEN",
-                      "articles": [
+                      "children": [
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053716",
                           "num": "2.1",
                           "intOrdre": 524287,
@@ -1844,6 +2002,7 @@
                           "surtitre": "Dispositions générales"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053717",
                           "num": "2.2",
                           "intOrdre": 1048574,
@@ -1852,6 +2011,7 @@
                           "surtitre": "Forme et contenu du contrat"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053718",
                           "num": "2.3",
                           "intOrdre": 1572861,
@@ -1862,12 +2022,14 @@
                       ]
                     },
                     {
-                      "id": "KALISCTA000028053674",
+                      "type": "section",
                       "intOrdre": 1572861,
                       "title": "Chapitre III Conditions de travail",
+                      "id": "KALISCTA000028053674",
                       "etat": "VIGUEUR_ETEN",
-                      "articles": [
+                      "children": [
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053719",
                           "num": "3.1",
                           "intOrdre": 524287,
@@ -1876,6 +2038,7 @@
                           "surtitre": "Majorations conventionnelles"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053720",
                           "num": "3.2",
                           "intOrdre": 1048574,
@@ -1884,6 +2047,7 @@
                           "surtitre": "Majoration de courte durée en cas d'engagement à la journée"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053721",
                           "num": "3.3",
                           "intOrdre": 1572861,
@@ -1892,6 +2056,7 @@
                           "surtitre": "Répétitions"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053722",
                           "num": "3.4",
                           "intOrdre": 2097148,
@@ -1900,6 +2065,7 @@
                           "surtitre": "Réenregistrements (retakes)"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053723",
                           "num": "3.5",
                           "intOrdre": 2621435,
@@ -1908,6 +2074,7 @@
                           "surtitre": "Changement ou modification de la fonction"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053724",
                           "num": "3.6",
                           "intOrdre": 3145722,
@@ -1916,6 +2083,7 @@
                           "surtitre": "Local figuration. – Table régie"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053725",
                           "num": "3.7",
                           "intOrdre": 3670009,
@@ -1926,12 +2094,14 @@
                       ]
                     },
                     {
-                      "id": "KALISCTA000028053675",
+                      "type": "section",
                       "intOrdre": 2097148,
                       "title": "Chapitre IV Durée du travail",
+                      "id": "KALISCTA000028053675",
                       "etat": "VIGUEUR_ETEN",
-                      "articles": [
+                      "children": [
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053726",
                           "num": "4.1",
                           "intOrdre": 524287,
@@ -1939,6 +2109,7 @@
                           "etat": "VIGUEUR_ETEN"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053727",
                           "num": "4.2",
                           "intOrdre": 1048574,
@@ -1947,6 +2118,7 @@
                           "surtitre": "Organisation hebdomadaire du travail (engagements à la semaine)"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053728",
                           "num": "4.3",
                           "intOrdre": 1572861,
@@ -1955,6 +2127,7 @@
                           "surtitre": "Organisation des horaires de travail"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053729",
                           "num": "4.4",
                           "intOrdre": 2097148,
@@ -1965,12 +2138,14 @@
                       ]
                     },
                     {
-                      "id": "KALISCTA000028053676",
+                      "type": "section",
                       "intOrdre": 2621435,
                       "title": "Chapitre V Défraiements et voyages",
+                      "id": "KALISCTA000028053676",
                       "etat": "VIGUEUR_ETEN",
-                      "articles": [
+                      "children": [
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053730",
                           "num": "5.1",
                           "intOrdre": 524287,
@@ -1979,6 +2154,7 @@
                           "surtitre": "Frais de nourriture"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053731",
                           "num": "5.2",
                           "intOrdre": 1048574,
@@ -1987,6 +2163,7 @@
                           "surtitre": "Voyages"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053732",
                           "num": "5.3",
                           "intOrdre": 1572861,
@@ -1995,6 +2172,7 @@
                           "surtitre": "Obligation de logement sur place"
                         },
                         {
+                          "type": "article",
                           "id": "KALIARTI000028053733",
                           "num": "5.4",
                           "intOrdre": 2097148,
@@ -2005,22 +2183,33 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "type": "article",
+                  "id": "KALIARTI000028053652",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='center'><br/>Préambule </p><p align='left'><br/>Les membres de l'équipe artistique engagés dans le cadre de la présente convention collective sont présumés salariés dans les conditions prévues aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904528&dateTexte=&categorieLien=cid'>articles L. 7121-3 à L. 7121-7 du code du travail</a>.</p>",
+                  "etat": "VIGUEUR_ETEN"
                 }
               ]
             },
             {
-              "id": "KALISCTA000028053651",
+              "type": "section",
               "intOrdre": 1610874878,
               "title": "ANNEXES",
+              "id": "KALISCTA000028053651",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000028060372",
+                  "type": "section",
                   "intOrdre": 262143,
                   "title": "Annexe III.1",
+                  "id": "KALISCTA000028060372",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000028053655",
                       "num": null,
                       "intOrdre": 238609294,
@@ -2028,6 +2217,7 @@
                       "etat": "VIGUEUR_ETEN"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000028053656",
                       "num": "1er",
                       "intOrdre": 477218588,
@@ -2036,6 +2226,7 @@
                       "surtitre": "Champ d'application"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000028053657",
                       "num": "2",
                       "intOrdre": 715827882,
@@ -2044,6 +2235,7 @@
                       "surtitre": "Plafonnement obligatoire du salaire pour les films agréés"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000028053658",
                       "num": "3",
                       "intOrdre": 954437176,
@@ -2052,6 +2244,7 @@
                       "surtitre": "Définition de l'intéressement"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000028053659",
                       "num": "4",
                       "intOrdre": 1193046470,
@@ -2060,6 +2253,7 @@
                       "surtitre": "Montant de l'intéressement"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000028053660",
                       "num": "5",
                       "intOrdre": 1431655764,
@@ -2068,6 +2262,7 @@
                       "surtitre": "Versement de l'intéressement"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000028053661",
                       "num": "6",
                       "intOrdre": 1670265058,
@@ -2076,6 +2271,7 @@
                       "surtitre": "Périodicité de versement"
                     },
                     {
+                      "type": "article",
                       "id": "KALIARTI000028053662",
                       "num": "7",
                       "intOrdre": 1908874352,
@@ -2086,12 +2282,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000028060374",
+                  "type": "section",
                   "intOrdre": 2752506,
                   "title": "Annexe III.2",
+                  "id": "KALISCTA000028060374",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000028053664",
                       "num": null,
                       "intOrdre": 1073741823,
@@ -2107,57 +2305,26 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 3,
       "title": "Textes Salaires",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000035993640",
+          "type": "section",
           "title": "Avenant du 20 juillet 2017 portant révision des salaires de l'équipe technique (titre II de la convention)",
-          "dateParution": 1510185600000,
-          "articles": [
+          "id": "KALITEXT000035993640",
+          "children": [
             {
-              "id": "KALIARTI000035993644",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Le présent avenant s'applique aux salariés de l'équipe technique entrant dans le champ d'application du titre II de la CCNPC.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Champ d'application"
-            },
-            {
-              "id": "KALIARTI000035993645",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Il est convenu de revaloriser de 0,8 %, les montants des salaires minima conventionnels de l'ensemble des différentes grilles de salaires, ainsi que les montants de l'indemnité de repas et de l'indemnité de casse-croûte afférentes à ces grilles de salaires, tels qu'institués par la CCNPC. <br/>En conséquence, les dispositions révisées de l'<a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000031521844&categorieLien=cid'>accord sur les salaires du 24 juillet 2015</a>, figurant en annexe I, sont applicables à compter de l'entrée en vigueur du présent avenant.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Révision de l'accord sur les salaires du 24 juillet 2015"
-            },
-            {
-              "id": "KALIARTI000035993646",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'>Il est convenu, à compter du 1er août 2017, de revaloriser, de 0,8 %, la part fixe de 759 € utilisée dans les formules de calcul du salaire de l'annexe III du titre II de la CCNPC, en portant son montant à 765,07 €.<br/>\nEn conséquence, les dispositions révisées de l'avenant du 18 avril 2017, figurant en annexe II, sont applicables à compter de l'entrée en vigueur du présent avenant.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Révision de l'avenant du 18 avril 2017"
-            },
-            {
-              "id": "KALIARTI000035993647",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Il est convenu que le présent avenant s'applique à compter du 1er août 2017.<br/>L'extension du présent avenant est sollicitée par la partie la plus diligente, conformément aux dispositions de l'article L. 2661-1 du code du travail.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Entrée en vigueur. – Dépôt. – Extension"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000035993643",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000035993643",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035993650",
                   "num": null,
                   "intOrdre": 524287,
@@ -2167,12 +2334,14 @@
               ]
             },
             {
-              "id": "KALISCTA000035993649",
+              "type": "section",
               "intOrdre": 3145722,
               "title": "Annexe",
+              "id": "KALISCTA000035993649",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035993651",
                   "num": null,
                   "intOrdre": 524287,
@@ -2180,6 +2349,7 @@
                   "etat": "VIGUEUR_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000035993652",
                   "num": null,
                   "intOrdre": 1048574,
@@ -2187,15 +2357,52 @@
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000035993644",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>Le présent avenant s'applique aux salariés de l'équipe technique entrant dans le champ d'application du titre II de la CCNPC.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Champ d'application"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000035993645",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Il est convenu de revaloriser de 0,8 %, les montants des salaires minima conventionnels de l'ensemble des différentes grilles de salaires, ainsi que les montants de l'indemnité de repas et de l'indemnité de casse-croûte afférentes à ces grilles de salaires, tels qu'institués par la CCNPC. <br/>En conséquence, les dispositions révisées de l'<a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000031521844&categorieLien=cid'>accord sur les salaires du 24 juillet 2015</a>, figurant en annexe I, sont applicables à compter de l'entrée en vigueur du présent avenant.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Révision de l'accord sur les salaires du 24 juillet 2015"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000035993646",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'>Il est convenu, à compter du 1er août 2017, de revaloriser, de 0,8 %, la part fixe de 759 € utilisée dans les formules de calcul du salaire de l'annexe III du titre II de la CCNPC, en portant son montant à 765,07 €.<br/>\nEn conséquence, les dispositions révisées de l'avenant du 18 avril 2017, figurant en annexe II, sont applicables à compter de l'entrée en vigueur du présent avenant.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Révision de l'avenant du 18 avril 2017"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000035993647",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Il est convenu que le présent avenant s'applique à compter du 1er août 2017.<br/>L'extension du présent avenant est sollicitée par la partie la plus diligente, conformément aux dispositions de l'article L. 2661-1 du code du travail.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Entrée en vigueur. – Dépôt. – Extension"
             }
           ]
         },
         {
-          "id": "KALITEXT000035532821",
+          "type": "section",
           "title": "Avenant du 18 avril 2016 à l'accord du 24 juillet 2015 relatif aux salaires",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000035532821",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000035532824",
               "num": null,
               "intOrdre": 524287,
@@ -2203,6 +2410,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000035532825",
               "num": "1er",
               "intOrdre": 1048574,
@@ -2211,6 +2419,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000035532826",
               "num": "2",
               "intOrdre": 1572861,
@@ -2219,6 +2428,7 @@
               "surtitre": "Révision de l'accord sur les salaires du 24 juillet 2015"
             },
             {
+              "type": "article",
               "id": "KALIARTI000035532827",
               "num": "3",
               "intOrdre": 2097148,
@@ -2229,11 +2439,12 @@
           ]
         },
         {
-          "id": "KALITEXT000033017140",
+          "type": "section",
           "title": "Avenant du 15 janvier 2016 portant révision des dispositions relatives à la branche costume (titre II de la convention)",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000033017140",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000033017143",
               "num": null,
               "intOrdre": 524287,
@@ -2241,6 +2452,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033017144",
               "num": "1er",
               "intOrdre": 1048574,
@@ -2249,6 +2461,7 @@
               "surtitre": "Création d'une fonction de « premier assistant costumes cinéma »"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033017145",
               "num": "2",
               "intOrdre": 1572861,
@@ -2256,6 +2469,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033017146",
               "num": "3",
               "intOrdre": 2097148,
@@ -2264,6 +2478,7 @@
               "surtitre": "Salaires minima du premier assistant costumes cinéma"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033017147",
               "num": "4",
               "intOrdre": 2621435,
@@ -2274,11 +2489,12 @@
           ]
         },
         {
-          "id": "KALITEXT000031521844",
+          "type": "section",
           "title": "Accord du 24 juillet 2015 relatif aux salaires du personnel technique (titre II)",
-          "dateParution": 1448409600000,
-          "articles": [
+          "id": "KALITEXT000031521844",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000031521847",
               "num": "1er",
               "intOrdre": 524287,
@@ -2287,6 +2503,7 @@
               "surtitre": "Champ d'application de l'accord"
             },
             {
+              "type": "article",
               "id": "KALIARTI000031521848",
               "num": "2",
               "intOrdre": 1048574,
@@ -2295,6 +2512,7 @@
               "surtitre": "Revalorisation des salaires minima conventionnels du personnel technique"
             },
             {
+              "type": "article",
               "id": "KALIARTI000031521849",
               "num": "2.1",
               "intOrdre": 1572861,
@@ -2303,6 +2521,7 @@
               "surtitre": "Annexe I du titre II : grille des salaires minima garantis et montant des indemnités repas et casse-croûte, revalorisée tel que prévu dans l'article 2 du présent accord"
             },
             {
+              "type": "article",
               "id": "KALIARTI000031521850",
               "num": "2.2",
               "intOrdre": 2097148,
@@ -2311,6 +2530,7 @@
               "surtitre": "Annexe II du titre II : grille des durées hebdomadaires de travail comprenant des durées d'équivalence, revalorisée tel que prévu dans l'article 2 du présent accord"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036174617",
               "num": "2.3",
               "intOrdre": 2621435,
@@ -2319,6 +2539,7 @@
               "surtitre": "Annexe III du titre II : grille des salaires minima garantis et montant des indemnités repas et casse-croûte, revalorisée (applicable sur dossier examiné par la commission paritaire prévue à l'annexe III du titre II)"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036174615",
               "num": "2.4",
               "intOrdre": 3145722,
@@ -2327,6 +2548,7 @@
               "surtitre": "Annexe III du titre II : grille des durées hebdomadaires de travail comprenant des durées d'équivalence, revalorisée (applicable sur dossier examiné par la commission paritaire prévue à l'annexe III du titre II)"
             },
             {
+              "type": "article",
               "id": "KALIARTI000031521853",
               "num": "3",
               "intOrdre": 3670009,
@@ -2337,11 +2559,29 @@
           ]
         },
         {
-          "id": "KALITEXT000030440759",
+          "type": "section",
           "title": "Accord du 9 juillet 2014 relatif aux artistes-interprètes engagés sur un court métrage (titre III - salariés de l'équipe artistique)",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000030440759",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 3145722,
+              "title": "Annexe",
+              "id": "KALISCTA000030440771",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000038231774",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='center'><strong>Salaires minima garantis </strong></p><p align='center'>Engagement à la journée </p><p>Salaire journalier minimum de 145,82 € incluant : <br/>– 116,66 € au titre de 8 heures de travail effectif et à la fixation de la prestation ; <br/>– 29,16 € au titre de la rémunération prévue à l'<a alt='Code de la propriété intellectuelle - art. L212-4 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069414&idArticle=LEGIARTI000006279041&dateTexte=&categorieLien=cid'>article L. 212-4, alinéa 2 du code de la propriété intellectuelle</a>. </p><p align='center'><br/>Engagement à la semaine </p><p align='left'>Salaire hebdomadaire minimum pour une semaine de 5 jours : 546,92 €, dont 20 % au titre de l'article L. 212-4, alinéa 2 du code de la propriété intellectuelle ; </p><p align='left'>Salaire hebdomadaire minimum pour une semaine de 6 jours : 656,22 € dont 20 % au titre de l'article L. 212-4, alinéa 2 du code de la propriété intellectuelle. </p><p>La rémunération au titre de l'article L. 212-4, alinéa 2, du code de la propriété intellectuelle se décompose comme suit : <br/>– 37 % pour l'exploitation dans les salles de cinéma du secteur commercial et du secteur non commercial et dans tout lieu réunissant du public ; <br/>– 25 % pour l'exploitation par télédiffusion ; <br/>– 10 % pour l'exploitation par la mise à disposition à la demande et « en ligne » ; <br/>– 15 % pour l'exploitation par vidéogrammes destinés à l'usage privé du public ; <br/>– 13 % pour toutes les autres exploitations secondaires et dérivées du film et de ses éléments. </p><p>La décomposition susvisée entre les différents modes d'exploitation est propre à la fixation du salaire minimum des artistes-interprètes relevant du présent accord et ne peut donc constituer une référence pour tout autre accord ou toute négociation qui ne relèverait pas du champ de la présente convention. </p><p>A compter de l'entrée en vigueur du présent accord et conformément à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069414&idArticle=LEGIARTI000006279042&dateTexte=&categorieLien=cid'>article L. 212-5 du code de la propriété intellectuelle</a>, les dispositions de l'accord spécifique du 7 juin 1990 sont applicables en tenant compte de la présente annexe. </p><p>Le présent accord sera applicable aux contrats de travail dont le tournage démarre postérieurement à l'entrée en vigueur du présent accord. </p><p>Le présent accord sera d'application effective obligatoire pour les signataires à compter du 1er septembre 2014.</p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000030440762",
               "num": null,
               "intOrdre": 524287,
@@ -2349,6 +2589,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000030440763",
               "num": "1er",
               "intOrdre": 1048574,
@@ -2357,6 +2598,7 @@
               "surtitre": "Contrat de travail"
             },
             {
+              "type": "article",
               "id": "KALIARTI000030440764",
               "num": "2",
               "intOrdre": 1572861,
@@ -2365,6 +2607,7 @@
               "surtitre": "Conditions de rémunération"
             },
             {
+              "type": "article",
               "id": "KALIARTI000030440767",
               "num": "3",
               "intOrdre": 2097148,
@@ -2373,29 +2616,13 @@
               "surtitre": "Durée du travail"
             },
             {
+              "type": "article",
               "id": "KALIARTI000030440770",
               "num": "4",
               "intOrdre": 2621435,
               "content": "<p align='left'><br/>Les déplacements en voyage ferroviaire s'effectuent dans les conditions suivantes sauf impossibilité matérielle : <br/>– de jour : en 2e classe, l'employeur devant faire ses meilleurs efforts pour proposer au salarié une place en 1re classe ; <br/>– de nuit : en couchette de 2e classe, l'employeur devant faire ses meilleurs efforts pour proposer au salarié une couchette en 1re classe. <br/><i>Par ailleurs, l'<a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000028053370&idArticle=KALIARTI000028053612&categorieLien=cid'>article 5.2.2 </a>relatif à l'indemnisation des heures de voyage ne s'applique pas en cas d'engagement pour un court métrage.</i> <a shape='rect' href='#RENVOI_KALIARTI000030440770_1'> (1)</a></p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000030440770_1'></a>(1) Alinéa étendu sous réserve du respect des dispositions de l'article L. 3121-4 du code du travail.  <br/>(Arrêté du 21 décembre 2015 - art. 1)</em></font></p>",
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Voyages"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000030440771",
-              "intOrdre": 3145722,
-              "title": "Annexe",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000038231774",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='center'><strong>Salaires minima garantis </strong></p><p align='center'>Engagement à la journée </p><p>Salaire journalier minimum de 145,82 € incluant : <br/>– 116,66 € au titre de 8 heures de travail effectif et à la fixation de la prestation ; <br/>– 29,16 € au titre de la rémunération prévue à l'<a alt='Code de la propriété intellectuelle - art. L212-4 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069414&idArticle=LEGIARTI000006279041&dateTexte=&categorieLien=cid'>article L. 212-4, alinéa 2 du code de la propriété intellectuelle</a>. </p><p align='center'><br/>Engagement à la semaine </p><p align='left'>Salaire hebdomadaire minimum pour une semaine de 5 jours : 546,92 €, dont 20 % au titre de l'article L. 212-4, alinéa 2 du code de la propriété intellectuelle ; </p><p align='left'>Salaire hebdomadaire minimum pour une semaine de 6 jours : 656,22 € dont 20 % au titre de l'article L. 212-4, alinéa 2 du code de la propriété intellectuelle. </p><p>La rémunération au titre de l'article L. 212-4, alinéa 2, du code de la propriété intellectuelle se décompose comme suit : <br/>– 37 % pour l'exploitation dans les salles de cinéma du secteur commercial et du secteur non commercial et dans tout lieu réunissant du public ; <br/>– 25 % pour l'exploitation par télédiffusion ; <br/>– 10 % pour l'exploitation par la mise à disposition à la demande et « en ligne » ; <br/>– 15 % pour l'exploitation par vidéogrammes destinés à l'usage privé du public ; <br/>– 13 % pour toutes les autres exploitations secondaires et dérivées du film et de ses éléments. </p><p>La décomposition susvisée entre les différents modes d'exploitation est propre à la fixation du salaire minimum des artistes-interprètes relevant du présent accord et ne peut donc constituer une référence pour tout autre accord ou toute négociation qui ne relèverait pas du champ de la présente convention. </p><p>A compter de l'entrée en vigueur du présent accord et conformément à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006069414&idArticle=LEGIARTI000006279042&dateTexte=&categorieLien=cid'>article L. 212-5 du code de la propriété intellectuelle</a>, les dispositions de l'accord spécifique du 7 juin 1990 sont applicables en tenant compte de la présente annexe. </p><p>Le présent accord sera applicable aux contrats de travail dont le tournage démarre postérieurement à l'entrée en vigueur du présent accord. </p><p>Le présent accord sera d'application effective obligatoire pour les signataires à compter du 1er septembre 2014.</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
             }
           ]
         }

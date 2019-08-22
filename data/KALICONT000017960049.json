@@ -1,25 +1,26 @@
 {
+  "type": "section",
+  "title": "Convention collective régionale des ingénieurs, assimilés et cadres du bâtiment de la région parisienne du 12 avril 1960",
   "id": "KALICONT000017960049",
   "num": "1843",
-  "title": "Convention collective régionale des ingénieurs, assimilés et cadres du bâtiment de la région parisienne du 12 avril 1960",
   "shortTitle": "Bâtiment Cadres Région Parisienne",
-  "categorisation": [
-    "Bâtiment de la région parisienne : ouvriers, employés, techniciens et agents de maîtrise, ingénieurs, assimilés et cadres"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000005678329",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective régionale des ingénieurs, assimilés et cadres du bâtiment de la région parisienne du 12 avril 1960",
+      "id": "KALITEXT000005678329",
       "etat": "VIGUEUR_ETEN",
-      "sections": [
+      "children": [
         {
-          "id": "KALISCTA000005722774",
+          "type": "section",
           "intOrdre": 85898,
           "title": "Titre Ier : Clauses générales",
+          "id": "KALISCTA000005722774",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005847932",
               "num": "4",
               "intOrdre": 1879048190,
@@ -30,28 +31,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005722777",
+          "type": "section",
           "intOrdre": 171796,
           "title": "Titre II : Engagement",
+          "id": "KALISCTA000005722777",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
-              "id": "KALIARTI000005847939",
-              "num": "7",
-              "intOrdre": 257694,
-              "content": "<p>Toute modification de contrat fera l'objet d'une notification écrite. Si la modification n'est pas acceptée par l'IAC, son refus, confirmé par écrit dans les huit jours de la notification, sera considéré comme comportant licenciement et réglé comme tel.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000005751815",
+              "type": "section",
               "intOrdre": 300643,
               "title": "Période d'essai",
+              "id": "KALISCTA000005751815",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005847943",
                   "num": "9",
                   "intOrdre": 171796,
@@ -60,22 +54,34 @@
                   "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000005847939",
+              "num": "7",
+              "intOrdre": 257694,
+              "content": "<p>Toute modification de contrat fera l'objet d'une notification écrite. Si la modification n'est pas acceptée par l'IAC, son refus, confirmé par écrit dans les huit jours de la notification, sera considéré comme comportant licenciement et réglé comme tel.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
             }
           ]
         },
         {
-          "id": "KALISCTA000005722778",
+          "type": "section",
           "intOrdre": 214745,
           "title": "Titre III : Résiliation du contrat de travail",
+          "id": "KALISCTA000005722778",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005751816",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Dénonciation du contrat",
+              "id": "KALISCTA000005751816",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005847945",
                   "num": "10",
                   "intOrdre": 42949,
@@ -86,12 +92,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005751817",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Durée de préavis en dehors de la période d'essai (1)",
+              "id": "KALISCTA000005751817",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005847947",
                   "num": "11",
                   "intOrdre": 85898,
@@ -102,12 +110,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005751818",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Durée de préavis en dehors de la période d'essai",
+              "id": "KALISCTA000005751818",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005847949",
                   "num": "12",
                   "intOrdre": 85898,
@@ -118,12 +128,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005751819",
+              "type": "section",
               "intOrdre": 171796,
               "title": "Indemnités de préavis",
+              "id": "KALISCTA000005751819",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005847951",
                   "num": "13",
                   "intOrdre": 85898,
@@ -134,12 +146,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005751820",
+              "type": "section",
               "intOrdre": 214745,
               "title": "Indemnités de licenciement - Conditions d'attribution",
+              "id": "KALISCTA000005751820",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005847954",
                   "num": "14",
                   "intOrdre": 85898,
@@ -150,12 +164,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005751821",
+              "type": "section",
               "intOrdre": 257694,
               "title": "Montant de l'indemnité de licenciement",
+              "id": "KALISCTA000005751821",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005847958",
                   "num": "15 bis",
                   "intOrdre": 171796,
@@ -166,12 +182,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005751822",
+              "type": "section",
               "intOrdre": 300643,
               "title": "Obligations particulières en ce qui concerne le régime de retraite",
+              "id": "KALISCTA000005751822",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005847960",
                   "num": "16",
                   "intOrdre": 85898,
@@ -182,12 +200,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005751823",
+              "type": "section",
               "intOrdre": 343592,
               "title": "Définition du calcul de l'ancienneté",
+              "id": "KALISCTA000005751823",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005847963",
                   "num": "17",
                   "intOrdre": 85898,
@@ -198,12 +218,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005751824",
+              "type": "section",
               "intOrdre": 386541,
               "title": "Engagements successifs",
+              "id": "KALISCTA000005751824",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005847965",
                   "num": "18",
                   "intOrdre": 85898,
@@ -214,12 +236,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005751825",
+              "type": "section",
               "intOrdre": 429490,
               "title": "Déclassement",
+              "id": "KALISCTA000005751825",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005847967",
                   "num": "19",
                   "intOrdre": 85898,
@@ -230,12 +254,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005751826",
+              "type": "section",
               "intOrdre": 472439,
               "title": "Indemnités en cas de départ - Conditions d'attribution",
+              "id": "KALISCTA000005751826",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005847970",
                   "num": "20",
                   "intOrdre": 85898,
@@ -246,12 +272,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005751827",
+              "type": "section",
               "intOrdre": 515388,
               "title": "Cas particulier du départ volontaire",
+              "id": "KALISCTA000005751827",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005847972",
                   "num": "21",
                   "intOrdre": 85898,
@@ -262,12 +290,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005751828",
+              "type": "section",
               "intOrdre": 558337,
               "title": "Dispositions diverses",
+              "id": "KALISCTA000005751828",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005847974",
                   "num": "22",
                   "intOrdre": 85898,
@@ -278,12 +308,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005751829",
+              "type": "section",
               "intOrdre": 601286,
               "title": "Augmentation du taux de cotisation dans l'entreprise",
+              "id": "KALISCTA000005751829",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005847976",
                   "num": "23",
                   "intOrdre": 85898,
@@ -294,12 +326,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005751830",
+              "type": "section",
               "intOrdre": 644235,
               "title": "Répercussion des modifications éventuelles du régime de retraite de la convention du 14 mars 1947",
+              "id": "KALISCTA000005751830",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005847978",
                   "num": "24",
                   "intOrdre": 85898,
@@ -312,12 +346,14 @@
           ]
         },
         {
-          "id": "KALISCTA000005722782",
+          "type": "section",
           "intOrdre": 257694,
           "title": "Titre IV : Congés",
+          "id": "KALISCTA000005722782",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005847997",
               "num": "33",
               "intOrdre": 773082,
@@ -328,28 +364,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005722785",
+          "type": "section",
           "intOrdre": 300643,
           "title": "Titre V : Déplacements et changements de résidence en France métropolitaine",
+          "id": "KALISCTA000005722785",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
-              "id": "KALIARTI000005848023",
-              "num": "45",
-              "intOrdre": 1030776,
-              "content": "<p>Lorsque, après accord écrit avec son employeur, un IAC utilise pour les besoins du service un véhicule automobile lui appartenant, les frais occasionnés sont à la charge de l'employeur.</p><p>Le remboursement de ces frais fait l'objet d'un accord préalable qui tient compte de l'amortissement du véhicule, des frais de garage, de réparations et d'entretien, de la consommation d'essence et d'huile, des frais d'assurances (1), et éventuellement des impôts pesant sur le véhicule.</p><p><font color='#808080'><em></em></font></p>",
-              "etat": "VIGUEUR_ETEN",
-              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000005751831",
+              "type": "section",
               "intOrdre": 1073725,
               "title": "Changements de résidence et rapatriement",
+              "id": "KALISCTA000005751831",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005848034",
                   "num": "50",
                   "intOrdre": 429490,
@@ -359,16 +388,27 @@
                   "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000005848023",
+              "num": "45",
+              "intOrdre": 1030776,
+              "content": "<p>Lorsque, après accord écrit avec son employeur, un IAC utilise pour les besoins du service un véhicule automobile lui appartenant, les frais occasionnés sont à la charge de l'employeur.</p><p>Le remboursement de ces frais fait l'objet d'un accord préalable qui tient compte de l'amortissement du véhicule, des frais de garage, de réparations et d'entretien, de la consommation d'essence et d'huile, des frais d'assurances (1), et éventuellement des impôts pesant sur le véhicule.</p><p><font color='#808080'><em></em></font></p>",
+              "etat": "VIGUEUR_ETEN",
+              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
             }
           ]
         },
         {
-          "id": "KALISCTA000005722788",
+          "type": "section",
           "intOrdre": 343592,
           "title": "Titre V bis.",
+          "id": "KALISCTA000005722788",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005848036",
               "num": "50 a",
               "intOrdre": 85898,
@@ -379,12 +419,14 @@
           ]
         },
         {
-          "id": "KALISCTA000005722789",
+          "type": "section",
           "intOrdre": 386541,
           "title": "Titre VI : Maladie - Accident - Maternité",
+          "id": "KALISCTA000005722789",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005848057",
               "num": "59",
               "intOrdre": 1074128364,
@@ -395,12 +437,14 @@
           ]
         },
         {
-          "id": "KALISCTA000005722792",
+          "type": "section",
           "intOrdre": 472439,
           "title": "Titre VII : Obligations militaires",
+          "id": "KALISCTA000005722792",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005848061",
               "num": "61",
               "intOrdre": 171796,
@@ -411,12 +455,14 @@
           ]
         },
         {
-          "id": "KALISCTA000005722793",
+          "type": "section",
           "intOrdre": 515388,
           "title": "Titre VIII : Brevets d'invention",
+          "id": "KALISCTA000005722793",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005848069",
               "num": "65",
               "intOrdre": 343592,
@@ -427,12 +473,14 @@
           ]
         },
         {
-          "id": "KALISCTA000005722794",
+          "type": "section",
           "intOrdre": 558337,
           "title": "Titre IX : Relations humaines",
+          "id": "KALISCTA000005722794",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005848072",
               "num": null,
               "intOrdre": 85898,
@@ -443,12 +491,14 @@
           ]
         },
         {
-          "id": "KALISCTA000005722795",
+          "type": "section",
           "intOrdre": 601286,
           "title": "Titre X : Durée et dénonciation",
+          "id": "KALISCTA000005722795",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005848074",
               "num": null,
               "intOrdre": 85898,
@@ -461,17 +511,19 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000005678331",
+          "type": "section",
           "title": "Annexe Ingénieurs, assimilés et cadres, A 1 Clauses générales, Modèle de lettre d'engagement Convention collective régionale du 12 avril 1960",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000005678331",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005848076",
               "num": null,
               "intOrdre": 85898,
@@ -481,6 +533,7 @@
               "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
             },
             {
+              "type": "article",
               "id": "KALIARTI000005848078",
               "num": null,
               "intOrdre": 171796,
@@ -492,123 +545,19 @@
           ]
         },
         {
-          "id": "KALITEXT000005678333",
+          "type": "section",
           "title": "Annexe Ingénieurs, assimilés et cadres, A 2 Classification et accords de salaires Convention collective régionale du 12 avril 1960",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000005678333",
+          "children": [
             {
-              "id": "KALIARTI000005848081",
-              "num": "1",
-              "intOrdre": 85898,
-              "content": "<p></p>   Les dispositions de la présente convention ont pour objet de fixer les appointements minimaux des ingénieurs, assimilés et cadres, de l'un ou l'autre sexe, occupés dans les entreprises ou parties d'entreprises définies au champ d'application général de la présente convention collective.<p></p><p></p>",
-              "etat": "VIGUEUR_ETEN",
-              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
-            },
-            {
-              "id": "KALIARTI000005848083",
-              "num": "2",
-              "intOrdre": 171796,
-              "content": "<p></p>   Elles s'appliquent à l'ensemble de la région définie précédemment en ce qui concerne la classification, mais la valeur du point 100 fixée à l'article 9 pourra être différente selon les départements.<p></p><p></p>",
-              "etat": "VIGUEUR_ETEN",
-              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
-            },
-            {
-              "id": "KALIARTI000005848085",
-              "num": "3",
-              "intOrdre": 257694,
-              "content": "<p>Définition. - Pour l'application de la présente convention, sont considérés :</p><p>1° Comme ingénieurs et assimilés (positions A et B) les collaborateurs qui ont une formation technique constatée généralement par l'un des diplômes d'ingénieurs reconnus par la loi (1) ou une formation reconnue équivalente et qui, dans l'un ou l'autre cas, occupent dans l'entreprise un poste où ils mettent en oeuvre les connaissances qu'ils ont acquises ;</p><p>2° Comme cadres (positions C et supérieures) les ingénieurs ou assimilés possédant une formation technique, administrative, juridique, commerciale ou financière, et qui (à l'exception des cas visés plus loin, à l'article 7, position C, 1er et 2e échelons) (2) exercent, par délégation de l'employeur, un commandement sur des ouvriers, employés, techniciens, agents de maîtrise, ingénieurs ou assimilés administratifs ou commerciaux.</p><p>Ne relèvent pas de la présente convention :</p><p>Les titulaires des diplômes ou les possesseurs d'une des formations précisées ci-dessus, lorsque :</p><p>- ou bien ils exercent la totalité des responsabilités qui sont le fait caractéristique de l'autorité patronale ;</p><p>- ou bien ils n'occupent pas, aux termes de leur contrat de travail, des postes nécessitant la mise en oeuvre des connaissances correspondant aux diplômes dont ils sont titulaires.</p><p>Ne sont également pas visés :</p><p>Les directeurs salariés et les cadres supérieurs dont la rémunération est essentiellement basée, d'après le contrat, sur le chiffre d'affaires ou la prospérité de l'établissement, les voyageurs représentants et placiers liés à leur employeur dans les conditions prévues par la loi du 18 juillet 1937 ; les ouvriers, les employés, techniciens, dessinateurs et agents de maîtrise.</p><p></p>",
-              "etat": "VIGUEUR_ETEN",
-              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
-            },
-            {
-              "id": "KALIARTI000005848087",
-              "num": "4",
-              "intOrdre": 343592,
-              "content": "<p>Les collaborateurs engagés essentiellement pour tenir l'un des postes prévus à la présente convention, mais provisoirement affectés par l'employeur à un poste d'agent de maîtrise ou de technicien ; soit pour parfaire leur formation professionnelle, soit pour être initiés aux particularités de l'entreprise, devront, pendant toute la durée de ces fonctions provisoires, conserver les avantages attachés à leur fonction essentielle.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
-            },
-            {
-              "id": "KALIARTI000005848090",
-              "num": "5",
-              "intOrdre": 429490,
-              "content": "<p>Les ingénieurs, assimilés et cadres, définis ci-dessus, sont classés dans chaque établissement dans les diverses positions types énumérées ci-dessous en fonction de l'importance réelle du poste tenu par eux et sans qu'il y ait lieu de tenir compte du fait qu'ils sont ou non titulaires d'un diplôme (exception faite des ingénieurs et assimilés énumérés à la position A), toute autre considération étant exclue.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
-            },
-            {
-              "id": "KALIARTI000005848092",
-              "num": "6",
-              "intOrdre": 515388,
-              "content": "<p></p>   Les positions types ci-dessous constituent des repères indépendants les uns des autres qui peuvent exister ou non simultanément dans le même établissement.<p></p><p></p>   Chacune d'elles situe la position des collaborateurs dont les fonctions correspondent ou peuvent, en raison des connaissances qu'elles exigent et des responsabilités qu'elles entraînent, être assimilées à celles qu'elle définit ; les autres agents dont les fonctions ne correspondent ni ne sont assimilables à celles données par les définitions se situeront dans les intervalles.<p></p>",
-              "etat": "VIGUEUR_ETEN",
-              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
-            },
-            {
-              "id": "KALIARTI000005848096",
-              "num": "8",
-              "intOrdre": 644235,
-              "content": "<p></p>   Les appointements minima sont les appointements mensuels au-dessous desquels un ingénieur, assimilé ou cadre ne peut être rémunéré. Dans ce minimum sont comprises toutes les majorations qui auraient été accordées antérieurement à la date de la présente convention, soit en application de décisions prises dans le cadre de la réglementation en vigueur, soit sous forme de primes, allocations, indemnités ou gratifications fixes ayant le caractère de fait d'un complément de salaires, y compris l'allocation dite du treizième mois, à l'exception des allocations destinées à encourager la famille ou la natalité.<p></p><p></p>",
-              "etat": "VIGUEUR_ETEN",
-              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
-            },
-            {
-              "id": "KALIARTI000005848100",
-              "num": "10",
-              "intOrdre": 816031,
-              "content": "<p>Les appointements effectifs de chacun des collaborateurs ressortissants à la présente convention collective pourront s'échelonner à partir du minimum prévu pour ses positions types, échelon et catégorie sans limitation supérieure, le minimum d'une position ne constituant pas le maximum des positions inférieures.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
-            },
-            {
-              "id": "KALIARTI000005848102",
-              "num": "11",
-              "intOrdre": 901929,
-              "content": "<p></p>   Chaque engagement de l'un des collaborateurs visés par la présente convention, ainsi que toute modification survenant dans ses fonctions et entraînant un changement d'appointements ou bien d'attributions, fera l'objet d'une notification écrite à l'intéressé.<p></p><p></p>   Il en sera de même du classement intervenu à son sujet en application des dispositions ci-dessus. Cette notification définira d'une façon précise les fonctions du collaborateur, la position type, l'échelon et la catégorie dans lesquels il est classé et le montant de ses appointements, en précisant l'horaire correspondant.<p></p><p></p>   L'intéressé devra accuser réception de ces notifications.<p></p>",
-              "etat": "VIGUEUR_ETEN",
-              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
-            },
-            {
-              "id": "KALIARTI000005848104",
-              "num": "12",
-              "intOrdre": 987827,
-              "content": "<p></p>   Lorsqu'un des collaborateurs intéressés estimera que le classement dont il a été l'objet ne le situe pas dans la position type, échelon et catégorie correspondant à ses fonctions, il pourra, dans le délai d'un mois qui suivra le refus opposé à sa demande par le chef d'entreprise, soumettre son cas à une commission paritaire régionale de conciliation composée d'un représentant de chacune des organisations de salariés signataires de la présente convention, d'un ingénieur ou cadre désigné par l'intéressé en cause et d'un nombre égal d'employeurs désignés par les groupements patronaux signataires de la présente convention.<p></p><p></p>   Une tentative de conciliation du litige sera effectuée au préalable par une commission restreinte composée du chef d'entreprise et du collaborateur intéressés, assistés chacun d'un représentant d'une des organisations syndicales signataires de la présente convention collective.<p></p><p></p>   Un procès-verbal succinct constatera soit l'accord réalisé, soit les points de désaccords éventuels et il sera communiqué à la commission plénière.<p></p>",
-              "etat": "VIGUEUR_ETEN",
-              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
-            },
-            {
-              "id": "KALIARTI000005848106",
-              "num": "13",
-              "intOrdre": 1073725,
-              "content": "<p></p>   Les dispositions de la présente convention collective prendront effet à dater de sa publication.<p></p><p></p>",
-              "etat": "VIGUEUR_ETEN",
-              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
-            },
-            {
-              "id": "KALIARTI000005848109",
-              "num": "14",
-              "intOrdre": 1159623,
-              "content": "<p>Les ingénieurs, assimilés ou cadres pour lesquels à l'expiration d'un délai de 2 mois à dater de la signature de la présente convention collective, et eu égard à leur cas particulier, il n'aurait pas été tenu compte, pour la période expirant le 1er avril 1951, des recommandations des circulaires du 19 décembre 1950 de la fédération nationale du bâtiment et des activités annexes pourront porter leur cas devant la commission paritaire prévue par l'article 12 ci-dessus.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
-            },
-            {
-              "id": "KALIARTI000005848111",
-              "num": "15",
-              "intOrdre": 1245521,
-              "content": "<p>Une commission nationale composée des représentants des parties signataires et instituée est sera seule qualifiée pour résoudre les difficultés d'interprétation de la présente convention. Elle pourra également être saisie par les commissions régionales prévues aux articles 12 et 14 ci-dessus lorsque celles-ci n'auront pu résoudre un cas relevant de leur compétence.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000005722796",
+              "type": "section",
               "intOrdre": 558337,
               "title": "Classification",
+              "id": "KALISCTA000005722796",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005848094",
                   "num": "7",
                   "intOrdre": 85898,
@@ -619,12 +568,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005722797",
+              "type": "section",
               "intOrdre": 730133,
               "title": "Coefficients hiérarchiques",
+              "id": "KALISCTA000005722797",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005848098",
                   "num": "9",
                   "intOrdre": 42949,
@@ -633,15 +584,133 @@
                   "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000005848081",
+              "num": "1",
+              "intOrdre": 85898,
+              "content": "<p></p>   Les dispositions de la présente convention ont pour objet de fixer les appointements minimaux des ingénieurs, assimilés et cadres, de l'un ou l'autre sexe, occupés dans les entreprises ou parties d'entreprises définies au champ d'application général de la présente convention collective.<p></p><p></p>",
+              "etat": "VIGUEUR_ETEN",
+              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000005848083",
+              "num": "2",
+              "intOrdre": 171796,
+              "content": "<p></p>   Elles s'appliquent à l'ensemble de la région définie précédemment en ce qui concerne la classification, mais la valeur du point 100 fixée à l'article 9 pourra être différente selon les départements.<p></p><p></p>",
+              "etat": "VIGUEUR_ETEN",
+              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000005848085",
+              "num": "3",
+              "intOrdre": 257694,
+              "content": "<p>Définition. - Pour l'application de la présente convention, sont considérés :</p><p>1° Comme ingénieurs et assimilés (positions A et B) les collaborateurs qui ont une formation technique constatée généralement par l'un des diplômes d'ingénieurs reconnus par la loi (1) ou une formation reconnue équivalente et qui, dans l'un ou l'autre cas, occupent dans l'entreprise un poste où ils mettent en oeuvre les connaissances qu'ils ont acquises ;</p><p>2° Comme cadres (positions C et supérieures) les ingénieurs ou assimilés possédant une formation technique, administrative, juridique, commerciale ou financière, et qui (à l'exception des cas visés plus loin, à l'article 7, position C, 1er et 2e échelons) (2) exercent, par délégation de l'employeur, un commandement sur des ouvriers, employés, techniciens, agents de maîtrise, ingénieurs ou assimilés administratifs ou commerciaux.</p><p>Ne relèvent pas de la présente convention :</p><p>Les titulaires des diplômes ou les possesseurs d'une des formations précisées ci-dessus, lorsque :</p><p>- ou bien ils exercent la totalité des responsabilités qui sont le fait caractéristique de l'autorité patronale ;</p><p>- ou bien ils n'occupent pas, aux termes de leur contrat de travail, des postes nécessitant la mise en oeuvre des connaissances correspondant aux diplômes dont ils sont titulaires.</p><p>Ne sont également pas visés :</p><p>Les directeurs salariés et les cadres supérieurs dont la rémunération est essentiellement basée, d'après le contrat, sur le chiffre d'affaires ou la prospérité de l'établissement, les voyageurs représentants et placiers liés à leur employeur dans les conditions prévues par la loi du 18 juillet 1937 ; les ouvriers, les employés, techniciens, dessinateurs et agents de maîtrise.</p><p></p>",
+              "etat": "VIGUEUR_ETEN",
+              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000005848087",
+              "num": "4",
+              "intOrdre": 343592,
+              "content": "<p>Les collaborateurs engagés essentiellement pour tenir l'un des postes prévus à la présente convention, mais provisoirement affectés par l'employeur à un poste d'agent de maîtrise ou de technicien ; soit pour parfaire leur formation professionnelle, soit pour être initiés aux particularités de l'entreprise, devront, pendant toute la durée de ces fonctions provisoires, conserver les avantages attachés à leur fonction essentielle.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000005848090",
+              "num": "5",
+              "intOrdre": 429490,
+              "content": "<p>Les ingénieurs, assimilés et cadres, définis ci-dessus, sont classés dans chaque établissement dans les diverses positions types énumérées ci-dessous en fonction de l'importance réelle du poste tenu par eux et sans qu'il y ait lieu de tenir compte du fait qu'ils sont ou non titulaires d'un diplôme (exception faite des ingénieurs et assimilés énumérés à la position A), toute autre considération étant exclue.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000005848092",
+              "num": "6",
+              "intOrdre": 515388,
+              "content": "<p></p>   Les positions types ci-dessous constituent des repères indépendants les uns des autres qui peuvent exister ou non simultanément dans le même établissement.<p></p><p></p>   Chacune d'elles situe la position des collaborateurs dont les fonctions correspondent ou peuvent, en raison des connaissances qu'elles exigent et des responsabilités qu'elles entraînent, être assimilées à celles qu'elle définit ; les autres agents dont les fonctions ne correspondent ni ne sont assimilables à celles données par les définitions se situeront dans les intervalles.<p></p>",
+              "etat": "VIGUEUR_ETEN",
+              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000005848096",
+              "num": "8",
+              "intOrdre": 644235,
+              "content": "<p></p>   Les appointements minima sont les appointements mensuels au-dessous desquels un ingénieur, assimilé ou cadre ne peut être rémunéré. Dans ce minimum sont comprises toutes les majorations qui auraient été accordées antérieurement à la date de la présente convention, soit en application de décisions prises dans le cadre de la réglementation en vigueur, soit sous forme de primes, allocations, indemnités ou gratifications fixes ayant le caractère de fait d'un complément de salaires, y compris l'allocation dite du treizième mois, à l'exception des allocations destinées à encourager la famille ou la natalité.<p></p><p></p>",
+              "etat": "VIGUEUR_ETEN",
+              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000005848100",
+              "num": "10",
+              "intOrdre": 816031,
+              "content": "<p>Les appointements effectifs de chacun des collaborateurs ressortissants à la présente convention collective pourront s'échelonner à partir du minimum prévu pour ses positions types, échelon et catégorie sans limitation supérieure, le minimum d'une position ne constituant pas le maximum des positions inférieures.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000005848102",
+              "num": "11",
+              "intOrdre": 901929,
+              "content": "<p></p>   Chaque engagement de l'un des collaborateurs visés par la présente convention, ainsi que toute modification survenant dans ses fonctions et entraînant un changement d'appointements ou bien d'attributions, fera l'objet d'une notification écrite à l'intéressé.<p></p><p></p>   Il en sera de même du classement intervenu à son sujet en application des dispositions ci-dessus. Cette notification définira d'une façon précise les fonctions du collaborateur, la position type, l'échelon et la catégorie dans lesquels il est classé et le montant de ses appointements, en précisant l'horaire correspondant.<p></p><p></p>   L'intéressé devra accuser réception de ces notifications.<p></p>",
+              "etat": "VIGUEUR_ETEN",
+              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000005848104",
+              "num": "12",
+              "intOrdre": 987827,
+              "content": "<p></p>   Lorsqu'un des collaborateurs intéressés estimera que le classement dont il a été l'objet ne le situe pas dans la position type, échelon et catégorie correspondant à ses fonctions, il pourra, dans le délai d'un mois qui suivra le refus opposé à sa demande par le chef d'entreprise, soumettre son cas à une commission paritaire régionale de conciliation composée d'un représentant de chacune des organisations de salariés signataires de la présente convention, d'un ingénieur ou cadre désigné par l'intéressé en cause et d'un nombre égal d'employeurs désignés par les groupements patronaux signataires de la présente convention.<p></p><p></p>   Une tentative de conciliation du litige sera effectuée au préalable par une commission restreinte composée du chef d'entreprise et du collaborateur intéressés, assistés chacun d'un représentant d'une des organisations syndicales signataires de la présente convention collective.<p></p><p></p>   Un procès-verbal succinct constatera soit l'accord réalisé, soit les points de désaccords éventuels et il sera communiqué à la commission plénière.<p></p>",
+              "etat": "VIGUEUR_ETEN",
+              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000005848106",
+              "num": "13",
+              "intOrdre": 1073725,
+              "content": "<p></p>   Les dispositions de la présente convention collective prendront effet à dater de sa publication.<p></p><p></p>",
+              "etat": "VIGUEUR_ETEN",
+              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000005848109",
+              "num": "14",
+              "intOrdre": 1159623,
+              "content": "<p>Les ingénieurs, assimilés ou cadres pour lesquels à l'expiration d'un délai de 2 mois à dater de la signature de la présente convention collective, et eu égard à leur cas particulier, il n'aurait pas été tenu compte, pour la période expirant le 1er avril 1951, des recommandations des circulaires du 19 décembre 1950 de la fédération nationale du bâtiment et des activités annexes pourront porter leur cas devant la commission paritaire prévue par l'article 12 ci-dessus.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000005848111",
+              "num": "15",
+              "intOrdre": 1245521,
+              "content": "<p>Une commission nationale composée des représentants des parties signataires et instituée est sera seule qualifiée pour résoudre les difficultés d'interprétation de la présente convention. Elle pourra également être saisie par les commissions régionales prévues aux articles 12 et 14 ci-dessus lorsque celles-ci n'auront pu résoudre un cas relevant de leur compétence.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
             }
           ]
         },
         {
-          "id": "KALITEXT000005678335",
+          "type": "section",
           "title": "Annexe Ingénieurs, assimilés et cadres, A 2 Classification et accords de salaires Convention collective régionale du 12 avril 1960",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000005678335",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005848113",
               "num": null,
               "intOrdre": 85898,
@@ -653,28 +722,19 @@
           ]
         },
         {
-          "id": "KALITEXT000005678337",
+          "type": "section",
           "title": "Annexe Ingénieurs, assimilés et cadres, A 3 Déplacements hors de la France métropolitaine Avenant n° 85 du 14 mai 1979",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000005678337",
+          "children": [
             {
-              "id": "KALIARTI000005848115",
-              "num": "préambule",
-              "intOrdre": 85898,
-              "content": "<p>Constatant le rôle essentiel, pour le développement des exportations françaises, joué par les personnels IAC qui sont déplacés à l'extérieur par leur entreprise ;</p><p>Reconnaissant la nécessité d'une information aussi complète que possible de ces personnels, préalablement à leur départ, à la fois sur les conditions de vie et sur les conditions et modalités d'exercice de leurs fonctions dans le pays où ils sont envoyés ;</p><p>Reconnaissant comme fondés les souhaits généralement exprimés par les IAC :</p><p>- de conserver pendant leur déplacement des garanties et avantages sociaux équivalents à ceux qu'ils posséderaient en métropole ;</p><p>- de bénéficier pendant leur séjour à l'extérieur de conditions d'emploi compatibles avec les exigences de la vie familiale ;</p><p>- de recevoir une rémunération qui tienne compte des servitudes et des avantages inhérents à l'exercice hors de la métropole de leurs fonctions ;</p><p>- de retrouver à leur retour les garanties et avantages dont ils seraient bénéficiaires s'ils n'avaient pas quitté la métropole ;</p><p>Conscientes cependant qu'en raison :</p><p>- d'une part, de l'extrême diversité des conditions de vie et de travail suivant les pays où sont envoyés les IAC ;</p><p>- d'autre part, de l'obligation de se soumettre à la législation du travail en vigueur dans les pays d'accueil,</p><p>il n'est pas possible de déterminer d'une manière uniforme et avec précision les conditions d'emploi de ces personnels, comme c'est habituellement le cas d'un accord collectif de travail s'appliquant en métropole,</p><p>Sont convenues d'adopter le texte ci-après, dénommé \" Déplacements hors métropole \".</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "3e PARTIE : DEPLACEMENTS HORS DE LA FRANCE METROPOLITAINE",
-              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000005722799",
+              "type": "section",
               "intOrdre": 128847,
               "title": "I. - Champ d'application",
+              "id": "KALISCTA000005722799",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005848117",
                   "num": "1er",
                   "intOrdre": 85898,
@@ -685,12 +745,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005722800",
+              "type": "section",
               "intOrdre": 171796,
               "title": "II - Contrat de travail",
+              "id": "KALISCTA000005722800",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000024281020",
                   "num": null,
                   "intOrdre": 42949,
@@ -698,6 +760,7 @@
                   "etat": "VIGUEUR_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000005848119",
                   "num": "2",
                   "intOrdre": 85898,
@@ -706,6 +769,7 @@
                   "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000005848121",
                   "num": "3",
                   "intOrdre": 171796,
@@ -714,6 +778,7 @@
                   "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000005848123",
                   "num": "4",
                   "intOrdre": 257694,
@@ -722,6 +787,7 @@
                   "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000005848126",
                   "num": "5",
                   "intOrdre": 343592,
@@ -730,6 +796,7 @@
                   "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000005848128",
                   "num": "6",
                   "intOrdre": 429490,
@@ -738,6 +805,7 @@
                   "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000005848130",
                   "num": "7",
                   "intOrdre": 515388,
@@ -746,6 +814,7 @@
                   "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000005848132",
                   "num": "8",
                   "intOrdre": 601286,
@@ -756,12 +825,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005722801",
+              "type": "section",
               "intOrdre": 214745,
               "title": "III - Situation au retour en métropole",
+              "id": "KALISCTA000005722801",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005848135",
                   "num": "9",
                   "intOrdre": 85898,
@@ -770,6 +841,7 @@
                   "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000005848137",
                   "num": "10",
                   "intOrdre": 171796,
@@ -780,12 +852,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005722802",
+              "type": "section",
               "intOrdre": 257694,
               "title": "IV - Dispositions diverses",
+              "id": "KALISCTA000005722802",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005848139",
                   "num": "11",
                   "intOrdre": 85898,
@@ -794,6 +868,7 @@
                   "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000005848141",
                   "num": "12",
                   "intOrdre": 171796,
@@ -802,6 +877,7 @@
                   "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000005848143",
                   "num": "13",
                   "intOrdre": 257694,
@@ -810,6 +886,7 @@
                   "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000005848145",
                   "num": "14",
                   "intOrdre": 343592,
@@ -820,12 +897,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005722804",
+              "type": "section",
               "intOrdre": 300643,
               "title": "V. - Cas de détachement à l'extérieur dans une autre entreprise",
+              "id": "KALISCTA000005722804",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005848147",
                   "num": "15",
                   "intOrdre": 85898,
@@ -834,6 +913,7 @@
                   "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000005848149",
                   "num": "16",
                   "intOrdre": 171796,
@@ -842,6 +922,7 @@
                   "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000005848151",
                   "num": "17",
                   "intOrdre": 257694,
@@ -850,6 +931,7 @@
                   "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000005848154",
                   "num": "18",
                   "intOrdre": 343592,
@@ -858,16 +940,28 @@
                   "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000005848115",
+              "num": "préambule",
+              "intOrdre": 85898,
+              "content": "<p>Constatant le rôle essentiel, pour le développement des exportations françaises, joué par les personnels IAC qui sont déplacés à l'extérieur par leur entreprise ;</p><p>Reconnaissant la nécessité d'une information aussi complète que possible de ces personnels, préalablement à leur départ, à la fois sur les conditions de vie et sur les conditions et modalités d'exercice de leurs fonctions dans le pays où ils sont envoyés ;</p><p>Reconnaissant comme fondés les souhaits généralement exprimés par les IAC :</p><p>- de conserver pendant leur déplacement des garanties et avantages sociaux équivalents à ceux qu'ils posséderaient en métropole ;</p><p>- de bénéficier pendant leur séjour à l'extérieur de conditions d'emploi compatibles avec les exigences de la vie familiale ;</p><p>- de recevoir une rémunération qui tienne compte des servitudes et des avantages inhérents à l'exercice hors de la métropole de leurs fonctions ;</p><p>- de retrouver à leur retour les garanties et avantages dont ils seraient bénéficiaires s'ils n'avaient pas quitté la métropole ;</p><p>Conscientes cependant qu'en raison :</p><p>- d'une part, de l'extrême diversité des conditions de vie et de travail suivant les pays où sont envoyés les IAC ;</p><p>- d'autre part, de l'obligation de se soumettre à la législation du travail en vigueur dans les pays d'accueil,</p><p>il n'est pas possible de déterminer d'une manière uniforme et avec précision les conditions d'emploi de ces personnels, comme c'est habituellement le cas d'un accord collectif de travail s'appliquant en métropole,</p><p>Sont convenues d'adopter le texte ci-après, dénommé \" Déplacements hors métropole \".</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "3e PARTIE : DEPLACEMENTS HORS DE LA FRANCE METROPOLITAINE",
+              "historique": "Modifié par Accord du 28 juin 1993 étendu par arrêté du 15 novembre 1993 JORF 20 novembre 1993."
             }
           ]
         }
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 3,
       "title": "Textes Salaires",
-      "etat": "VIGUEUR"
+      "id": null,
+      "etat": "VIGUEUR",
+      "children": []
     }
   ]
 }

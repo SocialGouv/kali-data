@@ -1,25 +1,26 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale des personnels des ports de plaisance du 8 mars 2012",
   "id": "KALICONT000005635906",
   "num": "1182",
-  "title": "Convention collective nationale des personnels des ports de plaisance du 8 mars 2012",
   "shortTitle": "Ports De Plaisance",
-  "categorisation": [
-    "Ports de plaisance"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000028967677",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale des personnels des ports de plaisance du 8 mars 2012",
+      "id": "KALITEXT000028967677",
       "etat": "VIGUEUR_ETEN",
-      "sections": [
+      "children": [
         {
-          "id": "KALISCTA000032363883",
+          "type": "section",
           "intOrdre": 2359291,
           "title": "Accord de réécriture",
+          "id": "KALISCTA000032363883",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000028967683",
               "num": "4",
               "intOrdre": 1717986916,
@@ -30,28 +31,21 @@
           ]
         },
         {
-          "id": "KALISCTA000028967684",
+          "type": "section",
           "intOrdre": 2621435,
           "title": "Convention collective nationale du 8 mars 2012",
+          "id": "KALISCTA000028967684",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
-              "id": "KALIARTI000028967687",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p align='left'>Le présent avenant a pour objet de refondre l'ensemble des dispositions de la convention collective nationale des ports de plaisance à l'exception de certaines dispositions. <br/>En conséquence, restent en vigueur : <br/>– l'intégralité de ses dispositions sur la formation professionnelle ; <br/>– l'intégralité de l'annexe sur la classification (annexe I) ; <br/>– l'intégralité de l'annexe sur la grille indiciaire (annexe II) ; <br/>– l'annexe sur la valeur du point (annexe IV) en ses dispositions actuellement applicables et encore en vigueur, soit l'avenant no 85 aux salaires en date du 26 mars 2013 ; <br/>– l'accord relatif à l'égalité professionnelle en date du 26 mars 2013, non encore étendu ; <br/>Les dispositions du présent article annulent et remplacent l'ensemble des dispositions suivantes : <br/>– le préambule ; <br/>– les articles 1 à 4,6 à 9,12 à 28,30 à 47,49 à 52,57 à 60 ; <br/>– <a alt='ANNEXE III (Ab)' href='/affichIDCC.do?cidTexte=KALITEXT000005643767&categorieLien=cid'>l'annexe III sur le personnel d'encadrement </a>; <br/>– <a alt='ANNEXE V (Ab)' href='/affichIDCC.do?cidTexte=KALITEXT000005643771&categorieLien=cid'>l'intégralité de l'annexe sur les langues parlées </a>(annexe V) ; <br/>– <a alt='Avenant n° 11 du 30 mars 1989 (Ab)' href='/affichIDCC.do?cidTexte=KALITEXT000005643742&categorieLien=cid'>l'avenant no 11 du 30 mars 1989 relatif à la médaille de la fédération</a>, étendu par arrêté du 19 juillet 1989 ; <br/>– le <a alt='Commission paritaire nationale (Ab)' href='/affichIDCC.do?cidTexte=KALITEXT000005643746&categorieLien=cid'>protocole d'accord du 30 mars 1989 </a>relatif à la commission paritaire nationale, étendu par arrêté du 19 juillet 1989 ; <br/>– l'accord du 29 avril 1989 relatif à la réduction du temps de travail, étendu par arrêté du 4 août 1999, son avenant du 29 avril 2002, étendu par arrêté du 10 juillet 2003, et <a alt='Avenant à l'accord du 29 avril 1999 relatif à l'aménagement et à la réduction du temps de travail (Ab)' href='/affichIDCC.do?cidTexte=KALITEXT000019652760&categorieLien=cid'>son avenant n° 2 du 29 avril 2002</a>, étendu par arrêté du 10 juillet 2003 ; <br/>– <a alt='COMPTE ÉPARGNE - TEMPS (Ab)' href='/affichIDCC.do?cidTexte=KALITEXT000005643777&categorieLien=cid'>l'avenant no 35 du 29 avril 1999 relatif au compte épargne-temps</a>, étendu par arrêté du 4 août 1999 ; <br/>– <a alt='Modernisation de la grille indiciaire et déroulement de carrière (Ab)' href='/affichIDCC.do?cidTexte=KALITEXT000005643763&categorieLien=cid'>l'avenant no 23 du 7 mars 1994 relatif au déroulement de carrière</a>, étendu par arrêté 30 juin 1994, et <a alt='Déroulements de carrière (Ab)' href='/affichIDCC.do?cidTexte=KALITEXT000005643785&categorieLien=cid'>l'avenant no 50 du 24 avril 2003</a>, étendu par arrêté du 7 juin 2004 ;<br/>- les accords, étendus ou non, de la convention collective non cités aux présentes et conclus antérieurement à la date de signature des présentes.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Article préliminaire"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000028967688",
+              "type": "section",
               "intOrdre": 1610743807,
               "title": "Titre Ier Dispositions générales",
+              "id": "KALISCTA000028967688",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028967700",
                   "num": "4",
                   "intOrdre": 2097148,
@@ -62,12 +56,14 @@
               ]
             },
             {
-              "id": "KALISCTA000028967689",
+              "type": "section",
               "intOrdre": 1879113727,
               "title": "Titre II Droit syndical et liberté d'opinion",
+              "id": "KALISCTA000028967689",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028967704",
                   "num": "8",
                   "intOrdre": 2097148,
@@ -78,18 +74,21 @@
               ]
             },
             {
-              "id": "KALISCTA000028967690",
+              "type": "section",
               "intOrdre": 2013298687,
               "title": "Titre III Conditions d'emploi",
+              "id": "KALISCTA000028967690",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000028967705",
+                  "type": "section",
                   "intOrdre": 524287,
                   "title": "Chapitre Ier Contrat de travail",
+                  "id": "KALISCTA000028967705",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000028967732",
                       "num": "14",
                       "intOrdre": 3145722,
@@ -100,12 +99,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000028967706",
+                  "type": "section",
                   "intOrdre": 1048574,
                   "title": "Chapitre II Rupture du contrat de travail",
+                  "id": "KALISCTA000028967706",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000038031971",
                       "num": "18",
                       "intOrdre": 2097148,
@@ -116,12 +117,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000028967707",
+                  "type": "section",
                   "intOrdre": 1572861,
                   "title": "Chapitre III Egalité professionnelle. – Egalité de traitement",
+                  "id": "KALISCTA000028967707",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000028967739",
                       "num": "21",
                       "intOrdre": 1572861,
@@ -134,18 +137,21 @@
               ]
             },
             {
-              "id": "KALISCTA000028967691",
+              "type": "section",
               "intOrdre": 2080391167,
               "title": "Titre IV Durée du travail",
+              "id": "KALISCTA000028967691",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000028967708",
+                  "type": "section",
                   "intOrdre": 524287,
                   "title": "Chapitre Ier Durée du travail",
+                  "id": "KALISCTA000028967708",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000028967743",
                       "num": "25",
                       "intOrdre": 2097148,
@@ -156,12 +162,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000028967709",
+                  "type": "section",
                   "intOrdre": 1048574,
                   "title": "Chapitre II Aménagement du temps de travail",
+                  "id": "KALISCTA000028967709",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000028967747",
                       "num": "29",
                       "intOrdre": 2097148,
@@ -174,18 +182,21 @@
               ]
             },
             {
-              "id": "KALISCTA000028967692",
+              "type": "section",
               "intOrdre": 2113937407,
               "title": "Titre V Congés et suspensions du contrat de travail",
+              "id": "KALISCTA000028967692",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000028967710",
+                  "type": "section",
                   "intOrdre": 524287,
                   "title": "Chapitre Ier Congés et autorisations d'absence",
+                  "id": "KALISCTA000028967710",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000028967752",
                       "num": "34",
                       "intOrdre": 2621435,
@@ -196,12 +207,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000028967711",
+                  "type": "section",
                   "intOrdre": 1048574,
                   "title": "Chapitre II Travail des dimanches et jours fériés",
+                  "id": "KALISCTA000028967711",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000028967753",
                       "num": "35",
                       "intOrdre": 524287,
@@ -212,12 +225,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000028967712",
+                  "type": "section",
                   "intOrdre": 1572861,
                   "title": "Chapitre III Arrêt maladie et maternité",
+                  "id": "KALISCTA000028967712",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000028967755",
                       "num": "37",
                       "intOrdre": 1048574,
@@ -230,12 +245,14 @@
               ]
             },
             {
-              "id": "KALISCTA000028967693",
+              "type": "section",
               "intOrdre": 2130710527,
               "title": "Titre VI Rémunération",
+              "id": "KALISCTA000028967693",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000030788470",
                   "num": "40",
                   "intOrdre": 1572861,
@@ -246,12 +263,14 @@
               ]
             },
             {
-              "id": "KALISCTA000028967694",
+              "type": "section",
               "intOrdre": 2139097087,
               "title": "Titre VII Prévoyance",
+              "id": "KALISCTA000028967694",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028967723",
                   "num": "48",
                   "intOrdre": 1572861,
@@ -262,12 +281,14 @@
               ]
             },
             {
-              "id": "KALISCTA000028967695",
+              "type": "section",
               "intOrdre": 2143290367,
               "title": "Titre VIII Hygiène et sécurité",
+              "id": "KALISCTA000028967695",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028967726",
                   "num": "51",
                   "intOrdre": 1572861,
@@ -276,16 +297,27 @@
                   "surtitre": "Evaluation et prévention des risques professionnels"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000028967687",
+              "num": null,
+              "intOrdre": 524287,
+              "content": "<p align='left'>Le présent avenant a pour objet de refondre l'ensemble des dispositions de la convention collective nationale des ports de plaisance à l'exception de certaines dispositions. <br/>En conséquence, restent en vigueur : <br/>– l'intégralité de ses dispositions sur la formation professionnelle ; <br/>– l'intégralité de l'annexe sur la classification (annexe I) ; <br/>– l'intégralité de l'annexe sur la grille indiciaire (annexe II) ; <br/>– l'annexe sur la valeur du point (annexe IV) en ses dispositions actuellement applicables et encore en vigueur, soit l'avenant no 85 aux salaires en date du 26 mars 2013 ; <br/>– l'accord relatif à l'égalité professionnelle en date du 26 mars 2013, non encore étendu ; <br/>Les dispositions du présent article annulent et remplacent l'ensemble des dispositions suivantes : <br/>– le préambule ; <br/>– les articles 1 à 4,6 à 9,12 à 28,30 à 47,49 à 52,57 à 60 ; <br/>– <a alt='ANNEXE III (Ab)' href='/affichIDCC.do?cidTexte=KALITEXT000005643767&categorieLien=cid'>l'annexe III sur le personnel d'encadrement </a>; <br/>– <a alt='ANNEXE V (Ab)' href='/affichIDCC.do?cidTexte=KALITEXT000005643771&categorieLien=cid'>l'intégralité de l'annexe sur les langues parlées </a>(annexe V) ; <br/>– <a alt='Avenant n° 11 du 30 mars 1989 (Ab)' href='/affichIDCC.do?cidTexte=KALITEXT000005643742&categorieLien=cid'>l'avenant no 11 du 30 mars 1989 relatif à la médaille de la fédération</a>, étendu par arrêté du 19 juillet 1989 ; <br/>– le <a alt='Commission paritaire nationale (Ab)' href='/affichIDCC.do?cidTexte=KALITEXT000005643746&categorieLien=cid'>protocole d'accord du 30 mars 1989 </a>relatif à la commission paritaire nationale, étendu par arrêté du 19 juillet 1989 ; <br/>– l'accord du 29 avril 1989 relatif à la réduction du temps de travail, étendu par arrêté du 4 août 1999, son avenant du 29 avril 2002, étendu par arrêté du 10 juillet 2003, et <a alt='Avenant à l'accord du 29 avril 1999 relatif à l'aménagement et à la réduction du temps de travail (Ab)' href='/affichIDCC.do?cidTexte=KALITEXT000019652760&categorieLien=cid'>son avenant n° 2 du 29 avril 2002</a>, étendu par arrêté du 10 juillet 2003 ; <br/>– <a alt='COMPTE ÉPARGNE - TEMPS (Ab)' href='/affichIDCC.do?cidTexte=KALITEXT000005643777&categorieLien=cid'>l'avenant no 35 du 29 avril 1999 relatif au compte épargne-temps</a>, étendu par arrêté du 4 août 1999 ; <br/>– <a alt='Modernisation de la grille indiciaire et déroulement de carrière (Ab)' href='/affichIDCC.do?cidTexte=KALITEXT000005643763&categorieLien=cid'>l'avenant no 23 du 7 mars 1994 relatif au déroulement de carrière</a>, étendu par arrêté 30 juin 1994, et <a alt='Déroulements de carrière (Ab)' href='/affichIDCC.do?cidTexte=KALITEXT000005643785&categorieLien=cid'>l'avenant no 50 du 24 avril 2003</a>, étendu par arrêté du 7 juin 2004 ;<br/>- les accords, étendus ou non, de la convention collective non cités aux présentes et conclus antérieurement à la date de signature des présentes.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Article préliminaire"
             }
           ]
         },
         {
-          "id": "KALISCTA000029038768",
+          "type": "section",
           "intOrdre": 2883578,
           "title": "Addendum",
+          "id": "KALISCTA000029038768",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000029038769",
               "num": null,
               "intOrdre": 1073741823,
@@ -295,12 +327,14 @@
           ]
         },
         {
-          "id": "KALISCTA000028967686",
+          "type": "section",
           "intOrdre": 3670009,
           "title": "Annexe I : Dispositions propres au personnel d'encadrement",
+          "id": "KALISCTA000028967686",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000028967696",
               "num": null,
               "intOrdre": 524287,
@@ -310,12 +344,14 @@
           ]
         },
         {
-          "id": "KALISCTA000029038766",
+          "type": "section",
           "intOrdre": 1075576828,
           "title": "Table de concordance",
+          "id": "KALISCTA000029038766",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000029038767",
               "num": null,
               "intOrdre": 1073741823,
@@ -325,12 +361,14 @@
           ]
         },
         {
-          "id": "KALISCTA000031414211",
+          "type": "section",
           "intOrdre": 1611530237,
           "title": "ANNEXE V",
+          "id": "KALISCTA000031414211",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000031414212",
               "num": null,
               "intOrdre": 1073741823,
@@ -342,81 +380,19 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000030555433",
-          "title": "Accord du 27 novembre 2014 relatif aux seniors",
-          "dateParution": 1430870400000,
-          "articles": [
-            {
-              "id": "KALIARTI000030555437",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Les partenaires sociaux entendent par seniors les collaborateurs âgés de plus de 50 ans pour l'accès à l'emploi et de plus de 55 ans pour le maintien dans l'emploi.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Définition de la notion de senior"
-            },
-            {
-              "id": "KALIARTI000030555438",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='center'><br/>2.1. Anticipation dans l'évolution des carrières professionnelles (salariés de plus de 45 ans)</p><p align='left'><br/>Il est rappelé aux entreprises de la branche l'importance de déployer une démarche de personnalisation des parcours professionnels en inscrivant ces derniers dans la durée, afin de développer, concernant les seniors :<br/>– leur possibilité d'évolution de carrière ou de maintien dans l'emploi ;<br/>– leur possibilité de mobilité professionnelle ;<br/>– l'aménagement de leur fin de carrière.<br/>Les entreprises se doteront de moyens favorisant le maintien dans l'emploi des seniors et recueilleront toutes les informations utiles à une connaissance précise des compétences de ceux-ci. Ces informations pourront notamment être recueillies à l'occasion de l'entretien professionnel de seconde partie de carrière.<br/>A partir de l'ensemble des informations recueillies, les entreprises de la branche mettront en œuvre des dispositifs de formation de nature à favoriser leur sécurisation professionnelle dans leur emploi, la préparation de leur évolution dans leur emploi ou vers un nouvel emploi.<br/>Un entretien professionnel de seconde partie de carrière est proposé à tout salarié à partir de 45 ans par son responsable hiérarchique et renouvelable par la suite au moins tous les 5 ans, selon le souhait du salarié.<br/>Cet entretien a pour objet de faire le point, au regard de l'évolution des métiers et de ses perspectives d'emploi dans l'entreprise, sur ses compétences, ses besoins de formation, la situation et l'évolution professionnelle du salarié.<br/>Il est distinct de l'entretien annuel d'évaluation et est organisé par un responsable ayant reçu une formation adéquate.<br/>Il se déroule pendant le temps de travail et doit donner lieu à une synthèse écrite confidentielle et signée par les deux parties.<br/>Cet entretien pourra permettre d'identifier les besoins en matière de formation, tant pour adapter le salarié dans son emploi actuel que pour favoriser le cas échéant l'évolution vers un autre emploi.<br/>La branche professionnelle se donne comme objectif que 100 % des collaborateurs d'au moins 45 ans bénéficient d'un entretien professionnel pour la seconde partie de carrière.<br/>Tout salarié bénéficie, sous réserve d'une ancienneté de 1 an, de la possibilité d'un bilan de compétences.<br/>S'il le souhaite, le salarié peut se faire accompagner pour ces différents entretiens par un salarié appartenant à l'entreprise.</p><p align='center'><br/>2.2. Amélioration des conditions de travail et prévention des situations de pénibilité</p><p align='left'><br/>L'amélioration des conditions de travail est essentielle pour améliorer le taux d'emploi des seniors compte tenu des effets du vieillissement, des exigences de compétitivité et des transformations technologiques. Il convient de rechercher la plus grande compatibilité entre le poste de travail et l'évolution des capacités de chaque salarié.<br/>Pour favoriser le maintien dans l'emploi des seniors ou leur reclassement, les entreprises de la branche engageront dans l'année suivant l'entrée en vigueur du présent accord une réflexion dans le but d'aboutir à une réelle amélioration des conditions de travail des seniors, à chaque fois qu'un besoin spécifique aura été identifié, cela quelle que soit leur catégorie, afin de mettre en œuvre des plans d'actions destinés à aménager les postes comportant des facteurs de risques ou d'usure professionnels.<br/>Le CHSCT, le comité d'entreprise ou, à défaut, les délégués du personnel seront associés à cette démarche.<br/>Des actions de prévention des risques professionnels ciblées sur les seniors seront également développées (prise en compte des aspects d'ergonomie, organisation du travail…) en s'appuyant sur les ressources internes (CHSCT ou, à défaut, délégués du personnel, médecin du travail, responsable en charge des aspects techniques…) et externes (CARSAT, ARACT…).<br/>Les entreprises de la profession sont invitées à enrichir le document unique d'évaluation des risques de ces actions.</p><p align='center'><br/>2.3. Développement des compétences et des qualifications et accès à la formation</p><p align='left'><br/>Une part de la formation professionnelle continue doit être réservée aux seniors.<br/>Les demandes de formation présentées par les salariés âgés de 45 ans et plus pour faciliter leur employabilité bénéficieront d'une priorité d'examen et d'accès par l'entreprise.<br/>Les besoins spécifiques en formation des salariés seniors devront être identifiés et faire l'objet d'une affectation spéciale au plan de formation général de l'entreprise.<br/>Les parties signataires affirment le caractère prioritaire qu'elles entendent donner aux salariés de plus de 45 ans dans l'accès au dispositif de la période de professionnalisation.</p><p align='center'><br/>2.4. Aménagement des fins de carrière</p><p align='left'><br/>Conformément aux dispositions législatives et réglementaires, le dispositif du compte épargne-temps, lorsqu'il existe au sein d'une entreprise, peut être utilisé par les seniors comme congé de fin de carrière.<br/>De plus, afin d'accroître leurs droits au congé de fin de carrière, les seniors qui le souhaitent pourront demander à transformer leur indemnité de départ à la retraite en congé de fin de carrière.</p><p align='center'><br/>2.5. Transmission des savoirs, des compétences et développement du tutorat</p><p align='left'><br/>Les parties signataires entendent valoriser et reconnaître les missions exercées dans le cadre du tutorat.<br/>Elles souhaitent rappeler l'importance de ce dispositif, notamment dans le cadre des formations en alternance (contrat/période de professionnalisation, apprentissage). De façon à valoriser la fonction tutorale du senior, tout tuteur âgé de 55 ans et plus pourra bénéficier, au même titre que les autres tuteurs, d'un aménagement de son temps de travail et d'une formation adéquate pour exercer sa mission.<br/>Les seniors expérimentés pourront être sollicités pour participer à des jurys d'examen (CQP, etc.).</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Domaine d'action en faveur des seniors"
-            },
-            {
-              "id": "KALIARTI000030555439",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>L'observatoire devra tenir compte dans ses rubriques de ces nouveaux objectifs.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Indicateurs chiffrés"
-            },
-            {
-              "id": "KALIARTI000030555440",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Dans les entreprises d'au moins 50 salariés, un comité du suivi du présent accord sera mis en place.<br/>Sa composition et ses modalités de fonctionnement seront déterminées dans chaque entreprise.<br/>Au niveau de la branche professionnelle, un suivi régulier du présent accord sera effectué au sein de la commission sociale paritaire.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Suivi de l'accord"
-            },
-            {
-              "id": "KALIARTI000030555441",
-              "num": "5",
-              "intOrdre": 3145722,
-              "content": "<p align='left'><br/>Le présent accord est conclu pour une durée déterminée de 3 ans à compter de son entrée en vigueur, soit à partir du 1er janvier 2015.<br/>Les accords d'entreprise, d'établissement ou de groupe ne peuvent déroger aux dispositions du présent accord que dans un sens plus favorable aux salariés.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Durée et portée de l'accord"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000030555436",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000030555442",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>L'amélioration du taux d'emploi des seniors constitue pour notre pays un enjeu majeur, compte tenu des constats démographiques, et un levier de croissance à moyen terme et à long terme pour les entreprises de la branche.<br/>Il convient de souligner l'importance de l'expérience et des connaissances détenues par les salariés seniors, éléments de richesse de l'entreprise devant être reconnus, préservés et transmis.<br/>Le présent accord souhaite participer à l'évolution nécessaire des mentalités collectives vis-à-vis des seniors dans le monde du travail en favorisant leur accès et leur maintien dans l'emploi jusqu'à leur retraite à taux plein.<br/>En conséquence, les parties signataires entendent que les mesures prises dans le cadre de cet accord favorisent le maintien et l'élévation du taux d'emploi des salariés seniors de la profession.<br/>Par le présent accord, les entreprises de la branche s'engagent :<br/>– à prendre toutes les mesures nécessaires pour élever leur taux d'emploi des seniors ;<br/>– à donner aux salariés des perspectives d'évolution, notamment dans leur seconde partie de carrière ;<br/>– à sécuriser les parcours professionnels par la mise en place d'une gestion prévisionnelle des emplois et des compétences et de l'entretien professionnel à partir de 45 ans ;<br/>– à développer le tutorat pour permettre aux salariés seniors de transmettre leur savoir ;<br/>– à soumettre des possibilités d'aménagement de fin de carrière de leurs salariés, pour éviter l'usure au travail ;<br/>– et, d'une manière générale, à mettre en place des pistes en vue d'un plan d'action pour l'emploi et la formation des seniors.<br/>Les présentes dispositions s'inscrivent dans le cadre des mesures prévues par l'accord national interprofessionnel du 13 octobre 2005 relatif à l'emploi des seniors ainsi que des dispositions légales subséquentes.</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000037940342",
+          "type": "section",
           "title": "Accord-cadre du 20 juin 2018 relatif à la négociation collective à partir de 2018",
-          "dateParution": 1546473600000,
-          "articles": [
+          "id": "KALITEXT000037940342",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000037940345",
               "num": null,
               "intOrdre": 524287,
@@ -424,6 +400,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037940348",
               "num": "1er",
               "intOrdre": 1048574,
@@ -432,6 +409,7 @@
               "surtitre": "Détermination des thèmes de négociation au sein de la branche et périodicité"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037940350",
               "num": "2",
               "intOrdre": 1572861,
@@ -440,6 +418,7 @@
               "surtitre": "Sécurisation des dispositions édictées dans la convention collective nationale des ports de plaisance"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037940351",
               "num": "3",
               "intOrdre": 2097148,
@@ -448,6 +427,7 @@
               "surtitre": "Dispositions relatives au contrat à durée déterminée et aux contrats de travail temporaire"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037940352",
               "num": "4",
               "intOrdre": 2621435,
@@ -456,6 +436,7 @@
               "surtitre": "Dispositions relatives aux indemnités de rupture du contrat de travail en cas de licenciement"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037940354",
               "num": "5",
               "intOrdre": 3145722,
@@ -464,6 +445,7 @@
               "surtitre": "Dispositions spécifiques pour les entreprises de moins de 50 salariés"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037940356",
               "num": "6",
               "intOrdre": 3670009,
@@ -472,6 +454,7 @@
               "surtitre": "Durée de l'accord"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037940357",
               "num": "7",
               "intOrdre": 4194296,
@@ -482,11 +465,81 @@
           ]
         },
         {
-          "id": "KALITEXT000036564278",
-          "title": "Avenant du 18 octobre 2017 relatif à la nomenclature des emplois",
-          "dateParution": 1517443200000,
-          "articles": [
+          "type": "section",
+          "title": "Accord-cadre du 6 décembre 2017 relatif au travail saisonnier",
+          "id": "KALITEXT000036827918",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000036827921",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000036827927",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'><br/>Au regard des articles <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901195&dateTexte=&categorieLien=cid'>L. 1242-2,3°</a>, et <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901255&dateTexte=&categorieLien=cid'>L. 1251-6</a>,3°, du code du travail, un contrat de travail à durée déterminée peut être conclu pour des emplois saisonniers dont les tâches sont appelées à se répéter chaque année selon une périodicité à peu près fixe, en fonction du rythme des saisons ou des modes de vie collectifs. <br/>Cette variation d'effectifs est indépendante de la volonté de l'employeur. <br/>Au regard de cette définition, la branche des ports de plaisance emploie, à titre régulier, tous les ans, des contrats saisonniers. <br/>En conséquence, les parties signataires ont décidé de négocier un accord collectif afin d'encadrer ce contrat de travail à durée déterminée et de garantir le droit des travailleurs saisonniers. <br/>Cet accord est d'application directe dans l'ensemble des entreprises de la branche quels que soient leurs effectifs.</p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036827922",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>Comme pour tout salarié, l'entreprise devra procéder à l'établissement du contrat de travail mentionnant toutes les clauses obligatoires ainsi qu'à toutes les formalités liées à l'embauche (déclaration préalable auprès de l'URSSAF compétent, registre du personnel, médecine du travail…).<br/>Le contrat de travail devra comporter la durée de la saison.<br/>Il devra également préciser l'objet du contrat (saison).<br/>Le salarié saisonnier bénéficie des mêmes droits et obligations que tout salarié lié par un contrat de travail.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Contrat de travail"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036827923",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>L'employeur qui a embauché un salarié en contrat saisonnier se voit dans l'obligation de motiver un éventuel refus d'embauche pour un emploi de même nature pour la saison de l'année suivante dès lors que ce salarié postule à cet emploi.<br/>La notification de ce refus devra préciser les motifs de celui-ci.<br/>Le salarié devra en être informé dans le mois suivant sa demande.<br/>Cette procédure est identique dès lors qu'un emploi de même nature en contrat à durée déterminée ou en contrat à durée indéterminée se libère dans l'entreprise.<br/>Pour calculer l'ancienneté du salarié, les durées de contrats de travail à caractère saisonnier successifs dans une même entreprise sont cumulées.<br/>Cette ancienneté devra également être prise en compte pour l'établissement du coefficient dans le cadre d'une embauche en contrat à durée indéterminée.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Priorité d'emploi"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036827924",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Les personnes employées en contrat saisonnier bénéficient des mêmes facilités d'accès et des mêmes droits à la formation que tout salarié de l'entreprise.<br/>Un contrat à durée déterminée peut être conclu pendant l'intersaison afin de permettre au salarié de participer à une action de formation prévue au plan de formation de l'entreprise.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Accès a la formation"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036827925",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Le bilan de l'exécution de cet accord sera fait chaque année par les signataires du présent accord.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Bilan"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036827926",
+              "num": "5",
+              "intOrdre": 3145722,
+              "content": "<p align='left'><br/>Le présent accord est conclu pour une durée déterminée de 3 ans.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Durée"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant du 18 octobre 2017 relatif à la nomenclature des emplois",
+          "id": "KALITEXT000036564278",
+          "children": [
+            {
+              "type": "article",
               "id": "KALIARTI000036564281",
               "num": null,
               "intOrdre": 524287,
@@ -494,6 +547,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036564288",
               "num": "1er",
               "intOrdre": 1048574,
@@ -502,6 +556,7 @@
               "surtitre": "Généralités"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036564289",
               "num": "2",
               "intOrdre": 1572861,
@@ -510,6 +565,7 @@
               "surtitre": "Critères classants"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036564290",
               "num": "3",
               "intOrdre": 2097148,
@@ -518,6 +574,7 @@
               "surtitre": "Famille professionnelle et métiers repères"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036564291",
               "num": "4",
               "intOrdre": 2621435,
@@ -526,6 +583,7 @@
               "surtitre": "Catégories professionnelles et échelons"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036564292",
               "num": "5",
               "intOrdre": 3145722,
@@ -534,6 +592,7 @@
               "surtitre": "Organisation de la grille indiciaire"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036564293",
               "num": "6",
               "intOrdre": 3670009,
@@ -542,6 +601,7 @@
               "surtitre": "Grille indiciaire"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036564294",
               "num": "7",
               "intOrdre": 4194296,
@@ -552,17 +612,19 @@
           ]
         },
         {
-          "id": "KALITEXT000035980656",
+          "type": "section",
           "title": "Accord du 8 juin 2017 relatif au cadre sur la pénibilité",
-          "dateParution": 1510012800000,
-          "sections": [
+          "id": "KALITEXT000035980656",
+          "children": [
             {
-              "id": "KALISCTA000035980659",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000035980659",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035980663",
                   "num": null,
                   "intOrdre": 524287,
@@ -572,27 +634,21 @@
               ]
             },
             {
-              "id": "KALISCTA000035980660",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Titre Ier Facteurs de pénibilité au regard des facteurs de risque retenus par la loi",
+              "id": "KALISCTA000035980660",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
-                  "id": "KALIARTI000035980666",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>Au regard de chacun des facteurs de pénibilité identifiés par la loi, chaque entreprise doit procéder à l'évaluation des postes de travail sur la base des seuils définis ci-après, afin de déterminer, pour chaque salarié s'il est ou non exposé à une ou plusieurs situations de pénibilité, compte tenu des tâches qu'il accomplit et de ses conditions de travail et notamment des mesures de prévention déjà mises en œuvre. Cette évaluation doit être menée en cohérence avec le résultat de l'évaluation des risques professionnels concrétisée par le document unique de prévention des risques prévu par le code du travail. Elle doit également donner lieu à consultation des institutions représentatives du personnel.</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ],
-              "sections": [
-                {
-                  "id": "KALISCTA000035980668",
+                  "type": "section",
                   "intOrdre": 1048574,
                   "title": "1. Pénibilité liée à des contraintes physiques marquées",
+                  "id": "KALISCTA000035980668",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035980679",
                       "num": null,
                       "intOrdre": 524287,
@@ -602,12 +658,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000035980669",
+                  "type": "section",
                   "intOrdre": 1572861,
                   "title": "2. Pénibilité liée à un environnement physique agressif",
+                  "id": "KALISCTA000035980669",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035980681",
                       "num": null,
                       "intOrdre": 524287,
@@ -617,12 +675,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000035980670",
+                  "type": "section",
                   "intOrdre": 2097148,
                   "title": "3. Rythmes de travail",
+                  "id": "KALISCTA000035980670",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035980684",
                       "num": null,
                       "intOrdre": 524287,
@@ -630,31 +690,33 @@
                       "etat": "VIGUEUR_ETEN"
                     }
                   ]
+                },
+                {
+                  "type": "article",
+                  "id": "KALIARTI000035980666",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'><br/>Au regard de chacun des facteurs de pénibilité identifiés par la loi, chaque entreprise doit procéder à l'évaluation des postes de travail sur la base des seuils définis ci-après, afin de déterminer, pour chaque salarié s'il est ou non exposé à une ou plusieurs situations de pénibilité, compte tenu des tâches qu'il accomplit et de ses conditions de travail et notamment des mesures de prévention déjà mises en œuvre. Cette évaluation doit être menée en cohérence avec le résultat de l'évaluation des risques professionnels concrétisée par le document unique de prévention des risques prévu par le code du travail. Elle doit également donner lieu à consultation des institutions représentatives du personnel.</p>",
+                  "etat": "VIGUEUR_ETEN"
                 }
               ]
             },
             {
-              "id": "KALISCTA000035980661",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Titre II Mesures et actions de prévention",
+              "id": "KALISCTA000035980661",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
-                  "id": "KALIARTI000035980671",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'>L'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000029561404&dateTexte=&categorieLien=cid'>article D. 4163-3 du code du travail</a> impose à l'accord de traiter :</p><p align='left'>D'une part, au moins l'un des thèmes suivants :<br/>\n– la réduction des polyexpositions aux facteurs de risques définis à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000029560224&dateTexte=&categorieLien=cid'>article D. 4161-2 du code du travail</a> ;<br/>\n– l'adaptation et l'aménagement du poste de travail ;</p><p align='left'>D'autre part, au moins deux des thèmes suivants :<br/>\n– l'amélioration des conditions de travail, notamment au plan organisationnel ;<br/>\n– le développement des compétences et des qualifications ;<br/>\n– l'aménagement des fins de carrière ;<br/>\n– le maintien en activité des salariés exposés aux facteurs de risques mentionnés à l'article D. 4161-2 du code du travail.</p><p align='left'>À chacun de ces domaines d'action doit être associé un objectif chiffré, mesuré au moyen d'indicateurs.</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ],
-              "sections": [
-                {
-                  "id": "KALISCTA000035980675",
+                  "type": "section",
                   "intOrdre": 1048574,
                   "title": "1. Aménagement et adaptation des postes de travail",
+                  "id": "KALISCTA000035980675",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035980686",
                       "num": null,
                       "intOrdre": 524287,
@@ -664,12 +726,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000035980676",
+                  "type": "section",
                   "intOrdre": 1572861,
                   "title": "2. Amélioration des conditions de travail",
+                  "id": "KALISCTA000035980676",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035980687",
                       "num": null,
                       "intOrdre": 524287,
@@ -679,12 +743,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000035980677",
+                  "type": "section",
                   "intOrdre": 2097148,
                   "title": "3. Développement des compétences et des qualifications",
+                  "id": "KALISCTA000035980677",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000035980688",
                       "num": null,
                       "intOrdre": 524287,
@@ -692,16 +758,26 @@
                       "etat": "VIGUEUR_ETEN"
                     }
                   ]
+                },
+                {
+                  "type": "article",
+                  "id": "KALIARTI000035980671",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'>L'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000029561404&dateTexte=&categorieLien=cid'>article D. 4163-3 du code du travail</a> impose à l'accord de traiter :</p><p align='left'>D'une part, au moins l'un des thèmes suivants :<br/>\n– la réduction des polyexpositions aux facteurs de risques définis à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000029560224&dateTexte=&categorieLien=cid'>article D. 4161-2 du code du travail</a> ;<br/>\n– l'adaptation et l'aménagement du poste de travail ;</p><p align='left'>D'autre part, au moins deux des thèmes suivants :<br/>\n– l'amélioration des conditions de travail, notamment au plan organisationnel ;<br/>\n– le développement des compétences et des qualifications ;<br/>\n– l'aménagement des fins de carrière ;<br/>\n– le maintien en activité des salariés exposés aux facteurs de risques mentionnés à l'article D. 4161-2 du code du travail.</p><p align='left'>À chacun de ces domaines d'action doit être associé un objectif chiffré, mesuré au moyen d'indicateurs.</p>",
+                  "etat": "VIGUEUR_ETEN"
                 }
               ]
             },
             {
-              "id": "KALISCTA000035980662",
+              "type": "section",
               "intOrdre": 2097148,
               "title": "Titre III Suivi de l'accord",
+              "id": "KALISCTA000035980662",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035980678",
                   "num": null,
                   "intOrdre": 524287,
@@ -713,121 +789,19 @@
           ]
         },
         {
-          "id": "KALITEXT000033860405",
-          "title": "Accord du 20 septembre 2016 relatif aux frais de santé",
-          "dateParution": 1484179200000,
-          "articles": [
-            {
-              "id": "KALIARTI000033860409",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Le présent accord a pour objet la définition des garanties collectives et obligatoires de remboursement complémentaire de frais de santé dont bénéficient les salariés définis à l'article 46 de la convention collective et d'organiser les modalités de leur financement.<br/>Les entreprises doivent respecter l'intégralité des dispositions instaurées par le présent accord. En application des <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901774&dateTexte=&categorieLien=cid'>dispositions des articles L. 2253-1 à L. 2253-3 du code du travail</a>, il est expressément stipulé « qu'aucun système de garanties ne peut avoir pour conséquence de déroger aux dispositions du présent accord de manière moins favorable aux salariés. »</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Objet"
-            },
-            {
-              "id": "KALIARTI000033860411",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Entrent dans le champ d'application du présent accord tous les salariés cadres et non cadres des entreprises relevant de la convention collective nationale des ports de plaisance.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Champ d'application"
-            },
-            {
-              "id": "KALIARTI000033860412",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Les entreprises relevant du champ d'application du présent accord sont tenues de souscrire un contrat auprès d'un organisme assureur habilité en vue de procurer aux salariés bénéficiaires les prestations d'assurance définies à l'article 46.<br/>Le régime de remboursement des frais de santé permet d'accorder aux salariés le remboursement de frais de santé en complément des prestations de la sécurité sociale dans le cadre d'un contrat collectif obligatoire.<br/>Les contrats de prévoyance souscrits par les ports de plaisance doivent comporter des dispositions assurant le remboursement des frais de santé des salarié(e)s sur la base du ticket modérateur, assorti d'un dispositif de tiers payant.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Couverture conventionnelle obligatoire"
-            },
-            {
-              "id": "KALIARTI000033860413",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Sous réserve des dispositions des alinéas ci-dessous, bénéficie obligatoirement des garanties, l'ensemble du personnel des entreprises relevant du champ d'application défini à l'article 2 du présent accord, <i>et ayant au moins 12 mois civils entiers d'emploi dans une même entreprise</i> <a shape='rect' href='#RENVOI_KALIARTI000033860413_1'> (1)</a>. <br/>Les salariés disposent de facultés de dispense d'adhésion, sous réserve d'en faire la demande écrite auprès de l'employeur, accompagnée des pièces justifiant du fait qu'ils sont couverts par ailleurs, lorsque cette condition supplémentaire est requise. <br/>Ces possibilités de dispense concernent les situations limitativement énumérées ci-après : <br/>– le salarié qui bénéficie par ailleurs d'une couverture collective même en qualité d'ayant droit ; <br/>– les salariés en contrat à durée déterminée de moins d'un an ; <br/>– les salariés à temps partiel dont la cotisation équivaut à au moins 10 % du salaire ; <br/>– les salariés bénéficiaires de la couverture maladie universelle complémentaire (CMU-C). <br/>Le contrat souscrit par les ports de plaisance doit comporter une possibilité d'option pour l'adhésion des ayants droit des salariés.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000033860413_1'></a>(1) Les mots : « et ayant au moins 12 mois civils entiers d'emploi dans une même entreprise » sont exclus de l'extension comme étant contraires aux dispositions de l'article L. 911-1 du code de la sécurité sociale.  <br/>(Arrêté du 28 avril 2017 - art. 1)</em></font></p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Bénéficiaires"
-            },
-            {
-              "id": "KALIARTI000033860414",
-              "num": "5",
-              "intOrdre": 3145722,
-              "content": "<p align='left'><br/>Pour les salariés bénéficiaires, comme définis à l'article 4, les garanties prennent effet, selon le cas, à :<br/>– la date d'embauche ;<br/>– la date à laquelle le salarié cesse de bénéficier d'une dispense d'affiliation, le cas échéant.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Date d'effet"
-            },
-            {
-              "id": "KALIARTI000033860415",
-              "num": "6",
-              "intOrdre": 3670009,
-              "content": "<p align='left'><br/>Le régime de remboursement des frais de santé permet d'accorder aux salariés le remboursement des frais de santé en complément des prestations de la Sécurité Sociale dans le cadre collectif obligatoire.<br/>Ces garanties doivent être conformes au panier de soins défini par l'accord national interprofessionnel du 11 janvier 2013 modifié par le <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000029434975&categorieLien=cid'>décret n° 2014-1025 du 8 septembre 2014</a>.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Garanties"
-            },
-            {
-              "id": "KALIARTI000033860418",
-              "num": "7",
-              "intOrdre": 4194296,
-              "content": "<p align='left'><br/>Sauf lorsque ces périodes donnent lieu au maintien de rémunération par l'employeur ou indemnisation de la sécurité sociale, les garanties du salarié sont suspendues lorsque son contrat de travail est suspendu, notamment à l'occasion :<br/>– d'un congé sabbatique visé à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902762&dateTexte=&categorieLien=cid'>article L. 3142-91 du code du travail</a> ;<br/>– d'un congé pour création d'entreprise visé à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902746&dateTexte=&categorieLien=cid'>article L. 3142-78 du code du travail</a> ;<br/>– d'un congé parental d'éducation visé à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006900929&dateTexte=&categorieLien=cid'>article L. 1225-47 du code du travail</a> ;<br/>– de tout congé sans solde légal du salarié visé par le code du travail.<br/>La suspension intervient à la date de cessation de l'activité professionnelle et s'achève dès la reprise effective du travail par l'intéressé au sein de l'entreprise relevant du champ d'application du présent accord.<br/>Pendant la période de suspension de la garantie, aucune cotisation n'est due au titre de l'intéressé. Toutefois, le contrat des garanties collectives souscrit par l'entreprise devra prévoir la faculté pour les salariés en période de suspension du contrat de travail ne donnant pas lieu à maintien de la garantie, d'obtenir le maintien de la garantie, moyennant le paiement intégral de la cotisation prévue pour l'ensemble des salariés.<br/>La notice d'information rédigée par l'assureur devra expressément rappeler cette faculté et ses conditions de mise en œuvre.<br/>Le salarié devra formuler sa demande au plus tard 1 mois après le début du congé non rémunéré.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Périodes de suspension du contrat de travail"
-            },
-            {
-              "id": "KALIARTI000033860423",
-              "num": "8",
-              "intOrdre": 4718583,
-              "content": "<p align='left'><br/>L'obligation de couverture des employeurs cesse pour chaque salarié : <br/>– en cas de cessation du contrat de travail, notamment en cas de départ à la retraite (sauf cumul emploi-retraite), de démission, de licenciement ou de rupture conventionnelle, sans préjudice du bénéfice de la portabilité de ses garanties frais de santé en cas de chômage et du maintien à titre individuel de ses garanties ; <br/>– en cas de décès du salarié ; <br/>– <i>en cas de dénonciation du présent accord collectif à l'issue de la période de survie de l'accord dans les conditions énoncées aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid'>dispositions des articles L. 2261-9 et suivants du code du travail </a>(s'agissant des niveaux de prestations définis au présent accord)</i> <a shape='rect' href='#RENVOI_KALIARTI000033860423_1'> (1)</a>. <br/>L'obligation de couverture des employeurs cesse d'être accordée au salarié à l'expiration du mois au cours duquel prend fin le contrat de travail qui le lie à l'entreprise relevant du champ d'application du présent accord, sous réserve des dispositions ci-après relatives à la portabilité des garanties ainsi qu'au maintien à titre individuel des garanties.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000033860423_1'></a>(1) Les mots : « en cas de dénonciation du présent accord collectif à l'issue de la période de survie de l'accord dans les conditions énoncées aux dispositions des articles L. 2261-9 et suivant du code du travail (s'agissant des niveaux de prestations définis au présent accord) » sont exclus de l'extension comme étant contraires aux dispositions de l'article L. 911-7 du code de la sécurité sociale.  <br/>(Arrêté du 28 avril 2017 - art. 1)</em></font></p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Cessation des garanties"
-            },
-            {
-              "id": "KALIARTI000033860425",
-              "num": "9",
-              "intOrdre": 5242870,
-              "content": "<p align='left'><br/>En application de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000027549127&dateTexte=&categorieLien=cid'>article L. 911-8 du code de la sécurité sociale</a>, les salariés relevant du présent accord bénéficient d'un régime de portabilité des droits dans certains cas de cessation du contrat de travail ouvrant droit à l'assurance chômage.<br/>La durée du maintien des garanties est portée au double de celle prévue par l'article L. 911-8 du code de la sécurité sociale, dans la limite de 12 mois.<br/>Les garanties conventionnelles étant dues au salarié jusqu'au terme du mois civil au cours duquel son contrat de travail est rompu ou prend fin, le maintien des garanties au titre de la portabilité prend effet le premier jour du mois civil suivant la date de rupture ou de fin du contrat de travail ouvrant droit à la portabilité.<br/>La notice d'information rédigée par l'assureur devra décrire précisément les dispositifs de maintien des garanties dont bénéficie le salarié.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Portabilité des garanties conventionnelles obligatoires de frais de santé"
-            },
-            {
-              "id": "KALIARTI000033860428",
-              "num": "10",
-              "intOrdre": 5767157,
-              "content": "<p align='left'><br/>La répartition des cotisations sera faite dans chaque port de plaisance selon ses règles propres sans que la part salariale excède 50 % du montant total des cotisations.<br/>Le montant des cotisations doit correspondre au minimum à 1 % du plafond mensuel de la sécurité sociale.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Paiement des cotisations"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000033860408",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000033860429",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>Après avoir rappelé que :<br/>La convention collective nationale des ports de plaisance a créé un régime de frais de santé pour répondre, autant qu'il est possible, aux attentes que nombre d'entreprises et de salariés ont exprimées sur l'amélioration de certains niveaux de prestations en matière de santé.<br/>Les modifications législatives ont obligé les partenaires sociaux à étudier de nouveau les articles concernés afin de les mettre en conformité avec les nouvelles dispositions.</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000033860386",
+          "type": "section",
           "title": "Accord du 20 septembre 2016 relatif à la pénibilité",
-          "dateParution": 1484179200000,
-          "sections": [
+          "id": "KALITEXT000033860386",
+          "children": [
             {
-              "id": "KALISCTA000033860389",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000033860389",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000033860392",
                   "num": null,
                   "intOrdre": 524287,
@@ -837,27 +811,21 @@
               ]
             },
             {
-              "id": "KALISCTA000033860390",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Titre Ier Critères de pénibilité au regard des facteurs de risque retenus par la loi",
+              "id": "KALISCTA000033860390",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
-                  "id": "KALIARTI000033860394",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>Au regard de chacun des facteurs de pénibilité identifié par la loi, chaque entreprise doit procéder à l'évaluation des postes de travail sur la base des seuils définis ci-après, afin de déterminer, pour chaque salarié s'il est ou non exposé à une ou plusieurs situations de pénibilité, compte tenu des tâches qu'il accomplit et de ses conditions de travail et notamment des mesures de prévention déjà mises en œuvre. Cette évaluation doit être menée en cohérence avec le résultat de l'évaluation des risques professionnels concrétisée par le document unique de prévention des risques prévu par le code du travail. Elle doit également donner lieu à consultation des institutions représentatives du personnel.</p>",
-                  "etat": "VIGUEUR_NON_ETEN"
-                }
-              ],
-              "sections": [
-                {
-                  "id": "KALISCTA000033860396",
+                  "type": "section",
                   "intOrdre": 1048574,
                   "title": "1. Pénibilité liée à des contraintes physiques marquées",
+                  "id": "KALISCTA000033860396",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860399",
                       "num": null,
                       "intOrdre": 524287,
@@ -867,12 +835,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000033860397",
+                  "type": "section",
                   "intOrdre": 1572861,
                   "title": "2. Pénibilité liée à un environnement physique agressif",
+                  "id": "KALISCTA000033860397",
                   "etat": "VIGUEUR_NON_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000033860401",
                       "num": null,
                       "intOrdre": 524287,
@@ -880,16 +850,26 @@
                       "etat": "VIGUEUR_NON_ETEN"
                     }
                   ]
+                },
+                {
+                  "type": "article",
+                  "id": "KALIARTI000033860394",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'><br/>Au regard de chacun des facteurs de pénibilité identifié par la loi, chaque entreprise doit procéder à l'évaluation des postes de travail sur la base des seuils définis ci-après, afin de déterminer, pour chaque salarié s'il est ou non exposé à une ou plusieurs situations de pénibilité, compte tenu des tâches qu'il accomplit et de ses conditions de travail et notamment des mesures de prévention déjà mises en œuvre. Cette évaluation doit être menée en cohérence avec le résultat de l'évaluation des risques professionnels concrétisée par le document unique de prévention des risques prévu par le code du travail. Elle doit également donner lieu à consultation des institutions représentatives du personnel.</p>",
+                  "etat": "VIGUEUR_NON_ETEN"
                 }
               ]
             },
             {
-              "id": "KALISCTA000033860391",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Titre II Suivi de l'accord",
+              "id": "KALISCTA000033860391",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000033860398",
                   "num": null,
                   "intOrdre": 524287,
@@ -901,17 +881,133 @@
           ]
         },
         {
-          "id": "KALITEXT000032283551",
-          "title": "Accord du 19 novembre 2015 relatif à la formation professionnelle",
-          "dateParution": 1458691200000,
-          "sections": [
+          "type": "section",
+          "title": "Accord du 20 septembre 2016 relatif aux frais de santé",
+          "id": "KALITEXT000033860405",
+          "children": [
             {
-              "id": "KALISCTA000032283554",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000033860408",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
+                  "id": "KALIARTI000033860429",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'><br/>Après avoir rappelé que :<br/>La convention collective nationale des ports de plaisance a créé un régime de frais de santé pour répondre, autant qu'il est possible, aux attentes que nombre d'entreprises et de salariés ont exprimées sur l'amélioration de certains niveaux de prestations en matière de santé.<br/>Les modifications législatives ont obligé les partenaires sociaux à étudier de nouveau les articles concernés afin de les mettre en conformité avec les nouvelles dispositions.</p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000033860409",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>Le présent accord a pour objet la définition des garanties collectives et obligatoires de remboursement complémentaire de frais de santé dont bénéficient les salariés définis à l'article 46 de la convention collective et d'organiser les modalités de leur financement.<br/>Les entreprises doivent respecter l'intégralité des dispositions instaurées par le présent accord. En application des <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901774&dateTexte=&categorieLien=cid'>dispositions des articles L. 2253-1 à L. 2253-3 du code du travail</a>, il est expressément stipulé « qu'aucun système de garanties ne peut avoir pour conséquence de déroger aux dispositions du présent accord de manière moins favorable aux salariés. »</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Objet"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000033860411",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Entrent dans le champ d'application du présent accord tous les salariés cadres et non cadres des entreprises relevant de la convention collective nationale des ports de plaisance.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Champ d'application"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000033860412",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Les entreprises relevant du champ d'application du présent accord sont tenues de souscrire un contrat auprès d'un organisme assureur habilité en vue de procurer aux salariés bénéficiaires les prestations d'assurance définies à l'article 46.<br/>Le régime de remboursement des frais de santé permet d'accorder aux salariés le remboursement de frais de santé en complément des prestations de la sécurité sociale dans le cadre d'un contrat collectif obligatoire.<br/>Les contrats de prévoyance souscrits par les ports de plaisance doivent comporter des dispositions assurant le remboursement des frais de santé des salarié(e)s sur la base du ticket modérateur, assorti d'un dispositif de tiers payant.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Couverture conventionnelle obligatoire"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000033860413",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Sous réserve des dispositions des alinéas ci-dessous, bénéficie obligatoirement des garanties, l'ensemble du personnel des entreprises relevant du champ d'application défini à l'article 2 du présent accord, <i>et ayant au moins 12 mois civils entiers d'emploi dans une même entreprise</i> <a shape='rect' href='#RENVOI_KALIARTI000033860413_1'> (1)</a>. <br/>Les salariés disposent de facultés de dispense d'adhésion, sous réserve d'en faire la demande écrite auprès de l'employeur, accompagnée des pièces justifiant du fait qu'ils sont couverts par ailleurs, lorsque cette condition supplémentaire est requise. <br/>Ces possibilités de dispense concernent les situations limitativement énumérées ci-après : <br/>– le salarié qui bénéficie par ailleurs d'une couverture collective même en qualité d'ayant droit ; <br/>– les salariés en contrat à durée déterminée de moins d'un an ; <br/>– les salariés à temps partiel dont la cotisation équivaut à au moins 10 % du salaire ; <br/>– les salariés bénéficiaires de la couverture maladie universelle complémentaire (CMU-C). <br/>Le contrat souscrit par les ports de plaisance doit comporter une possibilité d'option pour l'adhésion des ayants droit des salariés.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000033860413_1'></a>(1) Les mots : « et ayant au moins 12 mois civils entiers d'emploi dans une même entreprise » sont exclus de l'extension comme étant contraires aux dispositions de l'article L. 911-1 du code de la sécurité sociale.  <br/>(Arrêté du 28 avril 2017 - art. 1)</em></font></p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Bénéficiaires"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000033860414",
+              "num": "5",
+              "intOrdre": 3145722,
+              "content": "<p align='left'><br/>Pour les salariés bénéficiaires, comme définis à l'article 4, les garanties prennent effet, selon le cas, à :<br/>– la date d'embauche ;<br/>– la date à laquelle le salarié cesse de bénéficier d'une dispense d'affiliation, le cas échéant.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Date d'effet"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000033860415",
+              "num": "6",
+              "intOrdre": 3670009,
+              "content": "<p align='left'><br/>Le régime de remboursement des frais de santé permet d'accorder aux salariés le remboursement des frais de santé en complément des prestations de la Sécurité Sociale dans le cadre collectif obligatoire.<br/>Ces garanties doivent être conformes au panier de soins défini par l'accord national interprofessionnel du 11 janvier 2013 modifié par le <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000029434975&categorieLien=cid'>décret n° 2014-1025 du 8 septembre 2014</a>.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Garanties"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000033860418",
+              "num": "7",
+              "intOrdre": 4194296,
+              "content": "<p align='left'><br/>Sauf lorsque ces périodes donnent lieu au maintien de rémunération par l'employeur ou indemnisation de la sécurité sociale, les garanties du salarié sont suspendues lorsque son contrat de travail est suspendu, notamment à l'occasion :<br/>– d'un congé sabbatique visé à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902762&dateTexte=&categorieLien=cid'>article L. 3142-91 du code du travail</a> ;<br/>– d'un congé pour création d'entreprise visé à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902746&dateTexte=&categorieLien=cid'>article L. 3142-78 du code du travail</a> ;<br/>– d'un congé parental d'éducation visé à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006900929&dateTexte=&categorieLien=cid'>article L. 1225-47 du code du travail</a> ;<br/>– de tout congé sans solde légal du salarié visé par le code du travail.<br/>La suspension intervient à la date de cessation de l'activité professionnelle et s'achève dès la reprise effective du travail par l'intéressé au sein de l'entreprise relevant du champ d'application du présent accord.<br/>Pendant la période de suspension de la garantie, aucune cotisation n'est due au titre de l'intéressé. Toutefois, le contrat des garanties collectives souscrit par l'entreprise devra prévoir la faculté pour les salariés en période de suspension du contrat de travail ne donnant pas lieu à maintien de la garantie, d'obtenir le maintien de la garantie, moyennant le paiement intégral de la cotisation prévue pour l'ensemble des salariés.<br/>La notice d'information rédigée par l'assureur devra expressément rappeler cette faculté et ses conditions de mise en œuvre.<br/>Le salarié devra formuler sa demande au plus tard 1 mois après le début du congé non rémunéré.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Périodes de suspension du contrat de travail"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000033860423",
+              "num": "8",
+              "intOrdre": 4718583,
+              "content": "<p align='left'><br/>L'obligation de couverture des employeurs cesse pour chaque salarié : <br/>– en cas de cessation du contrat de travail, notamment en cas de départ à la retraite (sauf cumul emploi-retraite), de démission, de licenciement ou de rupture conventionnelle, sans préjudice du bénéfice de la portabilité de ses garanties frais de santé en cas de chômage et du maintien à titre individuel de ses garanties ; <br/>– en cas de décès du salarié ; <br/>– <i>en cas de dénonciation du présent accord collectif à l'issue de la période de survie de l'accord dans les conditions énoncées aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid'>dispositions des articles L. 2261-9 et suivants du code du travail </a>(s'agissant des niveaux de prestations définis au présent accord)</i> <a shape='rect' href='#RENVOI_KALIARTI000033860423_1'> (1)</a>. <br/>L'obligation de couverture des employeurs cesse d'être accordée au salarié à l'expiration du mois au cours duquel prend fin le contrat de travail qui le lie à l'entreprise relevant du champ d'application du présent accord, sous réserve des dispositions ci-après relatives à la portabilité des garanties ainsi qu'au maintien à titre individuel des garanties.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000033860423_1'></a>(1) Les mots : « en cas de dénonciation du présent accord collectif à l'issue de la période de survie de l'accord dans les conditions énoncées aux dispositions des articles L. 2261-9 et suivant du code du travail (s'agissant des niveaux de prestations définis au présent accord) » sont exclus de l'extension comme étant contraires aux dispositions de l'article L. 911-7 du code de la sécurité sociale.  <br/>(Arrêté du 28 avril 2017 - art. 1)</em></font></p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Cessation des garanties"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000033860425",
+              "num": "9",
+              "intOrdre": 5242870,
+              "content": "<p align='left'><br/>En application de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000027549127&dateTexte=&categorieLien=cid'>article L. 911-8 du code de la sécurité sociale</a>, les salariés relevant du présent accord bénéficient d'un régime de portabilité des droits dans certains cas de cessation du contrat de travail ouvrant droit à l'assurance chômage.<br/>La durée du maintien des garanties est portée au double de celle prévue par l'article L. 911-8 du code de la sécurité sociale, dans la limite de 12 mois.<br/>Les garanties conventionnelles étant dues au salarié jusqu'au terme du mois civil au cours duquel son contrat de travail est rompu ou prend fin, le maintien des garanties au titre de la portabilité prend effet le premier jour du mois civil suivant la date de rupture ou de fin du contrat de travail ouvrant droit à la portabilité.<br/>La notice d'information rédigée par l'assureur devra décrire précisément les dispositifs de maintien des garanties dont bénéficie le salarié.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Portabilité des garanties conventionnelles obligatoires de frais de santé"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000033860428",
+              "num": "10",
+              "intOrdre": 5767157,
+              "content": "<p align='left'><br/>La répartition des cotisations sera faite dans chaque port de plaisance selon ses règles propres sans que la part salariale excède 50 % du montant total des cotisations.<br/>Le montant des cotisations doit correspondre au minimum à 1 % du plafond mensuel de la sécurité sociale.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Paiement des cotisations"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Accord du 19 novembre 2015 relatif à la formation professionnelle",
+          "id": "KALITEXT000032283551",
+          "children": [
+            {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000032283554",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
                   "id": "KALIARTI000032283561",
                   "num": null,
                   "intOrdre": 524287,
@@ -921,12 +1017,14 @@
               ]
             },
             {
-              "id": "KALISCTA000032283555",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre Ier Objectifs et priorités de la formation professionnelle",
+              "id": "KALISCTA000032283555",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032283563",
                   "num": "1er",
                   "intOrdre": 524287,
@@ -937,12 +1035,14 @@
               ]
             },
             {
-              "id": "KALISCTA000032283556",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Chapitre II Qualifications professionnelles",
+              "id": "KALISCTA000032283556",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032283566",
                   "num": "2",
                   "intOrdre": 524287,
@@ -951,6 +1051,7 @@
                   "surtitre": "Certification de qualification professionnelle (CQP)"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032283567",
                   "num": "3",
                   "intOrdre": 1048574,
@@ -959,6 +1060,7 @@
                   "surtitre": "Titres professionnels « Agent de port technique » « Agent de port administratif » et « Maître de port »"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032283568",
                   "num": "4",
                   "intOrdre": 1572861,
@@ -967,6 +1069,7 @@
                   "surtitre": "Validation des acquis de l'expérience"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032283571",
                   "num": "5",
                   "intOrdre": 2097148,
@@ -975,6 +1078,7 @@
                   "surtitre": "Accès aux actions de formation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032283572",
                   "num": "6",
                   "intOrdre": 2621435,
@@ -985,12 +1089,14 @@
               ]
             },
             {
-              "id": "KALISCTA000032283557",
+              "type": "section",
               "intOrdre": 2097148,
               "title": "Chapitre III Compte personnel de formation (CPF)",
+              "id": "KALISCTA000032283557",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032283575",
                   "num": "7",
                   "intOrdre": 524287,
@@ -1001,12 +1107,14 @@
               ]
             },
             {
-              "id": "KALISCTA000032283558",
+              "type": "section",
               "intOrdre": 2621435,
               "title": "Chapitre IV Congé individuel de formation (CIF)",
+              "id": "KALISCTA000032283558",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032283578",
                   "num": "8",
                   "intOrdre": 524287,
@@ -1017,12 +1125,14 @@
               ]
             },
             {
-              "id": "KALISCTA000032283559",
+              "type": "section",
               "intOrdre": 3145722,
               "title": "Chapitre V Professionnalisation",
+              "id": "KALISCTA000032283559",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032283579",
                   "num": "9",
                   "intOrdre": 524287,
@@ -1031,6 +1141,7 @@
                   "surtitre": "Contrat de professionnalisation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032283580",
                   "num": "10",
                   "intOrdre": 1048574,
@@ -1041,12 +1152,14 @@
               ]
             },
             {
-              "id": "KALISCTA000032283560",
+              "type": "section",
               "intOrdre": 3670009,
               "title": "Chapitre VI Financement",
+              "id": "KALISCTA000032283560",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000032283582",
                   "num": "11",
                   "intOrdre": 524287,
@@ -1055,6 +1168,7 @@
                   "surtitre": "Participation obligatoire des entreprises au développement de la formation professionnelle continue à compter du 1er janvier 2016"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000032283583",
                   "num": "12",
                   "intOrdre": 1048574,
@@ -1067,11 +1181,12 @@
           ]
         },
         {
-          "id": "KALITEXT000030778527",
+          "type": "section",
           "title": "Avenant du 11 mars 2015 relatif à la prime d'ancienneté",
-          "dateParution": 1435190400000,
-          "articles": [
+          "id": "KALITEXT000030778527",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030778530",
               "num": null,
               "intOrdre": 524287,
@@ -1079,6 +1194,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000030778531",
               "num": "unique (1)",
               "intOrdre": 1048574,
@@ -1089,75 +1205,98 @@
           ]
         },
         {
-          "id": "KALITEXT000036827918",
-          "title": "Accord-cadre du 6 décembre 2017 relatif au travail saisonnier",
-          "dateParution": 1524441600000,
-          "articles": [
+          "type": "section",
+          "title": "Accord du 27 novembre 2014 relatif aux seniors",
+          "id": "KALITEXT000030555433",
+          "children": [
             {
-              "id": "KALIARTI000036827922",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Comme pour tout salarié, l'entreprise devra procéder à l'établissement du contrat de travail mentionnant toutes les clauses obligatoires ainsi qu'à toutes les formalités liées à l'embauche (déclaration préalable auprès de l'URSSAF compétent, registre du personnel, médecine du travail…).<br/>Le contrat de travail devra comporter la durée de la saison.<br/>Il devra également préciser l'objet du contrat (saison).<br/>Le salarié saisonnier bénéficie des mêmes droits et obligations que tout salarié lié par un contrat de travail.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Contrat de travail"
-            },
-            {
-              "id": "KALIARTI000036827923",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>L'employeur qui a embauché un salarié en contrat saisonnier se voit dans l'obligation de motiver un éventuel refus d'embauche pour un emploi de même nature pour la saison de l'année suivante dès lors que ce salarié postule à cet emploi.<br/>La notification de ce refus devra préciser les motifs de celui-ci.<br/>Le salarié devra en être informé dans le mois suivant sa demande.<br/>Cette procédure est identique dès lors qu'un emploi de même nature en contrat à durée déterminée ou en contrat à durée indéterminée se libère dans l'entreprise.<br/>Pour calculer l'ancienneté du salarié, les durées de contrats de travail à caractère saisonnier successifs dans une même entreprise sont cumulées.<br/>Cette ancienneté devra également être prise en compte pour l'établissement du coefficient dans le cadre d'une embauche en contrat à durée indéterminée.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Priorité d'emploi"
-            },
-            {
-              "id": "KALIARTI000036827924",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Les personnes employées en contrat saisonnier bénéficient des mêmes facilités d'accès et des mêmes droits à la formation que tout salarié de l'entreprise.<br/>Un contrat à durée déterminée peut être conclu pendant l'intersaison afin de permettre au salarié de participer à une action de formation prévue au plan de formation de l'entreprise.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Accès a la formation"
-            },
-            {
-              "id": "KALIARTI000036827925",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Le bilan de l'exécution de cet accord sera fait chaque année par les signataires du présent accord.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Bilan"
-            },
-            {
-              "id": "KALIARTI000036827926",
-              "num": "5",
-              "intOrdre": 3145722,
-              "content": "<p align='left'><br/>Le présent accord est conclu pour une durée déterminée de 3 ans.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Durée"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000036827921",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000030555436",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
-                  "id": "KALIARTI000036827927",
+                  "type": "article",
+                  "id": "KALIARTI000030555442",
                   "num": null,
                   "intOrdre": 524287,
-                  "content": "<p align='left'><br/>Au regard des articles <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901195&dateTexte=&categorieLien=cid'>L. 1242-2,3°</a>, et <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901255&dateTexte=&categorieLien=cid'>L. 1251-6</a>,3°, du code du travail, un contrat de travail à durée déterminée peut être conclu pour des emplois saisonniers dont les tâches sont appelées à se répéter chaque année selon une périodicité à peu près fixe, en fonction du rythme des saisons ou des modes de vie collectifs. <br/>Cette variation d'effectifs est indépendante de la volonté de l'employeur. <br/>Au regard de cette définition, la branche des ports de plaisance emploie, à titre régulier, tous les ans, des contrats saisonniers. <br/>En conséquence, les parties signataires ont décidé de négocier un accord collectif afin d'encadrer ce contrat de travail à durée déterminée et de garantir le droit des travailleurs saisonniers. <br/>Cet accord est d'application directe dans l'ensemble des entreprises de la branche quels que soient leurs effectifs.</p>",
+                  "content": "<p align='left'><br/>L'amélioration du taux d'emploi des seniors constitue pour notre pays un enjeu majeur, compte tenu des constats démographiques, et un levier de croissance à moyen terme et à long terme pour les entreprises de la branche.<br/>Il convient de souligner l'importance de l'expérience et des connaissances détenues par les salariés seniors, éléments de richesse de l'entreprise devant être reconnus, préservés et transmis.<br/>Le présent accord souhaite participer à l'évolution nécessaire des mentalités collectives vis-à-vis des seniors dans le monde du travail en favorisant leur accès et leur maintien dans l'emploi jusqu'à leur retraite à taux plein.<br/>En conséquence, les parties signataires entendent que les mesures prises dans le cadre de cet accord favorisent le maintien et l'élévation du taux d'emploi des salariés seniors de la profession.<br/>Par le présent accord, les entreprises de la branche s'engagent :<br/>– à prendre toutes les mesures nécessaires pour élever leur taux d'emploi des seniors ;<br/>– à donner aux salariés des perspectives d'évolution, notamment dans leur seconde partie de carrière ;<br/>– à sécuriser les parcours professionnels par la mise en place d'une gestion prévisionnelle des emplois et des compétences et de l'entretien professionnel à partir de 45 ans ;<br/>– à développer le tutorat pour permettre aux salariés seniors de transmettre leur savoir ;<br/>– à soumettre des possibilités d'aménagement de fin de carrière de leurs salariés, pour éviter l'usure au travail ;<br/>– et, d'une manière générale, à mettre en place des pistes en vue d'un plan d'action pour l'emploi et la formation des seniors.<br/>Les présentes dispositions s'inscrivent dans le cadre des mesures prévues par l'accord national interprofessionnel du 13 octobre 2005 relatif à l'emploi des seniors ainsi que des dispositions légales subséquentes.</p>",
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030555437",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>Les partenaires sociaux entendent par seniors les collaborateurs âgés de plus de 50 ans pour l'accès à l'emploi et de plus de 55 ans pour le maintien dans l'emploi.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Définition de la notion de senior"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030555438",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='center'><br/>2.1. Anticipation dans l'évolution des carrières professionnelles (salariés de plus de 45 ans)</p><p align='left'><br/>Il est rappelé aux entreprises de la branche l'importance de déployer une démarche de personnalisation des parcours professionnels en inscrivant ces derniers dans la durée, afin de développer, concernant les seniors :<br/>– leur possibilité d'évolution de carrière ou de maintien dans l'emploi ;<br/>– leur possibilité de mobilité professionnelle ;<br/>– l'aménagement de leur fin de carrière.<br/>Les entreprises se doteront de moyens favorisant le maintien dans l'emploi des seniors et recueilleront toutes les informations utiles à une connaissance précise des compétences de ceux-ci. Ces informations pourront notamment être recueillies à l'occasion de l'entretien professionnel de seconde partie de carrière.<br/>A partir de l'ensemble des informations recueillies, les entreprises de la branche mettront en œuvre des dispositifs de formation de nature à favoriser leur sécurisation professionnelle dans leur emploi, la préparation de leur évolution dans leur emploi ou vers un nouvel emploi.<br/>Un entretien professionnel de seconde partie de carrière est proposé à tout salarié à partir de 45 ans par son responsable hiérarchique et renouvelable par la suite au moins tous les 5 ans, selon le souhait du salarié.<br/>Cet entretien a pour objet de faire le point, au regard de l'évolution des métiers et de ses perspectives d'emploi dans l'entreprise, sur ses compétences, ses besoins de formation, la situation et l'évolution professionnelle du salarié.<br/>Il est distinct de l'entretien annuel d'évaluation et est organisé par un responsable ayant reçu une formation adéquate.<br/>Il se déroule pendant le temps de travail et doit donner lieu à une synthèse écrite confidentielle et signée par les deux parties.<br/>Cet entretien pourra permettre d'identifier les besoins en matière de formation, tant pour adapter le salarié dans son emploi actuel que pour favoriser le cas échéant l'évolution vers un autre emploi.<br/>La branche professionnelle se donne comme objectif que 100 % des collaborateurs d'au moins 45 ans bénéficient d'un entretien professionnel pour la seconde partie de carrière.<br/>Tout salarié bénéficie, sous réserve d'une ancienneté de 1 an, de la possibilité d'un bilan de compétences.<br/>S'il le souhaite, le salarié peut se faire accompagner pour ces différents entretiens par un salarié appartenant à l'entreprise.</p><p align='center'><br/>2.2. Amélioration des conditions de travail et prévention des situations de pénibilité</p><p align='left'><br/>L'amélioration des conditions de travail est essentielle pour améliorer le taux d'emploi des seniors compte tenu des effets du vieillissement, des exigences de compétitivité et des transformations technologiques. Il convient de rechercher la plus grande compatibilité entre le poste de travail et l'évolution des capacités de chaque salarié.<br/>Pour favoriser le maintien dans l'emploi des seniors ou leur reclassement, les entreprises de la branche engageront dans l'année suivant l'entrée en vigueur du présent accord une réflexion dans le but d'aboutir à une réelle amélioration des conditions de travail des seniors, à chaque fois qu'un besoin spécifique aura été identifié, cela quelle que soit leur catégorie, afin de mettre en œuvre des plans d'actions destinés à aménager les postes comportant des facteurs de risques ou d'usure professionnels.<br/>Le CHSCT, le comité d'entreprise ou, à défaut, les délégués du personnel seront associés à cette démarche.<br/>Des actions de prévention des risques professionnels ciblées sur les seniors seront également développées (prise en compte des aspects d'ergonomie, organisation du travail…) en s'appuyant sur les ressources internes (CHSCT ou, à défaut, délégués du personnel, médecin du travail, responsable en charge des aspects techniques…) et externes (CARSAT, ARACT…).<br/>Les entreprises de la profession sont invitées à enrichir le document unique d'évaluation des risques de ces actions.</p><p align='center'><br/>2.3. Développement des compétences et des qualifications et accès à la formation</p><p align='left'><br/>Une part de la formation professionnelle continue doit être réservée aux seniors.<br/>Les demandes de formation présentées par les salariés âgés de 45 ans et plus pour faciliter leur employabilité bénéficieront d'une priorité d'examen et d'accès par l'entreprise.<br/>Les besoins spécifiques en formation des salariés seniors devront être identifiés et faire l'objet d'une affectation spéciale au plan de formation général de l'entreprise.<br/>Les parties signataires affirment le caractère prioritaire qu'elles entendent donner aux salariés de plus de 45 ans dans l'accès au dispositif de la période de professionnalisation.</p><p align='center'><br/>2.4. Aménagement des fins de carrière</p><p align='left'><br/>Conformément aux dispositions législatives et réglementaires, le dispositif du compte épargne-temps, lorsqu'il existe au sein d'une entreprise, peut être utilisé par les seniors comme congé de fin de carrière.<br/>De plus, afin d'accroître leurs droits au congé de fin de carrière, les seniors qui le souhaitent pourront demander à transformer leur indemnité de départ à la retraite en congé de fin de carrière.</p><p align='center'><br/>2.5. Transmission des savoirs, des compétences et développement du tutorat</p><p align='left'><br/>Les parties signataires entendent valoriser et reconnaître les missions exercées dans le cadre du tutorat.<br/>Elles souhaitent rappeler l'importance de ce dispositif, notamment dans le cadre des formations en alternance (contrat/période de professionnalisation, apprentissage). De façon à valoriser la fonction tutorale du senior, tout tuteur âgé de 55 ans et plus pourra bénéficier, au même titre que les autres tuteurs, d'un aménagement de son temps de travail et d'une formation adéquate pour exercer sa mission.<br/>Les seniors expérimentés pourront être sollicités pour participer à des jurys d'examen (CQP, etc.).</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Domaine d'action en faveur des seniors"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030555439",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>L'observatoire devra tenir compte dans ses rubriques de ces nouveaux objectifs.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Indicateurs chiffrés"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030555440",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Dans les entreprises d'au moins 50 salariés, un comité du suivi du présent accord sera mis en place.<br/>Sa composition et ses modalités de fonctionnement seront déterminées dans chaque entreprise.<br/>Au niveau de la branche professionnelle, un suivi régulier du présent accord sera effectué au sein de la commission sociale paritaire.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Suivi de l'accord"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030555441",
+              "num": "5",
+              "intOrdre": 3145722,
+              "content": "<p align='left'><br/>Le présent accord est conclu pour une durée déterminée de 3 ans à compter de son entrée en vigueur, soit à partir du 1er janvier 2015.<br/>Les accords d'entreprise, d'établissement ou de groupe ne peuvent déroger aux dispositions du présent accord que dans un sens plus favorable aux salariés.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Durée et portée de l'accord"
             }
           ]
         },
         {
-          "id": "KALITEXT000028967662",
+          "type": "section",
           "title": "Accord du 26 mars 2013 relatif à l'égalité professionnelle entre les hommes et les femmes",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000028967662",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000028967665",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000028967676",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'><br/>Conformément aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901740&dateTexte=&categorieLien=cid'>articles L. 2241-3</a>, <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485295&dateTexte=&categorieLien=cid'>D. 2241-7 </a>et <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901800&dateTexte=&categorieLien=cid'>L. 2261-22 du code du travail</a>, les organisations qui sont liées par une convention de branche ou, à défaut, par des accords professionnels, doivent négocier, tous les 3 ans, sur les mesures tendant à assurer l'égalité professionnelle entre les hommes et les femmes et sur les mesures de rattrapage tendant à remédier aux inégalités constatées. <br/>Par le présent accord, les parties réaffirment leur volonté d'inscrire le principe d'égalité professionnelle entre les hommes et les femmes comme un droit et un facteur d'enrichissement collectif de cohésion sociale et d'efficacité économique pour les entreprises. <br/>Ainsi, cet accord traduit la volonté des parties signataires d'assurer de manière concrète l'égalité professionnelle entre les femmes et les hommes dans tous les domaines professionnels. Les actions qu'il définit ont pour objectif de corriger durablement des inégalités éventuellement constatées. <br/>Cet accord s'inscrit dans le cadre de : <br/>– la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000000756495&categorieLien=cid'>loi du 9 mai 2001 relative à l'égalité professionnelle entre les femmes et les hommes </a>; <br/>– l'accord national interprofessionnel du 1er mars 2004 relatif à la mixité et à l'égalité professionnelle entre les femmes et les hommes ; <br/>– la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000000816849&categorieLien=cid'>loi du 23 mars 2006 relative à l'égalité salariale entre les femmes et les hommes</a>. <br/>– la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000023022127&categorieLien=cid'>loi du 9 décembre 2010 portant réforme des retraites </a>; <br/>– le <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000024326618&categorieLien=cid'>décret du 7 juillet 2011 relatif à la mise en œuvre des obligations des entreprises pour l'égalité professionnelle entre les femmes et les hommes</a>. <br/>Il s'inscrit également dans le cadre du dispositif qui impose aux partenaires sociaux de la branche de se réunir pour négocier tous les 3 ans sur les mesures tendant à assurer l'égalité professionnelle entre les femmes et les hommes. <br/>Dans ce cadre, les signataires du présent accord conviennent d'agir parmi les huit domaines d'action suivants, sur lesquels il convient de porter une attention en matière d'égalité professionnelle : <br/>– l'embauche ; <br/>– la formation professionnelle ; <br/>– la promotion professionnelle ; <br/>– la rémunération ; <br/>– la qualification ; <br/>– la classification ; <br/>– les conditions de travail ; <br/>– l'articulation entre la vie professionnelle et l'exercice des responsabilités familiales. <br/>Il est rappelé que, selon les dispositions de la loi du 9 novembre 2010 portant réforme des retraites, les entreprises d'au moins 50 salariés sont passibles d'une pénalité financière d'un montant maximal égal à 1 % de la masse salariale lorsqu'elles ne sont pas couvertes par un accord collectif ou à défaut, par un plan d'actions. <br/>Il est également précisé que pour les entreprises de plus de 50 à 299 salariés, deux domaines d'action au moins doivent être déclinés en mesures et actions concrètes (objectifs et indicateurs chiffrés). Les entreprises de 300 salariés et plus devront quant à elle en retenir au moins trois sur les huit précités. <br/>Pour compléter les données de la branche, les partenaires sociaux sollicitent de l'observatoire des métiers et des qualifications de la branche une étude qualitative et quantitative sur l'égalité entre les femmes et les hommes. A cet effet, un groupe de travail paritaire sera constitué au cours du premier semestre 2013.</p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000028967666",
               "num": "1er",
               "intOrdre": 1048574,
@@ -1166,6 +1305,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028967667",
               "num": "2",
               "intOrdre": 1572861,
@@ -1174,6 +1314,7 @@
               "surtitre": "Gestion des carrières"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028967668",
               "num": "3",
               "intOrdre": 2097148,
@@ -1182,6 +1323,7 @@
               "surtitre": "Formation professionnelle continue"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028967669",
               "num": "4",
               "intOrdre": 2621435,
@@ -1190,6 +1332,7 @@
               "surtitre": "Rémunération. – Egalité salariale"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028967670",
               "num": "5",
               "intOrdre": 3145722,
@@ -1198,6 +1341,7 @@
               "surtitre": "Articulation vie professionnelle et vie familiale"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028967671",
               "num": "6",
               "intOrdre": 3670009,
@@ -1206,6 +1350,7 @@
               "surtitre": "Indicateurs chiffrés"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028967672",
               "num": "7",
               "intOrdre": 4194296,
@@ -1214,6 +1359,7 @@
               "surtitre": "Entrée en vigueur"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028967673",
               "num": "8",
               "intOrdre": 4718583,
@@ -1222,6 +1368,7 @@
               "surtitre": "Durée"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028967674",
               "num": "9",
               "intOrdre": 5242870,
@@ -1230,6 +1377,7 @@
               "surtitre": "Révision"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028967675",
               "num": "10",
               "intOrdre": 5767157,
@@ -1237,31 +1385,15 @@
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Dépôt et extension"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000028967665",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000028967676",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>Conformément aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901740&dateTexte=&categorieLien=cid'>articles L. 2241-3</a>, <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485295&dateTexte=&categorieLien=cid'>D. 2241-7 </a>et <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901800&dateTexte=&categorieLien=cid'>L. 2261-22 du code du travail</a>, les organisations qui sont liées par une convention de branche ou, à défaut, par des accords professionnels, doivent négocier, tous les 3 ans, sur les mesures tendant à assurer l'égalité professionnelle entre les hommes et les femmes et sur les mesures de rattrapage tendant à remédier aux inégalités constatées. <br/>Par le présent accord, les parties réaffirment leur volonté d'inscrire le principe d'égalité professionnelle entre les hommes et les femmes comme un droit et un facteur d'enrichissement collectif de cohésion sociale et d'efficacité économique pour les entreprises. <br/>Ainsi, cet accord traduit la volonté des parties signataires d'assurer de manière concrète l'égalité professionnelle entre les femmes et les hommes dans tous les domaines professionnels. Les actions qu'il définit ont pour objectif de corriger durablement des inégalités éventuellement constatées. <br/>Cet accord s'inscrit dans le cadre de : <br/>– la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000000756495&categorieLien=cid'>loi du 9 mai 2001 relative à l'égalité professionnelle entre les femmes et les hommes </a>; <br/>– l'accord national interprofessionnel du 1er mars 2004 relatif à la mixité et à l'égalité professionnelle entre les femmes et les hommes ; <br/>– la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000000816849&categorieLien=cid'>loi du 23 mars 2006 relative à l'égalité salariale entre les femmes et les hommes</a>. <br/>– la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000023022127&categorieLien=cid'>loi du 9 décembre 2010 portant réforme des retraites </a>; <br/>– le <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000024326618&categorieLien=cid'>décret du 7 juillet 2011 relatif à la mise en œuvre des obligations des entreprises pour l'égalité professionnelle entre les femmes et les hommes</a>. <br/>Il s'inscrit également dans le cadre du dispositif qui impose aux partenaires sociaux de la branche de se réunir pour négocier tous les 3 ans sur les mesures tendant à assurer l'égalité professionnelle entre les femmes et les hommes. <br/>Dans ce cadre, les signataires du présent accord conviennent d'agir parmi les huit domaines d'action suivants, sur lesquels il convient de porter une attention en matière d'égalité professionnelle : <br/>– l'embauche ; <br/>– la formation professionnelle ; <br/>– la promotion professionnelle ; <br/>– la rémunération ; <br/>– la qualification ; <br/>– la classification ; <br/>– les conditions de travail ; <br/>– l'articulation entre la vie professionnelle et l'exercice des responsabilités familiales. <br/>Il est rappelé que, selon les dispositions de la loi du 9 novembre 2010 portant réforme des retraites, les entreprises d'au moins 50 salariés sont passibles d'une pénalité financière d'un montant maximal égal à 1 % de la masse salariale lorsqu'elles ne sont pas couvertes par un accord collectif ou à défaut, par un plan d'actions. <br/>Il est également précisé que pour les entreprises de plus de 50 à 299 salariés, deux domaines d'action au moins doivent être déclinés en mesures et actions concrètes (objectifs et indicateurs chiffrés). Les entreprises de 300 salariés et plus devront quant à elle en retenir au moins trois sur les huit précités. <br/>Pour compléter les données de la branche, les partenaires sociaux sollicitent de l'observatoire des métiers et des qualifications de la branche une étude qualitative et quantitative sur l'égalité entre les femmes et les hommes. A cet effet, un groupe de travail paritaire sera constitué au cours du premier semestre 2013.</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
           ]
         },
         {
-          "id": "KALITEXT000025115217",
+          "type": "section",
           "title": "Avenant n° 74 du 9 décembre 2009 relatif aux classifications et à la grille indiciaire (Annexes I C et II)",
-          "dateParution": 1326067200000,
-          "articles": [
+          "id": "KALITEXT000025115217",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000025115220",
               "num": null,
               "intOrdre": 524287,
@@ -1269,6 +1401,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000025115221",
               "num": "1er",
               "intOrdre": 1048574,
@@ -1277,6 +1410,7 @@
               "surtitre": "Modification de l'annexe II « Grille indiciaire » de la convention collective nationale"
             },
             {
+              "type": "article",
               "id": "KALIARTI000025115222",
               "num": "2",
               "intOrdre": 1572861,
@@ -1285,6 +1419,7 @@
               "surtitre": "Modification de l'annexe I C « Nomenclature des emplois » de la convention collective nationale"
             },
             {
+              "type": "article",
               "id": "KALIARTI000025115223",
               "num": "3",
               "intOrdre": 2097148,
@@ -1293,6 +1428,7 @@
               "surtitre": "Date d'entrée en vigueur"
             },
             {
+              "type": "article",
               "id": "KALIARTI000025115224",
               "num": "4",
               "intOrdre": 2621435,
@@ -1301,6 +1437,7 @@
               "surtitre": "Extension"
             },
             {
+              "type": "article",
               "id": "KALIARTI000025115225",
               "num": "5",
               "intOrdre": 3145722,
@@ -1311,11 +1448,12 @@
           ]
         },
         {
-          "id": "KALITEXT000019652790",
+          "type": "section",
           "title": "Avenant n° 67 du 14 septembre 2007 relatif aux classifications et à la grille indiciaire (Annexes I C et II)",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000019652790",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000019652793",
               "num": "1",
               "intOrdre": 524287,
@@ -1324,6 +1462,7 @@
               "surtitre": "Modification de l'annexe II (Grille indiciaire)"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019652794",
               "num": "2",
               "intOrdre": 1048574,
@@ -1332,6 +1471,7 @@
               "surtitre": "Modification de l'annexe I C (Nomenclature des emplois)"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019652795",
               "num": "3",
               "intOrdre": 1572861,
@@ -1340,6 +1480,7 @@
               "surtitre": "Date d'entrée en vigueur"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019652796",
               "num": "4",
               "intOrdre": 2097148,
@@ -1348,6 +1489,7 @@
               "surtitre": "Extension"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019652798",
               "num": "5",
               "intOrdre": 2621435,
@@ -1358,17 +1500,19 @@
           ]
         },
         {
-          "id": "KALITEXT000018216612",
+          "type": "section",
           "title": "Accord du 25 octobre 2005 relatif à la formation professionnelle tout au long de la vie",
-          "dateParution": 32472144000000,
-          "sections": [
+          "id": "KALITEXT000018216612",
+          "children": [
             {
-              "id": "KALISCTA000018216615",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000018216615",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216623",
                   "num": null,
                   "intOrdre": 524287,
@@ -1378,12 +1522,14 @@
               ]
             },
             {
-              "id": "KALISCTA000018216616",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre Ier : La formation professionnelle dans les ports de plaisance",
+              "id": "KALISCTA000018216616",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216629",
                   "num": "1",
                   "intOrdre": 524287,
@@ -1392,6 +1538,7 @@
                   "surtitre": "Les priorités"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216630",
                   "num": "2",
                   "intOrdre": 1048574,
@@ -1400,6 +1547,7 @@
                   "surtitre": "Le tutorat"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216631",
                   "num": "3",
                   "intOrdre": 1572861,
@@ -1408,6 +1556,7 @@
                   "surtitre": "L'accueil et l'insertion des jeunes"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216632",
                   "num": "4",
                   "intOrdre": 2097148,
@@ -1416,6 +1565,7 @@
                   "surtitre": "Les salariés âgés de 45 ans et plus ou justifiant de 20 ans d'activité professionnelle"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216633",
                   "num": "5",
                   "intOrdre": 2621435,
@@ -1426,12 +1576,14 @@
               ]
             },
             {
-              "id": "KALISCTA000018216617",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Chapitre II : L'information et l'orientation professionnelle",
+              "id": "KALISCTA000018216617",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216634",
                   "num": "6",
                   "intOrdre": 524287,
@@ -1440,6 +1592,7 @@
                   "surtitre": "L'entretien professionnel"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216635",
                   "num": "7",
                   "intOrdre": 1048574,
@@ -1448,6 +1601,7 @@
                   "surtitre": "Le bilan de compétences"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216636",
                   "num": "8",
                   "intOrdre": 1572861,
@@ -1456,6 +1610,7 @@
                   "surtitre": "La validation des acquis de l'expérience (VAE)"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216637",
                   "num": "9",
                   "intOrdre": 2097148,
@@ -1466,12 +1621,14 @@
               ]
             },
             {
-              "id": "KALISCTA000018216618",
+              "type": "section",
               "intOrdre": 2097148,
               "title": "Chapitre III : La formation tout au long de la vie professionnelle",
+              "id": "KALISCTA000018216618",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216638",
                   "num": "10",
                   "intOrdre": 524287,
@@ -1480,6 +1637,7 @@
                   "surtitre": "Le programme pluriannuel de formation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216639",
                   "num": "11",
                   "intOrdre": 1048574,
@@ -1488,6 +1646,7 @@
                   "surtitre": "Le plan de formation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216641",
                   "num": "12",
                   "intOrdre": 1572861,
@@ -1496,6 +1655,7 @@
                   "surtitre": "Le droit individuel à la formation (DIF)"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216643",
                   "num": "13",
                   "intOrdre": 2097148,
@@ -1504,6 +1664,7 @@
                   "surtitre": "Le contrat de professionnalisation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216644",
                   "num": "14",
                   "intOrdre": 2621435,
@@ -1512,6 +1673,7 @@
                   "surtitre": "La période de professionnalisation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216647",
                   "num": "15",
                   "intOrdre": 3145722,
@@ -1522,12 +1684,14 @@
               ]
             },
             {
-              "id": "KALISCTA000018216619",
+              "type": "section",
               "intOrdre": 2621435,
               "title": "Chapitre IV : L'observatoire prospectif des métiers",
+              "id": "KALISCTA000018216619",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216648",
                   "num": "16",
                   "intOrdre": 524287,
@@ -1538,12 +1702,14 @@
               ]
             },
             {
-              "id": "KALISCTA000018216620",
+              "type": "section",
               "intOrdre": 3145722,
               "title": "Chapitre V : La CPNE des ports de plaisance",
+              "id": "KALISCTA000018216620",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216649",
                   "num": "17",
                   "intOrdre": 524287,
@@ -1554,12 +1720,14 @@
               ]
             },
             {
-              "id": "KALISCTA000018216621",
+              "type": "section",
               "intOrdre": 3670009,
               "title": "Chapitre VI : Les dispositions financières",
+              "id": "KALISCTA000018216621",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216651",
                   "num": null,
                   "intOrdre": 524287,
@@ -1567,6 +1735,7 @@
                   "etat": "VIGUEUR_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216652",
                   "num": "18",
                   "intOrdre": 1048574,
@@ -1575,6 +1744,7 @@
                   "surtitre": "Les contributions des ports employant moins de 10 salariés"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216655",
                   "num": "19",
                   "intOrdre": 1572861,
@@ -1583,6 +1753,7 @@
                   "surtitre": "Les contributions des ports employant 10 salariés ou plus"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216657",
                   "num": "20",
                   "intOrdre": 2097148,
@@ -1593,12 +1764,14 @@
               ]
             },
             {
-              "id": "KALISCTA000018216622",
+              "type": "section",
               "intOrdre": 4194296,
               "title": "Chapitre VII : Les dispositions diverses",
+              "id": "KALISCTA000018216622",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216658",
                   "num": "21",
                   "intOrdre": 524287,
@@ -1607,6 +1780,7 @@
                   "surtitre": "Négociation de branche"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216660",
                   "num": "22",
                   "intOrdre": 1048574,
@@ -1615,6 +1789,7 @@
                   "surtitre": "Clause de suivi"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216661",
                   "num": "23",
                   "intOrdre": 1572861,
@@ -1623,6 +1798,7 @@
                   "surtitre": "Force obligatoire du présent accord"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216662",
                   "num": "24",
                   "intOrdre": 2097148,
@@ -1631,6 +1807,7 @@
                   "surtitre": "Entrée en vigueur et durée du présent accord"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216663",
                   "num": "25",
                   "intOrdre": 2621435,
@@ -1639,6 +1816,7 @@
                   "surtitre": "Extension"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000018216664",
                   "num": "26",
                   "intOrdre": 3145722,
@@ -1651,11 +1829,37 @@
           ]
         },
         {
-          "id": "KALITEXT000005643734",
-          "title": "Avenant n° 32 du 1 octobre 1998 relatif à la formation professionnelle",
-          "dateParution": 32472144000000,
-          "articles": [
+          "type": "section",
+          "title": "Annexe IV Convention collective nationale du 16 mars 1982",
+          "id": "KALITEXT000005643769",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 42949,
+              "title": "Valeur du point",
+              "id": "KALISCTA000005692953",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000005773829",
+                  "num": null,
+                  "intOrdre": 42949,
+                  "content": "<p></p>    Voir \" Salaires \"<p></p><p></p>",
+                  "etat": "VIGUEUR_ETEN",
+                  "surtitre": "ANNEXE IV"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 32 du 1 octobre 1998 relatif à la formation professionnelle",
+          "id": "KALITEXT000005643734",
+          "children": [
+            {
+              "type": "article",
               "id": "KALIARTI000005773686",
               "num": "1",
               "intOrdre": 85898,
@@ -1664,6 +1868,7 @@
               "historique": "Modifié par Avenant n° 34 du 4 février 1999 en vigueur le 28 février 1999 BO conventions collectives 99-7, *étendu avec exclusions par arrêté du 19 juillet 1999 JORF 30 juillet 1999*."
             },
             {
+              "type": "article",
               "id": "KALIARTI000005773687",
               "num": "2",
               "intOrdre": 128847,
@@ -1671,6 +1876,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000005773688",
               "num": "3",
               "intOrdre": 171796,
@@ -1680,144 +1886,19 @@
           ]
         },
         {
-          "id": "KALITEXT000005643779",
-          "title": "Avenant n° 42 du 6 décembre 2001 au certificat de qualification professionnelle d'agent portuaire technique ou administratif ",
-          "dateParution": 32472144000000,
-          "sections": [
-            {
-              "id": "KALISCTA000005693024",
-              "intOrdre": 42949,
-              "title": "Création d'un certificat de qualification professionnelle (CQP)",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000005773941",
-                  "num": "1",
-                  "intOrdre": 42949,
-                  "content": "<p></p>   Les parties signataires du présent avenant à la convention collective nationale des personnels des ports de plaisance, sur proposition de la commission paritaire nationale emploi formation professionnelle (CPNEFP) des personnels des ports de plaisance, décident de créer un certificat de qualification professionnelle (CQP), destiné à la reconnaissance du professionnalisme des salariés de la branche, avec pour intitulé : certificat de qualification professionnelle d'agent portuaire technique ou administratif.<p></p><p></p>   La création de ce CQP s'inscrit notamment dans les dispositifs légaux organisés par les articles L. 933-2, L. 981-1 et L. 932-1 du code du travail relatifs aux missions des CPNE.<p></p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            },
-            {
-              "id": "KALISCTA000005693025",
-              "intOrdre": 85898,
-              "title": "Objectifs généraux",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000005773942",
-                  "num": "2",
-                  "intOrdre": 42949,
-                  "content": "<p></p>   Le certificat de qualification professionnelle se propose les objectifs suivants :<p></p><p></p>   - permettre aux agents techniques et administratifs d'acquérir un véritable professionnalisme dans leur métier d'agents portuaires, reconnu dans les textes conventionnels ;<p></p><p></p>   - améliorer les compétences des personnels en matière de contact avec la clientèle et les partenaires ;<p></p><p></p>   - améliorer les conditions de travail et de sécurité par une meilleure connaissance des risques et des méthodes ;<p></p><p></p>   - développer des compétences nouvelles utiles aux entreprises travaillant dans la branche ;<p></p><p></p>   - permettre une meilleure mobilité des agents entre les diverses entreprises par une reconnaissance interprofessionnelle des qualifications ;<p></p><p></p>   - favoriser les possibilités d'amélioration des déroulements de carrière.<p></p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            },
-            {
-              "id": "KALISCTA000005693026",
-              "intOrdre": 128847,
-              "title": "Modalités d'accès et organisation",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000005773944",
-                  "num": "3",
-                  "intOrdre": 42949,
-                  "content": "<p></p>   Le certificat de qualification professionnelle comporte une filière \" technique \" et une filière \" administrative \". Certaines matières sont communes aux deux filières.<p></p><p></p>   Les conditions d'accès des salariés à la formation en vue de l'obtention du CQP sont les suivantes :<p></p><p></p>   - appartenir à la catégorie des agents d'exécution techniques ou des agents d'exécution administratifs ;<p></p><p></p>   - être âgé de plus de 18 ans ;<p></p><p></p>   - posséder une ancienneté de 2 ans dans la fonction et 2 ans dans l'entreprise ;<p></p><p></p>   - être volontaire pour suivre la formation proposée ;<p></p><p></p>   - avoir l'accord de l'employeur ;<p></p><p></p>   - répondre à une sélection interne à l'aide d'un outil d'évaluation mis à la disposition des employeurs par la FFPP.<p></p><p></p>   Cette évaluation est destinée à assurer une certaine homogénéité des candidats en vue de former des groupes équilibrés et à détecter les acquis professionnels des stagiaires afin de les dispenser de suivre certaines parties du cursus de formation.<p></p><p></p>   La procédure de validation des acquis professionnels est déterminée par la CPNEFP.<p></p><p></p>   La formation comporte un certain nombre de modules correspondant aux différentes matières. Elle est dispensée par des organismes de formation agréés par la CPNEFP à partir d'un cahier des charges élaboré par ses soins. La CPNEPF fixe également la durée globale de la formation.<p></p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            },
-            {
-              "id": "KALISCTA000005693027",
-              "intOrdre": 171796,
-              "title": "Suivi de la formation et délivrance du diplôme",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000005773945",
-                  "num": "4",
-                  "intOrdre": 42949,
-                  "content": "<p></p>   Chaque stagiaire est suivi, au moyen d'un livret individuel, conjointement par l'organisme de formation agréé et par un tuteur choisi par l'entreprise.<p></p><p></p>   Pour chaque module, et selon des formes adaptées aux matières enseignées, un contrôle de niveau de connaissance assorti d'une notation est effectué.<p></p><p></p>   L'obtention du diplôme se fait par décision de la CPNEFP sur proposition de l'organisme de formation agréé.<p></p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            },
-            {
-              "id": "KALISCTA000005693028",
-              "intOrdre": 214745,
-              "title": "Positionnement du diplôme au regard de la classification",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000005773946",
-                  "num": "5",
-                  "intOrdre": 42949,
-                  "content": "<p></p>   Le certificat de qualification professionnelle d'agent portuaire technique ou administratif donne une possibilité d'accès, dans la catégorie des \" Agents d'exécution professionnels \" telle que définie à l'annexe 1 B de l'avenant à la CCN n° 39 du 11 juillet 2001, au niveau 3 D de la classification des emplois établie par ledit avenant (annexe 1 C).<p></p><p></p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            },
-            {
-              "id": "KALISCTA000005693029",
-              "intOrdre": 257694,
-              "title": "Date d'entrée en vigueur",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000005773947",
-                  "num": "6",
-                  "intOrdre": 42949,
-                  "content": "<p></p>   Le présent avenant prend effet à compter de la date de sa signature.<p></p><p></p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            },
-            {
-              "id": "KALISCTA000005693030",
-              "intOrdre": 300643,
-              "title": "Extension",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000005773948",
-                  "num": "7",
-                  "intOrdre": 42949,
-                  "content": "<p></p>   Les parties signataires conviennent de demander au ministère de l'emploi et de la solidarité l'extension du présent avenant de la convention collective nationale des personnels des ports de plaisance du 6 mars 1982.<p></p><p></p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            },
-            {
-              "id": "KALISCTA000005693031",
-              "intOrdre": 343592,
-              "title": "Dépôt et publicité",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000005773950",
-                  "num": "8",
-                  "intOrdre": 42949,
-                  "content": "<p></p>   Le présent accord collectif, conclu selon les dispositions des articles L. 132-1 et suivants du code du travail, est adjoint à la convention collective nationale des personnels des ports de plaisance sous la forme d'un avenant portant le numéro 42.<p></p><p></p>   Il est établi en autant d'exemplaires originaux qu'il est nécessaire pour être remis à chacune des parties signataires et pour l'accomplissement des formalités de publicité et de dépôt telles que prévues par l'article L. 132-10 du code du travail.<p></p><p></p>   Fait à Paris, le 6 décembre 2001.<p></p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000005643736",
+          "type": "section",
           "title": "Avenant n° 34 du 4 février 1999 relatif à la formation professionnelle",
-          "dateParution": 32472144000000,
-          "sections": [
+          "id": "KALITEXT000005643736",
+          "children": [
             {
-              "id": "KALISCTA000005692921",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Création de la CPNEFP",
+              "id": "KALISCTA000005692921",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005773689",
                   "num": "1",
                   "intOrdre": 42949,
@@ -1827,12 +1908,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005692922",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Adhésion à l'AGEFOS PME",
+              "id": "KALISCTA000005692922",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005773690",
                   "num": "2",
                   "intOrdre": 42949,
@@ -1842,12 +1925,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005692923",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Entrée en vigueur du présent accord",
+              "id": "KALISCTA000005692923",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005773693",
                   "num": "3",
                   "intOrdre": 42949,
@@ -1858,12 +1943,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005692924",
+              "type": "section",
               "intOrdre": 171796,
               "title": "Extension",
+              "id": "KALISCTA000005692924",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005773694",
                   "num": "4",
                   "intOrdre": 42949,
@@ -1876,23 +1963,143 @@
           ]
         },
         {
-          "id": "KALITEXT000005643769",
-          "title": "Annexe IV Convention collective nationale du 16 mars 1982",
-          "dateParution": 32472144000000,
-          "sections": [
+          "type": "section",
+          "title": "Avenant n° 42 du 6 décembre 2001 au certificat de qualification professionnelle d'agent portuaire technique ou administratif ",
+          "id": "KALITEXT000005643779",
+          "children": [
             {
-              "id": "KALISCTA000005692953",
+              "type": "section",
               "intOrdre": 42949,
-              "title": "Valeur du point",
+              "title": "Création d'un certificat de qualification professionnelle (CQP)",
+              "id": "KALISCTA000005693024",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
-                  "id": "KALIARTI000005773829",
-                  "num": null,
+                  "type": "article",
+                  "id": "KALIARTI000005773941",
+                  "num": "1",
                   "intOrdre": 42949,
-                  "content": "<p></p>    Voir \" Salaires \"<p></p><p></p>",
-                  "etat": "VIGUEUR_ETEN",
-                  "surtitre": "ANNEXE IV"
+                  "content": "<p></p>   Les parties signataires du présent avenant à la convention collective nationale des personnels des ports de plaisance, sur proposition de la commission paritaire nationale emploi formation professionnelle (CPNEFP) des personnels des ports de plaisance, décident de créer un certificat de qualification professionnelle (CQP), destiné à la reconnaissance du professionnalisme des salariés de la branche, avec pour intitulé : certificat de qualification professionnelle d'agent portuaire technique ou administratif.<p></p><p></p>   La création de ce CQP s'inscrit notamment dans les dispositifs légaux organisés par les articles L. 933-2, L. 981-1 et L. 932-1 du code du travail relatifs aux missions des CPNE.<p></p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "intOrdre": 85898,
+              "title": "Objectifs généraux",
+              "id": "KALISCTA000005693025",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000005773942",
+                  "num": "2",
+                  "intOrdre": 42949,
+                  "content": "<p></p>   Le certificat de qualification professionnelle se propose les objectifs suivants :<p></p><p></p>   - permettre aux agents techniques et administratifs d'acquérir un véritable professionnalisme dans leur métier d'agents portuaires, reconnu dans les textes conventionnels ;<p></p><p></p>   - améliorer les compétences des personnels en matière de contact avec la clientèle et les partenaires ;<p></p><p></p>   - améliorer les conditions de travail et de sécurité par une meilleure connaissance des risques et des méthodes ;<p></p><p></p>   - développer des compétences nouvelles utiles aux entreprises travaillant dans la branche ;<p></p><p></p>   - permettre une meilleure mobilité des agents entre les diverses entreprises par une reconnaissance interprofessionnelle des qualifications ;<p></p><p></p>   - favoriser les possibilités d'amélioration des déroulements de carrière.<p></p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "intOrdre": 128847,
+              "title": "Modalités d'accès et organisation",
+              "id": "KALISCTA000005693026",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000005773944",
+                  "num": "3",
+                  "intOrdre": 42949,
+                  "content": "<p></p>   Le certificat de qualification professionnelle comporte une filière \" technique \" et une filière \" administrative \". Certaines matières sont communes aux deux filières.<p></p><p></p>   Les conditions d'accès des salariés à la formation en vue de l'obtention du CQP sont les suivantes :<p></p><p></p>   - appartenir à la catégorie des agents d'exécution techniques ou des agents d'exécution administratifs ;<p></p><p></p>   - être âgé de plus de 18 ans ;<p></p><p></p>   - posséder une ancienneté de 2 ans dans la fonction et 2 ans dans l'entreprise ;<p></p><p></p>   - être volontaire pour suivre la formation proposée ;<p></p><p></p>   - avoir l'accord de l'employeur ;<p></p><p></p>   - répondre à une sélection interne à l'aide d'un outil d'évaluation mis à la disposition des employeurs par la FFPP.<p></p><p></p>   Cette évaluation est destinée à assurer une certaine homogénéité des candidats en vue de former des groupes équilibrés et à détecter les acquis professionnels des stagiaires afin de les dispenser de suivre certaines parties du cursus de formation.<p></p><p></p>   La procédure de validation des acquis professionnels est déterminée par la CPNEFP.<p></p><p></p>   La formation comporte un certain nombre de modules correspondant aux différentes matières. Elle est dispensée par des organismes de formation agréés par la CPNEFP à partir d'un cahier des charges élaboré par ses soins. La CPNEPF fixe également la durée globale de la formation.<p></p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "intOrdre": 171796,
+              "title": "Suivi de la formation et délivrance du diplôme",
+              "id": "KALISCTA000005693027",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000005773945",
+                  "num": "4",
+                  "intOrdre": 42949,
+                  "content": "<p></p>   Chaque stagiaire est suivi, au moyen d'un livret individuel, conjointement par l'organisme de formation agréé et par un tuteur choisi par l'entreprise.<p></p><p></p>   Pour chaque module, et selon des formes adaptées aux matières enseignées, un contrôle de niveau de connaissance assorti d'une notation est effectué.<p></p><p></p>   L'obtention du diplôme se fait par décision de la CPNEFP sur proposition de l'organisme de formation agréé.<p></p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "intOrdre": 214745,
+              "title": "Positionnement du diplôme au regard de la classification",
+              "id": "KALISCTA000005693028",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000005773946",
+                  "num": "5",
+                  "intOrdre": 42949,
+                  "content": "<p></p>   Le certificat de qualification professionnelle d'agent portuaire technique ou administratif donne une possibilité d'accès, dans la catégorie des \" Agents d'exécution professionnels \" telle que définie à l'annexe 1 B de l'avenant à la CCN n° 39 du 11 juillet 2001, au niveau 3 D de la classification des emplois établie par ledit avenant (annexe 1 C).<p></p><p></p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "intOrdre": 257694,
+              "title": "Date d'entrée en vigueur",
+              "id": "KALISCTA000005693029",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000005773947",
+                  "num": "6",
+                  "intOrdre": 42949,
+                  "content": "<p></p>   Le présent avenant prend effet à compter de la date de sa signature.<p></p><p></p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "intOrdre": 300643,
+              "title": "Extension",
+              "id": "KALISCTA000005693030",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000005773948",
+                  "num": "7",
+                  "intOrdre": 42949,
+                  "content": "<p></p>   Les parties signataires conviennent de demander au ministère de l'emploi et de la solidarité l'extension du présent avenant de la convention collective nationale des personnels des ports de plaisance du 6 mars 1982.<p></p><p></p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "intOrdre": 343592,
+              "title": "Dépôt et publicité",
+              "id": "KALISCTA000005693031",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000005773950",
+                  "num": "8",
+                  "intOrdre": 42949,
+                  "content": "<p></p>   Le présent accord collectif, conclu selon les dispositions des articles L. 132-1 et suivants du code du travail, est adjoint à la convention collective nationale des personnels des ports de plaisance sous la forme d'un avenant portant le numéro 42.<p></p><p></p>   Il est établi en autant d'exemplaires originaux qu'il est nécessaire pour être remis à chacune des parties signataires et pour l'accomplissement des formalités de publicité et de dépôt telles que prévues par l'article L. 132-10 du code du travail.<p></p><p></p>   Fait à Paris, le 6 décembre 2001.<p></p>",
+                  "etat": "VIGUEUR_ETEN"
                 }
               ]
             }
@@ -1901,17 +2108,19 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 3,
       "title": "Textes Salaires",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000038649909",
+          "type": "section",
           "title": "Avenant du 22 janvier 2019 relatif à la prime exceptionnelle de 2018 et à la valeur du point pour 2019",
-          "dateParution": 1560902400000,
-          "articles": [
+          "id": "KALITEXT000038649909",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038649912",
               "num": null,
               "intOrdre": 524287,
@@ -1919,6 +2128,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038649913",
               "num": "unique",
               "intOrdre": 1048574,
@@ -1928,11 +2138,12 @@
           ]
         },
         {
-          "id": "KALITEXT000036827931",
+          "type": "section",
           "title": "Avenant du 6 décembre 2017 relatif à la valeur du point au 1er janvier 2018",
-          "dateParution": 1524441600000,
-          "articles": [
+          "id": "KALITEXT000036827931",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036827934",
               "num": null,
               "intOrdre": 524287,
@@ -1940,6 +2151,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036827935",
               "num": "unique",
               "intOrdre": 1048574,
@@ -1949,11 +2161,12 @@
           ]
         },
         {
-          "id": "KALITEXT000034673118",
+          "type": "section",
           "title": "Avenant du 7 décembre 2016 relatif à la valeur du point au 1er janvier 2017",
-          "dateParution": 1494460800000,
-          "articles": [
+          "id": "KALITEXT000034673118",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000034673121",
               "num": null,
               "intOrdre": 524287,
@@ -1961,6 +2174,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000034673122",
               "num": "unique",
               "intOrdre": 1048574,
@@ -1970,11 +2184,12 @@
           ]
         },
         {
-          "id": "KALITEXT000032508561",
+          "type": "section",
           "title": "Avenant du 10 décembre 2015 relatif à la valeur du point pour l'année 2016",
-          "dateParution": 1462838400000,
-          "articles": [
+          "id": "KALITEXT000032508561",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000032508564",
               "num": null,
               "intOrdre": 524287,
@@ -1982,6 +2197,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032508565",
               "num": "unique",
               "intOrdre": 1048574,
@@ -1991,11 +2207,12 @@
           ]
         },
         {
-          "id": "KALITEXT000030641821",
+          "type": "section",
           "title": "Avenant du 27 novembre 2014 relatif à la valeur du point pour l'année 2015",
-          "dateParution": 1432684800000,
-          "articles": [
+          "id": "KALITEXT000030641821",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030641824",
               "num": null,
               "intOrdre": 524287,
@@ -2003,6 +2220,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000030641825",
               "num": "unique",
               "intOrdre": 1048574,
@@ -2012,11 +2230,12 @@
           ]
         },
         {
-          "id": "KALITEXT000028901322",
+          "type": "section",
           "title": "Avenant n° 86 du 11 décembre 2013 relatif aux salaires pour l'année 2014",
-          "dateParution": 1399248000000,
-          "articles": [
+          "id": "KALITEXT000028901322",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000028901325",
               "num": null,
               "intOrdre": 524287,
@@ -2024,6 +2243,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028901326",
               "num": "unique",
               "intOrdre": 1048574,
@@ -2033,11 +2253,12 @@
           ]
         },
         {
-          "id": "KALITEXT000027300808",
+          "type": "section",
           "title": "Avenant n° 85 du 13 décembre 2012 relatif à la valeur du point au 1er janvier 2013",
-          "dateParution": 1365984000000,
-          "articles": [
+          "id": "KALITEXT000027300808",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000027300811",
               "num": null,
               "intOrdre": 524287,
@@ -2045,6 +2266,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027300812",
               "num": "unique",
               "intOrdre": 1048574,

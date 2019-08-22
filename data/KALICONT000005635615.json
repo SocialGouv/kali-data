@@ -1,40 +1,33 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale de travail des employés de presse hebdomadaire régionale (SNPNRI) du 8 décembre 1983",
   "id": "KALICONT000005635615",
   "num": "1281",
-  "title": "Convention collective nationale de travail des employés de presse hebdomadaire régionale (SNPNRI) du 8 décembre 1983",
   "shortTitle": "Presse Hebdomadaire Régionale Employés",
-  "categorisation": [
-    "Presse périodique régionale"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000005680837",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale de travail des employés de presse hebdomadaire régionale (SNPNRI) du 8 décembre 1983",
+      "id": "KALITEXT000005680837",
       "etat": "VIGUEUR_NON_ETEN",
-      "articles": [
+      "children": [
         {
-          "id": "KALIARTI000005853517",
-          "num": null,
-          "intOrdre": 42949,
-          "content": "<p></p>   Les accords qui vont suivre constituent des règles de bonne entente et de parfaite loyauté entre tous les membres de la profession. Ils ont pour but essentiel d'harmoniser les rapports entre employeurs et employés.<p></p><p></p>",
-          "etat": "VIGUEUR_NON_ETEN"
-        }
-      ],
-      "sections": [
-        {
-          "id": "KALISCTA000005725080",
+          "type": "section",
           "intOrdre": 85898,
           "title": "A. - Dispositions générales",
+          "id": "KALISCTA000005725080",
           "etat": "VIGUEUR_NON_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005752975",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Objet de la convention collective    ",
+              "id": "KALISCTA000005752975",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853518",
                   "num": "1",
                   "intOrdre": 42949,
@@ -44,12 +37,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005752976",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Durée, révision, dénonciation de la convention collective    ",
+              "id": "KALISCTA000005752976",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853519",
                   "num": "2",
                   "intOrdre": 42949,
@@ -59,12 +54,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005752977",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Avantages acquis    ",
+              "id": "KALISCTA000005752977",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853521",
                   "num": "3",
                   "intOrdre": 42949,
@@ -74,12 +71,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005752978",
+              "type": "section",
               "intOrdre": 171796,
               "title": "Liberté syndicale et liberté d'opinion    ",
+              "id": "KALISCTA000005752978",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853522",
                   "num": "4",
                   "intOrdre": 42949,
@@ -89,12 +88,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005752979",
+              "type": "section",
               "intOrdre": 214745,
               "title": "Institution représentative du personnel    ",
+              "id": "KALISCTA000005752979",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853523",
                   "num": "5",
                   "intOrdre": 42949,
@@ -106,18 +107,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005725081",
+          "type": "section",
           "intOrdre": 128847,
           "title": "B. - Le contrat de travail",
+          "id": "KALISCTA000005725081",
           "etat": "VIGUEUR_NON_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005752980",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Engagement du personnel    ",
+              "id": "KALISCTA000005752980",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853524",
                   "num": "6",
                   "intOrdre": 42949,
@@ -127,12 +131,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005752981",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Période d'essai    ",
+              "id": "KALISCTA000005752981",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853525",
                   "num": "7",
                   "intOrdre": 42949,
@@ -142,12 +148,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005752982",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Travail des jeunes    ",
+              "id": "KALISCTA000005752982",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853527",
                   "num": "8",
                   "intOrdre": 42949,
@@ -157,12 +165,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005752983",
+              "type": "section",
               "intOrdre": 171796,
               "title": "Remplacement temporaire    ",
+              "id": "KALISCTA000005752983",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853528",
                   "num": "9",
                   "intOrdre": 42949,
@@ -172,12 +182,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005752984",
+              "type": "section",
               "intOrdre": 214745,
               "title": "Rupture du contrat de travail    ",
+              "id": "KALISCTA000005752984",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853529",
                   "num": "10",
                   "intOrdre": 42949,
@@ -187,12 +199,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005752985",
+              "type": "section",
               "intOrdre": 257694,
               "title": "Indemnité de licenciement    ",
+              "id": "KALISCTA000005752985",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853530",
                   "num": "11",
                   "intOrdre": 42949,
@@ -204,18 +218,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005725082",
+          "type": "section",
           "intOrdre": 171796,
           "title": "C. - Salaires et conditions de travail",
+          "id": "KALISCTA000005725082",
           "etat": "VIGUEUR_NON_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005752986",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Fixation des salaires    ",
+              "id": "KALISCTA000005752986",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853532",
                   "num": "12",
                   "intOrdre": 42949,
@@ -225,12 +242,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005752987",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Treizième mois    ",
+              "id": "KALISCTA000005752987",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853533",
                   "num": "13",
                   "intOrdre": 42949,
@@ -240,12 +259,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005752988",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Heures supplémentaires    ",
+              "id": "KALISCTA000005752988",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853534",
                   "num": "14",
                   "intOrdre": 42949,
@@ -255,12 +276,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005752989",
+              "type": "section",
               "intOrdre": 171796,
               "title": "Service de nuit    ",
+              "id": "KALISCTA000005752989",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853535",
                   "num": "15",
                   "intOrdre": 42949,
@@ -270,12 +293,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005752990",
+              "type": "section",
               "intOrdre": 214745,
               "title": "Travail effectué le jour de repos hebdomadaire    ",
+              "id": "KALISCTA000005752990",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853536",
                   "num": "16",
                   "intOrdre": 42949,
@@ -285,12 +310,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005752991",
+              "type": "section",
               "intOrdre": 257694,
               "title": "Travail effectué un jour férié    ",
+              "id": "KALISCTA000005752991",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853537",
                   "num": "17",
                   "intOrdre": 42949,
@@ -300,12 +327,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005752992",
+              "type": "section",
               "intOrdre": 300643,
               "title": "Revalorisation des salaires    ",
+              "id": "KALISCTA000005752992",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853538",
                   "num": "18",
                   "intOrdre": 42949,
@@ -317,18 +346,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005725084",
+          "type": "section",
           "intOrdre": 214745,
           "title": "D. - Congés",
+          "id": "KALISCTA000005725084",
           "etat": "VIGUEUR_NON_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005752993",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Congés payés    ",
+              "id": "KALISCTA000005752993",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853539",
                   "num": "19",
                   "intOrdre": 42949,
@@ -338,12 +370,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005752994",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Congés pour événements familiaux    ",
+              "id": "KALISCTA000005752994",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853540",
                   "num": "20",
                   "intOrdre": 42949,
@@ -355,18 +389,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005725085",
+          "type": "section",
           "intOrdre": 257694,
           "title": "E. - Absences",
+          "id": "KALISCTA000005725085",
           "etat": "VIGUEUR_NON_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005752995",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Maladies et accidents du travail    ",
+              "id": "KALISCTA000005752995",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853541",
                   "num": "21",
                   "intOrdre": 42949,
@@ -376,12 +413,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005752996",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Indemnisation complémentaire    ",
+              "id": "KALISCTA000005752996",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853542",
                   "num": "22",
                   "intOrdre": 42949,
@@ -391,12 +430,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005752997",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Maternité    ",
+              "id": "KALISCTA000005752997",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853543",
                   "num": "23",
                   "intOrdre": 42949,
@@ -406,12 +447,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005752998",
+              "type": "section",
               "intOrdre": 171796,
               "title": "Obligations militaires    ",
+              "id": "KALISCTA000005752998",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853544",
                   "num": "24",
                   "intOrdre": 42949,
@@ -423,18 +466,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005725087",
+          "type": "section",
           "intOrdre": 300643,
           "title": "F. - Dispositions diverses",
+          "id": "KALISCTA000005725087",
           "etat": "VIGUEUR_NON_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005752999",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Formation continue    ",
+              "id": "KALISCTA000005752999",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853545",
                   "num": "25",
                   "intOrdre": 42949,
@@ -444,12 +490,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005753000",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Commission paritaire    ",
+              "id": "KALISCTA000005753000",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853547",
                   "num": "26",
                   "intOrdre": 42949,
@@ -459,27 +507,38 @@
               ]
             }
           ]
+        },
+        {
+          "type": "article",
+          "id": "KALIARTI000005853517",
+          "num": null,
+          "intOrdre": 42949,
+          "content": "<p></p>   Les accords qui vont suivre constituent des règles de bonne entente et de parfaite loyauté entre tous les membres de la profession. Ils ont pour but essentiel d'harmoniser les rapports entre employeurs et employés.<p></p><p></p>",
+          "etat": "VIGUEUR_NON_ETEN"
         }
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000005680843",
+          "type": "section",
           "title": "Accord du 15 mars 1990 relatif à l' introduction des nouvelles techniques",
-          "dateParution": 32472144000000,
-          "sections": [
+          "id": "KALITEXT000005680843",
+          "children": [
             {
-              "id": "KALISCTA000005725089",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Préambule",
+              "id": "KALISCTA000005725089",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853550",
                   "num": null,
                   "intOrdre": 42949,
@@ -489,12 +548,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005725090",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Évolution des postes de travail",
+              "id": "KALISCTA000005725090",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853551",
                   "num": null,
                   "intOrdre": 42949,
@@ -504,12 +565,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005725092",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Formation - Reconversion",
+              "id": "KALISCTA000005725092",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853552",
                   "num": null,
                   "intOrdre": 42949,
@@ -521,11 +584,12 @@
           ]
         },
         {
-          "id": "KALITEXT000005680845",
+          "type": "section",
           "title": "Accord du 29 novembre 2001 relatif à la définition des postes d'employés",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000005680845",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005853553",
               "num": null,
               "intOrdre": 42949,
@@ -537,17 +601,19 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 3,
       "title": "Textes Salaires",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000038746483",
+          "type": "section",
           "title": "Protocole d'accord du 27 septembre 2018 relatif aux salaires à compter du 1er novembre 2018",
-          "dateParution": 1562716800000,
-          "articles": [
+          "id": "KALITEXT000038746483",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038746486",
               "num": null,
               "intOrdre": 524287,
@@ -557,11 +623,12 @@
           ]
         },
         {
-          "id": "KALITEXT000036575620",
+          "type": "section",
           "title": "Avenant du 7 novembre 2017 relatif aux salaires à compter du 1er décembre 2017",
-          "dateParution": 1517875200000,
-          "articles": [
+          "id": "KALITEXT000036575620",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036575623",
               "num": null,
               "intOrdre": 524287,
@@ -571,11 +638,12 @@
           ]
         },
         {
-          "id": "KALITEXT000031114655",
+          "type": "section",
           "title": "Accord du 27 mars 2015 relatif aux salaires minima au 1er juillet 2015",
-          "dateParution": 1440979200000,
-          "articles": [
+          "id": "KALITEXT000031114655",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000031114658",
               "num": "1er",
               "intOrdre": 524287,
@@ -583,6 +651,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000031114659",
               "num": "2",
               "intOrdre": 1048574,
@@ -590,6 +659,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000031114660",
               "num": "3",
               "intOrdre": 1572861,
@@ -600,11 +670,12 @@
           ]
         },
         {
-          "id": "KALITEXT000031114663",
+          "type": "section",
           "title": "Accord du 27 mars 2015 relatif au barème des salaires au 1er juillet 2015",
-          "dateParution": 1440979200000,
-          "articles": [
+          "id": "KALITEXT000031114663",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000031114666",
               "num": null,
               "intOrdre": 524287,
@@ -614,11 +685,12 @@
           ]
         },
         {
-          "id": "KALITEXT000029149263",
+          "type": "section",
           "title": "Accord du 31 janvier 2014 relatif à la valeur du point pour l'année 2014",
-          "dateParution": 1404086400000,
-          "articles": [
+          "id": "KALITEXT000029149263",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000029149266",
               "num": null,
               "intOrdre": 524287,
@@ -628,11 +700,12 @@
           ]
         },
         {
-          "id": "KALITEXT000024408735",
+          "type": "section",
           "title": "Accord du 21 janvier 2011 relatif aux salaires et à la valeur du point au 1er février 2011",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000024408735",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000024408737",
               "num": null,
               "intOrdre": 524287,
@@ -642,11 +715,12 @@
           ]
         },
         {
-          "id": "KALITEXT000020159456",
+          "type": "section",
           "title": "Accord du 28 janvier 2008 relatif aux salaires",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000020159456",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000020159458",
               "num": null,
               "intOrdre": 524287,
@@ -656,17 +730,19 @@
           ]
         },
         {
-          "id": "KALITEXT000005680861",
+          "type": "section",
           "title": "Protocole d'accord du 18 janvier 2007 relatif aux salaires",
-          "dateParution": 32472144000000,
-          "sections": [
+          "id": "KALITEXT000005680861",
+          "children": [
             {
-              "id": "KALISCTA000005725095",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Salaires à compter du 1er mars 2007 et 1er octobre 2007",
+              "id": "KALISCTA000005725095",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005853562",
                   "num": null,
                   "intOrdre": 42949,
@@ -678,17 +754,19 @@
           ]
         },
         {
-          "id": "KALITEXT000005652544",
+          "type": "section",
           "title": "Avenant du 18 décembre 2002 relatif aux salaires en presse périodique régionale",
-          "dateParution": 32472144000000,
-          "sections": [
+          "id": "KALITEXT000005652544",
+          "children": [
             {
-              "id": "KALISCTA000005698442",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Salaires",
+              "id": "KALISCTA000005698442",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005786801",
                   "num": null,
                   "intOrdre": 42949,
