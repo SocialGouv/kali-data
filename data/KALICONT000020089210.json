@@ -1,25 +1,26 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale des conseils d'architecture, d'urbanisme et de l'environnement du 24 mai 2007",
   "id": "KALICONT000020089210",
   "num": "2666",
-  "title": "Convention collective nationale des conseils d'architecture, d'urbanisme et de l'environnement du 24 mai 2007",
   "shortTitle": "Architecture, Urbanisme, Environnement Conseils",
-  "categorisation": [
-    "Conseils d'architecture, d'urbanisme et de l'environnement"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000020089215",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale des conseils d'architecture, d'urbanisme et de l'environnement du 24 mai 2007",
+      "id": "KALITEXT000020089215",
       "etat": "VIGUEUR_ETEN",
-      "sections": [
+      "children": [
         {
-          "id": "KALISCTA000020089217",
+          "type": "section",
           "intOrdre": 524287,
           "title": "Préambule",
+          "id": "KALISCTA000020089217",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000020089230",
               "num": null,
               "intOrdre": 524287,
@@ -29,12 +30,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020089218",
+          "type": "section",
           "intOrdre": 1048574,
           "title": "Titre Ier : Liberté d'opinion et exercice du droit syndical",
+          "id": "KALISCTA000020089218",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000020089247",
               "num": "1.6",
               "intOrdre": 3670009,
@@ -45,12 +48,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020089219",
+          "type": "section",
           "intOrdre": 1572861,
           "title": "Titre II : Classifications professionnelles et niveaux de qualification",
+          "id": "KALISCTA000020089219",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000020089261",
               "num": "2.10",
               "intOrdre": 5767157,
@@ -61,12 +66,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020089220",
+          "type": "section",
           "intOrdre": 2097148,
           "title": "Titre III : Formation professionnelle tout au long de la vie",
+          "id": "KALISCTA000020089220",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000024845098",
               "num": "3.2",
               "intOrdre": 1048574,
@@ -77,12 +84,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020089221",
+          "type": "section",
           "intOrdre": 2621435,
           "title": "Titre IV : Durée du travail",
+          "id": "KALISCTA000020089221",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000033046704",
               "num": "4",
               "intOrdre": 524287,
@@ -92,12 +101,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020089222",
+          "type": "section",
           "intOrdre": 3145722,
           "title": "Titre V : Congés ― Absences",
+          "id": "KALISCTA000020089222",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000020089295",
               "num": "5.9",
               "intOrdre": 4718583,
@@ -108,12 +119,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020089223",
+          "type": "section",
           "intOrdre": 3670009,
           "title": "Titre VI : Embauche du personnel et contrat de travail",
+          "id": "KALISCTA000020089223",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000020089299",
               "num": "6.2",
               "intOrdre": 1048574,
@@ -124,12 +137,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020089224",
+          "type": "section",
           "intOrdre": 4194296,
           "title": "Titre VII : Conditions de rupture du contrat de travail",
+          "id": "KALISCTA000020089224",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000020089305",
               "num": "7.4",
               "intOrdre": 2097148,
@@ -140,18 +155,21 @@
           ]
         },
         {
-          "id": "KALISCTA000020089225",
+          "type": "section",
           "intOrdre": 4718583,
           "title": "Titre VIII : Retraite complémentaire ― Protection sociale",
+          "id": "KALISCTA000020089225",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000020089307",
+              "type": "section",
               "intOrdre": 524287,
               "title": "8.1. Retraite complémentaire",
+              "id": "KALISCTA000020089307",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000020089330",
                   "num": null,
                   "intOrdre": 524287,
@@ -161,12 +179,14 @@
               ]
             },
             {
-              "id": "KALISCTA000020089308",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "8.2. Régime national de prévoyance complémentaire obligatoire",
+              "id": "KALISCTA000020089308",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035676017",
                   "num": "5",
                   "intOrdre": 2621435,
@@ -179,12 +199,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020089226",
+          "type": "section",
           "intOrdre": 5242870,
           "title": "Titre IX : Protection des salariés contre la violence au travail",
+          "id": "KALISCTA000020089226",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000020089311",
               "num": "9.3",
               "intOrdre": 1572861,
@@ -195,12 +217,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020089227",
+          "type": "section",
           "intOrdre": 5767157,
           "title": "Titre X : Egalité professionnelle",
+          "id": "KALISCTA000020089227",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000020089318",
               "num": "10.3",
               "intOrdre": 2097148,
@@ -211,12 +235,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020089228",
+          "type": "section",
           "intOrdre": 6291444,
           "title": "Titre XI : Paritarisme",
+          "id": "KALISCTA000020089228",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000020089328",
               "num": "11.8",
               "intOrdre": 4194296,
@@ -227,12 +253,14 @@
           ]
         },
         {
-          "id": "KALISCTA000036845418",
+          "type": "section",
           "intOrdre": 6553587,
           "title": "Nouveau titre XI : Paritarisme",
+          "id": "KALISCTA000036845418",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038355219",
               "num": "11.1",
               "intOrdre": 1073741823,
@@ -243,12 +271,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020089229",
+          "type": "section",
           "intOrdre": 6815731,
           "title": "Titre XII : Fonds social et de solidarité national",
+          "id": "KALISCTA000020089229",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000020089329",
               "num": null,
               "intOrdre": 524287,
@@ -260,71 +290,36 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000027035864",
-          "title": "Avenant n° 13 du 15 octobre 2012 relatif à la prévoyance frais de santé",
-          "dateParution": 1360108800000,
-          "articles": [
-            {
-              "id": "KALIARTI000027035867",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p align='left'><br/>Les partenaires sociaux de la branche des CAUE, après l'examen annuel des comptes du régime santé de la branche et suite à l'instauration de la taxe sur les contrats d'assurance (3,5 % jusqu'au 30 septembre 2011 et 7 % à partir du 1er octobre 2011), se voient contraints d'augmenter les cotisations de la prévoyance santé de 3,5 % à partir du 1er janvier 2013. <br/>Le présent avenant modifie ainsi <a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000020089215&idArticle=KALIARTI000020089356&categorieLien=cid'>l'article 12.2</a>, paragraphe B du titre VIII de la convention collective nationale des CAUE, ainsi que <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000020468581&categorieLien=cid'>l'avenant n° 1 du 24 mai 2007</a>.</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000027035869",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Les cotisations sont augmentées de 3,5 %, les nouvelles valeurs sont reportées dans le tableau suivant qui remplace intégralement le tableau qui date de l'<a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000026167343&categorieLien=cid'>avenant n° 11 du 17 janvier 2012</a>. </p><p align='center'><br/>« B. – Garantie frais de santé de l'ensemble du personnel </p><p align='left'><div align='center'><center><table border='1'><tr><th>Garantie <br/>Frais de santé </th><th colspan='2'>Part employeur </th><th colspan='2'>Part salarié </th><th colspan='2'>Ensemble </th></tr><tr><td><br/></td><td align='center'>TA <br/>60 % </td><td align='center'>TB <br/>60 % </td><td align='center'>TA <br/>40 % </td><td align='center'>TB <br/>40 % </td><td align='center'>TA <br/>100 % </td><td align='center'>TB <br/>100 % </td></tr><tr><td align='center'>Cotisation salarié seul </td><td align='center'>1,10 % </td><td align='center'>1,10 % </td><td align='center'>0,73 % </td><td align='center'>0,73 % </td><td align='center'>1,83 % </td><td align='center'>1,83 % </td></tr><tr><td align='center'>Cotisation couple </td><td align='center'>2,17 % </td><td align='center'>2,17 % </td><td align='center'>1,45 % </td><td align='center'>1,45 % </td><td align='center'>3,62 % </td><td align='center'>3,62 % </td></tr><tr><td align='center'>Cotisation famille </td><td align='center'>3,38 % </td><td align='center'>3,38 % </td><td align='center'>2,26 % </td><td align='center'>2,26 % </td><td align='center'>5,64 % </td><td align='center'>5,64 %</td></tr></table></center></div></p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Modification de l'article 12.2 « Paiement des cotisations » B. – Garantie frais de santé de l'ensemble du personnel"
-            },
-            {
-              "id": "KALIARTI000027035871",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>« Les cotisations sont augmentées de 3,5 %, les nouvelles valeurs sont reportées dans le tableau suivant qui remplace intégralement le tableau qui date de l'<a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000026167343&categorieLien=cid'>avenant n° 11 du 17 janvier 2012</a>. </p><p align='left'><div align='center'><center><table border='1'><tr><th>Garantie <br/>Frais de santé </th><th colspan='2'>Part employeur </th><th colspan='2'>Part salarié </th><th colspan='2'>Ensemble </th></tr><tr><td><br/></td><td align='center'>TA <br/>60 % </td><td align='center'>TB <br/>60 % % </td><td align='center'>TA <br/>40 % </td><td align='center'>TB <br/>40 % </td><td align='center'>TA <br/>100 % </td><td align='center'>TB <br/>100 % </td></tr><tr><td align='center'>Cotisation salarié seul </td><td align='center'>0,66 % </td><td align='center'>0,66 % </td><td align='center'>0,45 % </td><td align='center'>0,45 % </td><td align='center'>1,11 % </td><td align='center'>1,11 % </td></tr><tr><td align='center'>Cotisation couple </td><td align='center'>1,35 % </td><td align='center'>1,35 % </td><td align='center'>0,89 % </td><td align='center'>0,89 % </td><td align='center'>2,24 % </td><td align='center'>2,24 % </td></tr><tr><td align='center'>Cotisation famille </td><td align='center'>2,09 % </td><td align='center'>2,09 % </td><td align='center'>1,39 % </td><td align='center'>1,39 % </td><td align='center'>3,48 % </td><td align='center'>3,48 %</td></tr></table></center></div></p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Modification de l'article 3 de l'annexe I du 24 juillet 2007"
-            },
-            {
-              "id": "KALIARTI000027035873",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Le présent avenant s'applique aux entreprises visées par le champ d'application de la convention collective nationale des conseils d'architecture, d'urbanisme et de l'environnement (CAUE) du 24 mai 2007.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Champ d'application"
-            },
-            {
-              "id": "KALIARTI000027035874",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Les parties conviennent qu'il ne peut être dérogé aux dispositions du titre VIII de la convention collective nationale des CAUE par une convention ou un accord de groupe, d'entreprise ou d'établissement. Une convention ou accord de groupe, d'entreprise ou établissement ne peut que compléter le présent avenant par des dispositions plus favorables aux salariés.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Hiérarchie des normes"
-            },
-            {
-              "id": "KALIARTI000027035875",
-              "num": "5",
-              "intOrdre": 3145722,
-              "content": "<p align='left'><br/>Les dispositions du présent avenant prendront effet le 1er janvier 2013.<br/>Il sera établi un nombre suffisant d'exemplaires pour être remis à chacune des parties signataires et effectuer les formalités de dépôt.<br/>Sous réserve, en application des dispositions transitoires de la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000019347122&categorieLien=cid'>loi n° 2008-789 du 20 août 2008</a>, de l'absence d'opposition de la majorité en nombre des organisations syndicales de salariés représentatives dans la branche, le présent avenant fera l'objet de la procédure d'extension conformément aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-15 du code du travail</a> et de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745466&dateTexte=&categorieLien=cid'>article L. 911-3 du code de la sécurité sociale</a>.<br/>Le présent accord est ouvert à la signature jusqu'au 30 octobre 2012.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Date d'effet. – Dépôt. – Extension"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000038326719",
+          "type": "section",
           "title": "Avenant n° 27 du 23 octobre 2018 relatif à la modification du nouveau titre XI concernant le paritarisme",
-          "dateParution": 1554163200000,
-          "articles": [
+          "id": "KALITEXT000038326719",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000038326722",
+              "etat": "VIGUEUR_NON_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000038326727",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'>Face aux difficultés de collecte des cotisations annuelles des employeurs rencontrées ces dernières années, les partenaires sociaux ont décidé de créer une association paritaire de gestion de la branche.</p><p align='left'>Par ailleurs, afin de prévenir voire d'éviter les éventuels contentieux entre salariés et employeurs lors de la période transitoire d'application de la convention collective par les entreprises et structures nouvellement concernées par le champ conventionnel, il a été convenu d'étendre la possibilité de saisine de la CPPNI pour avis et conciliation à l'ensemble des titres de la convention collective.</p><p></p>",
+                  "etat": "VIGUEUR_NON_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000038326723",
               "num": "1er",
               "intOrdre": 1048574,
@@ -332,6 +327,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038326724",
               "num": "2",
               "intOrdre": 1572861,
@@ -340,6 +336,7 @@
               "surtitre": "Entreprise de moins de 50 salariés"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038326725",
               "num": "3",
               "intOrdre": 2097148,
@@ -348,6 +345,7 @@
               "surtitre": "Date d'entrée en vigueur, durée"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038326726",
               "num": "4",
               "intOrdre": 2621435,
@@ -355,31 +353,163 @@
               "etat": "VIGUEUR_NON_ETEN",
               "surtitre": "Dépôt et publicité"
             }
-          ],
-          "sections": [
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Accord de méthode du 23 octobre 2018 relatif au changement de nom de la convention collective",
+          "id": "KALITEXT000038169383",
+          "children": [
             {
-              "id": "KALISCTA000038326722",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000038169386",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
-                  "id": "KALIARTI000038326727",
+                  "type": "article",
+                  "id": "KALIARTI000038169402",
                   "num": null,
                   "intOrdre": 524287,
-                  "content": "<p align='left'>Face aux difficultés de collecte des cotisations annuelles des employeurs rencontrées ces dernières années, les partenaires sociaux ont décidé de créer une association paritaire de gestion de la branche.</p><p align='left'>Par ailleurs, afin de prévenir voire d'éviter les éventuels contentieux entre salariés et employeurs lors de la période transitoire d'application de la convention collective par les entreprises et structures nouvellement concernées par le champ conventionnel, il a été convenu d'étendre la possibilité de saisine de la CPPNI pour avis et conciliation à l'ensemble des titres de la convention collective.</p><p></p>",
+                  "content": "<p align='left'>La FNCAUE et les organisations représentatives des salariés des CAUE ont signé le 24 mai 2007 une convention collective nationale (IDCC 2666) applicable à « tous les salariés des associations CAUE, dont les statuts sont définis par le titre II de la loi sur l'architecture n° 77-2 du 3 janvier 1977 et par le <a alt='Décret n°78-172 du 9 février 1978 (V)' href='/affichTexte.do?cidTexte=JORFTEXT000000883914&categorieLien=cid'>décret n° 78-172 du 9 février 1978</a>, ainsi qu'aux salariés des unions régionales et de la fédération nationale, sur l'ensemble de la métropole et des territoires d'outre-mer ».</p><p align='left'>En plus de 10 ans, cette CCN a permis un dialogue social permanent et constructif au sein des commissions paritaires et dans les CAUE, mais l'évolution du cadre législatif des conventions collectives nationales a amené les partenaires sociaux à envisager l'évolution de la CCN (IDCC 2666).</p><p align='left'>Dans le cadre de la <a alt='LOI n°2016-1088 du 8 août 2016 (V)' href='/affichTexte.do?cidTexte=JORFTEXT000032983213&categorieLien=cid'>loi n° 2016-1088 du 8 août 2016</a> favorisant le mouvement de restructuration des branches professionnelles, la commission paritaire de la branche s'est rapprochée de fédérations et de réseaux assurant des missions concernant le cadre de vie et le développement territorial, dans un souci d'intérêt général.</p><p align='left'>Les échanges menés ont permis de partager l'intérêt et la nécessité d'aller vers une convention collective nationale regroupant les secteurs d'activité de ces différents réseaux d'acteurs territoriaux.</p><p align='left'>Comme les y autorise l'<a alt='Code du travail - art. L2222-1 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901662&dateTexte=&categorieLien=cid'>article L. 2222-1, alinéa 1, du code du travail</a>, les partenaires sociaux ont donc décidé de modifier le champ d'application et l'intitulé de la convention collective nationale des conseils d'architecture, d'urbanisme et de l'environnement du 24 mai 2007 dans les conditions souhaitées d'un regroupement structuré et adapté aux réseaux ne relevant pas du champ d'application initial (avenant n° 26 en date du 10 juillet 2018).</p><p align='left'>Dans ce cadre, les partenaires sociaux ont pris la décision de négocier un accord de méthode organisant la négociation d'un futur dispositif conventionnel répondant aux enjeux de l'élargissement et associant l'ensemble des parties prenantes issues de cet élargissement conventionnel.</p><p align='left'>L'objectif de cet accord est de répondre aux enjeux de l'élargissement conventionnel tant à l'égard des CAUE que des réseaux d'acteurs territoriaux qui ne relevaient pas du champ d'application initial de l'IDCC n° 2666 et de fixer ainsi l'organisation de la négociation ainsi que les principes devant guider les travaux et donner sens au dialogue social.</p><p></p>",
                   "etat": "VIGUEUR_NON_ETEN"
                 }
               ]
+            },
+            {
+              "type": "section",
+              "intOrdre": 6291444,
+              "title": "Annexe",
+              "id": "KALISCTA000038169401",
+              "etat": "VIGUEUR_NON_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000038169407",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p>Annexe</p><p>Après modification le 10 juillet 2018 de son champ d'application et de son intitulé, les partenaires sociaux des CAUE se sont rapprochés de différentes organisations professionnelles qui ne relevaient pas du champ d'application initial de la convention collective IDCC 2666, à qui ils ont fait part de l'accord d'élargissement du champ d'application de la convention collective des CAUE, signé le 10 juillet 2018, et de l'accord de méthode, signé le 23 octobre 2018.</p><p>Les échanges et discussions préalables qui ont eu lieu sur ces deux textes permettent aux groupements professionnels ci-dessous d'accueillir favorablement et sans réserve l'accord d'élargissement et l'accord de méthode, ce qu'ils manifestent en signant la présente annexe qui sera adjointe à ces textes.</p>",
+                  "etat": "VIGUEUR_NON_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000038169387",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'>L'objectif est d'aboutir à une convention collective nationale des acteurs du développement et de l'ingénierie territoriale d'intérêt général (ADITIG) structurée, modernisée, adaptée, qui prenne en compte les réseaux d'entreprises et de structures qui ne relevaient pas du champ d'application initial et qui soit négociée par l'ensemble des parties prenantes issues de l'élargissement conventionnel.</p><p align='left'>L'avenant n° 26, en date du 10 juillet 2018, relatif à la modification du champ d'application et de l'intitulé de la convention collective nationale des CAUE du 24 mai 2007, fixe une période transitoire de 5 ans, débutant le jour de la publication de l'arrêté d'extension du nouveau champ d'application, pour l'ensemble des entreprises et structures qui ne relevaient pas du champ d'application initial de l'IDCC 2666, afin d'intégrer les dispositions de la convention collective nationale ADITIG.</p><p align='left'>Cette période transitoire de 5 ans permettra d'adapter les dispositions actuelles de la convention collective initiale des CAUE. Pour cela, le présent accord de méthode fixe les principales étapes du déroulement des négociations avec deux temps distincts :</p><p align='left'>– le temps 1 couvre la période transitoire allant de l'entrée en vigueur du nouveau champ d'application jusqu'à la date de renouvellement de la commission paritaire actuelle. Pendant cette période, des groupes techniques paritaires seront mis en place afin de préparer l'évolution nécessaire de la convention collective actuelle et de convenir du futur fonctionnement paritaire ;<br/>\n– le temps 2 couvre la période transitoire allant de la date de renouvellement de la commission paritaire actuelle au terme du délai de 5 ans. La nouvelle commission paritaire, assurant alors une représentation adaptée à la modification du champ d'application, procédera à l'évolution nécessaire des dispositions actuelles de la convention collective selon le calendrier précisé au présent accord de méthode.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Vers une convention collective nationale des acteurs du développement et de l'ingénierie territoriale d'intérêt général (ADITIG) négociée et adaptée"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000038169389",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'>La commission paritaire des CAUE a validé l'actualisation et la consolidation des dispositions de la convention collective, intégrant les évolutions législatives et réglementaires récentes, ainsi que les décisions ayant fait l'objet d'avenants.</p><p align='left'>Dans le cadre du nouveau champ d'application de la convention collective, dorénavant intitulée « convention collective nationale des acteurs du développement et de l'ingénierie territoriale d'intérêt général », les partenaires sociaux s'engagent à aboutir dans les meilleurs délais à l'évolution des dispositions actuelles de la convention collective.</p><p align='left'>Il s'agit d'adapter des dispositions ayant été négociées pour un seul réseau d'entreprises, à plusieurs réseaux. Il est donc convenu d'aborder ces négociations sur une base constructive permettant de négocier le socle commun entre les réseaux, dans l'intérêt partagé du dialogue social.</p><p align='left'>À cet effet, les partenaires (employeurs et salariés) pourront proposer, le cas échéant, des dispositions spécifiques, compte tenu des particularités de leurs métiers, de leurs activités et de leurs fonctionnements.</p><p align='left'>De même, chaque réseau d'employeurs est appelé à faire connaître aux partenaires un panorama thématique des dispositions en vigueur en son sein, et cela dans un délai de 12 mois au plus à compter de la date d'extension du champ d'application, et au plus tard avant le renouvellement de la commission paritaire.</p><p align='left'>À compter du renouvellement de la commission paritaire, pour chaque disposition modifiée ou nouvelle, l'accord paritaire précisera les conditions de mise en œuvre, qui pourront être à effet immédiat ou différé, sans pouvoir excéder le terme de 5 ans à compter de la date d'extension du champ d'application.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Adaptation progressive de la convention collective mise à jour"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000038169390",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'>Le fonctionnement du paritarisme actuel reste inchangé jusqu'au renouvellement de la commission paritaire. Il ne sera pas appelé de cotisation au paritarisme auprès des entreprises et structures nouvellement rattachées avant ce renouvellement.</p><p align='left'>Des groupes techniques permettront de réunir les partenaires actuels du paritarisme des CAUE et les réseaux nouvellement concernés, avec une représentation paritaire, afin d'anticiper les échanges nécessaires à l'évolution de la convention collective et d'en permettre la mise en œuvre dans les meilleurs délais à compter du renouvellement de la commission paritaire.</p><p align='left'>D'ici là, chaque réseau (et le paritarisme pour la fédération nationale des CAUE) prendra à sa charge les dépenses de ses représentants pour le bon fonctionnement des groupes techniques. En cas de dépenses communes (par exemple des honoraires juridiques), chaque réseau participera selon une règle de proportionnalité liée à son effectif salarié au 31 décembre 2017.</p><p align='left'></p><center><table border='1'><tbody><tr><th colspan='2'>Règle de proportionnalité des dépenses communes</th></tr><tr><td align='center'>Réseau de moins de 100 salariés</td><td align='center'>1</td></tr><tr><td align='center'>Réseau de 100 à 499 salariés</td><td align='center'>4</td></tr><tr><td align='center'>Réseau de 500 à 999 salariés</td><td align='center'>8</td></tr><tr><td align='center'>Réseau de 1 000 à 1 499 salariés</td><td align='center'>12</td></tr><tr><td align='center'>Réseau de 1 500 à 1 999 salariés</td><td align='center'>16</td></tr><tr><td align='center'>Réseau de plus de 2 000 salariés</td><td align='center'>20</td></tr></tbody></table></center><p></p><p align='left'>Un groupe de travail sera mis en place dès l'extension du champ d'application afin d'envisager le fonctionnement du paritarisme à compter du renouvellement de la commission paritaire actuelle. Le groupe de travail proposera, sur la base d'un programme de dépenses prévisionnelles, une révision du taux de cotisation appelé à compter du renouvellement de la commission paritaire. L'élargissement de l'assiette de cotisation doit permettre de rechercher une baisse du taux actuel (0,2 % de la masse salariale brute). Les propositions seront formalisées avant le renouvellement de la commission paritaire.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Fonctionnement du paritarisme avant le renouvellement de la CPPNI"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000038169391",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'>Les fédérations et réseaux d'employeurs discuteront de la constitution et du fonctionnement d'une union des fédérations d'employeurs (UFADITIG, union des fédérations des acteurs de l'ingénierie et du développement des territoires, agissant dans un cadre d'intérêt général) dans les meilleurs délais afin de permettre à l'ensemble des réseaux concernés de pouvoir être représentés au sein de la future commission paritaire et d'éviter l'exclusion de fait des plus petits d'entre eux lors de la mesure d'audience.</p><p align='left'>Si cette union des fédérations d'employeurs est mise en place avant le renouvellement de la commission paritaire, il sera convenu des dispositions de fonctionnement transitoire permettant à la FNCAUE d'en porter les positions au sein de la commission paritaire actuelle. La possibilité que cette union des fédérations se substitue à la FNCAUE au sein de la commission paritaire actuelle pourra être également envisagée en fonction de la réglementation, et notamment de l'<a alt='Code du travail - art. R2151-1 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000030730068&dateTexte=&categorieLien=cid'>article R. 2151-1 du code du travail</a>.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Organisation de la représentation des réseaux d'employeurs"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000038169393",
+              "num": "5",
+              "intOrdre": 3145722,
+              "content": "<p align='left'>Les partenaires sociaux s'engagent dans un calendrier de négociations préparatoires dès la date d'extension du champ d'application, afin de permettre une avancée rapide des accords dès le renouvellement de la commission paritaire.</p><p align='left'>Les thèmes prioritaires et les échéances pour conclure un accord sont les suivants, sans pouvoir excéder la période de 5 ans après la date d'extension de l'avenant du 10 juillet 2018 relatif à la modification du champ d'application et de l'intitulé de la CCN des CAUE :</p><p align='left'>1. Paritarisme/mutualisations des fonds : mise en œuvre immédiate dès le renouvellement de la CPPNI ;</p><p align='left'>2. Liberté d'opinion et exercice du droit syndical : installation de la CPPNI + 6 mois ;</p><p align='left'>3. Égalité professionnelle homme/femme et violence au travail : installation de la CPPNI + 6 mois ;</p><p align='left'>4. Formation professionnelle et mutualisation des fonds : installation de la CPPNI + 12 mois ;</p><p align='left'>5. Dispositions concernant les contrats de travail (embauche et période d'essai, durée du travail, congés et absences, rupture du contrat ainsi que les dispositions particulières à certains contrats - CDD, travail temporaire, poursuite de contrat entre deux entreprises, travail temporaire et insertion, recours au portage salarial) : installation de la CPPNI + 18 mois.</p><p align='left'>6. Retraite complémentaire – Protection sociale : installation de la CPPNI + 24 mois ;</p><p align='left'>7. Classification professionnelle et salaires minima : installation de la CPPNI + 30 mois ;</p><p align='left'>8. Ensemble des titres de la CCN : 5 ans à partir de l'arrêté d'extension.</p><p align='left'>Cette liste énumère les priorités de négociation ; elle n'est pas exhaustive, d'autres points pouvant être adjoints au cours des négociations.</p><p align='left'>En cas d'échec de la négociation sur un thème prioritaire selon le calendrier ci-dessus, un délai supplémentaire sera fixé par les partenaires en vue de trouver un accord, qui ne pourra excéder 6 mois. Par ailleurs, un médiateur du ministère du travail sera sollicité. Passé ce délai, en cas de nouvel échec de la négociation, les dispositions de la convention collective IDCC 2666 concernant la thématique ayant été négociée s'appliqueront à effet immédiat à toutes les entreprises et structures.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Calendrier de négociation, d'évolution et d'application de la CCN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000038169394",
+              "num": "6",
+              "intOrdre": 3670009,
+              "content": "<p align='left'><br/>Si les partenaires sociaux s'accordent sur la volonté d'une forte convergence de leurs intérêts, il existe de nombreuses disparités et spécificités dans les activités, les métiers et le fonctionnement de chacun. C'est pourquoi il est envisagé une classification de base et des principes communs (comme celui d'un point dont l'évolution fera l'objet d'une négociation unique), qui pourront être complétés par des annexes spécifiques, au besoin détaillées par métiers ou activités spécifiques.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Classification professionnelle et salaires minima"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000038169396",
+              "num": "7",
+              "intOrdre": 4194296,
+              "content": "<p align='left'>Pour les entreprises et structures relevant du champ d'application initial de la convention collective des CAUE, celle-ci continue à s'appliquer et évoluera suivant les décisions à venir de la commission paritaire.</p><p align='left'>Durant le temps 1 de la période de transition, les entreprises et structures ne relevant pas du champ d'application initial ne sont pas appelées à appliquer les dispositions actuelles de la convention collective IDCC 2666. Les dispositions prises par ces entreprises en application volontaire d'une autre convention collective restent applicables et modifiables durant le temps 1 de la période de transition, et durant le temps 2 dans les conditions qui suivent.</p><p align='left'>Durant le temps 2 de la période de transition, l'ensemble des entreprises et structures appliqueront progressivement les titres révisés (ou non révisés en cas d'échec de la négociation) de la convention collective actuelle suivant le calendrier fixé à l'article 5 du présent accord, et leur intégralité au plus tard au terme de la période de 5 ans à compter de la publication de la décision d'extension du champ d'application.</p><p align='left'>L'application immédiate et anticipée d'un ou de plusieurs titres de la convention collective actuelle est néanmoins possible par chaque entreprise ou structure rattachée au nouveau champ d'application. Elle relève toutefois d'une démarche de chaque employeur et ne remet en cause aucune des dispositions du présent accord de méthode. Cette application immédiate et anticipée ne pourra intervenir qu'après information consultation des institutions représentatives du personnel de l'entreprise ou en l'absence de ces institutions après information individuelle des salariés.</p><p align='left'>Eu égard à l'intérêt général attaché à l'élargissement du champ d'application de la convention IDCC 2666 tel qu'il résulte de l'avenant n° 26 du 10 juillet 2018, les différences temporaires de traitement entre salariés résultant du nouveau champ d'application et notamment de l'application des dispositions transitoires ne peuvent être utilement invoquées pendant la période transitoire de 5 ans fixée à l'avenant n° 26 du 10 juillet 2018.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Applications de la convention collective"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000038169398",
+              "num": "8",
+              "intOrdre": 4718583,
+              "content": "<p align='left'><br/>Pour l'application de l'article <a alt='Code du travail - art. L2261-23-1 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>L. 2261-23-1</a>, les partenaires sociaux ont considéré qu'un accord de méthode sur les échéances et les modalités des dispositions transitoires consécutives à l'élargissement du champ conventionnel n'avait pas à comporter les stipulations spécifiques mentionnées à l'article <a alt='Code du travail - art. L2232-10-1 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid'>L. 2232-10-1</a>. En effet le sujet de l'accord est sans rapport avec la taille de l'entreprise.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Mesures spécifiques pour les entreprises et structures de moins de 50 salariés"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000038169399",
+              "num": "9",
+              "intOrdre": 5242870,
+              "content": "<p align='left'>Les dispositions du présent avenant entreront en vigueur à partir de la signature de l'accord.</p><p align='left'>Le présent accord est conclu pour une durée déterminée de 5 ans à compter de sa date d'entrée en vigueur.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Date d'entrée en vigueur. – Durée"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000038169400",
+              "num": "10",
+              "intOrdre": 5767157,
+              "content": "<p align='left'><br/>À la demande de la partie signataire la plus diligente, le secrétariat du paritarisme effectuera les démarches nécessaires à la publicité et l'extension selon la réglementation en vigueur.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Dépôt et publicité"
             }
           ]
         },
         {
-          "id": "KALITEXT000036827661",
+          "type": "section",
           "title": "Avenant n° 25 du 12 décembre 2017 relatif à la mise en place de la CPPNI",
-          "dateParution": 1524441600000,
-          "articles": [
+          "id": "KALITEXT000036827661",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000036827664",
+              "etat": "VIGUEUR_NON_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000036827685",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'><br/>Les parties signataires partagent la conviction que la branche constitue l'espace pertinent de régulation de la concurrence et de détermination d'un socle de garanties sociales au sein du secteur. Elles considèrent que la négociation de branche qui permet de définir les classifications, les salaires minimaux, la formation, la prévoyance, la politique de prévention de la pénibilité applicable dans la branche, et d'assurer l'égalité professionnelle entre les femmes et les hommes, participe à structurer le secteur des activités des CAUE.<br/>Par le présent accord, les parties signataires souhaitent se donner les moyens de construire un dialogue social de branche responsable et permanent, fondé sur une relation de loyauté et de confiance mutuelle. Un dialogue social responsable est, en effet, celui où chacun des représentants, totalement investi de sa mission, est pleinement et constamment conscient des intérêts des personnes et du secteur économique qu'il représente. Un dialogue social permanent est également celui qui permet la poursuite des échanges formels ou informels, malgré les désaccords qui peuvent s'exprimer à l'occasion de négociations. Afin de permettre aux partenaires sociaux de la branche de mener à bien leurs missions dans des conditions de confiance réciproque, le présent accord définit les attributions, la composition, le fonctionnement des instances paritaires sociales. Il a notamment pour objet, dans le cadre de l'<a alt='LOI n°2016-1088 du 8 août 2016 - art. 24 (M)' href='/affichTexteArticle.do?cidTexte=JORFTEXT000032983213&idArticle=JORFARTI000032983924&categorieLien=cid'>article 24 de la loi n° 2016-1088 du 8 août 2016</a> relative au travail, à la modernisation du dialogue social et à la sécurisation des parcours professionnels qui modifie l'<a alt='Code du travail - art. L2232-9 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901694&dateTexte=&categorieLien=cid'>article L. 2232-9 du code du travail</a> de prévoir la mise en place, par accord ou convention dans chaque branche, de créer une commission permanente paritaire de négociation et d'interprétation.</p>",
+                  "etat": "VIGUEUR_NON_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000036827665",
               "num": "1er",
               "intOrdre": 1048574,
@@ -388,6 +518,7 @@
               "surtitre": "Objet"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036827680",
               "num": "2",
               "intOrdre": 1572861,
@@ -396,6 +527,7 @@
               "surtitre": "Durée"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036827681",
               "num": "3",
               "intOrdre": 2097148,
@@ -404,6 +536,7 @@
               "surtitre": "Révision"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036827683",
               "num": "4",
               "intOrdre": 2621435,
@@ -411,69 +544,22 @@
               "etat": "VIGUEUR_NON_ETEN",
               "surtitre": "Dépôt et publicité"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000036827664",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000036827685",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>Les parties signataires partagent la conviction que la branche constitue l'espace pertinent de régulation de la concurrence et de détermination d'un socle de garanties sociales au sein du secteur. Elles considèrent que la négociation de branche qui permet de définir les classifications, les salaires minimaux, la formation, la prévoyance, la politique de prévention de la pénibilité applicable dans la branche, et d'assurer l'égalité professionnelle entre les femmes et les hommes, participe à structurer le secteur des activités des CAUE.<br/>Par le présent accord, les parties signataires souhaitent se donner les moyens de construire un dialogue social de branche responsable et permanent, fondé sur une relation de loyauté et de confiance mutuelle. Un dialogue social responsable est, en effet, celui où chacun des représentants, totalement investi de sa mission, est pleinement et constamment conscient des intérêts des personnes et du secteur économique qu'il représente. Un dialogue social permanent est également celui qui permet la poursuite des échanges formels ou informels, malgré les désaccords qui peuvent s'exprimer à l'occasion de négociations. Afin de permettre aux partenaires sociaux de la branche de mener à bien leurs missions dans des conditions de confiance réciproque, le présent accord définit les attributions, la composition, le fonctionnement des instances paritaires sociales. Il a notamment pour objet, dans le cadre de l'<a alt='LOI n°2016-1088 du 8 août 2016 - art. 24 (M)' href='/affichTexteArticle.do?cidTexte=JORFTEXT000032983213&idArticle=JORFARTI000032983924&categorieLien=cid'>article 24 de la loi n° 2016-1088 du 8 août 2016</a> relative au travail, à la modernisation du dialogue social et à la sécurisation des parcours professionnels qui modifie l'<a alt='Code du travail - art. L2232-9 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901694&dateTexte=&categorieLien=cid'>article L. 2232-9 du code du travail</a> de prévoir la mise en place, par accord ou convention dans chaque branche, de créer une commission permanente paritaire de négociation et d'interprétation.</p>",
-                  "etat": "VIGUEUR_NON_ETEN"
-                }
-              ]
-            }
           ]
         },
         {
-          "id": "KALITEXT000035657816",
+          "type": "section",
           "title": "Avenant n° 23 du 7 juin 2016 relatif à la modification du régime de frais de santé",
-          "dateParution": 1506470400000,
-          "articles": [
+          "id": "KALITEXT000035657816",
+          "children": [
             {
-              "id": "KALIARTI000035657820",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'>A compter du 1er janvier 2017, le tableau des garanties figurant à l'article 5.6 du titre VIII – 8.2 de la convention collective, applicable à compter de cette date, est à l'annexe A du présent avenant.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Modification de l'article 5.6 « Tableau de garanties (hors Alsace-Moselle) »"
-            },
-            {
-              "id": "KALIARTI000035657821",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'>A compter du 1er janvier 2017, le tableau des garanties figurant au paragraphe « 2. Tableau des garanties obligatoires Alsace-Moselle » de l'annexe I au titre VIII – 8.2 de la convention collective, applicable à compter de cette date, est à l'annexe A du présent avenant.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Modification de l'annexe 1 « Garanties frais de santé en Alsace-Moselle »"
-            },
-            {
-              "id": "KALIARTI000035657822",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Le présent avenant entre en vigueur le 1er janvier 2017, pour frais de santé engagés à compter de cette date.</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000035657823",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Conformément aux dispositions des articles <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>L. 2231-6</a> et <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid'>D. 2231-2</a> du code du travail, le présent avenant sera déposé en deux exemplaires auprès des services centraux du ministre chargé du travail.<br/>Les parties signataires conviennent de demander l'extension du présent avenant auprès du ministre chargé de la sécurité sociale et du ministre chargé du budget, conformément aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745466&dateTexte=&categorieLien=cid'>dispositions de l'article L. 911-3 du code de la sécurité sociale</a>.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000035657819",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000035657819",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035657828",
                   "num": null,
                   "intOrdre": 524287,
@@ -483,12 +569,14 @@
               ]
             },
             {
-              "id": "KALISCTA000035657827",
+              "type": "section",
               "intOrdre": 3145722,
               "title": "Annexe",
+              "id": "KALISCTA000035657827",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035657833",
                   "num": null,
                   "intOrdre": 524287,
@@ -496,15 +584,50 @@
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000035657820",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'>A compter du 1er janvier 2017, le tableau des garanties figurant à l'article 5.6 du titre VIII – 8.2 de la convention collective, applicable à compter de cette date, est à l'annexe A du présent avenant.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Modification de l'article 5.6 « Tableau de garanties (hors Alsace-Moselle) »"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000035657821",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'>A compter du 1er janvier 2017, le tableau des garanties figurant au paragraphe « 2. Tableau des garanties obligatoires Alsace-Moselle » de l'annexe I au titre VIII – 8.2 de la convention collective, applicable à compter de cette date, est à l'annexe A du présent avenant.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Modification de l'annexe 1 « Garanties frais de santé en Alsace-Moselle »"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000035657822",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Le présent avenant entre en vigueur le 1er janvier 2017, pour frais de santé engagés à compter de cette date.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000035657823",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Conformément aux dispositions des articles <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>L. 2231-6</a> et <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid'>D. 2231-2</a> du code du travail, le présent avenant sera déposé en deux exemplaires auprès des services centraux du ministre chargé du travail.<br/>Les parties signataires conviennent de demander l'extension du présent avenant auprès du ministre chargé de la sécurité sociale et du ministre chargé du budget, conformément aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745466&dateTexte=&categorieLien=cid'>dispositions de l'article L. 911-3 du code de la sécurité sociale</a>.</p>",
+              "etat": "VIGUEUR_ETEN"
             }
           ]
         },
         {
-          "id": "KALITEXT000033028461",
+          "type": "section",
           "title": "Avenant n° 19 du 25 avril 2016 relatif au temps partiel",
-          "dateParution": 1471219200000,
-          "articles": [
+          "id": "KALITEXT000033028461",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000033028464",
               "num": null,
               "intOrdre": 524287,
@@ -512,6 +635,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033028466",
               "num": "1er",
               "intOrdre": 1048574,
@@ -519,6 +643,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033028475",
               "num": "2",
               "intOrdre": 1572861,
@@ -527,6 +652,7 @@
               "surtitre": "Durée"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033028476",
               "num": "3",
               "intOrdre": 2097148,
@@ -535,6 +661,7 @@
               "surtitre": "Date d'entrée en vigueur, champ d'application et portée"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033028478",
               "num": "4",
               "intOrdre": 2621435,
@@ -543,6 +670,7 @@
               "surtitre": "Publicité"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033028479",
               "num": "5",
               "intOrdre": 3145722,
@@ -553,11 +681,12 @@
           ]
         },
         {
-          "id": "KALITEXT000029433540",
+          "type": "section",
           "title": "Avenant n° 18 du 13 mai 2014 relatif à la modification du régime de prévoyance",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000029433540",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000029433543",
               "num": null,
               "intOrdre": 524287,
@@ -565,6 +694,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029433546",
               "num": "1er",
               "intOrdre": 1048574,
@@ -572,6 +702,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029433548",
               "num": "2",
               "intOrdre": 1572861,
@@ -579,6 +710,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029433550",
               "num": "3",
               "intOrdre": 2097148,
@@ -586,6 +718,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029433552",
               "num": "4",
               "intOrdre": 2621435,
@@ -593,6 +726,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029433554",
               "num": "5",
               "intOrdre": 3145722,
@@ -600,6 +734,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029433555",
               "num": "6",
               "intOrdre": 3670009,
@@ -607,6 +742,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029433559",
               "num": "7",
               "intOrdre": 4194296,
@@ -614,6 +750,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029433564",
               "num": "8",
               "intOrdre": 4718583,
@@ -621,6 +758,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029433566",
               "num": "9",
               "intOrdre": 5242870,
@@ -628,6 +766,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029433568",
               "num": "10",
               "intOrdre": 5767157,
@@ -637,11 +776,12 @@
           ]
         },
         {
-          "id": "KALITEXT000028836920",
+          "type": "section",
           "title": "Avenant n° 16 du 9 décembre 2013 relatif à la garantie frais de santé",
-          "dateParution": 1397001600000,
-          "articles": [
+          "id": "KALITEXT000028836920",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000028836923",
               "num": null,
               "intOrdre": 524287,
@@ -649,6 +789,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028836926",
               "num": "1er",
               "intOrdre": 1048574,
@@ -657,6 +798,7 @@
               "surtitre": "Modification de l'article 12.2 « Paiement des cotisations », partie B « Frais de santé »"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028836927",
               "num": "2",
               "intOrdre": 1572861,
@@ -665,6 +807,7 @@
               "surtitre": "Modification de l'article 3 de l'annexe I du 24 juillet 2007"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028836928",
               "num": "3",
               "intOrdre": 2097148,
@@ -673,6 +816,7 @@
               "surtitre": "Modification de l'article 5.6 (tableau des garanties concernant l'optique)"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028836930",
               "num": "4",
               "intOrdre": 2621435,
@@ -681,6 +825,7 @@
               "surtitre": "Modification de l'article 12.2. « Paiement des cotisations », partie A « Prévoyance »"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028836931",
               "num": "5",
               "intOrdre": 3145722,
@@ -689,6 +834,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028836932",
               "num": "6",
               "intOrdre": 3670009,
@@ -697,6 +843,7 @@
               "surtitre": "Hiérarchie des normes"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028836933",
               "num": "7",
               "intOrdre": 4194296,
@@ -707,11 +854,12 @@
           ]
         },
         {
-          "id": "KALITEXT000027348286",
+          "type": "section",
           "title": "Avenant n° 14 du 12 décembre 2012 relatif à la répartition des contributions au FPSPP",
-          "dateParution": 1366761600000,
-          "articles": [
+          "id": "KALITEXT000027348286",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000027348289",
               "num": null,
               "intOrdre": 524287,
@@ -719,6 +867,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027348291",
               "num": "1er",
               "intOrdre": 1048574,
@@ -727,6 +876,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027348292",
               "num": "2",
               "intOrdre": 1572861,
@@ -735,6 +885,7 @@
               "surtitre": "Répartition"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027348294",
               "num": "3",
               "intOrdre": 2097148,
@@ -743,6 +894,7 @@
               "surtitre": "Date d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027348296",
               "num": "4",
               "intOrdre": 2621435,
@@ -751,6 +903,7 @@
               "surtitre": "Dénonciation. – Révision"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027348299",
               "num": "5",
               "intOrdre": 3145722,
@@ -761,200 +914,72 @@
           ]
         },
         {
-          "id": "KALITEXT000038169383",
-          "title": "Accord de méthode du 23 octobre 2018 relatif au changement de nom de la convention collective",
-          "dateParution": 32472144000000,
-          "articles": [
+          "type": "section",
+          "title": "Avenant n° 13 du 15 octobre 2012 relatif à la prévoyance frais de santé",
+          "id": "KALITEXT000027035864",
+          "children": [
             {
-              "id": "KALIARTI000038169387",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'>L'objectif est d'aboutir à une convention collective nationale des acteurs du développement et de l'ingénierie territoriale d'intérêt général (ADITIG) structurée, modernisée, adaptée, qui prenne en compte les réseaux d'entreprises et de structures qui ne relevaient pas du champ d'application initial et qui soit négociée par l'ensemble des parties prenantes issues de l'élargissement conventionnel.</p><p align='left'>L'avenant n° 26, en date du 10 juillet 2018, relatif à la modification du champ d'application et de l'intitulé de la convention collective nationale des CAUE du 24 mai 2007, fixe une période transitoire de 5 ans, débutant le jour de la publication de l'arrêté d'extension du nouveau champ d'application, pour l'ensemble des entreprises et structures qui ne relevaient pas du champ d'application initial de l'IDCC 2666, afin d'intégrer les dispositions de la convention collective nationale ADITIG.</p><p align='left'>Cette période transitoire de 5 ans permettra d'adapter les dispositions actuelles de la convention collective initiale des CAUE. Pour cela, le présent accord de méthode fixe les principales étapes du déroulement des négociations avec deux temps distincts :</p><p align='left'>– le temps 1 couvre la période transitoire allant de l'entrée en vigueur du nouveau champ d'application jusqu'à la date de renouvellement de la commission paritaire actuelle. Pendant cette période, des groupes techniques paritaires seront mis en place afin de préparer l'évolution nécessaire de la convention collective actuelle et de convenir du futur fonctionnement paritaire ;<br/>\n– le temps 2 couvre la période transitoire allant de la date de renouvellement de la commission paritaire actuelle au terme du délai de 5 ans. La nouvelle commission paritaire, assurant alors une représentation adaptée à la modification du champ d'application, procédera à l'évolution nécessaire des dispositions actuelles de la convention collective selon le calendrier précisé au présent accord de méthode.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Vers une convention collective nationale des acteurs du développement et de l'ingénierie territoriale d'intérêt général (ADITIG) négociée et adaptée"
-            },
-            {
-              "id": "KALIARTI000038169389",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'>La commission paritaire des CAUE a validé l'actualisation et la consolidation des dispositions de la convention collective, intégrant les évolutions législatives et réglementaires récentes, ainsi que les décisions ayant fait l'objet d'avenants.</p><p align='left'>Dans le cadre du nouveau champ d'application de la convention collective, dorénavant intitulée « convention collective nationale des acteurs du développement et de l'ingénierie territoriale d'intérêt général », les partenaires sociaux s'engagent à aboutir dans les meilleurs délais à l'évolution des dispositions actuelles de la convention collective.</p><p align='left'>Il s'agit d'adapter des dispositions ayant été négociées pour un seul réseau d'entreprises, à plusieurs réseaux. Il est donc convenu d'aborder ces négociations sur une base constructive permettant de négocier le socle commun entre les réseaux, dans l'intérêt partagé du dialogue social.</p><p align='left'>À cet effet, les partenaires (employeurs et salariés) pourront proposer, le cas échéant, des dispositions spécifiques, compte tenu des particularités de leurs métiers, de leurs activités et de leurs fonctionnements.</p><p align='left'>De même, chaque réseau d'employeurs est appelé à faire connaître aux partenaires un panorama thématique des dispositions en vigueur en son sein, et cela dans un délai de 12 mois au plus à compter de la date d'extension du champ d'application, et au plus tard avant le renouvellement de la commission paritaire.</p><p align='left'>À compter du renouvellement de la commission paritaire, pour chaque disposition modifiée ou nouvelle, l'accord paritaire précisera les conditions de mise en œuvre, qui pourront être à effet immédiat ou différé, sans pouvoir excéder le terme de 5 ans à compter de la date d'extension du champ d'application.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Adaptation progressive de la convention collective mise à jour"
-            },
-            {
-              "id": "KALIARTI000038169390",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'>Le fonctionnement du paritarisme actuel reste inchangé jusqu'au renouvellement de la commission paritaire. Il ne sera pas appelé de cotisation au paritarisme auprès des entreprises et structures nouvellement rattachées avant ce renouvellement.</p><p align='left'>Des groupes techniques permettront de réunir les partenaires actuels du paritarisme des CAUE et les réseaux nouvellement concernés, avec une représentation paritaire, afin d'anticiper les échanges nécessaires à l'évolution de la convention collective et d'en permettre la mise en œuvre dans les meilleurs délais à compter du renouvellement de la commission paritaire.</p><p align='left'>D'ici là, chaque réseau (et le paritarisme pour la fédération nationale des CAUE) prendra à sa charge les dépenses de ses représentants pour le bon fonctionnement des groupes techniques. En cas de dépenses communes (par exemple des honoraires juridiques), chaque réseau participera selon une règle de proportionnalité liée à son effectif salarié au 31 décembre 2017.</p><p align='left'></p><center><table border='1'><tbody><tr><th colspan='2'>Règle de proportionnalité des dépenses communes</th></tr><tr><td align='center'>Réseau de moins de 100 salariés</td><td align='center'>1</td></tr><tr><td align='center'>Réseau de 100 à 499 salariés</td><td align='center'>4</td></tr><tr><td align='center'>Réseau de 500 à 999 salariés</td><td align='center'>8</td></tr><tr><td align='center'>Réseau de 1 000 à 1 499 salariés</td><td align='center'>12</td></tr><tr><td align='center'>Réseau de 1 500 à 1 999 salariés</td><td align='center'>16</td></tr><tr><td align='center'>Réseau de plus de 2 000 salariés</td><td align='center'>20</td></tr></tbody></table></center><p></p><p align='left'>Un groupe de travail sera mis en place dès l'extension du champ d'application afin d'envisager le fonctionnement du paritarisme à compter du renouvellement de la commission paritaire actuelle. Le groupe de travail proposera, sur la base d'un programme de dépenses prévisionnelles, une révision du taux de cotisation appelé à compter du renouvellement de la commission paritaire. L'élargissement de l'assiette de cotisation doit permettre de rechercher une baisse du taux actuel (0,2 % de la masse salariale brute). Les propositions seront formalisées avant le renouvellement de la commission paritaire.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Fonctionnement du paritarisme avant le renouvellement de la CPPNI"
-            },
-            {
-              "id": "KALIARTI000038169391",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'>Les fédérations et réseaux d'employeurs discuteront de la constitution et du fonctionnement d'une union des fédérations d'employeurs (UFADITIG, union des fédérations des acteurs de l'ingénierie et du développement des territoires, agissant dans un cadre d'intérêt général) dans les meilleurs délais afin de permettre à l'ensemble des réseaux concernés de pouvoir être représentés au sein de la future commission paritaire et d'éviter l'exclusion de fait des plus petits d'entre eux lors de la mesure d'audience.</p><p align='left'>Si cette union des fédérations d'employeurs est mise en place avant le renouvellement de la commission paritaire, il sera convenu des dispositions de fonctionnement transitoire permettant à la FNCAUE d'en porter les positions au sein de la commission paritaire actuelle. La possibilité que cette union des fédérations se substitue à la FNCAUE au sein de la commission paritaire actuelle pourra être également envisagée en fonction de la réglementation, et notamment de l'<a alt='Code du travail - art. R2151-1 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000030730068&dateTexte=&categorieLien=cid'>article R. 2151-1 du code du travail</a>.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Organisation de la représentation des réseaux d'employeurs"
-            },
-            {
-              "id": "KALIARTI000038169393",
-              "num": "5",
-              "intOrdre": 3145722,
-              "content": "<p align='left'>Les partenaires sociaux s'engagent dans un calendrier de négociations préparatoires dès la date d'extension du champ d'application, afin de permettre une avancée rapide des accords dès le renouvellement de la commission paritaire.</p><p align='left'>Les thèmes prioritaires et les échéances pour conclure un accord sont les suivants, sans pouvoir excéder la période de 5 ans après la date d'extension de l'avenant du 10 juillet 2018 relatif à la modification du champ d'application et de l'intitulé de la CCN des CAUE :</p><p align='left'>1. Paritarisme/mutualisations des fonds : mise en œuvre immédiate dès le renouvellement de la CPPNI ;</p><p align='left'>2. Liberté d'opinion et exercice du droit syndical : installation de la CPPNI + 6 mois ;</p><p align='left'>3. Égalité professionnelle homme/femme et violence au travail : installation de la CPPNI + 6 mois ;</p><p align='left'>4. Formation professionnelle et mutualisation des fonds : installation de la CPPNI + 12 mois ;</p><p align='left'>5. Dispositions concernant les contrats de travail (embauche et période d'essai, durée du travail, congés et absences, rupture du contrat ainsi que les dispositions particulières à certains contrats - CDD, travail temporaire, poursuite de contrat entre deux entreprises, travail temporaire et insertion, recours au portage salarial) : installation de la CPPNI + 18 mois.</p><p align='left'>6. Retraite complémentaire – Protection sociale : installation de la CPPNI + 24 mois ;</p><p align='left'>7. Classification professionnelle et salaires minima : installation de la CPPNI + 30 mois ;</p><p align='left'>8. Ensemble des titres de la CCN : 5 ans à partir de l'arrêté d'extension.</p><p align='left'>Cette liste énumère les priorités de négociation ; elle n'est pas exhaustive, d'autres points pouvant être adjoints au cours des négociations.</p><p align='left'>En cas d'échec de la négociation sur un thème prioritaire selon le calendrier ci-dessus, un délai supplémentaire sera fixé par les partenaires en vue de trouver un accord, qui ne pourra excéder 6 mois. Par ailleurs, un médiateur du ministère du travail sera sollicité. Passé ce délai, en cas de nouvel échec de la négociation, les dispositions de la convention collective IDCC 2666 concernant la thématique ayant été négociée s'appliqueront à effet immédiat à toutes les entreprises et structures.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Calendrier de négociation, d'évolution et d'application de la CCN"
-            },
-            {
-              "id": "KALIARTI000038169394",
-              "num": "6",
-              "intOrdre": 3670009,
-              "content": "<p align='left'><br/>Si les partenaires sociaux s'accordent sur la volonté d'une forte convergence de leurs intérêts, il existe de nombreuses disparités et spécificités dans les activités, les métiers et le fonctionnement de chacun. C'est pourquoi il est envisagé une classification de base et des principes communs (comme celui d'un point dont l'évolution fera l'objet d'une négociation unique), qui pourront être complétés par des annexes spécifiques, au besoin détaillées par métiers ou activités spécifiques.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Classification professionnelle et salaires minima"
-            },
-            {
-              "id": "KALIARTI000038169396",
-              "num": "7",
-              "intOrdre": 4194296,
-              "content": "<p align='left'>Pour les entreprises et structures relevant du champ d'application initial de la convention collective des CAUE, celle-ci continue à s'appliquer et évoluera suivant les décisions à venir de la commission paritaire.</p><p align='left'>Durant le temps 1 de la période de transition, les entreprises et structures ne relevant pas du champ d'application initial ne sont pas appelées à appliquer les dispositions actuelles de la convention collective IDCC 2666. Les dispositions prises par ces entreprises en application volontaire d'une autre convention collective restent applicables et modifiables durant le temps 1 de la période de transition, et durant le temps 2 dans les conditions qui suivent.</p><p align='left'>Durant le temps 2 de la période de transition, l'ensemble des entreprises et structures appliqueront progressivement les titres révisés (ou non révisés en cas d'échec de la négociation) de la convention collective actuelle suivant le calendrier fixé à l'article 5 du présent accord, et leur intégralité au plus tard au terme de la période de 5 ans à compter de la publication de la décision d'extension du champ d'application.</p><p align='left'>L'application immédiate et anticipée d'un ou de plusieurs titres de la convention collective actuelle est néanmoins possible par chaque entreprise ou structure rattachée au nouveau champ d'application. Elle relève toutefois d'une démarche de chaque employeur et ne remet en cause aucune des dispositions du présent accord de méthode. Cette application immédiate et anticipée ne pourra intervenir qu'après information consultation des institutions représentatives du personnel de l'entreprise ou en l'absence de ces institutions après information individuelle des salariés.</p><p align='left'>Eu égard à l'intérêt général attaché à l'élargissement du champ d'application de la convention IDCC 2666 tel qu'il résulte de l'avenant n° 26 du 10 juillet 2018, les différences temporaires de traitement entre salariés résultant du nouveau champ d'application et notamment de l'application des dispositions transitoires ne peuvent être utilement invoquées pendant la période transitoire de 5 ans fixée à l'avenant n° 26 du 10 juillet 2018.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Applications de la convention collective"
-            },
-            {
-              "id": "KALIARTI000038169398",
-              "num": "8",
-              "intOrdre": 4718583,
-              "content": "<p align='left'><br/>Pour l'application de l'article <a alt='Code du travail - art. L2261-23-1 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>L. 2261-23-1</a>, les partenaires sociaux ont considéré qu'un accord de méthode sur les échéances et les modalités des dispositions transitoires consécutives à l'élargissement du champ conventionnel n'avait pas à comporter les stipulations spécifiques mentionnées à l'article <a alt='Code du travail - art. L2232-10-1 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid'>L. 2232-10-1</a>. En effet le sujet de l'accord est sans rapport avec la taille de l'entreprise.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Mesures spécifiques pour les entreprises et structures de moins de 50 salariés"
-            },
-            {
-              "id": "KALIARTI000038169399",
-              "num": "9",
-              "intOrdre": 5242870,
-              "content": "<p align='left'>Les dispositions du présent avenant entreront en vigueur à partir de la signature de l'accord.</p><p align='left'>Le présent accord est conclu pour une durée déterminée de 5 ans à compter de sa date d'entrée en vigueur.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Date d'entrée en vigueur. – Durée"
-            },
-            {
-              "id": "KALIARTI000038169400",
-              "num": "10",
-              "intOrdre": 5767157,
-              "content": "<p align='left'><br/>À la demande de la partie signataire la plus diligente, le secrétariat du paritarisme effectuera les démarches nécessaires à la publicité et l'extension selon la réglementation en vigueur.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Dépôt et publicité"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000038169386",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000038169402",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'>La FNCAUE et les organisations représentatives des salariés des CAUE ont signé le 24 mai 2007 une convention collective nationale (IDCC 2666) applicable à « tous les salariés des associations CAUE, dont les statuts sont définis par le titre II de la loi sur l'architecture n° 77-2 du 3 janvier 1977 et par le <a alt='Décret n°78-172 du 9 février 1978 (V)' href='/affichTexte.do?cidTexte=JORFTEXT000000883914&categorieLien=cid'>décret n° 78-172 du 9 février 1978</a>, ainsi qu'aux salariés des unions régionales et de la fédération nationale, sur l'ensemble de la métropole et des territoires d'outre-mer ».</p><p align='left'>En plus de 10 ans, cette CCN a permis un dialogue social permanent et constructif au sein des commissions paritaires et dans les CAUE, mais l'évolution du cadre législatif des conventions collectives nationales a amené les partenaires sociaux à envisager l'évolution de la CCN (IDCC 2666).</p><p align='left'>Dans le cadre de la <a alt='LOI n°2016-1088 du 8 août 2016 (V)' href='/affichTexte.do?cidTexte=JORFTEXT000032983213&categorieLien=cid'>loi n° 2016-1088 du 8 août 2016</a> favorisant le mouvement de restructuration des branches professionnelles, la commission paritaire de la branche s'est rapprochée de fédérations et de réseaux assurant des missions concernant le cadre de vie et le développement territorial, dans un souci d'intérêt général.</p><p align='left'>Les échanges menés ont permis de partager l'intérêt et la nécessité d'aller vers une convention collective nationale regroupant les secteurs d'activité de ces différents réseaux d'acteurs territoriaux.</p><p align='left'>Comme les y autorise l'<a alt='Code du travail - art. L2222-1 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901662&dateTexte=&categorieLien=cid'>article L. 2222-1, alinéa 1, du code du travail</a>, les partenaires sociaux ont donc décidé de modifier le champ d'application et l'intitulé de la convention collective nationale des conseils d'architecture, d'urbanisme et de l'environnement du 24 mai 2007 dans les conditions souhaitées d'un regroupement structuré et adapté aux réseaux ne relevant pas du champ d'application initial (avenant n° 26 en date du 10 juillet 2018).</p><p align='left'>Dans ce cadre, les partenaires sociaux ont pris la décision de négocier un accord de méthode organisant la négociation d'un futur dispositif conventionnel répondant aux enjeux de l'élargissement et associant l'ensemble des parties prenantes issues de cet élargissement conventionnel.</p><p align='left'>L'objectif de cet accord est de répondre aux enjeux de l'élargissement conventionnel tant à l'égard des CAUE que des réseaux d'acteurs territoriaux qui ne relevaient pas du champ d'application initial de l'IDCC n° 2666 et de fixer ainsi l'organisation de la négociation ainsi que les principes devant guider les travaux et donner sens au dialogue social.</p><p></p>",
-                  "etat": "VIGUEUR_NON_ETEN"
-                }
-              ]
-            },
-            {
-              "id": "KALISCTA000038169401",
-              "intOrdre": 6291444,
-              "title": "Annexe",
-              "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000038169407",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p>Annexe</p><p>Après modification le 10 juillet 2018 de son champ d'application et de son intitulé, les partenaires sociaux des CAUE se sont rapprochés de différentes organisations professionnelles qui ne relevaient pas du champ d'application initial de la convention collective IDCC 2666, à qui ils ont fait part de l'accord d'élargissement du champ d'application de la convention collective des CAUE, signé le 10 juillet 2018, et de l'accord de méthode, signé le 23 octobre 2018.</p><p>Les échanges et discussions préalables qui ont eu lieu sur ces deux textes permettent aux groupements professionnels ci-dessous d'accueillir favorablement et sans réserve l'accord d'élargissement et l'accord de méthode, ce qu'ils manifestent en signant la présente annexe qui sera adjointe à ces textes.</p>",
-                  "etat": "VIGUEUR_NON_ETEN"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000026167343",
-          "title": "Avenant n° 11 du 17 janvier 2012 relatif à la garantie frais de santé",
-          "dateParution": 1341964800000,
-          "articles": [
-            {
-              "id": "KALIARTI000026167346",
+              "type": "article",
+              "id": "KALIARTI000027035867",
               "num": null,
               "intOrdre": 524287,
-              "content": "<p align='left'><br/>Les partenaires sociaux de la branche des CAUE, après 3 ans de fonctionnement du compte de branche du régime frais de santé, ont souhaité modifier les taux de cotisation afin d'assurer l'équilibre du régime et de s'adapter aux particularités de la branche. <br/>Ils conviennent également de rendre obligatoire la couverture garantie frais de santé aux salariés selon leur situation familiale. <br/>Le présent avenant modifie ainsi plusieurs articles du titre VIII de la convention collective nationale des CAUE, ainsi que <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000020468581&categorieLien=cid'>l'avenant n° 1 du 24 mai 2007</a>. <br/>L'entrée en vigueur de ces dispositions est fixée au 1er avril 2012 pour tous les salariés des associations conseils d'architecture, d'urbanisme et de l'environnement, dont les statuts sont définis par le titre II de la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000000522423&categorieLien=cid'>loi sur l'architecture n° 77-2 du 3 janvier 1977</a> et par le <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000000883914&categorieLien=cid'>décret n° 78-172 du 9 février 1978</a>, ainsi qu'aux salariés des unions régionales et de la fédération nationale, sur l'ensemble de la métropole et des départements d'outre-mer.</p>",
+              "content": "<p align='left'><br/>Les partenaires sociaux de la branche des CAUE, après l'examen annuel des comptes du régime santé de la branche et suite à l'instauration de la taxe sur les contrats d'assurance (3,5 % jusqu'au 30 septembre 2011 et 7 % à partir du 1er octobre 2011), se voient contraints d'augmenter les cotisations de la prévoyance santé de 3,5 % à partir du 1er janvier 2013. <br/>Le présent avenant modifie ainsi <a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000020089215&idArticle=KALIARTI000020089356&categorieLien=cid'>l'article 12.2</a>, paragraphe B du titre VIII de la convention collective nationale des CAUE, ainsi que <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000020468581&categorieLien=cid'>l'avenant n° 1 du 24 mai 2007</a>.</p>",
               "etat": "VIGUEUR_ETEN"
             },
             {
-              "id": "KALIARTI000026167349",
+              "type": "article",
+              "id": "KALIARTI000027035869",
               "num": "1er",
               "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Les articles 5.1,5.2 et 5.3 sont modifiés et remplacés par les écritures suivantes. </p><p align='center'><br/>« <a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000020089215&idArticle=KALIARTI000020089341&categorieLien=cid'>Article 5.1 </a><br/>Bénéficiaires à titre obligatoire prévus par le présent chapitre </p><p align='left'><br/>Les salariés définis aux articles 2 du présent chapitre ainsi que leurs ayants droit bénéficient obligatoirement de cette couverture selon leur situation familiale effective. </p><p align='center'><br/>Article 5.2 <br/>Cas de dérogation au caractère obligatoire </p><p align='left'><br/>Conformément au décret du 9 janvier 2012, certains salariés ont, s'ils le souhaitent, la faculté de ne pas être affiliés au régime frais de santé, sous réserve d'en faire expressément la demande auprès de leur employeur lequel doit préalablement informer les salariés de cette faculté. A défaut d'une telle demande dans les conditions définies ci-après, ils seront obligatoirement affiliés au régime obligatoire. <br/>Les salariés concernés sont les suivants : </p><p align='left'><br/>– les salariés et apprentis bénéficiaires d'un contrat d'une durée au moins égale à 12 mois, à condition de justifier par écrit en produisant tous documents d'une couverture individuelle souscrite par ailleurs pour le même type de garanties ; <br/>– les salariés et apprentis bénéficiaires d'un contrat d'une durée inférieure à 12 mois, même s'ils ne bénéficient pas d'une couverture individuelle souscrite par ailleurs ; <br/>– les salariés à temps partiel et apprentis dont l'adhésion au système de garanties les conduirait à s'acquitter d'une cotisation au moins égale à 10 % de leur rémunération brute ; <br/>– les salariés bénéficiaires d'une couverture complémentaire en application de l'article L. 861-3 ou d'une aide à l'acquisition d'une complémentaire santé en application de l'article L. 863-1 et des salariés couverts par une assurance individuelle frais de santé au moment de la mise en place des garanties ou de l'embauche si elle est postérieure. Dans ces cas, la dispense ne peut jouer que jusqu'à échéance du contrat individuel ; <br/>– à condition de le justifier chaque année, les salariés qui bénéficient par ailleurs, y compris en tant qu'ayants droit, d'une couverture collective relevant d'un dispositif de prévoyance complémentaire conforme à un de ceux fixés par arrêté du ministre chargé de la sécurité sociale. <br/>Ils seront tenus de communiquer à leur employeur, au moins une fois par an, les informations permettant de justifier de leur situation. <br/>Ils pourront à tout moment revenir sur leur décision, et solliciter auprès de leur employeur, par écrit, leur affiliation au régime. Dans ce cas, leur affiliation prendra effet le premier jour du mois qui suit leur demande et sera alors irrévocable. <br/>En tout état de cause, ces salariés seront tenus d'être affiliés et de cotiser au régime lorsqu'ils cesseront de justifier de leur situation. </p><p align='center'><br/>Article 5.3 <br/>Structure de cotisation </p><p align='left'><br/>Les salariés devront obligatoirement acquitter la cotisation correspondant à leur situation de famille réelle. </p><p align='center'><br/>Couverture “ salarié seul ” </p><p align='left'><br/>La couverture “ salarié seul ” correspond à la couverture du salarié qui n'a pas d'ayant droit. </p><p align='center'><br/>Couverture “ couple ” </p><p align='left'><br/>La couverture “ couple ” s'adresse au salarié qui n'a qu'un seul ayant droit et correspond à la couverture du salarié et de son conjoint ou d'un enfant à charge. </p><p align='center'><br/>Couverture “ famille ” </p><p align='left'><br/>La couverture “ famille ” correspond à la couverture du salarié et de l'ensemble de sa famille (conjoint et enfants à charge). <br/>La définition des ayants droit est celle prévue dans le contrat d'assurance. Elle est rappelée à titre informatif : </p><p align='left'><br/>– s'agissant du conjoint du salarié, à l'article 3.1.3 du présent chapitre ; <br/>– s'agissant des enfants à charge, à l'article 3.1.4 du présent chapitre. </p><p align='center'><br/>Exceptions au principe d'adhésion en fonction de la situation réelle de famille </p><p align='left'><br/>Par exception à la règle susvisée, les salariés qui sont en mesure de justifier que leurs ayants droit sont déjà couverts par ailleurs pourront, s'ils le souhaitent, décider de cotiser au régime selon la couverture “ salarié seul ” ou “ couple ”. L'ayant droit est considéré être “ couvert par ailleurs ” dans les cas suivants : </p><p align='left'><br/>– l'ayant droit est déjà couvert à titre obligatoire par l'intermédiaire d'un régime complémentaire frais de santé collectif d'entreprise ; <br/>– l'ayant droit est déjà couvert à titre facultatif par l'intermédiaire d'un régime complémentaire couvrant notamment les frais de santé, ouvert aux fonctionnaires et agents publics de l'Etat et de ses établissements publics ; <br/>– l'ayant droit est déjà couvert par un contrat d'assurance de groupe dit “ contrat loi Madelin ”. <br/>Le salarié doit justifier chaque année, auprès de l'employeur, de la couverture dont bénéficient ses ayants droit, conjoint et/ ou enfants. »</p>",
+              "content": "<p align='left'><br/>Les cotisations sont augmentées de 3,5 %, les nouvelles valeurs sont reportées dans le tableau suivant qui remplace intégralement le tableau qui date de l'<a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000026167343&categorieLien=cid'>avenant n° 11 du 17 janvier 2012</a>. </p><p align='center'><br/>« B. – Garantie frais de santé de l'ensemble du personnel </p><p align='left'><div align='center'><center><table border='1'><tr><th>Garantie <br/>Frais de santé </th><th colspan='2'>Part employeur </th><th colspan='2'>Part salarié </th><th colspan='2'>Ensemble </th></tr><tr><td><br/></td><td align='center'>TA <br/>60 % </td><td align='center'>TB <br/>60 % </td><td align='center'>TA <br/>40 % </td><td align='center'>TB <br/>40 % </td><td align='center'>TA <br/>100 % </td><td align='center'>TB <br/>100 % </td></tr><tr><td align='center'>Cotisation salarié seul </td><td align='center'>1,10 % </td><td align='center'>1,10 % </td><td align='center'>0,73 % </td><td align='center'>0,73 % </td><td align='center'>1,83 % </td><td align='center'>1,83 % </td></tr><tr><td align='center'>Cotisation couple </td><td align='center'>2,17 % </td><td align='center'>2,17 % </td><td align='center'>1,45 % </td><td align='center'>1,45 % </td><td align='center'>3,62 % </td><td align='center'>3,62 % </td></tr><tr><td align='center'>Cotisation famille </td><td align='center'>3,38 % </td><td align='center'>3,38 % </td><td align='center'>2,26 % </td><td align='center'>2,26 % </td><td align='center'>5,64 % </td><td align='center'>5,64 %</td></tr></table></center></div></p>",
               "etat": "VIGUEUR_ETEN",
-              "surtitre": "Modification des bénéficiaires de la garantie frais de santé"
+              "surtitre": "Modification de l'article 12.2 « Paiement des cotisations » B. – Garantie frais de santé de l'ensemble du personnel"
             },
             {
-              "id": "KALIARTI000026167350",
+              "type": "article",
+              "id": "KALIARTI000027035871",
               "num": "2",
               "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Les limites mensuelles de l'assiette servant au calcul de la cotisation de la garantie frais de santé, telles qu'indiquées à <a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000020089215&idArticle=KALIARTI000020089356&categorieLien=cid'>l'article 12.1 </a>et à <a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000020468581&idArticle=KALIARTI000020468584&categorieLien=cid'>l'article 3 </a>de l'annexe I (Alsace-Moselle), sont modifiées comme suit : </p><p align='left'><br/>« – salaire minimum pris en compte : 70 % du plafond mensuel de la sécurité sociale ; <br/>– salaire maximum pris en compte : 130 % du plafond mensuel de la sécurité sociale. »</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Assiette de cotisation de la garantie frais de santé"
-            },
-            {
-              "id": "KALIARTI000026167352",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Les dispositions de <a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000020089215&idArticle=KALIARTI000020089356&categorieLien=cid'>l'article 12.2 </a>ont été remplacées intégralement comme suit avec création d'un paragraphe A relatif au régime de prévoyance « garanties décès, arrêt de travail, invalidité » qui ont fait l'objet de <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000026167332&categorieLien=cid'>l'avenant n° 10 </a>et la création d'un paragraphe B relatif au régime de frais de santé. </p><p align='center'><br/>« B. – Garantie frais de santé de l'ensemble du personne </p><p align='left'><div align='center'><center><table border='1'><tr><th>Garantie <br/>Frais de santé </th><th colspan='2'>Part employeur </th><th colspan='2'>Part salarié </th><th colspan='2'>Ensemble </th></tr><tr><td><br/></td><td>TA </td><td>TB </td><td>TA </td><td>TB </td><td>TA </td><td>TB </td></tr><tr><td><br/></td><td>60 % </td><td>60 % </td><td>40 % </td><td>40 % </td><td>100 % </td><td>100 % </td></tr><tr><td align='center'>Cotisation « salarié seul » </td><td align='center'>1,06 % </td><td align='center'>1,06 % </td><td align='center'>0,71 % </td><td align='center'>0,71 % </td><td align='center'>1,77 % </td><td align='center'>1,77 % </td></tr><tr><td align='center'>Cotisation « couple » </td><td align='center'>2,10 % </td><td align='center'>2,10 % </td><td align='center'>1,4 % </td><td align='center'>1,4 % </td><td align='center'>3,5 % </td><td align='center'>3,5 % </td></tr><tr><td align='center'>Cotisation « famille » </td><td align='center'>3,27 % </td><td align='center'>3,27 % </td><td align='center'>2,18 % </td><td align='center'>2,18 % </td><td align='center'>5,45 % </td><td align='center'>5,45 % </td></tr></table></center></div></p><p align='left'><br/>La répartition des cotisations entre l'employeur et le salarié pour la garantie frais de santé de l'ensemble du personnel est de 60 % à la charge de l'employeur et de 40 % à la charge du salarié. »</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Modification de l'article 12.2 « Paiement des cotisations »"
-            },
-            {
-              "id": "KALIARTI000026167354",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Les dispositions de <a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000020468581&idArticle=KALIARTI000020468584&categorieLien=cid'>l'article 3 </a>de l'annexe I sont modifiées comme suit : </p><p align='left'><div align='center'><center><table border='1'><tr><th>Garantie <br/>grais de santé </th><th colspan='2'>Part employeur </th><th colspan='2'>Part salarié </th><th colspan='2'>Ensemble </th></tr><tr><td><br/></td><td>TA </td><td>TB </td><td>TA </td><td>TB </td><td>TA </td><td>TB </td></tr><tr><td><br/></td><td>60 % </td><td>60 % </td><td>40 % </td><td>40 % </td><td>100 % </td><td>100 % </td></tr><tr><td align='center'>Cotisation « salarié seul » </td><td align='center'>0,64 % </td><td align='center'>0,64 % </td><td align='center'>0,43 % </td><td align='center'>0,43 % </td><td align='center'>1,07 % </td><td align='center'>1,07 % </td></tr><tr><td align='center'>Cotisation « couple » </td><td align='center'>1,30 % </td><td align='center'>1,30 % </td><td align='center'>0,86 % </td><td align='center'>0,86 % </td><td align='center'>2,16 % </td><td align='center'>2,16 % </td></tr><tr><td align='center'>Cotisation « famille » </td><td align='center'>2,02 % </td><td align='center'>2,02 % </td><td align='center'>1,34 % </td><td align='center'>1,34 % </td><td align='center'>3,36 % </td><td align='center'>3,36 %</td></tr></table></center></div></p>",
+              "content": "<p align='left'><br/>« Les cotisations sont augmentées de 3,5 %, les nouvelles valeurs sont reportées dans le tableau suivant qui remplace intégralement le tableau qui date de l'<a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000026167343&categorieLien=cid'>avenant n° 11 du 17 janvier 2012</a>. </p><p align='left'><div align='center'><center><table border='1'><tr><th>Garantie <br/>Frais de santé </th><th colspan='2'>Part employeur </th><th colspan='2'>Part salarié </th><th colspan='2'>Ensemble </th></tr><tr><td><br/></td><td align='center'>TA <br/>60 % </td><td align='center'>TB <br/>60 % % </td><td align='center'>TA <br/>40 % </td><td align='center'>TB <br/>40 % </td><td align='center'>TA <br/>100 % </td><td align='center'>TB <br/>100 % </td></tr><tr><td align='center'>Cotisation salarié seul </td><td align='center'>0,66 % </td><td align='center'>0,66 % </td><td align='center'>0,45 % </td><td align='center'>0,45 % </td><td align='center'>1,11 % </td><td align='center'>1,11 % </td></tr><tr><td align='center'>Cotisation couple </td><td align='center'>1,35 % </td><td align='center'>1,35 % </td><td align='center'>0,89 % </td><td align='center'>0,89 % </td><td align='center'>2,24 % </td><td align='center'>2,24 % </td></tr><tr><td align='center'>Cotisation famille </td><td align='center'>2,09 % </td><td align='center'>2,09 % </td><td align='center'>1,39 % </td><td align='center'>1,39 % </td><td align='center'>3,48 % </td><td align='center'>3,48 %</td></tr></table></center></div></p>",
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Modification de l'article 3 de l'annexe I du 24 juillet 2007"
             },
             {
-              "id": "KALIARTI000026167355",
-              "num": "5",
-              "intOrdre": 3145722,
+              "type": "article",
+              "id": "KALIARTI000027035873",
+              "num": "3",
+              "intOrdre": 2097148,
               "content": "<p align='left'><br/>Le présent avenant s'applique aux entreprises visées par le champ d'application de la convention collective nationale des conseils d'architecture, d'urbanisme et de l'environnement (CAUE) du 24 mai 2007.</p>",
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Champ d'application"
             },
             {
-              "id": "KALIARTI000026167356",
-              "num": "6",
-              "intOrdre": 3670009,
-              "content": "<p align='left'><br/>Les parties conviennent qu'il ne peut être dérogé aux dispositions du titre VIII de la convention collective nationale des CAUE par une convention ou un accord de groupe, d'entreprise ou d'établissement. Une convention ou accord de groupe, d'entreprise ou d'établissement ne peut que compléter le présent avenant par des dispositions plus favorables aux salariés.</p>",
+              "type": "article",
+              "id": "KALIARTI000027035874",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Les parties conviennent qu'il ne peut être dérogé aux dispositions du titre VIII de la convention collective nationale des CAUE par une convention ou un accord de groupe, d'entreprise ou d'établissement. Une convention ou accord de groupe, d'entreprise ou établissement ne peut que compléter le présent avenant par des dispositions plus favorables aux salariés.</p>",
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Hiérarchie des normes"
             },
             {
-              "id": "KALIARTI000026167357",
-              "num": "7",
-              "intOrdre": 4194296,
-              "content": "<p align='left'><br/>Les dispositions du présent avenant prendront effet le 1er avril 2012.<br/>Il sera établi un nombre suffisant d'exemplaires pour être remis à chacune des parties signataires et effectuer les formalités de dépôt.<br/>Sous réserve, en application des dispositions transitoires de la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000019347122&categorieLien=cid'>loi n° 2008-789 du 20 août 2008</a>, de l'absence d'opposition de la majorité en nombre des organisations syndicales de salariés représentatives dans la branche, le présent avenant fera l'objet de la procédure d'extension conformément aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-15 du code du travail</a> et de l'article L. 911-3 du code la sécurité sociale.<br/>Le présent accord est ouvert à la signature jusqu'au 28 février 2012.</p>",
+              "type": "article",
+              "id": "KALIARTI000027035875",
+              "num": "5",
+              "intOrdre": 3145722,
+              "content": "<p align='left'><br/>Les dispositions du présent avenant prendront effet le 1er janvier 2013.<br/>Il sera établi un nombre suffisant d'exemplaires pour être remis à chacune des parties signataires et effectuer les formalités de dépôt.<br/>Sous réserve, en application des dispositions transitoires de la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000019347122&categorieLien=cid'>loi n° 2008-789 du 20 août 2008</a>, de l'absence d'opposition de la majorité en nombre des organisations syndicales de salariés représentatives dans la branche, le présent avenant fera l'objet de la procédure d'extension conformément aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-15 du code du travail</a> et de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745466&dateTexte=&categorieLien=cid'>article L. 911-3 du code de la sécurité sociale</a>.<br/>Le présent accord est ouvert à la signature jusqu'au 30 octobre 2012.</p>",
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Date d'effet. – Dépôt. – Extension"
             }
           ]
         },
         {
-          "id": "KALITEXT000026167332",
+          "type": "section",
           "title": "Avenant n° 10 du 17 janvier 2012 relatif à la prévoyance",
-          "dateParution": 1341964800000,
-          "articles": [
+          "id": "KALITEXT000026167332",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000026167335",
               "num": null,
               "intOrdre": 524287,
@@ -962,6 +987,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000026167336",
               "num": "1er",
               "intOrdre": 1048574,
@@ -970,6 +996,7 @@
               "surtitre": "Remplacement du contenu de l'article 12.2 « Paiement des cotisations »"
             },
             {
+              "type": "article",
               "id": "KALIARTI000026167338",
               "num": "2",
               "intOrdre": 1572861,
@@ -978,6 +1005,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000026167339",
               "num": "3",
               "intOrdre": 2097148,
@@ -986,6 +1014,7 @@
               "surtitre": "Hiérarchie des normes"
             },
             {
+              "type": "article",
               "id": "KALIARTI000026167340",
               "num": "4",
               "intOrdre": 2621435,
@@ -996,59 +1025,107 @@
           ]
         },
         {
-          "id": "KALITEXT000024809437",
-          "title": "Avenant n° 9 du 6 juin 2011 relatif à la désignation d'un OPCA",
-          "dateParution": 1321488000000,
-          "articles": [
+          "type": "section",
+          "title": "Avenant n° 11 du 17 janvier 2012 relatif à la garantie frais de santé",
+          "id": "KALITEXT000026167343",
+          "children": [
             {
-              "id": "KALIARTI000024809441",
+              "type": "article",
+              "id": "KALIARTI000026167346",
+              "num": null,
+              "intOrdre": 524287,
+              "content": "<p align='left'><br/>Les partenaires sociaux de la branche des CAUE, après 3 ans de fonctionnement du compte de branche du régime frais de santé, ont souhaité modifier les taux de cotisation afin d'assurer l'équilibre du régime et de s'adapter aux particularités de la branche. <br/>Ils conviennent également de rendre obligatoire la couverture garantie frais de santé aux salariés selon leur situation familiale. <br/>Le présent avenant modifie ainsi plusieurs articles du titre VIII de la convention collective nationale des CAUE, ainsi que <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000020468581&categorieLien=cid'>l'avenant n° 1 du 24 mai 2007</a>. <br/>L'entrée en vigueur de ces dispositions est fixée au 1er avril 2012 pour tous les salariés des associations conseils d'architecture, d'urbanisme et de l'environnement, dont les statuts sont définis par le titre II de la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000000522423&categorieLien=cid'>loi sur l'architecture n° 77-2 du 3 janvier 1977</a> et par le <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000000883914&categorieLien=cid'>décret n° 78-172 du 9 février 1978</a>, ainsi qu'aux salariés des unions régionales et de la fédération nationale, sur l'ensemble de la métropole et des départements d'outre-mer.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000026167349",
               "num": "1er",
               "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Le présent avenant s'applique aux entreprises visées par le champ d'application de la <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000020089215&categorieLien=cid'>convention collective nationale des Conseils d'architecture, d'urbanisme et de l'environnement</a> (CAUE) du 24 mai 2007.</p>",
+              "content": "<p align='left'><br/>Les articles 5.1,5.2 et 5.3 sont modifiés et remplacés par les écritures suivantes. </p><p align='center'><br/>« <a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000020089215&idArticle=KALIARTI000020089341&categorieLien=cid'>Article 5.1 </a><br/>Bénéficiaires à titre obligatoire prévus par le présent chapitre </p><p align='left'><br/>Les salariés définis aux articles 2 du présent chapitre ainsi que leurs ayants droit bénéficient obligatoirement de cette couverture selon leur situation familiale effective. </p><p align='center'><br/>Article 5.2 <br/>Cas de dérogation au caractère obligatoire </p><p align='left'><br/>Conformément au décret du 9 janvier 2012, certains salariés ont, s'ils le souhaitent, la faculté de ne pas être affiliés au régime frais de santé, sous réserve d'en faire expressément la demande auprès de leur employeur lequel doit préalablement informer les salariés de cette faculté. A défaut d'une telle demande dans les conditions définies ci-après, ils seront obligatoirement affiliés au régime obligatoire. <br/>Les salariés concernés sont les suivants : </p><p align='left'><br/>– les salariés et apprentis bénéficiaires d'un contrat d'une durée au moins égale à 12 mois, à condition de justifier par écrit en produisant tous documents d'une couverture individuelle souscrite par ailleurs pour le même type de garanties ; <br/>– les salariés et apprentis bénéficiaires d'un contrat d'une durée inférieure à 12 mois, même s'ils ne bénéficient pas d'une couverture individuelle souscrite par ailleurs ; <br/>– les salariés à temps partiel et apprentis dont l'adhésion au système de garanties les conduirait à s'acquitter d'une cotisation au moins égale à 10 % de leur rémunération brute ; <br/>– les salariés bénéficiaires d'une couverture complémentaire en application de l'article L. 861-3 ou d'une aide à l'acquisition d'une complémentaire santé en application de l'article L. 863-1 et des salariés couverts par une assurance individuelle frais de santé au moment de la mise en place des garanties ou de l'embauche si elle est postérieure. Dans ces cas, la dispense ne peut jouer que jusqu'à échéance du contrat individuel ; <br/>– à condition de le justifier chaque année, les salariés qui bénéficient par ailleurs, y compris en tant qu'ayants droit, d'une couverture collective relevant d'un dispositif de prévoyance complémentaire conforme à un de ceux fixés par arrêté du ministre chargé de la sécurité sociale. <br/>Ils seront tenus de communiquer à leur employeur, au moins une fois par an, les informations permettant de justifier de leur situation. <br/>Ils pourront à tout moment revenir sur leur décision, et solliciter auprès de leur employeur, par écrit, leur affiliation au régime. Dans ce cas, leur affiliation prendra effet le premier jour du mois qui suit leur demande et sera alors irrévocable. <br/>En tout état de cause, ces salariés seront tenus d'être affiliés et de cotiser au régime lorsqu'ils cesseront de justifier de leur situation. </p><p align='center'><br/>Article 5.3 <br/>Structure de cotisation </p><p align='left'><br/>Les salariés devront obligatoirement acquitter la cotisation correspondant à leur situation de famille réelle. </p><p align='center'><br/>Couverture “ salarié seul ” </p><p align='left'><br/>La couverture “ salarié seul ” correspond à la couverture du salarié qui n'a pas d'ayant droit. </p><p align='center'><br/>Couverture “ couple ” </p><p align='left'><br/>La couverture “ couple ” s'adresse au salarié qui n'a qu'un seul ayant droit et correspond à la couverture du salarié et de son conjoint ou d'un enfant à charge. </p><p align='center'><br/>Couverture “ famille ” </p><p align='left'><br/>La couverture “ famille ” correspond à la couverture du salarié et de l'ensemble de sa famille (conjoint et enfants à charge). <br/>La définition des ayants droit est celle prévue dans le contrat d'assurance. Elle est rappelée à titre informatif : </p><p align='left'><br/>– s'agissant du conjoint du salarié, à l'article 3.1.3 du présent chapitre ; <br/>– s'agissant des enfants à charge, à l'article 3.1.4 du présent chapitre. </p><p align='center'><br/>Exceptions au principe d'adhésion en fonction de la situation réelle de famille </p><p align='left'><br/>Par exception à la règle susvisée, les salariés qui sont en mesure de justifier que leurs ayants droit sont déjà couverts par ailleurs pourront, s'ils le souhaitent, décider de cotiser au régime selon la couverture “ salarié seul ” ou “ couple ”. L'ayant droit est considéré être “ couvert par ailleurs ” dans les cas suivants : </p><p align='left'><br/>– l'ayant droit est déjà couvert à titre obligatoire par l'intermédiaire d'un régime complémentaire frais de santé collectif d'entreprise ; <br/>– l'ayant droit est déjà couvert à titre facultatif par l'intermédiaire d'un régime complémentaire couvrant notamment les frais de santé, ouvert aux fonctionnaires et agents publics de l'Etat et de ses établissements publics ; <br/>– l'ayant droit est déjà couvert par un contrat d'assurance de groupe dit “ contrat loi Madelin ”. <br/>Le salarié doit justifier chaque année, auprès de l'employeur, de la couverture dont bénéficient ses ayants droit, conjoint et/ ou enfants. »</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Modification des bénéficiaires de la garantie frais de santé"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000026167350",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Les limites mensuelles de l'assiette servant au calcul de la cotisation de la garantie frais de santé, telles qu'indiquées à <a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000020089215&idArticle=KALIARTI000020089356&categorieLien=cid'>l'article 12.1 </a>et à <a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000020468581&idArticle=KALIARTI000020468584&categorieLien=cid'>l'article 3 </a>de l'annexe I (Alsace-Moselle), sont modifiées comme suit : </p><p align='left'><br/>« – salaire minimum pris en compte : 70 % du plafond mensuel de la sécurité sociale ; <br/>– salaire maximum pris en compte : 130 % du plafond mensuel de la sécurité sociale. »</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Assiette de cotisation de la garantie frais de santé"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000026167352",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Les dispositions de <a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000020089215&idArticle=KALIARTI000020089356&categorieLien=cid'>l'article 12.2 </a>ont été remplacées intégralement comme suit avec création d'un paragraphe A relatif au régime de prévoyance « garanties décès, arrêt de travail, invalidité » qui ont fait l'objet de <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000026167332&categorieLien=cid'>l'avenant n° 10 </a>et la création d'un paragraphe B relatif au régime de frais de santé. </p><p align='center'><br/>« B. – Garantie frais de santé de l'ensemble du personne </p><p align='left'><div align='center'><center><table border='1'><tr><th>Garantie <br/>Frais de santé </th><th colspan='2'>Part employeur </th><th colspan='2'>Part salarié </th><th colspan='2'>Ensemble </th></tr><tr><td><br/></td><td>TA </td><td>TB </td><td>TA </td><td>TB </td><td>TA </td><td>TB </td></tr><tr><td><br/></td><td>60 % </td><td>60 % </td><td>40 % </td><td>40 % </td><td>100 % </td><td>100 % </td></tr><tr><td align='center'>Cotisation « salarié seul » </td><td align='center'>1,06 % </td><td align='center'>1,06 % </td><td align='center'>0,71 % </td><td align='center'>0,71 % </td><td align='center'>1,77 % </td><td align='center'>1,77 % </td></tr><tr><td align='center'>Cotisation « couple » </td><td align='center'>2,10 % </td><td align='center'>2,10 % </td><td align='center'>1,4 % </td><td align='center'>1,4 % </td><td align='center'>3,5 % </td><td align='center'>3,5 % </td></tr><tr><td align='center'>Cotisation « famille » </td><td align='center'>3,27 % </td><td align='center'>3,27 % </td><td align='center'>2,18 % </td><td align='center'>2,18 % </td><td align='center'>5,45 % </td><td align='center'>5,45 % </td></tr></table></center></div></p><p align='left'><br/>La répartition des cotisations entre l'employeur et le salarié pour la garantie frais de santé de l'ensemble du personnel est de 60 % à la charge de l'employeur et de 40 % à la charge du salarié. »</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Modification de l'article 12.2 « Paiement des cotisations »"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000026167354",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Les dispositions de <a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000020468581&idArticle=KALIARTI000020468584&categorieLien=cid'>l'article 3 </a>de l'annexe I sont modifiées comme suit : </p><p align='left'><div align='center'><center><table border='1'><tr><th>Garantie <br/>grais de santé </th><th colspan='2'>Part employeur </th><th colspan='2'>Part salarié </th><th colspan='2'>Ensemble </th></tr><tr><td><br/></td><td>TA </td><td>TB </td><td>TA </td><td>TB </td><td>TA </td><td>TB </td></tr><tr><td><br/></td><td>60 % </td><td>60 % </td><td>40 % </td><td>40 % </td><td>100 % </td><td>100 % </td></tr><tr><td align='center'>Cotisation « salarié seul » </td><td align='center'>0,64 % </td><td align='center'>0,64 % </td><td align='center'>0,43 % </td><td align='center'>0,43 % </td><td align='center'>1,07 % </td><td align='center'>1,07 % </td></tr><tr><td align='center'>Cotisation « couple » </td><td align='center'>1,30 % </td><td align='center'>1,30 % </td><td align='center'>0,86 % </td><td align='center'>0,86 % </td><td align='center'>2,16 % </td><td align='center'>2,16 % </td></tr><tr><td align='center'>Cotisation « famille » </td><td align='center'>2,02 % </td><td align='center'>2,02 % </td><td align='center'>1,34 % </td><td align='center'>1,34 % </td><td align='center'>3,36 % </td><td align='center'>3,36 %</td></tr></table></center></div></p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Modification de l'article 3 de l'annexe I du 24 juillet 2007"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000026167355",
+              "num": "5",
+              "intOrdre": 3145722,
+              "content": "<p align='left'><br/>Le présent avenant s'applique aux entreprises visées par le champ d'application de la convention collective nationale des conseils d'architecture, d'urbanisme et de l'environnement (CAUE) du 24 mai 2007.</p>",
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Champ d'application"
             },
             {
-              "id": "KALIARTI000024809442",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/><a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000020089215&idArticle=KALIARTI000020089263&categorieLien=cid'>L'article 3.2. </a>« Adhésion à un organisme paritaire collecteur agréé » est remplacé par : <br/>« Les CAUE adhèrent à uniformation, organisme paritaire collecteur agréé au titre du plan de formation, de la professionnalisation et du congé individuel de formation, dont le siège est à Paris au 43, boulevard Diderot, 75012 Paris, pour la collecte des contributions stipulées par la présente convention au titre de la participation des employeurs au financement de la formation à compter de la date d'expiration de l'agrément d'habitat formation. » <br/>Dans les articles 3.3 « Versement des contributions à la formation », 3.4 « Professionnalisation », 3.6 « Tutorat », 3.8 « Plan de formation », 3.9 « Droit individuel à la formation », 3.11 « Observatoire des métiers et des qualifications » et 3.14 « Bilan de compétences et validation des acquis de l'expérience », « Habitat formation » est remplacé par « Uniformation ».</p>",
+              "type": "article",
+              "id": "KALIARTI000026167356",
+              "num": "6",
+              "intOrdre": 3670009,
+              "content": "<p align='left'><br/>Les parties conviennent qu'il ne peut être dérogé aux dispositions du titre VIII de la convention collective nationale des CAUE par une convention ou un accord de groupe, d'entreprise ou d'établissement. Une convention ou accord de groupe, d'entreprise ou d'établissement ne peut que compléter le présent avenant par des dispositions plus favorables aux salariés.</p>",
               "etat": "VIGUEUR_ETEN",
-              "surtitre": "Désignation d'uniformation à la place d'habitat formation"
+              "surtitre": "Hiérarchie des normes"
             },
             {
-              "id": "KALIARTI000024809443",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Les dispositions du présent avenant prendront effet à la date d'expiration de l'agrément d'habitat formation.<br/>Il sera établi un nombre suffisant d'exemplaires pour être remis à chacune des parties signataires et effectuer les formalités de dépôt.<br/>Sous réserve, en application des dispositions transitoires de la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000019347122&categorieLien=cid'>loi n° 2008-789 du 20 août 2008</a>, de l'absence d'opposition de la majorité en nombre des organisations syndicales de salariés représentatives dans la branche, le présent avenant fera l'objet de la procédure d'extension conformément aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-15 du code du travail</a> et de l'article L. 911-3 du code la sécurité sociale.<br/>Le présent accord est ouvert à la signature jusqu'au 15 juin 2011 et sera transmis pour extension après expiration du délai de 15 jours suivant la notification de cet accord, ouvrant le délai d'opposition, par la présidence de la CPNCC.</p>",
+              "type": "article",
+              "id": "KALIARTI000026167357",
+              "num": "7",
+              "intOrdre": 4194296,
+              "content": "<p align='left'><br/>Les dispositions du présent avenant prendront effet le 1er avril 2012.<br/>Il sera établi un nombre suffisant d'exemplaires pour être remis à chacune des parties signataires et effectuer les formalités de dépôt.<br/>Sous réserve, en application des dispositions transitoires de la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000019347122&categorieLien=cid'>loi n° 2008-789 du 20 août 2008</a>, de l'absence d'opposition de la majorité en nombre des organisations syndicales de salariés représentatives dans la branche, le présent avenant fera l'objet de la procédure d'extension conformément aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-15 du code du travail</a> et de l'article L. 911-3 du code la sécurité sociale.<br/>Le présent accord est ouvert à la signature jusqu'au 28 février 2012.</p>",
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Date d'effet. – Dépôt. – Extension"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000024809440",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000024809446",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'>La loi du 25 novembre 2009 sur la formation professionnelle organise un regroupement des organismes paritaires collecteurs agréés (OPCA). Dans ce cadre les partenaires sociaux de la branche des CAUE conviennent de désigner un nouvel opérateur après un accord avec les adhérents de l'OPCA de rattachement d'origine, habitat formation et le nouvel opérateur désigné « Uniformation ». Les articles du titre III « Formation professionnelle tout au long de la vie » de la convention collective où est mentionné habitat formation est modifié en conséquence.</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
             }
           ]
         },
         {
-          "id": "KALITEXT000024809423",
+          "type": "section",
           "title": "Avenant n° 8 du 17 mai 2011 relatif à la prévoyance santé",
-          "dateParution": 1321488000000,
-          "articles": [
+          "id": "KALITEXT000024809423",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000024809426",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000024809435",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'>La branche n'entrant pas dans le champ d'application de l'article 14 de l'ANI du 11 janvier 2008, les partenaires sociaux de la convention collective nationale des CAUE conviennent de mettre en place, dans le cadre du régime conventionnel, un dispositif de portabilité des droits de prévoyance santé complémentaire. <br/>A cette fin, il est ajouté au chapitre VIII de la convention collective nationale des CAUE relatif au régime de prévoyance complémentaire obligatoire, un article 6 bis. <br/>Une amélioration des prestations de la prévoyance santé doit modifier l'article 5.6 « Tableaux des garanties » (hors Alsace-Moselle), l'article 5.7 « Dispositions spécifiques » pour les bénéficiaires relevant du régime de base Alsace-Moselle du <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000020089215&idSectionTA=KALISCTA000020089225&categorieLien=cid'>titre VIII </a>de la convention collective du 24 mai 2007, étendue le 6 mars 2008, ainsi que <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000020468581&categorieLien=cid'>l'avenant n° 1 du 24 mai 2007</a> relatif aux frais de santé (Alsace-Moselle).</p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000024809427",
               "num": "1er",
               "intOrdre": 1048574,
@@ -1057,6 +1134,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000024809428",
               "num": "2",
               "intOrdre": 1572861,
@@ -1065,6 +1143,7 @@
               "surtitre": "Création dans le chapitre VII de la convention collective nationale des CAUE d'un article 6 bis « Portabilité des droits de prévoyance complémentaire »"
             },
             {
+              "type": "article",
               "id": "KALIARTI000024809429",
               "num": "3",
               "intOrdre": 2097148,
@@ -1073,6 +1152,7 @@
               "surtitre": "Améliorations des garanties prévoyance santé"
             },
             {
+              "type": "article",
               "id": "KALIARTI000024809431",
               "num": "4",
               "intOrdre": 2621435,
@@ -1081,6 +1161,7 @@
               "surtitre": "Hiérarchie des normes"
             },
             {
+              "type": "article",
               "id": "KALIARTI000024809432",
               "num": "5",
               "intOrdre": 3145722,
@@ -1088,31 +1169,66 @@
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Date d'effet. – Dépôt. – Extension"
             }
-          ],
-          "sections": [
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 9 du 6 juin 2011 relatif à la désignation d'un OPCA",
+          "id": "KALITEXT000024809437",
+          "children": [
             {
-              "id": "KALISCTA000024809426",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000024809440",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
-                  "id": "KALIARTI000024809435",
+                  "type": "article",
+                  "id": "KALIARTI000024809446",
                   "num": null,
                   "intOrdre": 524287,
-                  "content": "<p align='left'>La branche n'entrant pas dans le champ d'application de l'article 14 de l'ANI du 11 janvier 2008, les partenaires sociaux de la convention collective nationale des CAUE conviennent de mettre en place, dans le cadre du régime conventionnel, un dispositif de portabilité des droits de prévoyance santé complémentaire. <br/>A cette fin, il est ajouté au chapitre VIII de la convention collective nationale des CAUE relatif au régime de prévoyance complémentaire obligatoire, un article 6 bis. <br/>Une amélioration des prestations de la prévoyance santé doit modifier l'article 5.6 « Tableaux des garanties » (hors Alsace-Moselle), l'article 5.7 « Dispositions spécifiques » pour les bénéficiaires relevant du régime de base Alsace-Moselle du <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000020089215&idSectionTA=KALISCTA000020089225&categorieLien=cid'>titre VIII </a>de la convention collective du 24 mai 2007, étendue le 6 mars 2008, ainsi que <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000020468581&categorieLien=cid'>l'avenant n° 1 du 24 mai 2007</a> relatif aux frais de santé (Alsace-Moselle).</p>",
+                  "content": "<p align='left'>La loi du 25 novembre 2009 sur la formation professionnelle organise un regroupement des organismes paritaires collecteurs agréés (OPCA). Dans ce cadre les partenaires sociaux de la branche des CAUE conviennent de désigner un nouvel opérateur après un accord avec les adhérents de l'OPCA de rattachement d'origine, habitat formation et le nouvel opérateur désigné « Uniformation ». Les articles du titre III « Formation professionnelle tout au long de la vie » de la convention collective où est mentionné habitat formation est modifié en conséquence.</p>",
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000024809441",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>Le présent avenant s'applique aux entreprises visées par le champ d'application de la <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000020089215&categorieLien=cid'>convention collective nationale des Conseils d'architecture, d'urbanisme et de l'environnement</a> (CAUE) du 24 mai 2007.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Champ d'application"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000024809442",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/><a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000020089215&idArticle=KALIARTI000020089263&categorieLien=cid'>L'article 3.2. </a>« Adhésion à un organisme paritaire collecteur agréé » est remplacé par : <br/>« Les CAUE adhèrent à uniformation, organisme paritaire collecteur agréé au titre du plan de formation, de la professionnalisation et du congé individuel de formation, dont le siège est à Paris au 43, boulevard Diderot, 75012 Paris, pour la collecte des contributions stipulées par la présente convention au titre de la participation des employeurs au financement de la formation à compter de la date d'expiration de l'agrément d'habitat formation. » <br/>Dans les articles 3.3 « Versement des contributions à la formation », 3.4 « Professionnalisation », 3.6 « Tutorat », 3.8 « Plan de formation », 3.9 « Droit individuel à la formation », 3.11 « Observatoire des métiers et des qualifications » et 3.14 « Bilan de compétences et validation des acquis de l'expérience », « Habitat formation » est remplacé par « Uniformation ».</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Désignation d'uniformation à la place d'habitat formation"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000024809443",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Les dispositions du présent avenant prendront effet à la date d'expiration de l'agrément d'habitat formation.<br/>Il sera établi un nombre suffisant d'exemplaires pour être remis à chacune des parties signataires et effectuer les formalités de dépôt.<br/>Sous réserve, en application des dispositions transitoires de la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000019347122&categorieLien=cid'>loi n° 2008-789 du 20 août 2008</a>, de l'absence d'opposition de la majorité en nombre des organisations syndicales de salariés représentatives dans la branche, le présent avenant fera l'objet de la procédure d'extension conformément aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-15 du code du travail</a> et de l'article L. 911-3 du code la sécurité sociale.<br/>Le présent accord est ouvert à la signature jusqu'au 15 juin 2011 et sera transmis pour extension après expiration du délai de 15 jours suivant la notification de cet accord, ouvrant le délai d'opposition, par la présidence de la CPNCC.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Date d'effet. – Dépôt. – Extension"
             }
           ]
         },
         {
-          "id": "KALITEXT000024660038",
+          "type": "section",
           "title": "Adhésion par lettre du 27 décembre 2010 de la CFTC BATIMAT à la convention",
-          "dateParution": 1318377600000,
-          "articles": [
+          "id": "KALITEXT000024660038",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000024660041",
               "num": null,
               "intOrdre": 524287,
@@ -1122,11 +1238,12 @@
           ]
         },
         {
-          "id": "KALITEXT000023348149",
+          "type": "section",
           "title": "Avenant n° 5 du 14 octobre 2009 relatif à la prévoyance",
-          "dateParution": 1294012800000,
-          "articles": [
+          "id": "KALITEXT000023348149",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023348152",
               "num": "1er",
               "intOrdre": 524287,
@@ -1134,6 +1251,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023348154",
               "num": "2",
               "intOrdre": 1048574,
@@ -1143,11 +1261,12 @@
           ]
         },
         {
-          "id": "KALITEXT000020950181",
+          "type": "section",
           "title": "Avenant n° 3 du 5 mars 2009 relatif à la procédure de saisine de la commission paritaire nationale",
-          "dateParution": 1249430400000,
-          "articles": [
+          "id": "KALITEXT000020950181",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000020950184",
               "num": "1er",
               "intOrdre": 524287,
@@ -1156,6 +1275,7 @@
               "surtitre": "Avis et conciliation sur les questions de classification"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020950185",
               "num": "2",
               "intOrdre": 1048574,
@@ -1164,6 +1284,7 @@
               "surtitre": "Compréhension des textes et articles conventionnels"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020950186",
               "num": "3",
               "intOrdre": 1572861,
@@ -1174,11 +1295,12 @@
           ]
         },
         {
-          "id": "KALITEXT000020468581",
+          "type": "section",
           "title": "Avenant du 24 mai 2007 relatif aux frais de santé (Alsace-Moselle)",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000020468581",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000035676021",
               "num": null,
               "intOrdre": 524287,
@@ -1190,55 +1312,19 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 3,
       "title": "Textes Salaires",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000028836936",
-          "title": "Avenant n° 17 du 3 décembre 2013 relatif aux salaires minimaux au 1er janvier 2014",
-          "dateParution": 32472144000000,
-          "articles": [
-            {
-              "id": "KALIARTI000028837852",
-              "num": null,
-              "intOrdre": 262143,
-              "content": "<p>    Le présent accord a pour objet, dans le cadre de l'article L. 2441-1  portant sur la négociation annuelle des salaires, de réévaluer les  salaires minimaux de la branche des CAUE.<br/> \t\t\t\t\t\tAprès avoir examiné  les moyennes de salaires issues de l'observatoire des métiers et des  qualifications de la convention collective des CAUE basées sur les  masses salariales de 2012 ainsi que l'égalité professionnelle entre les  femmes et les hommes, les partenaires sociaux ont souhaité modifier la  grille des salaires minimaux de la convention collective des CAUE, </p><p>il a été convenu ce qui suit :</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000028836939",
-              "num": "1er",
-              "intOrdre": 524287,
-              "content": "<p align='left'><br/>Le présent avenant s'applique aux entreprises visées par le champ d'application de la convention collective nationale des conseils d'architecture, d'urbanisme et de l'environnement (CAUE) du 24 mai 2007.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Champ d'application"
-            },
-            {
-              "id": "KALIARTI000028836940",
-              "num": "2",
-              "intOrdre": 1048574,
-              "content": "<p align='left'> \t\t\t\t\t\tLa grille des salaires minimaux sur la base de 35 heures hebdomadaires, soit 151,67 heures mensuelles, est réévaluée. Les nouvelles valeurs sont les suivantes :<br/></p><p align='right'> \t\t\t\t\t\t(En euros.)<br/></p><p align='left'></p><div align='center'><center><table border='1'><tbody><tr><th><br/></th><th>Coefficient</th><th>Valeur</th></tr><tr><td rowspan='3' align='center'><p>Niveau I</p><p align='left'>Position 1</p><p align='left'>Position 2</p></td><td><br/></td><td><br/></td></tr><tr><td align='center'>300</td><td align='center'>1 587</td></tr><tr><td align='center'>320</td><td align='center'>1 693</td></tr><tr><td rowspan='3' align='center'><p>Niveau II</p><p align='left'>Position 1</p><p align='left'>Position 2</p></td><td><br/></td><td><br/></td></tr><tr><td align='center'>340</td><td align='center'>1 799</td></tr><tr><td align='center'>360</td><td align='center'>1 905</td></tr><tr><td rowspan='4' align='center'><p>Niveau III</p><p align='left'>Position 1</p><p align='left'>Position 2</p><p align='left'>Position 3</p></td><td><br/></td><td><br/></td></tr><tr><td align='center'>400</td><td align='center'>2 116</td></tr><tr><td align='center'>440</td><td align='center'>2 328</td></tr><tr><td align='center'>500</td><td align='center'>2 645</td></tr><tr><td rowspan='4' align='center'><p>Niveau IV</p><p align='left'>Position 1</p><p align='left'>Position 2</p><p align='left'>Position 3</p></td><td><br/></td><td><br/></td></tr><tr><td align='center'>530</td><td align='center'>2 738</td></tr><tr><td align='center'>560</td><td align='center'>2893</td></tr><tr><td align='center'>600</td><td align='center'>3 100</td></tr><tr><td rowspan='2' align='center'><p>Niveau V</p><p align='left'>Position 1</p></td><td><br/></td><td><br/></td></tr><tr><td align='center'>700</td><td align='center'>3 580</td></tr></tbody></table></center></div><p></p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Modification de la grille des salaires minimaux de la convention collective des CAUE"
-            },
-            {
-              "id": "KALIARTI000028836941",
-              "num": "3",
-              "intOrdre": 1572861,
-              "content": "<p align='left'>Les dispositions du présent avenant prendront effet le 1er janvier 2014. <br/>Il sera établi un nombre suffisant d'exemplaires pour être remis à chacune des parties signataires et effectuer les formalités de dépôt. <br/>La validation de cet accord est subordonnée à sa signature par une ou plusieurs organisations syndicales de salariés représentatives ayant recueilli, aux élections prises en compte pour la mesure de l'audience prévue <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000019347598&dateTexte=&categorieLien=cid'>au 3° de l'article L. 2122-5 </a>ou, le cas échéant, aux élections visées <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000019347611&dateTexte=&categorieLien=cid'>à l'article L. 2122-6 </a>(pour les TPE), au moins 30 % des suffrages exprimés en faveur d'organisations reconnues représentatives à ce niveau, quel que soit le nombre de votants, et à l'absence d'opposition d'une ou plusieurs organisations syndicales de salariés représentatives ayant recueilli la majorité des suffrages exprimés en faveur des mêmes organisations à ces mêmes élections, quel que soit le nombre de votants. <br/>L'opposition est exprimée dans un délai de 15 jours à compter de la date de notification de cet accord ou de cette convention, dans les conditions prévues à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901677&dateTexte=&categorieLien=cid'>article L. 2231-8</a>. <br/>Sous réserve de l'application de l'article L. 2236-6 susmentionné, le présent avenant fera l'objet de la procédure d'extension conformément aux dispositions <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>de l'article L. 2261-15 du code du travail </a>et <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745466&dateTexte=&categorieLien=cid'>de l'article L. 911-3 du code la sécurité sociale</a>. <br/>Le présent accord est ouvert à la signature jusqu'au 15 décembre 2013.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Date d'effet, dépôt, extension"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000038649691",
+          "type": "section",
           "title": "Avenant n° 28 du 5 février 2019 relatif à la valeur du point",
-          "dateParution": 1560902400000,
-          "articles": [
+          "id": "KALITEXT000038649691",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038649694",
               "num": "1er",
               "intOrdre": 524287,
@@ -1247,6 +1333,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038649695",
               "num": "2",
               "intOrdre": 1048574,
@@ -1254,6 +1341,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038649696",
               "num": "3",
               "intOrdre": 1572861,
@@ -1261,6 +1349,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038649697",
               "num": "4",
               "intOrdre": 2097148,
@@ -1269,6 +1358,7 @@
               "surtitre": "Date d'effet. – Dépôt. – Extension"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038649699",
               "num": "5",
               "intOrdre": 2621435,
@@ -1279,152 +1369,12 @@
           ]
         },
         {
-          "id": "KALITEXT000035512776",
-          "title": "Avenant n° 22 du 14 décembre 2016 relatif à la valeur du point au 1er janvier 2017",
-          "dateParution": 1504656000000,
-          "articles": [
-            {
-              "id": "KALIARTI000035512779",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p align='left'><br/>Le présent accord a pour objet, dans le cadre de l'article L. 2441-1 portant sur la négociation annuelle des salaires, de réévaluer le point et les salaires minimaux de la branche des CAUE,</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000035512780",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Le présent avenant s'applique aux entreprises visées par le champ d'application de la <a alt='Convention collective nationale du 24 mai 2007 (VE)' href='/affichIDCC.do?cidTexte=KALITEXT000020089215&categorieLien=cid'>convention collective nationale des conseils d'architecture, d'urbanisme et de l'environnement (CAUE) du 24 mai 2007</a>.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Champ d'application"
-            },
-            {
-              "id": "KALIARTI000035512781",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>La valeur du point national (VPN) pour la durée légale hebdomadaire du travail est fixée à :<br/>– 5,40 soit 1 % d'augmentation par rapport à la dernière valeur pour les niveaux de I à III ;<br/>– 5,28 soit 1 % d'augmentation par rapport à la dernière valeur pour les niveaux IV ;<br/>– 5,22 soit 1 % d'augmentation par rapport à la dernière valeur pour les niveaux V.</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000035512782",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Cette valeur du point s'appliquera à chaque coefficient hiérarchique pour déterminer le salaire brut mensuel minimum pour la durée légale du travail.</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000035512783",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Les dispositions du présent avenant prendront effet le 1er janvier 2017. <br/>Il sera établi un nombre suffisant d'exemplaires pour être remis à chacune des parties signataires et effectuer les formalités de dépôt. <br/>La validation de cet accord est subordonnée à sa signature par une ou plusieurs organisations syndicales de salariés représentatives ayant recueilli, aux élections prises en compte pour la mesure de l'audience prévue au 3° de l'<a alt='Code du travail - art. L2122-5 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000019347598&dateTexte=&categorieLien=cid'>article L. 2122-5 </a>ou, le cas échéant aux élections visées à l<a alt='Code du travail - art. L2122-6 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000019347611&dateTexte=&categorieLien=cid'>'article L. 2122-6 </a>(pour les TPE), au moins 30 % des suffrages exprimés en faveur d'organisations reconnues représentatives à ce niveau, quel que soit le nombre de votants, et à l'absence d'opposition d'une ou plusieurs organisations syndicales de salariés représentatives ayant recueilli la majorité des suffrages exprimés en faveur des mêmes organisations à ces mêmes élections, quel que soit le nombre de votants. <br/>L'opposition est exprimée dans un délai de 15 jours à compter de la date de notification de cet accord ou de cette convention, dans les conditions prévues à l'<a alt='Code du travail - art. L2231-8 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901677&dateTexte=&categorieLien=cid'>article L. 2231-8</a>. <br/>Sous réserve de l'application de l'article L. 2236-6 susmentionné, le présent avenant fera l'objet de la procédure d'extension conformément aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-15 du code du travail </a>et de l'<a alt='Code de la sécurité sociale. - art. L911-3 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745466&dateTexte=&categorieLien=cid'>article L. 911-3 du code la sécurité sociale</a>.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Date d'effet. – Dépôt. – Extension"
-            },
-            {
-              "id": "KALIARTI000035512785",
-              "num": "5",
-              "intOrdre": 3145722,
-              "content": "<p align='left'><br/>La commission a analysé les données sociales sur les salaires et l'emploi des CAUE. Elle n'a pas décelé d'inégalités entre hommes et femmes, au vu des données dont elle disposait. Avec les prochaines données sociales, ce sujet sera de nouveau analysé.<br/>Le présent accord est ouvert à la signature jusqu'au 20 janvier 2017.<br/>Fait à Paris, le 14 décembre 2016.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Suppression des écarts de rémunérations entre les hommes et les femmes"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000032611617",
-          "title": "Avenant n° 21 du 10 janvier 2016 relatif à la valeur du point au 1er janvier 2016",
-          "dateParution": 1464652800000,
-          "articles": [
-            {
-              "id": "KALIARTI000032611620",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p align='left'>Le présent accord a pour objet, dans le cadre de l'<a alt='Code du travail - art. L2241-2 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901739&dateTexte=&categorieLien=cid'>article L. 2241-2 du code du travail</a> portant sur la négociation annuelle des salaires, de réévaluer le point et les salaires minimaux de la branche des CAUE.<br/></p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000032611622",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Le présent avenant s'applique aux entreprises visées par le champ d'application de la <a alt='Convention collective nationale du 24 mai 2007 (VE)' href='/affichIDCC.do?cidTexte=KALITEXT000020089215&categorieLien=cid'>convention collective nationale des conseils d'architecture, d'urbanisme et de l'environnement</a> (CAUE) du 24 mai 2007.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Champ d'application"
-            },
-            {
-              "id": "KALIARTI000032611623",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>La valeur du point national (VPN) pour la durée légale hebdomadaire du travail est fixée à :<br/>– 5,35, soit 0,6 % d'augmentation par rapport à la dernière valeur pour les niveaux I à III ;<br/>– 5,23, soit 0,6 % d'augmentation par rapport à la dernière valeur pour le niveau IV ;<br/>– 5,17, soit 0,6 % d'augmentation par rapport à la dernière valeur pour le niveau V.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000032611624",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Cette valeur du point s'appliquera à chaque coefficient hiérarchique pour déterminer le salaire brut mensuel minimum pour la durée légale du travail.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000032611625",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Les dispositions du présent avenant prendront effet le 1er janvier 2016. <br/>Il sera établi un nombre suffisant d'exemplaires pour être remis à chacune des parties signataires et effectuer les formalités de dépôt. <br/>La validation de cet accord est subordonnée à sa signature par une ou plusieurs organisations syndicales de salariés représentatives ayant recueilli, aux élections prises en compte pour la mesure de l'audience prévue au 3° de <a alt='Code du travail - art. L2122-5 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000019347598&dateTexte=&categorieLien=cid'>l'article L. 2122-5 du code du travail </a>ou, le cas échéant, aux élections visées à <a alt='Code du travail - art. L2122-6 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000019347611&dateTexte=&categorieLien=cid'>l'article L. 2122-6 du code du travail </a>(pour les TPE), au moins 30 % des suffrages exprimés en faveur d'organisations reconnues représentatives à ce niveau, quel que soit le nombre de votants, et à l'absence d'opposition d'une ou de plusieurs organisations syndicales de salariés représentatives ayant recueilli la majorité des suffrages exprimés en faveur des mêmes organisations à ces mêmes élections, quel que soit le nombre de votants. <br/>L'opposition est exprimée dans un délai de 15 jours à compter de la date de notification de cet accord ou de cette convention, dans les conditions prévues à <a alt='Code du travail - art. L2231-8 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901677&dateTexte=&categorieLien=cid'>l'article L. 2231-8 du code du travail</a>. <br/>Sous réserve de l'application de l'article L. 2236-6, le présent avenant fera l'objet de la procédure d'extension conformément aux dispositions de <a alt='Code du travail - art. L2261-15 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>l'article L. 2261-15 du code du travail </a>et de <a alt='Code de la sécurité sociale. - art. L911-3 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745466&dateTexte=&categorieLien=cid'>l'article L. 911-3 du code de la sécurité sociale.</a></p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Date d'effet. – Dépôt. – Extension"
-            },
-            {
-              "id": "KALIARTI000032611631",
-              "num": "5",
-              "intOrdre": 3145722,
-              "content": "<p align='left'><br/>Les partenaires sociaux constatent une différence salariale entre les hommes et les femmes à partir du niveau V. Ils décident de solliciter l'observatoire des données sociales pour un complément d'information.<br/>Le présent accord est ouvert à la signature jusqu'au 10 janvier 2016.</p>",
-              "etat": "VIGUEUR_NON_ETEN",
-              "surtitre": "Suppression des écarts de rémunérations entre les hommes et les femmes"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000030732757",
-          "title": "Avenant n° 20 du 21 janvier 2015 relatif aux salaires et à la valeur du point au 1er janvier 2015",
-          "dateParution": 1434412800000,
-          "articles": [
-            {
-              "id": "KALIARTI000030732760",
-              "num": "1er",
-              "intOrdre": 524287,
-              "content": "<p align='left'><br/>Le présent avenant s'applique aux entreprises visées par le <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000020089215&categorieLien=cid'>champ d'application de la convention collective nationale des conseils d'architecture, d'urbanisme et de l'environnement (CAUE) du 24 mai 2007</a>.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Champ d'application"
-            },
-            {
-              "id": "KALIARTI000030732761",
-              "num": "2",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>La valeur du point national (VPN) pour la durée légale hebdomadaire du travail est fixée à :<br/>– 5,32, soit 0,6 % d'augmentation par rapport à la dernière valeur pour les niveaux I à III ;<br/>– 5,20, soit 0,6 % d'augmentation par rapport à la dernière valeur pour les niveaux IV ;<br/>– 5,14, soit 0,6 % d'augmentation par rapport à la dernière valeur pour les niveaux V.</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000030732762",
-              "num": "3",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Cette valeur du point s'appliquera à chaque coefficient hiérarchique pour déterminer le salaire brut mensuel minimum pour la durée légale du travail.</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000030732763",
-              "num": "4",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Les dispositions du présent avenant prendront effet le 1er janvier 2015. <br/>Il sera établi un nombre suffisant d'exemplaires pour être remis à chacune des parties signataires et effectuer les formalités de dépôt. <br/>La validation de cet accord est subordonnée à sa signature par une ou plusieurs organisations syndicales de salariés représentatives ayant recueilli aux élections prises en compte pour la mesure de l'audience prévue au 3° de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000019347598&dateTexte=&categorieLien=cid'>article L. 2122-5 </a>ou, le cas échéant, aux élections visées <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000019347611&dateTexte=&categorieLien=cid'>à l'article L. 2122-6 </a>(pour les TPE) au moins 30 % des suffrages exprimés en faveur d'organisations reconnues représentatives à ce niveau, quel que soit le nombre de votants, et à l'absence d'opposition d'une ou de plusieurs organisations syndicales de salariés représentatives ayant recueilli la majorité des suffrages exprimés en faveur des mêmes organisations à ces mêmes élections, quel que soit le nombre de votants. <br/>L'opposition est exprimée dans un délai de 15 jours à compter de la date de notification de cet accord ou de cette convention, dans les conditions prévues <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901677&dateTexte=&categorieLien=cid'>à l'article L. 2231-8</a>. <br/>Sous réserve de l'application de l'article L. 2236-6 susmentionné, le présent avenant fera l'objet de la procédure d'extension conformément aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-15 du code du travail </a>et de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745466&dateTexte=&categorieLien=cid'>article L. 911-3 du code la sécurité sociale</a>.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Date d'effet. – Dépôt. – Extension"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000036835658",
+          "type": "section",
           "title": "Avenant n° 24 du 12 décembre 2017 relatif à la valeur nationale du point au 1er janvier 2018",
-          "dateParution": 1524614400000,
-          "articles": [
+          "id": "KALITEXT000036835658",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036835661",
               "num": "1er",
               "intOrdre": 524287,
@@ -1433,6 +1383,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036835662",
               "num": "2",
               "intOrdre": 1048574,
@@ -1440,6 +1391,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036835663",
               "num": "3",
               "intOrdre": 1572861,
@@ -1447,6 +1399,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036835664",
               "num": "4",
               "intOrdre": 2097148,
@@ -1455,6 +1408,7 @@
               "surtitre": "Date d'effet. – Dépôt. – Extension"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036835667",
               "num": "5",
               "intOrdre": 2621435,
@@ -1465,11 +1419,211 @@
           ]
         },
         {
-          "id": "KALITEXT000027661919",
-          "title": "Avenant n° 15 du 15 janvier 2013 relatif aux salaires minimaux au 1er janvier 2013",
-          "dateParution": 1372896000000,
-          "articles": [
+          "type": "section",
+          "title": "Avenant n° 22 du 14 décembre 2016 relatif à la valeur du point au 1er janvier 2017",
+          "id": "KALITEXT000035512776",
+          "children": [
             {
+              "type": "article",
+              "id": "KALIARTI000035512779",
+              "num": null,
+              "intOrdre": 524287,
+              "content": "<p align='left'><br/>Le présent accord a pour objet, dans le cadre de l'article L. 2441-1 portant sur la négociation annuelle des salaires, de réévaluer le point et les salaires minimaux de la branche des CAUE,</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000035512780",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>Le présent avenant s'applique aux entreprises visées par le champ d'application de la <a alt='Convention collective nationale du 24 mai 2007 (VE)' href='/affichIDCC.do?cidTexte=KALITEXT000020089215&categorieLien=cid'>convention collective nationale des conseils d'architecture, d'urbanisme et de l'environnement (CAUE) du 24 mai 2007</a>.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Champ d'application"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000035512781",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>La valeur du point national (VPN) pour la durée légale hebdomadaire du travail est fixée à :<br/>– 5,40 soit 1 % d'augmentation par rapport à la dernière valeur pour les niveaux de I à III ;<br/>– 5,28 soit 1 % d'augmentation par rapport à la dernière valeur pour les niveaux IV ;<br/>– 5,22 soit 1 % d'augmentation par rapport à la dernière valeur pour les niveaux V.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000035512782",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Cette valeur du point s'appliquera à chaque coefficient hiérarchique pour déterminer le salaire brut mensuel minimum pour la durée légale du travail.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000035512783",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Les dispositions du présent avenant prendront effet le 1er janvier 2017. <br/>Il sera établi un nombre suffisant d'exemplaires pour être remis à chacune des parties signataires et effectuer les formalités de dépôt. <br/>La validation de cet accord est subordonnée à sa signature par une ou plusieurs organisations syndicales de salariés représentatives ayant recueilli, aux élections prises en compte pour la mesure de l'audience prévue au 3° de l'<a alt='Code du travail - art. L2122-5 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000019347598&dateTexte=&categorieLien=cid'>article L. 2122-5 </a>ou, le cas échéant aux élections visées à l<a alt='Code du travail - art. L2122-6 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000019347611&dateTexte=&categorieLien=cid'>'article L. 2122-6 </a>(pour les TPE), au moins 30 % des suffrages exprimés en faveur d'organisations reconnues représentatives à ce niveau, quel que soit le nombre de votants, et à l'absence d'opposition d'une ou plusieurs organisations syndicales de salariés représentatives ayant recueilli la majorité des suffrages exprimés en faveur des mêmes organisations à ces mêmes élections, quel que soit le nombre de votants. <br/>L'opposition est exprimée dans un délai de 15 jours à compter de la date de notification de cet accord ou de cette convention, dans les conditions prévues à l'<a alt='Code du travail - art. L2231-8 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901677&dateTexte=&categorieLien=cid'>article L. 2231-8</a>. <br/>Sous réserve de l'application de l'article L. 2236-6 susmentionné, le présent avenant fera l'objet de la procédure d'extension conformément aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-15 du code du travail </a>et de l'<a alt='Code de la sécurité sociale. - art. L911-3 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745466&dateTexte=&categorieLien=cid'>article L. 911-3 du code la sécurité sociale</a>.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Date d'effet. – Dépôt. – Extension"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000035512785",
+              "num": "5",
+              "intOrdre": 3145722,
+              "content": "<p align='left'><br/>La commission a analysé les données sociales sur les salaires et l'emploi des CAUE. Elle n'a pas décelé d'inégalités entre hommes et femmes, au vu des données dont elle disposait. Avec les prochaines données sociales, ce sujet sera de nouveau analysé.<br/>Le présent accord est ouvert à la signature jusqu'au 20 janvier 2017.<br/>Fait à Paris, le 14 décembre 2016.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Suppression des écarts de rémunérations entre les hommes et les femmes"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 21 du 10 janvier 2016 relatif à la valeur du point au 1er janvier 2016",
+          "id": "KALITEXT000032611617",
+          "children": [
+            {
+              "type": "article",
+              "id": "KALIARTI000032611620",
+              "num": null,
+              "intOrdre": 524287,
+              "content": "<p align='left'>Le présent accord a pour objet, dans le cadre de l'<a alt='Code du travail - art. L2241-2 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901739&dateTexte=&categorieLien=cid'>article L. 2241-2 du code du travail</a> portant sur la négociation annuelle des salaires, de réévaluer le point et les salaires minimaux de la branche des CAUE.<br/></p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032611622",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>Le présent avenant s'applique aux entreprises visées par le champ d'application de la <a alt='Convention collective nationale du 24 mai 2007 (VE)' href='/affichIDCC.do?cidTexte=KALITEXT000020089215&categorieLien=cid'>convention collective nationale des conseils d'architecture, d'urbanisme et de l'environnement</a> (CAUE) du 24 mai 2007.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Champ d'application"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032611623",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>La valeur du point national (VPN) pour la durée légale hebdomadaire du travail est fixée à :<br/>– 5,35, soit 0,6 % d'augmentation par rapport à la dernière valeur pour les niveaux I à III ;<br/>– 5,23, soit 0,6 % d'augmentation par rapport à la dernière valeur pour le niveau IV ;<br/>– 5,17, soit 0,6 % d'augmentation par rapport à la dernière valeur pour le niveau V.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032611624",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Cette valeur du point s'appliquera à chaque coefficient hiérarchique pour déterminer le salaire brut mensuel minimum pour la durée légale du travail.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032611625",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Les dispositions du présent avenant prendront effet le 1er janvier 2016. <br/>Il sera établi un nombre suffisant d'exemplaires pour être remis à chacune des parties signataires et effectuer les formalités de dépôt. <br/>La validation de cet accord est subordonnée à sa signature par une ou plusieurs organisations syndicales de salariés représentatives ayant recueilli, aux élections prises en compte pour la mesure de l'audience prévue au 3° de <a alt='Code du travail - art. L2122-5 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000019347598&dateTexte=&categorieLien=cid'>l'article L. 2122-5 du code du travail </a>ou, le cas échéant, aux élections visées à <a alt='Code du travail - art. L2122-6 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000019347611&dateTexte=&categorieLien=cid'>l'article L. 2122-6 du code du travail </a>(pour les TPE), au moins 30 % des suffrages exprimés en faveur d'organisations reconnues représentatives à ce niveau, quel que soit le nombre de votants, et à l'absence d'opposition d'une ou de plusieurs organisations syndicales de salariés représentatives ayant recueilli la majorité des suffrages exprimés en faveur des mêmes organisations à ces mêmes élections, quel que soit le nombre de votants. <br/>L'opposition est exprimée dans un délai de 15 jours à compter de la date de notification de cet accord ou de cette convention, dans les conditions prévues à <a alt='Code du travail - art. L2231-8 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901677&dateTexte=&categorieLien=cid'>l'article L. 2231-8 du code du travail</a>. <br/>Sous réserve de l'application de l'article L. 2236-6, le présent avenant fera l'objet de la procédure d'extension conformément aux dispositions de <a alt='Code du travail - art. L2261-15 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>l'article L. 2261-15 du code du travail </a>et de <a alt='Code de la sécurité sociale. - art. L911-3 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745466&dateTexte=&categorieLien=cid'>l'article L. 911-3 du code de la sécurité sociale.</a></p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Date d'effet. – Dépôt. – Extension"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000032611631",
+              "num": "5",
+              "intOrdre": 3145722,
+              "content": "<p align='left'><br/>Les partenaires sociaux constatent une différence salariale entre les hommes et les femmes à partir du niveau V. Ils décident de solliciter l'observatoire des données sociales pour un complément d'information.<br/>Le présent accord est ouvert à la signature jusqu'au 10 janvier 2016.</p>",
+              "etat": "VIGUEUR_NON_ETEN",
+              "surtitre": "Suppression des écarts de rémunérations entre les hommes et les femmes"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 20 du 21 janvier 2015 relatif aux salaires et à la valeur du point au 1er janvier 2015",
+          "id": "KALITEXT000030732757",
+          "children": [
+            {
+              "type": "article",
+              "id": "KALIARTI000030732760",
+              "num": "1er",
+              "intOrdre": 524287,
+              "content": "<p align='left'><br/>Le présent avenant s'applique aux entreprises visées par le <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000020089215&categorieLien=cid'>champ d'application de la convention collective nationale des conseils d'architecture, d'urbanisme et de l'environnement (CAUE) du 24 mai 2007</a>.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Champ d'application"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030732761",
+              "num": "2",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>La valeur du point national (VPN) pour la durée légale hebdomadaire du travail est fixée à :<br/>– 5,32, soit 0,6 % d'augmentation par rapport à la dernière valeur pour les niveaux I à III ;<br/>– 5,20, soit 0,6 % d'augmentation par rapport à la dernière valeur pour les niveaux IV ;<br/>– 5,14, soit 0,6 % d'augmentation par rapport à la dernière valeur pour les niveaux V.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030732762",
+              "num": "3",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Cette valeur du point s'appliquera à chaque coefficient hiérarchique pour déterminer le salaire brut mensuel minimum pour la durée légale du travail.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030732763",
+              "num": "4",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Les dispositions du présent avenant prendront effet le 1er janvier 2015. <br/>Il sera établi un nombre suffisant d'exemplaires pour être remis à chacune des parties signataires et effectuer les formalités de dépôt. <br/>La validation de cet accord est subordonnée à sa signature par une ou plusieurs organisations syndicales de salariés représentatives ayant recueilli aux élections prises en compte pour la mesure de l'audience prévue au 3° de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000019347598&dateTexte=&categorieLien=cid'>article L. 2122-5 </a>ou, le cas échéant, aux élections visées <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000019347611&dateTexte=&categorieLien=cid'>à l'article L. 2122-6 </a>(pour les TPE) au moins 30 % des suffrages exprimés en faveur d'organisations reconnues représentatives à ce niveau, quel que soit le nombre de votants, et à l'absence d'opposition d'une ou de plusieurs organisations syndicales de salariés représentatives ayant recueilli la majorité des suffrages exprimés en faveur des mêmes organisations à ces mêmes élections, quel que soit le nombre de votants. <br/>L'opposition est exprimée dans un délai de 15 jours à compter de la date de notification de cet accord ou de cette convention, dans les conditions prévues <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901677&dateTexte=&categorieLien=cid'>à l'article L. 2231-8</a>. <br/>Sous réserve de l'application de l'article L. 2236-6 susmentionné, le présent avenant fera l'objet de la procédure d'extension conformément aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-15 du code du travail </a>et de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745466&dateTexte=&categorieLien=cid'>article L. 911-3 du code la sécurité sociale</a>.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Date d'effet. – Dépôt. – Extension"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 17 du 3 décembre 2013 relatif aux salaires minimaux au 1er janvier 2014",
+          "id": "KALITEXT000028836936",
+          "children": [
+            {
+              "type": "article",
+              "id": "KALIARTI000028837852",
+              "num": null,
+              "intOrdre": 262143,
+              "content": "<p>    Le présent accord a pour objet, dans le cadre de l'article L. 2441-1  portant sur la négociation annuelle des salaires, de réévaluer les  salaires minimaux de la branche des CAUE.<br/> \t\t\t\t\t\tAprès avoir examiné  les moyennes de salaires issues de l'observatoire des métiers et des  qualifications de la convention collective des CAUE basées sur les  masses salariales de 2012 ainsi que l'égalité professionnelle entre les  femmes et les hommes, les partenaires sociaux ont souhaité modifier la  grille des salaires minimaux de la convention collective des CAUE, </p><p>il a été convenu ce qui suit :</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000028836939",
+              "num": "1er",
+              "intOrdre": 524287,
+              "content": "<p align='left'><br/>Le présent avenant s'applique aux entreprises visées par le champ d'application de la convention collective nationale des conseils d'architecture, d'urbanisme et de l'environnement (CAUE) du 24 mai 2007.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Champ d'application"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000028836940",
+              "num": "2",
+              "intOrdre": 1048574,
+              "content": "<p align='left'> \t\t\t\t\t\tLa grille des salaires minimaux sur la base de 35 heures hebdomadaires, soit 151,67 heures mensuelles, est réévaluée. Les nouvelles valeurs sont les suivantes :<br/></p><p align='right'> \t\t\t\t\t\t(En euros.)<br/></p><p align='left'></p><div align='center'><center><table border='1'><tbody><tr><th><br/></th><th>Coefficient</th><th>Valeur</th></tr><tr><td rowspan='3' align='center'><p>Niveau I</p><p align='left'>Position 1</p><p align='left'>Position 2</p></td><td><br/></td><td><br/></td></tr><tr><td align='center'>300</td><td align='center'>1 587</td></tr><tr><td align='center'>320</td><td align='center'>1 693</td></tr><tr><td rowspan='3' align='center'><p>Niveau II</p><p align='left'>Position 1</p><p align='left'>Position 2</p></td><td><br/></td><td><br/></td></tr><tr><td align='center'>340</td><td align='center'>1 799</td></tr><tr><td align='center'>360</td><td align='center'>1 905</td></tr><tr><td rowspan='4' align='center'><p>Niveau III</p><p align='left'>Position 1</p><p align='left'>Position 2</p><p align='left'>Position 3</p></td><td><br/></td><td><br/></td></tr><tr><td align='center'>400</td><td align='center'>2 116</td></tr><tr><td align='center'>440</td><td align='center'>2 328</td></tr><tr><td align='center'>500</td><td align='center'>2 645</td></tr><tr><td rowspan='4' align='center'><p>Niveau IV</p><p align='left'>Position 1</p><p align='left'>Position 2</p><p align='left'>Position 3</p></td><td><br/></td><td><br/></td></tr><tr><td align='center'>530</td><td align='center'>2 738</td></tr><tr><td align='center'>560</td><td align='center'>2893</td></tr><tr><td align='center'>600</td><td align='center'>3 100</td></tr><tr><td rowspan='2' align='center'><p>Niveau V</p><p align='left'>Position 1</p></td><td><br/></td><td><br/></td></tr><tr><td align='center'>700</td><td align='center'>3 580</td></tr></tbody></table></center></div><p></p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Modification de la grille des salaires minimaux de la convention collective des CAUE"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000028836941",
+              "num": "3",
+              "intOrdre": 1572861,
+              "content": "<p align='left'>Les dispositions du présent avenant prendront effet le 1er janvier 2014. <br/>Il sera établi un nombre suffisant d'exemplaires pour être remis à chacune des parties signataires et effectuer les formalités de dépôt. <br/>La validation de cet accord est subordonnée à sa signature par une ou plusieurs organisations syndicales de salariés représentatives ayant recueilli, aux élections prises en compte pour la mesure de l'audience prévue <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000019347598&dateTexte=&categorieLien=cid'>au 3° de l'article L. 2122-5 </a>ou, le cas échéant, aux élections visées <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000019347611&dateTexte=&categorieLien=cid'>à l'article L. 2122-6 </a>(pour les TPE), au moins 30 % des suffrages exprimés en faveur d'organisations reconnues représentatives à ce niveau, quel que soit le nombre de votants, et à l'absence d'opposition d'une ou plusieurs organisations syndicales de salariés représentatives ayant recueilli la majorité des suffrages exprimés en faveur des mêmes organisations à ces mêmes élections, quel que soit le nombre de votants. <br/>L'opposition est exprimée dans un délai de 15 jours à compter de la date de notification de cet accord ou de cette convention, dans les conditions prévues à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901677&dateTexte=&categorieLien=cid'>article L. 2231-8</a>. <br/>Sous réserve de l'application de l'article L. 2236-6 susmentionné, le présent avenant fera l'objet de la procédure d'extension conformément aux dispositions <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>de l'article L. 2261-15 du code du travail </a>et <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745466&dateTexte=&categorieLien=cid'>de l'article L. 911-3 du code la sécurité sociale</a>. <br/>Le présent accord est ouvert à la signature jusqu'au 15 décembre 2013.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Date d'effet, dépôt, extension"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 15 du 15 janvier 2013 relatif aux salaires minimaux au 1er janvier 2013",
+          "id": "KALITEXT000027661919",
+          "children": [
+            {
+              "type": "article",
               "id": "KALIARTI000027661922",
               "num": null,
               "intOrdre": 524287,
@@ -1477,6 +1631,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027661923",
               "num": "1er",
               "intOrdre": 1048574,
@@ -1485,6 +1640,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027661924",
               "num": "2",
               "intOrdre": 1572861,
@@ -1493,6 +1649,7 @@
               "surtitre": "Modification de la grille des salaires minimaux de la convention collective des CAUE"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027661925",
               "num": "3",
               "intOrdre": 2097148,
@@ -1501,6 +1658,7 @@
               "surtitre": "Date d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027661926",
               "num": "4",
               "intOrdre": 2621435,
@@ -1509,6 +1667,7 @@
               "surtitre": "Dénonciation. – Révision"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027661929",
               "num": "5",
               "intOrdre": 3145722,
@@ -1519,11 +1678,12 @@
           ]
         },
         {
-          "id": "KALITEXT000025773773",
+          "type": "section",
           "title": "Avenant n° 12 du 15 novembre 2011 relatif aux salaires et à la valeur du point au 1er janvier 2012",
-          "dateParution": 1335916800000,
-          "articles": [
+          "id": "KALITEXT000025773773",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000025773776",
               "num": "1er",
               "intOrdre": 524287,
@@ -1531,6 +1691,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000025773777",
               "num": "2",
               "intOrdre": 1048574,
@@ -1538,6 +1699,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000025773778",
               "num": "3",
               "intOrdre": 1572861,
@@ -1545,6 +1707,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000025773779",
               "num": "4",
               "intOrdre": 2097148,
@@ -1552,6 +1715,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000025773780",
               "num": "5",
               "intOrdre": 2621435,
@@ -1559,6 +1723,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000025773782",
               "num": "6",
               "intOrdre": 3145722,
@@ -1568,11 +1733,12 @@
           ]
         },
         {
-          "id": "KALITEXT000024462115",
+          "type": "section",
           "title": "Avenant n° 7 du 9 février 2011 relatif aux salaires et à la valeur du point au 1er janvier 2011",
-          "dateParution": 1313020800000,
-          "articles": [
+          "id": "KALITEXT000024462115",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000024462118",
               "num": "1er",
               "intOrdre": 524287,
@@ -1580,6 +1746,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000024462119",
               "num": "2",
               "intOrdre": 1048574,
@@ -1587,6 +1754,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000024462120",
               "num": "3",
               "intOrdre": 1572861,
@@ -1594,6 +1762,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000024462121",
               "num": "4",
               "intOrdre": 2097148,
@@ -1601,6 +1770,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000024462122",
               "num": "5",
               "intOrdre": 2621435,
@@ -1608,6 +1778,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000024462124",
               "num": "6",
               "intOrdre": 3145722,
@@ -1617,11 +1788,12 @@
           ]
         },
         {
-          "id": "KALITEXT000023175787",
+          "type": "section",
           "title": "Avenant n° 6 du 15 décembre 2009 relatif aux salaires et à la valeur du point au 1er janvier 2010",
-          "dateParution": 1291766400000,
-          "articles": [
+          "id": "KALITEXT000023175787",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023175790",
               "num": "1er",
               "intOrdre": 524287,
@@ -1629,6 +1801,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023175791",
               "num": "2",
               "intOrdre": 1048574,
@@ -1636,6 +1809,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023175792",
               "num": "3",
               "intOrdre": 1572861,
@@ -1643,6 +1817,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023175793",
               "num": "4",
               "intOrdre": 2097148,
@@ -1650,6 +1825,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023175794",
               "num": "5",
               "intOrdre": 2621435,
@@ -1657,6 +1833,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023175796",
               "num": "6",
               "intOrdre": 3145722,
@@ -1666,11 +1843,12 @@
           ]
         },
         {
-          "id": "KALITEXT000020582178",
+          "type": "section",
           "title": "Avenant n° 2 du 20 janvier 2009 relatif à la valeur du point au 1er janvier 2009",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000020582178",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000020582181",
               "num": "1er",
               "intOrdre": 524287,
@@ -1678,6 +1856,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020582182",
               "num": "2",
               "intOrdre": 1048574,
@@ -1685,6 +1864,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020582183",
               "num": "3",
               "intOrdre": 1572861,
@@ -1692,6 +1872,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020582184",
               "num": "4",
               "intOrdre": 2097148,
@@ -1699,6 +1880,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020582185",
               "num": "5",
               "intOrdre": 2621435,
@@ -1706,6 +1888,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000020582187",
               "num": "6",
               "intOrdre": 3145722,

@@ -1,35 +1,26 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale des employés, techniciens, agents de maîtrise et cadres de la presse d'information spécialisée du 27 décembre 2018",
   "id": "KALICONT000038661444",
   "num": "3230",
-  "title": "Convention collective nationale des employés, techniciens, agents de maîtrise et cadres de la presse d'information spécialisée du 27 décembre 2018",
   "shortTitle": "Presse Information Spécialisée",
-  "categorisation": [
-    "Presse (Information spécialisée [employés, techniciens, agents de maîtrise et cadres])"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000038632512",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale des employés, techniciens, agents de maîtrise et cadres de la presse d'information spécialisée du 27 décembre 2018",
+      "id": "KALITEXT000038632512",
       "etat": "VIGUEUR_NON_ETEN",
-      "articles": [
+      "children": [
         {
-          "id": "KALIARTI000038632596",
-          "num": "43",
-          "intOrdre": 26214350,
-          "content": "<p align='left'><br/>La présente convention collective entre en vigueur à compter de son dépôt par la partie la plus diligente auprès des services du ministre chargé du travail, à la direction générale du travail, de l'emploi, de la formation professionnelle et du dialogue social.</p>",
-          "etat": "VIGUEUR_NON_ETEN",
-          "surtitre": "Entrée en vigueur"
-        }
-      ],
-      "sections": [
-        {
-          "id": "KALISCTA000038632514",
+          "type": "section",
           "intOrdre": 524287,
           "title": "Préambule",
+          "id": "KALISCTA000038632514",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038632598",
               "num": null,
               "intOrdre": 524287,
@@ -39,12 +30,14 @@
           ]
         },
         {
-          "id": "KALISCTA000038632597",
+          "type": "section",
           "intOrdre": 26738637,
           "title": "Annexe",
+          "id": "KALISCTA000038632597",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038632599",
               "num": null,
               "intOrdre": 524287,
@@ -52,6 +45,15 @@
               "etat": "VIGUEUR_NON_ETEN"
             }
           ]
+        },
+        {
+          "type": "article",
+          "id": "KALIARTI000038632596",
+          "num": "43",
+          "intOrdre": 26214350,
+          "content": "<p align='left'><br/>La présente convention collective entre en vigueur à compter de son dépôt par la partie la plus diligente auprès des services du ministre chargé du travail, à la direction générale du travail, de l'emploi, de la formation professionnelle et du dialogue social.</p>",
+          "etat": "VIGUEUR_NON_ETEN",
+          "surtitre": "Entrée en vigueur"
         }
       ]
     }

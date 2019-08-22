@@ -1,34 +1,26 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale des organisations professionnelles de l'habitat social du 20 septembre 2005.  Etendue par arrêté du 18 octobre 2006 JORF 29 octobre 2006",
   "id": "KALICONT000005635376",
   "num": "2526",
-  "title": "Convention collective nationale des organisations professionnelles de l'habitat social du 20 septembre 2005.  Etendue par arrêté du 18 octobre 2006 JORF 29 octobre 2006",
   "shortTitle": "Habitat Social Organisations Professionnelles",
-  "categorisation": [
-    "Organisations professionnelles de l'habitat social"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000005672305",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale des organisations professionnelles de l'habitat social du 20 septembre 2005.  Etendue par arrêté du 18 octobre 2006 JORF 29 octobre 2006",
+      "id": "KALITEXT000005672305",
       "etat": "VIGUEUR_ETEN",
-      "articles": [
+      "children": [
         {
-          "id": "KALIARTI000038361890",
-          "num": null,
-          "intOrdre": 21474,
-          "content": "<p>NOTA : Dans l'ensemble des dispositions de la présente convention, de ses avenants et annexes, ainsi que des accords collectifs conclus dans la branche des organisations professionnelles de l'habitat social, la référence à la « commission paritaire nationale », à l'exception de la commission paritaire nationale de l'emploi et de la formation professionnelle qui constitue une commission distincte, est remplacée par celle de « commission paritaire permanente de négociation et d'interprétation ».</p><p>(<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000038326482&idArticle=KALIARTI000038326488&categorieLien=cid' title='Mise en place de la CPPNI - art. 2 (VNE)'>Article 2 de l'avenant n° 20 du 26 juillet 2018</a> relatif à la mise en place de la CPPNI - BOCC 2018-48)</p>",
-          "etat": "VIGUEUR_NON_ETEN"
-        }
-      ],
-      "sections": [
-        {
-          "id": "KALISCTA000005716497",
+          "type": "section",
           "intOrdre": 42949,
           "title": "Préambule",
+          "id": "KALISCTA000005716497",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005833359",
               "num": null,
               "intOrdre": 42949,
@@ -38,12 +30,14 @@
           ]
         },
         {
-          "id": "KALISCTA000005716498",
+          "type": "section",
           "intOrdre": 85898,
           "title": "Généralités",
+          "id": "KALISCTA000005716498",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038361823",
               "num": "1er",
               "intOrdre": 42949,
@@ -53,12 +47,14 @@
           ]
         },
         {
-          "id": "KALISCTA000005716499",
+          "type": "section",
           "intOrdre": 128847,
           "title": "Dialogue social",
+          "id": "KALISCTA000005716499",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000033308762",
               "num": "2",
               "intOrdre": 42949,
@@ -68,12 +64,14 @@
           ]
         },
         {
-          "id": "KALISCTA000005716500",
+          "type": "section",
           "intOrdre": 171796,
           "title": "Dispositions relatives aux conditions d'engagement",
+          "id": "KALISCTA000005716500",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000028772159",
               "num": "3",
               "intOrdre": 42949,
@@ -83,12 +81,14 @@
           ]
         },
         {
-          "id": "KALISCTA000005716501",
+          "type": "section",
           "intOrdre": 214745,
           "title": "Rupture du contrat de travail à durée indéterminée",
+          "id": "KALISCTA000005716501",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000022047772",
               "num": "4",
               "intOrdre": 42949,
@@ -98,12 +98,14 @@
           ]
         },
         {
-          "id": "KALISCTA000005716502",
+          "type": "section",
           "intOrdre": 257694,
           "title": "Durée et aménagement du temps de travail",
+          "id": "KALISCTA000005716502",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005833365",
               "num": "5",
               "intOrdre": 42949,
@@ -113,12 +115,14 @@
           ]
         },
         {
-          "id": "KALISCTA000005716503",
+          "type": "section",
           "intOrdre": 300643,
           "title": "Evolution professionnelle des salariés",
+          "id": "KALISCTA000005716503",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005833367",
               "num": "6",
               "intOrdre": 42949,
@@ -128,12 +132,14 @@
           ]
         },
         {
-          "id": "KALISCTA000005716504",
+          "type": "section",
           "intOrdre": 343592,
           "title": "Formation professionnelle",
+          "id": "KALISCTA000005716504",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005833368",
               "num": "7",
               "intOrdre": 42949,
@@ -143,12 +149,14 @@
           ]
         },
         {
-          "id": "KALISCTA000005716505",
+          "type": "section",
           "intOrdre": 386541,
           "title": "Congés payés",
+          "id": "KALISCTA000005716505",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005833369",
               "num": "8",
               "intOrdre": 42949,
@@ -158,12 +166,14 @@
           ]
         },
         {
-          "id": "KALISCTA000005716506",
+          "type": "section",
           "intOrdre": 429490,
           "title": "Autres congés",
+          "id": "KALISCTA000005716506",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000037049919",
               "num": "9",
               "intOrdre": 42949,
@@ -173,12 +183,14 @@
           ]
         },
         {
-          "id": "KALISCTA000005716507",
+          "type": "section",
           "intOrdre": 472439,
           "title": "Maladie, régime complémentaire santé, prévoyance",
+          "id": "KALISCTA000005716507",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005833371",
               "num": "10",
               "intOrdre": 42949,
@@ -188,12 +200,14 @@
           ]
         },
         {
-          "id": "KALISCTA000005716508",
+          "type": "section",
           "intOrdre": 515388,
           "title": "Classification des emplois",
+          "id": "KALISCTA000005716508",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036509895",
               "num": "11",
               "intOrdre": 42949,
@@ -203,12 +217,14 @@
           ]
         },
         {
-          "id": "KALISCTA000005716509",
+          "type": "section",
           "intOrdre": 558337,
           "title": "Rémunération",
+          "id": "KALISCTA000005716509",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036509898",
               "num": "12",
               "intOrdre": 42949,
@@ -218,12 +234,14 @@
           ]
         },
         {
-          "id": "KALISCTA000005716510",
+          "type": "section",
           "intOrdre": 601286,
           "title": "Epargne salariale",
+          "id": "KALISCTA000005716510",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000005833374",
               "num": "13",
               "intOrdre": 42949,
@@ -231,42 +249,63 @@
               "etat": "VIGUEUR_ETEN"
             }
           ]
+        },
+        {
+          "type": "article",
+          "id": "KALIARTI000038361890",
+          "num": null,
+          "intOrdre": 21474,
+          "content": "<p>NOTA : Dans l'ensemble des dispositions de la présente convention, de ses avenants et annexes, ainsi que des accords collectifs conclus dans la branche des organisations professionnelles de l'habitat social, la référence à la « commission paritaire nationale », à l'exception de la commission paritaire nationale de l'emploi et de la formation professionnelle qui constitue une commission distincte, est remplacée par celle de « commission paritaire permanente de négociation et d'interprétation ».</p><p>(<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000038326482&idArticle=KALIARTI000038326488&categorieLien=cid' title='Mise en place de la CPPNI - art. 2 (VNE)'>Article 2 de l'avenant n° 20 du 26 juillet 2018</a> relatif à la mise en place de la CPPNI - BOCC 2018-48)</p>",
+          "etat": "VIGUEUR_NON_ETEN"
         }
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000024611337",
-          "title": "Avenant n° 3 du 5 mai 2011 à l'accord du 20 septembre 2005 relatif à la formation professionnelle",
-          "dateParution": 1317254400000,
-          "articles": [
+          "type": "section",
+          "title": "Dénonciation par lettre du 16 janvier 2019 de la convention collective, des différents accords, avenants et annexes",
+          "id": "KALITEXT000038907764",
+          "children": [
             {
-              "id": "KALIARTI000024611340",
-              "num": "1er",
+              "type": "article",
+              "id": "KALIARTI000038907767",
+              "num": null,
               "intOrdre": 524287,
-              "content": "<p align='left'><br/><a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000005672309&idArticle=KALIARTI000005833385&categorieLien=cid'>L'article 9.2 </a>« Prise en charge des actions » de l'accord du 20 septembre 2005, précédemment modifié par <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000024271559&categorieLien=cid'>l'avenant n° 2 du 21 décembre 2010</a>, est modifié de la manière suivante : <br/>Dans le deuxième alinéa « Périodes de professionnalisation », les mots : « 20 € » sont remplacés par les mots : « 9,15 € ». <br/>Le troisième alinéa « DIF prioritaires de branche » est modifié ainsi : <br/>« Dans le cadre du DIF prioritaire de branche, seul le coût pédagogique des actions de formation est pris en charge et plafonné à 70 €/ heure. »</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000024611344",
-              "num": "2",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Les dispositions du présent avenant s'appliquent aux demandes de prise en charge qui seront adressées à Habitat formation à compter du 1er juin 2011 pour des formations débutant à compter du 1er juillet 2011.<br/>Le présent avenant fait l'objet d'un dépôt dans les conditions définies par le code du travail et d'une demande d'extension.</p>",
-              "etat": "VIGUEUR_ETEN"
+              "content": "<p><br/>Union sociale pour l'habitat (USH)\tParis, le 16 janvier 2019.</p><p><br/>14, rue Lord-Byron<br/>75384 Paris Cedex 08</p><p><br/>Madame, Monsieur,</p><p><br/>L'union sociale pour l'habitat a négocié et signé le 20 septembre 2005 la convention collective nationale des organisations professionnelles de l'habitat social.<br/>Depuis son entrée en vigueur, cette convention collective a été révisée par des avenants successifs et complétée par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000005672309&categorieLien=cid' title='Formation professionnelle tout au long de la vie au sein des organisations professionnelles de l'... (VE)'>accord du 20 septembre 2005</a> relatif à la formation professionnelle.<br/>Force est de constater que cette convention collective et ses différents accords et avenants vont être remis en cause en raison du mouvement de restructuration des branches professionnelles. Il importe donc d'anticiper cette évolution du paysage conventionnel.<br/>C'est la raison pour laquelle l'union sociale pour l'habitat entend envisager la transposition des dispositions conventionnelles à un autre niveau de négociation. Cette opération suppose, au préalable, une dénonciation des instruments négociés au niveau de la branche des organisations professionnelles de l'habitat social.<br/>En conséquence, conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-9 (V)'>article L. 2261-9 du code du travail</a> et à l'article 1.5 de la convention collective susvisée, l'union sociale pour l'habitat vous notifie par la présente la dénonciation totale de la convention collective susvisée et des différents accords, avenants et annexes conclus sur ce champ depuis son entrée en vigueur.<br/>La présente dénonciation fait l'objet d'un dépôt, conformément aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-9 (V)'>L. 2261-9</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485219&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-8 (V)'>D. 2231-8</a> du code du travail.<br/>Nous vous prions d'agréer, Monsieur, Madame, l'expression de notre considération distinguée.</p>",
+              "etat": "VIGUEUR"
             }
           ]
         },
         {
-          "id": "KALITEXT000038326482",
+          "type": "section",
           "title": "Avenant n° 20 du 26 juillet 2018 relatif à la mise en place de la CPPNI",
-          "dateParution": 1554163200000,
-          "articles": [
+          "id": "KALITEXT000038326482",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000038326485",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000038326498",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'>Selon la <a href='/affichTexte.do?cidTexte=JORFTEXT000032983213&categorieLien=cid'>loi n° 2016-1088 du 8 août 2016</a> relative au travail, à la modernisation du dialogue social et à la sécurisation des parcours professionnels, modifiée par l'<a href='/affichTexte.do?cidTexte=JORFTEXT000035607311&categorieLien=cid'>ordonnance n° 2017-1385 du 22 septembre 2017</a> relative au renforcement de la négociation collective, la branche a pour missions de :<br/>\n– définir les conditions d'emploi et de travail des salariés ainsi que les garanties qui leur sont applicables dans les matières et selon les modalités prévues par la loi ;<br/>\n– réguler la concurrence entre les entreprises relevant de son champ d'application.</p><p align='left'>Dans ce cadre, la loi précitée du 8 août 2016 prévoit la mise en place, dans chaque branche, d'une commission paritaire permanente de négociation et d'interprétation dont le rôle est précisément défini.</p><p align='left'>La branche des organisations professionnelles de l'habitat social dispose déjà d'une commission paritaire nationale, prévue à l'article 1.8 de la convention collective nationale des organisations professionnelles de l'habitat social du 20 septembre 2005.</p><p align='left'>Bien que cette commission exerce en pratique bon nombre des missions revenant à la commission paritaire permanente de négociation et d'interprétation, les signataires du présent accord ont décidé d'actualiser la convention collective nationale de branche au vu des évolutions de la réglementation.</p><p align='left'>La commission paritaire permanente de négociation et d'interprétation, créée par le présent accord, se substitue à la commission paritaire nationale existante.</p><p align='left'>En conséquence, les dispositions du présent accord annulent et remplacent les dispositions de la convention collective nationale des organisations professionnelles de l'habitat social du 20 septembre 2005 ayant trait à ladite commission paritaire nationale, dans les conditions et selon les modalités exposées ci-après.</p><p></p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000038326486",
               "num": "1er",
               "intOrdre": 1048574,
@@ -275,6 +314,7 @@
               "surtitre": "Modification de l'article 1.8 de la convention collective nationale"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038326488",
               "num": "2",
               "intOrdre": 1572861,
@@ -283,6 +323,7 @@
               "surtitre": "Substitution de la notion de « CPPNI » à celle de « commission paritaire nationale »"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038326489",
               "num": "3",
               "intOrdre": 2097148,
@@ -291,6 +332,7 @@
               "surtitre": "Application dans les entreprises de moins de 50 salariés"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038326491",
               "num": "4",
               "intOrdre": 2621435,
@@ -299,6 +341,7 @@
               "surtitre": "Dispositions finales"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038326492",
               "num": "4.1",
               "intOrdre": 3145722,
@@ -307,6 +350,7 @@
               "surtitre": "Entrée en vigueur et durée"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038326493",
               "num": "4.2",
               "intOrdre": 3670009,
@@ -315,6 +359,7 @@
               "surtitre": "Suivi de l'accord et clause de rendez-vous"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038326494",
               "num": "4.3",
               "intOrdre": 4194296,
@@ -323,6 +368,7 @@
               "surtitre": "Notification, dépôt et publicité"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038326497",
               "num": "4.4",
               "intOrdre": 4718583,
@@ -330,95 +376,82 @@
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Extension"
             }
-          ],
-          "sections": [
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 19 du 6 décembre 2017 relatif à la modification de l'article 9.1 « Congés exceptionnels »",
+          "id": "KALITEXT000037041259",
+          "children": [
             {
-              "id": "KALISCTA000038326485",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000037041262",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
-                  "id": "KALIARTI000038326498",
+                  "type": "article",
+                  "id": "KALIARTI000037041267",
                   "num": null,
                   "intOrdre": 524287,
-                  "content": "<p align='left'>Selon la <a href='/affichTexte.do?cidTexte=JORFTEXT000032983213&categorieLien=cid'>loi n° 2016-1088 du 8 août 2016</a> relative au travail, à la modernisation du dialogue social et à la sécurisation des parcours professionnels, modifiée par l'<a href='/affichTexte.do?cidTexte=JORFTEXT000035607311&categorieLien=cid'>ordonnance n° 2017-1385 du 22 septembre 2017</a> relative au renforcement de la négociation collective, la branche a pour missions de :<br/>\n– définir les conditions d'emploi et de travail des salariés ainsi que les garanties qui leur sont applicables dans les matières et selon les modalités prévues par la loi ;<br/>\n– réguler la concurrence entre les entreprises relevant de son champ d'application.</p><p align='left'>Dans ce cadre, la loi précitée du 8 août 2016 prévoit la mise en place, dans chaque branche, d'une commission paritaire permanente de négociation et d'interprétation dont le rôle est précisément défini.</p><p align='left'>La branche des organisations professionnelles de l'habitat social dispose déjà d'une commission paritaire nationale, prévue à l'article 1.8 de la convention collective nationale des organisations professionnelles de l'habitat social du 20 septembre 2005.</p><p align='left'>Bien que cette commission exerce en pratique bon nombre des missions revenant à la commission paritaire permanente de négociation et d'interprétation, les signataires du présent accord ont décidé d'actualiser la convention collective nationale de branche au vu des évolutions de la réglementation.</p><p align='left'>La commission paritaire permanente de négociation et d'interprétation, créée par le présent accord, se substitue à la commission paritaire nationale existante.</p><p align='left'>En conséquence, les dispositions du présent accord annulent et remplacent les dispositions de la convention collective nationale des organisations professionnelles de l'habitat social du 20 septembre 2005 ayant trait à ladite commission paritaire nationale, dans les conditions et selon les modalités exposées ci-après.</p><p></p>",
+                  "content": "<p align='left'><br/>La <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000032983213&categorieLien=cid'>loi Travail du 8 août 2016</a> ayant amélioré le régime des jours de congés pour événements familiaux, l'article 9.1 de la convention collective des organisations professionnelles de l'habitat social doit être révisé.</p>",
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000037041263",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'>« Le personnel a droit, sur justification, à des congés exceptionnels à l'occasion d'événements de famille, à savoir :</p><p align='left'>– intervention chirurgicale du conjoint ou de l'enfant : 1 jour de congé ;<br/>\n– mariage ou Pacs d'un enfant : 2 jours de congé ;<br/>\n– mariage ou Pacs d'un frère ou d'une sœur : 1 jour de congé ;<br/>\n– déménagement : 2 jours de congé ;<br/>\n– décès des parents, grands-parents, beaux-parents, d'un frère ou d'une sœur : 3 jours de congé ;<br/>\n– naissance ou adoption d'un enfant : 3 jours de congé ;<br/>\n– décès du conjoint, d'un partenaire d'un Pacs ou d'un enfant : 5 jours de congé ;<br/>\n– mariage ou Pacs du salarié : 5 jours.</p><p align='left'>Ces jours de congés exceptionnels devront être pris dans le mois entourant l'événement.</p><p align='left'>Sauf dans le cas du décès du conjoint, du partenaire de Pacs, d'un enfant ou d'un parent, ces événements, quand ils surviennent au cours des congés payés, ne donnent pas lieu au prolongement de ceux-ci.</p><p align='left'>Dans le cas où l'événement à l'origine du congé oblige à un déplacement justifié dans les DOM-TOM ou dans un pays hors Union européenne, le temps du transport s'ajoute à la durée normale du congé. »</p><p align='left'>Ces dispositions annulent et remplacent les dispositions actuelles de l'article 9.1 de la convention collective des organisations professionnelles de l'habitat social du 20 septembre 2005.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Modification article 9.1 « Congés exceptionnels »"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000037041264",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Toutes les autres dispositions de la convention collective nationale des organisations professionnelles de l'habitat social restent inchangées.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Maintien des autres clauses"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000037041265",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'>Le présent accord fera l'objet d'un certain nombre de publicités à la diligence du collège employeurs :<br/>\n– un exemplaire original dûment signé de toutes les parties sera notifié à chaque organisation syndicale représentative ;<br/>\n– un exemplaire sera déposé au greffe du conseil des prud'hommes de Paris ;<br/>\n– deux exemplaires dont une version sur support papier signée des parties et une version sur support électronique seront déposés auprès des services centraux du ministre chargé du travail.</p><p align='left'>Le présent accord fera l'objet d'une demande d'extension.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Publicité de l'accord"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000037041266",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'>Le présent avenant est conclu pour une durée indéterminée.</p><p align='left'>Il prendra effet à compter du premier jour suivant son dépôt.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Durée de l'accord"
             }
           ]
         },
         {
-          "id": "KALITEXT000036504313",
+          "type": "section",
           "title": "Avenant n° 18 du 20 septembre 2017 relatif à la révision de la classification",
-          "dateParution": 1516147200000,
-          "articles": [
+          "id": "KALITEXT000036504313",
+          "children": [
             {
-              "id": "KALIARTI000036504317",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'>Les dispositions de l'article 11 de la convention collective des organisations professionnelles de l'habitat social du 20 septembre 2005, intitulé « Classification des emplois », sont modifiées comme suit :</p><p align='center'>« 1. Objet de la classification</p><p align='left'>La classification consiste à évaluer le strict contenu du travail et en aucun cas les titulaires des emplois.<br/>\nPour classer les emplois réellement tenus dans les différents niveaux et catégories et déterminer ainsi le salaire minimum correspondant, il convient de ne tenir compte ni du titre ni du statut ni de l'ancienneté ni du niveau antérieurement attribué au salarié.</p><p align='center'>2. Méthodologie de la classification</p><p align='left'>Les critères classants retenus dans le cadre de cette classification sont aussi proches que possible de ceux utilisés dans les autres branches au sein du mouvement HLM et créent ainsi une homogénéité favorable à la mobilité professionnelle.<br/>\nLa diversité des organisations présentes au sein des organisations professionnelles de l'habitat social ainsi que la diversité des contenus de leurs emplois ont conduit les partenaires sociaux à retenir pour la classification conventionnelle les principes suivants :<br/>\n– une méthodologie d'évaluation des emplois fondée sur des critères ? pour objectiver la hiérarchisation desdits emplois : la technicité, les connaissances, la communication, l'appui-management, l'autonomie et la responsabilité permettent de valoriser les emplois sous différents aspects en retenant le degré le plus approchant (cf. méthode d'évaluation),<br/>\n– pour chaque emploi, un degré (allant de 1 à 8) est attribué dans chaque critère. L'addition de ces degrés correspond au niveau de l'emploi.<br/>\nExemple pour un emploi donné :<br/>\nTechnicité = 2<br/>\nConnaissances = 3<br/>\nCommunication = 4<br/>\nAppui-management = 1<br/>\nAutonomie = 3<br/>\nResponsabilité = 2<br/>\nCet emploi correspond au niveau 15 ;<br/>\n– un regroupement des niveaux par 3 qui génère 14 catégories de classification, de C1 à C14, en sachant que ces catégories sont ordonnées par ordre croissant (cf. grille des minima salariaux applicable).<br/>\nDans un souci de transparence, l'évaluation des emplois se fait par un groupe de travail paritaire associant l'employeur, les délégué (e) s syndicaux (les) et les représentant (e) s du personnel lorsqu'ils sont présent (e) s dans l'organisation. S'agissant des associations régionales (AR), « l'instance de concertation » existante réalisera ce travail en proposant les évaluations aux avis de réception, à charge pour elles, employeurs et/ ou salariés, de faire part d'amendements argumentés.</p><p align='center'>3. Description des emplois</p><p align='left'>Il revient aux organisations de la branche de décrire les emplois qui sont les leurs et d'actualiser les descriptifs en fonction des évolutions diverses, notamment des profils recrutés ou des choix d'organisation.<br/>\nIl est impératif d'analyser et de décrire les emplois réellement occupés : les descriptifs devront mentionner la mission générale de l'emploi ainsi que les activités exercées dans ce cadre.<br/>\nLes descriptifs d'emploi nécessitent la concertation entre les acteurs concernés : titulaire (s) de l'emploi, responsable hiérarchique, employeur.<br/>\nCette démarche vise à améliorer la connaissance que chacune des parties intéressées a de la répartition des rôles au sein de l'organisation, tout autant qu'à rendre possible l'évaluation des différents emplois en particulier en vue de permettre la progression des salariés dans les catégories de classification.<br/>\nC'est de cette façon que la classification aura du sens pour chaque organisation tout en respectant la logique collective propre au secteur d'activité dans lequel elle s'inscrit.<br/>\nLes évolutions des emplois seront prises en compte à travers l'actualisation des descriptifs d'emploi, en fonction des évolutions pérennes des contenus de travail. Ces modifications seront susceptibles de réviser le niveau voire la catégorie de classification.</p><p align='center'>4. Statuts</p><p align='left'>Le statut cadre est accordé aux emplois à partir de la catégorie de classification 7.<br/>\nLes salariés qui bénéficient aujourd'hui du statut cadre conservent le bénéfice de ce statut quelle que soit la catégorie de classification de leur emploi.<br/>\nCes dispositions annulent et remplacent les dispositions actuelles de l'article 11 de la convention collective des organisations professionnelles de l'habitat social du 20 septembre 2005. »</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000036504318",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Pour assurer la bonne application du présent accord, des sessions de formation seront organisées par les organisations professionnelles de l'habitat social à destination des dirigeants, encadrants, délégués syndicaux, représentants du personnel. <br/>La commission paritaire nationale est chargée de suivre la mise en œuvre du présent accord. <br/>À cet effet, elle : <br/>– apporte les éclairages nécessaires en cas de difficultés méthodologiques dans l'application de l'accord ; <br/>– s'assure de la bonne application de la nouvelle classification à partir, notamment, des prochains rapports de branche. <br/>L'employeur devra informer chaque salarié de son nouveau classement par écrit, notification remise en main propre ou par courrier recommandé avec accusé de réception, au moins 1 mois avant l'entrée en vigueur de celui-ci. <br/>En cas de contestation individuelle de ce nouveau classement, le salarié peut demander à l'employeur un réexamen motivé de sa situation dans un délai de 1 mois à compter de sa notification. Dans un délai de 15 jours, l'employeur fait connaître : <br/>– sa décision argumentée au salarié selon les mêmes modalités ; <br/>– la possibilité d'un recours auprès de la commission paritaire nationale selon les modalités décrites ci-après : <br/>– dans un délai de 1 mois à compter de la réponse de l'employeur, le salarié saisit par courrier « le secrétaire de la commission paritaire nationale des OPHS » (14, rue Lord-Byron, Paris 8e) ; <br/>– le président inscrit le recours à l'ordre du jour de telle sorte qu'il soit traité dans un délai de 3 mois. <br/>À titre exceptionnel en fonction du besoin, et sur invitation de la commission paritaire nationale à l'unanimité, toute personne dont l'intervention ou la participation serait jugée utile peut être invitée. <br/>La grille de classification devra être mise en œuvre au plus tard le 1er juillet 2018.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000036504319",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Les dispositions de l'article 12.1 de la convention collective des organisations professionnelles de l'habitat social du 20 septembre 2005 sont modifiées comme suit : <br/>« Le salaire mensuel de base est versé en 12 mensualités pour les nouveaux embauchés à partir de la signature de cet accord ». <br/>Ces dispositions annulent et remplacent les dispositions actuelles de l'article 12.1 de la convention collective des organisations professionnelles de l'habitat social du 20 septembre 2005.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000036504321",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Les dispositions de l'article 12.2 de la convention collective des organisations professionnelles de l'habitat social du 20 septembre 2005 sont modifiées comme suit : <br/>« Au plus tard le 1er juillet 2018, le salaire annuel minimum pour chaque niveau d'emploi est le suivant : </p><p align='right'><br/>(En euros.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>Cotation résultant <br/>de l'évaluation </th><th>Catégorie au sein de la classification </th><th>Salaire annuel <br/>minimum (*) </th></tr><tr><td align='center'>6 à 8 </td><td align='center'>C 1 </td><td align='center'>21   411 </td></tr><tr><td align='center'>9 à 11 </td><td align='center'>C 2 </td><td align='center'>22   267 </td></tr><tr><td align='center'>12 à 14 </td><td align='center'>C 3 </td><td align='center'>23   158 </td></tr><tr><td align='center'>15 à 17 </td><td align='center'>C 4 </td><td align='center'>24   084 </td></tr><tr><td align='center'>18 à 20 </td><td align='center'>C 5 </td><td align='center'>25   048 </td></tr><tr><td align='center'>21 à 23 </td><td align='center'>C 6 </td><td align='center'>26   300 </td></tr><tr><td align='center'>24 à 26 </td><td align='center'>C 7 </td><td align='center'>27   615 </td></tr><tr><td align='center'>27 à 29 </td><td align='center'>C 8 </td><td align='center'>28   996 </td></tr><tr><td align='center'>30 à 32 </td><td align='center'>C 9 </td><td align='center'>30   446 </td></tr><tr><td align='center'>33 à 35 </td><td align='center'>C 10 </td><td align='center'>31   968 </td></tr><tr><td align='center'>36 à 38 </td><td align='center'>C 11 </td><td align='center'>35   165 </td></tr><tr><td align='center'>39 à 41 </td><td align='center'>C 12 </td><td align='center'>38   681 </td></tr><tr><td align='center'>42 à 44 </td><td align='center'>C 13 </td><td align='center'>42   550 </td></tr><tr><td align='center'>45 à 48 </td><td align='center'>C 14 </td><td align='center'>46   804 </td></tr><tr><td colspan='3' align='center'>(*) Prime de fin d'année minimum (810 €) incluse. </td></tr></table></center></div></p><p align='left'><br/>Le salaire annuel minimum pour chaque niveau d'emploi est déterminé chaque année par négociation avec la commission paritaire nationale. <br/>Ces dispositions annulent et remplacent les dispositions actuelles de l'article 12.2 de la convention collective des organisations professionnelles de l'habitat social du 20 septembre 2005.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000036504323",
-              "num": "5",
-              "intOrdre": 3145722,
-              "content": "<p align='left'><br/>Les dispositions de l'article 12.3 de la convention collective des organisations professionnelles de l'habitat social du 20 septembre 2005 sont modifiées comme suit : </p><p align='center'><br/>« 12.3. Compléments de rémunération </p><p align='left'><br/>Les compléments de rémunération se composent des éléments suivants : <br/>– une prime d'ancienneté de 1 % par année d'ancienneté (telle que définie à l'article 3.8), qui s'applique aux salariés dont le salaire annuel de base est inférieur ou égal à 39   123 € brut ; elle est plafonnée à 18 % ; <br/>– une prime de fin d'année, qui ne peut être inférieure à 810 € brut (celle-ci est incluse dans le salaire minimal de référence, cf. art. 4) ; <br/>– une prime de mariage ou de Pacs accordée après 1 an d'ancienneté : elle est égale à 810 € brut. Cette prime n'est pas cumulable en cas de succession de ces deux actes (Pacs et mariage) avec le même conjoint ; une prime de naissance accordée en cas de naissance ou d'adoption d'un enfant du salarié après 1 an d'ancienneté ; elle est égale à 410 € brut. <br/>En outre, des primes exceptionnelles peuvent être accordées par la direction, notamment en cas de travaux résultant de circonstances particulières. <br/>En cas d'embauche, de licenciement ou de démission en cours d'année, ou de congé sans solde ou de travail permanent à temps partiel, la prime de fin d'année sera calculée pro rata temporis en tenant compte de la durée effective de travail dans l'année civile. » <br/>Ces dispositions annulent et remplacent les dispositions actuelles de l'article 12.3 de la convention collective des organisations professionnelles de l'habitat social du 20 septembre 2005.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000036504325",
-              "num": "6",
-              "intOrdre": 3670009,
-              "content": "<p align='left'><br/>L'ensemble des autres dispositions de la convention collective des organisations professionnelles de l'habitat social du 20 septembre 2005 demeure inchangé.<br/>Le présent accord sera diffusé au sein de toutes les organisations appartenant à la branche.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000036504326",
-              "num": "7",
-              "intOrdre": 4194296,
-              "content": "<p align='left'><br/>Le présent avenant est conclu pour une durée indéterminée.<br/>Il prendra effet à compter du premier jour suivant son dépôt.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            },
-            {
-              "id": "KALIARTI000036504327",
-              "num": "8",
-              "intOrdre": 4718583,
-              "content": "<p align='left'><br/>Le présent accord fait l'objet d'un dépôt dans les conditions prévues par l'<a alt='Code du travail - art. L2231-6 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>article L. 2231-6 du code du travail</a>.<br/>En même temps que son dépôt, il fait l'objet d'une demande d'extension auprès de la direction générale du travail.<br/>Le présent accord a été fait en un nombre suffisant d'exemplaires pour notification à chacune des organisations représentatives dans les conditions prévues à l'<a alt='Code du travail - art. L2231-5 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901674&dateTexte=&categorieLien=cid'>article L. 2231-5 du code du travail</a>.<br/>Après avoir lu et paraphé chacune des 6 pages précédentes, les représentants mentionnés ont approuvé et signé l'accord au nom de leur organisation.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000036504316",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000036504316",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000036504330",
                   "num": null,
                   "intOrdre": 524287,
@@ -426,15 +459,80 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504317",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'>Les dispositions de l'article 11 de la convention collective des organisations professionnelles de l'habitat social du 20 septembre 2005, intitulé « Classification des emplois », sont modifiées comme suit :</p><p align='center'>« 1. Objet de la classification</p><p align='left'>La classification consiste à évaluer le strict contenu du travail et en aucun cas les titulaires des emplois.<br/>\nPour classer les emplois réellement tenus dans les différents niveaux et catégories et déterminer ainsi le salaire minimum correspondant, il convient de ne tenir compte ni du titre ni du statut ni de l'ancienneté ni du niveau antérieurement attribué au salarié.</p><p align='center'>2. Méthodologie de la classification</p><p align='left'>Les critères classants retenus dans le cadre de cette classification sont aussi proches que possible de ceux utilisés dans les autres branches au sein du mouvement HLM et créent ainsi une homogénéité favorable à la mobilité professionnelle.<br/>\nLa diversité des organisations présentes au sein des organisations professionnelles de l'habitat social ainsi que la diversité des contenus de leurs emplois ont conduit les partenaires sociaux à retenir pour la classification conventionnelle les principes suivants :<br/>\n– une méthodologie d'évaluation des emplois fondée sur des critères ? pour objectiver la hiérarchisation desdits emplois : la technicité, les connaissances, la communication, l'appui-management, l'autonomie et la responsabilité permettent de valoriser les emplois sous différents aspects en retenant le degré le plus approchant (cf. méthode d'évaluation),<br/>\n– pour chaque emploi, un degré (allant de 1 à 8) est attribué dans chaque critère. L'addition de ces degrés correspond au niveau de l'emploi.<br/>\nExemple pour un emploi donné :<br/>\nTechnicité = 2<br/>\nConnaissances = 3<br/>\nCommunication = 4<br/>\nAppui-management = 1<br/>\nAutonomie = 3<br/>\nResponsabilité = 2<br/>\nCet emploi correspond au niveau 15 ;<br/>\n– un regroupement des niveaux par 3 qui génère 14 catégories de classification, de C1 à C14, en sachant que ces catégories sont ordonnées par ordre croissant (cf. grille des minima salariaux applicable).<br/>\nDans un souci de transparence, l'évaluation des emplois se fait par un groupe de travail paritaire associant l'employeur, les délégué (e) s syndicaux (les) et les représentant (e) s du personnel lorsqu'ils sont présent (e) s dans l'organisation. S'agissant des associations régionales (AR), « l'instance de concertation » existante réalisera ce travail en proposant les évaluations aux avis de réception, à charge pour elles, employeurs et/ ou salariés, de faire part d'amendements argumentés.</p><p align='center'>3. Description des emplois</p><p align='left'>Il revient aux organisations de la branche de décrire les emplois qui sont les leurs et d'actualiser les descriptifs en fonction des évolutions diverses, notamment des profils recrutés ou des choix d'organisation.<br/>\nIl est impératif d'analyser et de décrire les emplois réellement occupés : les descriptifs devront mentionner la mission générale de l'emploi ainsi que les activités exercées dans ce cadre.<br/>\nLes descriptifs d'emploi nécessitent la concertation entre les acteurs concernés : titulaire (s) de l'emploi, responsable hiérarchique, employeur.<br/>\nCette démarche vise à améliorer la connaissance que chacune des parties intéressées a de la répartition des rôles au sein de l'organisation, tout autant qu'à rendre possible l'évaluation des différents emplois en particulier en vue de permettre la progression des salariés dans les catégories de classification.<br/>\nC'est de cette façon que la classification aura du sens pour chaque organisation tout en respectant la logique collective propre au secteur d'activité dans lequel elle s'inscrit.<br/>\nLes évolutions des emplois seront prises en compte à travers l'actualisation des descriptifs d'emploi, en fonction des évolutions pérennes des contenus de travail. Ces modifications seront susceptibles de réviser le niveau voire la catégorie de classification.</p><p align='center'>4. Statuts</p><p align='left'>Le statut cadre est accordé aux emplois à partir de la catégorie de classification 7.<br/>\nLes salariés qui bénéficient aujourd'hui du statut cadre conservent le bénéfice de ce statut quelle que soit la catégorie de classification de leur emploi.<br/>\nCes dispositions annulent et remplacent les dispositions actuelles de l'article 11 de la convention collective des organisations professionnelles de l'habitat social du 20 septembre 2005. »</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504318",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Pour assurer la bonne application du présent accord, des sessions de formation seront organisées par les organisations professionnelles de l'habitat social à destination des dirigeants, encadrants, délégués syndicaux, représentants du personnel. <br/>La commission paritaire nationale est chargée de suivre la mise en œuvre du présent accord. <br/>À cet effet, elle : <br/>– apporte les éclairages nécessaires en cas de difficultés méthodologiques dans l'application de l'accord ; <br/>– s'assure de la bonne application de la nouvelle classification à partir, notamment, des prochains rapports de branche. <br/>L'employeur devra informer chaque salarié de son nouveau classement par écrit, notification remise en main propre ou par courrier recommandé avec accusé de réception, au moins 1 mois avant l'entrée en vigueur de celui-ci. <br/>En cas de contestation individuelle de ce nouveau classement, le salarié peut demander à l'employeur un réexamen motivé de sa situation dans un délai de 1 mois à compter de sa notification. Dans un délai de 15 jours, l'employeur fait connaître : <br/>– sa décision argumentée au salarié selon les mêmes modalités ; <br/>– la possibilité d'un recours auprès de la commission paritaire nationale selon les modalités décrites ci-après : <br/>– dans un délai de 1 mois à compter de la réponse de l'employeur, le salarié saisit par courrier « le secrétaire de la commission paritaire nationale des OPHS » (14, rue Lord-Byron, Paris 8e) ; <br/>– le président inscrit le recours à l'ordre du jour de telle sorte qu'il soit traité dans un délai de 3 mois. <br/>À titre exceptionnel en fonction du besoin, et sur invitation de la commission paritaire nationale à l'unanimité, toute personne dont l'intervention ou la participation serait jugée utile peut être invitée. <br/>La grille de classification devra être mise en œuvre au plus tard le 1er juillet 2018.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504319",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Les dispositions de l'article 12.1 de la convention collective des organisations professionnelles de l'habitat social du 20 septembre 2005 sont modifiées comme suit : <br/>« Le salaire mensuel de base est versé en 12 mensualités pour les nouveaux embauchés à partir de la signature de cet accord ». <br/>Ces dispositions annulent et remplacent les dispositions actuelles de l'article 12.1 de la convention collective des organisations professionnelles de l'habitat social du 20 septembre 2005.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504321",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Les dispositions de l'article 12.2 de la convention collective des organisations professionnelles de l'habitat social du 20 septembre 2005 sont modifiées comme suit : <br/>« Au plus tard le 1er juillet 2018, le salaire annuel minimum pour chaque niveau d'emploi est le suivant : </p><p align='right'><br/>(En euros.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>Cotation résultant <br/>de l'évaluation </th><th>Catégorie au sein de la classification </th><th>Salaire annuel <br/>minimum (*) </th></tr><tr><td align='center'>6 à 8 </td><td align='center'>C 1 </td><td align='center'>21   411 </td></tr><tr><td align='center'>9 à 11 </td><td align='center'>C 2 </td><td align='center'>22   267 </td></tr><tr><td align='center'>12 à 14 </td><td align='center'>C 3 </td><td align='center'>23   158 </td></tr><tr><td align='center'>15 à 17 </td><td align='center'>C 4 </td><td align='center'>24   084 </td></tr><tr><td align='center'>18 à 20 </td><td align='center'>C 5 </td><td align='center'>25   048 </td></tr><tr><td align='center'>21 à 23 </td><td align='center'>C 6 </td><td align='center'>26   300 </td></tr><tr><td align='center'>24 à 26 </td><td align='center'>C 7 </td><td align='center'>27   615 </td></tr><tr><td align='center'>27 à 29 </td><td align='center'>C 8 </td><td align='center'>28   996 </td></tr><tr><td align='center'>30 à 32 </td><td align='center'>C 9 </td><td align='center'>30   446 </td></tr><tr><td align='center'>33 à 35 </td><td align='center'>C 10 </td><td align='center'>31   968 </td></tr><tr><td align='center'>36 à 38 </td><td align='center'>C 11 </td><td align='center'>35   165 </td></tr><tr><td align='center'>39 à 41 </td><td align='center'>C 12 </td><td align='center'>38   681 </td></tr><tr><td align='center'>42 à 44 </td><td align='center'>C 13 </td><td align='center'>42   550 </td></tr><tr><td align='center'>45 à 48 </td><td align='center'>C 14 </td><td align='center'>46   804 </td></tr><tr><td colspan='3' align='center'>(*) Prime de fin d'année minimum (810 €) incluse. </td></tr></table></center></div></p><p align='left'><br/>Le salaire annuel minimum pour chaque niveau d'emploi est déterminé chaque année par négociation avec la commission paritaire nationale. <br/>Ces dispositions annulent et remplacent les dispositions actuelles de l'article 12.2 de la convention collective des organisations professionnelles de l'habitat social du 20 septembre 2005.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504323",
+              "num": "5",
+              "intOrdre": 3145722,
+              "content": "<p align='left'><br/>Les dispositions de l'article 12.3 de la convention collective des organisations professionnelles de l'habitat social du 20 septembre 2005 sont modifiées comme suit : </p><p align='center'><br/>« 12.3. Compléments de rémunération </p><p align='left'><br/>Les compléments de rémunération se composent des éléments suivants : <br/>– une prime d'ancienneté de 1 % par année d'ancienneté (telle que définie à l'article 3.8), qui s'applique aux salariés dont le salaire annuel de base est inférieur ou égal à 39   123 € brut ; elle est plafonnée à 18 % ; <br/>– une prime de fin d'année, qui ne peut être inférieure à 810 € brut (celle-ci est incluse dans le salaire minimal de référence, cf. art. 4) ; <br/>– une prime de mariage ou de Pacs accordée après 1 an d'ancienneté : elle est égale à 810 € brut. Cette prime n'est pas cumulable en cas de succession de ces deux actes (Pacs et mariage) avec le même conjoint ; une prime de naissance accordée en cas de naissance ou d'adoption d'un enfant du salarié après 1 an d'ancienneté ; elle est égale à 410 € brut. <br/>En outre, des primes exceptionnelles peuvent être accordées par la direction, notamment en cas de travaux résultant de circonstances particulières. <br/>En cas d'embauche, de licenciement ou de démission en cours d'année, ou de congé sans solde ou de travail permanent à temps partiel, la prime de fin d'année sera calculée pro rata temporis en tenant compte de la durée effective de travail dans l'année civile. » <br/>Ces dispositions annulent et remplacent les dispositions actuelles de l'article 12.3 de la convention collective des organisations professionnelles de l'habitat social du 20 septembre 2005.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504325",
+              "num": "6",
+              "intOrdre": 3670009,
+              "content": "<p align='left'><br/>L'ensemble des autres dispositions de la convention collective des organisations professionnelles de l'habitat social du 20 septembre 2005 demeure inchangé.<br/>Le présent accord sera diffusé au sein de toutes les organisations appartenant à la branche.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504326",
+              "num": "7",
+              "intOrdre": 4194296,
+              "content": "<p align='left'><br/>Le présent avenant est conclu pour une durée indéterminée.<br/>Il prendra effet à compter du premier jour suivant son dépôt.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504327",
+              "num": "8",
+              "intOrdre": 4718583,
+              "content": "<p align='left'><br/>Le présent accord fait l'objet d'un dépôt dans les conditions prévues par l'<a alt='Code du travail - art. L2231-6 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>article L. 2231-6 du code du travail</a>.<br/>En même temps que son dépôt, il fait l'objet d'une demande d'extension auprès de la direction générale du travail.<br/>Le présent accord a été fait en un nombre suffisant d'exemplaires pour notification à chacune des organisations représentatives dans les conditions prévues à l'<a alt='Code du travail - art. L2231-5 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901674&dateTexte=&categorieLien=cid'>article L. 2231-5 du code du travail</a>.<br/>Après avoir lu et paraphé chacune des 6 pages précédentes, les représentants mentionnés ont approuvé et signé l'accord au nom de leur organisation.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
             }
           ]
         },
         {
-          "id": "KALITEXT000036155728",
+          "type": "section",
           "title": "Adhésion par lettre du 18 septembre 2017 de la FESSAD UNSA à la convention",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000036155728",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036155731",
               "num": null,
               "intOrdre": 524287,
@@ -444,11 +542,29 @@
           ]
         },
         {
-          "id": "KALITEXT000033295175",
+          "type": "section",
           "title": "Avenant n° 17 du 24 mai 2016 à la convention collective",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000033295175",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000033295178",
+              "etat": "VIGUEUR_NON_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000033295183",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'><br/>L'article 2.2 de la convention collective de l'habitat social prévoit ainsi à l'alinéa 11 la création d'une association de gestion des activités sociales et culturelles des entreprises.<br/>Dans la mesure où l'association de gestion des activités sociales et culturelles a été liquidée le 31 décembre 2015, cet alinéa doit être révisé.</p>",
+                  "etat": "VIGUEUR_NON_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000033295179",
               "num": "1er",
               "intOrdre": 1048574,
@@ -457,6 +573,7 @@
               "surtitre": "Modification article 2.2"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033295181",
               "num": "2",
               "intOrdre": 1572861,
@@ -465,6 +582,7 @@
               "surtitre": "Maintien des autres clauses"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033295182",
               "num": "3",
               "intOrdre": 2097148,
@@ -472,31 +590,32 @@
               "etat": "VIGUEUR_NON_ETEN",
               "surtitre": "Publicité de l'accord"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000033295178",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000033295183",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>L'article 2.2 de la convention collective de l'habitat social prévoit ainsi à l'alinéa 11 la création d'une association de gestion des activités sociales et culturelles des entreprises.<br/>Dans la mesure où l'association de gestion des activités sociales et culturelles a été liquidée le 31 décembre 2015, cet alinéa doit être révisé.</p>",
-                  "etat": "VIGUEUR_NON_ETEN"
-                }
-              ]
-            }
           ]
         },
         {
-          "id": "KALITEXT000028755527",
+          "type": "section",
           "title": "Avenant n° 12 du 14 novembre 2013 relatif au temps partiel",
-          "dateParution": 1395619200000,
-          "articles": [
+          "id": "KALITEXT000028755527",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000028755530",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000028755535",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'><br/>Le nombre de salariés de la branche des organisations professionnelles de l'habitat social occupant un emploi à temps partiel est inférieur à 1/3. La branche n'est donc pas tenue de négocier sur la question du travail à temps partiel à la suite de la promulgation de la loi du 14 juin 2013 relative à la sécurisation de l'emploi.<br/>Toutefois, les partenaires sociaux ont fait le choix d'entamer une négociation afin d'adapter les conditions d'emploi des salariés à temps partiel aux spécificités de l'activité des entreprises de la branche.</p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000028755531",
               "num": "1er",
               "intOrdre": 1048574,
@@ -505,6 +624,7 @@
               "surtitre": "Objet et champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028755533",
               "num": "2",
               "intOrdre": 1572861,
@@ -513,6 +633,7 @@
               "surtitre": "Maintien des autres clauses"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028755534",
               "num": "3",
               "intOrdre": 2097148,
@@ -520,31 +641,15 @@
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Publicité"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000028755530",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000028755535",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>Le nombre de salariés de la branche des organisations professionnelles de l'habitat social occupant un emploi à temps partiel est inférieur à 1/3. La branche n'est donc pas tenue de négocier sur la question du travail à temps partiel à la suite de la promulgation de la loi du 14 juin 2013 relative à la sécurisation de l'emploi.<br/>Toutefois, les partenaires sociaux ont fait le choix d'entamer une négociation afin d'adapter les conditions d'emploi des salariés à temps partiel aux spécificités de l'activité des entreprises de la branche.</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
           ]
         },
         {
-          "id": "KALITEXT000028319341",
+          "type": "section",
           "title": "Avenant n° 6 du 6 septembre 2013 à l'accord du 20 septembre 2005 relatif à la formation professionnelle",
-          "dateParution": 1386806400000,
-          "articles": [
+          "id": "KALITEXT000028319341",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000028319344",
               "num": "1er",
               "intOrdre": 524287,
@@ -552,6 +657,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028319345",
               "num": "2",
               "intOrdre": 1048574,
@@ -561,11 +667,12 @@
           ]
         },
         {
-          "id": "KALITEXT000027223271",
+          "type": "section",
           "title": "Avenant n° 5 du 11 décembre 2012 relatif à la formation professionnelle",
-          "dateParution": 1364342400000,
-          "articles": [
+          "id": "KALITEXT000027223271",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000027223274",
               "num": "1er",
               "intOrdre": 524287,
@@ -573,6 +680,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027223278",
               "num": "2",
               "intOrdre": 1048574,
@@ -582,11 +690,12 @@
           ]
         },
         {
-          "id": "KALITEXT000026563016",
+          "type": "section",
           "title": "Avenant n° 4 du 9 juillet 2012 à l'accord du 20 septembre 2005 relatif à la formation professionnelle",
-          "dateParution": 1351728000000,
-          "articles": [
+          "id": "KALITEXT000026563016",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000026563019",
               "num": "1er",
               "intOrdre": 524287,
@@ -594,6 +703,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000026563023",
               "num": "2",
               "intOrdre": 1048574,
@@ -603,67 +713,35 @@
           ]
         },
         {
-          "id": "KALITEXT000037041259",
-          "title": "Avenant n° 19 du 6 décembre 2017 relatif à la modification de l'article 9.1 « Congés exceptionnels »",
-          "dateParution": 32472144000000,
-          "articles": [
+          "type": "section",
+          "title": "Avenant n° 3 du 5 mai 2011 à l'accord du 20 septembre 2005 relatif à la formation professionnelle",
+          "id": "KALITEXT000024611337",
+          "children": [
             {
-              "id": "KALIARTI000037041263",
+              "type": "article",
+              "id": "KALIARTI000024611340",
               "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'>« Le personnel a droit, sur justification, à des congés exceptionnels à l'occasion d'événements de famille, à savoir :</p><p align='left'>– intervention chirurgicale du conjoint ou de l'enfant : 1 jour de congé ;<br/>\n– mariage ou Pacs d'un enfant : 2 jours de congé ;<br/>\n– mariage ou Pacs d'un frère ou d'une sœur : 1 jour de congé ;<br/>\n– déménagement : 2 jours de congé ;<br/>\n– décès des parents, grands-parents, beaux-parents, d'un frère ou d'une sœur : 3 jours de congé ;<br/>\n– naissance ou adoption d'un enfant : 3 jours de congé ;<br/>\n– décès du conjoint, d'un partenaire d'un Pacs ou d'un enfant : 5 jours de congé ;<br/>\n– mariage ou Pacs du salarié : 5 jours.</p><p align='left'>Ces jours de congés exceptionnels devront être pris dans le mois entourant l'événement.</p><p align='left'>Sauf dans le cas du décès du conjoint, du partenaire de Pacs, d'un enfant ou d'un parent, ces événements, quand ils surviennent au cours des congés payés, ne donnent pas lieu au prolongement de ceux-ci.</p><p align='left'>Dans le cas où l'événement à l'origine du congé oblige à un déplacement justifié dans les DOM-TOM ou dans un pays hors Union européenne, le temps du transport s'ajoute à la durée normale du congé. »</p><p align='left'>Ces dispositions annulent et remplacent les dispositions actuelles de l'article 9.1 de la convention collective des organisations professionnelles de l'habitat social du 20 septembre 2005.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Modification article 9.1 « Congés exceptionnels »"
-            },
-            {
-              "id": "KALIARTI000037041264",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Toutes les autres dispositions de la convention collective nationale des organisations professionnelles de l'habitat social restent inchangées.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Maintien des autres clauses"
-            },
-            {
-              "id": "KALIARTI000037041265",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'>Le présent accord fera l'objet d'un certain nombre de publicités à la diligence du collège employeurs :<br/>\n– un exemplaire original dûment signé de toutes les parties sera notifié à chaque organisation syndicale représentative ;<br/>\n– un exemplaire sera déposé au greffe du conseil des prud'hommes de Paris ;<br/>\n– deux exemplaires dont une version sur support papier signée des parties et une version sur support électronique seront déposés auprès des services centraux du ministre chargé du travail.</p><p align='left'>Le présent accord fera l'objet d'une demande d'extension.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Publicité de l'accord"
-            },
-            {
-              "id": "KALIARTI000037041266",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'>Le présent avenant est conclu pour une durée indéterminée.</p><p align='left'>Il prendra effet à compter du premier jour suivant son dépôt.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Durée de l'accord"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000037041262",
               "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000037041267",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>La <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000032983213&categorieLien=cid'>loi Travail du 8 août 2016</a> ayant amélioré le régime des jours de congés pour événements familiaux, l'article 9.1 de la convention collective des organisations professionnelles de l'habitat social doit être révisé.</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
+              "content": "<p align='left'><br/><a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000005672309&idArticle=KALIARTI000005833385&categorieLien=cid'>L'article 9.2 </a>« Prise en charge des actions » de l'accord du 20 septembre 2005, précédemment modifié par <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000024271559&categorieLien=cid'>l'avenant n° 2 du 21 décembre 2010</a>, est modifié de la manière suivante : <br/>Dans le deuxième alinéa « Périodes de professionnalisation », les mots : « 20 € » sont remplacés par les mots : « 9,15 € ». <br/>Le troisième alinéa « DIF prioritaires de branche » est modifié ainsi : <br/>« Dans le cadre du DIF prioritaire de branche, seul le coût pédagogique des actions de formation est pris en charge et plafonné à 70 €/ heure. »</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000024611344",
+              "num": "2",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>Les dispositions du présent avenant s'appliquent aux demandes de prise en charge qui seront adressées à Habitat formation à compter du 1er juin 2011 pour des formations débutant à compter du 1er juillet 2011.<br/>Le présent avenant fait l'objet d'un dépôt dans les conditions définies par le code du travail et d'une demande d'extension.</p>",
+              "etat": "VIGUEUR_ETEN"
             }
           ]
         },
         {
-          "id": "KALITEXT000024271559",
+          "type": "section",
           "title": "Avenant n° 2 du 21 décembre 2010 à l'accord du 20 septembre 2005 relatif à la formation professionnelle",
-          "dateParution": 1309305600000,
-          "articles": [
+          "id": "KALITEXT000024271559",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000024271562",
               "num": "1er",
               "intOrdre": 524287,
@@ -671,6 +749,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000024271565",
               "num": "2",
               "intOrdre": 1048574,
@@ -678,6 +757,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000024271568",
               "num": "3",
               "intOrdre": 1572861,
@@ -687,11 +767,12 @@
           ]
         },
         {
-          "id": "KALITEXT000022840101",
+          "type": "section",
           "title": "Avenant n° 8 du 3 février 2010 relatif au comité d'entreprise",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000022840101",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000022840104",
               "num": null,
               "intOrdre": 524287,
@@ -701,25 +782,12 @@
           ]
         },
         {
-          "id": "KALITEXT000022017969",
-          "title": "Accord du 20 octobre 2009 relatif à la formation professionnelle",
-          "dateParution": 1269475200000,
-          "articles": [
-            {
-              "id": "KALIARTI000022017972",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p><br/>ANNEXE <br/>à l'accord national relatif à la formation professionnelle</p><p><div align='center'><center><table border='1'><tr><th>ARTICLE <br/>convention collective </th><th>ARTICLE <br/>code du travail ancien </th><th>ARTICLE CODE <br/>du travail nouveau (1er mai 2008) </th></tr><tr><td align='center'>Exposé des motifs </td><td align='center'>Livre IX </td><td align='center'>6e partie : la formation professionnelle tout au long de la vie </td></tr><tr><td align='center'>3. 4. Priorité d'utilisation </td><td align='center'>D. 933-4 </td><td align='center'>L. 6323-13 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6323-14 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6331-26 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6323-16 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6323-15 </td></tr><tr><td align='center'>3. 5. Transférabilité du DIF </td><td align='center'>L. 933-6 </td><td align='center'>L. 6323-17 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6323-18 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6323-19 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6323-20 </td></tr><tr><td align='center'>4. Le contrat de professionnalisation </td><td align='center'>L. 900-3 </td><td align='center'>L. 6314-1 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>D. 6314-1 </td></tr><tr><td align='center'>6. Les périodes de professionnalisation </td><td align='center'>L. 982-1 à L. 982-4 </td><td align='center'>L. 6324-1 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6324-2 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>D. 6324-1 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6324-3 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6324-4 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6324-6 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6324-7 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6324-8 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6324-9 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6324-10 </td></tr><tr><td align='center'>10. 2. Suivi de l'accord </td><td align='center'>L. 934-2 </td><td align='center'>L. 2241-6 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>R. 2241-9 </td></tr><tr><td align='center'>10. 3. Durée de l'accord </td><td align='center'>L. 132-8 </td><td align='center'>L. 2222-6 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 2261-9 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 2261-10 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 2261-11 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 2261-13 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 2261-14</td></tr></table></center></div></p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000022017961",
+          "type": "section",
           "title": "Accord du 20 octobre 2009 relatif à la nouvelle numérotation du code du travail",
-          "dateParution": 1269475200000,
-          "articles": [
+          "id": "KALITEXT000022017961",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000022017964",
               "num": null,
               "intOrdre": 524287,
@@ -729,26 +797,34 @@
           ]
         },
         {
-          "id": "KALITEXT000021012532",
-          "title": "Avenant n° 5 du 13 mai 2009 relatif à la période d'essai",
-          "dateParution": 1251849600000,
-          "articles": [
+          "type": "section",
+          "title": "Accord du 20 octobre 2009 relatif à la formation professionnelle",
+          "id": "KALITEXT000022017969",
+          "children": [
             {
-              "id": "KALIARTI000021012536",
+              "type": "article",
+              "id": "KALIARTI000022017972",
               "num": null,
-              "intOrdre": 1048574,
-              "content": "<p><br/>Contenu de l'accord </p><p><br/>Modification de <a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000005672305&idArticle=KALIARTI000005833363&categorieLien=cid'>l'article « 3. 3. </a>Période d'essai ».<br/>Cet article est modifié de la façon suivante : <br/>« La période d'essai dont la durée est de 2 mois pour les employés et de 3 mois pour les cadres doit figurer dans le contrat de travail. <br/>La période d'essai peut être renouvelée une fois pour les cadres sachant que : <br/>― la durée de la période d'essai, renouvellement compris, ne peut pas dépasser 6 mois ; <br/>― cette possibilité de renouvellement doit être prévue au contrat de travail ; <br/>― le renouvellement doit être proposé par écrit au salarié qui doit donner son consentement par écrit avant le dernier jour de la fin de la période d'essai initiale. <br/>Les périodes de suspension du contrat de travail reportent d'autant le terme de la période d'essai. <br/>Pendant la période d'essai, le contrat de travail peut être librement rompu par le salarié ou par l'employeur, sans qu'il soit besoin de motiver cette rupture et sans indemnité, en respectant un délai de prévenance dont la durée est fixée par le code du travail. » </p><p><br/>Dépôt </p><p><br/>Le présent accord fait l'objet d'un dépôt dans les conditions définies par le code du travail. <br/>Le présent avenant fait l'objet d'une demande d'extension.</p>",
+              "intOrdre": 524287,
+              "content": "<p><br/>ANNEXE <br/>à l'accord national relatif à la formation professionnelle</p><p><div align='center'><center><table border='1'><tr><th>ARTICLE <br/>convention collective </th><th>ARTICLE <br/>code du travail ancien </th><th>ARTICLE CODE <br/>du travail nouveau (1er mai 2008) </th></tr><tr><td align='center'>Exposé des motifs </td><td align='center'>Livre IX </td><td align='center'>6e partie : la formation professionnelle tout au long de la vie </td></tr><tr><td align='center'>3. 4. Priorité d'utilisation </td><td align='center'>D. 933-4 </td><td align='center'>L. 6323-13 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6323-14 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6331-26 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6323-16 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6323-15 </td></tr><tr><td align='center'>3. 5. Transférabilité du DIF </td><td align='center'>L. 933-6 </td><td align='center'>L. 6323-17 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6323-18 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6323-19 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6323-20 </td></tr><tr><td align='center'>4. Le contrat de professionnalisation </td><td align='center'>L. 900-3 </td><td align='center'>L. 6314-1 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>D. 6314-1 </td></tr><tr><td align='center'>6. Les périodes de professionnalisation </td><td align='center'>L. 982-1 à L. 982-4 </td><td align='center'>L. 6324-1 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6324-2 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>D. 6324-1 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6324-3 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6324-4 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6324-6 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6324-7 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6324-8 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6324-9 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 6324-10 </td></tr><tr><td align='center'>10. 2. Suivi de l'accord </td><td align='center'>L. 934-2 </td><td align='center'>L. 2241-6 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>R. 2241-9 </td></tr><tr><td align='center'>10. 3. Durée de l'accord </td><td align='center'>L. 132-8 </td><td align='center'>L. 2222-6 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 2261-9 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 2261-10 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 2261-11 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 2261-13 </td></tr><tr><td align='center'>  </td><td align='center'>  </td><td align='center'>L. 2261-14</td></tr></table></center></div></p>",
               "etat": "VIGUEUR_ETEN"
             }
-          ],
-          "sections": [
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 5 du 13 mai 2009 relatif à la période d'essai",
+          "id": "KALITEXT000021012532",
+          "children": [
             {
-              "id": "KALISCTA000021012535",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000021012535",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000021012539",
                   "num": null,
                   "intOrdre": 524287,
@@ -756,30 +832,31 @@
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000021012536",
+              "num": null,
+              "intOrdre": 1048574,
+              "content": "<p><br/>Contenu de l'accord </p><p><br/>Modification de <a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000005672305&idArticle=KALIARTI000005833363&categorieLien=cid'>l'article « 3. 3. </a>Période d'essai ».<br/>Cet article est modifié de la façon suivante : <br/>« La période d'essai dont la durée est de 2 mois pour les employés et de 3 mois pour les cadres doit figurer dans le contrat de travail. <br/>La période d'essai peut être renouvelée une fois pour les cadres sachant que : <br/>― la durée de la période d'essai, renouvellement compris, ne peut pas dépasser 6 mois ; <br/>― cette possibilité de renouvellement doit être prévue au contrat de travail ; <br/>― le renouvellement doit être proposé par écrit au salarié qui doit donner son consentement par écrit avant le dernier jour de la fin de la période d'essai initiale. <br/>Les périodes de suspension du contrat de travail reportent d'autant le terme de la période d'essai. <br/>Pendant la période d'essai, le contrat de travail peut être librement rompu par le salarié ou par l'employeur, sans qu'il soit besoin de motiver cette rupture et sans indemnité, en respectant un délai de prévenance dont la durée est fixée par le code du travail. » </p><p><br/>Dépôt </p><p><br/>Le présent accord fait l'objet d'un dépôt dans les conditions définies par le code du travail. <br/>Le présent avenant fait l'objet d'une demande d'extension.</p>",
+              "etat": "VIGUEUR_ETEN"
             }
           ]
         },
         {
-          "id": "KALITEXT000018561868",
+          "type": "section",
           "title": "Avenant n° 1 du 4 septembre 2007 à l'accord du 20 septembre 2005 relatif à la formation professionnelle",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000018561868",
+          "children": [
             {
-              "id": "KALIARTI000018561872",
-              "num": null,
-              "intOrdre": 1048574,
-              "content": "<p><br/>Contenu de l'accord </p><p><br/>Lors de la commission paritaire nationale emploi formation du 4 septembre 2007, les parties en présence se sont accordées sur les modifications ci-dessous. </p><p><br/>Modification de l'article 3. 6. « Financement du DIF » </p><p><br/>Cet article est modifié de la façon suivante : <br/>« Les actions de formation prioritaires sont prises en charge par Habitat Formation dans le cadre de la participation des entreprises au financement de la formation professionnelle, dans la limite des fonds disponibles, en application du <a alt='Décret n°2004-1096 du 15 octobre 2004 (V)' href='/affichTexte.do?cidTexte=JORFTEXT000000805264&categorieLien=cid'>décret n° 2004-1096 du 15 octobre 2004</a>. <br/>Pour être prises en charge, ces actions doivent remplir l'une des conditions suivantes : <br/>― contribuer à la qualité du service rendu aux adhérents ou aux clients. Ce sont les formations à la communication orale et / ou écrite, à l'animation de réseau, au management et à la gestion de projet mais aussi les formations à la qualité de service. <br/>― favoriser la mobilité au sein de la branche professionnelle et plus largement au sein du mouvement HLM : actions permettant l'acquisition de compétences professionnelles nouvelles pour l'exercice d'un nouvel emploi. <br/>― permettre l'évolution personnelle et professionnelle du salarié, par exemple dans le cadre d'une création ou d'une reprise d'entreprise. <br/>Cette prise en charge couvre tout ou partie des frais pédagogiques ainsi que, le cas échéant, des frais de transport et d'hébergement. » </p><p><br/>Modification de l'article 6 </p><p><br/>Cet article est modifié de la façon suivante : </p><p><br/>6. 1. Bénéficiaires </p><p><br/>Les périodes de professionnalisation sont ouvertes : <br/>― aux salariés en CDI disposant d'une ancienneté de 1 an dans l'entreprise et devant acquérir des compétences nouvelles du fait d'un changement d'emploi ou d'une évolution de leur emploi (évolution des technologies, de l'organisation du travail...) ; <br/>― aux salariés envisageant la création ou la reprise d'une entreprise ; <br/>― aux femmes qui reprennent leur activité après un congé de maternité ou aux salariés (hommes ou femmes) après un congé parental ; <br/>― aux salariés en situation de handicap et relevant de l'<a alt='Code du travail - art. L323-3 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006648646&dateTexte=&categorieLien=cid'>article L. 323-3 du code du travail</a>. <br/>L'article 6. 2. « Modalités d'accès » est supprimé. Il est remplacé par l'article 6. 2. « Formations éligibles » : </p><p><br/>6. 2. Formations éligibles </p><p><br/>Outre les formations prévues par la loi (formations permettant d'acquérir une des qualifications prévues à l'<a alt='Code du travail - art. L900-3 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006651103&dateTexte=&categorieLien=cid'>article L. 900-3 du code du travail</a>), sont éligibles aux périodes de professionnalisation : <br/>― les formations d'une durée au moins égale à 70 heures ayant pour bénéficiaires les catégories de salariés listées à l'article 6. 1 ; <br/>― les formations préconisées par un jury de validation des acquis de l'expérience (sans condition de durée) ; <br/>― les formations d'une durée au moins égale à 21 heures permettant à des salariés d'au moins 45 ans de transmettre, partager, diffuser leurs connaissances et compétences auprès des autres salariés, et notamment des plus jeunes. <br/>L'article 6. 3 « Déroulement » est ainsi modifié : <br/>« Quand le salarié souhaite imputer sur cette formation tout ou partie de son DIF et / ou des journées de RTT, il bénéficie, en outre, d'un abondement d'une durée équivalant, au moins, à l'effort qu'il a engagé. » <br/>L'article 8 « Les actions prioritaires de formation » est supprimé. </p><p><br/>Dépôt </p><p><br/>Le présent accord fait l'objet d'un dépôt dans les conditions définies par le code du travail.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000018561871",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000018561871",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000018561879",
                   "num": null,
                   "intOrdre": 524287,
@@ -787,15 +864,24 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000018561872",
+              "num": null,
+              "intOrdre": 1048574,
+              "content": "<p><br/>Contenu de l'accord </p><p><br/>Lors de la commission paritaire nationale emploi formation du 4 septembre 2007, les parties en présence se sont accordées sur les modifications ci-dessous. </p><p><br/>Modification de l'article 3. 6. « Financement du DIF » </p><p><br/>Cet article est modifié de la façon suivante : <br/>« Les actions de formation prioritaires sont prises en charge par Habitat Formation dans le cadre de la participation des entreprises au financement de la formation professionnelle, dans la limite des fonds disponibles, en application du <a alt='Décret n°2004-1096 du 15 octobre 2004 (V)' href='/affichTexte.do?cidTexte=JORFTEXT000000805264&categorieLien=cid'>décret n° 2004-1096 du 15 octobre 2004</a>. <br/>Pour être prises en charge, ces actions doivent remplir l'une des conditions suivantes : <br/>― contribuer à la qualité du service rendu aux adhérents ou aux clients. Ce sont les formations à la communication orale et / ou écrite, à l'animation de réseau, au management et à la gestion de projet mais aussi les formations à la qualité de service. <br/>― favoriser la mobilité au sein de la branche professionnelle et plus largement au sein du mouvement HLM : actions permettant l'acquisition de compétences professionnelles nouvelles pour l'exercice d'un nouvel emploi. <br/>― permettre l'évolution personnelle et professionnelle du salarié, par exemple dans le cadre d'une création ou d'une reprise d'entreprise. <br/>Cette prise en charge couvre tout ou partie des frais pédagogiques ainsi que, le cas échéant, des frais de transport et d'hébergement. » </p><p><br/>Modification de l'article 6 </p><p><br/>Cet article est modifié de la façon suivante : </p><p><br/>6. 1. Bénéficiaires </p><p><br/>Les périodes de professionnalisation sont ouvertes : <br/>― aux salariés en CDI disposant d'une ancienneté de 1 an dans l'entreprise et devant acquérir des compétences nouvelles du fait d'un changement d'emploi ou d'une évolution de leur emploi (évolution des technologies, de l'organisation du travail...) ; <br/>― aux salariés envisageant la création ou la reprise d'une entreprise ; <br/>― aux femmes qui reprennent leur activité après un congé de maternité ou aux salariés (hommes ou femmes) après un congé parental ; <br/>― aux salariés en situation de handicap et relevant de l'<a alt='Code du travail - art. L323-3 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006648646&dateTexte=&categorieLien=cid'>article L. 323-3 du code du travail</a>. <br/>L'article 6. 2. « Modalités d'accès » est supprimé. Il est remplacé par l'article 6. 2. « Formations éligibles » : </p><p><br/>6. 2. Formations éligibles </p><p><br/>Outre les formations prévues par la loi (formations permettant d'acquérir une des qualifications prévues à l'<a alt='Code du travail - art. L900-3 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006651103&dateTexte=&categorieLien=cid'>article L. 900-3 du code du travail</a>), sont éligibles aux périodes de professionnalisation : <br/>― les formations d'une durée au moins égale à 70 heures ayant pour bénéficiaires les catégories de salariés listées à l'article 6. 1 ; <br/>― les formations préconisées par un jury de validation des acquis de l'expérience (sans condition de durée) ; <br/>― les formations d'une durée au moins égale à 21 heures permettant à des salariés d'au moins 45 ans de transmettre, partager, diffuser leurs connaissances et compétences auprès des autres salariés, et notamment des plus jeunes. <br/>L'article 6. 3 « Déroulement » est ainsi modifié : <br/>« Quand le salarié souhaite imputer sur cette formation tout ou partie de son DIF et / ou des journées de RTT, il bénéficie, en outre, d'un abondement d'une durée équivalant, au moins, à l'effort qu'il a engagé. » <br/>L'article 8 « Les actions prioritaires de formation » est supprimé. </p><p><br/>Dépôt </p><p><br/>Le présent accord fait l'objet d'un dépôt dans les conditions définies par le code du travail.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
             }
           ]
         },
         {
-          "id": "KALITEXT000017580539",
+          "type": "section",
           "title": "Avenant n° 1 du 15 novembre 2006 relatif au congé de formation économique, sociale et syndicale",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000017580539",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000017580542",
               "num": null,
               "intOrdre": 524287,
@@ -805,26 +891,19 @@
           ]
         },
         {
-          "id": "KALITEXT000005672309",
+          "type": "section",
           "title": "Accord collectif national du 20 septembre 2005 relatif à la formation professionnelle tout au long de la vie au sein des organisations professionnelles de l'habitat social",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000005672309",
+          "children": [
             {
-              "id": "KALIARTI000022047215",
-              "num": null,
-              "intOrdre": 42949,
-              "content": "<p>Exposé des motifs </p><p>Le présent accord a pour objet de préciser les modalités de mise en oeuvre des dispositions prévues par la <a alt='lien vers un document Legifrance' href='/affichCode.do?cidTexte=LEGITEXT000006072050&idSectionTA=LEGISCTA000006132349&dateTexte=&categorieLien=cid'>6e partie du code du travail </a>traitant \" De la formation professionnelle continue dans le cadre de la formation professionnelle tout au long de la vie \" et, plus particulièrement, de celles adoptées par la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000000613810&categorieLien=cid'>loi n° 2004-391</a> du 4 mai 2004, dans les organisations professionnelles de l'habitat social. </p><p>Tant dans leur activité d'accompagnement des organismes de logement social que dans le maintien de leur expertise dans les différents domaines couverts par l'habitat social, ces organisations doivent disposer des meilleures compétences. Elles considèrent que la qualité des services rendus à leurs adhérents et clients dépend avant tout de leurs collaborateurs, de leur professionnalisme et du développement continu de leurs compétences. Le renforcement de la capacité des entreprises à proposer à leurs collaborateurs des formations adaptées à l'évolution de leur métier tout au long de leur vie professionnelle représente un enjeu capital de leur politique de gestion des ressources humaines. </p><p>La réforme du système de formation professionnelle engagée par la loi du 4 mai 2004 offre l'occasion aux signataires du présent accord de fonder une politique ambitieuse de développement des compétences et des qualifications de l'ensemble des salariés de la branche professionnelle et de leurs entreprises. Cette politique veut donner aux entreprises les moyens de faire face aux changements à venir, qu'ils résultent de l'évolution de la démographie, de l'évolution de l'environnement ou de l'évolution des métiers et de leurs modes d'organisation. Elle veut également, dans l'esprit de la loi, faciliter l'évolution professionnelle de chaque salarié en lui permettant d'être un acteur à part entière dans la conduite de son projet professionnel. </p><p>Dans cette perspective, les partenaires sociaux considèrent que la formation professionnelle et les nouveaux instruments mis à disposition par la loi constituent un outil privilégié pour permettre aux salariés comme aux entreprises de s'adapter aux changements. Plus précisément 5 orientations prioritaires émergent dans la branche professionnelle :</p><p>-l'appui au développement de l'expertise et l'amélioration du service aux adhérents et clients ;</p><p>-le renforcement des compétences des salariés confrontés aux mutations professionnelles induites par les évolutions des métiers ;</p><p>-l'accompagnement des carrières par la mise en oeuvre de projets de progression professionnelle s'appuyant sur les entretiens annuels, les évaluations de compétences, la validation des acquis de l'expérience.. ;</p><p>-l'équilibrage de la pyramide des âges par une politique soutenue d'insertion de jeunes ;</p><p>-la facilitation de l'intégration des nouveaux salariés par le développement d'un dispositif pédagogique de tutorat. </p><p>Pour garantir la mise en oeuvre de ces priorités, les entreprises appliquant le présent accord s'engagent à favoriser un égal accès de tous les salariés à la formation professionnelle qui a pour objet, selon la loi, de favoriser l'insertion ou la réinsertion professionnelle des salariés, de permettre leur maintien dans l'emploi, de favoriser l'acquisition ou le développement de leurs compétences et l'accès aux différents niveaux de qualification professionnelle. </p><p>Le présent accord précise les conditions d'accès des salariés aux actions de formation professionnelle continue :</p><p>-à l'initiative de l'employeur, dans le cadre du plan de formation ;</p><p>-à l'initiative du salarié, avec l'accord de son employeur, dans le cadre du droit individuel à la formation (DIF) ;</p><p>-à l'initiative de l'employeur ou à l'initiative du salarié avec l'accord de l'employeur dans le cadre d'une période de professionnalisation ;</p><p>-à l'initiative du salarié, dans le cadre des congés individuels de formation (CIF), de bilan de compétence ou de validation des acquis de l'expérience. </p><p>Le financement des actions envisagées dans le présent accord est assuré en liaison avec l'organisme paritaire collecteur agréé (OPCA) du secteur professionnel, Habitat-Formation.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000005716511",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Champ d'application",
+              "id": "KALISCTA000005716511",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005833376",
                   "num": "1er",
                   "intOrdre": 42949,
@@ -834,12 +913,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005716512",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Plan de formation",
+              "id": "KALISCTA000005716512",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005833378",
                   "num": "2",
                   "intOrdre": 42949,
@@ -849,12 +930,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005716513",
+              "type": "section",
               "intOrdre": 171796,
               "title": "Droit individuel à la formation (DIF)",
+              "id": "KALISCTA000005716513",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028493160",
                   "num": "3",
                   "intOrdre": 42949,
@@ -864,12 +947,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005716514",
+              "type": "section",
               "intOrdre": 214745,
               "title": "Congé individuel de formation (CIF)",
+              "id": "KALISCTA000005716514",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005833380",
                   "num": "4",
                   "intOrdre": 42949,
@@ -879,12 +964,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005716515",
+              "type": "section",
               "intOrdre": 257694,
               "title": "Contrat de professionnalisation",
+              "id": "KALISCTA000005716515",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000022047204",
                   "num": "5",
                   "intOrdre": 42949,
@@ -894,12 +981,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005716516",
+              "type": "section",
               "intOrdre": 300643,
               "title": "Périodes de professionnalisation",
+              "id": "KALISCTA000005716516",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000024290705",
                   "num": "6",
                   "intOrdre": 42949,
@@ -909,12 +998,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005716517",
+              "type": "section",
               "intOrdre": 343592,
               "title": "Tutorat",
+              "id": "KALISCTA000005716517",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005833383",
                   "num": "7",
                   "intOrdre": 42949,
@@ -924,12 +1015,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005716519",
+              "type": "section",
               "intOrdre": 386541,
               "title": "Actions prioritaires de formation",
+              "id": "KALISCTA000005716519",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000028493164",
                   "num": "8",
                   "intOrdre": 42949,
@@ -939,12 +1032,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005716520",
+              "type": "section",
               "intOrdre": 429490,
               "title": "Financement",
+              "id": "KALISCTA000005716520",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000027240072",
                   "num": "9",
                   "intOrdre": 42949,
@@ -954,12 +1049,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005716521",
+              "type": "section",
               "intOrdre": 472439,
               "title": "Dispositions générales",
+              "id": "KALISCTA000005716521",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000022047198",
                   "num": "10",
                   "intOrdre": 42949,
@@ -967,37 +1064,50 @@
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000022047215",
+              "num": null,
+              "intOrdre": 42949,
+              "content": "<p>Exposé des motifs </p><p>Le présent accord a pour objet de préciser les modalités de mise en oeuvre des dispositions prévues par la <a alt='lien vers un document Legifrance' href='/affichCode.do?cidTexte=LEGITEXT000006072050&idSectionTA=LEGISCTA000006132349&dateTexte=&categorieLien=cid'>6e partie du code du travail </a>traitant \" De la formation professionnelle continue dans le cadre de la formation professionnelle tout au long de la vie \" et, plus particulièrement, de celles adoptées par la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000000613810&categorieLien=cid'>loi n° 2004-391</a> du 4 mai 2004, dans les organisations professionnelles de l'habitat social. </p><p>Tant dans leur activité d'accompagnement des organismes de logement social que dans le maintien de leur expertise dans les différents domaines couverts par l'habitat social, ces organisations doivent disposer des meilleures compétences. Elles considèrent que la qualité des services rendus à leurs adhérents et clients dépend avant tout de leurs collaborateurs, de leur professionnalisme et du développement continu de leurs compétences. Le renforcement de la capacité des entreprises à proposer à leurs collaborateurs des formations adaptées à l'évolution de leur métier tout au long de leur vie professionnelle représente un enjeu capital de leur politique de gestion des ressources humaines. </p><p>La réforme du système de formation professionnelle engagée par la loi du 4 mai 2004 offre l'occasion aux signataires du présent accord de fonder une politique ambitieuse de développement des compétences et des qualifications de l'ensemble des salariés de la branche professionnelle et de leurs entreprises. Cette politique veut donner aux entreprises les moyens de faire face aux changements à venir, qu'ils résultent de l'évolution de la démographie, de l'évolution de l'environnement ou de l'évolution des métiers et de leurs modes d'organisation. Elle veut également, dans l'esprit de la loi, faciliter l'évolution professionnelle de chaque salarié en lui permettant d'être un acteur à part entière dans la conduite de son projet professionnel. </p><p>Dans cette perspective, les partenaires sociaux considèrent que la formation professionnelle et les nouveaux instruments mis à disposition par la loi constituent un outil privilégié pour permettre aux salariés comme aux entreprises de s'adapter aux changements. Plus précisément 5 orientations prioritaires émergent dans la branche professionnelle :</p><p>-l'appui au développement de l'expertise et l'amélioration du service aux adhérents et clients ;</p><p>-le renforcement des compétences des salariés confrontés aux mutations professionnelles induites par les évolutions des métiers ;</p><p>-l'accompagnement des carrières par la mise en oeuvre de projets de progression professionnelle s'appuyant sur les entretiens annuels, les évaluations de compétences, la validation des acquis de l'expérience.. ;</p><p>-l'équilibrage de la pyramide des âges par une politique soutenue d'insertion de jeunes ;</p><p>-la facilitation de l'intégration des nouveaux salariés par le développement d'un dispositif pédagogique de tutorat. </p><p>Pour garantir la mise en oeuvre de ces priorités, les entreprises appliquant le présent accord s'engagent à favoriser un égal accès de tous les salariés à la formation professionnelle qui a pour objet, selon la loi, de favoriser l'insertion ou la réinsertion professionnelle des salariés, de permettre leur maintien dans l'emploi, de favoriser l'acquisition ou le développement de leurs compétences et l'accès aux différents niveaux de qualification professionnelle. </p><p>Le présent accord précise les conditions d'accès des salariés aux actions de formation professionnelle continue :</p><p>-à l'initiative de l'employeur, dans le cadre du plan de formation ;</p><p>-à l'initiative du salarié, avec l'accord de son employeur, dans le cadre du droit individuel à la formation (DIF) ;</p><p>-à l'initiative de l'employeur ou à l'initiative du salarié avec l'accord de l'employeur dans le cadre d'une période de professionnalisation ;</p><p>-à l'initiative du salarié, dans le cadre des congés individuels de formation (CIF), de bilan de compétence ou de validation des acquis de l'expérience. </p><p>Le financement des actions envisagées dans le présent accord est assuré en liaison avec l'organisme paritaire collecteur agréé (OPCA) du secteur professionnel, Habitat-Formation.</p>",
+              "etat": "VIGUEUR_ETEN"
             }
           ]
         }
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 3,
       "title": "Textes Salaires",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000023956775",
-          "title": "Avenant n° 9 du 21 décembre 2010 relatif aux salaires pour l'année 2011",
-          "dateParution": 1304899200000,
-          "articles": [
-            {
-              "id": "KALIARTI000023956778",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p><br/>1. Préambule</p><p><br/>Le présent accord s'inscrit dans le cadre de l'article 12.1 « Salaire mensuel de base » de la convention collective nationale des organisations professionnelles de l'habitat social.</p><p><br/>2. Contenu de l'accord</p><p><br/>A l'issue de la réunion de la commission paritaire nationale du 21 décembre 2010, au cours de laquelle la NAO (négociation annuelle sur les salaires) a eu lieu et au cours de laquelle chacune des parties a fait valoir ses arguments, le collège employeurs et le collège salariés ont convenu d'une revalorisation de la valeur du point qui interviendra dans les conditions suivantes :</p><p><br/>– au 1er janvier 2011 : augmentation de 0,6 % ;<br/>– au 1er juin 2011 : augmentation de 0,6 % ;<br/>– ajustement si nécessaire lors d'une nouvelle réunion de la commission paritaire nationale programmée le 18 octobre 2011.</p><p><br/>3. Durée de l'accord</p><p><br/>Le présent accord est valable pour une durée de 1 an.</p><p><br/>4. Dépôt</p><p><br/>Le présent accord fera l'objet d'un dépôt dans les conditions définies par le code du travail.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000032593540",
+          "type": "section",
           "title": "Avenant n° 16 du 1er décembre 2015 relatif aux salaires minima conventionnels au 1er janvier 2016",
-          "dateParution": 1464566400000,
-          "articles": [
+          "id": "KALITEXT000032593540",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000032593543",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000032593547",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'><br/>Les partenaires sociaux de la branche se sont réunis en négociation annuelle obligatoire le 1er décembre 2015 et ont décidé d'un commun accord de réviser les salaires minima de la branche professionnelle après échange sur les documents des données salariales de la branche.<br/>Ces salaires minima seront ainsi réévalués :<br/>– famille « assistance » et « entretien maintenance » : + 1,5 % ;<br/>– famille « production » : technicien d'étude et consultant conseil : + 0,8 % et responsable de domaine : + 0,4 % ;<br/>– famille « encadrement » : + 0,4 %.</p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000032593544",
               "num": "1er",
               "intOrdre": 1048574,
@@ -1006,6 +1116,7 @@
               "surtitre": "Objet et champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032593545",
               "num": "2",
               "intOrdre": 1572861,
@@ -1014,6 +1125,7 @@
               "surtitre": "Maintien des autres clauses"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032593546",
               "num": "3",
               "intOrdre": 2097148,
@@ -1021,31 +1133,92 @@
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Publicité"
             }
-          ],
-          "sections": [
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 15 du 28 septembre 2015 modifiant l'article 12 relatif aux rémunérations",
+          "id": "KALITEXT000031646767",
+          "children": [
             {
-              "id": "KALISCTA000032593543",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000031646770",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
-                  "id": "KALIARTI000032593547",
+                  "type": "article",
+                  "id": "KALIARTI000031646775",
                   "num": null,
                   "intOrdre": 524287,
-                  "content": "<p align='left'><br/>Les partenaires sociaux de la branche se sont réunis en négociation annuelle obligatoire le 1er décembre 2015 et ont décidé d'un commun accord de réviser les salaires minima de la branche professionnelle après échange sur les documents des données salariales de la branche.<br/>Ces salaires minima seront ainsi réévalués :<br/>– famille « assistance » et « entretien maintenance » : + 1,5 % ;<br/>– famille « production » : technicien d'étude et consultant conseil : + 0,8 % et responsable de domaine : + 0,4 % ;<br/>– famille « encadrement » : + 0,4 %.</p>",
+                  "content": "<p align='left'><br/>Les parties sont convenues de modifier les règles de détermination du salaire mensuel minimal de base et des compléments de rémunération applicables au sein de la branche des organisations professionnelles de l'habitat social. Dans le but notamment de faciliter et de simplifier le traitement des données salariées et de réduire au maximum les écarts « minima sociaux/réalité économique ». En outre, cette simplification devra permettre d'apporter une plus grande vigilance à l'égalité des rémunérations « hommes-femmes ».</p>",
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000031646771",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>Le présent accord a pour objet de modifier les règles de détermination du salaire mensuel de base et des compléments de rémunération applicables au sein de la branche des organisations professionnelles de l'habitat social. <br/>A ce titre, <a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000005672305&idArticle=KALIARTI000005833373&categorieLien=cid'>l'article 12 </a>de la convention collective nationale des organisations professionnelles de l'habitat social est remplacé par : <br/>« La rémunération des salariés de la branche professionnelle est constituée d'un salaire mensuel de base et de compléments divers. <br/>Tous les montants exprimés en euros font référence à une donnée salariale en euros bruts. </p><p align='center'><br/>12.1. Salaire mensuel de base </p><p align='left'><br/>Le salaire mensuel de base ne peut être inférieur au salaire minimum en vigueur tel qu'il est fixé par la commission paritaire nationale pour chaque catégorie de la classification pour un temps plein. <br/>Le salaire mensuel de base minimum est déterminé chaque année par négociation avec la commission paritaire nationale. </p><p align='center'><br/>12.2. Salaires minima </p><p align='left'><br/>Depuis le 1er janvier 2015, le salaire minimum pour chaque emploi est le suivant : </p><p align='right'><br/>(En euros.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>Famille d'emplois </th><th>Emploi </th><th>Salaire mensuel <br/>minimum </th><th>Salaire annuel minimum (*) </th></tr><tr><td align='center'>Entretien et maintenance </td><td align='center'>Ouvrier d'entretien ménager </td><td align='center'>1 503 </td><td align='center'>21 101 </td></tr><tr><td align='center'>Assistance </td><td align='center'>Secrétaire <br/>Assistant technique </td><td align='center'>1 666 </td><td align='center'>23 301 </td></tr><tr><td align='center'>Production </td><td align='center'>Technicien d'études <br/>Consultant-conseil <br/>Responsable de domaine </td><td align='center'>1 843 <br/>2 055 <br/>2 091 </td><td align='center'>25 691 <br/>28 553 <br/>29 039 </td></tr><tr><td align='center'>Encadrement </td><td align='center'>Responsable d'entité <br/>Directeur </td><td align='center'>3 213 <br/>3 554 </td><td align='center'>44 186 <br/>48 789 </td></tr><tr><td colspan='4' align='center'>(*) = 13,5 fois le salaire mensuel minimum + la prime de fin d'année minimum. </td></tr></table></center></div></p><p align='center'><br/>12.3. Compléments de rémunération </p><p align='left'><br/>Les compléments de rémunération se composent des éléments suivants : <br/>– une prime d'ancienneté de 1 % par année d'ancienneté (telle qu'elle est définie à l'article 3.8), qui s'applique aux salariés dont le salaire mensuel de base est inférieur ou égal à 2 898 € ; elle est plafonnée à 18 % ; <br/>– un treizième mois attribué en fin d'année, égal au salaire du mois de décembre ; <br/>– un complément de salaire de vacances, égal à la moitié du salaire du mois de juin et payé à la fin de ce mois ; <br/>– une prime de fin d'année, qui ne peut être inférieure à 810 € ; <br/>– une prime de mariage ou de Pacs accordée après 1 an d'ancienneté ; elle est égale à 810 € ; <br/>– une prime de naissance accordée en cas de naissance ou d'adoption d'un enfant du salarié après 1 an d'ancienneté ; elle correspond à 410 € ; <br/>En outre, des primes exceptionnelles peuvent être accordées par la direction, notamment en cas de travaux résultant de circonstances particulières. <br/>En cas d'embauchage, de licenciement ou de démission en cours d'année, ou de congé sans solde ou de travail permanent à temps partiel, le treizième mois et la prime de fin d'année seront calculés pro rata temporis en tenant compte de la durée effective de travail dans l'année civile. <br/>Le complément de salaire de vacances tiendra compte de la durée effective de travail dans l'année de référence des congés payés (du 1er juin de l'année précédente au 31 mai de l'année en cours) ; il sera donc calculé pro rata temporis. »</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Objet et champ d'application"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000031646772",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Toutes les autres dispositions de la convention collective nationale des organisations professionnelles de l'habitat social restent inchangées.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Maintien des autres clauses"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000031646773",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Le présent accord prendra effet le 1er novembre 2015.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Date d'effet"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000031646774",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Le présent accord fera l'objet d'un certain nombre de publicités à la diligence du collège employeurs :</p><p align='left'><br/>– un exemplaire original dûment signé de toutes les parties sera notifié à chaque organisation syndicale représentative ;<br/>– un exemplaire sera déposé au greffe du conseil des prud'hommes de Paris ;<br/>– deux exemplaires, dont une version sur support papier signée des parties et une version sur support électronique, seront déposés auprès des services centraux du ministre chargé du travail.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Publicité"
             }
           ]
         },
         {
-          "id": "KALITEXT000030551975",
+          "type": "section",
           "title": "Avenant n° 14 du 18 novembre 2014 relatif aux salaires minima conventionnels au 1er janvier 2015",
-          "dateParution": 1430870400000,
-          "articles": [
+          "id": "KALITEXT000030551975",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000030551978",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000030551982",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'><br/>Les partenaires sociaux de la branche se sont réunis en négociation annuelle obligatoire le 18 novembre 2014 et ont décidé d'un commun accord de réviser les salaires minima de la branche professionnelle.<br/>Par ailleurs, les parties prennent l'engagement de travailler sur la structure de la rémunération en 2015, dans le but notamment de réduire au maximum les écarts minima sociaux/réalité des entreprises.</p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000030551979",
               "num": "1er",
               "intOrdre": 1048574,
@@ -1054,6 +1227,7 @@
               "surtitre": "Objet et champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000030551980",
               "num": "2",
               "intOrdre": 1572861,
@@ -1062,6 +1236,7 @@
               "surtitre": "Maintien des autres clauses"
             },
             {
+              "type": "article",
               "id": "KALIARTI000030551981",
               "num": "3",
               "intOrdre": 2097148,
@@ -1069,31 +1244,32 @@
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Publicité"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000030551978",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000030551982",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>Les partenaires sociaux de la branche se sont réunis en négociation annuelle obligatoire le 18 novembre 2014 et ont décidé d'un commun accord de réviser les salaires minima de la branche professionnelle.<br/>Par ailleurs, les parties prennent l'engagement de travailler sur la structure de la rémunération en 2015, dans le but notamment de réduire au maximum les écarts minima sociaux/réalité des entreprises.</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
           ]
         },
         {
-          "id": "KALITEXT000028755536",
+          "type": "section",
           "title": "Avenant n° 13 du 14 novembre 2013 relatif aux salaires minima au 1er janvier 2014",
-          "dateParution": 1395619200000,
-          "articles": [
+          "id": "KALITEXT000028755536",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000028755539",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000028755543",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'><br/>Les partenaires sociaux de la branche se sont réunis en négociation annuelle obligatoire le 14 novembre 2013 et ont décidé d'un commun accord de réviser les salaires minima de la branche professionnelle.</p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000028755540",
               "num": "1er",
               "intOrdre": 1048574,
@@ -1102,6 +1278,7 @@
               "surtitre": "Objet et champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028755541",
               "num": "2",
               "intOrdre": 1572861,
@@ -1110,6 +1287,7 @@
               "surtitre": "Maintien des autres clauses"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028755542",
               "num": "3",
               "intOrdre": 2097148,
@@ -1117,45 +1295,15 @@
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Publicité"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000028755539",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000028755543",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>Les partenaires sociaux de la branche se sont réunis en négociation annuelle obligatoire le 14 novembre 2013 et ont décidé d'un commun accord de réviser les salaires minima de la branche professionnelle.</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
           ]
         },
         {
-          "id": "KALITEXT000027348321",
-          "title": "Procès-verbal de désaccord du 11 décembre 2012 relatif à la négociation annuelle obligatoire des salaires au 1er janvier 2013",
-          "dateParution": 1366761600000,
-          "articles": [
-            {
-              "id": "KALIARTI000027348324",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p><br/>Les partenaires sociaux de la branche se sont réunis en négociation annuelle obligatoire le 11 décembre 2012.<br/>Au cours de cette négociation, le collège employeurs a proposé de réviser les salaires minima conventionnels au 1er janvier 2013 comme suit :<br/>Ouvrier d'entretien ménager : 205 points.<br/>Secrétaire : 227 points.<br/>Assistant technique : 227 points.<br/>Technicien d'études : 255 points.<br/>Consultant conseil : 285 points.<br/>Responsable de domaine : 285 points.<br/>Responsable d'entité : 455 points.<br/>Directeur : 505 points.<br/>Soit une augmentation allant de 5,13 % à 1 %.<br/>La CFDT, la CFTC, la CFE-CGC prennent acte avec intérêt de cette proposition mais regrettent que ne soit pas communiqué l'intégralité des tableaux permettant l'analyse des minima.<br/>Le collège employeurs s'engage à compléter l'information dans les prochains mois.<br/>Le collège salariés déclare être dans l'impossibilité d'apprécier l'impact de cette mesure sur la population concernée et par conséquent ne souhaitent pas donner son accord à ces ajustements.<br/>Le collège employeurs enregistre cette position et confirme que néanmoins l'augmentation des salaires minima conventionnels sera appliquée dès le 1er janvier 2013.<br/>Il est alors dressé le présent procès-verbal de désaccord, conformément à l'<a alt='Code du travail - art. L2242-4 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901754&dateTexte=&categorieLien=cid'>article L. 2242-4 du code du travail</a>.<br/>Le présent document fera l'objet d'un dépôt à la direction générale du travail (<a alt='Code du travail - art. D2231-2 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid'>art. D. 2231-2 du code du travail</a>) par le collège employeurs.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000027348316",
+          "type": "section",
           "title": "Avenant n° 11 du 11 décembre 2012 relatif aux salaires et à la valeur du point au 1er janvier 2013",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000027348316",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000027348319",
               "num": null,
               "intOrdre": 524287,
@@ -1165,11 +1313,27 @@
           ]
         },
         {
-          "id": "KALITEXT000025174787",
-          "title": "Avenant n° 10 du 18 octobre 2011 relatif aux salaires pour les années 2011 et 2012",
-          "dateParution": 32472144000000,
-          "articles": [
+          "type": "section",
+          "title": "Procès-verbal de désaccord du 11 décembre 2012 relatif à la négociation annuelle obligatoire des salaires au 1er janvier 2013",
+          "id": "KALITEXT000027348321",
+          "children": [
             {
+              "type": "article",
+              "id": "KALIARTI000027348324",
+              "num": null,
+              "intOrdre": 524287,
+              "content": "<p><br/>Les partenaires sociaux de la branche se sont réunis en négociation annuelle obligatoire le 11 décembre 2012.<br/>Au cours de cette négociation, le collège employeurs a proposé de réviser les salaires minima conventionnels au 1er janvier 2013 comme suit :<br/>Ouvrier d'entretien ménager : 205 points.<br/>Secrétaire : 227 points.<br/>Assistant technique : 227 points.<br/>Technicien d'études : 255 points.<br/>Consultant conseil : 285 points.<br/>Responsable de domaine : 285 points.<br/>Responsable d'entité : 455 points.<br/>Directeur : 505 points.<br/>Soit une augmentation allant de 5,13 % à 1 %.<br/>La CFDT, la CFTC, la CFE-CGC prennent acte avec intérêt de cette proposition mais regrettent que ne soit pas communiqué l'intégralité des tableaux permettant l'analyse des minima.<br/>Le collège employeurs s'engage à compléter l'information dans les prochains mois.<br/>Le collège salariés déclare être dans l'impossibilité d'apprécier l'impact de cette mesure sur la population concernée et par conséquent ne souhaitent pas donner son accord à ces ajustements.<br/>Le collège employeurs enregistre cette position et confirme que néanmoins l'augmentation des salaires minima conventionnels sera appliquée dès le 1er janvier 2013.<br/>Il est alors dressé le présent procès-verbal de désaccord, conformément à l'<a alt='Code du travail - art. L2242-4 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901754&dateTexte=&categorieLien=cid'>article L. 2242-4 du code du travail</a>.<br/>Le présent document fera l'objet d'un dépôt à la direction générale du travail (<a alt='Code du travail - art. D2231-2 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid'>art. D. 2231-2 du code du travail</a>) par le collège employeurs.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 10 du 18 octobre 2011 relatif aux salaires pour les années 2011 et 2012",
+          "id": "KALITEXT000025174787",
+          "children": [
+            {
+              "type": "article",
               "id": "KALIARTI000025174790",
               "num": null,
               "intOrdre": 524287,
@@ -1179,67 +1343,27 @@
           ]
         },
         {
-          "id": "KALITEXT000031646767",
-          "title": "Avenant n° 15 du 28 septembre 2015 modifiant l'article 12 relatif aux rémunérations",
-          "dateParution": 1450656000000,
-          "articles": [
+          "type": "section",
+          "title": "Avenant n° 9 du 21 décembre 2010 relatif aux salaires pour l'année 2011",
+          "id": "KALITEXT000023956775",
+          "children": [
             {
-              "id": "KALIARTI000031646771",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Le présent accord a pour objet de modifier les règles de détermination du salaire mensuel de base et des compléments de rémunération applicables au sein de la branche des organisations professionnelles de l'habitat social. <br/>A ce titre, <a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000005672305&idArticle=KALIARTI000005833373&categorieLien=cid'>l'article 12 </a>de la convention collective nationale des organisations professionnelles de l'habitat social est remplacé par : <br/>« La rémunération des salariés de la branche professionnelle est constituée d'un salaire mensuel de base et de compléments divers. <br/>Tous les montants exprimés en euros font référence à une donnée salariale en euros bruts. </p><p align='center'><br/>12.1. Salaire mensuel de base </p><p align='left'><br/>Le salaire mensuel de base ne peut être inférieur au salaire minimum en vigueur tel qu'il est fixé par la commission paritaire nationale pour chaque catégorie de la classification pour un temps plein. <br/>Le salaire mensuel de base minimum est déterminé chaque année par négociation avec la commission paritaire nationale. </p><p align='center'><br/>12.2. Salaires minima </p><p align='left'><br/>Depuis le 1er janvier 2015, le salaire minimum pour chaque emploi est le suivant : </p><p align='right'><br/>(En euros.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>Famille d'emplois </th><th>Emploi </th><th>Salaire mensuel <br/>minimum </th><th>Salaire annuel minimum (*) </th></tr><tr><td align='center'>Entretien et maintenance </td><td align='center'>Ouvrier d'entretien ménager </td><td align='center'>1 503 </td><td align='center'>21 101 </td></tr><tr><td align='center'>Assistance </td><td align='center'>Secrétaire <br/>Assistant technique </td><td align='center'>1 666 </td><td align='center'>23 301 </td></tr><tr><td align='center'>Production </td><td align='center'>Technicien d'études <br/>Consultant-conseil <br/>Responsable de domaine </td><td align='center'>1 843 <br/>2 055 <br/>2 091 </td><td align='center'>25 691 <br/>28 553 <br/>29 039 </td></tr><tr><td align='center'>Encadrement </td><td align='center'>Responsable d'entité <br/>Directeur </td><td align='center'>3 213 <br/>3 554 </td><td align='center'>44 186 <br/>48 789 </td></tr><tr><td colspan='4' align='center'>(*) = 13,5 fois le salaire mensuel minimum + la prime de fin d'année minimum. </td></tr></table></center></div></p><p align='center'><br/>12.3. Compléments de rémunération </p><p align='left'><br/>Les compléments de rémunération se composent des éléments suivants : <br/>– une prime d'ancienneté de 1 % par année d'ancienneté (telle qu'elle est définie à l'article 3.8), qui s'applique aux salariés dont le salaire mensuel de base est inférieur ou égal à 2 898 € ; elle est plafonnée à 18 % ; <br/>– un treizième mois attribué en fin d'année, égal au salaire du mois de décembre ; <br/>– un complément de salaire de vacances, égal à la moitié du salaire du mois de juin et payé à la fin de ce mois ; <br/>– une prime de fin d'année, qui ne peut être inférieure à 810 € ; <br/>– une prime de mariage ou de Pacs accordée après 1 an d'ancienneté ; elle est égale à 810 € ; <br/>– une prime de naissance accordée en cas de naissance ou d'adoption d'un enfant du salarié après 1 an d'ancienneté ; elle correspond à 410 € ; <br/>En outre, des primes exceptionnelles peuvent être accordées par la direction, notamment en cas de travaux résultant de circonstances particulières. <br/>En cas d'embauchage, de licenciement ou de démission en cours d'année, ou de congé sans solde ou de travail permanent à temps partiel, le treizième mois et la prime de fin d'année seront calculés pro rata temporis en tenant compte de la durée effective de travail dans l'année civile. <br/>Le complément de salaire de vacances tiendra compte de la durée effective de travail dans l'année de référence des congés payés (du 1er juin de l'année précédente au 31 mai de l'année en cours) ; il sera donc calculé pro rata temporis. »</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Objet et champ d'application"
-            },
-            {
-              "id": "KALIARTI000031646772",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Toutes les autres dispositions de la convention collective nationale des organisations professionnelles de l'habitat social restent inchangées.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Maintien des autres clauses"
-            },
-            {
-              "id": "KALIARTI000031646773",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Le présent accord prendra effet le 1er novembre 2015.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Date d'effet"
-            },
-            {
-              "id": "KALIARTI000031646774",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Le présent accord fera l'objet d'un certain nombre de publicités à la diligence du collège employeurs :</p><p align='left'><br/>– un exemplaire original dûment signé de toutes les parties sera notifié à chaque organisation syndicale représentative ;<br/>– un exemplaire sera déposé au greffe du conseil des prud'hommes de Paris ;<br/>– deux exemplaires, dont une version sur support papier signée des parties et une version sur support électronique, seront déposés auprès des services centraux du ministre chargé du travail.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Publicité"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000031646770",
+              "type": "article",
+              "id": "KALIARTI000023956778",
+              "num": null,
               "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000031646775",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>Les parties sont convenues de modifier les règles de détermination du salaire mensuel minimal de base et des compléments de rémunération applicables au sein de la branche des organisations professionnelles de l'habitat social. Dans le but notamment de faciliter et de simplifier le traitement des données salariées et de réduire au maximum les écarts « minima sociaux/réalité économique ». En outre, cette simplification devra permettre d'apporter une plus grande vigilance à l'égalité des rémunérations « hommes-femmes ».</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
+              "content": "<p><br/>1. Préambule</p><p><br/>Le présent accord s'inscrit dans le cadre de l'article 12.1 « Salaire mensuel de base » de la convention collective nationale des organisations professionnelles de l'habitat social.</p><p><br/>2. Contenu de l'accord</p><p><br/>A l'issue de la réunion de la commission paritaire nationale du 21 décembre 2010, au cours de laquelle la NAO (négociation annuelle sur les salaires) a eu lieu et au cours de laquelle chacune des parties a fait valoir ses arguments, le collège employeurs et le collège salariés ont convenu d'une revalorisation de la valeur du point qui interviendra dans les conditions suivantes :</p><p><br/>– au 1er janvier 2011 : augmentation de 0,6 % ;<br/>– au 1er juin 2011 : augmentation de 0,6 % ;<br/>– ajustement si nécessaire lors d'une nouvelle réunion de la commission paritaire nationale programmée le 18 octobre 2011.</p><p><br/>3. Durée de l'accord</p><p><br/>Le présent accord est valable pour une durée de 1 an.</p><p><br/>4. Dépôt</p><p><br/>Le présent accord fera l'objet d'un dépôt dans les conditions définies par le code du travail.</p>",
+              "etat": "VIGUEUR_ETEN"
             }
           ]
         },
         {
-          "id": "KALITEXT000022219351",
+          "type": "section",
           "title": "Avenant n° 7 du 9 décembre 2009 relatif aux salaires et à la valeur du point au 1er janvier 2010",
-          "dateParution": 1274054400000,
-          "articles": [
+          "id": "KALITEXT000022219351",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000022219354",
               "num": "1",
               "intOrdre": 524287,
@@ -1248,6 +1372,7 @@
               "surtitre": "Préambule"
             },
             {
+              "type": "article",
               "id": "KALIARTI000022219355",
               "num": "2",
               "intOrdre": 1048574,
@@ -1256,6 +1381,7 @@
               "surtitre": "Contenu de l'accord"
             },
             {
+              "type": "article",
               "id": "KALIARTI000022219356",
               "num": "3",
               "intOrdre": 1572861,
@@ -1264,6 +1390,7 @@
               "surtitre": "Durée de l'accord"
             },
             {
+              "type": "article",
               "id": "KALIARTI000022219357",
               "num": "4",
               "intOrdre": 2097148,
@@ -1274,11 +1401,12 @@
           ]
         },
         {
-          "id": "KALITEXT000021181085",
+          "type": "section",
           "title": "Avenant n° 6 du 19 juin 2009 relatif aux salaires au 1er juin 2009",
-          "dateParution": 1256083200000,
-          "articles": [
+          "id": "KALITEXT000021181085",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000021181088",
               "num": null,
               "intOrdre": 524287,
@@ -1288,11 +1416,12 @@
           ]
         },
         {
-          "id": "KALITEXT000021012528",
+          "type": "section",
           "title": "Constat de désaccord du 6 mars 2009 relatif à l'évolution de la valeur du point",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000021012528",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000021012531",
               "num": null,
               "intOrdre": 524287,
@@ -1302,11 +1431,12 @@
           ]
         },
         {
-          "id": "KALITEXT000020159382",
+          "type": "section",
           "title": "Avenant n° 4 du 23 octobre 2008 relatif aux salaires au 1er octobre 2008",
-          "dateParution": 1233100800000,
-          "articles": [
+          "id": "KALITEXT000020159382",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000020159385",
               "num": null,
               "intOrdre": 524287,
@@ -1316,11 +1446,12 @@
           ]
         },
         {
-          "id": "KALITEXT000019242655",
+          "type": "section",
           "title": "Avenant n° 3 du 12 février 2008 relatif aux salaires au 1er janvier et au 1er juillet 2008",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000019242655",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000019242658",
               "num": null,
               "intOrdre": 524287,
@@ -1330,22 +1461,24 @@
           ]
         },
         {
-          "id": "KALITEXT000005672313",
-          "title": "Avenant n° 2 du 25 janvier 2007 relatif aux salaires",
-          "dateParution": 32472144000000,
-          "sections": [
+          "type": "section",
+          "title": "Convention collective du 20 septembre 2005 relative aux salaires",
+          "id": "KALITEXT000005672311",
+          "children": [
             {
-              "id": "KALISCTA000005716523",
+              "type": "section",
               "intOrdre": 42949,
-              "title": "Préambule",
-              "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "title": "Rémunération",
+              "id": "KALISCTA000005716522",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
                 {
-                  "id": "KALIARTI000005833388",
+                  "type": "article",
+                  "id": "KALIARTI000005833387",
                   "num": null,
                   "intOrdre": 42949,
-                  "content": "<p></p>   Le présent accord s'inscrit dans le cadre de l'article 12-1 \" le salaire mensuel de base \" de la convention collective nationale des organisations professionnelles de l'habitat social.<p></p> Contenu de l'accord<p></p><p></p>   A l'issue de la réunion de la commission paritaire nationale du 25 janvier 2007, au cours de laquelle chacune des parties a fait valoir ses arguments, le collège employeurs et le collège salariés ont convenu d'une revalorisation de la valeur du point qui interviendra aux échéances de janvier 2007 et octobre 2007 dans les conditions suivantes :<p></p><p></p>   - au 1er janvier 2007 : 0,7 % ;<p></p><p></p>   - au 1er octobre 2007 : 0,7 %.<p></p><p></p>   Au 1er janvier, la valeur du point sera donc de :<p></p><p></p>   - 6,481 Euros pour les salaires inférieurs ou égaux à 400 points ;<p></p><p></p>   - 6,205 Euros pour les salaires se situant entre 400 et 800 points ;<p></p><p></p>   - 6,062 Euros pour les salaires supérieurs à 800 points.<p></p><p></p>   Au 1er octobre, la valeur du point sera donc de :<p></p><p></p>   - 6,526 Euros pour les salaires inférieurs ou égaux à 400 points ;<p></p><p></p>   - 6,249 Euros pour les salaires se situant entre 400 et 800 points ;<p></p><p></p>   - 6,105 Euros pour les salaires supérieurs à 800 points.<p></p><p></p>   Les membres de la commission paritaire nationale des organisations professionnelles de l'habitat social ont convenu de se réunir en octobre 2007 pour étudier la nécessité ou non, en fonction de l'évolution du coût de la vie (indice INSEE \" ensemble des ménages hors tabac France entière \"), d'une revalorisation complémentaire de la valeur du point.<p></p> Durée de l'accord<p></p> Le présent accord est valable pour une durée de 1 an.<p></p><p></p>   Fait à Paris, le 25 janvier 2007.<p></p>",
-                  "etat": "VIGUEUR_NON_ETEN",
+                  "content": "<p>La rémunération des salariés de la branche professionnelle est constituée d'un salaire mensuel de base et de compléments divers.</p><p>12.1. Le salaire mensuel de base</p><p>Le salaire mensuel de base est déterminé par un indice qui ne peut être inférieur au salaire minimum en vigueur tel qu'il est fixé par la commission paritaire nationale pour chaque catégorie de la classification pour un temps plein.</p><p>Le salaire mensuel de base se réfère à une grille indiciaire qui commence à 195 points ; il s'obtient en multipliant le nombre de points affectés à la fonction par la valeur du point. La valeur du point est déterminée chaque année par la commission paritaire nationale en fonction de l'évolution du coût de la vie. Au 1er juillet 2005, la valeur du point est de :</p><p>- 6,303 Euros pour les salaires inférieurs ou égaux à 400 points ;</p><p>- 6,034 Euros pour les salaires se situant entre 400 et 800 points compris ;</p><p>- 5,895 Euros pour les salaires supérieurs à 800 points.</p><p>12.2. Les salaires minima</p><p>Chaque emploi ne peut être rémunéré à un niveau inférieur à un seuil fixé pour chaque emploi de la façon suivante :</p><p><table><tbody><tr><td>FAMILLE D'EMPLOIS </td><td>EMPLOIS </td><td>NOMBRE </td></tr><tr><td></td><td></td><td>minimum </td></tr><tr><td></td><td></td><td>de points </td></tr><tr><td>Entretien et </td><td>Ouvrier d'entretien </td><td></td></tr><tr><td>maintenance </td><td>ménager (1) </td><td>195 </td></tr><tr><td>Assistance </td><td>Secrétaire </td><td>222 </td></tr><tr><td></td><td>Assistant technique </td><td></td></tr><tr><td>Production </td><td>Technicien d'études </td><td>250 </td></tr><tr><td></td><td>Consultant conseil </td><td>280 </td></tr><tr><td></td><td>Responsable de domaine</td><td>280 </td></tr><tr><td>Encadrement </td><td>Responsable d'entité </td><td></td></tr><tr><td></td><td>Directeur </td><td>500 </td></tr></tbody></table></p><p>Ces minima salariaux constituent la base commune aux entreprises de la branche professionnelle. Leur application fera l'objet d'une négociation collective, ouverte dans l'année suivant la signature de la présente convention, au niveau des entreprises ou au niveau de leurs structures de regroupement en cohérence avec les dispositions de l'article 11.3. 12.3. Les compléments de rémunération</p><p>Les compléments de rémunération se composent des éléments suivants :</p><p>- une prime d'ancienneté de 1 % par année d'ancienneté (telle qu'elle est définie à l'article 3.8) qui s'applique aux salariés dont l'indice de salaire est inférieur ou égal à 400 points ; elle est plafonnée à 18 % ;</p><p>- un 13e mois attribué en fin d'année égal au salaire du mois de décembre ;</p><p>- un complément de salaire de vacances égal à la moitié du salaire du mois de juin et payé à la fin de ce mois ;</p><p>- une prime de fin d'année qui ne peut être inférieure à 111 points (valeur du point de la tranche salariale inférieure à 400 points ;</p><p>- une prime de mariage ou de Pacs accordée après 1 an d'ancienneté ; elle est égale à 111 points (valeur du point de la tranche salariale inférieure à 400 points) ;</p><p>- une prime de naissance accordée en cas de naissance ou d'adoption d'un enfant du salarié après 1 an d'ancienneté ; elle correspond à 56 points (valeur du point de la tranche salariale inférieure à 400 points).</p><p>En outre, des indemnités exceptionnelles peuvent être accordées par la direction, notamment en cas de surcroît de travail résultant de circonstances particulières.</p><p>En cas d'embauchage, de licenciement ou de démission en cours d'année, ou de congé sans solde ou de travail permanent à temps partiel, le 13e mois et la prime de fin d'année subissent une réfaction tenant compte de la durée effective de travail dans l'année civile. La réfaction sur le complément de salaire de vacances tiendra compte de la durée effective de travail dans l'année de référence des congés payés (du 1er juin de l'année précédente au 31 mai de l'année en cours).</p><p>Les modalités pratiques de gestion de ces primes pourront faire l'objet d'accords particuliers.</p>",
+                  "etat": "VIGUEUR_ETEN",
                   "surtitre": "Salaires"
                 }
               ]
@@ -1353,22 +1486,24 @@
           ]
         },
         {
-          "id": "KALITEXT000005672311",
-          "title": "Convention collective du 20 septembre 2005 relative aux salaires",
-          "dateParution": 32472144000000,
-          "sections": [
+          "type": "section",
+          "title": "Avenant n° 2 du 25 janvier 2007 relatif aux salaires",
+          "id": "KALITEXT000005672313",
+          "children": [
             {
-              "id": "KALISCTA000005716522",
+              "type": "section",
               "intOrdre": 42949,
-              "title": "Rémunération",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "title": "Préambule",
+              "id": "KALISCTA000005716523",
+              "etat": "VIGUEUR_NON_ETEN",
+              "children": [
                 {
-                  "id": "KALIARTI000005833387",
+                  "type": "article",
+                  "id": "KALIARTI000005833388",
                   "num": null,
                   "intOrdre": 42949,
-                  "content": "<p>La rémunération des salariés de la branche professionnelle est constituée d'un salaire mensuel de base et de compléments divers.</p><p>12.1. Le salaire mensuel de base</p><p>Le salaire mensuel de base est déterminé par un indice qui ne peut être inférieur au salaire minimum en vigueur tel qu'il est fixé par la commission paritaire nationale pour chaque catégorie de la classification pour un temps plein.</p><p>Le salaire mensuel de base se réfère à une grille indiciaire qui commence à 195 points ; il s'obtient en multipliant le nombre de points affectés à la fonction par la valeur du point. La valeur du point est déterminée chaque année par la commission paritaire nationale en fonction de l'évolution du coût de la vie. Au 1er juillet 2005, la valeur du point est de :</p><p>- 6,303 Euros pour les salaires inférieurs ou égaux à 400 points ;</p><p>- 6,034 Euros pour les salaires se situant entre 400 et 800 points compris ;</p><p>- 5,895 Euros pour les salaires supérieurs à 800 points.</p><p>12.2. Les salaires minima</p><p>Chaque emploi ne peut être rémunéré à un niveau inférieur à un seuil fixé pour chaque emploi de la façon suivante :</p><p><table><tbody><tr><td>FAMILLE D'EMPLOIS </td><td>EMPLOIS </td><td>NOMBRE </td></tr><tr><td></td><td></td><td>minimum </td></tr><tr><td></td><td></td><td>de points </td></tr><tr><td>Entretien et </td><td>Ouvrier d'entretien </td><td></td></tr><tr><td>maintenance </td><td>ménager (1) </td><td>195 </td></tr><tr><td>Assistance </td><td>Secrétaire </td><td>222 </td></tr><tr><td></td><td>Assistant technique </td><td></td></tr><tr><td>Production </td><td>Technicien d'études </td><td>250 </td></tr><tr><td></td><td>Consultant conseil </td><td>280 </td></tr><tr><td></td><td>Responsable de domaine</td><td>280 </td></tr><tr><td>Encadrement </td><td>Responsable d'entité </td><td></td></tr><tr><td></td><td>Directeur </td><td>500 </td></tr></tbody></table></p><p>Ces minima salariaux constituent la base commune aux entreprises de la branche professionnelle. Leur application fera l'objet d'une négociation collective, ouverte dans l'année suivant la signature de la présente convention, au niveau des entreprises ou au niveau de leurs structures de regroupement en cohérence avec les dispositions de l'article 11.3. 12.3. Les compléments de rémunération</p><p>Les compléments de rémunération se composent des éléments suivants :</p><p>- une prime d'ancienneté de 1 % par année d'ancienneté (telle qu'elle est définie à l'article 3.8) qui s'applique aux salariés dont l'indice de salaire est inférieur ou égal à 400 points ; elle est plafonnée à 18 % ;</p><p>- un 13e mois attribué en fin d'année égal au salaire du mois de décembre ;</p><p>- un complément de salaire de vacances égal à la moitié du salaire du mois de juin et payé à la fin de ce mois ;</p><p>- une prime de fin d'année qui ne peut être inférieure à 111 points (valeur du point de la tranche salariale inférieure à 400 points ;</p><p>- une prime de mariage ou de Pacs accordée après 1 an d'ancienneté ; elle est égale à 111 points (valeur du point de la tranche salariale inférieure à 400 points) ;</p><p>- une prime de naissance accordée en cas de naissance ou d'adoption d'un enfant du salarié après 1 an d'ancienneté ; elle correspond à 56 points (valeur du point de la tranche salariale inférieure à 400 points).</p><p>En outre, des indemnités exceptionnelles peuvent être accordées par la direction, notamment en cas de surcroît de travail résultant de circonstances particulières.</p><p>En cas d'embauchage, de licenciement ou de démission en cours d'année, ou de congé sans solde ou de travail permanent à temps partiel, le 13e mois et la prime de fin d'année subissent une réfaction tenant compte de la durée effective de travail dans l'année civile. La réfaction sur le complément de salaire de vacances tiendra compte de la durée effective de travail dans l'année de référence des congés payés (du 1er juin de l'année précédente au 31 mai de l'année en cours).</p><p>Les modalités pratiques de gestion de ces primes pourront faire l'objet d'accords particuliers.</p>",
-                  "etat": "VIGUEUR_ETEN",
+                  "content": "<p></p>   Le présent accord s'inscrit dans le cadre de l'article 12-1 \" le salaire mensuel de base \" de la convention collective nationale des organisations professionnelles de l'habitat social.<p></p> Contenu de l'accord<p></p><p></p>   A l'issue de la réunion de la commission paritaire nationale du 25 janvier 2007, au cours de laquelle chacune des parties a fait valoir ses arguments, le collège employeurs et le collège salariés ont convenu d'une revalorisation de la valeur du point qui interviendra aux échéances de janvier 2007 et octobre 2007 dans les conditions suivantes :<p></p><p></p>   - au 1er janvier 2007 : 0,7 % ;<p></p><p></p>   - au 1er octobre 2007 : 0,7 %.<p></p><p></p>   Au 1er janvier, la valeur du point sera donc de :<p></p><p></p>   - 6,481 Euros pour les salaires inférieurs ou égaux à 400 points ;<p></p><p></p>   - 6,205 Euros pour les salaires se situant entre 400 et 800 points ;<p></p><p></p>   - 6,062 Euros pour les salaires supérieurs à 800 points.<p></p><p></p>   Au 1er octobre, la valeur du point sera donc de :<p></p><p></p>   - 6,526 Euros pour les salaires inférieurs ou égaux à 400 points ;<p></p><p></p>   - 6,249 Euros pour les salaires se situant entre 400 et 800 points ;<p></p><p></p>   - 6,105 Euros pour les salaires supérieurs à 800 points.<p></p><p></p>   Les membres de la commission paritaire nationale des organisations professionnelles de l'habitat social ont convenu de se réunir en octobre 2007 pour étudier la nécessité ou non, en fonction de l'évolution du coût de la vie (indice INSEE \" ensemble des ménages hors tabac France entière \"), d'une revalorisation complémentaire de la valeur du point.<p></p> Durée de l'accord<p></p> Le présent accord est valable pour une durée de 1 an.<p></p><p></p>   Fait à Paris, le 25 janvier 2007.<p></p>",
+                  "etat": "VIGUEUR_NON_ETEN",
                   "surtitre": "Salaires"
                 }
               ]

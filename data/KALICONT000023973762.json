@@ -1,25 +1,26 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale des omnipraticiens exerçant dans les centres de santé miniers du 23 janvier 2008",
   "id": "KALICONT000023973762",
   "num": "2727",
-  "title": "Convention collective nationale des omnipraticiens exerçant dans les centres de santé miniers du 23 janvier 2008",
   "shortTitle": "Omnipraticiens Centres De Santé Miniers",
-  "categorisation": [
-    "Omnipraticiens exerçant dans les centres de santé miniers"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000023973767",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale des omnipraticiens exerçant dans les centres de santé miniers du 23 janvier 2008",
+      "id": "KALITEXT000023973767",
       "etat": "VIGUEUR_NON_ETEN",
-      "sections": [
+      "children": [
         {
-          "id": "KALISCTA000023973769",
+          "type": "section",
           "intOrdre": 524287,
           "title": "Préambule",
+          "id": "KALISCTA000023973769",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973785",
               "num": null,
               "intOrdre": 524287,
@@ -29,12 +30,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023973770",
+          "type": "section",
           "intOrdre": 1048574,
           "title": "Titre Ier Dispositions générales",
+          "id": "KALISCTA000023973770",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973789",
               "num": "2",
               "intOrdre": 1048574,
@@ -45,12 +48,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023973771",
+          "type": "section",
           "intOrdre": 1572861,
           "title": "Titre II Missions et devoirs des omnipraticiens",
+          "id": "KALISCTA000023973771",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973791",
               "num": "4",
               "intOrdre": 1048574,
@@ -61,12 +66,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023973772",
+          "type": "section",
           "intOrdre": 2097148,
           "title": "Titre III Garanties fondamentales reconnues aux omnipraticiens",
+          "id": "KALISCTA000023973772",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973792",
               "num": "5",
               "intOrdre": 524287,
@@ -77,12 +84,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023973773",
+          "type": "section",
           "intOrdre": 2621435,
           "title": "Titre IV Organisation de l'activité médicale des omnipraticiens",
+          "id": "KALISCTA000023973773",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973802",
               "num": "13",
               "intOrdre": 4194296,
@@ -93,12 +102,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023973774",
+          "type": "section",
           "intOrdre": 3145722,
           "title": "Titre V Modalités de recrutement des omnipraticiens",
+          "id": "KALISCTA000023973774",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973807",
               "num": "18",
               "intOrdre": 2621435,
@@ -109,18 +120,21 @@
           ]
         },
         {
-          "id": "KALISCTA000023973775",
+          "type": "section",
           "intOrdre": 3670009,
           "title": "Titre VI Rémunération et avantages accordés aux omnipraticiens",
+          "id": "KALISCTA000023973775",
           "etat": "VIGUEUR_NON_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000023973808",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Chapitre Ier Rémunération principale",
+              "id": "KALISCTA000023973808",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023973847",
                   "num": "27",
                   "intOrdre": 4718583,
@@ -131,12 +145,14 @@
               ]
             },
             {
-              "id": "KALISCTA000023973809",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre II Avantages en nature",
+              "id": "KALISCTA000023973809",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023973852",
                   "num": "32",
                   "intOrdre": 2621435,
@@ -149,12 +165,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023973776",
+          "type": "section",
           "intOrdre": 4194296,
           "title": "Titre VII Classement conventionnel",
+          "id": "KALISCTA000023973776",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973813",
               "num": "36",
               "intOrdre": 2097148,
@@ -165,12 +183,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023973777",
+          "type": "section",
           "intOrdre": 4718583,
           "title": "Titre VIII Régime des congés",
+          "id": "KALISCTA000023973777",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973818",
               "num": "40",
               "intOrdre": 2097148,
@@ -181,12 +201,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023973778",
+          "type": "section",
           "intOrdre": 5242870,
           "title": "Titre IX Formation",
+          "id": "KALISCTA000023973778",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973820",
               "num": "42",
               "intOrdre": 1048574,
@@ -197,12 +219,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023973779",
+          "type": "section",
           "intOrdre": 5767157,
           "title": "Titre X Couverture sociale complémentaire",
+          "id": "KALISCTA000023973779",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973821",
               "num": "43",
               "intOrdre": 524287,
@@ -213,18 +237,21 @@
           ]
         },
         {
-          "id": "KALISCTA000023973780",
+          "type": "section",
           "intOrdre": 6291444,
           "title": "Titre XI Mobilité",
+          "id": "KALISCTA000023973780",
           "etat": "VIGUEUR_NON_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000023973822",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Chapitre Ier Mobilité à l'initiative du salarié",
+              "id": "KALISCTA000023973822",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023973853",
                   "num": "44",
                   "intOrdre": 524287,
@@ -234,12 +261,14 @@
               ]
             },
             {
-              "id": "KALISCTA000023973823",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre II Mobilité à l'initiative de l'employeur",
+              "id": "KALISCTA000023973823",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023973858",
                   "num": "49",
                   "intOrdre": 2621435,
@@ -252,12 +281,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023973781",
+          "type": "section",
           "intOrdre": 6815731,
           "title": "Titre XII Discipline",
+          "id": "KALISCTA000023973781",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973826",
               "num": "52",
               "intOrdre": 1572861,
@@ -268,12 +299,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023973782",
+          "type": "section",
           "intOrdre": 7340018,
           "title": "Titre XIII Cessation d'activité",
+          "id": "KALISCTA000023973782",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973831",
               "num": "56",
               "intOrdre": 2097148,
@@ -284,18 +317,21 @@
           ]
         },
         {
-          "id": "KALISCTA000023973783",
+          "type": "section",
           "intOrdre": 7864305,
           "title": "Titre XIV Commissions paritaires nationale et régionale",
+          "id": "KALISCTA000023973783",
           "etat": "VIGUEUR_NON_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000023973832",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Chapitre Ier Commission paritaire nationale",
+              "id": "KALISCTA000023973832",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023973861",
                   "num": "59",
                   "intOrdre": 1572861,
@@ -306,12 +342,14 @@
               ]
             },
             {
-              "id": "KALISCTA000023973833",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre II Commission paritaire régionale",
+              "id": "KALISCTA000023973833",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023973864",
                   "num": "62",
                   "intOrdre": 1572861,
@@ -322,12 +360,14 @@
               ]
             },
             {
-              "id": "KALISCTA000023973834",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Chapitre III Dispositions communes à la CPN et aux CPR",
+              "id": "KALISCTA000023973834",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023973874",
                   "num": "71",
                   "intOrdre": 5242870,
@@ -340,12 +380,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023973784",
+          "type": "section",
           "intOrdre": 8388592,
           "title": "Titre XV dispositions diverses",
+          "id": "KALISCTA000023973784",
           "etat": "VIGUEUR_NON_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973838",
               "num": "75",
               "intOrdre": 2097148,
@@ -358,17 +400,19 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000023973875",
+          "type": "section",
           "title": "Annexe I Calcul du salaire 23 janvier 2008",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000023973875",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973877",
               "num": null,
               "intOrdre": 524287,
@@ -378,11 +422,12 @@
           ]
         },
         {
-          "id": "KALITEXT000023973878",
+          "type": "section",
           "title": "Annexe II Modèle de contrat de travail 23 janvier 2008",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000023973878",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023973880",
               "num": null,
               "intOrdre": 524287,
@@ -390,6 +435,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023973881",
               "num": "1er",
               "intOrdre": 1048574,
@@ -398,6 +444,7 @@
               "surtitre": "Engagement"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023973885",
               "num": "2",
               "intOrdre": 1572861,
@@ -406,6 +453,7 @@
               "surtitre": "Fonctions et lieu de travail"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023973886",
               "num": "3",
               "intOrdre": 2097148,
@@ -414,6 +462,7 @@
               "surtitre": "Rémunération"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023973887",
               "num": "5",
               "intOrdre": 2621435,
@@ -422,6 +471,7 @@
               "surtitre": "Durée du travail"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023973888",
               "num": "7",
               "intOrdre": 3145722,
@@ -430,6 +480,7 @@
               "surtitre": "Période d'essai"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023973889",
               "num": "8",
               "intOrdre": 3670009,
@@ -438,6 +489,7 @@
               "surtitre": "Durée du contrat"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023973890",
               "num": "9",
               "intOrdre": 4194296,
@@ -446,6 +498,7 @@
               "surtitre": "Avantages sociaux"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023973891",
               "num": "10",
               "intOrdre": 4718583,
@@ -454,6 +507,7 @@
               "surtitre": "Obligations du médecin"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023973893",
               "num": "11",
               "intOrdre": 5242870,
@@ -462,6 +516,7 @@
               "surtitre": "Modalités d'exercice d'une activité extérieure"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023973894",
               "num": "13",
               "intOrdre": 5767157,
@@ -472,26 +527,19 @@
           ]
         },
         {
-          "id": "KALITEXT000023973895",
+          "type": "section",
           "title": "Annexe III Comité médical consultatif local 23 janvier 2008",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000023973895",
+          "children": [
             {
-              "id": "KALIARTI000023973897",
-              "num": "1er",
-              "intOrdre": 524287,
-              "content": "<p align='left'><br/>Conformément à l'article 72 de la convention collective des omnipraticiens exerçant dans les centres de santé miniers et à l'article 15 de la convention nationale des médecins spécialistes à temps plein de la sécurité sociale minière du 21 mai 1971, les omnipraticiens et les médecins spécialistes sont associés à l'élaboration et à la mise en pratique des mesures de politique médicale et sanitaire de la sécurité sociale minière qui sont spécifiquement en rapport avec l'exercice de leur profession dans les conditions prévues dans la présente annexe.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000023973898",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Section 1 Composition",
+              "id": "KALISCTA000023973898",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023973901",
                   "num": "2",
                   "intOrdre": 524287,
@@ -499,6 +547,7 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000023973902",
                   "num": "3",
                   "intOrdre": 1048574,
@@ -506,6 +555,7 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000023973903",
                   "num": "4",
                   "intOrdre": 1572861,
@@ -515,12 +565,14 @@
               ]
             },
             {
-              "id": "KALISCTA000023973899",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Section 2 Attributions",
+              "id": "KALISCTA000023973899",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023973904",
                   "num": "5",
                   "intOrdre": 524287,
@@ -528,6 +580,7 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000023973905",
                   "num": "6",
                   "intOrdre": 1048574,
@@ -537,12 +590,14 @@
               ]
             },
             {
-              "id": "KALISCTA000023973900",
+              "type": "section",
               "intOrdre": 2097148,
               "title": "Section 3 Fonctionnement",
+              "id": "KALISCTA000023973900",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023973906",
                   "num": "7",
                   "intOrdre": 524287,
@@ -550,6 +605,7 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000023973907",
                   "num": "8",
                   "intOrdre": 1048574,
@@ -557,6 +613,7 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000023973908",
                   "num": "9",
                   "intOrdre": 1572861,
@@ -564,6 +621,7 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000023973909",
                   "num": "10",
                   "intOrdre": 2097148,
@@ -571,6 +629,14 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000023973897",
+              "num": "1er",
+              "intOrdre": 524287,
+              "content": "<p align='left'><br/>Conformément à l'article 72 de la convention collective des omnipraticiens exerçant dans les centres de santé miniers et à l'article 15 de la convention nationale des médecins spécialistes à temps plein de la sécurité sociale minière du 21 mai 1971, les omnipraticiens et les médecins spécialistes sont associés à l'élaboration et à la mise en pratique des mesures de politique médicale et sanitaire de la sécurité sociale minière qui sont spécifiquement en rapport avec l'exercice de leur profession dans les conditions prévues dans la présente annexe.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
             }
           ]
         }

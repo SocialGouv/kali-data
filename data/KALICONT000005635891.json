@@ -1,40 +1,33 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale du personnel de la reprographie du 18 décembre 1972. Mise à jour en juin 1976.  Etendue par arrêté du 23 novembre 1976 JONC 19 décembre 1976.",
   "id": "KALICONT000005635891",
   "num": "706",
-  "title": "Convention collective nationale du personnel de la reprographie du 18 décembre 1972. Mise à jour en juin 1976.  Etendue par arrêté du 23 novembre 1976 JONC 19 décembre 1976.",
   "shortTitle": "Reprographie",
-  "categorisation": [
-    "Personnel de la reprographie"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000005639890",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale du personnel de la reprographie du 18 décembre 1972. Mise à jour en juin 1976.  Etendue par arrêté du 23 novembre 1976 JONC 19 décembre 1976.",
+      "id": "KALITEXT000005639890",
       "etat": "VIGUEUR_ETEN",
-      "sections": [
+      "children": [
         {
-          "id": "KALISCTA000005689789",
+          "type": "section",
           "intOrdre": 42949,
           "title": "Première partie : préambule - Programme - Durée - Divers",
+          "id": "KALISCTA000005689789",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
-              "id": "KALIARTI000005765913",
-              "num": "8",
-              "intOrdre": 250535,
-              "content": "<p></p>   a) L'une ou l'autre des parties signataires peut demander la révision d'un ou plusieurs points de la présente convention, à la condition d'en formuler la demande, par lettre recommandée, le 31 décembre au plus tard, la ou les modifications demandées devant avoir effet le 1er avril suivant.<p></p><p></p>   b) Si l'accord des autres parties signataires n'est pas obtenu en temps utile, le texte établi restera en vigueur pendant un maximum de six mois à compter du 1er avril, étant entendu que les organisations signataires utiliseront ce délai pour instituer telle procédure adéquate d'arbitrage et qu'elles se déclarent d'accord pour accepter et appliquer la décision arbitrale.<p></p><p></p>   c) La possibilité de révision prévue à l'alinéa ci-dessus du présent article ne saurait être admise avant le 1er janvier 1975.<p></p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000005733821",
+              "type": "section",
               "intOrdre": 386541,
               "title": "Avenants régionaux - Clauses diverses",
+              "id": "KALISCTA000005733821",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765917",
                   "num": "12",
                   "intOrdre": 171796,
@@ -42,22 +35,33 @@
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000005765913",
+              "num": "8",
+              "intOrdre": 250535,
+              "content": "<p></p>   a) L'une ou l'autre des parties signataires peut demander la révision d'un ou plusieurs points de la présente convention, à la condition d'en formuler la demande, par lettre recommandée, le 31 décembre au plus tard, la ou les modifications demandées devant avoir effet le 1er avril suivant.<p></p><p></p>   b) Si l'accord des autres parties signataires n'est pas obtenu en temps utile, le texte établi restera en vigueur pendant un maximum de six mois à compter du 1er avril, étant entendu que les organisations signataires utiliseront ce délai pour instituer telle procédure adéquate d'arbitrage et qu'elles se déclarent d'accord pour accepter et appliquer la décision arbitrale.<p></p><p></p>   c) La possibilité de révision prévue à l'alinéa ci-dessus du présent article ne saurait être admise avant le 1er janvier 1975.<p></p>",
+              "etat": "VIGUEUR_ETEN"
             }
           ]
         },
         {
-          "id": "KALISCTA000005689790",
+          "type": "section",
           "intOrdre": 85898,
           "title": "Deuxième partie : Clauses communes à tout le personnel",
+          "id": "KALISCTA000005689790",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005733822",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Liberté syndicale et liberté d'opinion",
+              "id": "KALISCTA000005733822",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765920",
                   "num": "203",
                   "intOrdre": 128847,
@@ -67,12 +71,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733823",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Panneaux d'affichage",
+              "id": "KALISCTA000005733823",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765923",
                   "num": "204",
                   "intOrdre": 85898,
@@ -82,12 +88,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733824",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Délégués du personnel - Comités d'entreprise",
+              "id": "KALISCTA000005733824",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765924",
                   "num": "205",
                   "intOrdre": 42949,
@@ -97,12 +105,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733825",
+              "type": "section",
               "intOrdre": 171796,
               "title": "Salaire (1)",
+              "id": "KALISCTA000005733825",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765926",
                   "num": "207",
                   "intOrdre": 85898,
@@ -112,12 +122,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733826",
+              "type": "section",
               "intOrdre": 214745,
               "title": "Salaire (1)",
+              "id": "KALISCTA000005733826",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765927",
                   "num": "208",
                   "intOrdre": 42949,
@@ -127,12 +139,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733828",
+              "type": "section",
               "intOrdre": 257694,
               "title": "Règlement intérieur",
+              "id": "KALISCTA000005733828",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765928",
                   "num": "209",
                   "intOrdre": 42949,
@@ -142,12 +156,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733829",
+              "type": "section",
               "intOrdre": 300643,
               "title": "Suspension du contrat de travail",
+              "id": "KALISCTA000005733829",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765930",
                   "num": "211",
                   "intOrdre": 85898,
@@ -157,12 +173,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733830",
+              "type": "section",
               "intOrdre": 343592,
               "title": "Régime complémentaire de retraite et de prévoyance",
+              "id": "KALISCTA000005733830",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765931",
                   "num": "212",
                   "intOrdre": 42949,
@@ -172,12 +190,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733831",
+              "type": "section",
               "intOrdre": 386541,
               "title": "Ancienneté dans l'entreprise",
+              "id": "KALISCTA000005733831",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765933",
                   "num": "214",
                   "intOrdre": 85898,
@@ -187,12 +207,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733832",
+              "type": "section",
               "intOrdre": 429490,
               "title": "Congés exceptionnels pour événements familiaux",
+              "id": "KALISCTA000005733832",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765936",
                   "num": "216",
                   "intOrdre": 85898,
@@ -202,12 +224,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733833",
+              "type": "section",
               "intOrdre": 472439,
               "title": "Engagement - Licenciement",
+              "id": "KALISCTA000005733833",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765937",
                   "num": "217",
                   "intOrdre": 42949,
@@ -217,12 +241,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733834",
+              "type": "section",
               "intOrdre": 515388,
               "title": "Conciliation - Arbitrage",
+              "id": "KALISCTA000005733834",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765939",
                   "num": "219",
                   "intOrdre": 85898,
@@ -232,12 +258,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733835",
+              "type": "section",
               "intOrdre": 558337,
               "title": "I - Organismes de conciliation et d'arbitrage Les commissions - Compétence des commissions",
+              "id": "KALISCTA000005733835",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765943",
                   "num": "222",
                   "intOrdre": 128847,
@@ -247,12 +275,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733837",
+              "type": "section",
               "intOrdre": 601286,
               "title": "II - Déroulement de la procédure Conciliation par la commission régionale",
+              "id": "KALISCTA000005733837",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765949",
                   "num": "228",
                   "intOrdre": 257694,
@@ -262,12 +292,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733838",
+              "type": "section",
               "intOrdre": 644235,
               "title": "II - Déroulement de la procédure Procédure à suivre devant la commission nationale",
+              "id": "KALISCTA000005733838",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765955",
                   "num": "233",
                   "intOrdre": 214745,
@@ -277,12 +309,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733839",
+              "type": "section",
               "intOrdre": 687184,
               "title": "III - Cadres et agents de maîtrise",
+              "id": "KALISCTA000005733839",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765956",
                   "num": "234",
                   "intOrdre": 42949,
@@ -292,12 +326,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733840",
+              "type": "section",
               "intOrdre": 730133,
               "title": "III - Cadres et agents de maîtrise Exécution des accords de conciliation et des sentences arbitrales",
+              "id": "KALISCTA000005733840",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765958",
                   "num": "236",
                   "intOrdre": 85898,
@@ -309,18 +345,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005689791",
+          "type": "section",
           "intOrdre": 128847,
           "title": "Troisième partie : Clauses particulières au personnel \"ouvriers\"",
+          "id": "KALISCTA000005689791",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005733842",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Durée du travail - Horaires",
+              "id": "KALISCTA000005733842",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765961",
                   "num": "303",
                   "intOrdre": 128847,
@@ -330,12 +369,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733843",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Travail des jours fériés",
+              "id": "KALISCTA000005733843",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765962",
                   "num": "304",
                   "intOrdre": 42949,
@@ -345,12 +386,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733844",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Travail en plusieurs équipes",
+              "id": "KALISCTA000005733844",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765963",
                   "num": "305",
                   "intOrdre": 42949,
@@ -360,12 +403,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733845",
+              "type": "section",
               "intOrdre": 171796,
               "title": "Jours fériés",
+              "id": "KALISCTA000005733845",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765967",
                   "num": "308",
                   "intOrdre": 128847,
@@ -375,12 +420,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733846",
+              "type": "section",
               "intOrdre": 214745,
               "title": "Congés payés",
+              "id": "KALISCTA000005733846",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765970",
                   "num": "311",
                   "intOrdre": 128847,
@@ -390,12 +437,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733847",
+              "type": "section",
               "intOrdre": 257694,
               "title": "Obligations militaires",
+              "id": "KALISCTA000005733847",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765971",
                   "num": "312",
                   "intOrdre": 42949,
@@ -405,12 +454,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733848",
+              "type": "section",
               "intOrdre": 300643,
               "title": "Travail des femmes et des jeunes",
+              "id": "KALISCTA000005733848",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765973",
                   "num": "314",
                   "intOrdre": 85898,
@@ -420,12 +471,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733850",
+              "type": "section",
               "intOrdre": 343592,
               "title": "Embauche - Délai-congé",
+              "id": "KALISCTA000005733850",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765974",
                   "num": "315",
                   "intOrdre": 42949,
@@ -435,12 +488,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733851",
+              "type": "section",
               "intOrdre": 386541,
               "title": "Indemnité de licenciement",
+              "id": "KALISCTA000005733851",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765976",
                   "num": "316",
                   "intOrdre": 85898,
@@ -450,12 +505,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733852",
+              "type": "section",
               "intOrdre": 429490,
               "title": "Licenciement en cas de baisse de travail",
+              "id": "KALISCTA000005733852",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765978",
                   "num": "318 (1)",
                   "intOrdre": 85898,
@@ -465,12 +522,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733853",
+              "type": "section",
               "intOrdre": 472439,
               "title": "Prime annuelle",
+              "id": "KALISCTA000005733853",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765981",
                   "num": "319",
                   "intOrdre": 85898,
@@ -483,18 +542,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005689792",
+          "type": "section",
           "intOrdre": 171796,
           "title": "Quatrième partie : Clauses particulières au personnel \"employés\"",
+          "id": "KALISCTA000005689792",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000005733855",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Durée du travail",
+              "id": "KALISCTA000005733855",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765984",
                   "num": "401",
                   "intOrdre": 42949,
@@ -504,12 +566,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733856",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Heures supplémentaires",
+              "id": "KALISCTA000005733856",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765985",
                   "num": "402",
                   "intOrdre": 42949,
@@ -519,12 +583,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733857",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Travail des jours fériés",
+              "id": "KALISCTA000005733857",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765986",
                   "num": "403",
                   "intOrdre": 42949,
@@ -534,12 +600,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733858",
+              "type": "section",
               "intOrdre": 171796,
               "title": "Recrutement",
+              "id": "KALISCTA000005733858",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765987",
                   "num": "404",
                   "intOrdre": 42949,
@@ -549,12 +617,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733859",
+              "type": "section",
               "intOrdre": 214745,
               "title": "Période d'essai - Délai-congé",
+              "id": "KALISCTA000005733859",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765988",
                   "num": "405",
                   "intOrdre": 42949,
@@ -564,12 +634,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733860",
+              "type": "section",
               "intOrdre": 257694,
               "title": "Maladie ou accident",
+              "id": "KALISCTA000005733860",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765989",
                   "num": "406",
                   "intOrdre": 42949,
@@ -579,12 +651,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733861",
+              "type": "section",
               "intOrdre": 300643,
               "title": "Maternité",
+              "id": "KALISCTA000005733861",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765990",
                   "num": "407",
                   "intOrdre": 42949,
@@ -594,12 +668,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733863",
+              "type": "section",
               "intOrdre": 343592,
               "title": "Indemnité de licenciement",
+              "id": "KALISCTA000005733863",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765991",
                   "num": "408",
                   "intOrdre": 42949,
@@ -609,12 +685,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733864",
+              "type": "section",
               "intOrdre": 386541,
               "title": "Suppression d'emploi",
+              "id": "KALISCTA000005733864",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765992",
                   "num": "409",
                   "intOrdre": 42949,
@@ -624,12 +702,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733865",
+              "type": "section",
               "intOrdre": 429490,
               "title": "Congés payés",
+              "id": "KALISCTA000005733865",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765993",
                   "num": "410",
                   "intOrdre": 42949,
@@ -639,12 +719,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733866",
+              "type": "section",
               "intOrdre": 472439,
               "title": "Service militaire",
+              "id": "KALISCTA000005733866",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765994",
                   "num": "411",
                   "intOrdre": 42949,
@@ -654,12 +736,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733867",
+              "type": "section",
               "intOrdre": 515388,
               "title": "Travail sur machines mécanographiques",
+              "id": "KALISCTA000005733867",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765995",
                   "num": "412",
                   "intOrdre": 42949,
@@ -669,12 +753,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733868",
+              "type": "section",
               "intOrdre": 558337,
               "title": "Prime annuelle",
+              "id": "KALISCTA000005733868",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005765998",
                   "num": "413",
                   "intOrdre": 85898,
@@ -685,12 +771,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733870",
+              "type": "section",
               "intOrdre": 644235,
               "title": "Classification",
+              "id": "KALISCTA000005733870",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000035692438",
                   "num": "415",
                   "intOrdre": 42949,
@@ -702,27 +790,21 @@
           ]
         },
         {
-          "id": "KALISCTA000005689794",
+          "type": "section",
           "intOrdre": 214745,
           "title": "Cinquième partie : Clauses particulières au personnel \"cadres et agents de maitrise\"",
+          "id": "KALISCTA000005689794",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
-              "id": "KALIARTI000005766001",
-              "num": "501",
-              "intOrdre": 42949,
-              "content": "<p></p>   Les parties signataires confirment ici l'esprit de collaboration étroite et confiante qui règne entre les adhérents et leurs organisations.<p></p><p></p>   Les rapports réciproques, outre les contrats de travail, sont ainsi réglés par un engagement moral comportant :<p></p><p></p>   A. - De la part de l'employeur : la confiance due à une collaboration totale et à l'utilisation la meilleure des aptitudes, reconnues, du cadre ou agent de maîtrise, compte tenu des possibilités de l'entreprise.<p></p><p></p>   L'employeur s'emploiera à sauvegarder le respect auquel les cadres et agents de maîtrise ont droit de la part de leurs subordonnés et du personnel en général, notamment en couvrant de son autorité les actes de commandement exercés par eux dans la limite de leurs attributions et en s'opposant à tout empiètement de personnes non qualifiées sur les fonctions dévolues aux cadres et agents de maîtrise de l'entreprise.<p></p><p></p>   B. - De la part des cadres et agents de maîtrise : l'apport sans réserve de leur expérience et de leurs qualités professionnelles et morales.<p></p><p></p>   En les investissant d'une autorité qui implique la confiance, les employeurs sont en droit de compter, en retour, sur l'entier dévouement et la conscience professionnelle des cadres et agents de maîtrise qui s'interdisent de collaborer ou de travailler ailleurs que dans l'entreprise qui leur assure le plein emploi, à moins d'autorisation écrite.<p></p><p></p>   Les cadres et agents de maîtrise doivent :<p></p><p></p>   1° Etre capables de prendre des initiatives et d'assumer des responsabilités ;<p></p><p></p>   2° Avoir acquis, par des études professionnelles ou par une longue expérience, une formation technique qui leur permet d'assurer la bonne marche de leur service ;<p></p><p></p>   3° S'entretenir et se perfectionner dans la technique de leur profession par tous moyens en leur pouvoir et mis à leur disposition ;<p></p><p></p>   Dans ce but, les employeurs mettront à leur disposition, notamment par la communication de documents et publications, les moyens matériels et, dans la mesure du possible, le temps nécessaire pour s'entretenir et se perfectionner professionnellement.<p></p><p></p>   Dans leurs relations avec le personnel, les cadres et agents de maîtrise doivent s'employer à faire respecter, avec l'autorité patronale et hiérarchique nécessaire à la bonne marche de l'entreprise, celle qui s'attache aux fonctions dont eux-mêmes sont investis.<p></p><p></p>   Ils doivent donc faire preuve de qualités morales indiscutables pour s'imposer sans conteste au personnel dont la direction leur est confiée.<p></p><p></p>   A cet effet, ils s'interdiront toute activité susceptible d'altérer la confiance mise en eux et de ruiner leur autorité.<p></p><p></p>   Ils s'engagent à respecter et à faire respecter la liberté d'opinion et la liberté syndicale de tout le personnel et à exercer avec mesure, justice et bienveillance, dans le cadre et l'esprit de la convention collective et des divers accords paritaires en vigueur.<p></p><p></p>   En outre, ils observeront une discrétion pour tout ce qui concerne les méthodes de fabrication ayant un caractère incontestablement secret, ainsi que sur les renseignements d'ordre comptable et commercial que leurs fonctions les appellent à connaître.<p></p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000005733871",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Définition des cadres et agents de maîtrise",
+              "id": "KALISCTA000005733871",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000030392941",
                   "num": "502 bis",
                   "intOrdre": 1073784772,
@@ -732,12 +814,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733873",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Appointements",
+              "id": "KALISCTA000005733873",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005766006",
                   "num": "505",
                   "intOrdre": 128847,
@@ -747,12 +831,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733874",
+              "type": "section",
               "intOrdre": 171796,
               "title": "Modification en cours de contrat",
+              "id": "KALISCTA000005733874",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005766007",
                   "num": "506",
                   "intOrdre": 42949,
@@ -762,12 +848,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733875",
+              "type": "section",
               "intOrdre": 214745,
               "title": "Délai-congé",
+              "id": "KALISCTA000005733875",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005766008",
                   "num": "507",
                   "intOrdre": 42949,
@@ -777,12 +865,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733876",
+              "type": "section",
               "intOrdre": 257694,
               "title": "Indemnité de licenciement",
+              "id": "KALISCTA000005733876",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000030800995",
                   "num": "508",
                   "intOrdre": 42949,
@@ -792,12 +882,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733877",
+              "type": "section",
               "intOrdre": 300643,
               "title": "Durée du travail",
+              "id": "KALISCTA000005733877",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005766011",
                   "num": "509",
                   "intOrdre": 42949,
@@ -807,12 +899,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733878",
+              "type": "section",
               "intOrdre": 343592,
               "title": "Congés",
+              "id": "KALISCTA000005733878",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005766012",
                   "num": "510",
                   "intOrdre": 42949,
@@ -822,12 +916,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733879",
+              "type": "section",
               "intOrdre": 386541,
               "title": "Périodes militaires",
+              "id": "KALISCTA000005733879",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005766013",
                   "num": "511",
                   "intOrdre": 42949,
@@ -837,12 +933,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733880",
+              "type": "section",
               "intOrdre": 429490,
               "title": "Déplacements",
+              "id": "KALISCTA000005733880",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005766014",
                   "num": "512",
                   "intOrdre": 42949,
@@ -852,12 +950,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733882",
+              "type": "section",
               "intOrdre": 472439,
               "title": "Maladie",
+              "id": "KALISCTA000005733882",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005766015",
                   "num": "513",
                   "intOrdre": 42949,
@@ -867,12 +967,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733883",
+              "type": "section",
               "intOrdre": 515388,
               "title": "Prime annuelle",
+              "id": "KALISCTA000005733883",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005766018",
                   "num": "516",
                   "intOrdre": 128847,
@@ -882,12 +984,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733884",
+              "type": "section",
               "intOrdre": 558337,
               "title": "Régime de retraite et de prévoyance",
+              "id": "KALISCTA000005733884",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000029973794",
                   "num": "515",
                   "intOrdre": 85898,
@@ -897,12 +1001,14 @@
               ]
             },
             {
-              "id": "KALISCTA000005733885",
+              "type": "section",
               "intOrdre": 601286,
               "title": "Classification",
+              "id": "KALISCTA000005733885",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000030392938",
                   "num": "517",
                   "intOrdre": 85898,
@@ -910,37 +1016,33 @@
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000005766001",
+              "num": "501",
+              "intOrdre": 42949,
+              "content": "<p></p>   Les parties signataires confirment ici l'esprit de collaboration étroite et confiante qui règne entre les adhérents et leurs organisations.<p></p><p></p>   Les rapports réciproques, outre les contrats de travail, sont ainsi réglés par un engagement moral comportant :<p></p><p></p>   A. - De la part de l'employeur : la confiance due à une collaboration totale et à l'utilisation la meilleure des aptitudes, reconnues, du cadre ou agent de maîtrise, compte tenu des possibilités de l'entreprise.<p></p><p></p>   L'employeur s'emploiera à sauvegarder le respect auquel les cadres et agents de maîtrise ont droit de la part de leurs subordonnés et du personnel en général, notamment en couvrant de son autorité les actes de commandement exercés par eux dans la limite de leurs attributions et en s'opposant à tout empiètement de personnes non qualifiées sur les fonctions dévolues aux cadres et agents de maîtrise de l'entreprise.<p></p><p></p>   B. - De la part des cadres et agents de maîtrise : l'apport sans réserve de leur expérience et de leurs qualités professionnelles et morales.<p></p><p></p>   En les investissant d'une autorité qui implique la confiance, les employeurs sont en droit de compter, en retour, sur l'entier dévouement et la conscience professionnelle des cadres et agents de maîtrise qui s'interdisent de collaborer ou de travailler ailleurs que dans l'entreprise qui leur assure le plein emploi, à moins d'autorisation écrite.<p></p><p></p>   Les cadres et agents de maîtrise doivent :<p></p><p></p>   1° Etre capables de prendre des initiatives et d'assumer des responsabilités ;<p></p><p></p>   2° Avoir acquis, par des études professionnelles ou par une longue expérience, une formation technique qui leur permet d'assurer la bonne marche de leur service ;<p></p><p></p>   3° S'entretenir et se perfectionner dans la technique de leur profession par tous moyens en leur pouvoir et mis à leur disposition ;<p></p><p></p>   Dans ce but, les employeurs mettront à leur disposition, notamment par la communication de documents et publications, les moyens matériels et, dans la mesure du possible, le temps nécessaire pour s'entretenir et se perfectionner professionnellement.<p></p><p></p>   Dans leurs relations avec le personnel, les cadres et agents de maîtrise doivent s'employer à faire respecter, avec l'autorité patronale et hiérarchique nécessaire à la bonne marche de l'entreprise, celle qui s'attache aux fonctions dont eux-mêmes sont investis.<p></p><p></p>   Ils doivent donc faire preuve de qualités morales indiscutables pour s'imposer sans conteste au personnel dont la direction leur est confiée.<p></p><p></p>   A cet effet, ils s'interdiront toute activité susceptible d'altérer la confiance mise en eux et de ruiner leur autorité.<p></p><p></p>   Ils s'engagent à respecter et à faire respecter la liberté d'opinion et la liberté syndicale de tout le personnel et à exercer avec mesure, justice et bienveillance, dans le cadre et l'esprit de la convention collective et des divers accords paritaires en vigueur.<p></p><p></p>   En outre, ils observeront une discrétion pour tout ce qui concerne les méthodes de fabrication ayant un caractère incontestablement secret, ainsi que sur les renseignements d'ordre comptable et commercial que leurs fonctions les appellent à connaître.<p></p>",
+              "etat": "VIGUEUR_ETEN"
             }
           ]
         }
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000019242458",
-          "title": "Accord du 5 mars 2008 relatif aux classifications des emplois des ouvriers et ouvrières",
-          "dateParution": 1216857600000,
-          "articles": [
-            {
-              "id": "KALIARTI000019242461",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p><br/>Les organisations syndicales représentatives signataires conviennent de modifier les classifications « ouvriers-ouvrières », conformément aux dispositions de <a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000005639890&idArticle=KALIARTI000005765913&categorieLien=cid'>l'article 8 de la convention collective nationale de la reprographie. </a><br/>Le présent accord remplace et annule <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000018561972&categorieLien=cid'>l'accord paritaire du 12 septembre 2007 </a>portant le même objet.<br/>La nouvelle classification « ouvriers-ouvrières », modifiée par accord du 9 mars 1978, est remplacée par la suivante : </p><p><br/>Photocopie </p><p><div align='center'><center><table border='1'><tr><th>CLASSIFICATION </th><th>NIVEAU </th></tr><tr><td align='center'>Agent de production : <br/>Assure la bonne exécution des tâches qui lui sont confiées, et notamment : approvisionnement, reproduction noir et couleur, tri, finition, façonnage, mise sous enveloppe, mise sous film, conditionnement, stockage et expédition. </td><td align='center'>10, 00 </td></tr><tr><td align='center'>Agent de production confirmé : <br/>Assure de façon autonome la bonne exécution des tâches qui lui sont confiées, et notamment : approvisionnement, reproduction noir et couleur, tri, finition, façonnage, mise sous enveloppe, mise sous film, conditionnement, stockage et expédition. </td><td align='center'>10, 30 </td></tr><tr><td align='center'>Agent responsable de production : <br/>Anime, coordonne et contrôle les agents de production placés sous sa responsabilité opérationnelle (jusqu'à 10 salariés). Assure la planification et le lancement de la production en coordonnant l'ensemble des composantes d'une réalisation. <br/>Prend en charge la gestion et l'utilisation du parc matériels et assure le suivi qualitatif et quantitatif. </td><td align='center'>10, 70 </td></tr></table></center></div></p><p><br/>Impression numérique </p><p><div align='center'><center><table border='1'><tr><th>CLASSIFICATION </th><th>NIVEAU </th></tr><tr><td align='center'>Agent de production : <br/>Assure la bonne exécution des tâches qui lui sont confiées, et notamment : approvisionnement, contrôle et traitement des fichiers, impression noir et couleur, numérisation et indexation des documents, vectorisation stockage, tri, finition, façonnage, mise sous enveloppe, mise sous film, conditionnement, stockage et expédition. </td><td align='center'>10, 00 </td></tr><tr><td align='center'>Agent de production confirmé : <br/>Assure de façon autonome la bonne exécution des tâches qui lui sont confiées, et notamment : approvisionnement, contrôle et traitement des fichiers, impression noir et couleur, numérisation et indexation des documents, vectorisation stockage, tri, finition, façonnage, mise sous enveloppe, mise sous film, conditionnement, stockage et expédition. </td><td align='center'>10, 30 </td></tr><tr><td align='center'>Agent responsable de production : <br/>Anime, coordonne et contrôle les agents de production placés sous sa responsabilité opérationnelle (jusqu'à 10 salariés). Assure la planification et le lancement de la production en coordonnant l'ensemble des composantes d'une réalisation. <br/>Prend en charge la gestion et l'utilisation du parc matériels et logiciels et assure le suivi qualitatif et quantitatif. </td><td align='center'>10, 70 </td></tr></table></center></div></p><p><br/>Infographie et PAO </p><p><div align='center'><center><table border='1'><tr><th>CLASSIFICATION </th><th>NIVEAU </th></tr><tr><td align='center'>Opérateur : <br/>Assure la bonne exécution des tâches qui lui sont confiées, et notamment : réception, contrôle et traitement des fichiers, corrections et mise en pages, création de maquettes, numérisation avec retouches de photos et d'images, vectorisation. </td><td align='center'>10, 00 </td></tr><tr><td align='center'>Opérateur confirmé : <br/>Assure de façon autonome la bonne exécution des tâches qui lui sont confiées, et notamment : réception, contrôle et traitement des fichiers, corrections et mise en pages, création de maquettes, numérisation avec retouches de photos et d'images, vectorisation. </td><td align='center'>10, 30 </td></tr><tr><td align='center'>Agent responsable : <br/>Anime, coordonne et contrôle les opérateurs placés sous sa responsabilité opérationnelle (jusqu'à 10 salariés). <br/>Assure la planification et le lancement de la production en coordonnant l'ensemble des composantes d'une réalisation. <br/>Prend en charge la programmation et l'exploitation des logiciels et des matériels et assure le suivi qualitatif et quantitatif. 10, 70 </td></tr></table></center></div></p><p><br/>Duplireprographie </p><p><div align='center'><center><table border='1'><tr><th>CLASSIFICATION </th><th>NIVEAU </th></tr><tr><td align='center'>Duplireprographe préparant les éléments destinés aux machines avec encrage, insolation, développement, retouche : <br/>Format A4. </td><td align='center'>10, 00 </td></tr><tr><td align='center'>Duplireprographe sur machine avec encrage : <br/>Format A4 ; <br/>Format A3. </td><td align='center'>10, 30 </td></tr></table></center></div></p><p><br/>Photoreprographie </p><p><div align='center'><center><table border='1'><tr><th>CLASSIFICATION </th><th>NIVEAU </th></tr><tr><td align='center'>Photographe capable d'exécuter travaux trait avec cliché grandeur et restitution : <br/>1re catégorie. </td><td align='center'>10, 00 </td></tr><tr><td align='center'>Photographe capable d'exécuter prise de vue trait ou demi-teinte et d'effectuer tous tirages, petits et grands formats, contact ou agrandissement sur tous supports : <br/>2e catégorie. </td><td align='center'>10, 30 </td></tr><tr><td align='center'>Photographe capable d'exécuter : cliché trait, cliché photo-tramé et toute prise de vue. Il peut assurer tous travaux et toute responsabilité et éventuellement, faire fonction de chef d'équipe (jusqu'à 10 ouvriers) : <br/>3e catégorie. </td><td align='center'>10, 70 </td></tr></table></center></div></p><p><br/>Microreprographie </p><p><div align='center'><center><table border='1'><tr><th>CLASSIFICATION </th><th>NIVEAU </th></tr><tr><td align='center'>Opérateur chargé des travaux de préparation et de finition. </td><td align='center'>10, 00 </td></tr><tr><td align='center'>Opérateur capable d'exécuter prise de vue, développement : <br/>1re catégorie. </td><td align='center'>10, 00 </td></tr><tr><td align='center'>Opérateur capable d'exécuter contretypage, duplication, restitution : <br/>2e catégorie. </td><td align='center'>10, 70 </td></tr></table></center></div><br/>Les organisations syndicales signataires demandent l'extension du présent accord.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000035658091",
+          "type": "section",
           "title": "Accord du 30 mai 2017 relatif à la classification des employés",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000035658091",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000035658094",
               "num": null,
               "intOrdre": 524287,
@@ -950,167 +1052,12 @@
           ]
         },
         {
-          "id": "KALITEXT000029883824",
-          "title": "Accord du 30 septembre 2014 relatif à la classification des cadres",
-          "dateParution": 1418256000000,
-          "articles": [
-            {
-              "id": "KALIARTI000029883827",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p><br/>Les organisations syndicales représentatives signataires conviennent de modifier la classification « cadres » définies par l'article 517 de la <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000005639890&categorieLien=cid'>convention collective nationale du personnel de la reprographie</a>. <br/>Ainsi, une partie de l'article 517 est maintenant rédigée comme suit : </p><p><div align='center'><center><table border='1'><tr><th>Classification cadres </th><th>Niveau </th></tr><tr><td align='center'>Responsable de fabrication ayant sous ses ordres des contremaîtres </td><td align='center'>40.00 </td></tr><tr><td align='center'>Chef de fabrication, responsable général des ateliers ayant sous ses ordres des chefs d'atelier ou des contremaîtres </td><td align='center'>40.30 </td></tr><tr><td align='center'>Poste de direction d'entreprise </td><td align='center'>40.50 </td></tr></table></center></div></p><p><br/>Il est créé un article 502 bis rédigé comme suit : <br/>« Afin d'assurer la transition des nouveaux coefficients des catégories agents de maîtrise et cadres, les salariés dont le coefficient, à la date de l'accord du 30 septembre 2014, est de 300 à 457 conservent le statut qui leur était attribué. <br/>En conséquence, ceux ayant le statut agent de maîtrise se voient affecter un coefficient de 30.00 à 30.50 de la catégorie agents de maîtrise. <br/>Ceux ayant le statut cadre se voient affecter le coefficient 40.00 de la catégorie cadres. Dans ce cas, le salaire minimum, en moyenne annuelle, inclut la partie variable de la rémunération (hors prime conventionnelle). Le montant de la partie fixe doit au minimum être celui du salaire minimum de la catégorie 30.00 des agents de maîtrise. » <br/>Le présent accord sera soumis à extension. Il s'appliquera le premier jour du mois suivant son extension.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000029264674",
-          "title": "Accord du 8 avril 2014 relatif à la classification des agents de maîtrise",
-          "dateParution": 1405900800000,
-          "articles": [
-            {
-              "id": "KALIARTI000029264677",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p><br/>Les organisations syndicales représentatives signataires conviennent de modifier les classifications « agents de maîtrise » définies par l'article 517 de la convention collective nationale du personnel de la reprographie. <br/>Ainsi, partie de l'article 517 est maintenant rédigée comme suit : </p><p><div align='center'><center><table border='1'><tr><th colspan='3'>Classification </th><th>Niveau </th></tr><tr><td align='center'>Agent <br/>de maîtrise </td><td align='center'>Contremaître ayant sous ses ordres plus de 10 et jusqu'à 20 salariés </td><td align='center'>30.00 </td></tr><tr><td><br/></td><td align='center'>Chef d'atelier ayant sous ses ordres plus de 20 salariés </td><td align='center'>30.50 </td></tr></table></center></div></p><p><br/>Les organisations syndicales représentatives signataires conviennent de modifier les articles 502 et 515 de la convention collective nationale du personnel de la reprographie. <br/>A l'article 502, B. – Cadres, la mention : « Les agents de maîtrise dont le coefficient est égal ou supérieur à 300. » est supprimée. <br/>En conséquence, l'article 515 est maintenant rédigé comme suit : </p><p><br/>« Régime de retraite et de prévoyance </p><p><br/>L'application de la convention collective nationale du 14 mars 1947 agréée par arrêté du 31 mars 1947 et publiée au Journal officiel du 21 février 1949 concernant le régime complémentaire des cadres est obligatoire dans les professions visées par la présente convention pour tous les cadres et souhaitable en vertu de l'article 36 pour les agents de maîtrise. » <br/>Le présent accord sera soumis à extension.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000027448971",
-          "title": "Accord du 15 janvier 2013 relatif à l'égalité professionnelle entre les femmes et les hommes",
-          "dateParution": 32472144000000,
-          "articles": [
-            {
-              "id": "KALIARTI000027448975",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'>L'accord a un champ d'application identique à celui de la <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000005639890&categorieLien=cid'>convention collective nationale du personnel de la reprographie du 18 décembre 1972</a>.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Champ d'application de l'accord"
-            },
-            {
-              "id": "KALIARTI000027448976",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Les parties signataires rappellent que dans les entreprises où sont constituées une ou plusieurs sections d'organisations syndicales représentatives, les entreprises doivent engager chaque année une négociation sur les objectifs d'égalité professionnelle entre les femmes et les hommes dans l'entreprise ainsi que les mesures permettant de les atteindre. Cette négociation porte notamment sur les conditions d'accès à l'emploi, à la formation professionnelle et à la promotion professionnelle, les conditions de travail et d'emploi et en particulier celles des salariés à temps partiel, et l'articulation entre la vie professionnelle et les responsabilités familiales. Cette négociation porte également sur la possibilité prévue à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006742331&dateTexte=&categorieLien=cid'>article L. 241-3-1 du code de la sécurité sociale</a> de surcotiser à l'assurance-vieillesse pour les salariés à temps partiel et sur les conditions dans lesquelles l'employeur peut prendre en charge tout ou partie du supplément de cotisations.<br/>Cette négociation est engagée sur la base du rapport annuel portant sur la situation comparée des conditions générales d'emploi et de formation des femmes et des hommes dans l'entreprise (<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901989&dateTexte=&categorieLien=cid'>art. L. 2323-57 à L. 2323-59 du code du travail</a>).<br/>Cette négociation a lieu tous les 3 ans lorsqu'un accord collectif comportant de tels objectifs et mesures aura été signé dans l'entreprise.<br/>Depuis le 1er janvier 2012, il est rappelé que les entreprises d'au moins 50 salariés sont soumises à une pénalité à la charge de l'employeur lorsqu'elles ne sont pas couvertes par un accord ou un plan d'action relatifs à l'égalité professionnelle entre les femmes et les hommes.<br/>Dans le cadre de leur obligation annuelle de négocier sur les salaires effectifs (<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901757&dateTexte=&categorieLien=cid'>art. L. 2242-7 et suivants du code du travail</a>), les entreprises doivent définir et programmer les mesures permettant de supprimer les éventuels écarts de rémunération entre les femmes et les hommes.<br/>Dans les entreprises dépourvues de délégué syndical, dans celles qui ne sont pas soumises aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901709&dateTexte=&categorieLien=cid'>dispositions des articles L. 2232-21 à L. 2232-29 du code du travail</a> (dispositions permettant en l'absence de délégué syndical et sous certaines conditions, de négocier avec le comité d'entreprise, les délégués du personnel ou un ou plusieurs salariés mandatés), les entreprises devront prendre en compte les objectifs en matière d'égalité professionnelle entre les femmes et les hommes dans l'entreprise et les mesures permettant de les atteindre.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Obligation de négocier sur l'égalité professionnelle entre les femmes et les hommes"
-            },
-            {
-              "id": "KALIARTI000027448981",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'><br/>En vue d'assurer un recrutement équilibré au sein de la branche, il est rappelé que les critères retenus doivent s'appuyer sur les compétences et les qualifications du candidat. A cet égard, la branche se fixe comme objectif que le recrutement au sein des entreprises reflète le plus possible la répartition des candidatures entre les hommes et les femmes candidats, à profil équivalent.<br/>Dans cet esprit, les offres d'emploi externes sont rédigées et gérées de façon non discriminatoire. Les emplois à pourvoir doivent comporter la forme masculine et féminine à chaque fois que l'intitulé le permet (ex. : opérateur/opératrice).<br/>A projet professionnel, motivations, potentiel d'évolution et compétences comparables, les candidatures masculines et féminines sont analysées selon les mêmes critères.<br/>Les entreprises veillent également à ce que les processus de recrutement interne ou externe se déroulent dans les mêmes conditions pour les hommes et les femmes.<br/>Les signataires réaffirment que l'embauche, la rémunération à l'embauche et le positionnement d'un emploi dans la grille de classification ne doivent tenir compte ni du sexe ni de la situation de famille du titulaire de l'emploi.<br/>Dans le même esprit, bien entendu, l'état de grossesse d'une femme ne doit pas être pris en considération pour refuser de l'embaucher ou mettre fin à la période d'essai. En conséquence, il est interdit de rechercher ou de faire rechercher toute information concernant l'état de grossesse de l'intéressée. La femme candidate à un emploi n'est pas tenue de révéler son état de grossesse.<br/>Enfin, afin de permettre une meilleure représentation en matière de mixité lors du recrutement, les signataires s'engagent à promouvoir la mise en place d'actions prioritaires au niveau de l'entreprise, portant sur l'amélioration de l'accès des femmes et des hommes à des emplois sur des postes identifiés comme ayant une faible représentation féminine ou masculine. Les représentants du personnel doivent pouvoir faire des propositions d'actions visant à réduire, le cas échéant, les déséquilibres constatés.<br/>Des actions seront conduites afin de féminiser des emplois ou des métiers trop fortement masculinisés, mais aussi l'inverse. Ces actions seront définies après avoir déterminé les conditions d'adaptation de ces postes à la mixité : aménagement de postes, solutions ergonomiques, formation aux métiers techniques.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Préconisation de la branche en matière de recrutement"
-            },
-            {
-              "id": "KALIARTI000027448982",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Les femmes et les hommes doivent avoir les mêmes possibilités d'évolution de carrière.<br/>C'est pourquoi s'agissant en particulier de l'entretien professionnel, les entreprises retiendront des critères d'évaluation qui ne puissent conduire à une quelconque discrimination directe ou indirecte entre hommes et femmes.<br/>Elles mettront en œuvre les mesures permettant à l'ensemble des salariés (hommes et femmes) de mieux appréhender la diversité des métiers, et par voie de conséquence, d'élargir leurs possibilités d'évolution professionnelle.<br/>Les entreprises s'efforceront à ce qu'en matière d'évolution professionnelle, les congés de maternité, d'adoption et les congés parentaux soient sans incidence sur le déroulement de carrière des salariés concernés.<br/>Elles veilleront enfin à ce que l'accès des femmes aux postes où elles sont faiblement représentées, notamment aux postes à responsabilité, conduise à la représentation la plus équilibrée possible des hommes et des femmes à ces postes.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Promotion et évolution professionnelle"
-            },
-            {
-              "id": "KALIARTI000027448983",
-              "num": "5",
-              "intOrdre": 3145722,
-              "content": "<p align='left'><br/>L'entreprise s'efforcera de développer des aménagements d'horaires individuels et notamment l'accès au temps partiel, tant pour les femmes que pour les hommes. Les signataires rappellent à cet égard que les salariés à temps partiel qui souhaitent occuper ou reprendre un emploi à temps complet, et les salariés à temps complet qui souhaitent occuper ou reprendre un emploi à temps partiel dans le même établissement, ou à défaut dans la même entreprise, ont priorité pour l'attribution d'un emploi ressortissant à leur catégorie professionnelle ou d'un emploi équivalent.<br/>L'entreprise cherchera à développer les solutions, en matière d'organisation et d'aménagement, permettant de concilier vie familiale et vie professionnelle sans faire obstacle à l'évolution de carrière professionnelle.<br/>Afin de favoriser la mixité de l'accès aux postes de travail, l'entreprise pourra associer le CHSCT (ou, en son absence, le comité d'entreprise et les délégués du personnel) afin d'examiner les modalités d'organisation du travail et d'aménagement des postes, notamment en matière de contraintes physiques.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Organisation, aménagement et conditions de travail"
-            },
-            {
-              "id": "KALIARTI000027448984",
-              "num": "6",
-              "intOrdre": 3670009,
-              "content": "<p align='left'><br/>Les signataires soulignent que la formation professionnelle constitue l'un des leviers essentiels pour assurer une égalité de traitement entre les hommes et les femmes. Par le développement des compétences, la formation professionnelle concourt au principe d'égalité professionnelle entre les hommes et les femmes.<br/>Les signataires du présent accord réaffirment leur volonté :</p><p align='left'><br/>– de respecter l'égalité entre les hommes et les femmes dans l'accès à la formation professionnelle, tout en prenant en compte les contraintes liées à la vie familiale ;<br/>– de désigner parmi les publics prioritaires aux actions de formation, les femmes reprenant une activité professionnelle après un congé de maternité (et les hommes et les femmes après un congé d'adoption ou un congé parental) ;<br/>– de demander aux entreprises un égal accès des femmes et des hommes :<br/>– aux dispositifs de formation, de validation des acquis de l'expérience ou de bilan de compétences ;<br/>– aux contrats et périodes de professionnalisation.<br/>En conséquence, les parties signataires décident que les entreprises, dans le cadre de leur plan de formation, seront garantes que tous les salariés puissent bénéficier d'égales conditions d'accès à la formation professionnelle, quels que soient leur statut professionnel, leur sexe, âge et le niveau de formation visé, en s'efforçant de faire dispenser les formations le plus près possible du lieu de travail.<br/>Chaque entreprise de la branche s'efforcera de respecter, dans le nombre de salariés accédant à la formation, une répartition entre les femmes et les hommes se rapprochant de celle des effectifs de l'entreprise. Cette répartition pourra être appréciée sur une période de 2 ans.<br/>Les formations suivies par les femmes et les hommes dans une entreprise devront être de niveau équivalent.<br/>Les entreprises mettront en œuvre les dispositifs permettant aux salariés de mieux appréhender la diversité des métiers et, par voie de conséquence, d'élargir leurs possibilités d'évolution professionnelle. Les salariés pourront notamment utiliser le dispositif du DIF instauré par la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000000613810&categorieLien=cid'>loi n° 2004-391 du 4 mai 2004</a>. Les signataires rappellent que, pour le calcul des droits ouverts au titre du droit individuel à la formation, la période d'absence du salarié pour un congé de maternité, d'adoption, de présence parentale, de soutien familial ou pour un congé parental d'éducation est intégralement prise en compte.<br/>Les entreprises veilleront de façon particulière lors de l'élaboration de leurs plans de formation à développer par la formation l'accès des femmes au plus grand nombre de postes, notamment dans les fonctions évolutives et les postes à responsabilité.<br/>Les entreprises soumises à l'obligation de négocier sur la gestion prévisionnelle des emplois et des compétences (GPEC) et celles qui négocient sur le sujet veilleront à intégrer ces objectifs dans leurs axes de travail.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Formation professionnelle"
-            },
-            {
-              "id": "KALIARTI000027448986",
-              "num": "7",
-              "intOrdre": 4194296,
-              "content": "<p align='center'><br/>7.1. Rémunération du congé de maternité ou d'adoption</p><p align='left'><br/>Conformément aux dispositions du <a alt='lien vers un document Legifrance' href='/affichCode.do?cidTexte=LEGITEXT000006072050&dateTexte=&categorieLien=cid'>code du travail</a>, les absences résultant d'un congé de maternité ou d'adoption n'ont pas d'incidence sur les évolutions professionnelles et salariales des intéressés.<br/>Par ailleurs, les rémunérations des salariées en congé de maternité ou d'adoption doivent évoluer dans la même proportion que celle constatée dans la même catégorie professionnelle ou, si cette dernière n'est pas identifiable, celle des autres salariés de l'entreprise pendant cette période.</p><p align='center'><br/>7.2. Situation du salarié durant le congé de maternité ou d'adoption et retour dans l'entreprise</p><p align='left'><br/>Les parties rappellent la nécessité de préserver le lien professionnel avec l'entreprise durant le congé maternité ou d'adoption. Afin de garantir l'effectivité de ce lien, il est prévu les mesures suivantes :<br/>Avant son départ en congé de maternité (ou d'adoption) ou en congé parental et/ou à son retour de congé, tout salarié a droit, si il ou elle le souhaite, à un entretien avec son supérieur hiérarchique. Il en est de même pour le père salarié, avant ou après le congé d'adoption ou un congé parental dont il est bénéficiaire. Seront notamment abordés :</p><p align='left'><br/>– la prise des congés payés ou des jours de repos acquis ;<br/>– les conditions de reprise de l'activité professionnelle ;<br/>– les souhaits de l'intéressé(e) quant à son évolution professionnelle ;<br/>– les besoins en formation, adaptation, professionnalisation et bilan de compétences...</p><p align='center'><br/>7.3. Prise en compte de la vie familiale</p><p align='left'><br/>Dans le cas où certains salariés (homme ou femme) seraient demandeurs d'aménagement d'horaires, les entreprises s'efforceront de rechercher les meilleures solutions adaptées pour le salarié afin de parvenir à concilier vie professionnelle et vie familiale.<br/>Dans une logique similaire, afin de prendre en compte les contraintes liées à la parentalité, une attention particulière sera apportée aux heures de début et de fin de réunion, dans le respect des dispositions légales et conventionnelles relatives à la durée du travail.<br/>Les salariées en état de grossesse auront la possibilité de demander à bénéficier d'un temps partiel jusqu'à leur congé de maternité. Les entreprises s'engagent à y répondre favorablement lorsque l'organisation de l'entreprise le permet.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Maternité et congé parental"
-            },
-            {
-              "id": "KALIARTI000027448988",
-              "num": "8",
-              "intOrdre": 4718583,
-              "content": "<p align='center'><br/>8.1. Au niveau de l'entreprise</p><p align='left'><br/>Pour un même niveau de responsabilité, de formation, d'expériences professionnelles et de compétences mises en œuvre, le salaire de base doit être identique entre les salariés concernés.<br/>Les parties signataires rappellent le principe selon lequel tout employeur est obligatoirement tenu d'assurer, pour un même travail, ou pour un travail de valeur égale et à ancienneté égale, l'égalité de rémunération entre les femmes et les hommes. Le respect de ce principe constitue un élément essentiel de la dynamique de l'égalité professionnelle et de la mixité des emplois. Les disparités de rémunération dans un établissement ne peuvent pas, pour un même emploi, être fondées sur l'appartenance des salariés à l'un ou l'autre sexe.<br/>Les différents éléments composant la rémunération doivent être établis sur des normes identiques pour les femmes et les hommes. Les catégories et les critères de classification et de promotion professionnelle, ainsi que toutes les autres bases de calcul de la rémunération doivent être communs aux travailleurs des deux sexes et ne doivent pas être discriminants pour les salariés ayant bénéficié d'un congé de maternité ou d'un congé parental d'éducation.<br/>Les entreprises de la branche accordent une attention particulière à la négociation sur les objectifs d'égalité salariale entre les femmes et les hommes dans l'entreprise ainsi que sur les mesures permettant de les atteindre.<br/>Ainsi, les entreprises soumises à la négociation obligatoire sur les salaires effectifs doivent négocier chaque année pour analyser la situation et, le cas échéant, définir et programmer les mesures permettant de supprimer les écarts de rémunération entre les femmes et les hommes.</p><p align='center'><br/>8.2. Au niveau de la branche</p><p align='left'><br/>Les signataires constatent que la définition des différents niveaux de classification telle qu'elle figure dans l'accord « Classification » de la convention collective respecte le principe d'égalité salariale dans la mesure où elle ne contient pas de critères susceptibles d'induire une différence de rémunération entre les hommes et les femmes.<br/>Une différence de rémunération entre un salarié homme et une salariée femme occupant un emploi similaire doit être justifiée par des raisons objectives et matériellement vérifiables.<br/>Lors de la négociation annuelle sur les salaires prévue à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901738&dateTexte=&categorieLien=cid'>article L. 2241-1 du code du travail</a> et sur la base du rapport défini à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485277&dateTexte=&categorieLien=cid'>article D. 2241-1 du code du travail</a>, la branche établit un diagnostic sur la situation comparée des femmes et des hommes en matière de rémunération, œuvre pour le rétablissement de cette égalité et identifie les axes de progrès en matière d'égalité de rémunération.<br/>Le cas échéant, les entreprises qui auraient constaté des disparités sont invitées à conclure un plan pour l'égalité professionnelle conformément aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006900808&dateTexte=&categorieLien=cid'>dispositions de l'article L. 1143-1 du code du travail</a>.<br/>Pour cela, des plans d'action correcteurs et l'échéancier correspondant seront définis, si nécessaire.<br/>Les entreprises, en concertation avec leurs instances représentatives du personnel si elles existent, examineront à leur niveau l'opportunité d'appuis techniques complémentaires, d'actions ciblées et d'inscription budgétaire spécifique :</p><p align='left'><br/>– actions de communication en interne et en externe, par différents vecteurs (note, intranet, etc.) ;<br/>– suivi de la politique mise en œuvre en l'inscrivant dans la durée.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Egalité salariale. – Réduction des écarts de rémunération"
-            },
-            {
-              "id": "KALIARTI000027448992",
-              "num": "9",
-              "intOrdre": 5242870,
-              "content": "<p align='left'><br/>Les parties signataires s'accordent sur le fait que la sensibilisation de tous les acteurs, aux thèmes de la mixité et de l'égalité professionnelle hommes-femmes est indispensable en vue de traduire concrètement les principes énoncés par l'accord.<br/>Ils s'engagent à améliorer la communication sur le thème de l'égalité professionnelle femmes-hommes par des actions de communication pour diffuser les bonnes pratiques et les évolutions constatées au sein des entreprises de la branche.<br/>Sur le plan de la branche, le principe de l'égalité professionnelle doit être pris en compte dans toutes les négociations de branche.<br/>Les partenaires sociaux disposeront ainsi d'un outil d'analyse et de suivi de l'application du principe d'égalité professionnelle hommes-femmes dans la branche.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Sensibilisation et communication"
-            },
-            {
-              "id": "KALIARTI000027448993",
-              "num": "10",
-              "intOrdre": 5767157,
-              "content": "<p align='left'><br/>Les organisations syndicales de salariés veilleront à l'occasion de l'élaboration du protocole d'accord préélectoral lors des élections des délégués du personnel et des membres du comité d'entreprise, à examiner les voies et moyens en vue d'atteindre une représentation équilibrée des femmes et des hommes sur les listes de candidature.<br/>De même, les membres élus du comité d'entreprise et des délégués du personnel s'efforceront d'atteindre cette représentation équilibrée lors de la désignation des membres du CHSCT.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Représentation équilibrée des femmes et des hommes aux élections des représentants du personnel"
-            },
-            {
-              "id": "KALIARTI000027448994",
-              "num": "11",
-              "intOrdre": 6291444,
-              "content": "<p align='left'><br/>L'accord est conclu pour une durée indéterminée.<br/>L'ensemble de ses dispositions s'impose aux accords d'entreprise négociés dans ce cadre et il ne pourra y être dérogé par accord d'entreprise que dans un sens plus favorable aux salariés.<br/>Peuvent adhérer sans réserve au présent accord toute organisation syndicale de salariés ou d'employeur représentatives dans le champ d'application de l'accord.<br/>L'adhésion est signifiée aux signataires de l'accord et fait l'objet d'un dépôt dans les conditions prévues par voie réglementaire.<br/>L'adhésion confère à l'organisation les mêmes droits et obligations que les parties signataires.<br/>Le présent accord pourra être dénoncé ou révisé dans les conditions de la convention collective nationale.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Durée de l'accord, opposabilité, dénonciation et révision"
-            },
-            {
-              "id": "KALIARTI000027448995",
-              "num": "12",
-              "intOrdre": 6815731,
-              "content": "<p align='left'><br/>Les partenaires sociaux conviennent de porter cet accord à la connaissance de la commission paritaire nationale de l'emploi et de la formation professionnelle de la branche, qui a notamment pour mission d'en suivre la bonne application.<br/>Un premier bilan de l'application du présent accord sera effectué par la branche au plus tard dans les 2 ans qui suivent son entrée en vigueur.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Suivi et bilan de l'accord"
-            },
-            {
-              "id": "KALIARTI000027448996",
-              "num": "13",
-              "intOrdre": 7340018,
-              "content": "<p align='left'><br/>L'accord sera déposé au ministère du travail dans les conditions légales et fera l'objet d'une demande d'extension.<br/>Il entrera en vigueur le lendemain du jour de la publication de l'arrêté d'extension.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Publicité"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000027448974",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000027448997",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>Dans le prolongement de la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000000756495&categorieLien=cid'>loi n° 2000-397 du 9 mai 2001</a> relative à l'égalité professionnelle entre les hommes et les femmes, de l'accord national interprofessionnel du 1er mars 2004 relatif à la mixité et à l'égalité professionnelle entre les hommes et les femmes et de la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000000816849&categorieLien=cid'>loi n° 2006-340 du 23 mars 2006</a> relative à l'égalité salariale entre les femmes et les hommes et celle n° 2010-1330 du 9 novembre 2010 portant réforme des retraites, les partenaires sociaux affirment que la mixité dans les emplois des différents métiers et catégories professionnelles est un facteur de normalité d'enrichissement collectif, de cohésion sociale et d'efficacité économique, source de complémentarité, d'équilibre et de dynamisme pour l'entreprise et ses salariés.<br/>Les partenaires sociaux conviennent, par le présent accord conclu dans le cadre de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901740&dateTexte=&categorieLien=cid'>article L. 2241-3 du code du travail</a>, de définir les principes et de mettre en œuvre les dispositions visant à améliorer l'égalité des chances et de traitement tout au long de la vie professionnelle ainsi que d'inciter les entreprises à engager des politiques actives en ce domaine. Ils estiment que le présent accord représente une réelle opportunité de dialogue et de dynamisme dans les entreprises, et que son impact social et économique se révélera positif.<br/>L'engagement personnel du chef d'entreprise et de l'équipe de direction est un préalable essentiel à la réussite d'une telle politique dans les entreprises de la branche. C'est en effet par leur implication et leur détermination que cette politique peut se déployer efficacement à tous les niveaux de l'entreprise.<br/>Ce déploiement passe par une démarche de communication régulière et soutenue des équipes de direction auprès des salariés en association avec les représentants du personnel.<br/>Les partenaires sociaux considèrent qu'il est de leur responsabilité de veiller à la garantie de la mixité, de l'égalité professionnelles et au développement d'une égalité des chances, des droits et de traitement entre les femmes et les hommes en matière de recrutement, de formation, de conditions de travail, d'évolution professionnelle, de promotion et de rémunération.<br/>Ils se fixent comme objectif de supprimer les écarts de rémunération entre les femmes et les hommes à moyen terme.<br/>Par ailleurs, le principe de l'égalité professionnelle doit être pris en compte à chaque fois qu'une négociation de branche en présentera l'opportunité.</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000030785886",
+          "type": "section",
           "title": "Accord du 31 mars 2015 modifiant l'article 508 de la convention collective",
-          "dateParution": 1435536000000,
-          "articles": [
+          "id": "KALITEXT000030785886",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030785889",
               "num": null,
               "intOrdre": 524287,
@@ -1120,11 +1067,198 @@
           ]
         },
         {
-          "id": "KALITEXT000018658782",
-          "title": "Adhésion par lettre du 30 novembre 2007 de la FESCEGSA CFTC à la convention collective",
-          "dateParution": 32472144000000,
-          "articles": [
+          "type": "section",
+          "title": "Accord du 30 septembre 2014 relatif à la classification des cadres",
+          "id": "KALITEXT000029883824",
+          "children": [
             {
+              "type": "article",
+              "id": "KALIARTI000029883827",
+              "num": null,
+              "intOrdre": 524287,
+              "content": "<p><br/>Les organisations syndicales représentatives signataires conviennent de modifier la classification « cadres » définies par l'article 517 de la <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000005639890&categorieLien=cid'>convention collective nationale du personnel de la reprographie</a>. <br/>Ainsi, une partie de l'article 517 est maintenant rédigée comme suit : </p><p><div align='center'><center><table border='1'><tr><th>Classification cadres </th><th>Niveau </th></tr><tr><td align='center'>Responsable de fabrication ayant sous ses ordres des contremaîtres </td><td align='center'>40.00 </td></tr><tr><td align='center'>Chef de fabrication, responsable général des ateliers ayant sous ses ordres des chefs d'atelier ou des contremaîtres </td><td align='center'>40.30 </td></tr><tr><td align='center'>Poste de direction d'entreprise </td><td align='center'>40.50 </td></tr></table></center></div></p><p><br/>Il est créé un article 502 bis rédigé comme suit : <br/>« Afin d'assurer la transition des nouveaux coefficients des catégories agents de maîtrise et cadres, les salariés dont le coefficient, à la date de l'accord du 30 septembre 2014, est de 300 à 457 conservent le statut qui leur était attribué. <br/>En conséquence, ceux ayant le statut agent de maîtrise se voient affecter un coefficient de 30.00 à 30.50 de la catégorie agents de maîtrise. <br/>Ceux ayant le statut cadre se voient affecter le coefficient 40.00 de la catégorie cadres. Dans ce cas, le salaire minimum, en moyenne annuelle, inclut la partie variable de la rémunération (hors prime conventionnelle). Le montant de la partie fixe doit au minimum être celui du salaire minimum de la catégorie 30.00 des agents de maîtrise. » <br/>Le présent accord sera soumis à extension. Il s'appliquera le premier jour du mois suivant son extension.</p>",
+              "etat": "VIGUEUR_ETEN"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Accord du 8 avril 2014 relatif à la classification des agents de maîtrise",
+          "id": "KALITEXT000029264674",
+          "children": [
+            {
+              "type": "article",
+              "id": "KALIARTI000029264677",
+              "num": null,
+              "intOrdre": 524287,
+              "content": "<p><br/>Les organisations syndicales représentatives signataires conviennent de modifier les classifications « agents de maîtrise » définies par l'article 517 de la convention collective nationale du personnel de la reprographie. <br/>Ainsi, partie de l'article 517 est maintenant rédigée comme suit : </p><p><div align='center'><center><table border='1'><tr><th colspan='3'>Classification </th><th>Niveau </th></tr><tr><td align='center'>Agent <br/>de maîtrise </td><td align='center'>Contremaître ayant sous ses ordres plus de 10 et jusqu'à 20 salariés </td><td align='center'>30.00 </td></tr><tr><td><br/></td><td align='center'>Chef d'atelier ayant sous ses ordres plus de 20 salariés </td><td align='center'>30.50 </td></tr></table></center></div></p><p><br/>Les organisations syndicales représentatives signataires conviennent de modifier les articles 502 et 515 de la convention collective nationale du personnel de la reprographie. <br/>A l'article 502, B. – Cadres, la mention : « Les agents de maîtrise dont le coefficient est égal ou supérieur à 300. » est supprimée. <br/>En conséquence, l'article 515 est maintenant rédigé comme suit : </p><p><br/>« Régime de retraite et de prévoyance </p><p><br/>L'application de la convention collective nationale du 14 mars 1947 agréée par arrêté du 31 mars 1947 et publiée au Journal officiel du 21 février 1949 concernant le régime complémentaire des cadres est obligatoire dans les professions visées par la présente convention pour tous les cadres et souhaitable en vertu de l'article 36 pour les agents de maîtrise. » <br/>Le présent accord sera soumis à extension.</p>",
+              "etat": "VIGUEUR_ETEN"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Accord du 15 janvier 2013 relatif à l'égalité professionnelle entre les femmes et les hommes",
+          "id": "KALITEXT000027448971",
+          "children": [
+            {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000027448974",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000027448997",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'><br/>Dans le prolongement de la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000000756495&categorieLien=cid'>loi n° 2000-397 du 9 mai 2001</a> relative à l'égalité professionnelle entre les hommes et les femmes, de l'accord national interprofessionnel du 1er mars 2004 relatif à la mixité et à l'égalité professionnelle entre les hommes et les femmes et de la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000000816849&categorieLien=cid'>loi n° 2006-340 du 23 mars 2006</a> relative à l'égalité salariale entre les femmes et les hommes et celle n° 2010-1330 du 9 novembre 2010 portant réforme des retraites, les partenaires sociaux affirment que la mixité dans les emplois des différents métiers et catégories professionnelles est un facteur de normalité d'enrichissement collectif, de cohésion sociale et d'efficacité économique, source de complémentarité, d'équilibre et de dynamisme pour l'entreprise et ses salariés.<br/>Les partenaires sociaux conviennent, par le présent accord conclu dans le cadre de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901740&dateTexte=&categorieLien=cid'>article L. 2241-3 du code du travail</a>, de définir les principes et de mettre en œuvre les dispositions visant à améliorer l'égalité des chances et de traitement tout au long de la vie professionnelle ainsi que d'inciter les entreprises à engager des politiques actives en ce domaine. Ils estiment que le présent accord représente une réelle opportunité de dialogue et de dynamisme dans les entreprises, et que son impact social et économique se révélera positif.<br/>L'engagement personnel du chef d'entreprise et de l'équipe de direction est un préalable essentiel à la réussite d'une telle politique dans les entreprises de la branche. C'est en effet par leur implication et leur détermination que cette politique peut se déployer efficacement à tous les niveaux de l'entreprise.<br/>Ce déploiement passe par une démarche de communication régulière et soutenue des équipes de direction auprès des salariés en association avec les représentants du personnel.<br/>Les partenaires sociaux considèrent qu'il est de leur responsabilité de veiller à la garantie de la mixité, de l'égalité professionnelles et au développement d'une égalité des chances, des droits et de traitement entre les femmes et les hommes en matière de recrutement, de formation, de conditions de travail, d'évolution professionnelle, de promotion et de rémunération.<br/>Ils se fixent comme objectif de supprimer les écarts de rémunération entre les femmes et les hommes à moyen terme.<br/>Par ailleurs, le principe de l'égalité professionnelle doit être pris en compte à chaque fois qu'une négociation de branche en présentera l'opportunité.</p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027448975",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'>L'accord a un champ d'application identique à celui de la <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000005639890&categorieLien=cid'>convention collective nationale du personnel de la reprographie du 18 décembre 1972</a>.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Champ d'application de l'accord"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027448976",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Les parties signataires rappellent que dans les entreprises où sont constituées une ou plusieurs sections d'organisations syndicales représentatives, les entreprises doivent engager chaque année une négociation sur les objectifs d'égalité professionnelle entre les femmes et les hommes dans l'entreprise ainsi que les mesures permettant de les atteindre. Cette négociation porte notamment sur les conditions d'accès à l'emploi, à la formation professionnelle et à la promotion professionnelle, les conditions de travail et d'emploi et en particulier celles des salariés à temps partiel, et l'articulation entre la vie professionnelle et les responsabilités familiales. Cette négociation porte également sur la possibilité prévue à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006742331&dateTexte=&categorieLien=cid'>article L. 241-3-1 du code de la sécurité sociale</a> de surcotiser à l'assurance-vieillesse pour les salariés à temps partiel et sur les conditions dans lesquelles l'employeur peut prendre en charge tout ou partie du supplément de cotisations.<br/>Cette négociation est engagée sur la base du rapport annuel portant sur la situation comparée des conditions générales d'emploi et de formation des femmes et des hommes dans l'entreprise (<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901989&dateTexte=&categorieLien=cid'>art. L. 2323-57 à L. 2323-59 du code du travail</a>).<br/>Cette négociation a lieu tous les 3 ans lorsqu'un accord collectif comportant de tels objectifs et mesures aura été signé dans l'entreprise.<br/>Depuis le 1er janvier 2012, il est rappelé que les entreprises d'au moins 50 salariés sont soumises à une pénalité à la charge de l'employeur lorsqu'elles ne sont pas couvertes par un accord ou un plan d'action relatifs à l'égalité professionnelle entre les femmes et les hommes.<br/>Dans le cadre de leur obligation annuelle de négocier sur les salaires effectifs (<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901757&dateTexte=&categorieLien=cid'>art. L. 2242-7 et suivants du code du travail</a>), les entreprises doivent définir et programmer les mesures permettant de supprimer les éventuels écarts de rémunération entre les femmes et les hommes.<br/>Dans les entreprises dépourvues de délégué syndical, dans celles qui ne sont pas soumises aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901709&dateTexte=&categorieLien=cid'>dispositions des articles L. 2232-21 à L. 2232-29 du code du travail</a> (dispositions permettant en l'absence de délégué syndical et sous certaines conditions, de négocier avec le comité d'entreprise, les délégués du personnel ou un ou plusieurs salariés mandatés), les entreprises devront prendre en compte les objectifs en matière d'égalité professionnelle entre les femmes et les hommes dans l'entreprise et les mesures permettant de les atteindre.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Obligation de négocier sur l'égalité professionnelle entre les femmes et les hommes"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027448981",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>En vue d'assurer un recrutement équilibré au sein de la branche, il est rappelé que les critères retenus doivent s'appuyer sur les compétences et les qualifications du candidat. A cet égard, la branche se fixe comme objectif que le recrutement au sein des entreprises reflète le plus possible la répartition des candidatures entre les hommes et les femmes candidats, à profil équivalent.<br/>Dans cet esprit, les offres d'emploi externes sont rédigées et gérées de façon non discriminatoire. Les emplois à pourvoir doivent comporter la forme masculine et féminine à chaque fois que l'intitulé le permet (ex. : opérateur/opératrice).<br/>A projet professionnel, motivations, potentiel d'évolution et compétences comparables, les candidatures masculines et féminines sont analysées selon les mêmes critères.<br/>Les entreprises veillent également à ce que les processus de recrutement interne ou externe se déroulent dans les mêmes conditions pour les hommes et les femmes.<br/>Les signataires réaffirment que l'embauche, la rémunération à l'embauche et le positionnement d'un emploi dans la grille de classification ne doivent tenir compte ni du sexe ni de la situation de famille du titulaire de l'emploi.<br/>Dans le même esprit, bien entendu, l'état de grossesse d'une femme ne doit pas être pris en considération pour refuser de l'embaucher ou mettre fin à la période d'essai. En conséquence, il est interdit de rechercher ou de faire rechercher toute information concernant l'état de grossesse de l'intéressée. La femme candidate à un emploi n'est pas tenue de révéler son état de grossesse.<br/>Enfin, afin de permettre une meilleure représentation en matière de mixité lors du recrutement, les signataires s'engagent à promouvoir la mise en place d'actions prioritaires au niveau de l'entreprise, portant sur l'amélioration de l'accès des femmes et des hommes à des emplois sur des postes identifiés comme ayant une faible représentation féminine ou masculine. Les représentants du personnel doivent pouvoir faire des propositions d'actions visant à réduire, le cas échéant, les déséquilibres constatés.<br/>Des actions seront conduites afin de féminiser des emplois ou des métiers trop fortement masculinisés, mais aussi l'inverse. Ces actions seront définies après avoir déterminé les conditions d'adaptation de ces postes à la mixité : aménagement de postes, solutions ergonomiques, formation aux métiers techniques.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Préconisation de la branche en matière de recrutement"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027448982",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Les femmes et les hommes doivent avoir les mêmes possibilités d'évolution de carrière.<br/>C'est pourquoi s'agissant en particulier de l'entretien professionnel, les entreprises retiendront des critères d'évaluation qui ne puissent conduire à une quelconque discrimination directe ou indirecte entre hommes et femmes.<br/>Elles mettront en œuvre les mesures permettant à l'ensemble des salariés (hommes et femmes) de mieux appréhender la diversité des métiers, et par voie de conséquence, d'élargir leurs possibilités d'évolution professionnelle.<br/>Les entreprises s'efforceront à ce qu'en matière d'évolution professionnelle, les congés de maternité, d'adoption et les congés parentaux soient sans incidence sur le déroulement de carrière des salariés concernés.<br/>Elles veilleront enfin à ce que l'accès des femmes aux postes où elles sont faiblement représentées, notamment aux postes à responsabilité, conduise à la représentation la plus équilibrée possible des hommes et des femmes à ces postes.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Promotion et évolution professionnelle"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027448983",
+              "num": "5",
+              "intOrdre": 3145722,
+              "content": "<p align='left'><br/>L'entreprise s'efforcera de développer des aménagements d'horaires individuels et notamment l'accès au temps partiel, tant pour les femmes que pour les hommes. Les signataires rappellent à cet égard que les salariés à temps partiel qui souhaitent occuper ou reprendre un emploi à temps complet, et les salariés à temps complet qui souhaitent occuper ou reprendre un emploi à temps partiel dans le même établissement, ou à défaut dans la même entreprise, ont priorité pour l'attribution d'un emploi ressortissant à leur catégorie professionnelle ou d'un emploi équivalent.<br/>L'entreprise cherchera à développer les solutions, en matière d'organisation et d'aménagement, permettant de concilier vie familiale et vie professionnelle sans faire obstacle à l'évolution de carrière professionnelle.<br/>Afin de favoriser la mixité de l'accès aux postes de travail, l'entreprise pourra associer le CHSCT (ou, en son absence, le comité d'entreprise et les délégués du personnel) afin d'examiner les modalités d'organisation du travail et d'aménagement des postes, notamment en matière de contraintes physiques.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Organisation, aménagement et conditions de travail"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027448984",
+              "num": "6",
+              "intOrdre": 3670009,
+              "content": "<p align='left'><br/>Les signataires soulignent que la formation professionnelle constitue l'un des leviers essentiels pour assurer une égalité de traitement entre les hommes et les femmes. Par le développement des compétences, la formation professionnelle concourt au principe d'égalité professionnelle entre les hommes et les femmes.<br/>Les signataires du présent accord réaffirment leur volonté :</p><p align='left'><br/>– de respecter l'égalité entre les hommes et les femmes dans l'accès à la formation professionnelle, tout en prenant en compte les contraintes liées à la vie familiale ;<br/>– de désigner parmi les publics prioritaires aux actions de formation, les femmes reprenant une activité professionnelle après un congé de maternité (et les hommes et les femmes après un congé d'adoption ou un congé parental) ;<br/>– de demander aux entreprises un égal accès des femmes et des hommes :<br/>– aux dispositifs de formation, de validation des acquis de l'expérience ou de bilan de compétences ;<br/>– aux contrats et périodes de professionnalisation.<br/>En conséquence, les parties signataires décident que les entreprises, dans le cadre de leur plan de formation, seront garantes que tous les salariés puissent bénéficier d'égales conditions d'accès à la formation professionnelle, quels que soient leur statut professionnel, leur sexe, âge et le niveau de formation visé, en s'efforçant de faire dispenser les formations le plus près possible du lieu de travail.<br/>Chaque entreprise de la branche s'efforcera de respecter, dans le nombre de salariés accédant à la formation, une répartition entre les femmes et les hommes se rapprochant de celle des effectifs de l'entreprise. Cette répartition pourra être appréciée sur une période de 2 ans.<br/>Les formations suivies par les femmes et les hommes dans une entreprise devront être de niveau équivalent.<br/>Les entreprises mettront en œuvre les dispositifs permettant aux salariés de mieux appréhender la diversité des métiers et, par voie de conséquence, d'élargir leurs possibilités d'évolution professionnelle. Les salariés pourront notamment utiliser le dispositif du DIF instauré par la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000000613810&categorieLien=cid'>loi n° 2004-391 du 4 mai 2004</a>. Les signataires rappellent que, pour le calcul des droits ouverts au titre du droit individuel à la formation, la période d'absence du salarié pour un congé de maternité, d'adoption, de présence parentale, de soutien familial ou pour un congé parental d'éducation est intégralement prise en compte.<br/>Les entreprises veilleront de façon particulière lors de l'élaboration de leurs plans de formation à développer par la formation l'accès des femmes au plus grand nombre de postes, notamment dans les fonctions évolutives et les postes à responsabilité.<br/>Les entreprises soumises à l'obligation de négocier sur la gestion prévisionnelle des emplois et des compétences (GPEC) et celles qui négocient sur le sujet veilleront à intégrer ces objectifs dans leurs axes de travail.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Formation professionnelle"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027448986",
+              "num": "7",
+              "intOrdre": 4194296,
+              "content": "<p align='center'><br/>7.1. Rémunération du congé de maternité ou d'adoption</p><p align='left'><br/>Conformément aux dispositions du <a alt='lien vers un document Legifrance' href='/affichCode.do?cidTexte=LEGITEXT000006072050&dateTexte=&categorieLien=cid'>code du travail</a>, les absences résultant d'un congé de maternité ou d'adoption n'ont pas d'incidence sur les évolutions professionnelles et salariales des intéressés.<br/>Par ailleurs, les rémunérations des salariées en congé de maternité ou d'adoption doivent évoluer dans la même proportion que celle constatée dans la même catégorie professionnelle ou, si cette dernière n'est pas identifiable, celle des autres salariés de l'entreprise pendant cette période.</p><p align='center'><br/>7.2. Situation du salarié durant le congé de maternité ou d'adoption et retour dans l'entreprise</p><p align='left'><br/>Les parties rappellent la nécessité de préserver le lien professionnel avec l'entreprise durant le congé maternité ou d'adoption. Afin de garantir l'effectivité de ce lien, il est prévu les mesures suivantes :<br/>Avant son départ en congé de maternité (ou d'adoption) ou en congé parental et/ou à son retour de congé, tout salarié a droit, si il ou elle le souhaite, à un entretien avec son supérieur hiérarchique. Il en est de même pour le père salarié, avant ou après le congé d'adoption ou un congé parental dont il est bénéficiaire. Seront notamment abordés :</p><p align='left'><br/>– la prise des congés payés ou des jours de repos acquis ;<br/>– les conditions de reprise de l'activité professionnelle ;<br/>– les souhaits de l'intéressé(e) quant à son évolution professionnelle ;<br/>– les besoins en formation, adaptation, professionnalisation et bilan de compétences...</p><p align='center'><br/>7.3. Prise en compte de la vie familiale</p><p align='left'><br/>Dans le cas où certains salariés (homme ou femme) seraient demandeurs d'aménagement d'horaires, les entreprises s'efforceront de rechercher les meilleures solutions adaptées pour le salarié afin de parvenir à concilier vie professionnelle et vie familiale.<br/>Dans une logique similaire, afin de prendre en compte les contraintes liées à la parentalité, une attention particulière sera apportée aux heures de début et de fin de réunion, dans le respect des dispositions légales et conventionnelles relatives à la durée du travail.<br/>Les salariées en état de grossesse auront la possibilité de demander à bénéficier d'un temps partiel jusqu'à leur congé de maternité. Les entreprises s'engagent à y répondre favorablement lorsque l'organisation de l'entreprise le permet.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Maternité et congé parental"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027448988",
+              "num": "8",
+              "intOrdre": 4718583,
+              "content": "<p align='center'><br/>8.1. Au niveau de l'entreprise</p><p align='left'><br/>Pour un même niveau de responsabilité, de formation, d'expériences professionnelles et de compétences mises en œuvre, le salaire de base doit être identique entre les salariés concernés.<br/>Les parties signataires rappellent le principe selon lequel tout employeur est obligatoirement tenu d'assurer, pour un même travail, ou pour un travail de valeur égale et à ancienneté égale, l'égalité de rémunération entre les femmes et les hommes. Le respect de ce principe constitue un élément essentiel de la dynamique de l'égalité professionnelle et de la mixité des emplois. Les disparités de rémunération dans un établissement ne peuvent pas, pour un même emploi, être fondées sur l'appartenance des salariés à l'un ou l'autre sexe.<br/>Les différents éléments composant la rémunération doivent être établis sur des normes identiques pour les femmes et les hommes. Les catégories et les critères de classification et de promotion professionnelle, ainsi que toutes les autres bases de calcul de la rémunération doivent être communs aux travailleurs des deux sexes et ne doivent pas être discriminants pour les salariés ayant bénéficié d'un congé de maternité ou d'un congé parental d'éducation.<br/>Les entreprises de la branche accordent une attention particulière à la négociation sur les objectifs d'égalité salariale entre les femmes et les hommes dans l'entreprise ainsi que sur les mesures permettant de les atteindre.<br/>Ainsi, les entreprises soumises à la négociation obligatoire sur les salaires effectifs doivent négocier chaque année pour analyser la situation et, le cas échéant, définir et programmer les mesures permettant de supprimer les écarts de rémunération entre les femmes et les hommes.</p><p align='center'><br/>8.2. Au niveau de la branche</p><p align='left'><br/>Les signataires constatent que la définition des différents niveaux de classification telle qu'elle figure dans l'accord « Classification » de la convention collective respecte le principe d'égalité salariale dans la mesure où elle ne contient pas de critères susceptibles d'induire une différence de rémunération entre les hommes et les femmes.<br/>Une différence de rémunération entre un salarié homme et une salariée femme occupant un emploi similaire doit être justifiée par des raisons objectives et matériellement vérifiables.<br/>Lors de la négociation annuelle sur les salaires prévue à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901738&dateTexte=&categorieLien=cid'>article L. 2241-1 du code du travail</a> et sur la base du rapport défini à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485277&dateTexte=&categorieLien=cid'>article D. 2241-1 du code du travail</a>, la branche établit un diagnostic sur la situation comparée des femmes et des hommes en matière de rémunération, œuvre pour le rétablissement de cette égalité et identifie les axes de progrès en matière d'égalité de rémunération.<br/>Le cas échéant, les entreprises qui auraient constaté des disparités sont invitées à conclure un plan pour l'égalité professionnelle conformément aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006900808&dateTexte=&categorieLien=cid'>dispositions de l'article L. 1143-1 du code du travail</a>.<br/>Pour cela, des plans d'action correcteurs et l'échéancier correspondant seront définis, si nécessaire.<br/>Les entreprises, en concertation avec leurs instances représentatives du personnel si elles existent, examineront à leur niveau l'opportunité d'appuis techniques complémentaires, d'actions ciblées et d'inscription budgétaire spécifique :</p><p align='left'><br/>– actions de communication en interne et en externe, par différents vecteurs (note, intranet, etc.) ;<br/>– suivi de la politique mise en œuvre en l'inscrivant dans la durée.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Egalité salariale. – Réduction des écarts de rémunération"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027448992",
+              "num": "9",
+              "intOrdre": 5242870,
+              "content": "<p align='left'><br/>Les parties signataires s'accordent sur le fait que la sensibilisation de tous les acteurs, aux thèmes de la mixité et de l'égalité professionnelle hommes-femmes est indispensable en vue de traduire concrètement les principes énoncés par l'accord.<br/>Ils s'engagent à améliorer la communication sur le thème de l'égalité professionnelle femmes-hommes par des actions de communication pour diffuser les bonnes pratiques et les évolutions constatées au sein des entreprises de la branche.<br/>Sur le plan de la branche, le principe de l'égalité professionnelle doit être pris en compte dans toutes les négociations de branche.<br/>Les partenaires sociaux disposeront ainsi d'un outil d'analyse et de suivi de l'application du principe d'égalité professionnelle hommes-femmes dans la branche.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Sensibilisation et communication"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027448993",
+              "num": "10",
+              "intOrdre": 5767157,
+              "content": "<p align='left'><br/>Les organisations syndicales de salariés veilleront à l'occasion de l'élaboration du protocole d'accord préélectoral lors des élections des délégués du personnel et des membres du comité d'entreprise, à examiner les voies et moyens en vue d'atteindre une représentation équilibrée des femmes et des hommes sur les listes de candidature.<br/>De même, les membres élus du comité d'entreprise et des délégués du personnel s'efforceront d'atteindre cette représentation équilibrée lors de la désignation des membres du CHSCT.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Représentation équilibrée des femmes et des hommes aux élections des représentants du personnel"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027448994",
+              "num": "11",
+              "intOrdre": 6291444,
+              "content": "<p align='left'><br/>L'accord est conclu pour une durée indéterminée.<br/>L'ensemble de ses dispositions s'impose aux accords d'entreprise négociés dans ce cadre et il ne pourra y être dérogé par accord d'entreprise que dans un sens plus favorable aux salariés.<br/>Peuvent adhérer sans réserve au présent accord toute organisation syndicale de salariés ou d'employeur représentatives dans le champ d'application de l'accord.<br/>L'adhésion est signifiée aux signataires de l'accord et fait l'objet d'un dépôt dans les conditions prévues par voie réglementaire.<br/>L'adhésion confère à l'organisation les mêmes droits et obligations que les parties signataires.<br/>Le présent accord pourra être dénoncé ou révisé dans les conditions de la convention collective nationale.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Durée de l'accord, opposabilité, dénonciation et révision"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027448995",
+              "num": "12",
+              "intOrdre": 6815731,
+              "content": "<p align='left'><br/>Les partenaires sociaux conviennent de porter cet accord à la connaissance de la commission paritaire nationale de l'emploi et de la formation professionnelle de la branche, qui a notamment pour mission d'en suivre la bonne application.<br/>Un premier bilan de l'application du présent accord sera effectué par la branche au plus tard dans les 2 ans qui suivent son entrée en vigueur.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Suivi et bilan de l'accord"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000027448996",
+              "num": "13",
+              "intOrdre": 7340018,
+              "content": "<p align='left'><br/>L'accord sera déposé au ministère du travail dans les conditions légales et fera l'objet d'une demande d'extension.<br/>Il entrera en vigueur le lendemain du jour de la publication de l'arrêté d'extension.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Publicité"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Accord du 5 mars 2008 relatif aux classifications des emplois des ouvriers et ouvrières",
+          "id": "KALITEXT000019242458",
+          "children": [
+            {
+              "type": "article",
+              "id": "KALIARTI000019242461",
+              "num": null,
+              "intOrdre": 524287,
+              "content": "<p><br/>Les organisations syndicales représentatives signataires conviennent de modifier les classifications « ouvriers-ouvrières », conformément aux dispositions de <a alt='lien vers un document Legifrance' href='/affichIDCCArticle.do?cidTexte=KALITEXT000005639890&idArticle=KALIARTI000005765913&categorieLien=cid'>l'article 8 de la convention collective nationale de la reprographie. </a><br/>Le présent accord remplace et annule <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000018561972&categorieLien=cid'>l'accord paritaire du 12 septembre 2007 </a>portant le même objet.<br/>La nouvelle classification « ouvriers-ouvrières », modifiée par accord du 9 mars 1978, est remplacée par la suivante : </p><p><br/>Photocopie </p><p><div align='center'><center><table border='1'><tr><th>CLASSIFICATION </th><th>NIVEAU </th></tr><tr><td align='center'>Agent de production : <br/>Assure la bonne exécution des tâches qui lui sont confiées, et notamment : approvisionnement, reproduction noir et couleur, tri, finition, façonnage, mise sous enveloppe, mise sous film, conditionnement, stockage et expédition. </td><td align='center'>10, 00 </td></tr><tr><td align='center'>Agent de production confirmé : <br/>Assure de façon autonome la bonne exécution des tâches qui lui sont confiées, et notamment : approvisionnement, reproduction noir et couleur, tri, finition, façonnage, mise sous enveloppe, mise sous film, conditionnement, stockage et expédition. </td><td align='center'>10, 30 </td></tr><tr><td align='center'>Agent responsable de production : <br/>Anime, coordonne et contrôle les agents de production placés sous sa responsabilité opérationnelle (jusqu'à 10 salariés). Assure la planification et le lancement de la production en coordonnant l'ensemble des composantes d'une réalisation. <br/>Prend en charge la gestion et l'utilisation du parc matériels et assure le suivi qualitatif et quantitatif. </td><td align='center'>10, 70 </td></tr></table></center></div></p><p><br/>Impression numérique </p><p><div align='center'><center><table border='1'><tr><th>CLASSIFICATION </th><th>NIVEAU </th></tr><tr><td align='center'>Agent de production : <br/>Assure la bonne exécution des tâches qui lui sont confiées, et notamment : approvisionnement, contrôle et traitement des fichiers, impression noir et couleur, numérisation et indexation des documents, vectorisation stockage, tri, finition, façonnage, mise sous enveloppe, mise sous film, conditionnement, stockage et expédition. </td><td align='center'>10, 00 </td></tr><tr><td align='center'>Agent de production confirmé : <br/>Assure de façon autonome la bonne exécution des tâches qui lui sont confiées, et notamment : approvisionnement, contrôle et traitement des fichiers, impression noir et couleur, numérisation et indexation des documents, vectorisation stockage, tri, finition, façonnage, mise sous enveloppe, mise sous film, conditionnement, stockage et expédition. </td><td align='center'>10, 30 </td></tr><tr><td align='center'>Agent responsable de production : <br/>Anime, coordonne et contrôle les agents de production placés sous sa responsabilité opérationnelle (jusqu'à 10 salariés). Assure la planification et le lancement de la production en coordonnant l'ensemble des composantes d'une réalisation. <br/>Prend en charge la gestion et l'utilisation du parc matériels et logiciels et assure le suivi qualitatif et quantitatif. </td><td align='center'>10, 70 </td></tr></table></center></div></p><p><br/>Infographie et PAO </p><p><div align='center'><center><table border='1'><tr><th>CLASSIFICATION </th><th>NIVEAU </th></tr><tr><td align='center'>Opérateur : <br/>Assure la bonne exécution des tâches qui lui sont confiées, et notamment : réception, contrôle et traitement des fichiers, corrections et mise en pages, création de maquettes, numérisation avec retouches de photos et d'images, vectorisation. </td><td align='center'>10, 00 </td></tr><tr><td align='center'>Opérateur confirmé : <br/>Assure de façon autonome la bonne exécution des tâches qui lui sont confiées, et notamment : réception, contrôle et traitement des fichiers, corrections et mise en pages, création de maquettes, numérisation avec retouches de photos et d'images, vectorisation. </td><td align='center'>10, 30 </td></tr><tr><td align='center'>Agent responsable : <br/>Anime, coordonne et contrôle les opérateurs placés sous sa responsabilité opérationnelle (jusqu'à 10 salariés). <br/>Assure la planification et le lancement de la production en coordonnant l'ensemble des composantes d'une réalisation. <br/>Prend en charge la programmation et l'exploitation des logiciels et des matériels et assure le suivi qualitatif et quantitatif. 10, 70 </td></tr></table></center></div></p><p><br/>Duplireprographie </p><p><div align='center'><center><table border='1'><tr><th>CLASSIFICATION </th><th>NIVEAU </th></tr><tr><td align='center'>Duplireprographe préparant les éléments destinés aux machines avec encrage, insolation, développement, retouche : <br/>Format A4. </td><td align='center'>10, 00 </td></tr><tr><td align='center'>Duplireprographe sur machine avec encrage : <br/>Format A4 ; <br/>Format A3. </td><td align='center'>10, 30 </td></tr></table></center></div></p><p><br/>Photoreprographie </p><p><div align='center'><center><table border='1'><tr><th>CLASSIFICATION </th><th>NIVEAU </th></tr><tr><td align='center'>Photographe capable d'exécuter travaux trait avec cliché grandeur et restitution : <br/>1re catégorie. </td><td align='center'>10, 00 </td></tr><tr><td align='center'>Photographe capable d'exécuter prise de vue trait ou demi-teinte et d'effectuer tous tirages, petits et grands formats, contact ou agrandissement sur tous supports : <br/>2e catégorie. </td><td align='center'>10, 30 </td></tr><tr><td align='center'>Photographe capable d'exécuter : cliché trait, cliché photo-tramé et toute prise de vue. Il peut assurer tous travaux et toute responsabilité et éventuellement, faire fonction de chef d'équipe (jusqu'à 10 ouvriers) : <br/>3e catégorie. </td><td align='center'>10, 70 </td></tr></table></center></div></p><p><br/>Microreprographie </p><p><div align='center'><center><table border='1'><tr><th>CLASSIFICATION </th><th>NIVEAU </th></tr><tr><td align='center'>Opérateur chargé des travaux de préparation et de finition. </td><td align='center'>10, 00 </td></tr><tr><td align='center'>Opérateur capable d'exécuter prise de vue, développement : <br/>1re catégorie. </td><td align='center'>10, 00 </td></tr><tr><td align='center'>Opérateur capable d'exécuter contretypage, duplication, restitution : <br/>2e catégorie. </td><td align='center'>10, 70 </td></tr></table></center></div><br/>Les organisations syndicales signataires demandent l'extension du présent accord.</p>",
+              "etat": "VIGUEUR_ETEN"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Adhésion par lettre du 30 novembre 2007 de la FESCEGSA CFTC à la convention collective",
+          "id": "KALITEXT000018658782",
+          "children": [
+            {
+              "type": "article",
               "id": "KALIARTI000018658786",
               "num": null,
               "intOrdre": 524287,
@@ -1134,17 +1268,19 @@
           ]
         },
         {
-          "id": "KALITEXT000017842488",
+          "type": "section",
           "title": "Avenant du 3 avril 2007 relatif à l'accord artt (heures supplémentaires)",
-          "dateParution": 32472144000000,
-          "sections": [
+          "id": "KALITEXT000017842488",
+          "children": [
             {
-              "id": "KALISCTA000017842491",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000017842491",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000017842516",
                   "num": null,
                   "intOrdre": 524287,
@@ -1156,17 +1292,43 @@
           ]
         },
         {
-          "id": "KALITEXT000005639894",
-          "title": "Classifications \"ouvriers-ouvrières\" Convention collective nationale du 18 décembre 1972 ",
-          "dateParution": 32472144000000,
-          "sections": [
+          "type": "section",
+          "title": "Annexe commissions régionales de conciliation et d'arbitrage Convention collective nationale du 18 décembre 1972",
+          "id": "KALITEXT000005639892",
+          "children": [
             {
-              "id": "KALISCTA000005689796",
+              "type": "section",
+              "intOrdre": 42949,
+              "title": "Classification",
+              "id": "KALISCTA000005689795",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000005766024",
+                  "num": null,
+                  "intOrdre": 42949,
+                  "content": "<p>Ain : Lyon.</p><p>Aisne : Lille.</p><p>Allier : Bourges.</p><p>Alpes-de-Haute-Provence : Marseille.</p><p>Alpes (Hautes-) : Marseille.</p><p>Alpes-Maritimes : Marseille.</p><p>Ardèche : Lyon.</p><p>Ardennes : Lille.</p><p>Ariège : Toulouse.</p><p>Aube : Nancy.</p><p>Aude : Toulouse.</p><p>Aveyron : Toulouse.</p><p>Bouches-du-Rhône : Marseille.</p><p>Calvados : Caen.</p><p>Cantal : Toulouse.</p><p>Charente : Bordeaux.</p><p>Charente-Maritime : Bordeaux.</p><p>Cher : Bourges.</p><p>Corrèze : Bordeaux.</p><p>Corse : Marseille.</p><p>Côte-d'Or : Lyon.</p><p>Côtes-du-Nord : Nantes.</p><p>Creuse : Bourges.</p><p>Dordogne : Bordeaux.</p><p>Doubs et Belfort : Nancy.</p><p>Drôme : Lyon.</p><p>Eure : Caen.</p><p>Eure-et-Loir : Caen.</p><p>Finistère : Nantes.</p><p>Gard : Marseille.</p><p>Garonne (Haute-) : Toulouse.</p><p>Gers : Toulouse.</p><p>Gironde : Bordeaux.</p><p>Hérault : Marseille.</p><p>Ille-et-Vilaine : Nantes.</p><p>Indre : Bourges.</p><p>Indre-et-Loire : Bourges.</p><p>Isère : Lyon.</p><p>Jura : Lyon.</p><p>Landes : Bordeaux.</p><p>Loir-et-Cher : Bourges.</p><p>Loire : Lyon.</p><p>Loire (Haute-) : Lyon.</p><p>Loire-Atlantique : Nantes.</p><p>Loiret : Bourges.</p><p>Lot : Toulouse.</p><p>Lot-et-Garonne : Toulouse.</p><p>Lozère : Marseille.</p><p>Maine-et-Loire : Nantes.</p><p>Manche : Caen.</p><p>Marne : Nancy.</p><p>Marne (Haute-) : Nancy.</p><p>Mayenne : Nantes.</p><p>Meurthe-et-Moselle : Nancy.</p><p>Meuse : Nancy.</p><p>Morbihan : Nantes.</p><p>Moselle : Nancy.</p><p>Nièvre : Bourges.</p><p>Nord : Lille.</p><p>Oise : Paris.</p><p>Orne : Caen.</p><p>Pas-de-Calais : Lille.</p><p>Puy-de-Dôme : Lyon.</p><p>Pyrénées-Atlantiques : Bordeaux.</p><p>Pyrénées (Hautes-) : Bordeaux.</p><p>Pyrénées-Orientales : Toulouse.</p><p>Rhin (Bas-) : Nancy.</p><p>Rhin (Haut-) : Nancy.</p><p>Rhône : Lyon.</p><p>Saône (Haute-) : Lyon.</p><p>Saône-et Loire : Lyon.</p><p>Sarthe : Nantes.</p><p>Savoie : Lyon.</p><p>Savoie (Haute-) : Lyon.</p><p>Seine-Maritime : Caen.</p><p>Sèvres (Deux-) : Nantes.</p><p>Somme : Lille.</p><p>Tarn : Toulouse.</p><p>Tarn-et-Garonne : Toulouse.</p><p>Var : Marseille.</p><p>Vaucluse : Marseille.</p><p>Vendée : Nantes.</p><p>Vienne : Bourges.</p><p>Vienne (Haute-) : Bourges.</p><p>Vosges : Nancy.</p><p>Yonne : Bourges.</p><p>Région parisienne</p><p>Essonne : Paris.</p><p>Hauts-de-Seine : Paris.</p><p>Paris (ville de) : Paris.</p><p>Seine-et-Marne : Paris.</p><p>Seine-Saint-Denis : Paris.</p><p>Val-de-Marne : Paris.</p><p>Val-d'Oise : Paris.</p><p>Yvelines : Paris.</p><p></p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Classifications \"ouvriers-ouvrières\" Convention collective nationale du 18 décembre 1972 ",
+          "id": "KALITEXT000005639894",
+          "children": [
+            {
+              "type": "section",
               "intOrdre": 42949,
               "title": "Coefficients",
+              "id": "KALISCTA000005689796",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000019291505",
                   "num": null,
                   "intOrdre": 42949,
@@ -1178,17 +1340,19 @@
           ]
         },
         {
-          "id": "KALITEXT000005639896",
+          "type": "section",
           "title": "Accord du 13 juillet 2001 relatif à l'ARTT ",
-          "dateParution": 32472144000000,
-          "sections": [
+          "id": "KALITEXT000005639896",
+          "children": [
             {
-              "id": "KALISCTA000005689797",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Préambule",
+              "id": "KALISCTA000005689797",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005766026",
                   "num": null,
                   "intOrdre": 42949,
@@ -1198,27 +1362,21 @@
               ]
             },
             {
-              "id": "KALISCTA000005689799",
+              "type": "section",
               "intOrdre": 85898,
               "title": "Chapitre Ier : Dispositions générales",
+              "id": "KALISCTA000005689799",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
-                  "id": "KALIARTI000005766027",
-                  "num": "1",
-                  "intOrdre": 42949,
-                  "content": "<p></p>   Le présent accord, et les modalités d'aménagement et de réduction du temps de travail qu'il contient, est conclu au bénéfice de l'ensemble du personnel et des entreprises relevant du champ d'application professionnel de la convention collective nationale du personnel de la reprographie.<p></p><p></p>   Il a notamment pour objet de permettre aux entreprises dont l'effectif est inférieur à 50 salariés d'appliquer volontairement et directement la réduction de la durée du travail, en bénéficiant des allégements de cotisations, dans les conditions et selon les modalités définies dans le cadre du présent accord, sans qu'elles aient à recourir à la conclusion d'un accord collectif d'entreprise.<p></p><p></p>   Les partenaires sociaux souhaitent, par le biais des mesures d'application directe, permettre aux nombreuses entreprises de la branche employant au plus 20 salariés et n'ayant pas signé de convention avec l'Etat au 1er février 2000 de bénéficier de l'aide incitative à la réduction du temps de travail, dans les conditions et selon les modalités définies par l'article 3 de la loi du 13 juin 1998 modifié par les articles 23 et 24 de la loi du 19 janvier 2000. De même, ces mesures d'application directe doivent permettre aux entreprises employant entre plus de 20 et moins de 50 personnes de bénéficier des allégements de charges sociales prévus par l'article 19 de la loi du 19 janvier 2000, sans nécessiter d'accord d'entreprise tout en respectant les dispositions du présent accord de branche.<p></p><p></p>   Les entreprises relevant du champ d'application professionnel de la convention collective nationale du personnel de la reprographie, dont l'effectif est supérieur ou égal à 50 salariés demeurant quant à elles, pour bénéficier des allégements de cotisations sociales, légalement soumises à l'obligation de conclure un accord complémentaire d'entreprise, dans les conditions et selon les modalités telles que définies par les dispositions légales et leurs décrets d'application.<p></p><p></p>   Le présent accord offre également à toutes entreprises visées au premier alinéa du présent article différentes modalités d'aménagement et de réduction du temps de travail, sans toutefois que leur mise en oeuvre soit conditionnée par le bénéfice des allégements de cotisations sociales.<p></p><p></p>   Tous les salariés appartenant aux entreprises susvisées bénéficient du présent accord à l'exception des cadres dirigeants au sens de l'article L. 212-15-1, et d'éventuelles exclusions prévues par certains articles.<p></p><p></p>   Des adaptations aux dispositions du présent accord peuvent être mises en oeuvre par accord collectif d'entreprise ou d'établissement.<p></p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ],
-              "sections": [
-                {
-                  "id": "KALISCTA000005733886",
+                  "type": "section",
                   "intOrdre": 85898,
                   "title": "Durée - Dépôt - Entrée en vigueur.",
+                  "id": "KALISCTA000005733886",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000005766028",
                       "num": "2",
                       "intOrdre": 42949,
@@ -1228,12 +1386,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000005733887",
+                  "type": "section",
                   "intOrdre": 128847,
                   "title": "Révision.",
+                  "id": "KALISCTA000005733887",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000005766029",
                       "num": "3",
                       "intOrdre": 42949,
@@ -1243,12 +1403,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000005733888",
+                  "type": "section",
                   "intOrdre": 171796,
                   "title": "Dénonciation.",
+                  "id": "KALISCTA000005733888",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000005766030",
                       "num": "4",
                       "intOrdre": 42949,
@@ -1258,12 +1420,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000005733889",
+                  "type": "section",
                   "intOrdre": 214745,
                   "title": "Commission paritaire nationale de suivi.",
+                  "id": "KALISCTA000005733889",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000005766032",
                       "num": "5",
                       "intOrdre": 42949,
@@ -1271,22 +1435,33 @@
                       "etat": "VIGUEUR_ETEN"
                     }
                   ]
+                },
+                {
+                  "type": "article",
+                  "id": "KALIARTI000005766027",
+                  "num": "1",
+                  "intOrdre": 42949,
+                  "content": "<p></p>   Le présent accord, et les modalités d'aménagement et de réduction du temps de travail qu'il contient, est conclu au bénéfice de l'ensemble du personnel et des entreprises relevant du champ d'application professionnel de la convention collective nationale du personnel de la reprographie.<p></p><p></p>   Il a notamment pour objet de permettre aux entreprises dont l'effectif est inférieur à 50 salariés d'appliquer volontairement et directement la réduction de la durée du travail, en bénéficiant des allégements de cotisations, dans les conditions et selon les modalités définies dans le cadre du présent accord, sans qu'elles aient à recourir à la conclusion d'un accord collectif d'entreprise.<p></p><p></p>   Les partenaires sociaux souhaitent, par le biais des mesures d'application directe, permettre aux nombreuses entreprises de la branche employant au plus 20 salariés et n'ayant pas signé de convention avec l'Etat au 1er février 2000 de bénéficier de l'aide incitative à la réduction du temps de travail, dans les conditions et selon les modalités définies par l'article 3 de la loi du 13 juin 1998 modifié par les articles 23 et 24 de la loi du 19 janvier 2000. De même, ces mesures d'application directe doivent permettre aux entreprises employant entre plus de 20 et moins de 50 personnes de bénéficier des allégements de charges sociales prévus par l'article 19 de la loi du 19 janvier 2000, sans nécessiter d'accord d'entreprise tout en respectant les dispositions du présent accord de branche.<p></p><p></p>   Les entreprises relevant du champ d'application professionnel de la convention collective nationale du personnel de la reprographie, dont l'effectif est supérieur ou égal à 50 salariés demeurant quant à elles, pour bénéficier des allégements de cotisations sociales, légalement soumises à l'obligation de conclure un accord complémentaire d'entreprise, dans les conditions et selon les modalités telles que définies par les dispositions légales et leurs décrets d'application.<p></p><p></p>   Le présent accord offre également à toutes entreprises visées au premier alinéa du présent article différentes modalités d'aménagement et de réduction du temps de travail, sans toutefois que leur mise en oeuvre soit conditionnée par le bénéfice des allégements de cotisations sociales.<p></p><p></p>   Tous les salariés appartenant aux entreprises susvisées bénéficient du présent accord à l'exception des cadres dirigeants au sens de l'article L. 212-15-1, et d'éventuelles exclusions prévues par certains articles.<p></p><p></p>   Des adaptations aux dispositions du présent accord peuvent être mises en oeuvre par accord collectif d'entreprise ou d'établissement.<p></p>",
+                  "etat": "VIGUEUR_ETEN"
                 }
               ]
             },
             {
-              "id": "KALISCTA000005689800",
+              "type": "section",
               "intOrdre": 128847,
               "title": "Chapitre II : Dispositions relatives à la durée du travail",
+              "id": "KALISCTA000005689800",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000005733890",
+                  "type": "section",
                   "intOrdre": 42949,
                   "title": "Durée du travail hebdomadaire.",
+                  "id": "KALISCTA000005733890",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000005766033",
                       "num": "6",
                       "intOrdre": 42949,
@@ -1296,12 +1471,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000005733891",
+                  "type": "section",
                   "intOrdre": 85898,
                   "title": "Durée maximum quotidienne et hebdomadaire.",
+                  "id": "KALISCTA000005733891",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000005766034",
                       "num": "7",
                       "intOrdre": 42949,
@@ -1311,12 +1488,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000005733892",
+                  "type": "section",
                   "intOrdre": 128847,
                   "title": "Repos quotidien.",
+                  "id": "KALISCTA000005733892",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000005766035",
                       "num": "8",
                       "intOrdre": 42949,
@@ -1326,12 +1505,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000005733893",
+                  "type": "section",
                   "intOrdre": 171796,
                   "title": "Régime des heures supplémentaires.",
+                  "id": "KALISCTA000005733893",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000005766036",
                       "num": "9",
                       "intOrdre": 42949,
@@ -1341,12 +1522,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000005733895",
+                  "type": "section",
                   "intOrdre": 214745,
                   "title": "Contingent annuel d'heures supplémentaires.",
+                  "id": "KALISCTA000005733895",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000017997054",
                       "num": "10",
                       "intOrdre": 42949,
@@ -1357,12 +1540,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000005733896",
+                  "type": "section",
                   "intOrdre": 257694,
                   "title": "Remplacement du paiement des heures supplémentaires par un repos compensateur de remplacement.",
+                  "id": "KALISCTA000005733896",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000005766038",
                       "num": "11",
                       "intOrdre": 42949,
@@ -1374,24 +1559,28 @@
               ]
             },
             {
-              "id": "KALISCTA000005689801",
+              "type": "section",
               "intOrdre": 171796,
               "title": "Chapitre III : Réduction du temps de travail",
+              "id": "KALISCTA000005689801",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000005733897",
+                  "type": "section",
                   "intOrdre": 42949,
                   "title": "Section 1 : Dispositions relatives à la réduction aidée du temps de travail",
+                  "id": "KALISCTA000005733897",
                   "etat": "VIGUEUR_ETEN",
-                  "sections": [
+                  "children": [
                     {
-                      "id": "KALISCTA000005757203",
+                      "type": "section",
                       "intOrdre": 42949,
                       "title": "Réduction du temps de travail pour toutes les entreprises dans le cadre de la loi n° 2000-37 du 19 janvier 2000 avec allégement de charges sociales.",
+                      "id": "KALISCTA000005757203",
                       "etat": "VIGUEUR_ETEN",
-                      "articles": [
+                      "children": [
                         {
+                          "type": "article",
                           "id": "KALIARTI000005766039",
                           "num": "12",
                           "intOrdre": 42949,
@@ -1401,12 +1590,14 @@
                       ]
                     },
                     {
-                      "id": "KALISCTA000005757204",
+                      "type": "section",
                       "intOrdre": 85898,
                       "title": "Réduction du temps de travail et aide incitative dans les entreprises de moins de 20 salariés.",
+                      "id": "KALISCTA000005757204",
                       "etat": "VIGUEUR_ETEN",
-                      "articles": [
+                      "children": [
                         {
+                          "type": "article",
                           "id": "KALIARTI000005766040",
                           "num": "13",
                           "intOrdre": 42949,
@@ -1418,18 +1609,21 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000005733898",
+                  "type": "section",
                   "intOrdre": 85898,
                   "title": "Section 2 : Incidences de la réduction du temps de travail sur la rémunération",
+                  "id": "KALISCTA000005733898",
                   "etat": "VIGUEUR_ETEN",
-                  "sections": [
+                  "children": [
                     {
-                      "id": "KALISCTA000005757205",
+                      "type": "section",
                       "intOrdre": 42949,
                       "title": "Réduction du temps de travail avec maintien des salaires.",
+                      "id": "KALISCTA000005757205",
                       "etat": "VIGUEUR_ETEN",
-                      "articles": [
+                      "children": [
                         {
+                          "type": "article",
                           "id": "KALIARTI000005766042",
                           "num": "14 (1)",
                           "intOrdre": 42949,
@@ -1439,12 +1633,14 @@
                       ]
                     },
                     {
-                      "id": "KALISCTA000005757206",
+                      "type": "section",
                       "intOrdre": 85898,
                       "title": "Modalités du maintien des salaires.",
+                      "id": "KALISCTA000005757206",
                       "etat": "VIGUEUR_ETEN",
-                      "articles": [
+                      "children": [
                         {
+                          "type": "article",
                           "id": "KALIARTI000005766043",
                           "num": "15",
                           "intOrdre": 42949,
@@ -1458,33 +1654,28 @@
               ]
             },
             {
-              "id": "KALISCTA000005689802",
+              "type": "section",
               "intOrdre": 214745,
               "title": "Chapitre IV : Aménagement et réduction du temps de travail",
+              "id": "KALISCTA000005689802",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
-                  "id": "KALIARTI000005766044",
-                  "num": null,
-                  "intOrdre": 42949,
-                  "content": "<p></p>   L'accord de branche sera applicable directement par les entreprises sous réserve des dispositions suivantes :<p></p><p></p>   - le personnel des entreprises disposant d'un comité d'entreprise et/ou de délégués du personnel sera informé et consulté, selon les dispositions légales, sur les modalités de mise en oeuvre de l'organisation, de la modulation et de la réduction du temps de travail ;<p></p><p></p>   - pour les entreprises ne disposant pas de représentants du personnel, l'information sur l'ARTT devra être communiquée au personnel avec un délai de 15 jours préalablement à sa mise en place définitive.<p></p><p></p>   La réduction du temps de travail pourra s'effectuer selon différentes modalités pour tenir compte à la fois des nécessités d'une nouvelle adaptation des horaires aux besoins des clients et des aspirations des salariés.<p></p><p></p>   Les entreprises ou les établissements qui appliqueront une réduction du temps de travail pourront le faire dans le cadre hebdomadaire, par modulation des horaires de travail ou sous forme de jours de repos supplémentaires, ou enfin en combinant ces différents systèmes d'organisation du temps de travail, par service, par atelier, voire par salarié, et dans le respect des modalités définies ci-après.<p></p><p></p>   Ainsi, seront successivement envisagées :<p></p><p></p>   - l'organisation de la durée du travail dans le cadre de la semaine (section 1, art. 16) ;<p></p><p></p>   - la modulation (section 2, art. 17) ;<p></p><p></p>   - la réduction du temps de travail par l'attribution de jours de repos supplémentaires (section 3, art. 18).<p></p><p></p>   Ces 3 méthodes peuvent être combinées dans une même entreprise selon les postes de travail.<p></p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ],
-              "sections": [
-                {
-                  "id": "KALISCTA000005733899",
+                  "type": "section",
                   "intOrdre": 85898,
                   "title": "Section 1 : Répartition hebdomadaire de l'horaire collectif de travail",
+                  "id": "KALISCTA000005733899",
                   "etat": "VIGUEUR_ETEN",
-                  "sections": [
+                  "children": [
                     {
-                      "id": "KALISCTA000005757207",
+                      "type": "section",
                       "intOrdre": 42949,
                       "title": "L'organisation.",
+                      "id": "KALISCTA000005757207",
                       "etat": "VIGUEUR_ETEN",
-                      "articles": [
+                      "children": [
                         {
+                          "type": "article",
                           "id": "KALIARTI000005766045",
                           "num": "16",
                           "intOrdre": 42949,
@@ -1496,18 +1687,21 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000005733901",
+                  "type": "section",
                   "intOrdre": 128847,
                   "title": "Section 2 : Modulation du temps de travail ",
+                  "id": "KALISCTA000005733901",
                   "etat": "VIGUEUR_ETEN",
-                  "sections": [
+                  "children": [
                     {
-                      "id": "KALISCTA000005757208",
+                      "type": "section",
                       "intOrdre": 42949,
                       "title": "La modulation.",
+                      "id": "KALISCTA000005757208",
                       "etat": "VIGUEUR_ETEN",
-                      "articles": [
+                      "children": [
                         {
+                          "type": "article",
                           "id": "KALIARTI000005766047",
                           "num": "17",
                           "intOrdre": 85898,
@@ -1520,18 +1714,21 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000005733902",
+                  "type": "section",
                   "intOrdre": 171796,
                   "title": "Section 3 : Réduction du temps de travail sous forme de jours de repos",
+                  "id": "KALISCTA000005733902",
                   "etat": "VIGUEUR_ETEN",
-                  "sections": [
+                  "children": [
                     {
-                      "id": "KALISCTA000005757209",
+                      "type": "section",
                       "intOrdre": 42949,
                       "title": "La réduction.",
+                      "id": "KALISCTA000005757209",
                       "etat": "VIGUEUR_ETEN",
-                      "articles": [
+                      "children": [
                         {
+                          "type": "article",
                           "id": "KALIARTI000005766049",
                           "num": "18",
                           "intOrdre": 85898,
@@ -1544,18 +1741,21 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000005733903",
+                  "type": "section",
                   "intOrdre": 214745,
                   "title": "Section 4 : Travail à temps partiel",
+                  "id": "KALISCTA000005733903",
                   "etat": "VIGUEUR_ETEN",
-                  "sections": [
+                  "children": [
                     {
-                      "id": "KALISCTA000005757210",
+                      "type": "section",
                       "intOrdre": 42949,
                       "title": "Le temps partiel.",
+                      "id": "KALISCTA000005757210",
                       "etat": "VIGUEUR_ETEN",
-                      "articles": [
+                      "children": [
                         {
+                          "type": "article",
                           "id": "KALIARTI000005766052",
                           "num": "19",
                           "intOrdre": 85898,
@@ -1566,22 +1766,33 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "type": "article",
+                  "id": "KALIARTI000005766044",
+                  "num": null,
+                  "intOrdre": 42949,
+                  "content": "<p></p>   L'accord de branche sera applicable directement par les entreprises sous réserve des dispositions suivantes :<p></p><p></p>   - le personnel des entreprises disposant d'un comité d'entreprise et/ou de délégués du personnel sera informé et consulté, selon les dispositions légales, sur les modalités de mise en oeuvre de l'organisation, de la modulation et de la réduction du temps de travail ;<p></p><p></p>   - pour les entreprises ne disposant pas de représentants du personnel, l'information sur l'ARTT devra être communiquée au personnel avec un délai de 15 jours préalablement à sa mise en place définitive.<p></p><p></p>   La réduction du temps de travail pourra s'effectuer selon différentes modalités pour tenir compte à la fois des nécessités d'une nouvelle adaptation des horaires aux besoins des clients et des aspirations des salariés.<p></p><p></p>   Les entreprises ou les établissements qui appliqueront une réduction du temps de travail pourront le faire dans le cadre hebdomadaire, par modulation des horaires de travail ou sous forme de jours de repos supplémentaires, ou enfin en combinant ces différents systèmes d'organisation du temps de travail, par service, par atelier, voire par salarié, et dans le respect des modalités définies ci-après.<p></p><p></p>   Ainsi, seront successivement envisagées :<p></p><p></p>   - l'organisation de la durée du travail dans le cadre de la semaine (section 1, art. 16) ;<p></p><p></p>   - la modulation (section 2, art. 17) ;<p></p><p></p>   - la réduction du temps de travail par l'attribution de jours de repos supplémentaires (section 3, art. 18).<p></p><p></p>   Ces 3 méthodes peuvent être combinées dans une même entreprise selon les postes de travail.<p></p>",
+                  "etat": "VIGUEUR_ETEN"
                 }
               ]
             },
             {
-              "id": "KALISCTA000005689803",
+              "type": "section",
               "intOrdre": 257694,
               "title": "Chapitre V : Dispositions particulières aux cadres",
+              "id": "KALISCTA000005689803",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000005733904",
+                  "type": "section",
                   "intOrdre": 42949,
                   "title": "Les cadres dirigeants.",
+                  "id": "KALISCTA000005733904",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000005766053",
                       "num": "20",
                       "intOrdre": 42949,
@@ -1591,12 +1802,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000005733905",
+                  "type": "section",
                   "intOrdre": 85898,
                   "title": "Les cadres intégrés.",
+                  "id": "KALISCTA000005733905",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000005766054",
                       "num": "21",
                       "intOrdre": 42949,
@@ -1606,12 +1819,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000005733906",
+                  "type": "section",
                   "intOrdre": 128847,
                   "title": "Les cadres autonomes.",
+                  "id": "KALISCTA000005733906",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000005766056",
                       "num": "22",
                       "intOrdre": 85898,
@@ -1624,18 +1839,21 @@
               ]
             },
             {
-              "id": "KALISCTA000005689804",
+              "type": "section",
               "intOrdre": 300643,
               "title": "Chapitre VI : Dispositions diverses",
+              "id": "KALISCTA000005689804",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000005733908",
+                  "type": "section",
                   "intOrdre": 42949,
                   "title": "Révision des dispositions conventionnelles relatives à la durée du travail.",
+                  "id": "KALISCTA000005733908",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000005766057",
                       "num": "23",
                       "intOrdre": 42949,
@@ -1645,12 +1863,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000005733909",
+                  "type": "section",
                   "intOrdre": 85898,
                   "title": "Révision des dispositions conventionnelles relatives à la prime annuelle des catégories ouvriers, employés, cadres et agents de maîtrise.",
+                  "id": "KALISCTA000005733909",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000005766058",
                       "num": "24",
                       "intOrdre": 42949,
@@ -1660,12 +1880,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000005733910",
+                  "type": "section",
                   "intOrdre": 128847,
                   "title": "Révision des dispositions conventionnelles relatives à la prime d'hiver des catégories ouvriers et employés.",
+                  "id": "KALISCTA000005733910",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000005766059",
                       "num": "25",
                       "intOrdre": 42949,
@@ -1675,12 +1897,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000005733911",
+                  "type": "section",
                   "intOrdre": 171796,
                   "title": "Révision des dispositions conventionnelles relatives aux agents de maîtrise et des cadres.",
+                  "id": "KALISCTA000005733911",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000005766060",
                       "num": "26",
                       "intOrdre": 42949,
@@ -1692,57 +1916,23 @@
               ]
             }
           ]
-        },
-        {
-          "id": "KALITEXT000005639892",
-          "title": "Annexe commissions régionales de conciliation et d'arbitrage Convention collective nationale du 18 décembre 1972",
-          "dateParution": 32472144000000,
-          "sections": [
-            {
-              "id": "KALISCTA000005689795",
-              "intOrdre": 42949,
-              "title": "Classification",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000005766024",
-                  "num": null,
-                  "intOrdre": 42949,
-                  "content": "<p>Ain : Lyon.</p><p>Aisne : Lille.</p><p>Allier : Bourges.</p><p>Alpes-de-Haute-Provence : Marseille.</p><p>Alpes (Hautes-) : Marseille.</p><p>Alpes-Maritimes : Marseille.</p><p>Ardèche : Lyon.</p><p>Ardennes : Lille.</p><p>Ariège : Toulouse.</p><p>Aube : Nancy.</p><p>Aude : Toulouse.</p><p>Aveyron : Toulouse.</p><p>Bouches-du-Rhône : Marseille.</p><p>Calvados : Caen.</p><p>Cantal : Toulouse.</p><p>Charente : Bordeaux.</p><p>Charente-Maritime : Bordeaux.</p><p>Cher : Bourges.</p><p>Corrèze : Bordeaux.</p><p>Corse : Marseille.</p><p>Côte-d'Or : Lyon.</p><p>Côtes-du-Nord : Nantes.</p><p>Creuse : Bourges.</p><p>Dordogne : Bordeaux.</p><p>Doubs et Belfort : Nancy.</p><p>Drôme : Lyon.</p><p>Eure : Caen.</p><p>Eure-et-Loir : Caen.</p><p>Finistère : Nantes.</p><p>Gard : Marseille.</p><p>Garonne (Haute-) : Toulouse.</p><p>Gers : Toulouse.</p><p>Gironde : Bordeaux.</p><p>Hérault : Marseille.</p><p>Ille-et-Vilaine : Nantes.</p><p>Indre : Bourges.</p><p>Indre-et-Loire : Bourges.</p><p>Isère : Lyon.</p><p>Jura : Lyon.</p><p>Landes : Bordeaux.</p><p>Loir-et-Cher : Bourges.</p><p>Loire : Lyon.</p><p>Loire (Haute-) : Lyon.</p><p>Loire-Atlantique : Nantes.</p><p>Loiret : Bourges.</p><p>Lot : Toulouse.</p><p>Lot-et-Garonne : Toulouse.</p><p>Lozère : Marseille.</p><p>Maine-et-Loire : Nantes.</p><p>Manche : Caen.</p><p>Marne : Nancy.</p><p>Marne (Haute-) : Nancy.</p><p>Mayenne : Nantes.</p><p>Meurthe-et-Moselle : Nancy.</p><p>Meuse : Nancy.</p><p>Morbihan : Nantes.</p><p>Moselle : Nancy.</p><p>Nièvre : Bourges.</p><p>Nord : Lille.</p><p>Oise : Paris.</p><p>Orne : Caen.</p><p>Pas-de-Calais : Lille.</p><p>Puy-de-Dôme : Lyon.</p><p>Pyrénées-Atlantiques : Bordeaux.</p><p>Pyrénées (Hautes-) : Bordeaux.</p><p>Pyrénées-Orientales : Toulouse.</p><p>Rhin (Bas-) : Nancy.</p><p>Rhin (Haut-) : Nancy.</p><p>Rhône : Lyon.</p><p>Saône (Haute-) : Lyon.</p><p>Saône-et Loire : Lyon.</p><p>Sarthe : Nantes.</p><p>Savoie : Lyon.</p><p>Savoie (Haute-) : Lyon.</p><p>Seine-Maritime : Caen.</p><p>Sèvres (Deux-) : Nantes.</p><p>Somme : Lille.</p><p>Tarn : Toulouse.</p><p>Tarn-et-Garonne : Toulouse.</p><p>Var : Marseille.</p><p>Vaucluse : Marseille.</p><p>Vendée : Nantes.</p><p>Vienne : Bourges.</p><p>Vienne (Haute-) : Bourges.</p><p>Vosges : Nancy.</p><p>Yonne : Bourges.</p><p>Région parisienne</p><p>Essonne : Paris.</p><p>Hauts-de-Seine : Paris.</p><p>Paris (ville de) : Paris.</p><p>Seine-et-Marne : Paris.</p><p>Seine-Saint-Denis : Paris.</p><p>Val-de-Marne : Paris.</p><p>Val-d'Oise : Paris.</p><p>Yvelines : Paris.</p><p></p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
-          ]
         }
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 3,
       "title": "Textes Salaires",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000029148904",
-          "title": "Accord du 25 février 2014 relatif aux salaires minima pour l'année 2014",
-          "dateParution": 32472144000000,
-          "articles": [
-            {
-              "id": "KALIARTI000029148907",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p align='left'><br/>il a été convenu d'un commun accord entre les organisations signataires de fixer à compter du premier jour du mois suivant l'extension du présent accord :<br/>– le salaire minimum professionnel à 1 460 € pour 152,25 heures ;<br/>– l'ensemble des salaires minima conventionnels des classifications « ouvriers/ouvrières » comme suit :<br/>– niveau 10.00 : 1 460 € ;<br/>– niveau 10.30 : 1 500 € ;<br/>– niveau 10.70 : 1 555 €.</p><p align='left'><br/>Le présent accord sera soumis à extension.<br/>Les organisations signataires rappellent que celui-ci s'appliquera à toutes les entreprises après extension et qu'aucun salarié ne devra être rémunéré en dessous du salaire minimum professionnel.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000037147354",
+          "type": "section",
           "title": "Accord du 12 février 2018 relatif aux salaires minima",
-          "dateParution": 1530662400000,
-          "articles": [
+          "id": "KALITEXT000037147354",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000037147357",
               "num": null,
               "intOrdre": 524287,
@@ -1752,53 +1942,12 @@
           ]
         },
         {
-          "id": "KALITEXT000030785882",
-          "title": "Accord du 31 mars 2015 relatif aux salaires minima pour l'année 2015",
-          "dateParution": 1435536000000,
-          "articles": [
-            {
-              "id": "KALIARTI000030785885",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p align='left'><br/>il a été convenu d'un commun accord entre les organisations signataires de fixer à compter du premier jour du mois suivant l'extension du présent accord :<br/>– le salaire minimum professionnel à 1 468 € pour 152,25 heures ;<br/>– l'ensemble des salaires minima conventionnels des classifications comme suit :<br/>– niveau 10.00 : 1 468 € ;<br/>– niveau 10.30 : 1 508 € ;<br/>– niveau 10.70 : 1 587 € ;<br/>– niveau 30.00 : 1 799 € ;<br/>– niveau 30.50 : 2 010 € ;<br/>– niveau 40.00 : 2 065 € ;<br/>– niveau 40.30 : 2 610 € ;<br/>– niveau 40.50 : 3 170 €.<br/>Le présent accord sera soumis à extension.<br/>Les organisations signataires entendent insister sur les principes généraux d'égalité femmes-hommes dans les politiques de rémunération.<br/>A cet effet, elles rappellent tout particulièrement :<br/>– les employeurs doivent identifier les écarts de rémunération entre les femmes et les hommes ;<br/>– les employeurs s'engagent, à travail égal, à réduire les écarts de rémunération entre les femmes et les hommes et à arriver à la date de l'extension de l'accord à une égalité de salaire ;<br/>– les différents éléments composant la rémunération doivent être établis selon des normes identiques pour les femmes et les hommes.<br/>Les organisations signataires rappellent que le présent accord s'appliquera à toutes les entreprises après extension et qu'aucun salarié ne devra être rémunéré en dessous du salaire minimum professionnel.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000029883830",
-          "title": "Accord du 30 septembre 2014 relatif aux salaires",
-          "dateParution": 32472144000000,
-          "articles": [
-            {
-              "id": "KALIARTI000029883833",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p align='left'><br/>il a été convenu d'un commun accord entre les organisations signataires de fixer, à compter du jour du mois suivant l'extension du présent accord, l'ensemble des salaires minima conventionnels des classifications « cadres » comme suit :<br/>– niveau 40.00 : 2 055 € ;<br/>– niveau 40.30 : 2 595 € ;<br/>– niveau 40.50 : 3 130 €.<br/>Le présent accord sera soumis à extension. Il s'appliquera le premier jour du mois suivant son extension.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000029264679",
-          "title": "Accord du 8 avril 2014 relatif aux salaires minima conventionnels des classifications « agents de maîtrise »",
-          "dateParution": 32472144000000,
-          "articles": [
-            {
-              "id": "KALIARTI000029264682",
-              "num": null,
-              "intOrdre": 524287,
-              "content": "<p align='left'><br/>il a été convenu d'un commun accord entre les organisations signataires de fixer, à compter du jour du mois suivant l'extension du présent accord, l'ensemble des salaires minima conventionnels des classifications « agents de maîtrise » comme suit :<br/>– niveau 30.00 : 1 790 € ;<br/>– niveau 30.50 : 2 000 €.<br/>Le présent accord sera soumis à extension. Il s'appliquera le premier jour du mois suivant son extension.</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000032849766",
+          "type": "section",
           "title": "Accord du 14 avril 2016 relatif aux salaires minima pour l'année 2016",
-          "dateParution": 1467763200000,
-          "articles": [
+          "id": "KALITEXT000032849766",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000032849769",
               "num": null,
               "intOrdre": 524287,
@@ -1808,11 +1957,72 @@
           ]
         },
         {
-          "id": "KALITEXT000027448967",
-          "title": "Accord du 15 janvier 2013 relatif aux salaires minima pour l'année 2013",
-          "dateParution": 1369612800000,
-          "articles": [
+          "type": "section",
+          "title": "Accord du 31 mars 2015 relatif aux salaires minima pour l'année 2015",
+          "id": "KALITEXT000030785882",
+          "children": [
             {
+              "type": "article",
+              "id": "KALIARTI000030785885",
+              "num": null,
+              "intOrdre": 524287,
+              "content": "<p align='left'><br/>il a été convenu d'un commun accord entre les organisations signataires de fixer à compter du premier jour du mois suivant l'extension du présent accord :<br/>– le salaire minimum professionnel à 1 468 € pour 152,25 heures ;<br/>– l'ensemble des salaires minima conventionnels des classifications comme suit :<br/>– niveau 10.00 : 1 468 € ;<br/>– niveau 10.30 : 1 508 € ;<br/>– niveau 10.70 : 1 587 € ;<br/>– niveau 30.00 : 1 799 € ;<br/>– niveau 30.50 : 2 010 € ;<br/>– niveau 40.00 : 2 065 € ;<br/>– niveau 40.30 : 2 610 € ;<br/>– niveau 40.50 : 3 170 €.<br/>Le présent accord sera soumis à extension.<br/>Les organisations signataires entendent insister sur les principes généraux d'égalité femmes-hommes dans les politiques de rémunération.<br/>A cet effet, elles rappellent tout particulièrement :<br/>– les employeurs doivent identifier les écarts de rémunération entre les femmes et les hommes ;<br/>– les employeurs s'engagent, à travail égal, à réduire les écarts de rémunération entre les femmes et les hommes et à arriver à la date de l'extension de l'accord à une égalité de salaire ;<br/>– les différents éléments composant la rémunération doivent être établis selon des normes identiques pour les femmes et les hommes.<br/>Les organisations signataires rappellent que le présent accord s'appliquera à toutes les entreprises après extension et qu'aucun salarié ne devra être rémunéré en dessous du salaire minimum professionnel.</p>",
+              "etat": "VIGUEUR_ETEN"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Accord du 30 septembre 2014 relatif aux salaires",
+          "id": "KALITEXT000029883830",
+          "children": [
+            {
+              "type": "article",
+              "id": "KALIARTI000029883833",
+              "num": null,
+              "intOrdre": 524287,
+              "content": "<p align='left'><br/>il a été convenu d'un commun accord entre les organisations signataires de fixer, à compter du jour du mois suivant l'extension du présent accord, l'ensemble des salaires minima conventionnels des classifications « cadres » comme suit :<br/>– niveau 40.00 : 2 055 € ;<br/>– niveau 40.30 : 2 595 € ;<br/>– niveau 40.50 : 3 130 €.<br/>Le présent accord sera soumis à extension. Il s'appliquera le premier jour du mois suivant son extension.</p>",
+              "etat": "VIGUEUR_ETEN"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Accord du 8 avril 2014 relatif aux salaires minima conventionnels des classifications « agents de maîtrise »",
+          "id": "KALITEXT000029264679",
+          "children": [
+            {
+              "type": "article",
+              "id": "KALIARTI000029264682",
+              "num": null,
+              "intOrdre": 524287,
+              "content": "<p align='left'><br/>il a été convenu d'un commun accord entre les organisations signataires de fixer, à compter du jour du mois suivant l'extension du présent accord, l'ensemble des salaires minima conventionnels des classifications « agents de maîtrise » comme suit :<br/>– niveau 30.00 : 1 790 € ;<br/>– niveau 30.50 : 2 000 €.<br/>Le présent accord sera soumis à extension. Il s'appliquera le premier jour du mois suivant son extension.</p>",
+              "etat": "VIGUEUR_ETEN"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Accord du 25 février 2014 relatif aux salaires minima pour l'année 2014",
+          "id": "KALITEXT000029148904",
+          "children": [
+            {
+              "type": "article",
+              "id": "KALIARTI000029148907",
+              "num": null,
+              "intOrdre": 524287,
+              "content": "<p align='left'><br/>il a été convenu d'un commun accord entre les organisations signataires de fixer à compter du premier jour du mois suivant l'extension du présent accord :<br/>– le salaire minimum professionnel à 1 460 € pour 152,25 heures ;<br/>– l'ensemble des salaires minima conventionnels des classifications « ouvriers/ouvrières » comme suit :<br/>– niveau 10.00 : 1 460 € ;<br/>– niveau 10.30 : 1 500 € ;<br/>– niveau 10.70 : 1 555 €.</p><p align='left'><br/>Le présent accord sera soumis à extension.<br/>Les organisations signataires rappellent que celui-ci s'appliquera à toutes les entreprises après extension et qu'aucun salarié ne devra être rémunéré en dessous du salaire minimum professionnel.</p>",
+              "etat": "VIGUEUR_ETEN"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Accord du 15 janvier 2013 relatif aux salaires minima pour l'année 2013",
+          "id": "KALITEXT000027448967",
+          "children": [
+            {
+              "type": "article",
               "id": "KALIARTI000027448970",
               "num": null,
               "intOrdre": 524287,
@@ -1822,11 +2032,12 @@
           ]
         },
         {
-          "id": "KALITEXT000026167736",
+          "type": "section",
           "title": "Accord du 4 avril 2012 relatif aux salaires au 1er juillet 2012",
-          "dateParution": 1341964800000,
-          "articles": [
+          "id": "KALITEXT000026167736",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000026167739",
               "num": null,
               "intOrdre": 524287,
@@ -1836,11 +2047,12 @@
           ]
         },
         {
-          "id": "KALITEXT000020687357",
+          "type": "section",
           "title": "Accord du 26 février 2009 relatif aux salaires au 1er juin 2009",
-          "dateParution": 1243987200000,
-          "articles": [
+          "id": "KALITEXT000020687357",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000020687360",
               "num": null,
               "intOrdre": 524287,
@@ -1850,11 +2062,12 @@
           ]
         },
         {
-          "id": "KALITEXT000019273953",
+          "type": "section",
           "title": "Accord du 23 avril 2008 relatif aux salaires à compter du 1er août 2008",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000019273953",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000019273956",
               "num": null,
               "intOrdre": 524287,
@@ -1864,17 +2077,19 @@
           ]
         },
         {
-          "id": "KALITEXT000005639912",
+          "type": "section",
           "title": "Avenant du 28 novembre 2005 relatif au salaire ",
-          "dateParution": 32472144000000,
-          "sections": [
+          "id": "KALITEXT000005639912",
+          "children": [
             {
-              "id": "KALISCTA000005689810",
+              "type": "section",
               "intOrdre": 42949,
               "title": "Salaire minimum professionnel à compter du 1er janvier 2006",
+              "id": "KALISCTA000005689810",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000005766072",
                   "num": null,
                   "intOrdre": 42949,

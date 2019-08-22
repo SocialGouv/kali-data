@@ -1,25 +1,26 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale du portage de presse du 26 juin 2007",
   "id": "KALICONT000019901252",
   "num": "2683",
-  "title": "Convention collective nationale du portage de presse du 26 juin 2007",
   "shortTitle": "Portage De Presse",
-  "categorisation": [
-    "Portage de presse"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000019901257",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale du portage de presse du 26 juin 2007",
+      "id": "KALITEXT000019901257",
       "etat": "VIGUEUR_ETEN",
-      "sections": [
+      "children": [
         {
-          "id": "KALISCTA000020741949",
+          "type": "section",
           "intOrdre": 262143,
           "title": "Champ d'application",
+          "id": "KALISCTA000020741949",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000019901259",
               "num": "1",
               "intOrdre": 1073741823,
@@ -29,12 +30,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020741950",
+          "type": "section",
           "intOrdre": 393215,
           "title": "Droit syndical et liberté d'opinion",
+          "id": "KALISCTA000020741950",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030996382",
               "num": "2",
               "intOrdre": 1073741823,
@@ -44,12 +47,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020741951",
+          "type": "section",
           "intOrdre": 458751,
           "title": "Durée, révision, dénonciation, avenants",
+          "id": "KALISCTA000020741951",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030996385",
               "num": "3",
               "intOrdre": 1073741823,
@@ -59,12 +64,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020741952",
+          "type": "section",
           "intOrdre": 491519,
           "title": "Commission paritaire de conciliation",
+          "id": "KALISCTA000020741952",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030996388",
               "num": "4",
               "intOrdre": 1073741823,
@@ -74,12 +81,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020741953",
+          "type": "section",
           "intOrdre": 507903,
           "title": "Commission paritaire d'interprétation",
+          "id": "KALISCTA000020741953",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030996390",
               "num": "5",
               "intOrdre": 1073741823,
@@ -89,12 +98,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020741955",
+          "type": "section",
           "intOrdre": 1826812,
           "title": "Avantages acquis",
+          "id": "KALISCTA000020741955",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000019901266",
               "num": "6",
               "intOrdre": 1073741823,
@@ -104,12 +115,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020741956",
+          "type": "section",
           "intOrdre": 2486267,
           "title": "Conditions d'emploi",
+          "id": "KALISCTA000020741956",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030996392",
               "num": "7",
               "intOrdre": 1073741823,
@@ -119,12 +132,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020741957",
+          "type": "section",
           "intOrdre": 2815994,
           "title": "Préavis",
+          "id": "KALISCTA000020741957",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000019901272",
               "num": "8",
               "intOrdre": 1073741823,
@@ -134,12 +149,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020741958",
+          "type": "section",
           "intOrdre": 2980858,
           "title": "Durée du travail",
+          "id": "KALISCTA000020741958",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030996394",
               "num": "9",
               "intOrdre": 1073741823,
@@ -149,12 +166,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020741962",
+          "type": "section",
           "intOrdre": 4111864,
           "title": "Rémunération",
+          "id": "KALISCTA000020741962",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030996397",
               "num": "10",
               "intOrdre": 1073741823,
@@ -164,12 +183,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020741963",
+          "type": "section",
           "intOrdre": 4677367,
           "title": "Travail de nuit",
+          "id": "KALISCTA000020741963",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030996399",
               "num": "11",
               "intOrdre": 1073741823,
@@ -179,12 +200,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020741964",
+          "type": "section",
           "intOrdre": 4960118,
           "title": "Formation",
+          "id": "KALISCTA000020741964",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030996402",
               "num": "12",
               "intOrdre": 1073741823,
@@ -194,12 +217,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020741965",
+          "type": "section",
           "intOrdre": 5101494,
           "title": "Jours fériés",
+          "id": "KALISCTA000020741965",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030996405",
               "num": "13",
               "intOrdre": 1073741823,
@@ -209,12 +234,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020741966",
+          "type": "section",
           "intOrdre": 5172182,
           "title": "Repos hebdomadaire",
+          "id": "KALISCTA000020741966",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030996408",
               "num": "14",
               "intOrdre": 1073741823,
@@ -224,12 +251,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020741967",
+          "type": "section",
           "intOrdre": 5207526,
           "title": "Congés payés",
+          "id": "KALISCTA000020741967",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030996410",
               "num": "15",
               "intOrdre": 1073741823,
@@ -239,12 +268,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020741972",
+          "type": "section",
           "intOrdre": 6798059,
           "title": "Congés pour événements familiaux",
+          "id": "KALISCTA000020741972",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030996412",
               "num": "16",
               "intOrdre": 1073741823,
@@ -254,12 +285,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020741973",
+          "type": "section",
           "intOrdre": 7593325,
           "title": "Indemnisation maladie, maternité, accident du travail",
+          "id": "KALISCTA000020741973",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030996414",
               "num": "17",
               "intOrdre": 1073741823,
@@ -269,27 +302,14 @@
           ]
         },
         {
-          "id": "KALISCTA000030996418",
-          "intOrdre": 7990958,
-          "title": "Frais de santé et prévoyance",
-          "etat": "VIGUEUR_ETEN",
-          "articles": [
-            {
-              "id": "KALIARTI000030996416",
-              "num": "18",
-              "intOrdre": 1073741823,
-              "content": "<p align='left'>Les entreprises de portage de presse s'engagent à appliquer les accords collectifs instituant des garanties collectives et obligatoires de frais de santé, décès, incapacité et invalidité, signés au niveau de la branche, et ce avant le 31 décembre 2015. </p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ]
-        },
-        {
-          "id": "KALISCTA000020741974",
+          "type": "section",
           "intOrdre": 7990958,
           "title": "Prévoyance",
+          "id": "KALISCTA000020741974",
           "etat": "MODIFIE",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030996416",
               "num": "18",
               "intOrdre": 1073741823,
@@ -299,12 +319,31 @@
           ]
         },
         {
-          "id": "KALISCTA000020741975",
+          "type": "section",
+          "intOrdre": 7990958,
+          "title": "Frais de santé et prévoyance",
+          "id": "KALISCTA000030996418",
+          "etat": "VIGUEUR_ETEN",
+          "children": [
+            {
+              "type": "article",
+              "id": "KALIARTI000030996416",
+              "num": "18",
+              "intOrdre": 1073741823,
+              "content": "<p align='left'>Les entreprises de portage de presse s'engagent à appliquer les accords collectifs instituant des garanties collectives et obligatoires de frais de santé, décès, incapacité et invalidité, signés au niveau de la branche, et ce avant le 31 décembre 2015. </p>",
+              "etat": "VIGUEUR_ETEN"
+            }
+          ]
+        },
+        {
+          "type": "section",
           "intOrdre": 8189775,
           "title": "Visite médicale",
+          "id": "KALISCTA000020741975",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030996420",
               "num": "19",
               "intOrdre": 1073741823,
@@ -314,12 +353,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020741976",
+          "type": "section",
           "intOrdre": 8289183,
           "title": "Indemnité de fin de carrière ou de départ à la retraite",
+          "id": "KALISCTA000020741976",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030996422",
               "num": "20",
               "intOrdre": 1073741823,
@@ -329,12 +370,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020741990",
+          "type": "section",
           "intOrdre": 9649605,
           "title": "Indemnité de licenciement",
+          "id": "KALISCTA000020741990",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030996425",
               "num": "21",
               "intOrdre": 1073741823,
@@ -344,12 +387,14 @@
           ]
         },
         {
-          "id": "KALISCTA000020741992",
+          "type": "section",
           "intOrdre": 10329816,
           "title": "Délai d'application",
+          "id": "KALISCTA000020741992",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030996427",
               "num": "22",
               "intOrdre": 1073741823,
@@ -359,18 +404,21 @@
           ]
         },
         {
-          "id": "KALISCTA000019901294",
+          "type": "section",
           "intOrdre": 12058601,
           "title": "Annexes",
+          "id": "KALISCTA000019901294",
           "etat": "VIGUEUR_ETEN",
-          "sections": [
+          "children": [
             {
-              "id": "KALISCTA000020741912",
+              "type": "section",
               "intOrdre": 262143,
               "title": "Annexe I",
+              "id": "KALISCTA000020741912",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000019901295",
                   "num": null,
                   "intOrdre": 1073741823,
@@ -381,12 +429,14 @@
               ]
             },
             {
-              "id": "KALISCTA000020741914",
+              "type": "section",
               "intOrdre": 393215,
               "title": "Annexe II",
+              "id": "KALISCTA000020741914",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000019901296",
                   "num": null,
                   "intOrdre": 1073741823,
@@ -396,12 +446,14 @@
               ]
             },
             {
-              "id": "KALISCTA000020741916",
+              "type": "section",
               "intOrdre": 458751,
               "title": "Annexe III",
+              "id": "KALISCTA000020741916",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000019901297",
                   "num": null,
                   "intOrdre": 1073741823,
@@ -411,12 +463,14 @@
               ]
             },
             {
-              "id": "KALISCTA000020741928",
+              "type": "section",
               "intOrdre": 491519,
               "title": "Annexe IV",
+              "id": "KALISCTA000020741928",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000019901298",
                   "num": null,
                   "intOrdre": 1073741823,
@@ -426,12 +480,14 @@
               ]
             },
             {
-              "id": "KALISCTA000020741929",
+              "type": "section",
               "intOrdre": 507903,
               "title": "Annexe V",
+              "id": "KALISCTA000020741929",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000019901299",
                   "num": null,
                   "intOrdre": 1073741823,
@@ -441,12 +497,14 @@
               ]
             },
             {
-              "id": "KALISCTA000020741931",
+              "type": "section",
               "intOrdre": 516095,
               "title": "Annexe Porteurs de journaux",
+              "id": "KALISCTA000020741931",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000030996429",
                   "num": null,
                   "intOrdre": 1073741823,
@@ -460,17 +518,36 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000035836253",
+          "type": "section",
           "title": "Avenant du 5 mai 2017 relatif à la mise en place de la commission paritaire permanente de négociation et d'interprétation (CPPNI)",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000035836253",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000035836256",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000035836275",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'>La <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000032983213&categorieLien=cid'>loi n° 2016-1088 du 8 août 2016</a> relative au travail, à la modernisation du dialogue social et à la sécurisation des parcours professionnels comporte différentes mesures qui confortent le rôle central des branches et visent à renforcer la négociation collective en leur sein.</p><p align='left'>En particulier, l'article 24 de ladite loi prévoit que chaque branche doit mettre en place par le biais d'un accord une commission paritaire permanente de négociation et d'interprétation ou CPPNI (<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901694&dateTexte=&categorieLien=cid'>art. L. 2232-9 nouveau du code du travail</a>).</p><p align='left'>Cet avenant repose donc sur la volonté de structurer le dialogue social dans la branche conformément à la législation afin de lui donner les moyens de développer des actions permettant de promouvoir et valoriser le secteur du portage de presse en poursuivant la dynamique sociale de la branche, déjà représentée par la signature de plusieurs accords depuis la création de la convention collective du portage de presse (prévoyance, temps de travail des porteurs, etc.).</p><p align='left'>Le dialogue social dans la branche du portage de presse se déroule actuellement dans le cadre de 3 instances paritaires dédiées et déjà existantes, dont le rôle et les modes de fonctionnement sont distincts : une commission paritaire nationale, une commission paritaire de conciliation et une commission paritaire d'interprétation.</p><p></p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000035836257",
               "num": "1er",
               "intOrdre": 1048574,
@@ -479,6 +556,7 @@
               "surtitre": "Création de la commission paritaire permanente de négociation et d'interprétation (CPPNI)"
             },
             {
+              "type": "article",
               "id": "KALIARTI000035836259",
               "num": "2",
               "intOrdre": 1572861,
@@ -487,6 +565,7 @@
               "surtitre": "Missions de la CPPNI"
             },
             {
+              "type": "article",
               "id": "KALIARTI000035836262",
               "num": "3",
               "intOrdre": 2097148,
@@ -495,6 +574,7 @@
               "surtitre": "Transmission des conventions et accords d'entreprise à la CPPNI"
             },
             {
+              "type": "article",
               "id": "KALIARTI000035836266",
               "num": "4",
               "intOrdre": 2621435,
@@ -503,6 +583,7 @@
               "surtitre": "Modalités de fonctionnement de la CPPNI"
             },
             {
+              "type": "article",
               "id": "KALIARTI000035836270",
               "num": "5",
               "intOrdre": 3145722,
@@ -511,6 +592,7 @@
               "surtitre": "Conditions d'indemnisation des organisations syndicales participant à la CPPNI"
             },
             {
+              "type": "article",
               "id": "KALIARTI000035836271",
               "num": "6",
               "intOrdre": 3670009,
@@ -519,6 +601,7 @@
               "surtitre": "Extension de l'avenant"
             },
             {
+              "type": "article",
               "id": "KALIARTI000035836272",
               "num": "7",
               "intOrdre": 4194296,
@@ -526,31 +609,15 @@
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Dispositions finales"
             }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000035836256",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000035836275",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'>La <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000032983213&categorieLien=cid'>loi n° 2016-1088 du 8 août 2016</a> relative au travail, à la modernisation du dialogue social et à la sécurisation des parcours professionnels comporte différentes mesures qui confortent le rôle central des branches et visent à renforcer la négociation collective en leur sein.</p><p align='left'>En particulier, l'article 24 de ladite loi prévoit que chaque branche doit mettre en place par le biais d'un accord une commission paritaire permanente de négociation et d'interprétation ou CPPNI (<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901694&dateTexte=&categorieLien=cid'>art. L. 2232-9 nouveau du code du travail</a>).</p><p align='left'>Cet avenant repose donc sur la volonté de structurer le dialogue social dans la branche conformément à la législation afin de lui donner les moyens de développer des actions permettant de promouvoir et valoriser le secteur du portage de presse en poursuivant la dynamique sociale de la branche, déjà représentée par la signature de plusieurs accords depuis la création de la convention collective du portage de presse (prévoyance, temps de travail des porteurs, etc.).</p><p align='left'>Le dialogue social dans la branche du portage de presse se déroule actuellement dans le cadre de 3 instances paritaires dédiées et déjà existantes, dont le rôle et les modes de fonctionnement sont distincts : une commission paritaire nationale, une commission paritaire de conciliation et une commission paritaire d'interprétation.</p><p></p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
-            }
           ]
         },
         {
-          "id": "KALITEXT000033286486",
+          "type": "section",
           "title": "Accord du 11 mai 2016 relatif au régime de prévoyance",
-          "dateParution": 1477267200000,
-          "articles": [
+          "id": "KALITEXT000033286486",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000033286489",
               "num": null,
               "intOrdre": 524287,
@@ -558,6 +625,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033286490",
               "num": "1er",
               "intOrdre": 1048574,
@@ -566,6 +634,7 @@
               "surtitre": "Objet"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033286491",
               "num": "2",
               "intOrdre": 1572861,
@@ -574,6 +643,7 @@
               "surtitre": "Prestations"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033286494",
               "num": "3",
               "intOrdre": 2097148,
@@ -582,6 +652,7 @@
               "surtitre": "Cotisations"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033286495",
               "num": "4",
               "intOrdre": 2621435,
@@ -590,6 +661,7 @@
               "surtitre": "Information"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033286496",
               "num": "5",
               "intOrdre": 3145722,
@@ -598,6 +670,7 @@
               "surtitre": "Changement d'organisme assureur"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033286498",
               "num": "6",
               "intOrdre": 3670009,
@@ -606,6 +679,7 @@
               "surtitre": "Date d'effet et modalités de dénonciation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033286504",
               "num": "7",
               "intOrdre": 4194296,
@@ -614,6 +688,7 @@
               "surtitre": "Formalités de dépôt"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033286507",
               "num": "8",
               "intOrdre": 4718583,
@@ -624,194 +699,19 @@
           ]
         },
         {
-          "id": "KALITEXT000030978132",
+          "type": "section",
           "title": "Avenant du 19 décembre 2014 portant révision de la convention collective",
-          "dateParution": 1438819200000,
-          "articles": [
+          "id": "KALITEXT000030978132",
+          "children": [
             {
-              "id": "KALIARTI000030978136",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Pas de modification.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Champ d'application"
-            },
-            {
-              "id": "KALIARTI000030978137",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='center'><br/>Délégués syndicaux </p><p align='left'><br/>Version précédente : <br/>« Dans les entreprises pour lesquelles la loi le prescrit, les noms des délégués syndicaux sont portés à la connaissance du chef d'entreprise. Ils sont affichés sur les panneaux réservés aux communications syndicales. <br/>Une copie de l'information adressée au chef d'entreprise est faite à l'inspecteur du travail ou à l'autorité compétente. La même procédure est appliquée en cas de remplacement ou de cessation de fonction du délégué. <br/>Les délégués syndicaux bénéficient des mêmes garanties et protections que les délégués du personnel. <br/>Les délégués syndicaux d'entreprise ont qualité pour négocier avec la direction de tout accord collectif sur des points particuliers propres à l'entreprise. » <br/>Version modifiée : <br/>« Dans les entreprises pour lesquelles la loi le prescrit, les noms des délégués syndicaux sont portés à la connaissance du chef d'entreprise. Ils sont affichés sur les panneaux réservés aux communications syndicales. <br/>Une copie de l'information adressée au chef d'entreprise est faite à l'inspecteur du travail ou à l'autorité compétente. La même procédure est appliquée en cas de remplacement ou de cessation de fonction du délégué. <br/>Les délégués syndicaux ainsi que les représentants de la section syndicale bénéficient de la protection légale prévue au code du travail. <br/>Les délégués syndicaux d'entreprise ont qualité pour négocier avec la direction de tout accord collectif sur des points particuliers propres à l'entreprise. » <br/>Ajout d'un paragraphe intitulé « Transmission d'informations syndicales » à la suite du paragraphe « Affichage ». <br/>« Les entreprises de portage organiseront paritairement, sur la méthode, la transmission des informations syndicales selon des modes opératoires appropriés lorsque les moyens traditionnels d'affichage ne sont pas accessibles. <br/>A titre d'exemple, les moyens de transmission informatiques, téléphoniques ou papier pourront être utilisés. <br/>Pour les porteurs qui ne reviennent jamais dans l'entreprise, cette dernière prendra en charge, deux fois par an et par syndicat représentatif, l'envoi d'une information syndicale par tous moyens à sa disposition. » </p><p align='center'><br/>Local syndical </p><p align='left'><br/>Version précédente : <br/>« Dans les entreprises ou les établissements employant plus de 200 salariés au sens de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006649600&dateTexte=&categorieLien=cid'>article L. 412-5 du code du travail</a>, un local sera mis à disposition de l'ensemble des sections syndicales reconnues dans l'entreprise où elles pourront tenir leurs permanences. <br/>Ce local sera équipé du matériel suivant : bureau, sièges, ligne téléphonique directe, armoire. <br/>Sous réserve de l'accord de la direction, d'autres matériels de l'entreprise pourront être utilisés pour l'exercice du mandat des délégués. Dans cette hypothèse, les modalités seront définies avec chaque direction. » <br/>Version modifiée : <br/>« Dans les entreprises ou les établissements d'au moins 200 salariés au sens de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901612&dateTexte=&categorieLien=cid'>article L. 2141-11 du code du travail</a>, un local sera mis à disposition de l'ensemble des sections syndicales reconnues dans l'entreprise où elles pourront tenir leurs permanences. <br/>Dans les entreprises de 1 000 salariés et plus, chaque section syndicale constituée par une organisation syndicale représentative dans l'entreprise disposera d'un local syndical. <br/>Ce local sera aménagé et doté de matériel nécessaire à son fonctionnement. » </p><p align='center'><br/>Commission paritaire nationale </p><p align='left'><br/>Version précédente : <br/>« Une autorisation d'absence sera accordée aux salariés des entreprises adhérentes au GREPP ou appliquant la convention collective pour leur participation aux réunions de négociation de la présente convention et de ses avenants, ainsi qu'aux commissions de conciliation et d'interprétation définies dans ce même texte conventionnel. <br/>Cette autorisation sera pratiquée pour un même salarié dans la limite de 6 réunions par an, hors commission de conciliation et d'interprétation. <br/>Les salaires correspondants seront maintenus dans la limite de deux représentants pour chacune des confédérations suivantes : CFDT, CFTC, CFE-CGC, CGT et FO. <br/>Les frais de participation des salariés d'entreprise aux négociations nationales sont indemnisés par le GREPP. <br/>Les modalités de défraiement pour la participation à ces instances nationales feront l'objet d'un accord particulier. » <br/>Version modifiée : <br/>« Une autorisation d'absence sera accordée aux salariés des entreprises relevant de la convention collective nationale du portage de presse pour leur participation aux réunions de négociation de la présente convention et de ses avenants, ainsi qu'aux commissions de conciliation et d'interprétation définies dans ce même texte conventionnel. <br/>Cette autorisation sera pratiquée pour un même salarié dans la limite de 6 réunions par an, hors commission de conciliation et d'interprétation. <br/>Les salaires correspondants seront maintenus dans la limite de trois représentants pour chacune des organisations syndicales représentatives au niveau de la branche. <br/>Les frais de participation des salariés d'entreprise aux négociations nationales sont indemnisés par le GREPP. <br/>Les modalités de défraiement pour la participation à ces instances nationales feront l'objet d'un accord particulier. »</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Droit syndical et liberté d'opinion"
-            },
-            {
-              "id": "KALIARTI000030978141",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='center'><br/>Révision </p><p align='left'><br/>Version précédente : <br/>« Elle peut faire l'objet d'une demande de révision d'un ou de plusieurs articles, annexes et avenants émanant de toute organisation syndicale signataire ; l'organisation à l'origine de cette demande la notifie aux autres signataires de la convention collective par lettre recommandée avec avis de réception. <br/>La partie qui présente une demande de révision doit accompagner celle-ci d'un projet de remplacement du ou des articles sujets à révision. <br/>Les parties sont alors tenues de se réunir dans un délai maximal de 3 mois. A défaut d'accord dans un délai maximal de 6 mois à compter de cette première réunion, la demande de révision est réputée caduque. <br/>Les demandes de révision successives ayant le même objet ne pourront être formulées dans un délai inférieur à 3 années. <br/>Le droit d'opposition pourra s'exercer en application de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006647005&dateTexte=&categorieLien=cid'>article L. 132-7, alinéa 3, du code du travail</a>, tel que défini à la date de signature de la convention collective. » <br/>Version modifiée : <br/>« Elle peut faire l'objet d'une demande de révision au sens de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid'>article L. 2261-7 du code du travail </a>d'un ou de plusieurs articles, annexes et avenants émanant de toute organisation syndicale représentative signataire ; l'organisation à l'origine de cette demande la notifie à l'ensemble des organisations représentatives de la convention collective par lettre recommandée avec avis de réception. <br/>La partie qui présente une demande de révision doit accompagner celle-ci d'un projet de remplacement du ou des articles sujets à révision. <br/>Les parties sont alors tenues de se réunir dans un délai maximal de 3 mois. A défaut d'accord dans un délai maximal de 6 mois à compter de cette première réunion, la demande de révision est réputée caduque. <br/>(Suppression d'un alinéa.) <br/>Le droit d'opposition pourra s'exercer en application de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901697&dateTexte=&categorieLien=cid'>article L. 2232-12 du code du travail</a>, tel que défini à la date de signature de la convention collective. » </p><p align='center'><br/>Dénonciation </p><p align='left'><br/>Version précédente : <br/>« La convention peut être dénoncée par une ou plusieurs organisations signataires, avec un préavis de 3 mois. <br/>La dénonciation doit être notifiée par son auteur par lettre recommandée avec avis de réception aux autres signataires de la convention. <br/>La négociation doit intervenir dans le délai de 3 mois après sa notification. <br/>Dans le cas où aucun accord ne serait intervenu dans le délai de 15 mois à compter de la date d'expiration du préavis, la présente convention cesserait de produire effet à l'expiration dudit délai et tout litige individuel ou collectif serait traité dans le cadre des textes légaux en vigueur. » <br/>Version modifiée : <br/>« La convention peut être dénoncée dans les conditions prévues par les articles <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid'>L. 2261-9</a>, <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901788&dateTexte=&categorieLien=cid'>L. 2261-10 </a>et <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901789&dateTexte=&categorieLien=cid'>L. 2261-11 </a>du code du travail. »</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Durée, révision, dénonciation, avenants"
-            },
-            {
-              "id": "KALIARTI000030978148",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Version précédente : <br/>« Les difficultés d'application des clauses de la présente convention collective peuvent être soumises à une commission de conciliation chargée : <br/>– d'examiner les différends d'ordre individuel résultant de l'application de la présente convention collective qui n'auraient pas trouvé de solution dans l'entreprise ; <br/>– de rechercher une solution aux conflits collectifs. <br/>Cette commission est constituée d'un représentant par organisation syndicale signataire de la présente convention et d'un nombre égal de représentants de l'employeur, les mandats de représentation étant limités à deux par personne. <br/>Elle se réunit après saisine motivée par écrit à l'initiative d'une des parties signataires, dans les 15 jours qui suivent la saisine. <br/>Pendant ce délai, les parties au litige s'engagent à ne pas prendre d'initiative perturbant la bonne marche de l'entreprise ou risquant de faire échec à la tentative de conciliation. <br/>La commission peut décider d'entendre contradictoirement ou séparément les parties concernées. <br/>Lorsqu'une conciliation intervient devant la commission, le procès-verbal en est dressé sur le champ. <br/>En cas d'échec de la tentative de conciliation, un procès-verbal est dressé sans précision des propositions avancées par les parties à la conciliation ; celles-ci recouvrent alors leur liberté d'utiliser toutes les voies de droit qui leur sont ouvertes. <br/>Le procès-verbal est dans les deux hypothèses immédiatement notifié aux parties présentes. » <br/>Version modifiée : <br/>« Les difficultés d'application des clauses de la présente convention collective peuvent être soumises à une commission de conciliation chargée : <br/>– d'examiner les différends d'ordre individuel résultant de l'application de la présente convention collective qui n'auraient pas trouvé de solution dans l'entreprise ; <br/>– de rechercher une solution aux conflits collectifs. <br/>Cette commission est constituée d'un représentant par organisation syndicale signataire de la présente convention et d'un nombre égal de représentants de l'employeur, les mandats de représentation étant limités à deux par personne. <br/>Elle se réunit, après saisine motivée et notifiée par lettre recommandée avec demande d'avis de réception, d'une organisation patronale représentative au niveau de la branche ou de l'une des organisations syndicales représentatives de salariés au niveau de la branche, dans les 15 jours qui suivent cette saisine. <br/>Pendant ce délai, les parties au litige s'engagent à ne pas prendre d'initiative perturbant la bonne marche de l'entreprise ou risquant de faire échec à la tentative de conciliation. <br/>La commission peut décider d'entendre contradictoirement ou séparément les parties concernées. <br/>Lorsqu'une conciliation intervient devant la commission, le procès-verbal en est dressé sur-le-champ. <br/>En cas d'échec de la tentative de conciliation, un procès-verbal est dressé sans précision des propositions avancées par les parties à la conciliation ; celles-ci recouvrent alors leur liberté d'utiliser toutes les voies de droit qui leur sont ouvertes. <br/>Le procès-verbal est dans les deux hypothèses immédiatement notifié aux parties présentes. »</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Commission paritaire de conciliation"
-            },
-            {
-              "id": "KALIARTI000030978149",
-              "num": "5",
-              "intOrdre": 3145722,
-              "content": "<p align='left'><br/>Version précédente : <br/>« Les divergences d'interprétation de la présente convention collective et de ses avenants et annexes ultérieurs sont soumises à une commission d'interprétation. <br/>Cette commission est composée paritairement des représentants des parties signataires. <br/>Elle se réunit, à l'initiative d'une des parties signataires de la présente convention, au plus tard dans les 3 mois de sa saisine, motivée et également notifiée par lettre recommandée avec demande d'avis de réception. <br/>Le motif de la saisine est également notifié dans les mêmes conditions aux autres signataires de la présente convention. <br/>La commission peut : <br/>– soit émettre un avis sur l'interprétation d'une clause litigieuse ; cet avis est annexé à la convention collective ; <br/>– soit, constatant la nécessité de modifier la clause litigieuse, renvoyer à la procédure de révision prévue dans la présente convention. <br/>Un règlement intérieur détermine les règles de fonctionnement de cette commission. » <br/>Version modifiée : <br/>« Les divergences d'interprétation de la présente convention collective et de ses avenants et annexes ultérieurs sont soumises à une commission d'interprétation. <br/>Cette commission est composée paritairement des représentants des parties signataires. <br/>Elle se réunit, après saisine motivée et notifiée par lettre recommandée avec demande d'avis de réception d'une organisation patronale représentative au niveau de la branche ou de l'une des organisations syndicales représentatives de salariés au niveau de la branche, au plus tard dans les 3 mois de cette saisine. <br/>Le motif de la saisine est également notifié dans les mêmes conditions aux autres signataires de la présente convention. <br/>La commission peut : <br/>– soit émettre un avis sur l'interprétation d'une clause litigieuse ; cet avis est annexé à la convention collective ; <br/>– soit, constatant la nécessité de modifier la clause litigieuse, renvoyer à la procédure de révision prévue dans la présente convention. <br/>Un règlement intérieur détermine les règles de fonctionnement de cette commission. »</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Commission paritaire d'interprétation"
-            },
-            {
-              "id": "KALIARTI000030978150",
-              "num": "6",
-              "intOrdre": 3670009,
-              "content": "<p align='left'><br/>Pas de modification.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Avantages acquis"
-            },
-            {
-              "id": "KALIARTI000030978151",
-              "num": "7",
-              "intOrdre": 4194296,
-              "content": "<p align='center'><br/>Engagement </p><p align='left'><br/>Version précédente : <br/>« L'embauche du personnel salarié est soumise aux règles légales et réglementaires en vigueur. <br/>Tout candidat doit informer son employeur des contrats de travail distincts et simultanés qui le lient à d'autres employeurs. <br/>Il est remis à tout collaborateur embauché un contrat de travail comportant notamment les dispositions suivantes : <br/>– identité des parties : <br/>– raison sociale de l'entreprise ; <br/>– adresses de l'entreprise ; <br/>– nom patronymique du salarié ; <br/>– durée du contrat ; <br/>– date d'entrée dans l'entreprise ; <br/>– fonctions occupées par l'intéressé (libellé de l'emploi, mention de la convention collective) ; <br/>– classification et niveau hiérarchique ; <br/>– lieu d'emploi ; <br/>– période d'essai ; <br/>– durée du préavis <br/>– durée du travail ; <br/>– montant, éléments du salaire et périodicité de versement ; <br/>– durée des congés payés. <br/>Tout candidat doit satisfaire à l'examen médical d'embauche. » <br/>Version modifiée : <br/>« L'embauche du personnel salarié est soumise aux règles légales et réglementaires en vigueur. <br/>Tout candidat doit informer son employeur de l'existence des contrats de travail distincts et simultanés qui le lient à d'autres employeurs. <br/>Il est remis à tout collaborateur embauché un contrat de travail comportant notamment les dispositions suivantes : <br/>– identité des parties : <br/>– raison sociale de l'entreprise ; <br/>– adresses de l'entreprise ; <br/>– nom patronymique du salarié ; <br/>– durée du contrat ; <br/>– date d'entrée dans l'entreprise ; <br/>– fonctions occupées par l'intéressé (libellé de l'emploi, mention de la convention collective) ; <br/>– classification et niveau hiérarchique ; <br/>– lieu d'emploi ; <br/>– période d'essai ; <br/>– durée du préavis ; <br/>– durée du travail ; <br/>– montant, éléments du salaire et périodicité de versement ; <br/>– durée des congés payés. <br/>Tout candidat doit satisfaire à l'examen médical d'embauche. » </p><p align='center'><br/>Emploi du personnel féminin <br/>Rémunération </p><p align='left'><br/>Version précédente : <br/>« Les entreprises s'engagent notamment à pratiquer des rémunérations égales pour les hommes et les femmes pour un même travail ou un travail de qualification égale conformément aux dispositions légales. » <br/>Version modifiée : <br/>« Les entreprises s'engagent notamment à pratiquer des rémunérations égales pour les hommes et les femmes pour un même travail ou un travail de qualification égale conformément aux dispositions légales. <br/>Elles mettront en œuvre des dispositifs pour corriger les éventuels écarts de rémunération non justifiés entre les femmes et les hommes dans les conditions prévues par les <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902818&dateTexte=&categorieLien=cid'>articles L. 3221-2 et suivants du code du travail</a>, et ce avant le 31 décembre 2015. » </p><p align='center'><br/>Protection de la maternité </p><p align='left'><br/>Version précédente : <br/>« Les femmes en état de grossesse dûment déclarées à l'employeur bénéficient dès la fin du troisième mois de la possibilité de se rendre aux consultations prénatales obligatoires pendant leur temps de travail si leur horaire journalier ne leur en laisse pas le temps nécessaire. » <br/>Version modifiée : <br/>« Conformément à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006900896&dateTexte=&categorieLien=cid'>article L. 1225-16 du code du travail</a>, les femmes en état de grossesse bénéficient de la possibilité de se rendre aux consultations obligatoires, y compris la première consultation qui confirme l'état de grossesse. » </p><p align='center'><br/>Egalité de traitement </p><p align='left'><br/>Version précédente : <br/>« Les entreprises de portage de presse s'engagent à respecter les dispositions légales relatives à l'égalité de traitement entre salariés définis au <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006647026&dateTexte=&categorieLien=cid'>paragraphe 10 de l'article L. 133-5 du code du travail</a>. » <br/>Version modifiée : <br/>« Les entreprises de portage de presse s'engagent à respecter les dispositions légales relatives à l'égalité de traitement entre salariés définis au <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901800&dateTexte=&categorieLien=cid'>paragraphe 10 de l'article L. 2261-22 du code du travail</a>. » </p><p align='center'><br/>Intéressement, participation, PEE </p><p align='left'><br/>Version précédente : <br/>« Les entreprises de portage de presse s'engagent à négocier sur les modalités de mise en œuvre du paragraphe 15 de l'article L. 133-5 du code du travail. » <br/>Version modifiée : <br/>« Les entreprises de portage de presse s'engagent à négocier sur les modalités de mise en œuvre du paragraphe 15 de l'article L. 2261-22 du code du travail. »</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Conditions d'emploi"
-            },
-            {
-              "id": "KALIARTI000030978158",
-              "num": "8",
-              "intOrdre": 4718583,
-              "content": "<p align='left'><br/>Pas de modification.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Préavis"
-            },
-            {
-              "id": "KALIARTI000030978159",
-              "num": "9",
-              "intOrdre": 5242870,
-              "content": "<p align='left'><br/>Version précédente : <br/>« Les dispositions ci-dessous relatives à la durée du travail ne concernent pas les porteurs de presse ; la durée du travail de ces derniers est définie à l'annexe “ Porteurs ” de la présente convention collective. <br/>En l'absence d'accord, les dispositions légales en vigueur concernant la durée du travail seront applicables. <br/>En application du code du travail, le nombre d'heures complémentaires effectuées au cours d'une même semaine ou d'un même mois pourra être augmenté d'un tiers de la durée correspondante prévue au contrat de travail. » <br/>Version modifiée : <br/>« Les dispositions ci-dessous relatives à la durée du travail ne concernent pas les porteurs de presse ; la durée du travail de ces derniers est déterminée dans les conditions de l'accord de branche signé le 28 mai 2014 annexé à la présente convention. <br/>En l'absence d'accord, les dispositions légales en vigueur concernant la durée du travail seront applicables. » <br/>Alinéa 3 supprimé.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Durée du travail"
-            },
-            {
-              "id": "KALIARTI000030978161",
-              "num": "10",
-              "intOrdre": 5767157,
-              "content": "<p align='left'><br/>Version précédente : <br/>« Les dispositions ci-dessous relatives à la rémunération ne concernent pas les porteurs de presse ; la rémunération des porteurs est définie à l'annexe “ Porteurs ” de la présente convention collective. <br/>La rémunération mensuelle minimale du poste résulte de la multiplication de la rémunération horaire minimale correspondant à l'échelon national de rémunération auquel est classé le poste, par la durée de travail. <br/>La rémunération minimale telle que définie à l'annexe V, prise en valeur annuelle, est majorée de 3 % après 1 an d'ancienneté. <br/>Cette majoration est portée à 6 % après 2 années d'ancienneté. <br/>Les modalités de paiement de la majoration sont laissées à l'initiative de chaque entreprise sans toutefois pouvoir excéder la périodicité d'une année. <br/>La comparaison des éléments ci-dessus avec la rémunération réelle versée en contrepartie ou à l'occasion du travail se fait en incluant dans cette dernière la totalité des éléments de rémunération versés, y compris ceux à périodicité non mensuelle, notamment prime annuelle, 13e mois … </p><p align='center'><br/>Mesure transitoire </p><p align='left'><br/>La rémunération totale d'un salarié résultant de la mise en place de la méthode de classification annexée à la présente convention ne pourra être inférieure à ce qu'elle était avant son application. » <br/>Version modifiée : <br/>« Les dispositions ci-dessous relatives à la rémunération ne concernent pas les porteurs de presse ; la rémunération des porteurs est définie à l'annexe “ Porteurs ” de la présente convention collective. <br/>La rémunération mensuelle minimale du poste résulte de la multiplication de la rémunération horaire minimale correspondant à l'échelon national de rémunération auquel est classé le poste, par la durée de travail. <br/>Cette rémunération minimale devra respecter les dispositions réglementaires portant fixation du salaire minimum interprofessionnel de croissance. <br/>La rémunération minimale telle que définie à l'annexe V, prise en valeur annuelle, est majorée de 3 % après 1 an d'ancienneté. <br/>Cette majoration est portée à 6 % après 2 années d'ancienneté. <br/>Les modalités de paiement de la majoration sont laissées à l'initiative de chaque entreprise sans toutefois pouvoir excéder la périodicité d'une année. <br/>La comparaison des éléments ci-dessus avec la rémunération réelle versée en contrepartie ou à l'occasion du travail se fait en incluant dans cette dernière la totalité des éléments de rémunération versés, y compris ceux à périodicité non mensuelle, notamment prime annuelle, 13e mois … </p><p align='center'><br/>Mesure transitoire </p><p align='left'><br/>La rémunération totale d'un salarié résultant de la mise en place de la méthode de classification annexée à la présente convention ne pourra être inférieure à ce qu'elle était avant son application. »</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Rémunération"
-            },
-            {
-              "id": "KALIARTI000030978162",
-              "num": "11",
-              "intOrdre": 6291444,
-              "content": "<p align='left'><br/>Version précédente : <br/>« En application du <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000000226534&categorieLien=cid'>décret n° 2002-792 du 3 mai 2002</a>, il est défini un repos compensateur de 1 % pour les heures travaillées de nuit, au sens des dispositions légales en vigueur. <br/>Les modalités de mise en œuvre de cette compensation devront être définies en entreprise. » <br/>Version modifiée : <br/>« Le travail de nuit est justifié par la nécessité d'assurer la continuité de l'activité économique du secteur de la presse payante. L'activité de portage de la presse payante consistant notamment à distribuer des publications quotidiennes fabriquées la nuit, avec une distribution aux abonnés prévue généralement avant 7 heures du matin, cette activité relève par essence, pour un certain nombre de salariés remplissant les conditions prévues au paragraphe ci-après, du travail de nuit. </p><p align='center'><br/>Définition du travail de nuit </p><p align='left'><br/>Est considéré comme travailleur de nuit tout salarié qui, conformément aux deux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902524&dateTexte=&categorieLien=cid'>premiers alinéas de l'article L. 3122-31 du code du travail </a>: <br/>– soit accomplit, au moins deux fois par semaine, selon un horaire de travail habituel, au moins 3 heures de son temps de travail quotidien durant la tranche horaire comprise entre 21 heures et 6 heures ; <br/>– soit accomplit, au cours d'une période de 12 mois consécutifs définie en entreprise, au moins 270 heures durant la tranche horaire comprise entre 21 heures et 6 heures. </p><p align='center'><br/>Contreparties </p><p align='left'><br/>Il est défini un repos compensateur de 1 % pour les heures travaillées de nuit, au sens des dispositions légales en vigueur. <br/>Les modalités de mise en œuvre de cette compensation devront être définies en entreprise. </p><p align='center'><br/>Mesures destinées à améliorer les conditions de travail du travailleur de nuit </p><p align='left'><br/>Les entreprises peuvent employer les salariés de nuit, sans que les heures effectuées de nuit puissent excéder 6 heures quotidiennes. <br/>Un temps de pause d'une durée minimale de 20 minutes est accordé à tout salarié dont la durée de travail en continu atteint 6 heures de travail effectif. <br/>Une attention particulière sera apportée par l'entreprise à la répartition des horaires des travailleurs de nuit, en tenant compte de l'articulation de leur activité nocturne avec l'exercice de leurs responsabilités familiales et sociales. L'employeur tiendra compte des contraintes de transport des salariés concernés par le travail de nuit lors de leur affectation. <br/>Les travailleurs de nuit bénéficient d'un repos quotidien obligatoire d'une durée de 11 heures pris obligatoirement après la période travaillée. <br/>La durée quotidienne de travail effectué par un travailleur de nuit ne peut excéder 8 heures. <br/>La durée hebdomadaire de travail des travailleurs de nuit, calculée sur une période quelconque de 12 semaines consécutives, ne peut dépasser 40 heures. </p><p align='center'><br/>Mesures destinées à favoriser l'égalité professionnelle et la formation professionnelle des travailleurs de nuit </p><p align='left'><br/>La considération du sexe ne pourra être retenue par l'employeur : <br/>– pour embaucher un salarié à un poste de travail de nuit conférant à l'intéressé la qualité de travailleur de nuit ; <br/>– pour muter un salarié d'un poste de jour vers un poste de nuit, ou d'un poste de nuit vers un poste de jour ; <br/>– pour prendre des mesures spécifiques aux travailleurs de nuit ou aux travailleurs de jour en matière de formation professionnelle. <br/>Les travailleurs de nuit doivent pouvoir bénéficier, comme tous les autres salariés, des actions comprises dans le plan de formation de l'entreprise, y compris celles relatives au capital de temps de formation, ou de congé individuel de formation. </p><p align='center'><br/>Surveillance médicale </p><p align='left'><br/>La surveillance médicale des travailleurs de nuit s'effectue conformément aux textes légaux et réglementaires en vigueur. »</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Travail de nuit"
-            },
-            {
-              "id": "KALIARTI000030978165",
-              "num": "12",
-              "intOrdre": 6815731,
-              "content": "<p align='left'><br/>Version précédente : <br/>« Les parties contractantes sont conscientes des efforts de perfectionnement et de formation professionnelle que les salariés doivent réaliser en permanence, au cours de leur carrière. <br/>En conséquence, les parties demanderont, dès signature de cette convention collective, l'adhésion du GREPP à l'accord constitutif de MEDIAFOR du 21 décembre 1994. <br/>Il appartient à chaque employeur, au vue de la spécificité du service que doit assurer son entreprise, d'organiser au mieux, et en fonction des besoins et des possibilités du service et de la nature de ses activités, la formation professionnelle de ses salariés. <br/>Ces actions de formation sont réalisées après consultation des représentants du personnel ; elles doivent correspondre aux activités professionnelles des salariés intéressés et avoir pour objet d'actualiser les connaissances de ceux-ci. » <br/>Version modifiée : <br/>« Les parties contractantes sont conscientes des efforts de perfectionnement et de formation professionnelle que les salariés doivent réaliser en permanence, au cours de leur carrière. » <br/>Alinéa 2 supprimé. <br/>« Il appartient à chaque employeur, au vue de la spécificité du service que doit assurer son entreprise, d'organiser au mieux, et en fonction des besoins et des possibilités du service et de la nature de ses activités, la formation professionnelle de ses salariés. <br/>Ces actions de formation sont réalisées après consultation des représentants du personnel ; elles doivent correspondre aux activités professionnelles des salariés intéressés et avoir pour objet d'actualiser les connaissances de ceux-ci. » </p><p align='center'><br/>Congé de formation </p><p align='left'><br/>Version précédente : <br/>« Indépendamment de sa participation aux stages compris dans le plan de formation de l'entreprise, le salarié peut bénéficier d'actions de formation dans le cadre d'un congé individuel de formation. <br/>Les parties s'engagent, dès signature de la présente convention collective, à négocier un accord de formation professionnelle dans le cadre du <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000000613810&idSectionTA=LEGISCTA000006101566&dateTexte=&categorieLien=cid'>titre Ier de la loi n° 2004-391 du 4 mai 2004</a>. » <br/>Version modifiée : <br/>« Indépendamment de sa participation aux stages compris dans le plan de formation de l'entreprise, le salarié peut bénéficier d'actions de formation dans le cadre d'un congé individuel de formation. <br/>Les parties s'engagent, dès signature de la présente convention collective, à négocier un accord de formation professionnelle dans le cadre de la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000028683576&categorieLien=cid'>loi n° 2014-288 du 5 mars 2014</a>.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Formation"
-            },
-            {
-              "id": "KALIARTI000030978168",
-              "num": "13",
-              "intOrdre": 7340018,
-              "content": "<p align='center'><br/>Autres jours fériés </p><p align='left'><br/>Version précédente : <br/>« On entend par jour férié, les jours tels que définis à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006647485&dateTexte=&categorieLien=cid'>article L. 222-1 du code du travail </a>auxquels s'ajoutent le vendredi saint et le 26 décembre pour l'Alsace et la Moselle.<br/>Les jours fériés travaillés donnent lieu au versement, en sus de la rémunération perçue ce jour-là, d'une majoration pour jour férié égale à 50 %. <br/>Cette majoration ne se cumule pas avec d'autres majorations déjà existantes. <br/>Ces dispositions s'appliquent aux porteurs de presse. » <br/>Version modifiée : <br/>« On entend par jour férié, les jours tels que définis à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902611&dateTexte=&categorieLien=cid'>article L. 3133-1 du code du travail </a>auxquels s'ajoutent le vendredi saint et le 26 décembre pour l'Alsace et la Moselle. <br/>Les jours fériés travaillés donnent lieu au versement, en sus de la rémunération perçue ce jour-là, d'une majoration pour jour férié égale à 50 %. <br/>Cette majoration ne se cumule pas avec d'autres majorations conventionnelles déjà existantes. <br/>Ces dispositions s'appliquent aux porteurs de presse. »</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Jours fériés"
-            },
-            {
-              "id": "KALIARTI000030978171",
-              "num": "14",
-              "intOrdre": 7864305,
-              "content": "<p align='left'><br/>Version précédente : <br/>« Conformément à la loi, le repos hebdomadaire devra avoir une durée minimale de 24 heures consécutives auxquelles s'ajoutent les 11 heures consécutives de repos quotidien. <br/>D'autre part, les entreprises de portage de presse relèvent de l'activité visée à l'article L. 221-9,7°, du code du travail et, à ce titre, ont la possibilité de donner le repos hebdomadaire par roulement. » <br/>Version modifiée : <br/>« Conformément à la loi, le repos hebdomadaire devra avoir une durée minimale de 24 heures consécutives auxquelles s'ajoutent les 11 heures consécutives de repos quotidien. <br/>D'autre part, les entreprises de portage de presse relèvent de l'activité visée à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018486612&dateTexte=&categorieLien=cid'>article R. 3132-5 du code du travail </a>et, à ce titre, ont la possibilité de donner le repos hebdomadaire par roulement. »</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Repos hebdomadaire"
-            },
-            {
-              "id": "KALIARTI000030978176",
-              "num": "15",
-              "intOrdre": 8388592,
-              "content": "<p align='left'><br/>Version précédente : <br/>« Un congé annuel payé est dû à tout salarié ayant travaillé effectivement chez le même employeur durant l'année de référence, soit du 1er juin de l'exercice écoulé au 31 mai de l'exercice en cours. <br/>La durée du congé annuel est fixée à 2 jours et demi ouvrables par mois de travail effectif, soit 30 jours ouvrables pour une année de référence complète de présence effective. <br/>L'acquisition des droits à congés payés et le décompte des jours de congés pris pourra se faire en jours ouvrés. <br/>La période pendant laquelle les congés payés peuvent être pris est établie par l'employeur et soumise au CE ou, à défaut, aux représentants du personnel. L'ordre et les dates de départ sont fixés par l'employeur, en concertation avec les salariés concernés et communiqués aux représentants du personnel. <br/>Chaque salarié sera informé de ses dates de prise de congés payés au moins 2 mois à l'avance. <br/>Les conjoints travaillant dans la même entreprise ont droit à un congé simultané. <br/>Les salariés qui prendront 4 semaines de congés consécutives bénéficieront d'un jour de congé supplémentaire. </p><p align='center'><br/>Rémunération des congés payés </p><p align='left'><br/>Le montant de l'indemnité de congés payés est calculé selon les dispositions légales. Les congés payés doivent être effectivement pris. » <br/>Version modifiée : <br/>« Un congé annuel payé est dû à tout salarié ayant travaillé effectivement chez le même employeur durant l'année de référence, soit du 1er juin de l'exercice écoulé au 31 mai de l'exercice en cours. <br/>Le droit est ouvert proportionnellement à la durée effective de travail pendant la période de référence. <br/>L'acquisition des droits à congés payés et le décompte des jours de congés pris se font en jours ouvrables. Un décompte en jours ouvrés est admis lorsque celui-ci est au moins équivalent au décompte en jours ouvrables. <br/>La période pendant laquelle les congés payés peuvent être pris est établie par l'employeur et soumise au CE ou, à défaut, aux représentants du personnel. L'ordre et les dates de départ sont fixés par l'employeur, en concertation avec les salariés concernés et communiqués aux représentants du personnel. <br/>Chaque salarié sera informé de ses dates de prise de congés payés au moins 2 mois à l'avance. <br/>Les conjoints et les partenaires liés par un Pacs travaillant dans la même entreprise ont droit à un congé simultané. <br/>Les salariés qui prendront 4 semaines de congés consécutives bénéficieront d'un jour de congé supplémentaire. </p><p align='center'><br/>Rémunération des congés payés </p><p align='left'><br/>Le montant de l'indemnité de congés payés est calculé selon les dispositions légales. Les congés payés doivent être effectivement pris. »</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Congés payés"
-            },
-            {
-              "id": "KALIARTI000030978177",
-              "num": "16",
-              "intOrdre": 8912879,
-              "content": "<p align='left'><br/>Version précédente : <br/>« Une autorisation exceptionnelle d'absence rémunérée pour événement familial est accordée, sur justification, dans les cas suivants :<br/>– mariage du salarié : 5 jours ouvrables ; <br/>– mariage de l'enfant : 2 jours ouvrables ; <br/>– naissance, adoption : 3 jours ouvrables ; <br/>– décès conjoint, enfant : 3 jours ouvrables ; <br/>– décès père, mère : 2 jours ouvrables ; <br/>– décès frère, sœur, beau-père, belle-mère : 1 jour ouvrable, à partir de 3 mois d'ancienneté. <br/>Ces congés exceptionnels, à prendre au moment de l'événement, feront l'objet d'un maintien de la rémunération. » <br/>Version modifiée : <br/>« Une autorisation exceptionnelle d'absence rémunérée pour événement familial est accordée, sur justification, dans les cas suivants : <br/>– mariage du salarié : 5 jours ouvrables ; <br/>– conclusion d'un Pacs par le salarié : 5 jours ouvrables ; <br/>– mariage de l'enfant : 2 jours ouvrables ; <br/>– naissance, adoption : 3 jours ouvrables ; <br/>– décès conjoint, ou partenaire lié par un Pacs, enfant : 3 jours ouvrables ; <br/>– décès père, mère : 2 jours ouvrables ; <br/>– décès frère, sœur, beau-père, belle-mère : 1 jour ouvrable, à partir de 3 mois d'ancienneté. <br/>Ces congés exceptionnels, à prendre au moment de l'événement, feront l'objet d'un maintien de la rémunération. »</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Congés pour événements familiaux"
-            },
-            {
-              "id": "KALIARTI000030978178",
-              "num": "17",
-              "intOrdre": 9437166,
-              "content": "<p align='left'><br/>Version précédente : <br/>« Sous réserve de la justification de leur incapacité par un certificat médical adressé à l'employeur dans les 48 heures et de l'indemnisation par la sécurité sociale, les salariés rattachés à la présente convention collective bénéficient du régime indemnitaire suivant : <br/>– après 2 ans d'ancienneté dans l'entreprise en cas d'incapacité due à la maladie ou à la maternité ; <br/>– sans délai d'ancienneté dans l'entreprise, en cas d'accident du travail. <br/>A compter du 11e jour d'arrêt, l'employeur assurera un complément sous déduction des indemnités journalières de sécurité sociale, de manière à maintenir pour le salarié : <br/>– pendant 30 jours, 90 % de la rémunération brute du salarié ; <br/>– pendant les 30 jours suivants, 75 % de la rémunération brute du salarié. <br/>Ces temps d'indemnisation sont augmentés de 10 jours par tranche de 5 années d'ancienneté au-delà de la première année d'activité dans l'entreprise. <br/>La base de calcul de la rémunération sera égale à la moyenne des 12 derniers mois précédant l'arrêt de travail. <br/>Le complément de rémunération versé par l'employeur peut être assuré en tout ou partie par un régime complémentaire de prévoyance. <br/>L'employeur a la faculté de mandater un médecin pour effectuer une contre-visite au domicile du salarié. <br/>En aucun cas, le cumul des sommes perçues par le salarié au titre du maintien de sa rémunération ne devra excéder les limites de l'indemnisation prévue ci-dessus. </p><p align='center'><br/>Dispositions particulières </p><p align='left'><br/>1. L'indemnisation est pratiquée à compter du premier jour d'absence en cas d'accident du travail et de maladie professionnelle. <br/>2. L'entreprise prend à sa charge le délai de carence légal de 10 jours si l'arrêt de travail atteint au moins 30 jours. </p><p align='center'><br/>Porteurs de presse </p><p align='left'><br/>Des dispositions spécifiques aux porteurs de presse, définies à l'annexe “ Porteurs ” de la présente convention collective, s'ajoutent à celles définies ci-dessus. » <br/>Version modifiée : <br/>« Sous réserve de la justification de leur incapacité par un certificat médical adressé à l'employeur dans les 48 heures et de l'indemnisation par la sécurité sociale, les salariés rattachés à la présente convention collective bénéficient du régime indemnitaire suivant : <br/>– après 1 an d'ancienneté dans l'entreprise en cas d'incapacité due à la maladie ou à la maternité ; <br/>– sans délai d'ancienneté dans l'entreprise en cas d'accident du travail. <br/>A compter du 8e jour d'arrêt, l'employeur assurera un complément, sous déduction des indemnités journalières de sécurité sociale, de manière à maintenir pour le salarié : <br/>– pendant 30 jours, 90 % de la rémunération brute du salarié ; <br/>– pendant les 30 jours suivants, 75 % de la rémunération brute du salarié. <br/>Ces temps d'indemnisation sont augmentés de 10 jours par tranche de 5 années d'ancienneté au-delà de la première année d'activité dans l'entreprise. <br/>La base de calcul de la rémunération sera égale à la moyenne des 12 derniers mois précédant l'arrêt de travail. <br/>Le complément de rémunération versé par l'employeur peut être assuré en tout ou partie par un régime complémentaire de prévoyance. <br/>L'employeur a la faculté de mandater un médecin pour effectuer une contre-visite au domicile du salarié. <br/>En aucun cas, le cumul des sommes perçues par le salarié au titre du maintien de sa rémunération ne devra excéder les limites de l'indemnisation prévue ci-dessus. </p><p align='center'><br/>Dispositions particulières </p><p align='left'><br/>1. L'indemnisation est pratiquée à compter du premier jour d'absence en cas d'accident du travail et de maladie professionnelle. <br/>2. L'entreprise prend à sa charge le délai de carence légal de 7 jours si l'arrêt de travail atteint au moins 30 jours. </p><p align='center'><br/>Porteurs de presse </p><p align='left'><br/>Des dispositions spécifiques aux porteurs de presse, définies à l'annexe “ Porteurs ” de la présente convention collective, s'ajoutent à celles définies ci-dessus. »</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Indemnisation maladie, maternité, accidents du travail"
-            },
-            {
-              "id": "KALIARTI000030978179",
-              "num": "18",
-              "intOrdre": 9961453,
-              "content": "<p align='left'><br/>Version précédente : </p><p align='center'><br/>« Article 18 <br/>Prévoyance </p><p align='left'><br/>Les entreprises adhérentes s'engagent à mettre en place des formules de contrat de prévoyance, à financement associé, assurant des garanties décès, incapacité temporaire de travail et invalidité permanente, sous réserve des conditions de droit commun. <br/>En cas de mise en place d'une prévoyance, le groupe de protection sociale Audiens sera prioritairement consulté. <br/>Les entreprises ouvriront des discussions sur la mise en place de systèmes de protection sociale, au plus tard dans un délai de 2 ans à compter de la date de signature de la présence convention collective. » <br/>Version modifiée : </p><p align='center'><br/>« Article 18 <br/>Frais de santé et prévoyance </p><p align='left'><br/>Les entreprises de portage de presse s'engagent à appliquer les accords collectifs instituant des garanties collectives et obligatoires de frais de santé, décès, incapacité et invalidité, signés au niveau de la branche, et ce avant le 31 décembre 2015. »</p>",
-              "etat": "VIGUEUR_ETEN"
-            },
-            {
-              "id": "KALIARTI000030978180",
-              "num": "19",
-              "intOrdre": 10485740,
-              "content": "<p align='left'><br/>Version précédente : <br/>« Conformément à la réglementation en vigueur, les salariés des entreprises de portage devront être convoqués à la visite médicale obligatoire. <br/>Dans le cas où cette visite ne pourrait pas se dérouler pendant le temps de travail, le temps nécessaire à la visite médicale sera rémunéré au taux horaire du salarié. <br/>Les salariés ayant un autre employeur pourront satisfaire à l'obligation de visite médicale en fournissant un certificat d'aptitude, pour l'activité exercée dans l'entreprise de portage, établi par un médecin du travail. » <br/>Version modifiée : <br/>« Conformément à la réglementation en vigueur, les salariés des entreprises de portage devront être convoqués à la visite médicale obligatoire. <br/>Dans le cas où cette visite ne pourrait pas se dérouler pendant le temps de travail, le temps nécessaire à la visite médicale sera rémunéré au taux horaire du salarié. <br/>Les salariés ayant un autre employeur pourront satisfaire à l'obligation de visite médicale en fournissant un certificat d'aptitude, pour l'activité exercée dans l'entreprise de portage, établi par un médecin du travail sous condition de respect des conditions légales et réglementaires en vigueur (art. <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018493152&dateTexte=&categorieLien=cid'>R 4624-14</a>, <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018493158&dateTexte=&categorieLien=cid'>R. 4624-16 </a>et <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018493160&dateTexte=&categorieLien=cid'>R. 4624-17 </a>du code du travail). »</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Visite médicale"
-            },
-            {
-              "id": "KALIARTI000030978184",
-              "num": "20",
-              "intOrdre": 11010027,
-              "content": "<p align='center'><br/>Départ volontaire du salarié </p><p align='left'><br/>Version précédente : <br/>« Tout membre du personnel quittant volontairement l'entreprise, à la date à laquelle il peut faire liquider sa retraite de sécurité sociale au taux plein, perçoit lors de la cessation de son activité une indemnité conventionnelle de départ à la retraite fixée selon son ancienneté à : <br/>– 1 mois de salaire après 10 ans d'ancienneté ; <br/>– 1,5 mois de salaire après 15 ans d'ancienneté ; <br/>– 2 mois de salaire après 20 ans d'ancienneté ; <br/>– 3 mois de salaire après 30 ans d'ancienneté, <br/>pour l'ensemble du personnel. <br/>Le salaire à prendre en considération doit être la moyenne de la rémunération des 12 derniers. » <br/>Version modifiée : <br/>« Tout membre du personnel quittant volontairement l'entreprise, à la date à laquelle il peut faire liquider sa retraite de sécurité sociale au taux plein, perçoit lors de la cessation de son activité une indemnité conventionnelle de départ à la retraite fixée selon son ancienneté à : <br/>– 1 mois de salaire après 10 ans d'ancienneté ; <br/>– 1,5 mois de salaire après 15 ans d'ancienneté ; <br/>– 2 mois de salaire après 20 ans d'ancienneté ; <br/>– 3 mois de salaire après 30 ans d'ancienneté, <br/>pour l'ensemble du personnel. <br/>Le salaire à prendre en considération doit être la moyenne de la rémunération brute des 12 derniers mois ou celle des 3 derniers mois, la plus avantageuse pour le salarié étant retenue. </p><p align='center'><br/>Mise à la retraite par l'employeur </p><p align='left'><br/>Version précédente : <br/>« Le salarié ayant atteint l'âge de 65 ans (60 ans en cas d'inaptitude au travail reconnue par la sécurité sociale), ou de 60 ans s'il peut bénéficier d'une retraite à taux plein, pourra être mis à la retraite par l'employeur en application de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006645987&dateTexte=&categorieLien=cid'>article L. 122-14-13 du code du travail</a>, sans que cette décision puisse être considérée comme un licenciement. <br/>Lors de la cessation d'activité, le salarié percevra l'indemnité légale de licenciement, si cette dernière est supérieure à l'indemnité calculée selon le barème prévu pour le départ volontaire à la retraite. » <br/>Version modifiée : <br/>« La mise à la retraite d'un salarié intervient selon les conditions prévues à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901179&dateTexte=&categorieLien=cid'>article L. 1237-5 du code du travail</a>. <br/>Lors de la cessation de son activité, le salarié percevra l'indemnité légale de licenciement, si cette dernière est supérieure à l'indemnité calculée selon le barème prévu pour le départ volontaire à la retraite. »</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Indemnité de fin de carrière ou de départ à la retraite"
-            },
-            {
-              "id": "KALIARTI000030978187",
-              "num": "21",
-              "intOrdre": 11534314,
-              "content": "<p align='left'><br/>Version précédente : <br/>« Le personnel licencié, hormis pour une faute lourde ou grave, perçoit une indemnité distincte du préavis à condition d'avoir exercé ses fonctions pendant au moins 2 années dans l'entreprise. <br/>Cette indemnité sera calculée comme suit : <br/>– moins de 10 ans d'ancienneté : 1/10 de mois par année d'ancienneté ; <br/>– à partir de 10 ans d'ancienneté : 1/10 de mois par année d'ancienneté plus 1/15 de mois par année d'ancienneté au-delà de 10 ans. <br/>En cas de licenciement pour cause économique, les indemnités perçues sont les indemnités légales en vigueur pour ce type de licenciement. <br/>Le salaire à prendre en considération doit être la moyenne de la rémunération des 12 derniers mois. » <br/>Version modifiée : <br/>« Le personnel licencié, hormis pour une faute lourde ou grave, perçoit une indemnité distincte du préavis à condition d'avoir exercé ses fonctions pendant au moins 1 année dans l'entreprise. <br/>Cette indemnité sera calculée comme suit : <br/>– moins de 10 ans d'ancienneté : 1/5 de mois par année d'ancienneté ; <br/>– à partir de 10 ans d'ancienneté : 1/5 de mois par année d'ancienneté plus 2/15 de mois par année d'ancienneté au-delà de 10 ans. <br/>En cas de licenciement pour cause économique, les indemnités perçues sont les indemnités légales en vigueur pour ce type de licenciement. <br/>Le salaire à prendre en considération doit être la moyenne de la rémunération brute des 12 derniers mois ou celle des 3 derniers mois, la plus avantageuse pour le salarié étant retenue. »</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Indemnité de licenciement"
-            },
-            {
-              "id": "KALIARTI000030978188",
-              "num": "22",
-              "intOrdre": 12058601,
-              "content": "<p align='left'>Article supprimé. </p><p align='center'>Annexe « Porteurs » <br/>Conditions d'emploi </p><p align='left'>Version précédente : <br/>« En complément des dispositions prévues au tronc commun de la convention collective, il sera proposé aux porteurs de presse un contrat de travail utilisant les diverses modalités légales telles que temps partiel, temps partiel modulé. <br/>Ce contrat précisera, de manière détaillée, l'organisation du travail de portage et les modalités de rémunération en découlant. » <br/>Version modifiée : <br/>« En complément des dispositions prévues au tronc commun de la convention collective, il sera proposé aux porteurs de presse un contrat de travail utilisant les diverses modalités légales (fin de phrase supprimée). <br/>Ce contrat précisera, de manière détaillée, l'organisation du travail de portage et les modalités de rémunération en découlant. » </p><p align='center'>Période d'essai </p><p align='left'>Pas de modification. </p><p align='center'>Préavis </p><p align='left'>Pas de modification. </p><p align='center'>Principes généraux <br/>Durée du travail et rémunération des porteurs de presse </p><p align='left'>Version précédente : <br/>« La durée du travail du porteur de presse est fonction de la durée de référence de la tournée (des tournées) à laquelle (auxquelles) il est affecté. <br/>La rémunération du porteur de presse est fonction du nombre d'exemplaires portés ou du nombre de clients livrés. <br/>En tout état de cause, au titre d'un mois donné, un porteur de presse perçoit une rémunération au moins égale à celle qui résulte du produit de la durée de référence par le taux horaire conventionnel minimal. <br/>Les articles ci-après relatifs à la durée du travail des porteurs de presse et à la rémunération de ceux-ci ont pour objet de préciser ces deux notions. » <br/>Version modifiée : <br/>« La durée du travail du porteur de presse est fonction de la durée de référence de la tournée (des tournées) à laquelle (auxquelles) il est affecté et telle qu'elle est définie dans l'accord de branche relatif à la durée du travail des porteurs de presse signé le 28 mai 2014 (annexé à la présente convention collective). <br/>Au titre d'un mois donné et sur la base de la durée de référence ainsi déterminée, un porteur de presse perçoit une rémunération définie à l'exemplaire ou au client porté au moins égale à celle qui résulte du produit de la durée de référence par le taux horaire conventionnel minimal. <br/>L'article ci-après relatif à la rémunération des porteurs de presse a pour objet de préciser cette notion. » </p><p align='center'>Durée du travail des porteurs de presse </p><p align='left'>Version précédente : <br/>« Chaque porteur est affecté à une tournée de portage déterminée par l'employeur pour un ou plusieurs jours. <br/>En raison de la nature de l'activité du porteur (autonomie dans l'organisation de son rythme de travail, absence de contrôle de l'employeur), le calcul de la durée du travail se fonde sur une durée de référence, définie, pour chaque tournée, en entreprise. <br/>Celle-ci tient compte du temps normalement consacré à la durée continue des missions qui sont confiées aux porteurs. <br/>Elle intègre donc différents éléments susceptibles d'influer sur la réalisation de la tournée, notamment, le kilométrage de la tournée, le nombre moyen d'exemplaires portés, les conditions spécifiques de réalisation de cette tournée (activité extérieure en milieu rural ou urbain, encartage manuel et temps de préparation...), ainsi que les caractéristiques du produit (poids, format...). <br/>Elle est fixée pour un ou plusieurs jours de la semaine en référence à un nombre d'exemplaires. <br/>Cette durée est communiquée à l'intéressé lorsqu'il est affecté à cette tournée ; elle comporte l'heure limite à laquelle elle doit être terminée au plus tard, le cas échéant, l'heure de mise à disposition des journaux et, dans tous les cas, l'heure limite de prise des journaux. <br/>L'organisation des tournées relève de la responsabilité de l'employeur. Il prend toute disposition pour que l'activité puisse être réalisée dans des conditions compatibles avec les délais de livraison. <br/>Lorsque le nombre de journaux portés et lorsque les conditions de la tournée évoluent, une nouvelle durée de référence de la tournée concernée est déterminée et communiquée au porteur. <br/>Les entreprises établiront une procédure d'étalonnage ou de calcul des durées de référence qui sera communiquée au comité d'entreprise et, à défaut, aux délégués du personnel. <br/>Dans le cas où une réorganisation des tournées entraînerait une baisse pérenne de l'activité du porteur, les entreprises s'engagent à rechercher toute solution visant à atténuer cet effet. <br/>Enfin, il pourra être proposé ponctuellement au porteur d'effectuer des tournées supplémentaires. Dans le cas où l'exécution de celles-ci ne serait pas compatible avec un emploi principal, le porteur pourrait les refuser. » <br/>Version modifiée : <br/>Article supprimé. </p><p align='center'>Rémunération des porteurs de presse </p><p align='left'>Version précédente : <br/>« La rémunération du porteur de presse est fixée selon les principes généraux de l'annexe “ Porteurs ”. Il est précisé que lorsqu'il s'agit d'un supplément non encarté, la rémunération prend en compte les conditions de son éventuel encartage et de son portage. <br/>Elle tient compte des contraintes particulières de la tournée, notamment, du nombre moyen d'exemplaires portés, de la durée de référence de la tournée et des caractéristiques du produit. <br/>Pour chaque mois travaillé, la rémunération minimale est égale au taux horaire correspondant à l'échelon national de rémunération auquel est rattaché le porteur multiplié par la durée de référence cumulée mensuelle, communiquée au porteur. <br/>Afin de permettre au porteur de vérifier que la rémunération à l'exemplaire est au moins égale au minimum conventionnel ou au Smic, les employeurs feront figurer en annexe au contrat de travail les éléments permettant ce calcul. <br/>La rémunération minimale telle que définie à l'annexe V, prise en valeur annuelle, est majorée de 3 % après 1 an d'ancienneté. <br/>Cette majoration est portée à 6 % après 2 années d'ancienneté. <br/>Les modalités de paiement de la majoration sont laissées à l'initiative de chaque entreprise sans toutefois pouvoir excéder la périodicité de 1 année. <br/>La comparaison des éléments ci-dessus avec la rémunération réelle versée en contrepartie ou à l'occasion du travail se fait en incluant dans cette dernière la totalité des éléments de rémunération versés y compris ceux à périodicité non mensuelle, notamment prime annuelle, 13e mois … <br/>A partir de la date d'application de la convention collective, les contrats de travail doivent prévoir une garantie de rémunération correspondant à un minimum d'exemplaires portés (ou activité) par tournée. » <br/>Version modifiée : <br/>« La rémunération du porteur de presse est fixée selon les principes généraux de l'annexe “ Porteurs ”. <br/>Elle tient compte de la durée de référence de la tournée, telle que définie dans l'accord de branche relatif à la durée du travail des porteurs de presse, et qui est fixée pour un ou plusieurs jours de la semaine au regard d'un nombre d'exemplaires ou de clients portés. <br/>Ainsi, pour chaque mois travaillé, la rémunération minimale doit correspondre au taux horaire correspondant à l'échelon national de rémunération auquel est rattaché le porteur multiplié par la somme des durées de référence appliquées sur le mois considéré. <br/>Afin de permettre au porteur de vérifier que la rémunération à l'exemplaire ou au client porté est en conformité avec la durée de référence définie, un document précisant la durée de référence et, selon les entreprises, la quantité portée ou tout autre ratio de la tournée existant dans l'entreprise lui est remis. <br/>La rémunération minimale telle que définie à l'annexe V, prise en valeur annuelle, est majorée de 3 % après 1 an d'ancienneté. <br/>Cette majoration est portée à 6 % après 2 années d'ancienneté. <br/>Les modalités de paiement de la majoration sont laissées à l'initiative de chaque entreprise sans toutefois pouvoir excéder la périodicité de 1 année. <br/>La comparaison des éléments ci-dessus avec la rémunération réelle versée en contrepartie ou à l'occasion du travail se fait en incluant dans cette dernière la totalité des éléments de rémunération versés, y compris ceux à périodicité non mensuelle, notamment prime annuelle, 13e mois. <br/>A partir de la date d'application de la convention collective, les contrats de travail doivent prévoir une garantie de rémunération correspondant à un minimum d'exemplaires ou clients portés (ou activité) par tournée. » </p><p align='center'>Rémunération des tournées supplémentaires </p><p align='left'>Pas de modification. </p><p align='center'>Rémunération des temps d'attente </p><p align='left'>Version précédente : <br/>« Le temps d'attente est rémunéré au taux horaire du Smic, après un délai de carence de 20 minutes. <br/>Les parties admettent, compte tenu de la spécificité de l'activité, que les modalités concrètes de détermination du temps d'attente sont négociées en entreprise. » <br/>Version modifiée : <br/>« Le temps d'attente est rémunéré au taux horaire du Smic. <br/>L'heure de mise à disposition des journaux et/ ou l'heure limite de prise des journaux sont utilisées pour la comptabilisation des temps d'attente en fonction des règles applicables dans l'entreprise. » </p><p align='center'>Défraiement des porteurs de presse </p><p align='left'>Version précédente : <br/>« Si la tournée de portage ou son organisation nécessite un moyen de locomotion, celui-ci est déterminé par l'employeur. <br/>L'indemnisation des frais d'usage de ce moyen de locomotion est définie en entreprise ou au contrat de travail dans le respect du minimum suivant : <br/>– pour les tournées effectuées avec un véhicule à moteur thermique, depuis le lieu de prise des journaux jusqu'au dernier journal livré (ou, à défaut, jusqu'au point de fin de tournée déterminé par l'employeur) : barème fiscal kilométrique applicable aux vélomoteurs et scooters dont la puissance est inférieure à 50 cm3, pour une distance annuelle supérieure à 5 000 kilomètres (0,126 €/ km au 1er janvier 2005) ; <br/>– ce barème est égal à 1,4 fois le barème de base dans les cas suivants : <br/>– pour les tournées de plus de 60 km ; <br/>– pour les tournées de plus de 400 journaux ; <br/>– pour les tournées dont le moyen de locomotion, exigé par l'employeur et effectivement utilisé, est l'automobile. <br/>Trente pour cent de ce tarif majoré sera revu au 1er juillet de chaque année, pour tenir compte de l'évolution du coût du carburant depuis le 1er janvier de l'année en cours (l'indice de référence étant l'indice des carburants et lubrifiants, base 126,10 au 1er janvier 2005). <br/>Au 1er janvier de l'année suivante, il sera fait strictement application du barème fiscal majoré de 40 %. <br/>Ces modalités ne peuvent se cumuler avec celles existantes en entreprise et ayant le même objet. <br/>Les volumes et poids confiés au porteur doivent être conformes à la réglementation en vigueur pour le moyen de locomotion déterminé par l'employeur. » <br/>Version modifiée : <br/>« Si la tournée de portage ou son organisation nécessite un moyen de locomotion, celui-ci est déterminé par l'employeur. <br/>L'indemnisation des frais d'usage de ce moyen de locomotion est définie en entreprise ou au contrat de travail dans le respect du minimum suivant : <br/>– pour les tournées effectuées avec un véhicule à moteur thermique, depuis le lieu de prise des journaux jusqu'au dernier journal livré (ou, à défaut, jusqu'au point de fin de tournée déterminé par l'employeur) : barème fiscal kilométrique applicable aux vélomoteurs et scooters dont la puissance est inférieure à 50 cm3, pour une distance annuelle supérieure à 5 000 kilomètres (barème 2014 : 0,145 €/ km) ; <br/>– ce barème est égal à 1,4 fois le barème de base dans les cas suivants : <br/>– pour les tournées de plus de 60 km ; <br/>– pour les tournées de plus de 400 journaux ; <br/>– pour les tournées dont le moyen de locomotion, exigé par l'employeur et effectivement utilisé, est l'automobile. <br/>Trente pour cent de ce tarif majoré sera revu au 1er juillet de chaque année, pour tenir compte de l'évolution du coût du carburant depuis le 1er janvier de l'année en cours (l'indice de référence étant l'indice des carburants et lubrifiants, base au 1er janvier 2014 : 182,82). <br/>Au 1er janvier de l'année suivante, il sera fait strictement application du barème fiscal majoré de 40 %. <br/>Ces modalités ne peuvent se cumuler avec celles existantes en entreprise et ayant le même objet. <br/>Les volumes et poids confiés au porteur doivent être conformes à la réglementation en vigueur pour le moyen de locomotion déterminé par l'employeur. <br/>Le contrat de travail précisera le caractère forfaitaire de l'indemnisation des frais kilométriques telle que prévue à la convention collective. » <br/>Les autres articles de l'annexe « Porteurs » sont inchangés.</p><p align='center'></p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Délai d'application"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000030978135",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000030978135",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000030978189",
                   "num": null,
                   "intOrdre": 524287,
@@ -821,12 +721,14 @@
               ]
             },
             {
-              "id": "KALISCTA000030981711",
+              "type": "section",
               "intOrdre": 1079771124,
               "title": "Date d'application, notification et dépôt",
+              "id": "KALISCTA000030981711",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000030981712",
                   "num": null,
                   "intOrdre": 1073741823,
@@ -834,15 +736,213 @@
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030978136",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>Pas de modification.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Champ d'application"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030978137",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='center'><br/>Délégués syndicaux </p><p align='left'><br/>Version précédente : <br/>« Dans les entreprises pour lesquelles la loi le prescrit, les noms des délégués syndicaux sont portés à la connaissance du chef d'entreprise. Ils sont affichés sur les panneaux réservés aux communications syndicales. <br/>Une copie de l'information adressée au chef d'entreprise est faite à l'inspecteur du travail ou à l'autorité compétente. La même procédure est appliquée en cas de remplacement ou de cessation de fonction du délégué. <br/>Les délégués syndicaux bénéficient des mêmes garanties et protections que les délégués du personnel. <br/>Les délégués syndicaux d'entreprise ont qualité pour négocier avec la direction de tout accord collectif sur des points particuliers propres à l'entreprise. » <br/>Version modifiée : <br/>« Dans les entreprises pour lesquelles la loi le prescrit, les noms des délégués syndicaux sont portés à la connaissance du chef d'entreprise. Ils sont affichés sur les panneaux réservés aux communications syndicales. <br/>Une copie de l'information adressée au chef d'entreprise est faite à l'inspecteur du travail ou à l'autorité compétente. La même procédure est appliquée en cas de remplacement ou de cessation de fonction du délégué. <br/>Les délégués syndicaux ainsi que les représentants de la section syndicale bénéficient de la protection légale prévue au code du travail. <br/>Les délégués syndicaux d'entreprise ont qualité pour négocier avec la direction de tout accord collectif sur des points particuliers propres à l'entreprise. » <br/>Ajout d'un paragraphe intitulé « Transmission d'informations syndicales » à la suite du paragraphe « Affichage ». <br/>« Les entreprises de portage organiseront paritairement, sur la méthode, la transmission des informations syndicales selon des modes opératoires appropriés lorsque les moyens traditionnels d'affichage ne sont pas accessibles. <br/>A titre d'exemple, les moyens de transmission informatiques, téléphoniques ou papier pourront être utilisés. <br/>Pour les porteurs qui ne reviennent jamais dans l'entreprise, cette dernière prendra en charge, deux fois par an et par syndicat représentatif, l'envoi d'une information syndicale par tous moyens à sa disposition. » </p><p align='center'><br/>Local syndical </p><p align='left'><br/>Version précédente : <br/>« Dans les entreprises ou les établissements employant plus de 200 salariés au sens de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006649600&dateTexte=&categorieLien=cid'>article L. 412-5 du code du travail</a>, un local sera mis à disposition de l'ensemble des sections syndicales reconnues dans l'entreprise où elles pourront tenir leurs permanences. <br/>Ce local sera équipé du matériel suivant : bureau, sièges, ligne téléphonique directe, armoire. <br/>Sous réserve de l'accord de la direction, d'autres matériels de l'entreprise pourront être utilisés pour l'exercice du mandat des délégués. Dans cette hypothèse, les modalités seront définies avec chaque direction. » <br/>Version modifiée : <br/>« Dans les entreprises ou les établissements d'au moins 200 salariés au sens de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901612&dateTexte=&categorieLien=cid'>article L. 2141-11 du code du travail</a>, un local sera mis à disposition de l'ensemble des sections syndicales reconnues dans l'entreprise où elles pourront tenir leurs permanences. <br/>Dans les entreprises de 1 000 salariés et plus, chaque section syndicale constituée par une organisation syndicale représentative dans l'entreprise disposera d'un local syndical. <br/>Ce local sera aménagé et doté de matériel nécessaire à son fonctionnement. » </p><p align='center'><br/>Commission paritaire nationale </p><p align='left'><br/>Version précédente : <br/>« Une autorisation d'absence sera accordée aux salariés des entreprises adhérentes au GREPP ou appliquant la convention collective pour leur participation aux réunions de négociation de la présente convention et de ses avenants, ainsi qu'aux commissions de conciliation et d'interprétation définies dans ce même texte conventionnel. <br/>Cette autorisation sera pratiquée pour un même salarié dans la limite de 6 réunions par an, hors commission de conciliation et d'interprétation. <br/>Les salaires correspondants seront maintenus dans la limite de deux représentants pour chacune des confédérations suivantes : CFDT, CFTC, CFE-CGC, CGT et FO. <br/>Les frais de participation des salariés d'entreprise aux négociations nationales sont indemnisés par le GREPP. <br/>Les modalités de défraiement pour la participation à ces instances nationales feront l'objet d'un accord particulier. » <br/>Version modifiée : <br/>« Une autorisation d'absence sera accordée aux salariés des entreprises relevant de la convention collective nationale du portage de presse pour leur participation aux réunions de négociation de la présente convention et de ses avenants, ainsi qu'aux commissions de conciliation et d'interprétation définies dans ce même texte conventionnel. <br/>Cette autorisation sera pratiquée pour un même salarié dans la limite de 6 réunions par an, hors commission de conciliation et d'interprétation. <br/>Les salaires correspondants seront maintenus dans la limite de trois représentants pour chacune des organisations syndicales représentatives au niveau de la branche. <br/>Les frais de participation des salariés d'entreprise aux négociations nationales sont indemnisés par le GREPP. <br/>Les modalités de défraiement pour la participation à ces instances nationales feront l'objet d'un accord particulier. »</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Droit syndical et liberté d'opinion"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030978141",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='center'><br/>Révision </p><p align='left'><br/>Version précédente : <br/>« Elle peut faire l'objet d'une demande de révision d'un ou de plusieurs articles, annexes et avenants émanant de toute organisation syndicale signataire ; l'organisation à l'origine de cette demande la notifie aux autres signataires de la convention collective par lettre recommandée avec avis de réception. <br/>La partie qui présente une demande de révision doit accompagner celle-ci d'un projet de remplacement du ou des articles sujets à révision. <br/>Les parties sont alors tenues de se réunir dans un délai maximal de 3 mois. A défaut d'accord dans un délai maximal de 6 mois à compter de cette première réunion, la demande de révision est réputée caduque. <br/>Les demandes de révision successives ayant le même objet ne pourront être formulées dans un délai inférieur à 3 années. <br/>Le droit d'opposition pourra s'exercer en application de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006647005&dateTexte=&categorieLien=cid'>article L. 132-7, alinéa 3, du code du travail</a>, tel que défini à la date de signature de la convention collective. » <br/>Version modifiée : <br/>« Elle peut faire l'objet d'une demande de révision au sens de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid'>article L. 2261-7 du code du travail </a>d'un ou de plusieurs articles, annexes et avenants émanant de toute organisation syndicale représentative signataire ; l'organisation à l'origine de cette demande la notifie à l'ensemble des organisations représentatives de la convention collective par lettre recommandée avec avis de réception. <br/>La partie qui présente une demande de révision doit accompagner celle-ci d'un projet de remplacement du ou des articles sujets à révision. <br/>Les parties sont alors tenues de se réunir dans un délai maximal de 3 mois. A défaut d'accord dans un délai maximal de 6 mois à compter de cette première réunion, la demande de révision est réputée caduque. <br/>(Suppression d'un alinéa.) <br/>Le droit d'opposition pourra s'exercer en application de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901697&dateTexte=&categorieLien=cid'>article L. 2232-12 du code du travail</a>, tel que défini à la date de signature de la convention collective. » </p><p align='center'><br/>Dénonciation </p><p align='left'><br/>Version précédente : <br/>« La convention peut être dénoncée par une ou plusieurs organisations signataires, avec un préavis de 3 mois. <br/>La dénonciation doit être notifiée par son auteur par lettre recommandée avec avis de réception aux autres signataires de la convention. <br/>La négociation doit intervenir dans le délai de 3 mois après sa notification. <br/>Dans le cas où aucun accord ne serait intervenu dans le délai de 15 mois à compter de la date d'expiration du préavis, la présente convention cesserait de produire effet à l'expiration dudit délai et tout litige individuel ou collectif serait traité dans le cadre des textes légaux en vigueur. » <br/>Version modifiée : <br/>« La convention peut être dénoncée dans les conditions prévues par les articles <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid'>L. 2261-9</a>, <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901788&dateTexte=&categorieLien=cid'>L. 2261-10 </a>et <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901789&dateTexte=&categorieLien=cid'>L. 2261-11 </a>du code du travail. »</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Durée, révision, dénonciation, avenants"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030978148",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Version précédente : <br/>« Les difficultés d'application des clauses de la présente convention collective peuvent être soumises à une commission de conciliation chargée : <br/>– d'examiner les différends d'ordre individuel résultant de l'application de la présente convention collective qui n'auraient pas trouvé de solution dans l'entreprise ; <br/>– de rechercher une solution aux conflits collectifs. <br/>Cette commission est constituée d'un représentant par organisation syndicale signataire de la présente convention et d'un nombre égal de représentants de l'employeur, les mandats de représentation étant limités à deux par personne. <br/>Elle se réunit après saisine motivée par écrit à l'initiative d'une des parties signataires, dans les 15 jours qui suivent la saisine. <br/>Pendant ce délai, les parties au litige s'engagent à ne pas prendre d'initiative perturbant la bonne marche de l'entreprise ou risquant de faire échec à la tentative de conciliation. <br/>La commission peut décider d'entendre contradictoirement ou séparément les parties concernées. <br/>Lorsqu'une conciliation intervient devant la commission, le procès-verbal en est dressé sur le champ. <br/>En cas d'échec de la tentative de conciliation, un procès-verbal est dressé sans précision des propositions avancées par les parties à la conciliation ; celles-ci recouvrent alors leur liberté d'utiliser toutes les voies de droit qui leur sont ouvertes. <br/>Le procès-verbal est dans les deux hypothèses immédiatement notifié aux parties présentes. » <br/>Version modifiée : <br/>« Les difficultés d'application des clauses de la présente convention collective peuvent être soumises à une commission de conciliation chargée : <br/>– d'examiner les différends d'ordre individuel résultant de l'application de la présente convention collective qui n'auraient pas trouvé de solution dans l'entreprise ; <br/>– de rechercher une solution aux conflits collectifs. <br/>Cette commission est constituée d'un représentant par organisation syndicale signataire de la présente convention et d'un nombre égal de représentants de l'employeur, les mandats de représentation étant limités à deux par personne. <br/>Elle se réunit, après saisine motivée et notifiée par lettre recommandée avec demande d'avis de réception, d'une organisation patronale représentative au niveau de la branche ou de l'une des organisations syndicales représentatives de salariés au niveau de la branche, dans les 15 jours qui suivent cette saisine. <br/>Pendant ce délai, les parties au litige s'engagent à ne pas prendre d'initiative perturbant la bonne marche de l'entreprise ou risquant de faire échec à la tentative de conciliation. <br/>La commission peut décider d'entendre contradictoirement ou séparément les parties concernées. <br/>Lorsqu'une conciliation intervient devant la commission, le procès-verbal en est dressé sur-le-champ. <br/>En cas d'échec de la tentative de conciliation, un procès-verbal est dressé sans précision des propositions avancées par les parties à la conciliation ; celles-ci recouvrent alors leur liberté d'utiliser toutes les voies de droit qui leur sont ouvertes. <br/>Le procès-verbal est dans les deux hypothèses immédiatement notifié aux parties présentes. »</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Commission paritaire de conciliation"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030978149",
+              "num": "5",
+              "intOrdre": 3145722,
+              "content": "<p align='left'><br/>Version précédente : <br/>« Les divergences d'interprétation de la présente convention collective et de ses avenants et annexes ultérieurs sont soumises à une commission d'interprétation. <br/>Cette commission est composée paritairement des représentants des parties signataires. <br/>Elle se réunit, à l'initiative d'une des parties signataires de la présente convention, au plus tard dans les 3 mois de sa saisine, motivée et également notifiée par lettre recommandée avec demande d'avis de réception. <br/>Le motif de la saisine est également notifié dans les mêmes conditions aux autres signataires de la présente convention. <br/>La commission peut : <br/>– soit émettre un avis sur l'interprétation d'une clause litigieuse ; cet avis est annexé à la convention collective ; <br/>– soit, constatant la nécessité de modifier la clause litigieuse, renvoyer à la procédure de révision prévue dans la présente convention. <br/>Un règlement intérieur détermine les règles de fonctionnement de cette commission. » <br/>Version modifiée : <br/>« Les divergences d'interprétation de la présente convention collective et de ses avenants et annexes ultérieurs sont soumises à une commission d'interprétation. <br/>Cette commission est composée paritairement des représentants des parties signataires. <br/>Elle se réunit, après saisine motivée et notifiée par lettre recommandée avec demande d'avis de réception d'une organisation patronale représentative au niveau de la branche ou de l'une des organisations syndicales représentatives de salariés au niveau de la branche, au plus tard dans les 3 mois de cette saisine. <br/>Le motif de la saisine est également notifié dans les mêmes conditions aux autres signataires de la présente convention. <br/>La commission peut : <br/>– soit émettre un avis sur l'interprétation d'une clause litigieuse ; cet avis est annexé à la convention collective ; <br/>– soit, constatant la nécessité de modifier la clause litigieuse, renvoyer à la procédure de révision prévue dans la présente convention. <br/>Un règlement intérieur détermine les règles de fonctionnement de cette commission. »</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Commission paritaire d'interprétation"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030978150",
+              "num": "6",
+              "intOrdre": 3670009,
+              "content": "<p align='left'><br/>Pas de modification.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Avantages acquis"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030978151",
+              "num": "7",
+              "intOrdre": 4194296,
+              "content": "<p align='center'><br/>Engagement </p><p align='left'><br/>Version précédente : <br/>« L'embauche du personnel salarié est soumise aux règles légales et réglementaires en vigueur. <br/>Tout candidat doit informer son employeur des contrats de travail distincts et simultanés qui le lient à d'autres employeurs. <br/>Il est remis à tout collaborateur embauché un contrat de travail comportant notamment les dispositions suivantes : <br/>– identité des parties : <br/>– raison sociale de l'entreprise ; <br/>– adresses de l'entreprise ; <br/>– nom patronymique du salarié ; <br/>– durée du contrat ; <br/>– date d'entrée dans l'entreprise ; <br/>– fonctions occupées par l'intéressé (libellé de l'emploi, mention de la convention collective) ; <br/>– classification et niveau hiérarchique ; <br/>– lieu d'emploi ; <br/>– période d'essai ; <br/>– durée du préavis <br/>– durée du travail ; <br/>– montant, éléments du salaire et périodicité de versement ; <br/>– durée des congés payés. <br/>Tout candidat doit satisfaire à l'examen médical d'embauche. » <br/>Version modifiée : <br/>« L'embauche du personnel salarié est soumise aux règles légales et réglementaires en vigueur. <br/>Tout candidat doit informer son employeur de l'existence des contrats de travail distincts et simultanés qui le lient à d'autres employeurs. <br/>Il est remis à tout collaborateur embauché un contrat de travail comportant notamment les dispositions suivantes : <br/>– identité des parties : <br/>– raison sociale de l'entreprise ; <br/>– adresses de l'entreprise ; <br/>– nom patronymique du salarié ; <br/>– durée du contrat ; <br/>– date d'entrée dans l'entreprise ; <br/>– fonctions occupées par l'intéressé (libellé de l'emploi, mention de la convention collective) ; <br/>– classification et niveau hiérarchique ; <br/>– lieu d'emploi ; <br/>– période d'essai ; <br/>– durée du préavis ; <br/>– durée du travail ; <br/>– montant, éléments du salaire et périodicité de versement ; <br/>– durée des congés payés. <br/>Tout candidat doit satisfaire à l'examen médical d'embauche. » </p><p align='center'><br/>Emploi du personnel féminin <br/>Rémunération </p><p align='left'><br/>Version précédente : <br/>« Les entreprises s'engagent notamment à pratiquer des rémunérations égales pour les hommes et les femmes pour un même travail ou un travail de qualification égale conformément aux dispositions légales. » <br/>Version modifiée : <br/>« Les entreprises s'engagent notamment à pratiquer des rémunérations égales pour les hommes et les femmes pour un même travail ou un travail de qualification égale conformément aux dispositions légales. <br/>Elles mettront en œuvre des dispositifs pour corriger les éventuels écarts de rémunération non justifiés entre les femmes et les hommes dans les conditions prévues par les <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902818&dateTexte=&categorieLien=cid'>articles L. 3221-2 et suivants du code du travail</a>, et ce avant le 31 décembre 2015. » </p><p align='center'><br/>Protection de la maternité </p><p align='left'><br/>Version précédente : <br/>« Les femmes en état de grossesse dûment déclarées à l'employeur bénéficient dès la fin du troisième mois de la possibilité de se rendre aux consultations prénatales obligatoires pendant leur temps de travail si leur horaire journalier ne leur en laisse pas le temps nécessaire. » <br/>Version modifiée : <br/>« Conformément à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006900896&dateTexte=&categorieLien=cid'>article L. 1225-16 du code du travail</a>, les femmes en état de grossesse bénéficient de la possibilité de se rendre aux consultations obligatoires, y compris la première consultation qui confirme l'état de grossesse. » </p><p align='center'><br/>Egalité de traitement </p><p align='left'><br/>Version précédente : <br/>« Les entreprises de portage de presse s'engagent à respecter les dispositions légales relatives à l'égalité de traitement entre salariés définis au <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006647026&dateTexte=&categorieLien=cid'>paragraphe 10 de l'article L. 133-5 du code du travail</a>. » <br/>Version modifiée : <br/>« Les entreprises de portage de presse s'engagent à respecter les dispositions légales relatives à l'égalité de traitement entre salariés définis au <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901800&dateTexte=&categorieLien=cid'>paragraphe 10 de l'article L. 2261-22 du code du travail</a>. » </p><p align='center'><br/>Intéressement, participation, PEE </p><p align='left'><br/>Version précédente : <br/>« Les entreprises de portage de presse s'engagent à négocier sur les modalités de mise en œuvre du paragraphe 15 de l'article L. 133-5 du code du travail. » <br/>Version modifiée : <br/>« Les entreprises de portage de presse s'engagent à négocier sur les modalités de mise en œuvre du paragraphe 15 de l'article L. 2261-22 du code du travail. »</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Conditions d'emploi"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030978158",
+              "num": "8",
+              "intOrdre": 4718583,
+              "content": "<p align='left'><br/>Pas de modification.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Préavis"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030978159",
+              "num": "9",
+              "intOrdre": 5242870,
+              "content": "<p align='left'><br/>Version précédente : <br/>« Les dispositions ci-dessous relatives à la durée du travail ne concernent pas les porteurs de presse ; la durée du travail de ces derniers est définie à l'annexe “ Porteurs ” de la présente convention collective. <br/>En l'absence d'accord, les dispositions légales en vigueur concernant la durée du travail seront applicables. <br/>En application du code du travail, le nombre d'heures complémentaires effectuées au cours d'une même semaine ou d'un même mois pourra être augmenté d'un tiers de la durée correspondante prévue au contrat de travail. » <br/>Version modifiée : <br/>« Les dispositions ci-dessous relatives à la durée du travail ne concernent pas les porteurs de presse ; la durée du travail de ces derniers est déterminée dans les conditions de l'accord de branche signé le 28 mai 2014 annexé à la présente convention. <br/>En l'absence d'accord, les dispositions légales en vigueur concernant la durée du travail seront applicables. » <br/>Alinéa 3 supprimé.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Durée du travail"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030978161",
+              "num": "10",
+              "intOrdre": 5767157,
+              "content": "<p align='left'><br/>Version précédente : <br/>« Les dispositions ci-dessous relatives à la rémunération ne concernent pas les porteurs de presse ; la rémunération des porteurs est définie à l'annexe “ Porteurs ” de la présente convention collective. <br/>La rémunération mensuelle minimale du poste résulte de la multiplication de la rémunération horaire minimale correspondant à l'échelon national de rémunération auquel est classé le poste, par la durée de travail. <br/>La rémunération minimale telle que définie à l'annexe V, prise en valeur annuelle, est majorée de 3 % après 1 an d'ancienneté. <br/>Cette majoration est portée à 6 % après 2 années d'ancienneté. <br/>Les modalités de paiement de la majoration sont laissées à l'initiative de chaque entreprise sans toutefois pouvoir excéder la périodicité d'une année. <br/>La comparaison des éléments ci-dessus avec la rémunération réelle versée en contrepartie ou à l'occasion du travail se fait en incluant dans cette dernière la totalité des éléments de rémunération versés, y compris ceux à périodicité non mensuelle, notamment prime annuelle, 13e mois … </p><p align='center'><br/>Mesure transitoire </p><p align='left'><br/>La rémunération totale d'un salarié résultant de la mise en place de la méthode de classification annexée à la présente convention ne pourra être inférieure à ce qu'elle était avant son application. » <br/>Version modifiée : <br/>« Les dispositions ci-dessous relatives à la rémunération ne concernent pas les porteurs de presse ; la rémunération des porteurs est définie à l'annexe “ Porteurs ” de la présente convention collective. <br/>La rémunération mensuelle minimale du poste résulte de la multiplication de la rémunération horaire minimale correspondant à l'échelon national de rémunération auquel est classé le poste, par la durée de travail. <br/>Cette rémunération minimale devra respecter les dispositions réglementaires portant fixation du salaire minimum interprofessionnel de croissance. <br/>La rémunération minimale telle que définie à l'annexe V, prise en valeur annuelle, est majorée de 3 % après 1 an d'ancienneté. <br/>Cette majoration est portée à 6 % après 2 années d'ancienneté. <br/>Les modalités de paiement de la majoration sont laissées à l'initiative de chaque entreprise sans toutefois pouvoir excéder la périodicité d'une année. <br/>La comparaison des éléments ci-dessus avec la rémunération réelle versée en contrepartie ou à l'occasion du travail se fait en incluant dans cette dernière la totalité des éléments de rémunération versés, y compris ceux à périodicité non mensuelle, notamment prime annuelle, 13e mois … </p><p align='center'><br/>Mesure transitoire </p><p align='left'><br/>La rémunération totale d'un salarié résultant de la mise en place de la méthode de classification annexée à la présente convention ne pourra être inférieure à ce qu'elle était avant son application. »</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Rémunération"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030978162",
+              "num": "11",
+              "intOrdre": 6291444,
+              "content": "<p align='left'><br/>Version précédente : <br/>« En application du <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000000226534&categorieLien=cid'>décret n° 2002-792 du 3 mai 2002</a>, il est défini un repos compensateur de 1 % pour les heures travaillées de nuit, au sens des dispositions légales en vigueur. <br/>Les modalités de mise en œuvre de cette compensation devront être définies en entreprise. » <br/>Version modifiée : <br/>« Le travail de nuit est justifié par la nécessité d'assurer la continuité de l'activité économique du secteur de la presse payante. L'activité de portage de la presse payante consistant notamment à distribuer des publications quotidiennes fabriquées la nuit, avec une distribution aux abonnés prévue généralement avant 7 heures du matin, cette activité relève par essence, pour un certain nombre de salariés remplissant les conditions prévues au paragraphe ci-après, du travail de nuit. </p><p align='center'><br/>Définition du travail de nuit </p><p align='left'><br/>Est considéré comme travailleur de nuit tout salarié qui, conformément aux deux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902524&dateTexte=&categorieLien=cid'>premiers alinéas de l'article L. 3122-31 du code du travail </a>: <br/>– soit accomplit, au moins deux fois par semaine, selon un horaire de travail habituel, au moins 3 heures de son temps de travail quotidien durant la tranche horaire comprise entre 21 heures et 6 heures ; <br/>– soit accomplit, au cours d'une période de 12 mois consécutifs définie en entreprise, au moins 270 heures durant la tranche horaire comprise entre 21 heures et 6 heures. </p><p align='center'><br/>Contreparties </p><p align='left'><br/>Il est défini un repos compensateur de 1 % pour les heures travaillées de nuit, au sens des dispositions légales en vigueur. <br/>Les modalités de mise en œuvre de cette compensation devront être définies en entreprise. </p><p align='center'><br/>Mesures destinées à améliorer les conditions de travail du travailleur de nuit </p><p align='left'><br/>Les entreprises peuvent employer les salariés de nuit, sans que les heures effectuées de nuit puissent excéder 6 heures quotidiennes. <br/>Un temps de pause d'une durée minimale de 20 minutes est accordé à tout salarié dont la durée de travail en continu atteint 6 heures de travail effectif. <br/>Une attention particulière sera apportée par l'entreprise à la répartition des horaires des travailleurs de nuit, en tenant compte de l'articulation de leur activité nocturne avec l'exercice de leurs responsabilités familiales et sociales. L'employeur tiendra compte des contraintes de transport des salariés concernés par le travail de nuit lors de leur affectation. <br/>Les travailleurs de nuit bénéficient d'un repos quotidien obligatoire d'une durée de 11 heures pris obligatoirement après la période travaillée. <br/>La durée quotidienne de travail effectué par un travailleur de nuit ne peut excéder 8 heures. <br/>La durée hebdomadaire de travail des travailleurs de nuit, calculée sur une période quelconque de 12 semaines consécutives, ne peut dépasser 40 heures. </p><p align='center'><br/>Mesures destinées à favoriser l'égalité professionnelle et la formation professionnelle des travailleurs de nuit </p><p align='left'><br/>La considération du sexe ne pourra être retenue par l'employeur : <br/>– pour embaucher un salarié à un poste de travail de nuit conférant à l'intéressé la qualité de travailleur de nuit ; <br/>– pour muter un salarié d'un poste de jour vers un poste de nuit, ou d'un poste de nuit vers un poste de jour ; <br/>– pour prendre des mesures spécifiques aux travailleurs de nuit ou aux travailleurs de jour en matière de formation professionnelle. <br/>Les travailleurs de nuit doivent pouvoir bénéficier, comme tous les autres salariés, des actions comprises dans le plan de formation de l'entreprise, y compris celles relatives au capital de temps de formation, ou de congé individuel de formation. </p><p align='center'><br/>Surveillance médicale </p><p align='left'><br/>La surveillance médicale des travailleurs de nuit s'effectue conformément aux textes légaux et réglementaires en vigueur. »</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Travail de nuit"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030978165",
+              "num": "12",
+              "intOrdre": 6815731,
+              "content": "<p align='left'><br/>Version précédente : <br/>« Les parties contractantes sont conscientes des efforts de perfectionnement et de formation professionnelle que les salariés doivent réaliser en permanence, au cours de leur carrière. <br/>En conséquence, les parties demanderont, dès signature de cette convention collective, l'adhésion du GREPP à l'accord constitutif de MEDIAFOR du 21 décembre 1994. <br/>Il appartient à chaque employeur, au vue de la spécificité du service que doit assurer son entreprise, d'organiser au mieux, et en fonction des besoins et des possibilités du service et de la nature de ses activités, la formation professionnelle de ses salariés. <br/>Ces actions de formation sont réalisées après consultation des représentants du personnel ; elles doivent correspondre aux activités professionnelles des salariés intéressés et avoir pour objet d'actualiser les connaissances de ceux-ci. » <br/>Version modifiée : <br/>« Les parties contractantes sont conscientes des efforts de perfectionnement et de formation professionnelle que les salariés doivent réaliser en permanence, au cours de leur carrière. » <br/>Alinéa 2 supprimé. <br/>« Il appartient à chaque employeur, au vue de la spécificité du service que doit assurer son entreprise, d'organiser au mieux, et en fonction des besoins et des possibilités du service et de la nature de ses activités, la formation professionnelle de ses salariés. <br/>Ces actions de formation sont réalisées après consultation des représentants du personnel ; elles doivent correspondre aux activités professionnelles des salariés intéressés et avoir pour objet d'actualiser les connaissances de ceux-ci. » </p><p align='center'><br/>Congé de formation </p><p align='left'><br/>Version précédente : <br/>« Indépendamment de sa participation aux stages compris dans le plan de formation de l'entreprise, le salarié peut bénéficier d'actions de formation dans le cadre d'un congé individuel de formation. <br/>Les parties s'engagent, dès signature de la présente convention collective, à négocier un accord de formation professionnelle dans le cadre du <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000000613810&idSectionTA=LEGISCTA000006101566&dateTexte=&categorieLien=cid'>titre Ier de la loi n° 2004-391 du 4 mai 2004</a>. » <br/>Version modifiée : <br/>« Indépendamment de sa participation aux stages compris dans le plan de formation de l'entreprise, le salarié peut bénéficier d'actions de formation dans le cadre d'un congé individuel de formation. <br/>Les parties s'engagent, dès signature de la présente convention collective, à négocier un accord de formation professionnelle dans le cadre de la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000028683576&categorieLien=cid'>loi n° 2014-288 du 5 mars 2014</a>.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Formation"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030978168",
+              "num": "13",
+              "intOrdre": 7340018,
+              "content": "<p align='center'><br/>Autres jours fériés </p><p align='left'><br/>Version précédente : <br/>« On entend par jour férié, les jours tels que définis à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006647485&dateTexte=&categorieLien=cid'>article L. 222-1 du code du travail </a>auxquels s'ajoutent le vendredi saint et le 26 décembre pour l'Alsace et la Moselle.<br/>Les jours fériés travaillés donnent lieu au versement, en sus de la rémunération perçue ce jour-là, d'une majoration pour jour férié égale à 50 %. <br/>Cette majoration ne se cumule pas avec d'autres majorations déjà existantes. <br/>Ces dispositions s'appliquent aux porteurs de presse. » <br/>Version modifiée : <br/>« On entend par jour férié, les jours tels que définis à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902611&dateTexte=&categorieLien=cid'>article L. 3133-1 du code du travail </a>auxquels s'ajoutent le vendredi saint et le 26 décembre pour l'Alsace et la Moselle. <br/>Les jours fériés travaillés donnent lieu au versement, en sus de la rémunération perçue ce jour-là, d'une majoration pour jour férié égale à 50 %. <br/>Cette majoration ne se cumule pas avec d'autres majorations conventionnelles déjà existantes. <br/>Ces dispositions s'appliquent aux porteurs de presse. »</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Jours fériés"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030978171",
+              "num": "14",
+              "intOrdre": 7864305,
+              "content": "<p align='left'><br/>Version précédente : <br/>« Conformément à la loi, le repos hebdomadaire devra avoir une durée minimale de 24 heures consécutives auxquelles s'ajoutent les 11 heures consécutives de repos quotidien. <br/>D'autre part, les entreprises de portage de presse relèvent de l'activité visée à l'article L. 221-9,7°, du code du travail et, à ce titre, ont la possibilité de donner le repos hebdomadaire par roulement. » <br/>Version modifiée : <br/>« Conformément à la loi, le repos hebdomadaire devra avoir une durée minimale de 24 heures consécutives auxquelles s'ajoutent les 11 heures consécutives de repos quotidien. <br/>D'autre part, les entreprises de portage de presse relèvent de l'activité visée à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018486612&dateTexte=&categorieLien=cid'>article R. 3132-5 du code du travail </a>et, à ce titre, ont la possibilité de donner le repos hebdomadaire par roulement. »</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Repos hebdomadaire"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030978176",
+              "num": "15",
+              "intOrdre": 8388592,
+              "content": "<p align='left'><br/>Version précédente : <br/>« Un congé annuel payé est dû à tout salarié ayant travaillé effectivement chez le même employeur durant l'année de référence, soit du 1er juin de l'exercice écoulé au 31 mai de l'exercice en cours. <br/>La durée du congé annuel est fixée à 2 jours et demi ouvrables par mois de travail effectif, soit 30 jours ouvrables pour une année de référence complète de présence effective. <br/>L'acquisition des droits à congés payés et le décompte des jours de congés pris pourra se faire en jours ouvrés. <br/>La période pendant laquelle les congés payés peuvent être pris est établie par l'employeur et soumise au CE ou, à défaut, aux représentants du personnel. L'ordre et les dates de départ sont fixés par l'employeur, en concertation avec les salariés concernés et communiqués aux représentants du personnel. <br/>Chaque salarié sera informé de ses dates de prise de congés payés au moins 2 mois à l'avance. <br/>Les conjoints travaillant dans la même entreprise ont droit à un congé simultané. <br/>Les salariés qui prendront 4 semaines de congés consécutives bénéficieront d'un jour de congé supplémentaire. </p><p align='center'><br/>Rémunération des congés payés </p><p align='left'><br/>Le montant de l'indemnité de congés payés est calculé selon les dispositions légales. Les congés payés doivent être effectivement pris. » <br/>Version modifiée : <br/>« Un congé annuel payé est dû à tout salarié ayant travaillé effectivement chez le même employeur durant l'année de référence, soit du 1er juin de l'exercice écoulé au 31 mai de l'exercice en cours. <br/>Le droit est ouvert proportionnellement à la durée effective de travail pendant la période de référence. <br/>L'acquisition des droits à congés payés et le décompte des jours de congés pris se font en jours ouvrables. Un décompte en jours ouvrés est admis lorsque celui-ci est au moins équivalent au décompte en jours ouvrables. <br/>La période pendant laquelle les congés payés peuvent être pris est établie par l'employeur et soumise au CE ou, à défaut, aux représentants du personnel. L'ordre et les dates de départ sont fixés par l'employeur, en concertation avec les salariés concernés et communiqués aux représentants du personnel. <br/>Chaque salarié sera informé de ses dates de prise de congés payés au moins 2 mois à l'avance. <br/>Les conjoints et les partenaires liés par un Pacs travaillant dans la même entreprise ont droit à un congé simultané. <br/>Les salariés qui prendront 4 semaines de congés consécutives bénéficieront d'un jour de congé supplémentaire. </p><p align='center'><br/>Rémunération des congés payés </p><p align='left'><br/>Le montant de l'indemnité de congés payés est calculé selon les dispositions légales. Les congés payés doivent être effectivement pris. »</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Congés payés"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030978177",
+              "num": "16",
+              "intOrdre": 8912879,
+              "content": "<p align='left'><br/>Version précédente : <br/>« Une autorisation exceptionnelle d'absence rémunérée pour événement familial est accordée, sur justification, dans les cas suivants :<br/>– mariage du salarié : 5 jours ouvrables ; <br/>– mariage de l'enfant : 2 jours ouvrables ; <br/>– naissance, adoption : 3 jours ouvrables ; <br/>– décès conjoint, enfant : 3 jours ouvrables ; <br/>– décès père, mère : 2 jours ouvrables ; <br/>– décès frère, sœur, beau-père, belle-mère : 1 jour ouvrable, à partir de 3 mois d'ancienneté. <br/>Ces congés exceptionnels, à prendre au moment de l'événement, feront l'objet d'un maintien de la rémunération. » <br/>Version modifiée : <br/>« Une autorisation exceptionnelle d'absence rémunérée pour événement familial est accordée, sur justification, dans les cas suivants : <br/>– mariage du salarié : 5 jours ouvrables ; <br/>– conclusion d'un Pacs par le salarié : 5 jours ouvrables ; <br/>– mariage de l'enfant : 2 jours ouvrables ; <br/>– naissance, adoption : 3 jours ouvrables ; <br/>– décès conjoint, ou partenaire lié par un Pacs, enfant : 3 jours ouvrables ; <br/>– décès père, mère : 2 jours ouvrables ; <br/>– décès frère, sœur, beau-père, belle-mère : 1 jour ouvrable, à partir de 3 mois d'ancienneté. <br/>Ces congés exceptionnels, à prendre au moment de l'événement, feront l'objet d'un maintien de la rémunération. »</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Congés pour événements familiaux"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030978178",
+              "num": "17",
+              "intOrdre": 9437166,
+              "content": "<p align='left'><br/>Version précédente : <br/>« Sous réserve de la justification de leur incapacité par un certificat médical adressé à l'employeur dans les 48 heures et de l'indemnisation par la sécurité sociale, les salariés rattachés à la présente convention collective bénéficient du régime indemnitaire suivant : <br/>– après 2 ans d'ancienneté dans l'entreprise en cas d'incapacité due à la maladie ou à la maternité ; <br/>– sans délai d'ancienneté dans l'entreprise, en cas d'accident du travail. <br/>A compter du 11e jour d'arrêt, l'employeur assurera un complément sous déduction des indemnités journalières de sécurité sociale, de manière à maintenir pour le salarié : <br/>– pendant 30 jours, 90 % de la rémunération brute du salarié ; <br/>– pendant les 30 jours suivants, 75 % de la rémunération brute du salarié. <br/>Ces temps d'indemnisation sont augmentés de 10 jours par tranche de 5 années d'ancienneté au-delà de la première année d'activité dans l'entreprise. <br/>La base de calcul de la rémunération sera égale à la moyenne des 12 derniers mois précédant l'arrêt de travail. <br/>Le complément de rémunération versé par l'employeur peut être assuré en tout ou partie par un régime complémentaire de prévoyance. <br/>L'employeur a la faculté de mandater un médecin pour effectuer une contre-visite au domicile du salarié. <br/>En aucun cas, le cumul des sommes perçues par le salarié au titre du maintien de sa rémunération ne devra excéder les limites de l'indemnisation prévue ci-dessus. </p><p align='center'><br/>Dispositions particulières </p><p align='left'><br/>1. L'indemnisation est pratiquée à compter du premier jour d'absence en cas d'accident du travail et de maladie professionnelle. <br/>2. L'entreprise prend à sa charge le délai de carence légal de 10 jours si l'arrêt de travail atteint au moins 30 jours. </p><p align='center'><br/>Porteurs de presse </p><p align='left'><br/>Des dispositions spécifiques aux porteurs de presse, définies à l'annexe “ Porteurs ” de la présente convention collective, s'ajoutent à celles définies ci-dessus. » <br/>Version modifiée : <br/>« Sous réserve de la justification de leur incapacité par un certificat médical adressé à l'employeur dans les 48 heures et de l'indemnisation par la sécurité sociale, les salariés rattachés à la présente convention collective bénéficient du régime indemnitaire suivant : <br/>– après 1 an d'ancienneté dans l'entreprise en cas d'incapacité due à la maladie ou à la maternité ; <br/>– sans délai d'ancienneté dans l'entreprise en cas d'accident du travail. <br/>A compter du 8e jour d'arrêt, l'employeur assurera un complément, sous déduction des indemnités journalières de sécurité sociale, de manière à maintenir pour le salarié : <br/>– pendant 30 jours, 90 % de la rémunération brute du salarié ; <br/>– pendant les 30 jours suivants, 75 % de la rémunération brute du salarié. <br/>Ces temps d'indemnisation sont augmentés de 10 jours par tranche de 5 années d'ancienneté au-delà de la première année d'activité dans l'entreprise. <br/>La base de calcul de la rémunération sera égale à la moyenne des 12 derniers mois précédant l'arrêt de travail. <br/>Le complément de rémunération versé par l'employeur peut être assuré en tout ou partie par un régime complémentaire de prévoyance. <br/>L'employeur a la faculté de mandater un médecin pour effectuer une contre-visite au domicile du salarié. <br/>En aucun cas, le cumul des sommes perçues par le salarié au titre du maintien de sa rémunération ne devra excéder les limites de l'indemnisation prévue ci-dessus. </p><p align='center'><br/>Dispositions particulières </p><p align='left'><br/>1. L'indemnisation est pratiquée à compter du premier jour d'absence en cas d'accident du travail et de maladie professionnelle. <br/>2. L'entreprise prend à sa charge le délai de carence légal de 7 jours si l'arrêt de travail atteint au moins 30 jours. </p><p align='center'><br/>Porteurs de presse </p><p align='left'><br/>Des dispositions spécifiques aux porteurs de presse, définies à l'annexe “ Porteurs ” de la présente convention collective, s'ajoutent à celles définies ci-dessus. »</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Indemnisation maladie, maternité, accidents du travail"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030978179",
+              "num": "18",
+              "intOrdre": 9961453,
+              "content": "<p align='left'><br/>Version précédente : </p><p align='center'><br/>« Article 18 <br/>Prévoyance </p><p align='left'><br/>Les entreprises adhérentes s'engagent à mettre en place des formules de contrat de prévoyance, à financement associé, assurant des garanties décès, incapacité temporaire de travail et invalidité permanente, sous réserve des conditions de droit commun. <br/>En cas de mise en place d'une prévoyance, le groupe de protection sociale Audiens sera prioritairement consulté. <br/>Les entreprises ouvriront des discussions sur la mise en place de systèmes de protection sociale, au plus tard dans un délai de 2 ans à compter de la date de signature de la présence convention collective. » <br/>Version modifiée : </p><p align='center'><br/>« Article 18 <br/>Frais de santé et prévoyance </p><p align='left'><br/>Les entreprises de portage de presse s'engagent à appliquer les accords collectifs instituant des garanties collectives et obligatoires de frais de santé, décès, incapacité et invalidité, signés au niveau de la branche, et ce avant le 31 décembre 2015. »</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030978180",
+              "num": "19",
+              "intOrdre": 10485740,
+              "content": "<p align='left'><br/>Version précédente : <br/>« Conformément à la réglementation en vigueur, les salariés des entreprises de portage devront être convoqués à la visite médicale obligatoire. <br/>Dans le cas où cette visite ne pourrait pas se dérouler pendant le temps de travail, le temps nécessaire à la visite médicale sera rémunéré au taux horaire du salarié. <br/>Les salariés ayant un autre employeur pourront satisfaire à l'obligation de visite médicale en fournissant un certificat d'aptitude, pour l'activité exercée dans l'entreprise de portage, établi par un médecin du travail. » <br/>Version modifiée : <br/>« Conformément à la réglementation en vigueur, les salariés des entreprises de portage devront être convoqués à la visite médicale obligatoire. <br/>Dans le cas où cette visite ne pourrait pas se dérouler pendant le temps de travail, le temps nécessaire à la visite médicale sera rémunéré au taux horaire du salarié. <br/>Les salariés ayant un autre employeur pourront satisfaire à l'obligation de visite médicale en fournissant un certificat d'aptitude, pour l'activité exercée dans l'entreprise de portage, établi par un médecin du travail sous condition de respect des conditions légales et réglementaires en vigueur (art. <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018493152&dateTexte=&categorieLien=cid'>R 4624-14</a>, <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018493158&dateTexte=&categorieLien=cid'>R. 4624-16 </a>et <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018493160&dateTexte=&categorieLien=cid'>R. 4624-17 </a>du code du travail). »</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Visite médicale"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030978184",
+              "num": "20",
+              "intOrdre": 11010027,
+              "content": "<p align='center'><br/>Départ volontaire du salarié </p><p align='left'><br/>Version précédente : <br/>« Tout membre du personnel quittant volontairement l'entreprise, à la date à laquelle il peut faire liquider sa retraite de sécurité sociale au taux plein, perçoit lors de la cessation de son activité une indemnité conventionnelle de départ à la retraite fixée selon son ancienneté à : <br/>– 1 mois de salaire après 10 ans d'ancienneté ; <br/>– 1,5 mois de salaire après 15 ans d'ancienneté ; <br/>– 2 mois de salaire après 20 ans d'ancienneté ; <br/>– 3 mois de salaire après 30 ans d'ancienneté, <br/>pour l'ensemble du personnel. <br/>Le salaire à prendre en considération doit être la moyenne de la rémunération des 12 derniers. » <br/>Version modifiée : <br/>« Tout membre du personnel quittant volontairement l'entreprise, à la date à laquelle il peut faire liquider sa retraite de sécurité sociale au taux plein, perçoit lors de la cessation de son activité une indemnité conventionnelle de départ à la retraite fixée selon son ancienneté à : <br/>– 1 mois de salaire après 10 ans d'ancienneté ; <br/>– 1,5 mois de salaire après 15 ans d'ancienneté ; <br/>– 2 mois de salaire après 20 ans d'ancienneté ; <br/>– 3 mois de salaire après 30 ans d'ancienneté, <br/>pour l'ensemble du personnel. <br/>Le salaire à prendre en considération doit être la moyenne de la rémunération brute des 12 derniers mois ou celle des 3 derniers mois, la plus avantageuse pour le salarié étant retenue. </p><p align='center'><br/>Mise à la retraite par l'employeur </p><p align='left'><br/>Version précédente : <br/>« Le salarié ayant atteint l'âge de 65 ans (60 ans en cas d'inaptitude au travail reconnue par la sécurité sociale), ou de 60 ans s'il peut bénéficier d'une retraite à taux plein, pourra être mis à la retraite par l'employeur en application de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006645987&dateTexte=&categorieLien=cid'>article L. 122-14-13 du code du travail</a>, sans que cette décision puisse être considérée comme un licenciement. <br/>Lors de la cessation d'activité, le salarié percevra l'indemnité légale de licenciement, si cette dernière est supérieure à l'indemnité calculée selon le barème prévu pour le départ volontaire à la retraite. » <br/>Version modifiée : <br/>« La mise à la retraite d'un salarié intervient selon les conditions prévues à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901179&dateTexte=&categorieLien=cid'>article L. 1237-5 du code du travail</a>. <br/>Lors de la cessation de son activité, le salarié percevra l'indemnité légale de licenciement, si cette dernière est supérieure à l'indemnité calculée selon le barème prévu pour le départ volontaire à la retraite. »</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Indemnité de fin de carrière ou de départ à la retraite"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030978187",
+              "num": "21",
+              "intOrdre": 11534314,
+              "content": "<p align='left'><br/>Version précédente : <br/>« Le personnel licencié, hormis pour une faute lourde ou grave, perçoit une indemnité distincte du préavis à condition d'avoir exercé ses fonctions pendant au moins 2 années dans l'entreprise. <br/>Cette indemnité sera calculée comme suit : <br/>– moins de 10 ans d'ancienneté : 1/10 de mois par année d'ancienneté ; <br/>– à partir de 10 ans d'ancienneté : 1/10 de mois par année d'ancienneté plus 1/15 de mois par année d'ancienneté au-delà de 10 ans. <br/>En cas de licenciement pour cause économique, les indemnités perçues sont les indemnités légales en vigueur pour ce type de licenciement. <br/>Le salaire à prendre en considération doit être la moyenne de la rémunération des 12 derniers mois. » <br/>Version modifiée : <br/>« Le personnel licencié, hormis pour une faute lourde ou grave, perçoit une indemnité distincte du préavis à condition d'avoir exercé ses fonctions pendant au moins 1 année dans l'entreprise. <br/>Cette indemnité sera calculée comme suit : <br/>– moins de 10 ans d'ancienneté : 1/5 de mois par année d'ancienneté ; <br/>– à partir de 10 ans d'ancienneté : 1/5 de mois par année d'ancienneté plus 2/15 de mois par année d'ancienneté au-delà de 10 ans. <br/>En cas de licenciement pour cause économique, les indemnités perçues sont les indemnités légales en vigueur pour ce type de licenciement. <br/>Le salaire à prendre en considération doit être la moyenne de la rémunération brute des 12 derniers mois ou celle des 3 derniers mois, la plus avantageuse pour le salarié étant retenue. »</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Indemnité de licenciement"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000030978188",
+              "num": "22",
+              "intOrdre": 12058601,
+              "content": "<p align='left'>Article supprimé. </p><p align='center'>Annexe « Porteurs » <br/>Conditions d'emploi </p><p align='left'>Version précédente : <br/>« En complément des dispositions prévues au tronc commun de la convention collective, il sera proposé aux porteurs de presse un contrat de travail utilisant les diverses modalités légales telles que temps partiel, temps partiel modulé. <br/>Ce contrat précisera, de manière détaillée, l'organisation du travail de portage et les modalités de rémunération en découlant. » <br/>Version modifiée : <br/>« En complément des dispositions prévues au tronc commun de la convention collective, il sera proposé aux porteurs de presse un contrat de travail utilisant les diverses modalités légales (fin de phrase supprimée). <br/>Ce contrat précisera, de manière détaillée, l'organisation du travail de portage et les modalités de rémunération en découlant. » </p><p align='center'>Période d'essai </p><p align='left'>Pas de modification. </p><p align='center'>Préavis </p><p align='left'>Pas de modification. </p><p align='center'>Principes généraux <br/>Durée du travail et rémunération des porteurs de presse </p><p align='left'>Version précédente : <br/>« La durée du travail du porteur de presse est fonction de la durée de référence de la tournée (des tournées) à laquelle (auxquelles) il est affecté. <br/>La rémunération du porteur de presse est fonction du nombre d'exemplaires portés ou du nombre de clients livrés. <br/>En tout état de cause, au titre d'un mois donné, un porteur de presse perçoit une rémunération au moins égale à celle qui résulte du produit de la durée de référence par le taux horaire conventionnel minimal. <br/>Les articles ci-après relatifs à la durée du travail des porteurs de presse et à la rémunération de ceux-ci ont pour objet de préciser ces deux notions. » <br/>Version modifiée : <br/>« La durée du travail du porteur de presse est fonction de la durée de référence de la tournée (des tournées) à laquelle (auxquelles) il est affecté et telle qu'elle est définie dans l'accord de branche relatif à la durée du travail des porteurs de presse signé le 28 mai 2014 (annexé à la présente convention collective). <br/>Au titre d'un mois donné et sur la base de la durée de référence ainsi déterminée, un porteur de presse perçoit une rémunération définie à l'exemplaire ou au client porté au moins égale à celle qui résulte du produit de la durée de référence par le taux horaire conventionnel minimal. <br/>L'article ci-après relatif à la rémunération des porteurs de presse a pour objet de préciser cette notion. » </p><p align='center'>Durée du travail des porteurs de presse </p><p align='left'>Version précédente : <br/>« Chaque porteur est affecté à une tournée de portage déterminée par l'employeur pour un ou plusieurs jours. <br/>En raison de la nature de l'activité du porteur (autonomie dans l'organisation de son rythme de travail, absence de contrôle de l'employeur), le calcul de la durée du travail se fonde sur une durée de référence, définie, pour chaque tournée, en entreprise. <br/>Celle-ci tient compte du temps normalement consacré à la durée continue des missions qui sont confiées aux porteurs. <br/>Elle intègre donc différents éléments susceptibles d'influer sur la réalisation de la tournée, notamment, le kilométrage de la tournée, le nombre moyen d'exemplaires portés, les conditions spécifiques de réalisation de cette tournée (activité extérieure en milieu rural ou urbain, encartage manuel et temps de préparation...), ainsi que les caractéristiques du produit (poids, format...). <br/>Elle est fixée pour un ou plusieurs jours de la semaine en référence à un nombre d'exemplaires. <br/>Cette durée est communiquée à l'intéressé lorsqu'il est affecté à cette tournée ; elle comporte l'heure limite à laquelle elle doit être terminée au plus tard, le cas échéant, l'heure de mise à disposition des journaux et, dans tous les cas, l'heure limite de prise des journaux. <br/>L'organisation des tournées relève de la responsabilité de l'employeur. Il prend toute disposition pour que l'activité puisse être réalisée dans des conditions compatibles avec les délais de livraison. <br/>Lorsque le nombre de journaux portés et lorsque les conditions de la tournée évoluent, une nouvelle durée de référence de la tournée concernée est déterminée et communiquée au porteur. <br/>Les entreprises établiront une procédure d'étalonnage ou de calcul des durées de référence qui sera communiquée au comité d'entreprise et, à défaut, aux délégués du personnel. <br/>Dans le cas où une réorganisation des tournées entraînerait une baisse pérenne de l'activité du porteur, les entreprises s'engagent à rechercher toute solution visant à atténuer cet effet. <br/>Enfin, il pourra être proposé ponctuellement au porteur d'effectuer des tournées supplémentaires. Dans le cas où l'exécution de celles-ci ne serait pas compatible avec un emploi principal, le porteur pourrait les refuser. » <br/>Version modifiée : <br/>Article supprimé. </p><p align='center'>Rémunération des porteurs de presse </p><p align='left'>Version précédente : <br/>« La rémunération du porteur de presse est fixée selon les principes généraux de l'annexe “ Porteurs ”. Il est précisé que lorsqu'il s'agit d'un supplément non encarté, la rémunération prend en compte les conditions de son éventuel encartage et de son portage. <br/>Elle tient compte des contraintes particulières de la tournée, notamment, du nombre moyen d'exemplaires portés, de la durée de référence de la tournée et des caractéristiques du produit. <br/>Pour chaque mois travaillé, la rémunération minimale est égale au taux horaire correspondant à l'échelon national de rémunération auquel est rattaché le porteur multiplié par la durée de référence cumulée mensuelle, communiquée au porteur. <br/>Afin de permettre au porteur de vérifier que la rémunération à l'exemplaire est au moins égale au minimum conventionnel ou au Smic, les employeurs feront figurer en annexe au contrat de travail les éléments permettant ce calcul. <br/>La rémunération minimale telle que définie à l'annexe V, prise en valeur annuelle, est majorée de 3 % après 1 an d'ancienneté. <br/>Cette majoration est portée à 6 % après 2 années d'ancienneté. <br/>Les modalités de paiement de la majoration sont laissées à l'initiative de chaque entreprise sans toutefois pouvoir excéder la périodicité de 1 année. <br/>La comparaison des éléments ci-dessus avec la rémunération réelle versée en contrepartie ou à l'occasion du travail se fait en incluant dans cette dernière la totalité des éléments de rémunération versés y compris ceux à périodicité non mensuelle, notamment prime annuelle, 13e mois … <br/>A partir de la date d'application de la convention collective, les contrats de travail doivent prévoir une garantie de rémunération correspondant à un minimum d'exemplaires portés (ou activité) par tournée. » <br/>Version modifiée : <br/>« La rémunération du porteur de presse est fixée selon les principes généraux de l'annexe “ Porteurs ”. <br/>Elle tient compte de la durée de référence de la tournée, telle que définie dans l'accord de branche relatif à la durée du travail des porteurs de presse, et qui est fixée pour un ou plusieurs jours de la semaine au regard d'un nombre d'exemplaires ou de clients portés. <br/>Ainsi, pour chaque mois travaillé, la rémunération minimale doit correspondre au taux horaire correspondant à l'échelon national de rémunération auquel est rattaché le porteur multiplié par la somme des durées de référence appliquées sur le mois considéré. <br/>Afin de permettre au porteur de vérifier que la rémunération à l'exemplaire ou au client porté est en conformité avec la durée de référence définie, un document précisant la durée de référence et, selon les entreprises, la quantité portée ou tout autre ratio de la tournée existant dans l'entreprise lui est remis. <br/>La rémunération minimale telle que définie à l'annexe V, prise en valeur annuelle, est majorée de 3 % après 1 an d'ancienneté. <br/>Cette majoration est portée à 6 % après 2 années d'ancienneté. <br/>Les modalités de paiement de la majoration sont laissées à l'initiative de chaque entreprise sans toutefois pouvoir excéder la périodicité de 1 année. <br/>La comparaison des éléments ci-dessus avec la rémunération réelle versée en contrepartie ou à l'occasion du travail se fait en incluant dans cette dernière la totalité des éléments de rémunération versés, y compris ceux à périodicité non mensuelle, notamment prime annuelle, 13e mois. <br/>A partir de la date d'application de la convention collective, les contrats de travail doivent prévoir une garantie de rémunération correspondant à un minimum d'exemplaires ou clients portés (ou activité) par tournée. » </p><p align='center'>Rémunération des tournées supplémentaires </p><p align='left'>Pas de modification. </p><p align='center'>Rémunération des temps d'attente </p><p align='left'>Version précédente : <br/>« Le temps d'attente est rémunéré au taux horaire du Smic, après un délai de carence de 20 minutes. <br/>Les parties admettent, compte tenu de la spécificité de l'activité, que les modalités concrètes de détermination du temps d'attente sont négociées en entreprise. » <br/>Version modifiée : <br/>« Le temps d'attente est rémunéré au taux horaire du Smic. <br/>L'heure de mise à disposition des journaux et/ ou l'heure limite de prise des journaux sont utilisées pour la comptabilisation des temps d'attente en fonction des règles applicables dans l'entreprise. » </p><p align='center'>Défraiement des porteurs de presse </p><p align='left'>Version précédente : <br/>« Si la tournée de portage ou son organisation nécessite un moyen de locomotion, celui-ci est déterminé par l'employeur. <br/>L'indemnisation des frais d'usage de ce moyen de locomotion est définie en entreprise ou au contrat de travail dans le respect du minimum suivant : <br/>– pour les tournées effectuées avec un véhicule à moteur thermique, depuis le lieu de prise des journaux jusqu'au dernier journal livré (ou, à défaut, jusqu'au point de fin de tournée déterminé par l'employeur) : barème fiscal kilométrique applicable aux vélomoteurs et scooters dont la puissance est inférieure à 50 cm3, pour une distance annuelle supérieure à 5 000 kilomètres (0,126 €/ km au 1er janvier 2005) ; <br/>– ce barème est égal à 1,4 fois le barème de base dans les cas suivants : <br/>– pour les tournées de plus de 60 km ; <br/>– pour les tournées de plus de 400 journaux ; <br/>– pour les tournées dont le moyen de locomotion, exigé par l'employeur et effectivement utilisé, est l'automobile. <br/>Trente pour cent de ce tarif majoré sera revu au 1er juillet de chaque année, pour tenir compte de l'évolution du coût du carburant depuis le 1er janvier de l'année en cours (l'indice de référence étant l'indice des carburants et lubrifiants, base 126,10 au 1er janvier 2005). <br/>Au 1er janvier de l'année suivante, il sera fait strictement application du barème fiscal majoré de 40 %. <br/>Ces modalités ne peuvent se cumuler avec celles existantes en entreprise et ayant le même objet. <br/>Les volumes et poids confiés au porteur doivent être conformes à la réglementation en vigueur pour le moyen de locomotion déterminé par l'employeur. » <br/>Version modifiée : <br/>« Si la tournée de portage ou son organisation nécessite un moyen de locomotion, celui-ci est déterminé par l'employeur. <br/>L'indemnisation des frais d'usage de ce moyen de locomotion est définie en entreprise ou au contrat de travail dans le respect du minimum suivant : <br/>– pour les tournées effectuées avec un véhicule à moteur thermique, depuis le lieu de prise des journaux jusqu'au dernier journal livré (ou, à défaut, jusqu'au point de fin de tournée déterminé par l'employeur) : barème fiscal kilométrique applicable aux vélomoteurs et scooters dont la puissance est inférieure à 50 cm3, pour une distance annuelle supérieure à 5 000 kilomètres (barème 2014 : 0,145 €/ km) ; <br/>– ce barème est égal à 1,4 fois le barème de base dans les cas suivants : <br/>– pour les tournées de plus de 60 km ; <br/>– pour les tournées de plus de 400 journaux ; <br/>– pour les tournées dont le moyen de locomotion, exigé par l'employeur et effectivement utilisé, est l'automobile. <br/>Trente pour cent de ce tarif majoré sera revu au 1er juillet de chaque année, pour tenir compte de l'évolution du coût du carburant depuis le 1er janvier de l'année en cours (l'indice de référence étant l'indice des carburants et lubrifiants, base au 1er janvier 2014 : 182,82). <br/>Au 1er janvier de l'année suivante, il sera fait strictement application du barème fiscal majoré de 40 %. <br/>Ces modalités ne peuvent se cumuler avec celles existantes en entreprise et ayant le même objet. <br/>Les volumes et poids confiés au porteur doivent être conformes à la réglementation en vigueur pour le moyen de locomotion déterminé par l'employeur. <br/>Le contrat de travail précisera le caractère forfaitaire de l'indemnisation des frais kilométriques telle que prévue à la convention collective. » <br/>Les autres articles de l'annexe « Porteurs » sont inchangés.</p><p align='center'></p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Délai d'application"
             }
           ]
         },
         {
-          "id": "KALITEXT000030335242",
+          "type": "section",
           "title": "Adhésion par lettre du 18 décembre 2014 du SNPEP FO à la convention",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000030335242",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030335245",
               "num": null,
               "intOrdre": 524287,
@@ -852,11 +952,12 @@
           ]
         },
         {
-          "id": "KALITEXT000030309941",
+          "type": "section",
           "title": "Adhésion par lettre du 10 décembre 2014 de la F3C CFDT à la convention collective",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000030309941",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030309944",
               "num": null,
               "intOrdre": 524287,
@@ -866,11 +967,12 @@
           ]
         },
         {
-          "id": "KALITEXT000029563239",
+          "type": "section",
           "title": "Accord du 28 mai 2014 relatif à la durée du travail des porteurs de presse",
-          "dateParution": 1413158400000,
-          "articles": [
+          "id": "KALITEXT000029563239",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000029563242",
               "num": "1er",
               "intOrdre": 524287,
@@ -879,6 +981,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029563243",
               "num": "2",
               "intOrdre": 1048574,
@@ -887,6 +990,7 @@
               "surtitre": "Calcul de la durée de référence"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029563244",
               "num": "3",
               "intOrdre": 1572861,
@@ -895,6 +999,7 @@
               "surtitre": "Commission paritaire d'interprétation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029563245",
               "num": "4",
               "intOrdre": 2097148,
@@ -903,6 +1008,7 @@
               "surtitre": "Durée"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029563246",
               "num": "5",
               "intOrdre": 2621435,
@@ -911,6 +1017,7 @@
               "surtitre": "Révision"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029563247",
               "num": "6",
               "intOrdre": 3145722,
@@ -919,6 +1026,7 @@
               "surtitre": "Dénonciation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029563248",
               "num": "7",
               "intOrdre": 3670009,
@@ -927,6 +1035,7 @@
               "surtitre": "Extension"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029563250",
               "num": "8",
               "intOrdre": 4194296,
@@ -937,17 +1046,19 @@
           ]
         },
         {
-          "id": "KALITEXT000026049891",
+          "type": "section",
           "title": "Accord du 22 octobre 2008 relatif à la formation professionnelle",
-          "dateParution": 1340236800000,
-          "sections": [
+          "id": "KALITEXT000026049891",
+          "children": [
             {
-              "id": "KALISCTA000026049894",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000026049894",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000026049899",
                   "num": null,
                   "intOrdre": 524287,
@@ -957,12 +1068,14 @@
               ]
             },
             {
-              "id": "KALISCTA000026049895",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Titre Ier Champ d'application",
+              "id": "KALISCTA000026049895",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000026049900",
                   "num": null,
                   "intOrdre": 524287,
@@ -972,12 +1085,14 @@
               ]
             },
             {
-              "id": "KALISCTA000026049896",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Titre II Partenaires de la formation professionnelle",
+              "id": "KALISCTA000026049896",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000026049901",
                   "num": "1er",
                   "intOrdre": 524287,
@@ -986,6 +1101,7 @@
                   "surtitre": "Commission paritaire nationale de l'emploi et de la formation de la presse"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000026049902",
                   "num": "2",
                   "intOrdre": 1048574,
@@ -996,12 +1112,14 @@
               ]
             },
             {
-              "id": "KALISCTA000026049897",
+              "type": "section",
               "intOrdre": 2097148,
               "title": "Titre III accès des salariés à la formation professionnelle tout au long de la vie professionnelle",
+              "id": "KALISCTA000026049897",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000026049903",
                   "num": "3",
                   "intOrdre": 524287,
@@ -1010,6 +1128,7 @@
                   "surtitre": "Actions et publics prioritaires"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000026049904",
                   "num": "4",
                   "intOrdre": 1048574,
@@ -1018,6 +1137,7 @@
                   "surtitre": "Plan de formation de l'entreprise"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000026067639",
                   "num": "5",
                   "intOrdre": 1572861,
@@ -1026,6 +1146,7 @@
                   "surtitre": "Contrat de professionnalisation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000026067636",
                   "num": "6",
                   "intOrdre": 2097148,
@@ -1034,6 +1155,7 @@
                   "surtitre": "Périodes de professionnalisation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000026067631",
                   "num": "7",
                   "intOrdre": 2621435,
@@ -1042,6 +1164,7 @@
                   "surtitre": "Droit individuel à la formation (DIF)"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000026049917",
                   "num": "8",
                   "intOrdre": 3145722,
@@ -1052,12 +1175,14 @@
               ]
             },
             {
-              "id": "KALISCTA000026049898",
+              "type": "section",
               "intOrdre": 2621435,
               "title": "Titre IV Dispositions finales",
+              "id": "KALISCTA000026049898",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000026067629",
                   "num": "9",
                   "intOrdre": 524287,
@@ -1066,6 +1191,7 @@
                   "surtitre": "Organisme de collecte et de gestion"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000026049920",
                   "num": "10",
                   "intOrdre": 1048574,
@@ -1074,6 +1200,7 @@
                   "surtitre": "Bilan d'application"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000026049921",
                   "num": "11",
                   "intOrdre": 1572861,
@@ -1082,6 +1209,7 @@
                   "surtitre": "Date d'application"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000026049922",
                   "num": "12",
                   "intOrdre": 2097148,
@@ -1090,6 +1218,7 @@
                   "surtitre": "Dépôt"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000026049923",
                   "num": "13",
                   "intOrdre": 2621435,
@@ -1098,6 +1227,7 @@
                   "surtitre": "Révision"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000026049924",
                   "num": "14",
                   "intOrdre": 3145722,
@@ -1106,6 +1236,7 @@
                   "surtitre": "Dénonciation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000026049926",
                   "num": "15",
                   "intOrdre": 3670009,
@@ -1118,26 +1249,19 @@
           ]
         },
         {
-          "id": "KALITEXT000026049927",
+          "type": "section",
           "title": "Avenant du 26 septembre 2011 à l'accord du 22 octobre 2008 relatif à la formation professionnelle",
-          "dateParution": 1340236800000,
-          "articles": [
+          "id": "KALITEXT000026049927",
+          "children": [
             {
-              "id": "KALIARTI000026049931",
-              "num": null,
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Les articles suivants sont ainsi modifiés : </p><p align='center'><br/>« 5.5. Prise en charge de la formation </p><p align='left'><br/>La participation financière de l'OPCA AFDAS aux actions d'évaluation, d'individualisation, d'accompagnement et de formation liées au contrat de professionnalisation s'effectuera sur la base d'un forfait horaire fixé par le présent accord à 9,15 € minimum, conformément à l'<a alt='Code du travail - art. L983-1 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006651804&dateTexte=&categorieLien=cid'>article L. 983-1 du code du travail</a>. <br/>Ce forfait horaire sera adapté pour tenir compte du coût réel lié aux spécificités de certaines formations, en tant que de besoin, sur décision de l'OPCA AFDAS. <br/>Ce dernier définit également son niveau plafond d'intervention en prenant notamment en compte la nature, le nombre d'heures de formation ou le coût de ces actions. <br/>Les contrats de professionnalisation sont établis par écrit et déposés auprès de l'OPCA AFDAS avec la demande de prise en charge financière avant le début du contrat. » </p><p align='center'><br/>« 6.5. Dispositions financières </p><p align='left'><br/>Seules les actions de formation mises en œuvre pendant la période de professionnalisation et pendant le temps de travail donneront lieu au maintien par l'employeur de la rémunération du salarié. <br/>La prise en charge par l'OPCA AFDAS des frais pédagogiques se fera conformément à la loi, après constatation par l'OPCA que le dossier présenté est conforme aux dispositions du présent article, au tarif forfaitaire horaire minimum de 9,15 € par heure de formation pour les frais pédagogiques et en fonction des disponibilités financières de la section compétente de l'OPCA AFDAS au moment du dépôt du dossier. <br/>Ce forfait horaire pourra être adapté pour tenir compte du coût réel lié aux spécificités de certaines formations, en tant que de besoin, sur décision de l'OPCA AFDAS. » </p><p align='center'><br/>« 7.1. Objet </p><p align='left'><br/>Le DIF est défini comme un outil de personnalisation et de renforcement des parcours de formation. <br/>Il peut s'exercer dans le cadre du plan de formation ou des périodes de professionnalisation. <br/>Il doit permettre au salarié et à l'entreprise d'être coacteurs de l'évolution professionnelle du salarié et de favoriser l'accès aux formations prioritaires définies ci-après, qui pourront être financées par l'OPCA AFDAS. » </p><p align='center'><br/>« 7.3.1. Mise en œuvre </p><p align='left'><br/>La demande de formation sous la forme du DIF relève de l'initiative du salarié, l'accord préalable de l'employeur étant requis pour sa mise en œuvre. <br/>L'accord de l'employeur se concrétise en cas de réponse favorable par un document qui précise les caractéristiques de la formation ainsi que ses objectifs, et qui fait l'objet d'une signature du salarié et de l'employeur. <br/>En vue de favoriser l'évolution professionnelle du salarié et le développement des compétences au sein des entreprises, la mise en œuvre du DIF s'effectue en tenant compte des conclusions soit de l'entretien professionnel, soit de l'évaluation, dans les entreprises qui auront recours à l'un ou l'autre de ces deux dispositifs de suivi des parcours professionnels. <br/>Eu égard aux objectifs ainsi définis, la mise en œuvre du DIF conduit à prévoir un renforcement de l'implication et de la formation de l'encadrement dans l'analyse des options de parcours professionnels des salariés et des formations adaptées à la réussite de ces options. <br/>L'employeur dispose de 1 mois pour répondre à la demande formalisée par écrit d'un salarié. En cas de refus qui doit intervenir au plus tard dans ce délai, l'employeur doit motiver sa réponse qui sera également écrite. <br/>Les dépenses effectuées par l'employeur dans le cadre du DIF (coût pédagogique, rémunération ou allocation, frais liés à la formation) sont imputables sur son plan de formation. <br/>Les actions de formation au titre du DIF peuvent être réalisées en utilisant les droits acquis avec d'autres moyens d'accès à la formation (plan de formation, période de professionnalisation, congé individuel de formation …). <br/>La rémunération due au salarié dans l'exercice de son DIF est assurée dans le cadre des <a alt='Code du travail - art. L933-4 (T)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006651434&dateTexte=&categorieLien=cid'>dispositions de l'article L. 933-4 du code du travail</a>. <br/>En cas de refus une première fois, le salarié peut présenter une deuxième fois la même demande l'année suivante. En cas de second refus, le salarié peut directement adresser sa demande à l'OPCA AFDAS, dans le cadre du CIF, qui décidera de l'acceptation de son dossier. » </p><p align='center'><br/>« 9. Organisme de collecte et de gestion </p><p align='left'><br/>Les parties signataires confirment l'OCPA AFDAS comme organisme collecteur et gestionnaire. » </p><p align='center'><br/>Date d'application de l'avenant </p><p align='left'><br/>Le présent accord entrera en vigueur le lendemain de sa date de signature pour les entreprises adhérentes. </p><p align='center'><br/>Dépôt de l'avenant et extension </p><p align='left'><br/>Le présent avenant sera déposé à la direction générale du travail puis sera proposé à l'extension par la partie signataire la plus diligente.</p>",
-              "etat": "VIGUEUR_NON_ETEN"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000026049930",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000026049930",
               "etat": "VIGUEUR_NON_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000026049934",
                   "num": null,
                   "intOrdre": 524287,
@@ -1145,23 +1269,33 @@
                   "etat": "VIGUEUR_NON_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000026049931",
+              "num": null,
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>Les articles suivants sont ainsi modifiés : </p><p align='center'><br/>« 5.5. Prise en charge de la formation </p><p align='left'><br/>La participation financière de l'OPCA AFDAS aux actions d'évaluation, d'individualisation, d'accompagnement et de formation liées au contrat de professionnalisation s'effectuera sur la base d'un forfait horaire fixé par le présent accord à 9,15 € minimum, conformément à l'<a alt='Code du travail - art. L983-1 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006651804&dateTexte=&categorieLien=cid'>article L. 983-1 du code du travail</a>. <br/>Ce forfait horaire sera adapté pour tenir compte du coût réel lié aux spécificités de certaines formations, en tant que de besoin, sur décision de l'OPCA AFDAS. <br/>Ce dernier définit également son niveau plafond d'intervention en prenant notamment en compte la nature, le nombre d'heures de formation ou le coût de ces actions. <br/>Les contrats de professionnalisation sont établis par écrit et déposés auprès de l'OPCA AFDAS avec la demande de prise en charge financière avant le début du contrat. » </p><p align='center'><br/>« 6.5. Dispositions financières </p><p align='left'><br/>Seules les actions de formation mises en œuvre pendant la période de professionnalisation et pendant le temps de travail donneront lieu au maintien par l'employeur de la rémunération du salarié. <br/>La prise en charge par l'OPCA AFDAS des frais pédagogiques se fera conformément à la loi, après constatation par l'OPCA que le dossier présenté est conforme aux dispositions du présent article, au tarif forfaitaire horaire minimum de 9,15 € par heure de formation pour les frais pédagogiques et en fonction des disponibilités financières de la section compétente de l'OPCA AFDAS au moment du dépôt du dossier. <br/>Ce forfait horaire pourra être adapté pour tenir compte du coût réel lié aux spécificités de certaines formations, en tant que de besoin, sur décision de l'OPCA AFDAS. » </p><p align='center'><br/>« 7.1. Objet </p><p align='left'><br/>Le DIF est défini comme un outil de personnalisation et de renforcement des parcours de formation. <br/>Il peut s'exercer dans le cadre du plan de formation ou des périodes de professionnalisation. <br/>Il doit permettre au salarié et à l'entreprise d'être coacteurs de l'évolution professionnelle du salarié et de favoriser l'accès aux formations prioritaires définies ci-après, qui pourront être financées par l'OPCA AFDAS. » </p><p align='center'><br/>« 7.3.1. Mise en œuvre </p><p align='left'><br/>La demande de formation sous la forme du DIF relève de l'initiative du salarié, l'accord préalable de l'employeur étant requis pour sa mise en œuvre. <br/>L'accord de l'employeur se concrétise en cas de réponse favorable par un document qui précise les caractéristiques de la formation ainsi que ses objectifs, et qui fait l'objet d'une signature du salarié et de l'employeur. <br/>En vue de favoriser l'évolution professionnelle du salarié et le développement des compétences au sein des entreprises, la mise en œuvre du DIF s'effectue en tenant compte des conclusions soit de l'entretien professionnel, soit de l'évaluation, dans les entreprises qui auront recours à l'un ou l'autre de ces deux dispositifs de suivi des parcours professionnels. <br/>Eu égard aux objectifs ainsi définis, la mise en œuvre du DIF conduit à prévoir un renforcement de l'implication et de la formation de l'encadrement dans l'analyse des options de parcours professionnels des salariés et des formations adaptées à la réussite de ces options. <br/>L'employeur dispose de 1 mois pour répondre à la demande formalisée par écrit d'un salarié. En cas de refus qui doit intervenir au plus tard dans ce délai, l'employeur doit motiver sa réponse qui sera également écrite. <br/>Les dépenses effectuées par l'employeur dans le cadre du DIF (coût pédagogique, rémunération ou allocation, frais liés à la formation) sont imputables sur son plan de formation. <br/>Les actions de formation au titre du DIF peuvent être réalisées en utilisant les droits acquis avec d'autres moyens d'accès à la formation (plan de formation, période de professionnalisation, congé individuel de formation …). <br/>La rémunération due au salarié dans l'exercice de son DIF est assurée dans le cadre des <a alt='Code du travail - art. L933-4 (T)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006651434&dateTexte=&categorieLien=cid'>dispositions de l'article L. 933-4 du code du travail</a>. <br/>En cas de refus une première fois, le salarié peut présenter une deuxième fois la même demande l'année suivante. En cas de second refus, le salarié peut directement adresser sa demande à l'OPCA AFDAS, dans le cadre du CIF, qui décidera de l'acceptation de son dossier. » </p><p align='center'><br/>« 9. Organisme de collecte et de gestion </p><p align='left'><br/>Les parties signataires confirment l'OCPA AFDAS comme organisme collecteur et gestionnaire. » </p><p align='center'><br/>Date d'application de l'avenant </p><p align='left'><br/>Le présent accord entrera en vigueur le lendemain de sa date de signature pour les entreprises adhérentes. </p><p align='center'><br/>Dépôt de l'avenant et extension </p><p align='left'><br/>Le présent avenant sera déposé à la direction générale du travail puis sera proposé à l'extension par la partie signataire la plus diligente.</p>",
+              "etat": "VIGUEUR_NON_ETEN"
             }
           ]
         }
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 3,
       "title": "Textes Salaires",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000038776665",
+          "type": "section",
           "title": "Avenant du 8 février 2019 relatif aux rémunérations minimales au 1er février 2019",
-          "dateParution": 1563321600000,
-          "articles": [
+          "id": "KALITEXT000038776665",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038776668",
               "num": "1er",
               "intOrdre": 524287,
@@ -1170,6 +1304,7 @@
               "surtitre": "Rémunération minimale nationale"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038776669",
               "num": "2",
               "intOrdre": 1048574,
@@ -1180,11 +1315,12 @@
           ]
         },
         {
-          "id": "KALITEXT000037940337",
+          "type": "section",
           "title": "Avenant du 30 janvier 2018 relatif à la rémunération minimale nationale au 1er février 2018",
-          "dateParution": 1546473600000,
-          "articles": [
+          "id": "KALITEXT000037940337",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000037940340",
               "num": "1er",
               "intOrdre": 524287,
@@ -1193,6 +1329,7 @@
               "surtitre": "Rémunération minimale nationale"
             },
             {
+              "type": "article",
               "id": "KALIARTI000037940341",
               "num": "2",
               "intOrdre": 1048574,
@@ -1203,11 +1340,12 @@
           ]
         },
         {
-          "id": "KALITEXT000035836278",
+          "type": "section",
           "title": "Avenant du 5 mai 2017 relatif aux rémunérations minimales au 1er mai 2017",
-          "dateParution": 1508371200000,
-          "articles": [
+          "id": "KALITEXT000035836278",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000035836281",
               "num": "1er",
               "intOrdre": 524287,
@@ -1216,6 +1354,7 @@
               "surtitre": "Rémunération minimale nationale"
             },
             {
+              "type": "article",
               "id": "KALIARTI000035836282",
               "num": "2",
               "intOrdre": 1048574,
@@ -1226,11 +1365,12 @@
           ]
         },
         {
-          "id": "KALITEXT000033017230",
+          "type": "section",
           "title": "Avenant du 22 avril 2016 relatif aux rémunérations minimales au 1er avril 2016",
-          "dateParution": 1470873600000,
-          "articles": [
+          "id": "KALITEXT000033017230",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000033017233",
               "num": "1er",
               "intOrdre": 524287,
@@ -1239,6 +1379,7 @@
               "surtitre": "Rémunération minimale nationale"
             },
             {
+              "type": "article",
               "id": "KALIARTI000033017234",
               "num": "2",
               "intOrdre": 1048574,
@@ -1249,11 +1390,12 @@
           ]
         },
         {
-          "id": "KALITEXT000031125255",
+          "type": "section",
           "title": "Avenant du 1er avril 2015 relatif aux rémunérations minimales au 1er avril 2015",
-          "dateParution": 1441152000000,
-          "articles": [
+          "id": "KALITEXT000031125255",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000031125258",
               "num": "1er",
               "intOrdre": 524287,
@@ -1262,6 +1404,7 @@
               "surtitre": "Rémunération minimale nationale"
             },
             {
+              "type": "article",
               "id": "KALIARTI000031125259",
               "num": "2",
               "intOrdre": 1048574,
@@ -1270,6 +1413,7 @@
               "surtitre": "Entrée en vigueur"
             },
             {
+              "type": "article",
               "id": "KALIARTI000031125260",
               "num": "3",
               "intOrdre": 1572861,
@@ -1280,11 +1424,12 @@
           ]
         },
         {
-          "id": "KALITEXT000027036048",
+          "type": "section",
           "title": "Accord du 5 octobre 2012 relatif aux rémunérations minimales au 1er octobre 2012",
-          "dateParution": 1360108800000,
-          "articles": [
+          "id": "KALITEXT000027036048",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000027036051",
               "num": "1er",
               "intOrdre": 524287,
@@ -1293,6 +1438,7 @@
               "surtitre": "Rémunération minimale nationale"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027036052",
               "num": "2",
               "intOrdre": 1048574,
@@ -1303,11 +1449,12 @@
           ]
         },
         {
-          "id": "KALITEXT000026205484",
+          "type": "section",
           "title": "Accord du 23 janvier 2012 relatif aux rémunérations minima pour l'année 2012",
-          "dateParution": 1342656000000,
-          "articles": [
+          "id": "KALITEXT000026205484",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000026205489",
               "num": "1er",
               "intOrdre": 786430,
@@ -1316,6 +1463,7 @@
               "surtitre": "Rémunération minimale nationale"
             },
             {
+              "type": "article",
               "id": "KALIARTI000026205490",
               "num": "2",
               "intOrdre": 917502,
@@ -1326,11 +1474,12 @@
           ]
         },
         {
-          "id": "KALITEXT000022018185",
+          "type": "section",
           "title": "Accord du 7 juillet 2009 relatif à la rémunération minimale nationale",
-          "dateParution": 1269475200000,
-          "articles": [
+          "id": "KALITEXT000022018185",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000022018188",
               "num": "1",
               "intOrdre": 524287,
@@ -1339,6 +1488,7 @@
               "surtitre": "Rémunération minimale nationale (annexe V) (1)"
             },
             {
+              "type": "article",
               "id": "KALIARTI000022018189",
               "num": "2",
               "intOrdre": 1048574,
@@ -1347,6 +1497,7 @@
               "surtitre": "Révision de la grille"
             },
             {
+              "type": "article",
               "id": "KALIARTI000022018190",
               "num": "3",
               "intOrdre": 1572861,

@@ -1,24 +1,25 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale des entreprises agricoles de déshydratation du 15 novembre 2017. Étendue par arrêté du 25 avril 2018 JORF 3 mai 2018 (Avenant n° 128 du 15 novembre 2017)",
   "id": "KALICONT000038263817",
   "num": "7023",
-  "title": "Convention collective nationale des entreprises agricoles de déshydratation du 15 novembre 2017. Étendue par arrêté du 25 avril 2018 JORF 3 mai 2018 (Avenant n° 128 du 15 novembre 2017)",
-  "categorisation": [
-    "Entreprises agricoles de déshydratation"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000036836563",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale des entreprises agricoles de déshydratation du 15 novembre 2017. Étendue par arrêté du 25 avril 2018 JORF 3 mai 2018 (Avenant n° 128 du 15 novembre 2017)",
+      "id": "KALITEXT000036836563",
       "etat": "VIGUEUR_ETEN",
-      "sections": [
+      "children": [
         {
-          "id": "KALISCTA000036836565",
+          "type": "section",
           "intOrdre": 524287,
           "title": "Préambule",
+          "id": "KALISCTA000036836565",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036836581",
               "num": null,
               "intOrdre": 524287,
@@ -28,12 +29,14 @@
           ]
         },
         {
-          "id": "KALISCTA000036836566",
+          "type": "section",
           "intOrdre": 1048574,
           "title": "Chapitre Ier Champ d'application",
+          "id": "KALISCTA000036836566",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038266000",
               "num": "1er",
               "intOrdre": 524287,
@@ -44,12 +47,14 @@
           ]
         },
         {
-          "id": "KALISCTA000036836567",
+          "type": "section",
           "intOrdre": 1572861,
           "title": "Chapitre II Durée, renouvellement, révision et dénonciation",
+          "id": "KALISCTA000036836567",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036836593",
               "num": "5",
               "intOrdre": 1572861,
@@ -60,12 +65,14 @@
           ]
         },
         {
-          "id": "KALISCTA000036836568",
+          "type": "section",
           "intOrdre": 2097148,
           "title": "Chapitre III Négociation, interprétation et conciliation",
+          "id": "KALISCTA000036836568",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036836596",
               "num": "7",
               "intOrdre": 1048574,
@@ -76,12 +83,14 @@
           ]
         },
         {
-          "id": "KALISCTA000036836569",
+          "type": "section",
           "intOrdre": 2621435,
           "title": "Chapitre IV Période d'essai",
+          "id": "KALISCTA000036836569",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036836599",
               "num": "8",
               "intOrdre": 524287,
@@ -92,12 +101,14 @@
           ]
         },
         {
-          "id": "KALISCTA000036836570",
+          "type": "section",
           "intOrdre": 3145722,
           "title": "Chapitre V Classification des emplois. – Salaires. – Garanties de rémunération",
+          "id": "KALISCTA000036836570",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038265998",
               "num": "9",
               "intOrdre": 524287,
@@ -108,12 +119,14 @@
           ]
         },
         {
-          "id": "KALISCTA000036836571",
+          "type": "section",
           "intOrdre": 3670009,
           "title": "Chapitre VI Durée du travail, heures supplémentaires",
+          "id": "KALISCTA000036836571",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038265990",
               "num": "21",
               "intOrdre": 524287,
@@ -124,12 +137,14 @@
           ]
         },
         {
-          "id": "KALISCTA000036836572",
+          "type": "section",
           "intOrdre": 4194296,
           "title": "Chapitre VII Dispositions particulières au travail de nuit",
+          "id": "KALISCTA000036836572",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038265983",
               "num": "30",
               "intOrdre": 1572861,
@@ -140,12 +155,14 @@
           ]
         },
         {
-          "id": "KALISCTA000036836573",
+          "type": "section",
           "intOrdre": 4718583,
           "title": "Chapitre VIII Congés, repos et absences diverses",
+          "id": "KALISCTA000036836573",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036836660",
               "num": "42",
               "intOrdre": 3145722,
@@ -156,12 +173,14 @@
           ]
         },
         {
-          "id": "KALISCTA000036836574",
+          "type": "section",
           "intOrdre": 5242870,
           "title": "Chapitre IX Démission, licenciement",
+          "id": "KALISCTA000036836574",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036836670",
               "num": "47",
               "intOrdre": 2621435,
@@ -172,12 +191,14 @@
           ]
         },
         {
-          "id": "KALISCTA000036836575",
+          "type": "section",
           "intOrdre": 5767157,
           "title": "Chapitre X Mise et départ à la retraite",
+          "id": "KALISCTA000036836575",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036836672",
               "num": "48",
               "intOrdre": 1048574,
@@ -188,12 +209,14 @@
           ]
         },
         {
-          "id": "KALISCTA000036836576",
+          "type": "section",
           "intOrdre": 6291444,
           "title": "Chapitre XI Garanties de mensualisation, retraite complémentaire et prévoyance",
+          "id": "KALISCTA000036836576",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036836680",
               "num": "53",
               "intOrdre": 2621435,
@@ -204,12 +227,14 @@
           ]
         },
         {
-          "id": "KALISCTA000036836577",
+          "type": "section",
           "intOrdre": 6815731,
           "title": "Chapitre XII Formation professionnelle",
+          "id": "KALISCTA000036836577",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036836682",
               "num": "54",
               "intOrdre": 524287,
@@ -220,12 +245,14 @@
           ]
         },
         {
-          "id": "KALISCTA000036836578",
+          "type": "section",
           "intOrdre": 7340018,
           "title": "Chapitre XIII Hygiène et sécurité des travailleurs",
+          "id": "KALISCTA000036836578",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036836690",
               "num": "58",
               "intOrdre": 2097148,
@@ -236,12 +263,14 @@
           ]
         },
         {
-          "id": "KALISCTA000036836579",
+          "type": "section",
           "intOrdre": 7864305,
           "title": "Chapitre XIV Droits collectifs",
+          "id": "KALISCTA000036836579",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038265975",
               "num": "64",
               "intOrdre": 3145722,
@@ -252,12 +281,14 @@
           ]
         },
         {
-          "id": "KALISCTA000036836580",
+          "type": "section",
           "intOrdre": 8388592,
           "title": "Annexes",
+          "id": "KALISCTA000036836580",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036836716",
               "num": null,
               "intOrdre": 1048574,
@@ -269,17 +300,19 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000038014979",
+          "type": "section",
           "title": "Avenant n° 130 du 5 juin 2018",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000038014979",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000038014981",
               "num": "1er",
               "intOrdre": 524287,
@@ -287,6 +320,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038014989",
               "num": "2",
               "intOrdre": 1048574,
@@ -298,46 +332,83 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 3,
       "title": "Textes Salaires",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000037398255",
-          "title": "Avenant n° 129 du 18 janvier 2018 relatif aux salaires au 1er février 2018",
-          "dateParution": 32472144000000,
-          "articles": [
+          "type": "section",
+          "title": "Avenant n° 2 du 22 janvier 2019",
+          "id": "KALITEXT000038894844",
+          "children": [
             {
-              "id": "KALIARTI000037398257",
+              "type": "section",
+              "intOrdre": 2621435,
+              "title": "Annexe",
+              "id": "KALISCTA000038894858",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000038894859",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p><br/>Annexe</p><p><br/>Barème des salaires au 1er février 2019</p><p><br/>(En euros.)</p><p><div align='center'><center><table border='1'><tr><th>Catégorie</th><th>Niveau</th><th>Indice</th><th>Salaire horaire</th><th>Salaire mensuel (base 151,67 heures)</th><th>Salaire mensuel (base 162,5 heures) (*)</th></tr><tr><td align='center'>Conducteur engins agricoles</td><td align='center'>1</td><td align='center'>135</td><td align='center'>10,09</td><td align='center'>1 530,14</td><td align='center'>1 666,64</td></tr><tr><td align='center'><br/></td><td align='center'>2</td><td align='center'>155</td><td align='center'>11,01</td><td align='center'>1 670,51</td><td align='center'>1 819,53</td></tr><tr><td align='center'><br/></td><td align='center'>3</td><td align='center'>165</td><td align='center'>11,47</td><td align='center'>1 739,27</td><td align='center'>1 894,42</td></tr><tr><td align='center'>Chef d'équipe plaine</td><td align='center'>1</td><td align='center'>175</td><td align='center'>12,16</td><td align='center'>1 844,68</td><td align='center'>2 009,24</td></tr><tr><td align='center'>Chef de plaine</td><td align='center'>1</td><td align='center'>190</td><td align='center'>13,20</td><td align='center'>2 002,80</td><td align='center'>2 181,46</td></tr><tr><td align='center'><br/></td><td align='center'>2</td><td align='center'>205</td><td align='center'>14,25</td><td align='center'>2 160,91</td><td align='center'>2 353,68</td></tr><tr><td align='center'><br/></td><td align='center'>3</td><td align='center'>220</td><td align='center'>15,29</td><td align='center'>2 319,03</td><td align='center'>2 525,90</td></tr><tr><td align='center'>Conducteur de camion</td><td align='center'>1</td><td align='center'>140</td><td align='center'>10,33</td><td align='center'>1 567,16</td><td align='center'>1 706,97</td></tr><tr><td align='center'><br/></td><td align='center'>2</td><td align='center'>150</td><td align='center'>10,78</td><td align='center'>1 635,03</td><td align='center'>1 780,89</td></tr><tr><td align='center'><br/></td><td align='center'>3</td><td align='center'>160</td><td align='center'>11,25</td><td align='center'>1 705,99</td><td align='center'>1 858,17</td></tr><tr><td align='center'><br/></td><td align='center'>4</td><td align='center'>165</td><td align='center'>11,47</td><td align='center'>1 739,27</td><td align='center'>1 894,42</td></tr><tr><td align='center'>Conducteur engins manutention</td><td align='center'>1</td><td align='center'>135</td><td align='center'>10,09</td><td align='center'>1 530,14</td><td align='center'>1 666,64</td></tr><tr><td align='center'><br/></td><td align='center'>2</td><td align='center'>140</td><td align='center'>10,33</td><td align='center'>1 567,16</td><td align='center'>1 706,97</td></tr><tr><td align='center'><br/></td><td align='center'>3</td><td align='center'>150</td><td align='center'>10,78</td><td align='center'>1 635,03</td><td align='center'>1 780,89</td></tr><tr><td align='center'>Assistant de fabrication</td><td align='center'>1</td><td align='center'>135</td><td align='center'>10,09</td><td align='center'>1 530,14</td><td align='center'>1 666,64</td></tr><tr><td align='center'><br/></td><td align='center'>2</td><td align='center'>145</td><td align='center'>10,55</td><td align='center'>1 599,56</td><td align='center'>1 742,25</td></tr><tr><td align='center'><br/></td><td align='center'>3</td><td align='center'>150</td><td align='center'>10,78</td><td align='center'>1 635,03</td><td align='center'>1 780,89</td></tr><tr><td align='center'>Pilote d'installation</td><td align='center'>1</td><td align='center'>155</td><td align='center'>11,01</td><td align='center'>1 670,51</td><td align='center'>1 819,53</td></tr><tr><td align='center'><br/></td><td align='center'>2</td><td align='center'>165</td><td align='center'>11,47</td><td align='center'>1 739,27</td><td align='center'>1 894,42</td></tr><tr><td align='center'><br/></td><td align='center'>3</td><td align='center'>175</td><td align='center'>12,16</td><td align='center'>1 844,68</td><td align='center'>2 009,24</td></tr><tr><td align='center'>Chef d'équipe fabrication</td><td align='center'>1</td><td align='center'>185</td><td align='center'>12,86</td><td align='center'>1 950,09</td><td align='center'>2 124,05</td></tr><tr><td align='center'>Responsable fabrication</td><td align='center'>1</td><td align='center'>210</td><td align='center'>14,59</td><td align='center'>2 213,62</td><td align='center'>2 411,09</td></tr><tr><td align='center'>Responsable d'usine</td><td align='center'>1</td><td align='center'>240</td><td align='center'>16,68</td><td align='center'>2 529,85</td><td align='center'>2 755,53</td></tr><tr><td align='center'>Agent d'entretien</td><td align='center'>1</td><td align='center'>145</td><td align='center'>10,55</td><td align='center'>1 599,56</td><td align='center'>1 742,25</td></tr><tr><td align='center'><br/></td><td align='center'>2</td><td align='center'>160</td><td align='center'>11,25</td><td align='center'>1 705,99</td><td align='center'>1 858,17</td></tr><tr><td align='center'><br/></td><td align='center'>3</td><td align='center'>180</td><td align='center'>12,51</td><td align='center'>1 897,38</td><td align='center'>2 066,64</td></tr><tr><td align='center'>Chef d'équipe entretien</td><td align='center'>1</td><td align='center'>195</td><td align='center'>13,55</td><td align='center'>2 055,50</td><td align='center'>2 238,86</td></tr><tr><td align='center'>Responsable atelier</td><td align='center'>1</td><td align='center'>205</td><td align='center'>14,25</td><td align='center'>2 160,91</td><td align='center'>2 353,68</td></tr><tr><td align='center'><br/></td><td align='center'>2</td><td align='center'>225</td><td align='center'>15,64</td><td align='center'>2 371,73</td><td align='center'>2 583,31</td></tr><tr><td align='center'>Agent de silo</td><td align='center'>1</td><td align='center'>145</td><td align='center'>10,55</td><td align='center'>1 599,56</td><td align='center'>1 742,25</td></tr><tr><td align='center'><br/></td><td align='center'>2</td><td align='center'>155</td><td align='center'>11,01</td><td align='center'>1 670,51</td><td align='center'>1 819,53</td></tr><tr><td align='center'>Chef d'équipe silo</td><td align='center'>1</td><td align='center'>170</td><td align='center'>11,81</td><td align='center'>1 791,97</td><td align='center'>1 951,83</td></tr><tr><td align='center'>Responsable stockage</td><td align='center'>1</td><td align='center'>210</td><td align='center'>14,59</td><td align='center'>2 213,62</td><td align='center'>2 411,09</td></tr><tr><td align='center'>Ouvrier de déshydratation</td><td align='center'>1</td><td align='center'>135</td><td align='center'>10,09</td><td align='center'>1 530,14</td><td align='center'>1 666,64</td></tr><tr><td align='center'>Secrétaire</td><td align='center'>1</td><td align='center'>155</td><td align='center'>11,01</td><td align='center'>1 670,51</td><td align='center'>1 819,53</td></tr><tr><td align='center'><br/></td><td align='center'>2</td><td align='center'>175</td><td align='center'>12,16</td><td align='center'>1 844,68</td><td align='center'>2 009,24</td></tr><tr><td align='center'>Secrétaire de direction</td><td align='center'>1</td><td align='center'>205</td><td align='center'>14,25</td><td align='center'>2 160,91</td><td align='center'>2 353,68</td></tr><tr><td align='center'>Assistante de direction</td><td align='center'>1</td><td align='center'>240</td><td align='center'>16,68</td><td align='center'>2 529,85</td><td align='center'>2 755,53</td></tr><tr><td align='center'>Agent administratif</td><td align='center'>1</td><td align='center'>135</td><td align='center'>10,09</td><td align='center'>1 530,14</td><td align='center'>1 666,64</td></tr><tr><td align='center'><br/></td><td align='center'>2</td><td align='center'>145</td><td align='center'>10,55</td><td align='center'>1 599,56</td><td align='center'>1 742,25</td></tr><tr><td align='center'><br/></td><td align='center'>3</td><td align='center'>155</td><td align='center'>11,01</td><td align='center'>1 670,51</td><td align='center'>1 819,53</td></tr><tr><td align='center'>Comptable</td><td align='center'>1</td><td align='center'>175</td><td align='center'>12,16</td><td align='center'>1 844,68</td><td align='center'>2 009,24</td></tr><tr><td align='center'><br/></td><td align='center'>2</td><td align='center'>190</td><td align='center'>13,20</td><td align='center'>2 002,80</td><td align='center'>2 181,46</td></tr><tr><td align='center'><br/></td><td align='center'>3</td><td align='center'>205</td><td align='center'>14,25</td><td align='center'>2 160,91</td><td align='center'>2 353,68</td></tr><tr><td align='center'>Responsable comptabilité</td><td align='center'>1</td><td align='center'>215</td><td align='center'>14,94</td><td align='center'>2 266,32</td><td align='center'>2 468,49</td></tr><tr><td align='center'><br/></td><td align='center'>2</td><td align='center'>225</td><td align='center'>15,64</td><td align='center'>2 371,73</td><td align='center'>2 583,31</td></tr><tr><td align='center'>Chef comptable</td><td align='center'>1</td><td align='center'>240</td><td align='center'>16,68</td><td align='center'>2 529,85</td><td align='center'>2 755,53</td></tr><tr><td align='center'>Contrôleur de gestion</td><td align='center'>1</td><td align='center'>225</td><td align='center'>15,64</td><td align='center'>2 371,73</td><td align='center'>2 583,31</td></tr><tr><td align='center'>Responsable ressources humaines</td><td align='center'>1</td><td align='center'>225</td><td align='center'>15,64</td><td align='center'>2 371,73</td><td align='center'>2 583,31</td></tr><tr><td align='center'><br/></td><td align='center'>2</td><td align='center'>240</td><td align='center'>16,68</td><td align='center'>2 529,85</td><td align='center'>2 755,53</td></tr><tr><td align='center'>Aide laborantin</td><td align='center'>1</td><td align='center'>135</td><td align='center'>10,09</td><td align='center'>1 530,14</td><td align='center'>1 666,64</td></tr><tr><td align='center'><br/></td><td align='center'>2</td><td align='center'>140</td><td align='center'>10,33</td><td align='center'>1 567,16</td><td align='center'>1 706,97</td></tr><tr><td align='center'><br/></td><td align='center'>3</td><td align='center'>150</td><td align='center'>10,78</td><td align='center'>1 635,03</td><td align='center'>1 780,89</td></tr><tr><td align='center'>Technico-commercial</td><td align='center'>1</td><td align='center'>185</td><td align='center'>12,86</td><td align='center'>1 950,09</td><td align='center'>2 124,05</td></tr><tr><td align='center'><br/></td><td align='center'>2</td><td align='center'>200</td><td align='center'>13,90</td><td align='center'>2 108,21</td><td align='center'>2 296,27</td></tr><tr><td align='center'><br/></td><td align='center'>3</td><td align='center'>220</td><td align='center'>15,29</td><td align='center'>2 319,03</td><td align='center'>2 525,90</td></tr><tr><td colspan='6'>(*) Horaire réel, il est tenu compte des majorations pour heures supplémentaires.<br/>Les coefficients 100 à 160 inclus sont établis sans référence à une valeur de point.<br/>Valeur du point hiérarchique à partir du coefficient 165 : 0,069500.<br/>Aucun salaire ne saurait être inférieur au Smic fixé à 10,03 € par heure à compter du 1er janvier 2019.</td></tr></table></center></div></p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000038894847",
               "num": "1er",
               "intOrdre": 524287,
-              "content": "<p align='left'>L'annexe I prévue à l'article 11 de la convention collective du 20 mars 1970 concernant la valeur horaire du point est remplacée par le barème annexé au présent avenant et prendra effet au 1er février 2018.</p>",
+              "content": "<p align='left'><br/>L'annexe I prévue à l'article 11 de la convention collective du 20 mars 1970 concernant la valeur horaire du point est remplacée par le barème annexé au présent avenant et prendra effet au 1er février 2019.</p>",
               "etat": "VIGUEUR_ETEN"
             },
             {
-              "id": "KALIARTI000037398258",
+              "type": "article",
+              "id": "KALIARTI000038894848",
               "num": "2",
               "intOrdre": 1048574,
-              "content": "<p align='left'>Les dispositions de l'avenant n° 127 du 12 janvier 2017 seront abrogées au 1er février 2018.</p>",
+              "content": "<p align='left'><br/>Les dispositions de l'avenant n° 129 du 18 janvier 2018 seront abrogées au 1er février 2019.</p>",
               "etat": "VIGUEUR_ETEN"
             },
             {
-              "id": "KALIARTI000037398266",
+              "type": "article",
+              "id": "KALIARTI000038894856",
               "num": "3",
               "intOrdre": 1572861,
-              "content": "<p align='left'><br/>Les parties signataires demandent l'extension du présent avenant, qui sera déposé à l'unité territoriale de la Marne de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi Grand Est.</p>",
+              "content": "<p align='left'><br/>Les dispositions du présent avenant sont applicables de façon indifférenciée à l'ensemble des entreprises relevant de la branche du secteur des entreprises agricoles de déshydratation. Elles concernent donc de façon identique les entreprises de moins de cinquante (50) salariés et de cinquante (50) salariés et plus, afin de garantir à l'ensemble des salariés de la branche une couverture uniforme dont les garanties ont tenu compte lors de leur définition de la structure et de la taille des entreprises de la branche.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Dispositions spécifiques aux entreprises de moins de 50 salariés"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000038894857",
+              "num": "4",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Les parties signataires demandent l'extension du présent avenant qui sera déposé à l'unité territoriale de la Marne de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi Grand Est.</p>",
               "etat": "VIGUEUR_ETEN"
             }
-          ],
-          "sections": [
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 129 du 18 janvier 2018 relatif aux salaires au 1er février 2018",
+          "id": "KALITEXT000037398255",
+          "children": [
             {
-              "id": "KALISCTA000037398267",
+              "type": "section",
               "intOrdre": 2097148,
               "title": "Annexe",
+              "id": "KALISCTA000037398267",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000037398268",
                   "num": null,
                   "intOrdre": 524287,
@@ -345,6 +416,30 @@
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000037398257",
+              "num": "1er",
+              "intOrdre": 524287,
+              "content": "<p align='left'>L'annexe I prévue à l'article 11 de la convention collective du 20 mars 1970 concernant la valeur horaire du point est remplacée par le barème annexé au présent avenant et prendra effet au 1er février 2018.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000037398258",
+              "num": "2",
+              "intOrdre": 1048574,
+              "content": "<p align='left'>Les dispositions de l'avenant n° 127 du 12 janvier 2017 seront abrogées au 1er février 2018.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000037398266",
+              "num": "3",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>Les parties signataires demandent l'extension du présent avenant, qui sera déposé à l'unité territoriale de la Marne de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi Grand Est.</p>",
+              "etat": "VIGUEUR_ETEN"
             }
           ]
         }

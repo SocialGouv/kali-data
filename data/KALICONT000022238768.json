@@ -1,24 +1,25 @@
 {
+  "type": "section",
+  "title": "Convention collective nationale des coopératives agricoles de teillage du lin du 21 mars 1985",
   "id": "KALICONT000022238768",
   "num": "7007",
-  "title": "Convention collective nationale des coopératives agricoles de teillage du lin du 21 mars 1985",
-  "categorisation": [
-    "Coopératives agricoles de teillage du lin"
-  ],
-  "sections": [
+  "children": [
     {
-      "id": "KALITEXT000018563084",
+      "type": "section",
       "intOrdre": 0,
       "title": "Texte de base : Convention collective nationale des coopératives agricoles de teillage du lin du 21 mars 1985",
+      "id": "KALITEXT000018563084",
       "etat": "VIGUEUR_ETEN",
-      "sections": [
+      "children": [
         {
-          "id": "KALISCTA000023160235",
+          "type": "section",
           "intOrdre": 196607,
           "title": "Chapitre Ier Dispositions générales",
+          "id": "KALISCTA000023160235",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023160204",
               "num": "4",
               "intOrdre": 2013265919,
@@ -29,12 +30,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023160150",
+          "type": "section",
           "intOrdre": 393215,
           "title": "Chapitre II : Droit syndical et liberté d'opinion",
+          "id": "KALISCTA000023160150",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023160229",
               "num": "9",
               "intOrdre": 2113929215,
@@ -45,12 +48,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023160151",
+          "type": "section",
           "intOrdre": 458751,
           "title": "Chapitre III : Commissions",
+          "id": "KALISCTA000023160151",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023160247",
               "num": "12",
               "intOrdre": 1879048191,
@@ -61,12 +66,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023160152",
+          "type": "section",
           "intOrdre": 491519,
           "title": "Chapitre IV : Délégués du personnel et du comité d'entreprise",
+          "id": "KALISCTA000023160152",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023160257",
               "num": "14 bis",
               "intOrdre": 1879048191,
@@ -78,12 +85,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023160153",
+          "type": "section",
           "intOrdre": 507903,
           "title": "Chapitre V : Embauche - Essai - Contrat d'engagement",
+          "id": "KALISCTA000023160153",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036784680",
               "num": "16",
               "intOrdre": 1610612735,
@@ -94,12 +103,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023160154",
+          "type": "section",
           "intOrdre": 516095,
           "title": "Chapitre VI : Classification et rémunération",
+          "id": "KALISCTA000023160154",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023248807",
               "num": "32 bis",
               "intOrdre": 1476395007,
@@ -110,12 +121,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023160155",
+          "type": "section",
           "intOrdre": 520191,
           "title": "Chapitre VII : Cessation du contrat",
+          "id": "KALISCTA000023160155",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023212641",
               "num": "38",
               "intOrdre": 2113929215,
@@ -125,12 +138,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023160157",
+          "type": "section",
           "intOrdre": 522239,
           "title": "Chapitre VIII : Fêtes et congés",
+          "id": "KALISCTA000023160157",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023212647",
               "num": "44",
               "intOrdre": 2113929215,
@@ -142,29 +157,21 @@
           ]
         },
         {
-          "id": "KALISCTA000023160158",
+          "type": "section",
           "intOrdre": 523263,
           "title": "Chapitre IX : Suspension de contrat - Réintégration",
+          "id": "KALISCTA000023160158",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
-              "id": "KALIARTI000023212653",
-              "num": "49",
-              "intOrdre": 2080374783,
-              "content": "<p>Les absences justifiées par incapacité résultant de maladies ou accidents et dont l'employeur a été avisé, sauf en cas de force majeure, le cachet de la poste faisant foi, par une notification écrite de l'intéressé dans les quarante huit heures, à laquelle est jointe un certificat médical indiquant la durée de l'absence, ne constituent pas un motif de rupture du contrat de travail, mais une simple suspension de celui-ci.</p><p>L'employeur a la faculté de faire procéder, par le médecin de la coopérative, à une contre-visite du salarié malade ou accidenté, bénéficiant de la garantie de ressources prévue aux articles 50 à 52 de la convention.</p><p>Si, pendant une durée de 5 ans à compter de la première constatation de la maladie ou de l'accident :</p><p>- La durée totale de la ou des absence(s) entraînant la suspension du contrat de travail dépasse 6 mois pour une même maladie ou un même accident,</p><p>Et</p><p>- L'absence prolongée du salarié perturbe le bon fonctionnement de l'entreprise et que l'employeur soit tenu de pourvoir au remplacement définitif du salarié,</p><p>(les deux conditions susmentionnées étant cumulatives)</p><p>l'employeur pourra rompre le contrat de travail sous réserve de respecter la procédure formelle prévue à l'article L.122-14 du code du travail et sous réserve de respecter les dispositions de l'article 34 de la présente convention.</p><p>En cas d'accident du travail ou maladie professionnelle, il est rappelé que la rupture du contrat ne peut intervenir en aucun cas pendant la durée de l'arrêt de travail sauf dispositions particulières prévues aux articles L.122-32-2 et suivants du code du travail.</p><p>A la reprise du travail, le contrat ne peut être rompu que dans le cas prévu à l'article L. 122-32-5 du code du travail.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Maladies et accidents",
-              "historique": "(Modifié par avenant n° 34 du 21 décembre 2007 étendu par arrêté du 25 avril 2008, JO 3 mai 2008)"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000023212654",
+              "type": "section",
               "intOrdre": 2113929215,
               "title": "Maladie et accidents",
+              "id": "KALISCTA000023212654",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000023212657",
                   "num": "52",
                   "intOrdre": 1879048191,
@@ -173,16 +180,28 @@
                   "surtitre": "Condition de versement des prestations"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000023212653",
+              "num": "49",
+              "intOrdre": 2080374783,
+              "content": "<p>Les absences justifiées par incapacité résultant de maladies ou accidents et dont l'employeur a été avisé, sauf en cas de force majeure, le cachet de la poste faisant foi, par une notification écrite de l'intéressé dans les quarante huit heures, à laquelle est jointe un certificat médical indiquant la durée de l'absence, ne constituent pas un motif de rupture du contrat de travail, mais une simple suspension de celui-ci.</p><p>L'employeur a la faculté de faire procéder, par le médecin de la coopérative, à une contre-visite du salarié malade ou accidenté, bénéficiant de la garantie de ressources prévue aux articles 50 à 52 de la convention.</p><p>Si, pendant une durée de 5 ans à compter de la première constatation de la maladie ou de l'accident :</p><p>- La durée totale de la ou des absence(s) entraînant la suspension du contrat de travail dépasse 6 mois pour une même maladie ou un même accident,</p><p>Et</p><p>- L'absence prolongée du salarié perturbe le bon fonctionnement de l'entreprise et que l'employeur soit tenu de pourvoir au remplacement définitif du salarié,</p><p>(les deux conditions susmentionnées étant cumulatives)</p><p>l'employeur pourra rompre le contrat de travail sous réserve de respecter la procédure formelle prévue à l'article L.122-14 du code du travail et sous réserve de respecter les dispositions de l'article 34 de la présente convention.</p><p>En cas d'accident du travail ou maladie professionnelle, il est rappelé que la rupture du contrat ne peut intervenir en aucun cas pendant la durée de l'arrêt de travail sauf dispositions particulières prévues aux articles L.122-32-2 et suivants du code du travail.</p><p>A la reprise du travail, le contrat ne peut être rompu que dans le cas prévu à l'article L. 122-32-5 du code du travail.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Maladies et accidents",
+              "historique": "(Modifié par avenant n° 34 du 21 décembre 2007 étendu par arrêté du 25 avril 2008, JO 3 mai 2008)"
             }
           ]
         },
         {
-          "id": "KALISCTA000023160160",
+          "type": "section",
           "intOrdre": 523775,
           "title": "Chapitre X : Dispositions particulières aux femmes et aux jeunes",
+          "id": "KALISCTA000023160160",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023212659",
               "num": "54",
               "intOrdre": 1610612735,
@@ -193,12 +212,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023160161",
+          "type": "section",
           "intOrdre": 524031,
           "title": "Chapitre XI : Formation et perfectionnement professionnels (Modifié par avenant no 3 du  15 juillet 1987)",
+          "id": "KALISCTA000023160161",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023212661",
               "num": "55 bis",
               "intOrdre": 1610612735,
@@ -209,12 +230,14 @@
           ]
         },
         {
-          "id": "KALISCTA000023160162",
+          "type": "section",
           "intOrdre": 524159,
           "title": "Chapitre XII : Dispositions finales",
+          "id": "KALISCTA000023160162",
           "etat": "VIGUEUR_ETEN",
-          "articles": [
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023212664",
               "num": "58",
               "intOrdre": 1879048191,
@@ -227,56 +250,36 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 2,
       "title": "Textes Attachés",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000019906569",
-          "title": "Annexe I - Techniciens - Agents de maîtrise",
-          "dateParution": 32472144000000,
-          "articles": [
-            {
-              "id": "KALIARTI000019906573",
-              "num": "1",
-              "intOrdre": 1048574,
-              "content": "<p align='left'>La présente annexe a pour objet de fixer les conditions particulières de travail des Techniciens-Agents de Maîtrise occupés dans les coopératives agricoles, les unions de coopératives et les SICA de teillage du lin.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Champ d'application"
-            },
-            {
-              "id": "KALIARTI000019906574",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='left'>Les dispositions légales sur la durée du travail s'appliquent aux TAM. En conséquence, la rémunération réelle de ceux-ci sera établie en fonction de l'horaire habituel de travail dans l'établissement, le service ou le bureau auxquels ils appartiennent.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Durée du travail"
-            },
-            {
-              "id": "KALIARTI000019906576",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'></p><p>Le régime de retraite et de prévoyance est déterminé suivant les conditions fixées conformément à la convention CFCA.</p><p>Pour les coopératives linières, le taux de cotisation est au moins égal à 6 % dont 60 % à la charge de l'employeur et 40 % à la charge du salarié.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Retraite complémentaire et prévoyance"
-            },
-            {
-              "id": "KALIARTI000019906577",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'>En cas de vacance ou de création de poste, l'employeur informera le comité d'entreprise et à défaut les délégués du personnel, et fera appel de préférence aux collaborateurs employés dans l'entreprise et aptes à occuper le poste. </p><p>En cas de promotion, le collaborateur pourra être soumis à la période d'essai prévue pour l'emploi qu'il est appelé à occuper. </p><p>Dans le cas où cet essai ne s'avérerait pas satisfaisant, la réintégration du salarié intéressé dans son ancien poste ou dans un emploi équivalent ne saurait être considéré comme une rétrogradation. </p><p>Les autres dispositions sont celles de la <a alt='Convention collective nationale du 21 mars 1985 (VNE)' href='/affichIDCC.do?cidTexte=KALITEXT000018563084&categorieLien=cid'>convention collective</a> générale.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Priorité d'emploi"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000038014955",
+          "type": "section",
           "title": "Accord du 23 février 2018 relatif à la mise en place de la commission paritaire permanente de négociation et d'interprétation (Annexe)",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000038014955",
+          "children": [
             {
+              "type": "section",
+              "intOrdre": 524287,
+              "title": "Préambule",
+              "id": "KALISCTA000038014958",
+              "etat": "VIGUEUR_ETEN",
+              "children": [
+                {
+                  "type": "article",
+                  "id": "KALIARTI000038014975",
+                  "num": null,
+                  "intOrdre": 524287,
+                  "content": "<p align='left'>La loi n° 2016-1088 du 8 août 2016 relative au travail, à la modernisation du dialogue social et à la sécurisation des parcours professionnels comporte différentes mesures qui confortent le rôle central des branches et visent à renforcer la négociation collective en leur sein. </p><p align='left'>En particulier, l'<a alt='lien vers un document Legifrance' href='/affichTexteArticle.do?cidTexte=JORFTEXT000032983213&idArticle=JORFARTI000032983924&categorieLien=cid'>article 24 de ladite loi</a> prévoit que chaque branche doit mettre en place par le biais d'un accord une commission paritaire permanente de négociation et d'interprétation ou CPPNI (<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901694&dateTexte=&categorieLien=cid'>art. L. 2232-9 nouveau du code du travail</a>). </p><p align='left'>Le présent accord a pour objet de mettre en place une commission paritaire permanente de négociation et d'interprétation (CPPNI) au niveau de la branche. Il définit en ce sens les attributions, la composition et le fonctionnement de cette commission ainsi que les conditions dans lesquelles les accords d'entreprise doivent lui être transmis. </p><p align='left'>À compter de la date d'effet du présent accord, la commission paritaire et permanente de négociation et d'interprétation (CPPNI) annule et se substitue à toutes les commissions paritaires pouvant exister au sein de la convention collective nationale du 21 mars 1985 des coopératives agricoles de teillage de lin (IDCC 7007). </p><p align='left'>Les articles 10 « Commission nationale paritaire de conciliation » et 11 « Commissions paritaires, locales, départementales ou régionales de conciliation » sont abrogés par le présent accord. </p><p align='left'>Le présent accord constitue une annexe aux dispositions de convention collective nationale du 21 mars 1985 des coopératives agricoles de teillage de lin.</p>",
+                  "etat": "VIGUEUR_ETEN"
+                }
+              ]
+            },
+            {
+              "type": "article",
               "id": "KALIARTI000038014959",
               "num": "1er",
               "intOrdre": 1048574,
@@ -285,6 +288,7 @@
               "surtitre": "Champ d'application de l'accord"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038014960",
               "num": "2",
               "intOrdre": 1572861,
@@ -293,6 +297,7 @@
               "surtitre": "Création. – Adresse. – Secrétariat. – Composition. – Fonctionnement de la CPPNI"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038014962",
               "num": "3",
               "intOrdre": 2097148,
@@ -301,6 +306,7 @@
               "surtitre": "Missions générales de la commission permanente paritaire de négociation et d'interprétation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038014964",
               "num": "4",
               "intOrdre": 2621435,
@@ -309,6 +315,7 @@
               "surtitre": "Missions d'interprétation et de conciliation de la commission permanente paritaire de négociation et d'interprétation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038014966",
               "num": "5",
               "intOrdre": 3145722,
@@ -317,6 +324,7 @@
               "surtitre": "Rapport annuel d'activité"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038014968",
               "num": "6",
               "intOrdre": 3670009,
@@ -325,6 +333,7 @@
               "surtitre": "Transmission des conventions ou accords d'entreprise à la CPPNI"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038014969",
               "num": "7",
               "intOrdre": 4194296,
@@ -333,6 +342,7 @@
               "surtitre": "Durée. – Date d'effet. – Révision. – Dénonciation"
             },
             {
+              "type": "article",
               "id": "KALIARTI000038014973",
               "num": "8",
               "intOrdre": 4718583,
@@ -340,143 +350,80 @@
               "etat": "VIGUEUR_ETEN",
               "surtitre": "Dépôt légal et extension"
             }
-          ],
-          "sections": [
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 46 du 20 juin 2017 relatif à la période d'essai",
+          "id": "KALITEXT000036777991",
+          "children": [
             {
-              "id": "KALISCTA000038014958",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000036777994",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
-                  "id": "KALIARTI000038014975",
+                  "type": "article",
+                  "id": "KALIARTI000036778001",
                   "num": null,
                   "intOrdre": 524287,
-                  "content": "<p align='left'>La loi n° 2016-1088 du 8 août 2016 relative au travail, à la modernisation du dialogue social et à la sécurisation des parcours professionnels comporte différentes mesures qui confortent le rôle central des branches et visent à renforcer la négociation collective en leur sein. </p><p align='left'>En particulier, l'<a alt='lien vers un document Legifrance' href='/affichTexteArticle.do?cidTexte=JORFTEXT000032983213&idArticle=JORFARTI000032983924&categorieLien=cid'>article 24 de ladite loi</a> prévoit que chaque branche doit mettre en place par le biais d'un accord une commission paritaire permanente de négociation et d'interprétation ou CPPNI (<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901694&dateTexte=&categorieLien=cid'>art. L. 2232-9 nouveau du code du travail</a>). </p><p align='left'>Le présent accord a pour objet de mettre en place une commission paritaire permanente de négociation et d'interprétation (CPPNI) au niveau de la branche. Il définit en ce sens les attributions, la composition et le fonctionnement de cette commission ainsi que les conditions dans lesquelles les accords d'entreprise doivent lui être transmis. </p><p align='left'>À compter de la date d'effet du présent accord, la commission paritaire et permanente de négociation et d'interprétation (CPPNI) annule et se substitue à toutes les commissions paritaires pouvant exister au sein de la convention collective nationale du 21 mars 1985 des coopératives agricoles de teillage de lin (IDCC 7007). </p><p align='left'>Les articles 10 « Commission nationale paritaire de conciliation » et 11 « Commissions paritaires, locales, départementales ou régionales de conciliation » sont abrogés par le présent accord. </p><p align='left'>Le présent accord constitue une annexe aux dispositions de convention collective nationale du 21 mars 1985 des coopératives agricoles de teillage de lin.</p>",
+                  "content": "<p align='left'><br/>Les partenaires sociaux, soucieux de garantir un texte conventionnel lisible et juridiquement sécurisé au regard des dispositions légales en vigueur, ont convenu de réviser les durées des périodes d'essai et leurs conditions de renouvellement.</p>",
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036777995",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>L'article 16 « Période d'essai » de la convention collective nationale est abrogé et remplacé par la disposition suivante : </p><p align='center'><br/>1.1. Durée de la période d'essai </p><p align='left'><br/>La durée de la période d'essai du contrat à durée indéterminée est fixée à : <br/>–   2 mois pour les ouvriers et les employés ; <br/>–   3 mois pour les techniciens et agents de maîtrise. <br/>Il est précisé que les dispositions conventionnelles relatives à la période d'essai de la catégorie cadres sont regroupées à l'article 7 de l'annexe II « Cadres ». </p><p align='center'><br/>1.2. Résiliation de la période d'essai </p><p align='left'><br/>La période d'essai peut être résiliée : <br/>Par l'employeur avec un délai de prévenance de : <br/>–   24 heures en dessous de 8 jours de présence ; <br/>–   48 heures entre 8 jours à 1 mois de présence ; <br/>–   2 semaines après 1 mois de présence ; <br/>–   1 mois après 3 mois de présence. <br/>Par le salarié avec un délai de prévenance de : <br/>–   24 heures en deçà de 8 jours de présence ; <br/>–   48 heures au-delà de 8 jours de présence. </p><p align='center'><br/>1.3. Renouvellement de la période d'essai <br/>Catégorie “ ouvriers et employés ” jusqu'au coefficient 128 </p><p align='left'><br/>Si la période d'essai n'est pas concluante, il est possible de prévoir, par écrit et d'un commun accord, le renouvellement de la période d'essai pour une durée de 1 mois. </p><p align='center'><br/>Catégorie “ ouvriers et employés ” au-delà du coefficient 128 </p><p align='left'><br/>Si la période d'essai n'est pas concluante, il est possible de prévoir, par écrit et d'un commun accord, le renouvellement de la période d'essai de même durée que la période initiale. </p><p align='center'><br/>1.4. Modalités de renouvellement </p><p align='left'><br/>Le renouvellement se fera dans les conditions suivantes : <br/>–   la faculté de renouvellement de la période d'essai devra être stipulée dans la lettre d'engagement ou le contrat de travail ; <br/>–   l'employeur devra observer un délai de prévenance de 48 heures ; <br/>–   un document écrit portant, avant sa signature, l'accord exprès du salarié, devra être établi lors du renouvellement de la période d'essai.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036777996",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='left'><br/>L'article 7 de l'annexe II « Cadres » est abrogé et remplacé par la disposition suivante : </p><p align='center'><br/>« 2.1. Durée de la période d'essai </p><p align='left'><br/>La durée de la période d'essai du contrat à durée indéterminée est fixée à 4 mois pour les cadres. </p><p align='center'><br/>2.2. Résiliation de la période d'essai </p><p align='left'><br/>La période d'essai peut être résiliée : <br/>Par l'employeur avec un délai de prévenance de : <br/>–   24 heures en dessous de 8 jours de présence ; <br/>–   48 heures entre 8 jours à 1 mois de présence ; <br/>–   2 semaines après 1 mois de présence ; <br/>–   1 mois après 3 mois de présence. <br/>Par le salarié avec un délai de prévenance de : <br/>–   24 heures en deçà de 8 jours de présence ; <br/>–   48 heures au-delà de 8 jours de présence. </p><p align='center'><br/>2.3. Renouvellement de la période d'essai </p><p align='left'><br/>Si la période d'essai n'est pas concluante, il est possible de prévoir, par écrit et d'un commun accord, le renouvellement de la période d'essai de même durée que la période initiale et dans les conditions ci-après : <br/>–   la faculté de renouvellement de la période d'essai devra être stipulée dans la lettre d'engagement ou le contrat de travail ; <br/>–   l'employeur devra observer un délai de prévenance de 48 heures ; <br/>–   un document écrit portant, avant sa signature, l'accord exprès du salarié, devra être établi lors du renouvellement de la période d'essai.</p>",
+              "etat": "VIGUEUR_ETEN"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036777998",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'><br/>Le présent avenant entrera en vigueur pour toute période d'essai de contrat à durée indéterminée conclue à partir du lendemain de la publication au Journal officiel de son arrêté d'extension.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Entrée en vigueur"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036777999",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'><br/>Le présent avenant est établi en un nombre suffisant d'exemplaires pour notification à chacune des organisations syndicales représentatives.<br/>Le présent avenant fera l'objet des formalités de dépôt dans les conditions prévues à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid'>article D. 2231-2 du code du travail</a>.<br/>Les parties signataires conviennent de demander l'extension du présent accord.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Dépôt légal et extension"
             }
           ]
         },
         {
-          "id": "KALITEXT000036504501",
+          "type": "section",
           "title": "Accord du 15 décembre 2016 relatif à la protection complémentaire frais de santé",
-          "dateParution": 1516147200000,
-          "articles": [
+          "id": "KALITEXT000036504501",
+          "children": [
             {
-              "id": "KALIARTI000036504505",
-              "num": "1er",
-              "intOrdre": 1048574,
-              "content": "<p align='left'><br/>Le présent accord est applicable aux entreprises entrant dans le champ d'application de la convention collective nationale des coopératives de teillage de lin (idcc 7007).</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Champ d'application"
-            },
-            {
-              "id": "KALIARTI000036504506",
-              "num": "2",
-              "intOrdre": 1572861,
-              "content": "<p align='center'>2.1. Définition des salariés</p><p>Sont bénéficiaires de la couverture minimum de branche en matière de remboursements complémentaires des frais médicaux, chirurgicaux et d'hospitalisations et autres soins mis en place par le présent accord, tous les salariés inscrits à l'effectif d'une entreprise entrant dans le champ d'application cité à l'article 1er du présent accord, et ce, sans condition d'ancienneté.</p><p>Cette couverture s'étend aux ayants droit tels que définis à l'article 2.2 du présent accord de branche.</p><p>L'adhésion au régime de complémentaire santé des salariés et de leurs ayants droit est obligatoire, sauf cas de dispense d'affiliation tels que prévus par l'article 3 du présent accord.</p><p>À ce titre, les salariés devront obligatoirement acquitter la cotisation correspondant à leur situation de famille réelle et auront l'obligation d'informer l'entreprise de tout changement intervenu dans leur situation familiale et matrimoniale, dans les meilleurs délais.</p><p align='center'><br/>\n2.2. Définition des ayants droit</p><p align='center'><br/>\nConjoint</p><p>Est considéré comme ayant droit, le conjoint du salarié, c'est-à-dire non séparé de corps par un jugement définitif passé en force de chose jugée, non divorcé ou partenaire lié par un pacte civil de solidarité (Pacs).</p><p>En l'absence de conjoint, est considéré comme ayant droit le concubin du salarié : célibataire, divorcé ou veuf. Le concubin s'entend de la personne qui vit en concubinage avec l'assuré. Le concubinage doit être notoire et permanent (production d'une attestation sur l'honneur et des documents justifiant le domicile commun) pendant une durée d'au moins 2 ans. Aucune durée n'est exigée si un enfant, reconnu par l'assuré, est né de cette union.</p><p>Tant que le mariage n'est pas dissous, le conjoint légitime de l'assuré principal peut disposer d'un droit au remboursement, excluant de ce fait, et sans recours possible, le concubin de l'accès aux garanties. En cas de divorce de l'assuré, les droits aux prestations d'un concubin prennent effet au lendemain de la date du jugement de dissolution du mariage.</p><p align='center'><br/>\nEnfants à charge au sens de la sécurité sociale</p><p>Sont considérés comme ayants droit, les enfants de moins de 21 ans, considérés comme ayants droit par la sécurité sociale au titre de l'assuré, du salarié et de son conjoint, ou de son partenaire de Pacs ou de son concubin ou qui exercent une activité professionnelle leur procurant un revenu inférieur à 55 % du Smic.</p><p>Cette limite d'âge est prorogée jusqu'à 28 ans pour les enfants qui poursuivent leurs études et bénéficient du régime des étudiants. Sont assimilés à des étudiants les enfants qui poursuivent leurs études dans le cadre d'un contrat en alternance et bénéficient de revenus inférieurs à 55 % du Smic.</p><p>Sont également considérés comme ayants droit quel que soit leur âge, les enfants du salarié et ceux de son conjoint, ou de son partenaire de Pacs ou de son concubin, s'ils perçoivent une des allocations pour adultes handicapés (<a alt='Loi n° 75-534 du 30 juin 1975 (V)' href='/affichTexte.do?cidTexte=JORFTEXT000000333976&categorieLien=cid'>loi du 30 juin 1975</a>), sous réserve que cette allocation leur ait été attribuée avant leur 21e anniversaire.</p><p></p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Bénéficiaires à titre obligatoire"
-            },
-            {
-              "id": "KALIARTI000036504507",
-              "num": "3",
-              "intOrdre": 2097148,
-              "content": "<p align='left'>Le présent accord dispose que s'applique l'ensemble des exceptions au principe d'adhésion obligatoire prévues par la législation en vigueur.<br/><br/>\nAinsi, les salariés auront la faculté de refuser l'adhésion au régime, selon les cas de dispense cités aux articles <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000025130566&dateTexte=&categorieLien=cid'>R. 242-1-6</a>, <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000029436181&dateTexte=&categorieLien=cid'>D. 911-2</a>, <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000029436183&dateTexte=&categorieLien=cid'>D. 911-3 </a>et <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000031808530&dateTexte=&categorieLien=cid'>D. 911-4 </a>du code de la sécurité sociale :<br/><br/>\nCas n° 1 : salariés couverts par une assurance individuelle de frais de santé au moment de la mise en place du dispositif ou de l'embauche si elle est postérieure – la dispense peut alors jouer jusqu'à échéance du contrat individuel ;<br/><br/>\nCas n° 2 : salariés qui bénéficient, y compris en tant qu'ayants droit, d'une couverture collective obligatoire relevant d'un dispositif de prévoyance frais de santé conforme à un de ceux fixés par arrêté du ministre, à condition de le justifier chaque année. Cependant, les apprentis qui ne seraient pas pris en charge en qualité d'ayants droit dans un autre régime ne peuvent faire l'objet de cette dispense.<br/><br/>\nCe cas de dérogation concerne également les couples salariés dans l'entreprise. Dans la mesure où le régime couvre les ayants droit du salarié tel que défini à l'article 2.1 du présent accord, il est possible de n'y faire adhérer qu'un seul des deux membres du couple dès lors que l'autre est couvert en qualité d'ayant droit de son conjoint. Afin qu'une telle dérogation soit mise en œuvre, ces salariés devront en formuler la demande expresse, par écrit auprès de la direction de l'entreprise, et indiquer à cette occasion lequel des deux membres du couple se verra précompter la cotisation au financement du régime ;<br/><br/>\nCas n° 3 : ayants droit déjà couverts au titre d'un régime obligatoire d'entreprise ou d'un régime de la fonction publique ou d'un contrat d'assurance groupe issu de la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000000165840&categorieLien=cid'>loi n° 94-126 du 11 février 1994 </a>(dispositif « loi Madelin ») ;<br/><br/>\nCas n° 4 : salariés et apprentis bénéficiaires d'un contrat à durée déterminée ou d'un contrat de mission d'une durée au moins égale à 12 mois à condition de justifier par écrit en produisant tous documents d'une couverture individuelle souscrite pour le même type de garanties ;<br/><br/>\nCas n° 5 : salariés et apprentis bénéficiaires d'un contrat à durée déterminée ou d'un contrat de mission d'une durée inférieure à 12 mois, même s'ils ne bénéficient pas d'une couverture individuelle souscrite par ailleurs ;<br/><br/>\nCas n° 6 : salariés à temps partiel et apprentis dont l'adhésion au système de garanties les conduirait à s'acquitter d'une cotisation au moins égale à 10 % de leur rémunération brute, quelle que soit leur date d'embauche ;<br/><br/>\nCas n° 7 : les salariés bénéficiaires d'une couverture complémentaire en application de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745383&dateTexte=&categorieLien=cid'>article L. 861-3 du code de la sécurité sociale </a>ou d'une aide à l'acquisition d'une complémentaire santé en application de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745456&dateTexte=&categorieLien=cid'>article L. 863-1 du code de la sécurité sociale</a>. La dispense ne peut jouer que jusqu'à la date à laquelle les salariés cessent de bénéficier de cette couverture ou de cette aide.<br/><br/>\nLes salariés demandant une dispense sont informés par l'employeur des conséquences de leur choix :<br/><br/>\n– la perte du bénéfice de la participation employeur pour le financement de leur couverture santé ;<br/>\n– la perte du bénéfice de la portabilité décrite à l'article 6.2 ;<br/>\n– et la perte du bénéfice du maintien des mêmes garanties avec une cotisation ne pouvant excéder 50 % de celle des actifs en cas de départ en retraite ou en raison d'une incapacité ou d'une invalidité (étant entendu que l'assureur ne peut refuser ce maintien quel que soit l'état de santé de l'intéressé).<br/><br/>\nDans tous les cas, l'employeur doit être en mesure de produire, chaque année, la demande de dispense accompagnée des justificatifs, des salariés concernés. Cette demande devra comporter la mention selon laquelle le salarié a été préalablement informé des conséquences de son choix.<br/><br/>\nEn tout état de cause, ces salariés seront tenus de cotiser au régime lorsqu'ils ne rempliront plus les conditions ci-dessus ou qu'ils cesseront de fournir, chaque année, les justificatifs relatifs à leur demande de dispense.<br/><br/>\nLes salariés pourront décider de ne pas étendre la présente garantie à leurs ayants droit, et partant, cotiser au tarif « isolé » malgré leur situation de famille réelle, selon les cas de dispense mentionnés au cas n° 3.<br/><br/>\nAfin de bénéficier d'une telle dérogation, les salariés concernés doivent justifier chaque année et par écrit, de la couverture dont bénéficient leurs ayants droit en fournissant à la société une attestation de couverture. À défaut de fournir à la société les justificatifs requis le 1er janvier de chaque année, ces salariés seront contraints d'acquitter la cotisation afférente à leur situation familiale objective.<br/><br/>\nÀ titre informatif, il est rappelé que les salariés remplissant les conditions prévues aux arti-cles L. 911-7-III et <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000031808536&dateTexte=&categorieLien=cid'>D. 911-7</a> du code de la sécurité sociale pourront, de droit, et à leur initiative, se dispenser d'adhérer à la couverture Frais de santé en vigueur dans leur entreprise.<br/><br/>\nAu titre de l'article L. 911-7-1 – IV du code de la sécurité sociale, et sous réserve d'en remplir les conditions, les salariés ayant fait valoir la dispense prévue au <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000027549125&dateTexte=&categorieLien=cid'>2e alinéa du III de l'article L. 911-7 du code de la sécurité sociale </a>auront droit au « versement santé – chèque santé ».<br/><br/>\nL'employeur informera par écrit les salariés concernés de leurs droits relatifs à cette dispense de droit et du bénéfice du versement santé ainsi que des conditions à remplir à ce titre.</p><p></p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Cas de dérogation au caractère obligatoire de l'adhésion Cas de dispense d'affiliation"
-            },
-            {
-              "id": "KALIARTI000036504518",
-              "num": "4",
-              "intOrdre": 2621435,
-              "content": "<p align='left'>La couverture du système de garanties collectives complémentaire obligatoire frais de santé fait l'objet d'un contrat souscrit auprès d'un organisme assureur. L'ensemble des garanties souscrites respecte, en toutes circonstances, le cahier des charges des contrats dits solidaires et responsables conformément aux dispositions législatives et réglementaires en vigueur.<br/><br/>\nLes garanties souscrites ne constituent, en aucun cas, un engagement pour l'entreprise, qui n'est tenue à l'égard de ses salariés, qu'au seul paiement des cotisations, et aux garanties minimales imposées par le présent accord de branche et les dispositions législatives et réglementaires en vigueur. Par conséquent, les garanties mises en œuvre par le contrat d'assurance relèvent de la seule responsabilité de l'organisme assureur retenu, au même titre que les modalités, limitations et exclusions de garanties.<br/><br/>\nSont exclues des garanties toutes les dépenses non prises en charge par la sécurité sociale, conformément aux règles des « contrats responsables » fixées à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745370&dateTexte=&categorieLien=cid'>article L. 871-1 du code de la sécurité sociale</a> et ses textes d'application.<br/><br/>\nLa nature et le montant des prestations du régime de couverture complémentaire frais de santé sont présentés dans le tableau figurant en annexe I du présent accord.<br/><br/>\nChaque salarié est libre de contracter des garanties additionnelles venant compléter le niveau de garanties du présent accord de branche. Ces garanties optionnelles seront intégralement financées par les salariés.</p><p></p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Garanties"
-            },
-            {
-              "id": "KALIARTI000036504520",
-              "num": "5",
-              "intOrdre": 3145722,
-              "content": "<p align='left'>Les cotisations sont assises sur la situation familiale réelle du salarié et se déclinent de la manière suivante :</p><p align='left'></p><center><table border='1'><tbody><tr><td align='center'>Cotisation « isolé »</td><td align='center'>Salarié seul</td></tr><tr><td align='center'>Cotisation « Duo »</td><td align='center'>Salarié et une personne (conjoint ou enfant à charge)</td></tr><tr><td align='center'>Cotisation « Famille »</td><td align='center'>Salarié et deux personnes ou plus (conjoint et/ou enfant(s) à charge)</td></tr></tbody></table></center><p>Les cotisations au titre de la couverture minimale obligatoire de branche, et dont le taux est indexé sur le plafond mensuel de la sécurité sociale, sont prises en charge par l'entreprise et par les salariés dans les proportions suivantes, conformément à la législation en vigueur :<br/><br/>\n– part patronale : 50 % ;<br/>\n– part salariale : 50 %.<br/><br/>\nLes éventuelles variations futures des cotisations sont réparties entre l'employeur et les salariés dans les mêmes proportions que celles prévues ci-dessus.<br/><br/>\nLa quote-part salariale de la cotisation de la couverture collective obligatoire est retenue mensuellement par précompte sur la rémunération brute du salarié et figure sur le bulletin de paie.<br/><br/>\nConcernant les cotisations et répartition de la cotisation en cas de pluralité d'employeurs et de travail à temps partiel, il sera fait application des dispositions législatives et réglementaires en vigueur.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Répartition des cotisations entre employeur et salarié"
-            },
-            {
-              "id": "KALIARTI000036504521",
-              "num": "6",
-              "intOrdre": 3670009,
-              "content": "<p align='center'>6.1. Maintien des garanties en cas de suspension du contrat de travail</p><p align='left'>Les garanties sont maintenues au profit des assurés dont le contrat de travail est suspendu dans les conditions suivantes :</p><p align='left'>– pour cause de maternité, de maladie ou d'accident d'origine professionnelle ;<br/>\n– dans les autres cas de suspension du contrat de travail ouvrant droit à un maintien, total ou partiel, de salaire ou au versement d'indemnités journalières complémentaires financées au moins en partie par l'employeur. L'employeur et le salarié continuent de verser la même cotisation qu'avant la suspension du contrat de travail, pendant la durée de ladite suspension ;<br/>\n– dans les autres cas de suspension du contrat de travail, la garantie est également maintenue au profit des salariés dont le contrat de travail est suspendu, quelle qu'en soit la cause, et sous réserve :<br/>\n– d'une demande exprimée par l'intéressé au plus tard dans les 30 jours suivant le début de la suspension du contrat de travail ;<br/>\n– du règlement de l'intégralité de la cotisation correspondante (part salariale et part patronale) par l'intéressé.</p><p align='center'>6.2. Maintien des garanties en cas de rupture du contrat de travail</p><p align='left'>Les salariés bénéficiaires ainsi que leurs ayants droit, auront droit au maintien des garanties en vigueur dans l'entreprise en cas de rupture de leur contrat de travail ouvrant droit à une prise en charge par le régime d'assurance chômage, pendant une durée maximale de 12 mois, sous réserve de remplir l'ensemble des conditions fixées par l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000027549127&dateTexte=&categorieLien=cid'>article L. 911-8 du code de la sécurité sociale</a>.</p><p align='left'>Le droit à portabilité est ainsi subordonné au respect de l'ensemble des conditions fixées par les dispositions légales et les éventuelles dispositions réglementaires prises pour leur application.</p><p align='left'>La durée de la portabilité est égale à la durée du dernier contrat de travail, ou des derniers contrats de travail lorsqu'ils sont consécutifs chez le même employeur, appréciée en mois entiers le cas échéant arrondie au nombre supérieur, dans la limite de 12 mois.</p><p align='left'>Les anciens salariés bénéficiaires du dispositif ne devront acquitter aucune cotisation supplémentaire à ce titre.</p><p align='left'>À défaut de communication des justificatifs de sa prise en charge par le régime d'assurance chômage selon les modalités prévues par la notice d'information qui lui a été remise, l'ancien salarié perd le bénéfice du régime et, par conséquent, le droit aux prestations correspondantes.</p><p align='left'>Le financement du maintien de ces garanties est assuré par un système de mutualisation. Le coût correspondant est intégré dans les cotisations.</p><p align='center'>6.3. Maintien au titre de l'article 4 de la loi Évin</p><p align='left'>Conformément aux dispositions de l'article 4 de la loi Évin n° 89-1009 du 31 décembre 1989, modifié par la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000027546648&categorieLien=cid'>loi n° 2013-504 du 14 juin 2013</a>, peuvent, dans les cas visés ci-après, demander à bénéficier d'une couverture auprès de l'assureur sans condition de période probatoire ni d'examen ou de questionnaire médicaux :</p><p align='left'>1. Les anciens assurés, bénéficiaires d'une rente d'incapacité ou d'invalidité, d'une pension de retraite ou, s'ils sont privés d'emploi, d'un revenu de remplacement, sans condition de durée, sous réserve que les intéressés en fassent la demande dans les 6 mois qui suivent la rupture de leur contrat de travail ou, le cas échéant, dans les 6 mois suivant l'expiration de la période durant laquelle ils bénéficient à titre temporaire du maintien de ces garanties au titre du mécanisme de portabilité prévu à l'article L. 911-8 du code de la sécurité sociale.</p><p align='left'>2. Les personnes garanties du chef de l'assuré décédé, pendant une durée minimale de 12 mois à compter du décès, sous réserve que les intéressés en fassent la demande dans les 6 mois suivant le décès. Le souscripteur en informe l'assureur dans un délai de 15 jours qui adresse des propositions de couverture à ces personnes dans le délai de 2 mois à compter du décès.</p><p align='left'>L'obligation de proposer le maintien de la couverture frais de santé à ces anciens salariés (ou à leurs ayants droit) dans le cadre de l'application de l'article 4 de la loi Évin incombe à l'organisme assureur. L'employeur n'intervient pas dans le financement de cette couverture.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Maintien de la couverture minimum de branche en cas de suspension du contrat de travail et maintien des garanties en cas de rupture du contrat de travail"
-            },
-            {
-              "id": "KALIARTI000036504525",
-              "num": "7",
-              "intOrdre": 4194296,
-              "content": "<p align='left'>Les parties considèrent qu'un niveau adapté d'information permanente des bénéficiaires est essentiel à la bonne compréhension de leurs droits et obligations et à la réalisation des objectifs du présent accord.<br/><br/>\nLes entreprises de la branche remettent à chacun des salariés concernés, conformément aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745704&dateTexte=&categorieLien=cid'>dispositions de l'article L. 932-6 du code de la sécurité sociale</a>, la notice d'information de l'assureur qu'elles auront choisi. De même, en cas de modifications apportées aux droits et obligations des salariés, une nouvelle notice sera établie par l'assureur retenu et devra être remise à chaque salarié par l'entreprise.<br/><br/>\nLa preuve de la remise de la notice au salarié et de l'information relative aux modifications contractuelles incombe à l'entreprise.<br/><br/>\nEn cas de rupture du contrat de travail, et au plus tard le dernier jour de la relation contractuelle, les entreprises doivent informer les salariés du maintien possible des garanties en application des dispositions législatives et réglementaires et des conditions dans lesquelles ils peuvent en bénéficier.</p><p></p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Obligations d'information"
-            },
-            {
-              "id": "KALIARTI000036504527",
-              "num": "8",
-              "intOrdre": 4718583,
-              "content": "<p align='left'>Les entreprises disposant déjà, à la date d'effet du présent accord prévue à l'article 10 ci-dessous, d'un régime de frais de santé mis en place selon les <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745462&dateTexte=&categorieLien=cid'>dispositions de l'article L. 911-1 du code de la sécurité sociale</a> dont le niveau de garanties est équivalent, selon la situation réelle du salarié, à celui de la couverture minimum de branche selon le tableau de garanties figurant en annexe I et, respectant la répartition des cotisations appelées au titre de la couverture minimum de branche telle que définie à l'article 5 « cotisations » du présent accord, peuvent conserver leur régime en vigueur.</p><p align='left'>À défaut, les entreprises disposent d'un délai de 6 mois à compter de la date d'effet du présent accord pour se mettre en conformité.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Antériorité des régimes frais de santé en place dans les entreprises"
-            },
-            {
-              "id": "KALIARTI000036504529",
-              "num": "9",
-              "intOrdre": 5242870,
-              "content": "<p align='left'>La commission nationale paritaire aura en charge le suivi de l'accord, à savoir d'étudier l'ensemble des questions posées par l'application de ce régime et de veiller à son bon fonctionnement dans les entreprises de la branche.</p><p align='left'>Elle se réunira au moins une fois par an.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Commission nationale paritaire de suivi"
-            },
-            {
-              "id": "KALIARTI000036504530",
-              "num": "10",
-              "intOrdre": 5767157,
-              "content": "<p align='left'><br/>Le présent accord, conclu pour une durée indéterminée, entrera en vigueur le 1er janvier 2017, et en tout état de cause le premier jour du mois suivant la publication de l'arrêté d'extension au Journal officiel et, de ce fait, deviendra obligatoire pour l'ensemble des entreprises entrant dans le champ de la convention collective précitée.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Date d'effet"
-            },
-            {
-              "id": "KALIARTI000036504531",
-              "num": "11",
-              "intOrdre": 6291444,
-              "content": "<p align='left'><br/>Le présent accord pourra être dénoncé par l'une ou l'autre des parties signataires conformément aux dispositions du code du travail.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Modalités de dénonciation"
-            },
-            {
-              "id": "KALIARTI000036504533",
-              "num": "12",
-              "intOrdre": 6815731,
-              "content": "<p align='left'><br/>Les dispositions du présent accord ont été adoptées dans un cadre législatif et réglementaire en vigueur au moment de sa prise d'effet. Elles seront révisées sans délai, en tout ou partie, en cas de modification ou d'évolution des textes législatifs ou réglementaires.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Modification du cadre législatif ou réglementaire"
-            },
-            {
-              "id": "KALIARTI000036504534",
-              "num": "13",
-              "intOrdre": 7340018,
-              "content": "<p align='left'>Le présent accord fera l'objet des formalités de dépôt dans les conditions prévues à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid'>article D. 2231-2 du code du travail</a>.</p><p align='left'>Les parties signataires conviennent de demander l'extension du présent accord.</p>",
-              "etat": "VIGUEUR_ETEN",
-              "surtitre": "Dépôt et extension"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000036504504",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000036504504",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000036504537",
                   "num": null,
                   "intOrdre": 524287,
@@ -486,12 +433,14 @@
               ]
             },
             {
-              "id": "KALISCTA000036504536",
+              "type": "section",
               "intOrdre": 7864305,
               "title": "Annexe",
+              "id": "KALISCTA000036504536",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000036504544",
                   "num": null,
                   "intOrdre": 524287,
@@ -499,15 +448,133 @@
                   "etat": "VIGUEUR_ETEN"
                 }
               ]
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504505",
+              "num": "1er",
+              "intOrdre": 1048574,
+              "content": "<p align='left'><br/>Le présent accord est applicable aux entreprises entrant dans le champ d'application de la convention collective nationale des coopératives de teillage de lin (idcc 7007).</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Champ d'application"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504506",
+              "num": "2",
+              "intOrdre": 1572861,
+              "content": "<p align='center'>2.1. Définition des salariés</p><p>Sont bénéficiaires de la couverture minimum de branche en matière de remboursements complémentaires des frais médicaux, chirurgicaux et d'hospitalisations et autres soins mis en place par le présent accord, tous les salariés inscrits à l'effectif d'une entreprise entrant dans le champ d'application cité à l'article 1er du présent accord, et ce, sans condition d'ancienneté.</p><p>Cette couverture s'étend aux ayants droit tels que définis à l'article 2.2 du présent accord de branche.</p><p>L'adhésion au régime de complémentaire santé des salariés et de leurs ayants droit est obligatoire, sauf cas de dispense d'affiliation tels que prévus par l'article 3 du présent accord.</p><p>À ce titre, les salariés devront obligatoirement acquitter la cotisation correspondant à leur situation de famille réelle et auront l'obligation d'informer l'entreprise de tout changement intervenu dans leur situation familiale et matrimoniale, dans les meilleurs délais.</p><p align='center'><br/>\n2.2. Définition des ayants droit</p><p align='center'><br/>\nConjoint</p><p>Est considéré comme ayant droit, le conjoint du salarié, c'est-à-dire non séparé de corps par un jugement définitif passé en force de chose jugée, non divorcé ou partenaire lié par un pacte civil de solidarité (Pacs).</p><p>En l'absence de conjoint, est considéré comme ayant droit le concubin du salarié : célibataire, divorcé ou veuf. Le concubin s'entend de la personne qui vit en concubinage avec l'assuré. Le concubinage doit être notoire et permanent (production d'une attestation sur l'honneur et des documents justifiant le domicile commun) pendant une durée d'au moins 2 ans. Aucune durée n'est exigée si un enfant, reconnu par l'assuré, est né de cette union.</p><p>Tant que le mariage n'est pas dissous, le conjoint légitime de l'assuré principal peut disposer d'un droit au remboursement, excluant de ce fait, et sans recours possible, le concubin de l'accès aux garanties. En cas de divorce de l'assuré, les droits aux prestations d'un concubin prennent effet au lendemain de la date du jugement de dissolution du mariage.</p><p align='center'><br/>\nEnfants à charge au sens de la sécurité sociale</p><p>Sont considérés comme ayants droit, les enfants de moins de 21 ans, considérés comme ayants droit par la sécurité sociale au titre de l'assuré, du salarié et de son conjoint, ou de son partenaire de Pacs ou de son concubin ou qui exercent une activité professionnelle leur procurant un revenu inférieur à 55 % du Smic.</p><p>Cette limite d'âge est prorogée jusqu'à 28 ans pour les enfants qui poursuivent leurs études et bénéficient du régime des étudiants. Sont assimilés à des étudiants les enfants qui poursuivent leurs études dans le cadre d'un contrat en alternance et bénéficient de revenus inférieurs à 55 % du Smic.</p><p>Sont également considérés comme ayants droit quel que soit leur âge, les enfants du salarié et ceux de son conjoint, ou de son partenaire de Pacs ou de son concubin, s'ils perçoivent une des allocations pour adultes handicapés (<a alt='Loi n° 75-534 du 30 juin 1975 (V)' href='/affichTexte.do?cidTexte=JORFTEXT000000333976&categorieLien=cid'>loi du 30 juin 1975</a>), sous réserve que cette allocation leur ait été attribuée avant leur 21e anniversaire.</p><p></p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Bénéficiaires à titre obligatoire"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504507",
+              "num": "3",
+              "intOrdre": 2097148,
+              "content": "<p align='left'>Le présent accord dispose que s'applique l'ensemble des exceptions au principe d'adhésion obligatoire prévues par la législation en vigueur.<br/><br/>\nAinsi, les salariés auront la faculté de refuser l'adhésion au régime, selon les cas de dispense cités aux articles <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000025130566&dateTexte=&categorieLien=cid'>R. 242-1-6</a>, <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000029436181&dateTexte=&categorieLien=cid'>D. 911-2</a>, <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000029436183&dateTexte=&categorieLien=cid'>D. 911-3 </a>et <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000031808530&dateTexte=&categorieLien=cid'>D. 911-4 </a>du code de la sécurité sociale :<br/><br/>\nCas n° 1 : salariés couverts par une assurance individuelle de frais de santé au moment de la mise en place du dispositif ou de l'embauche si elle est postérieure – la dispense peut alors jouer jusqu'à échéance du contrat individuel ;<br/><br/>\nCas n° 2 : salariés qui bénéficient, y compris en tant qu'ayants droit, d'une couverture collective obligatoire relevant d'un dispositif de prévoyance frais de santé conforme à un de ceux fixés par arrêté du ministre, à condition de le justifier chaque année. Cependant, les apprentis qui ne seraient pas pris en charge en qualité d'ayants droit dans un autre régime ne peuvent faire l'objet de cette dispense.<br/><br/>\nCe cas de dérogation concerne également les couples salariés dans l'entreprise. Dans la mesure où le régime couvre les ayants droit du salarié tel que défini à l'article 2.1 du présent accord, il est possible de n'y faire adhérer qu'un seul des deux membres du couple dès lors que l'autre est couvert en qualité d'ayant droit de son conjoint. Afin qu'une telle dérogation soit mise en œuvre, ces salariés devront en formuler la demande expresse, par écrit auprès de la direction de l'entreprise, et indiquer à cette occasion lequel des deux membres du couple se verra précompter la cotisation au financement du régime ;<br/><br/>\nCas n° 3 : ayants droit déjà couverts au titre d'un régime obligatoire d'entreprise ou d'un régime de la fonction publique ou d'un contrat d'assurance groupe issu de la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000000165840&categorieLien=cid'>loi n° 94-126 du 11 février 1994 </a>(dispositif « loi Madelin ») ;<br/><br/>\nCas n° 4 : salariés et apprentis bénéficiaires d'un contrat à durée déterminée ou d'un contrat de mission d'une durée au moins égale à 12 mois à condition de justifier par écrit en produisant tous documents d'une couverture individuelle souscrite pour le même type de garanties ;<br/><br/>\nCas n° 5 : salariés et apprentis bénéficiaires d'un contrat à durée déterminée ou d'un contrat de mission d'une durée inférieure à 12 mois, même s'ils ne bénéficient pas d'une couverture individuelle souscrite par ailleurs ;<br/><br/>\nCas n° 6 : salariés à temps partiel et apprentis dont l'adhésion au système de garanties les conduirait à s'acquitter d'une cotisation au moins égale à 10 % de leur rémunération brute, quelle que soit leur date d'embauche ;<br/><br/>\nCas n° 7 : les salariés bénéficiaires d'une couverture complémentaire en application de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745383&dateTexte=&categorieLien=cid'>article L. 861-3 du code de la sécurité sociale </a>ou d'une aide à l'acquisition d'une complémentaire santé en application de l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745456&dateTexte=&categorieLien=cid'>article L. 863-1 du code de la sécurité sociale</a>. La dispense ne peut jouer que jusqu'à la date à laquelle les salariés cessent de bénéficier de cette couverture ou de cette aide.<br/><br/>\nLes salariés demandant une dispense sont informés par l'employeur des conséquences de leur choix :<br/><br/>\n– la perte du bénéfice de la participation employeur pour le financement de leur couverture santé ;<br/>\n– la perte du bénéfice de la portabilité décrite à l'article 6.2 ;<br/>\n– et la perte du bénéfice du maintien des mêmes garanties avec une cotisation ne pouvant excéder 50 % de celle des actifs en cas de départ en retraite ou en raison d'une incapacité ou d'une invalidité (étant entendu que l'assureur ne peut refuser ce maintien quel que soit l'état de santé de l'intéressé).<br/><br/>\nDans tous les cas, l'employeur doit être en mesure de produire, chaque année, la demande de dispense accompagnée des justificatifs, des salariés concernés. Cette demande devra comporter la mention selon laquelle le salarié a été préalablement informé des conséquences de son choix.<br/><br/>\nEn tout état de cause, ces salariés seront tenus de cotiser au régime lorsqu'ils ne rempliront plus les conditions ci-dessus ou qu'ils cesseront de fournir, chaque année, les justificatifs relatifs à leur demande de dispense.<br/><br/>\nLes salariés pourront décider de ne pas étendre la présente garantie à leurs ayants droit, et partant, cotiser au tarif « isolé » malgré leur situation de famille réelle, selon les cas de dispense mentionnés au cas n° 3.<br/><br/>\nAfin de bénéficier d'une telle dérogation, les salariés concernés doivent justifier chaque année et par écrit, de la couverture dont bénéficient leurs ayants droit en fournissant à la société une attestation de couverture. À défaut de fournir à la société les justificatifs requis le 1er janvier de chaque année, ces salariés seront contraints d'acquitter la cotisation afférente à leur situation familiale objective.<br/><br/>\nÀ titre informatif, il est rappelé que les salariés remplissant les conditions prévues aux arti-cles L. 911-7-III et <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000031808536&dateTexte=&categorieLien=cid'>D. 911-7</a> du code de la sécurité sociale pourront, de droit, et à leur initiative, se dispenser d'adhérer à la couverture Frais de santé en vigueur dans leur entreprise.<br/><br/>\nAu titre de l'article L. 911-7-1 – IV du code de la sécurité sociale, et sous réserve d'en remplir les conditions, les salariés ayant fait valoir la dispense prévue au <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000027549125&dateTexte=&categorieLien=cid'>2e alinéa du III de l'article L. 911-7 du code de la sécurité sociale </a>auront droit au « versement santé – chèque santé ».<br/><br/>\nL'employeur informera par écrit les salariés concernés de leurs droits relatifs à cette dispense de droit et du bénéfice du versement santé ainsi que des conditions à remplir à ce titre.</p><p></p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Cas de dérogation au caractère obligatoire de l'adhésion Cas de dispense d'affiliation"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504518",
+              "num": "4",
+              "intOrdre": 2621435,
+              "content": "<p align='left'>La couverture du système de garanties collectives complémentaire obligatoire frais de santé fait l'objet d'un contrat souscrit auprès d'un organisme assureur. L'ensemble des garanties souscrites respecte, en toutes circonstances, le cahier des charges des contrats dits solidaires et responsables conformément aux dispositions législatives et réglementaires en vigueur.<br/><br/>\nLes garanties souscrites ne constituent, en aucun cas, un engagement pour l'entreprise, qui n'est tenue à l'égard de ses salariés, qu'au seul paiement des cotisations, et aux garanties minimales imposées par le présent accord de branche et les dispositions législatives et réglementaires en vigueur. Par conséquent, les garanties mises en œuvre par le contrat d'assurance relèvent de la seule responsabilité de l'organisme assureur retenu, au même titre que les modalités, limitations et exclusions de garanties.<br/><br/>\nSont exclues des garanties toutes les dépenses non prises en charge par la sécurité sociale, conformément aux règles des « contrats responsables » fixées à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745370&dateTexte=&categorieLien=cid'>article L. 871-1 du code de la sécurité sociale</a> et ses textes d'application.<br/><br/>\nLa nature et le montant des prestations du régime de couverture complémentaire frais de santé sont présentés dans le tableau figurant en annexe I du présent accord.<br/><br/>\nChaque salarié est libre de contracter des garanties additionnelles venant compléter le niveau de garanties du présent accord de branche. Ces garanties optionnelles seront intégralement financées par les salariés.</p><p></p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Garanties"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504520",
+              "num": "5",
+              "intOrdre": 3145722,
+              "content": "<p align='left'>Les cotisations sont assises sur la situation familiale réelle du salarié et se déclinent de la manière suivante :</p><p align='left'></p><center><table border='1'><tbody><tr><td align='center'>Cotisation « isolé »</td><td align='center'>Salarié seul</td></tr><tr><td align='center'>Cotisation « Duo »</td><td align='center'>Salarié et une personne (conjoint ou enfant à charge)</td></tr><tr><td align='center'>Cotisation « Famille »</td><td align='center'>Salarié et deux personnes ou plus (conjoint et/ou enfant(s) à charge)</td></tr></tbody></table></center><p>Les cotisations au titre de la couverture minimale obligatoire de branche, et dont le taux est indexé sur le plafond mensuel de la sécurité sociale, sont prises en charge par l'entreprise et par les salariés dans les proportions suivantes, conformément à la législation en vigueur :<br/><br/>\n– part patronale : 50 % ;<br/>\n– part salariale : 50 %.<br/><br/>\nLes éventuelles variations futures des cotisations sont réparties entre l'employeur et les salariés dans les mêmes proportions que celles prévues ci-dessus.<br/><br/>\nLa quote-part salariale de la cotisation de la couverture collective obligatoire est retenue mensuellement par précompte sur la rémunération brute du salarié et figure sur le bulletin de paie.<br/><br/>\nConcernant les cotisations et répartition de la cotisation en cas de pluralité d'employeurs et de travail à temps partiel, il sera fait application des dispositions législatives et réglementaires en vigueur.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Répartition des cotisations entre employeur et salarié"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504521",
+              "num": "6",
+              "intOrdre": 3670009,
+              "content": "<p align='center'>6.1. Maintien des garanties en cas de suspension du contrat de travail</p><p align='left'>Les garanties sont maintenues au profit des assurés dont le contrat de travail est suspendu dans les conditions suivantes :</p><p align='left'>– pour cause de maternité, de maladie ou d'accident d'origine professionnelle ;<br/>\n– dans les autres cas de suspension du contrat de travail ouvrant droit à un maintien, total ou partiel, de salaire ou au versement d'indemnités journalières complémentaires financées au moins en partie par l'employeur. L'employeur et le salarié continuent de verser la même cotisation qu'avant la suspension du contrat de travail, pendant la durée de ladite suspension ;<br/>\n– dans les autres cas de suspension du contrat de travail, la garantie est également maintenue au profit des salariés dont le contrat de travail est suspendu, quelle qu'en soit la cause, et sous réserve :<br/>\n– d'une demande exprimée par l'intéressé au plus tard dans les 30 jours suivant le début de la suspension du contrat de travail ;<br/>\n– du règlement de l'intégralité de la cotisation correspondante (part salariale et part patronale) par l'intéressé.</p><p align='center'>6.2. Maintien des garanties en cas de rupture du contrat de travail</p><p align='left'>Les salariés bénéficiaires ainsi que leurs ayants droit, auront droit au maintien des garanties en vigueur dans l'entreprise en cas de rupture de leur contrat de travail ouvrant droit à une prise en charge par le régime d'assurance chômage, pendant une durée maximale de 12 mois, sous réserve de remplir l'ensemble des conditions fixées par l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000027549127&dateTexte=&categorieLien=cid'>article L. 911-8 du code de la sécurité sociale</a>.</p><p align='left'>Le droit à portabilité est ainsi subordonné au respect de l'ensemble des conditions fixées par les dispositions légales et les éventuelles dispositions réglementaires prises pour leur application.</p><p align='left'>La durée de la portabilité est égale à la durée du dernier contrat de travail, ou des derniers contrats de travail lorsqu'ils sont consécutifs chez le même employeur, appréciée en mois entiers le cas échéant arrondie au nombre supérieur, dans la limite de 12 mois.</p><p align='left'>Les anciens salariés bénéficiaires du dispositif ne devront acquitter aucune cotisation supplémentaire à ce titre.</p><p align='left'>À défaut de communication des justificatifs de sa prise en charge par le régime d'assurance chômage selon les modalités prévues par la notice d'information qui lui a été remise, l'ancien salarié perd le bénéfice du régime et, par conséquent, le droit aux prestations correspondantes.</p><p align='left'>Le financement du maintien de ces garanties est assuré par un système de mutualisation. Le coût correspondant est intégré dans les cotisations.</p><p align='center'>6.3. Maintien au titre de l'article 4 de la loi Évin</p><p align='left'>Conformément aux dispositions de l'article 4 de la loi Évin n° 89-1009 du 31 décembre 1989, modifié par la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000027546648&categorieLien=cid'>loi n° 2013-504 du 14 juin 2013</a>, peuvent, dans les cas visés ci-après, demander à bénéficier d'une couverture auprès de l'assureur sans condition de période probatoire ni d'examen ou de questionnaire médicaux :</p><p align='left'>1. Les anciens assurés, bénéficiaires d'une rente d'incapacité ou d'invalidité, d'une pension de retraite ou, s'ils sont privés d'emploi, d'un revenu de remplacement, sans condition de durée, sous réserve que les intéressés en fassent la demande dans les 6 mois qui suivent la rupture de leur contrat de travail ou, le cas échéant, dans les 6 mois suivant l'expiration de la période durant laquelle ils bénéficient à titre temporaire du maintien de ces garanties au titre du mécanisme de portabilité prévu à l'article L. 911-8 du code de la sécurité sociale.</p><p align='left'>2. Les personnes garanties du chef de l'assuré décédé, pendant une durée minimale de 12 mois à compter du décès, sous réserve que les intéressés en fassent la demande dans les 6 mois suivant le décès. Le souscripteur en informe l'assureur dans un délai de 15 jours qui adresse des propositions de couverture à ces personnes dans le délai de 2 mois à compter du décès.</p><p align='left'>L'obligation de proposer le maintien de la couverture frais de santé à ces anciens salariés (ou à leurs ayants droit) dans le cadre de l'application de l'article 4 de la loi Évin incombe à l'organisme assureur. L'employeur n'intervient pas dans le financement de cette couverture.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Maintien de la couverture minimum de branche en cas de suspension du contrat de travail et maintien des garanties en cas de rupture du contrat de travail"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504525",
+              "num": "7",
+              "intOrdre": 4194296,
+              "content": "<p align='left'>Les parties considèrent qu'un niveau adapté d'information permanente des bénéficiaires est essentiel à la bonne compréhension de leurs droits et obligations et à la réalisation des objectifs du présent accord.<br/><br/>\nLes entreprises de la branche remettent à chacun des salariés concernés, conformément aux <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745704&dateTexte=&categorieLien=cid'>dispositions de l'article L. 932-6 du code de la sécurité sociale</a>, la notice d'information de l'assureur qu'elles auront choisi. De même, en cas de modifications apportées aux droits et obligations des salariés, une nouvelle notice sera établie par l'assureur retenu et devra être remise à chaque salarié par l'entreprise.<br/><br/>\nLa preuve de la remise de la notice au salarié et de l'information relative aux modifications contractuelles incombe à l'entreprise.<br/><br/>\nEn cas de rupture du contrat de travail, et au plus tard le dernier jour de la relation contractuelle, les entreprises doivent informer les salariés du maintien possible des garanties en application des dispositions législatives et réglementaires et des conditions dans lesquelles ils peuvent en bénéficier.</p><p></p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Obligations d'information"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504527",
+              "num": "8",
+              "intOrdre": 4718583,
+              "content": "<p align='left'>Les entreprises disposant déjà, à la date d'effet du présent accord prévue à l'article 10 ci-dessous, d'un régime de frais de santé mis en place selon les <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745462&dateTexte=&categorieLien=cid'>dispositions de l'article L. 911-1 du code de la sécurité sociale</a> dont le niveau de garanties est équivalent, selon la situation réelle du salarié, à celui de la couverture minimum de branche selon le tableau de garanties figurant en annexe I et, respectant la répartition des cotisations appelées au titre de la couverture minimum de branche telle que définie à l'article 5 « cotisations » du présent accord, peuvent conserver leur régime en vigueur.</p><p align='left'>À défaut, les entreprises disposent d'un délai de 6 mois à compter de la date d'effet du présent accord pour se mettre en conformité.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Antériorité des régimes frais de santé en place dans les entreprises"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504529",
+              "num": "9",
+              "intOrdre": 5242870,
+              "content": "<p align='left'>La commission nationale paritaire aura en charge le suivi de l'accord, à savoir d'étudier l'ensemble des questions posées par l'application de ce régime et de veiller à son bon fonctionnement dans les entreprises de la branche.</p><p align='left'>Elle se réunira au moins une fois par an.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Commission nationale paritaire de suivi"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504530",
+              "num": "10",
+              "intOrdre": 5767157,
+              "content": "<p align='left'><br/>Le présent accord, conclu pour une durée indéterminée, entrera en vigueur le 1er janvier 2017, et en tout état de cause le premier jour du mois suivant la publication de l'arrêté d'extension au Journal officiel et, de ce fait, deviendra obligatoire pour l'ensemble des entreprises entrant dans le champ de la convention collective précitée.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Date d'effet"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504531",
+              "num": "11",
+              "intOrdre": 6291444,
+              "content": "<p align='left'><br/>Le présent accord pourra être dénoncé par l'une ou l'autre des parties signataires conformément aux dispositions du code du travail.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Modalités de dénonciation"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504533",
+              "num": "12",
+              "intOrdre": 6815731,
+              "content": "<p align='left'><br/>Les dispositions du présent accord ont été adoptées dans un cadre législatif et réglementaire en vigueur au moment de sa prise d'effet. Elles seront révisées sans délai, en tout ou partie, en cas de modification ou d'évolution des textes législatifs ou réglementaires.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Modification du cadre législatif ou réglementaire"
+            },
+            {
+              "type": "article",
+              "id": "KALIARTI000036504534",
+              "num": "13",
+              "intOrdre": 7340018,
+              "content": "<p align='left'>Le présent accord fera l'objet des formalités de dépôt dans les conditions prévues à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid'>article D. 2231-2 du code du travail</a>.</p><p align='left'>Les parties signataires conviennent de demander l'extension du présent accord.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Dépôt et extension"
             }
           ]
         },
         {
-          "id": "KALITEXT000029148822",
+          "type": "section",
           "title": "Avenant n° 2 du 6 février 2014 à l'accord du 13 décembre 2010 relatif à la classification",
-          "dateParution": 1404086400000,
-          "articles": [
+          "id": "KALITEXT000029148822",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000029148824",
               "num": "unique",
               "intOrdre": 524287,
@@ -515,6 +582,7 @@
               "etat": "VIGUEUR_NON_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029148827",
               "num": "2",
               "intOrdre": 1048574,
@@ -523,6 +591,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029148828",
               "num": "3",
               "intOrdre": 1572861,
@@ -531,6 +600,7 @@
               "surtitre": "Procédure de dépôt et d'extension"
             },
             {
+              "type": "article",
               "id": "KALIARTI000029148829",
               "num": "4",
               "intOrdre": 2097148,
@@ -541,17 +611,19 @@
           ]
         },
         {
-          "id": "KALITEXT000026383461",
+          "type": "section",
           "title": "Accord du 10 mai 2012 relatif à la prévention de la pénibilité et à l'amélioration des conditions de travail",
-          "dateParution": 1348012800000,
-          "sections": [
+          "id": "KALITEXT000026383461",
+          "children": [
             {
-              "id": "KALISCTA000026383464",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000026383464",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000026383473",
                   "num": null,
                   "intOrdre": 524287,
@@ -561,12 +633,14 @@
               ]
             },
             {
-              "id": "KALISCTA000026383465",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre Ier : Champ d'application",
+              "id": "KALISCTA000026383465",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000026383482",
                   "num": null,
                   "intOrdre": 524287,
@@ -576,12 +650,14 @@
               ]
             },
             {
-              "id": "KALISCTA000026383466",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Chapitre II : Objet de l'accord",
+              "id": "KALISCTA000026383466",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000026383483",
                   "num": null,
                   "intOrdre": 524287,
@@ -591,12 +667,14 @@
               ]
             },
             {
-              "id": "KALISCTA000026383467",
+              "type": "section",
               "intOrdre": 2097148,
               "title": "Chapitre III : Caractérisation de la pénibilité de la branche",
+              "id": "KALISCTA000026383467",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000026383484",
                   "num": "3.1",
                   "intOrdre": 524287,
@@ -605,6 +683,7 @@
                   "surtitre": "Définition des facteurs de pénibilité"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000026383487",
                   "num": "3.2",
                   "intOrdre": 1048574,
@@ -613,6 +692,7 @@
                   "surtitre": "Situation nécessitant une attention particulière dans le cadre de la politique de prévention de la pénibilité de la branche : la poussière de lin"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000026383488",
                   "num": "3.3",
                   "intOrdre": 1572861,
@@ -623,12 +703,14 @@
               ]
             },
             {
-              "id": "KALISCTA000026383468",
+              "type": "section",
               "intOrdre": 2621435,
               "title": "Chapitre IV : Plan d'action de prévention de la pénibilité et de l'amélioration des conditions de travail de la branche",
+              "id": "KALISCTA000026383468",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000026383490",
                   "num": null,
                   "intOrdre": 524287,
@@ -636,6 +718,7 @@
                   "etat": "VIGUEUR_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000026383492",
                   "num": "1er",
                   "intOrdre": 1048574,
@@ -644,6 +727,7 @@
                   "surtitre": "Adaptation et aménagement du poste de travail"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000026383493",
                   "num": "2",
                   "intOrdre": 1572861,
@@ -652,6 +736,7 @@
                   "surtitre": "Amélioration des conditions de travail, notamment sur le plan organisationnel"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000026383494",
                   "num": "3",
                   "intOrdre": 2097148,
@@ -662,12 +747,14 @@
               ]
             },
             {
-              "id": "KALISCTA000026383469",
+              "type": "section",
               "intOrdre": 3145722,
               "title": "Chapitre V : Suivi et bilan de l'accord pénibilité",
+              "id": "KALISCTA000026383469",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000026383497",
                   "num": null,
                   "intOrdre": 524287,
@@ -677,12 +764,14 @@
               ]
             },
             {
-              "id": "KALISCTA000026383470",
+              "type": "section",
               "intOrdre": 3670009,
               "title": "Chapitre VI : Durée. – Date d'effet",
+              "id": "KALISCTA000026383470",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000026383499",
                   "num": null,
                   "intOrdre": 524287,
@@ -692,12 +781,14 @@
               ]
             },
             {
-              "id": "KALISCTA000026383471",
+              "type": "section",
               "intOrdre": 4194296,
               "title": "Chapitre VII : Formalités de dépôt. – Extension",
+              "id": "KALISCTA000026383471",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000026383500",
                   "num": null,
                   "intOrdre": 524287,
@@ -707,12 +798,14 @@
               ]
             },
             {
-              "id": "KALISCTA000026383472",
+              "type": "section",
               "intOrdre": 4718583,
               "title": "Annexes",
+              "id": "KALISCTA000026383472",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000026383502",
                   "num": null,
                   "intOrdre": 524287,
@@ -720,6 +813,7 @@
                   "etat": "VIGUEUR_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000026383503",
                   "num": null,
                   "intOrdre": 1048574,
@@ -731,17 +825,19 @@
           ]
         },
         {
-          "id": "KALITEXT000022425153",
+          "type": "section",
           "title": "Accord du 8 décembre 2009 relatif à l'emploi des seniors",
-          "dateParution": 1278288000000,
-          "sections": [
+          "id": "KALITEXT000022425153",
+          "children": [
             {
-              "id": "KALISCTA000022425155",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Préambule",
+              "id": "KALISCTA000022425155",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000022425163",
                   "num": null,
                   "intOrdre": 524287,
@@ -751,12 +847,14 @@
               ]
             },
             {
-              "id": "KALISCTA000022425156",
+              "type": "section",
               "intOrdre": 1048574,
               "title": "Chapitre Ier Champ d'application",
+              "id": "KALISCTA000022425156",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000022425164",
                   "num": null,
                   "intOrdre": 524287,
@@ -766,12 +864,14 @@
               ]
             },
             {
-              "id": "KALISCTA000022425157",
+              "type": "section",
               "intOrdre": 1572861,
               "title": "Chapitre II Objet",
+              "id": "KALISCTA000022425157",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000022425165",
                   "num": null,
                   "intOrdre": 524287,
@@ -781,12 +881,14 @@
               ]
             },
             {
-              "id": "KALISCTA000022425158",
+              "type": "section",
               "intOrdre": 2097148,
               "title": "Chapitre III Objectif global chiffré",
+              "id": "KALISCTA000022425158",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000022425167",
                   "num": null,
                   "intOrdre": 524287,
@@ -796,12 +898,14 @@
               ]
             },
             {
-              "id": "KALISCTA000022425159",
+              "type": "section",
               "intOrdre": 2621435,
               "title": "Chapitre IV Dispositions favorables à l'emploi des seniors",
+              "id": "KALISCTA000022425159",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000022425168",
                   "num": null,
                   "intOrdre": 524287,
@@ -809,6 +913,7 @@
                   "etat": "VIGUEUR_ETEN"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000022425169",
                   "num": "1er",
                   "intOrdre": 1048574,
@@ -817,6 +922,7 @@
                   "surtitre": "Amélioration des conditions de travail et prévention des situations de pénibilité"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000022425171",
                   "num": "2",
                   "intOrdre": 1572861,
@@ -825,6 +931,7 @@
                   "surtitre": "Développement des compétences et des qualifications et accès à la formation"
                 },
                 {
+                  "type": "article",
                   "id": "KALIARTI000022425172",
                   "num": "3",
                   "intOrdre": 2097148,
@@ -835,12 +942,14 @@
               ]
             },
             {
-              "id": "KALISCTA000022425160",
+              "type": "section",
               "intOrdre": 3145722,
               "title": "Chapitre V Suivi des objectifs fixés et des résultats obtenus Bilan de l'accord seniors",
+              "id": "KALISCTA000022425160",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000022425173",
                   "num": null,
                   "intOrdre": 524287,
@@ -850,12 +959,14 @@
               ]
             },
             {
-              "id": "KALISCTA000022425161",
+              "type": "section",
               "intOrdre": 3670009,
               "title": "Chapitre VI Durée. – Date d'effet",
+              "id": "KALISCTA000022425161",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000022425175",
                   "num": null,
                   "intOrdre": 524287,
@@ -865,12 +976,14 @@
               ]
             },
             {
-              "id": "KALISCTA000022425162",
+              "type": "section",
               "intOrdre": 4194296,
               "title": "Chapitre VII Formalités de dépôt. – Rescrit et extension",
+              "id": "KALISCTA000022425162",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000022425176",
                   "num": null,
                   "intOrdre": 524287,
@@ -882,65 +995,55 @@
           ]
         },
         {
-          "id": "KALITEXT000036777991",
-          "title": "Avenant n° 46 du 20 juin 2017 relatif à la période d'essai",
-          "dateParution": 1523232000000,
-          "articles": [
+          "type": "section",
+          "title": "Annexe I - Techniciens - Agents de maîtrise",
+          "id": "KALITEXT000019906569",
+          "children": [
             {
-              "id": "KALIARTI000036777995",
-              "num": "1er",
+              "type": "article",
+              "id": "KALIARTI000019906573",
+              "num": "1",
               "intOrdre": 1048574,
-              "content": "<p align='left'><br/>L'article 16 « Période d'essai » de la convention collective nationale est abrogé et remplacé par la disposition suivante : </p><p align='center'><br/>1.1. Durée de la période d'essai </p><p align='left'><br/>La durée de la période d'essai du contrat à durée indéterminée est fixée à : <br/>–   2 mois pour les ouvriers et les employés ; <br/>–   3 mois pour les techniciens et agents de maîtrise. <br/>Il est précisé que les dispositions conventionnelles relatives à la période d'essai de la catégorie cadres sont regroupées à l'article 7 de l'annexe II « Cadres ». </p><p align='center'><br/>1.2. Résiliation de la période d'essai </p><p align='left'><br/>La période d'essai peut être résiliée : <br/>Par l'employeur avec un délai de prévenance de : <br/>–   24 heures en dessous de 8 jours de présence ; <br/>–   48 heures entre 8 jours à 1 mois de présence ; <br/>–   2 semaines après 1 mois de présence ; <br/>–   1 mois après 3 mois de présence. <br/>Par le salarié avec un délai de prévenance de : <br/>–   24 heures en deçà de 8 jours de présence ; <br/>–   48 heures au-delà de 8 jours de présence. </p><p align='center'><br/>1.3. Renouvellement de la période d'essai <br/>Catégorie “ ouvriers et employés ” jusqu'au coefficient 128 </p><p align='left'><br/>Si la période d'essai n'est pas concluante, il est possible de prévoir, par écrit et d'un commun accord, le renouvellement de la période d'essai pour une durée de 1 mois. </p><p align='center'><br/>Catégorie “ ouvriers et employés ” au-delà du coefficient 128 </p><p align='left'><br/>Si la période d'essai n'est pas concluante, il est possible de prévoir, par écrit et d'un commun accord, le renouvellement de la période d'essai de même durée que la période initiale. </p><p align='center'><br/>1.4. Modalités de renouvellement </p><p align='left'><br/>Le renouvellement se fera dans les conditions suivantes : <br/>–   la faculté de renouvellement de la période d'essai devra être stipulée dans la lettre d'engagement ou le contrat de travail ; <br/>–   l'employeur devra observer un délai de prévenance de 48 heures ; <br/>–   un document écrit portant, avant sa signature, l'accord exprès du salarié, devra être établi lors du renouvellement de la période d'essai.</p>",
-              "etat": "VIGUEUR_ETEN"
+              "content": "<p align='left'>La présente annexe a pour objet de fixer les conditions particulières de travail des Techniciens-Agents de Maîtrise occupés dans les coopératives agricoles, les unions de coopératives et les SICA de teillage du lin.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Champ d'application"
             },
             {
-              "id": "KALIARTI000036777996",
+              "type": "article",
+              "id": "KALIARTI000019906574",
               "num": "2",
               "intOrdre": 1572861,
-              "content": "<p align='left'><br/>L'article 7 de l'annexe II « Cadres » est abrogé et remplacé par la disposition suivante : </p><p align='center'><br/>« 2.1. Durée de la période d'essai </p><p align='left'><br/>La durée de la période d'essai du contrat à durée indéterminée est fixée à 4 mois pour les cadres. </p><p align='center'><br/>2.2. Résiliation de la période d'essai </p><p align='left'><br/>La période d'essai peut être résiliée : <br/>Par l'employeur avec un délai de prévenance de : <br/>–   24 heures en dessous de 8 jours de présence ; <br/>–   48 heures entre 8 jours à 1 mois de présence ; <br/>–   2 semaines après 1 mois de présence ; <br/>–   1 mois après 3 mois de présence. <br/>Par le salarié avec un délai de prévenance de : <br/>–   24 heures en deçà de 8 jours de présence ; <br/>–   48 heures au-delà de 8 jours de présence. </p><p align='center'><br/>2.3. Renouvellement de la période d'essai </p><p align='left'><br/>Si la période d'essai n'est pas concluante, il est possible de prévoir, par écrit et d'un commun accord, le renouvellement de la période d'essai de même durée que la période initiale et dans les conditions ci-après : <br/>–   la faculté de renouvellement de la période d'essai devra être stipulée dans la lettre d'engagement ou le contrat de travail ; <br/>–   l'employeur devra observer un délai de prévenance de 48 heures ; <br/>–   un document écrit portant, avant sa signature, l'accord exprès du salarié, devra être établi lors du renouvellement de la période d'essai.</p>",
-              "etat": "VIGUEUR_ETEN"
+              "content": "<p align='left'>Les dispositions légales sur la durée du travail s'appliquent aux TAM. En conséquence, la rémunération réelle de ceux-ci sera établie en fonction de l'horaire habituel de travail dans l'établissement, le service ou le bureau auxquels ils appartiennent.</p>",
+              "etat": "VIGUEUR_ETEN",
+              "surtitre": "Durée du travail"
             },
             {
-              "id": "KALIARTI000036777998",
+              "type": "article",
+              "id": "KALIARTI000019906576",
               "num": "3",
               "intOrdre": 2097148,
-              "content": "<p align='left'><br/>Le présent avenant entrera en vigueur pour toute période d'essai de contrat à durée indéterminée conclue à partir du lendemain de la publication au Journal officiel de son arrêté d'extension.</p>",
+              "content": "<p align='left'></p><p>Le régime de retraite et de prévoyance est déterminé suivant les conditions fixées conformément à la convention CFCA.</p><p>Pour les coopératives linières, le taux de cotisation est au moins égal à 6 % dont 60 % à la charge de l'employeur et 40 % à la charge du salarié.</p>",
               "etat": "VIGUEUR_ETEN",
-              "surtitre": "Entrée en vigueur"
+              "surtitre": "Retraite complémentaire et prévoyance"
             },
             {
-              "id": "KALIARTI000036777999",
+              "type": "article",
+              "id": "KALIARTI000019906577",
               "num": "4",
               "intOrdre": 2621435,
-              "content": "<p align='left'><br/>Le présent avenant est établi en un nombre suffisant d'exemplaires pour notification à chacune des organisations syndicales représentatives.<br/>Le présent avenant fera l'objet des formalités de dépôt dans les conditions prévues à l'<a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid'>article D. 2231-2 du code du travail</a>.<br/>Les parties signataires conviennent de demander l'extension du présent accord.</p>",
+              "content": "<p align='left'>En cas de vacance ou de création de poste, l'employeur informera le comité d'entreprise et à défaut les délégués du personnel, et fera appel de préférence aux collaborateurs employés dans l'entreprise et aptes à occuper le poste. </p><p>En cas de promotion, le collaborateur pourra être soumis à la période d'essai prévue pour l'emploi qu'il est appelé à occuper. </p><p>Dans le cas où cet essai ne s'avérerait pas satisfaisant, la réintégration du salarié intéressé dans son ancien poste ou dans un emploi équivalent ne saurait être considéré comme une rétrogradation. </p><p>Les autres dispositions sont celles de la <a alt='Convention collective nationale du 21 mars 1985 (VNE)' href='/affichIDCC.do?cidTexte=KALITEXT000018563084&categorieLien=cid'>convention collective</a> générale.</p>",
               "etat": "VIGUEUR_ETEN",
-              "surtitre": "Dépôt légal et extension"
-            }
-          ],
-          "sections": [
-            {
-              "id": "KALISCTA000036777994",
-              "intOrdre": 524287,
-              "title": "Préambule",
-              "etat": "VIGUEUR_ETEN",
-              "articles": [
-                {
-                  "id": "KALIARTI000036778001",
-                  "num": null,
-                  "intOrdre": 524287,
-                  "content": "<p align='left'><br/>Les partenaires sociaux, soucieux de garantir un texte conventionnel lisible et juridiquement sécurisé au regard des dispositions légales en vigueur, ont convenu de réviser les durées des périodes d'essai et leurs conditions de renouvellement.</p>",
-                  "etat": "VIGUEUR_ETEN"
-                }
-              ]
+              "surtitre": "Priorité d'emploi"
             }
           ]
         },
         {
-          "id": "KALITEXT000019906541",
+          "type": "section",
           "title": "Annexe II - Cadres",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000019906541",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000019906544",
               "num": "1",
               "intOrdre": 58254,
@@ -949,6 +1052,7 @@
               "surtitre": "Champ d'application"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019906546",
               "num": "2",
               "intOrdre": 116508,
@@ -957,6 +1061,7 @@
               "surtitre": "Rémunération"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019906548",
               "num": "3",
               "intOrdre": 174762,
@@ -965,6 +1070,7 @@
               "surtitre": "Durée du travail"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019906549",
               "num": "4",
               "intOrdre": 233016,
@@ -973,6 +1079,7 @@
               "surtitre": "Retraite complémentaire et prévoyance"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019906550",
               "num": "5",
               "intOrdre": 291270,
@@ -981,6 +1088,7 @@
               "surtitre": "Frais de déplacement"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019906551",
               "num": "6",
               "intOrdre": 349524,
@@ -989,6 +1097,7 @@
               "surtitre": "Engagement"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036784682",
               "num": "7",
               "intOrdre": 407778,
@@ -997,6 +1106,7 @@
               "surtitre": "Période d'essai"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019906554",
               "num": "8",
               "intOrdre": 466032,
@@ -1005,6 +1115,7 @@
               "surtitre": "Priorité d'emploi"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019906559",
               "num": "9",
               "intOrdre": 900290,
@@ -1013,6 +1124,7 @@
               "surtitre": "Secret professionnel"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019906560",
               "num": "10",
               "intOrdre": 1334548,
@@ -1021,6 +1133,7 @@
               "surtitre": "Changement de résidence"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019906561",
               "num": "11",
               "intOrdre": 1768806,
@@ -1029,6 +1142,7 @@
               "surtitre": "Préavis suite à démission ou licenciement "
             },
             {
+              "type": "article",
               "id": "KALIARTI000019906562",
               "num": "12",
               "intOrdre": 2203064,
@@ -1037,6 +1151,7 @@
               "surtitre": "Absence pour la recherche d'un nouvel emploi"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019906563",
               "num": "13",
               "intOrdre": 2637322,
@@ -1045,6 +1160,7 @@
               "surtitre": "Indemnité de licenciement"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019906564",
               "num": "14",
               "intOrdre": 3071580,
@@ -1054,6 +1170,7 @@
               "historique": "(Modifié par avenant no 5 du  11 juillet 1988, étendu par arrêté du  11 janvier 1989,  JO 24 janvier 1989 )"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019906565",
               "num": "15",
               "intOrdre": 3505838,
@@ -1062,6 +1179,7 @@
               "surtitre": "Maladie - Accident"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019906566",
               "num": "16",
               "intOrdre": 3940096,
@@ -1070,6 +1188,7 @@
               "surtitre": "Congés maternité"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019906567",
               "num": "17",
               "intOrdre": 4374354,
@@ -1078,6 +1197,7 @@
               "surtitre": "Congés annuels"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019906568",
               "num": "18",
               "intOrdre": 4808612,
@@ -1086,6 +1206,7 @@
               "surtitre": "Congés de formation et de recyclage"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023214329",
               "num": "19",
               "intOrdre": 1076146129,
@@ -1096,11 +1217,12 @@
           ]
         },
         {
-          "id": "KALITEXT000019747393",
+          "type": "section",
           "title": "Avenant n° 36 du 17 juillet 2008",
-          "dateParution": 1226448000000,
-          "articles": [
+          "id": "KALITEXT000019747393",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000019747395",
               "num": "1",
               "intOrdre": 524287,
@@ -1108,6 +1230,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019747397",
               "num": "2",
               "intOrdre": 1048574,
@@ -1117,37 +1240,26 @@
           ]
         },
         {
-          "id": "KALITEXT000018828024",
-          "title": "Annexe IV - Grille d'attribution des coefficients hiérarchiques",
-          "dateParution": 32472144000000,
-          "articles": [
-            {
-              "id": "KALIARTI000018828037",
-              "num": null,
-              "intOrdre": 262143,
-              "content": "<table border='1' cellSpacing='0' cellPadding='0'><tbody><tr><td colSpan='3' width='665' vAlign='top'></td><td width='1'></td></tr><tr><td width='487'><p align='left'>Ouvriers, Employés, Techniciens et Agents de maîtrise</p><p align='left'></p></td><td width='83'><p align='center'></p><p align='center'>Coefficients</p><p align='center'>(points OE/TAM)</p></td><td colSpan='2' width='96'><p align='center'>Catégorie professionnelle</p></td></tr><tr><td width='487'><p align='left'>1- Assistant Logistique </p></td><td width='83'><p align='center'></p></td><td colSpan='2' width='96'><p align='left'></p></td></tr><tr><td width='487'><p align='left'>1.1-Type 1</p></td><td width='83'><p align='center'>116</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>1.2-Type 2</p></td><td width='83'><p align='center'>140</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>1.3-Type 3</p></td><td width='83'><p align='center'>220</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>2- Agent de Production </p></td><td width='83'><p align='center'></p></td><td colSpan='2' width='96'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>2.1-Agent de ligne de production</p></td><td width='83'><p align='center'></p></td><td colSpan='2' width='96'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>2.1.1- Type 1</p></td><td width='83'><p align='center'>100</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>2.1.2- Type 2</p></td><td width='83'><p align='center'>108</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>2.1.3- Type 3</p></td><td width='83'><p align='center'>116</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>2.2-Conducteur de ligne de production</p></td><td width='83'><p align='center'></p></td><td colSpan='2' width='96'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>2.2.1- Type 1</p></td><td width='83'><p align='center'>156</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>2.2.2- Type 2</p></td><td width='83'><p align='center'>196</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>3- Conducteur d'Équipes</p></td><td width='83'><p align='center'>300</p></td><td colSpan='2' width='96'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>4- Animateur d'Unité</p></td><td width='83'><p align='center'></p></td><td colSpan='2' width='96'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>4.1- Type 1</p></td><td width='83'><p align='center'>360</p></td><td colSpan='2' width='96'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>4.2- Type 1</p></td><td width='83'><p align='center'>464</p></td><td colSpan='2' width='96'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>5- Maintenance et Entretien</p></td><td width='83'><p align='center'></p></td><td colSpan='2' width='96'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>5.1-Agent d'entretien</p></td><td width='83'><p align='center'>100</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>5.2-Agent de Maintenance</p></td><td width='83'><p align='center'>128</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>5.3-Mécanicien</p></td><td width='83'><p align='center'>220</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>5.4-Technicien de Maintenance</p></td><td width='83'><p align='center'>328</p></td><td colSpan='2' width='96'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>5.5-Electricien</p></td><td width='83'><p align='center'>328</p></td><td colSpan='2' width='96'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>5.6-Chef d'atelier</p></td><td width='83'><p align='center'>464</p></td><td colSpan='2' width='96'><p align='center'>TAM</p></td></tr></tbody></table><table border='1' cellSpacing='0' cellPadding='0'><tbody><tr><td width='487'><p align='left'>Ouvriers, Employés, Techniciens et Agents de maîtrise (suite)</p><p align='left'></p></td><td width='83'><p align='center'>Coefficients</p><p align='center'>(points OE/TAM)</p></td><td width='83'><p align='center'>Catégorie professionnelle</p></td></tr><tr><td width='487'><p align='left'>6-Activités autres que la Production</p></td><td width='83'><p align='center'></p></td><td width='83'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>6.1-Agent de travaux de récolte</p></td><td width='83'><p align='center'>100</p></td><td width='83'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>6.2-Agent de propreté des bureaux et/ou autres locaux</p></td><td width='83'><p align='center'>100</p></td><td width='83'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>6.3-Agent Sélection et/ou laboratoire et/ou relation culture</p></td><td width='83'><p align='center'>140</p></td><td width='83'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>6.4-Assistant de Sélection et/ou de laboratoire</p></td><td width='83'><p align='center'>220</p></td><td width='83'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>6.5-Technicien de Sélection et/ou de laboratoire</p></td><td width='83'><p align='center'>328</p></td><td width='83'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>6.6-Technicien Relation Culture et adhérent</p></td><td width='83'><p align='center'>244</p></td><td width='83'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>6.7-Technicien Conseil Cultures</p></td><td width='83'><p align='center'>464</p></td><td width='83'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>7-Administratif</p></td><td width='83'><p align='center'></p></td><td width='83'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>7.1-Assistant administratif</p></td><td width='83'><p align='center'></p></td><td width='83'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>7.1.1-Type 1</p></td><td width='83'><p align='center'>108</p></td><td width='83'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>7.1.2-Type 2</p></td><td width='83'><p align='center'>140</p></td><td width='83'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>7.1.3-Type 3</p></td><td width='83'><p align='center'>244</p></td><td width='83'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>7.2-Technicien Administratif et comptable</p></td><td width='83'><p align='center'>360</p></td><td width='83'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'></p></td><td width='83'><p align='center'></p></td><td width='83'><p align='center'><i></i></p></td></tr></tbody></table><table border='1' cellSpacing='0' cellPadding='0'><tbody><tr><td width='487'><p align='left'>Cadres</p><p align='left'></p></td><td width='166'><p align='center'>coefficients</p><p align='center'>(points Cadres)</p></td></tr><tr><td width='487'><p align='left'>1-Cadres de Type 1</p></td><td width='166'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>1.1-Echelon 1</p></td><td width='166'><p align='center'>630</p></td></tr><tr><td width='487'><p align='left'>1.2-Echelon 2</p></td><td width='166'><p align='center'>700</p></td></tr><tr><td width='487'><p align='left'>1.3-Echelon 3</p></td><td width='166'><p align='center'>800</p></td></tr><tr><td width='487'><p align='left'>2-Cadres de Type 2</p></td><td width='166'><p align='center'>900</p></td></tr><tr><td width='487'><p align='left'>3- Cadres de Type 3</p></td><td width='166'><p align='center'>1 200</p></td></tr></tbody></table><p>LEGENDE : </p><p>OE : ouvriers/employés</p><p>TAM : techniciens/agents de maîtrise</p><p>C : cadres</p>",
-              "etat": "VIGUEUR_ETEN"
-            }
-          ]
-        },
-        {
-          "id": "KALITEXT000018828293",
+          "type": "section",
           "title": "Annexe III - Classification des postes ouvriers,employés, techniciens, agents de maîtrise et cadres",
-          "dateParution": 32472144000000,
-          "sections": [
+          "id": "KALITEXT000018828293",
+          "children": [
             {
-              "id": "KALISCTA000018828295",
+              "type": "section",
               "intOrdre": 524287,
               "title": "Ouvriers, employés, techniciens et agents de maîtrise",
+              "id": "KALISCTA000018828295",
               "etat": "VIGUEUR_ETEN",
-              "sections": [
+              "children": [
                 {
-                  "id": "KALISCTA000023271043",
+                  "type": "section",
                   "intOrdre": 1074003967,
                   "title": "1 - Assistant logistique",
+                  "id": "KALISCTA000023271043",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000018828334",
                       "num": null,
                       "intOrdre": 1073741823,
@@ -1157,12 +1269,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000023271051",
+                  "type": "section",
                   "intOrdre": 1610743807,
                   "title": "2 - Les agents de production",
+                  "id": "KALISCTA000023271051",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000018828296",
                       "num": null,
                       "intOrdre": 1073741823,
@@ -1172,12 +1286,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000023271064",
+                  "type": "section",
                   "intOrdre": 1879113727,
                   "title": "3 - Conducteur d'équipes",
+                  "id": "KALISCTA000023271064",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000018828297",
                       "num": null,
                       "intOrdre": 1073741823,
@@ -1187,12 +1303,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000023271117",
+                  "type": "section",
                   "intOrdre": 2013298687,
                   "title": "4 - Animateur d'unité",
+                  "id": "KALISCTA000023271117",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000018828300",
                       "num": null,
                       "intOrdre": 1073741823,
@@ -1202,12 +1320,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000023271122",
+                  "type": "section",
                   "intOrdre": 2080391167,
                   "title": "5 - Maintenance et entretien",
+                  "id": "KALISCTA000023271122",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000018828303",
                       "num": null,
                       "intOrdre": 1073741823,
@@ -1217,12 +1337,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000023271124",
+                  "type": "section",
                   "intOrdre": 2113937407,
                   "title": "6 - Activités autres que la production",
+                  "id": "KALISCTA000023271124",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000018828304",
                       "num": null,
                       "intOrdre": 1073741823,
@@ -1232,12 +1354,14 @@
                   ]
                 },
                 {
-                  "id": "KALISCTA000023271147",
+                  "type": "section",
                   "intOrdre": 2130710527,
                   "title": "7 - Administratif",
+                  "id": "KALISCTA000023271147",
                   "etat": "VIGUEUR_ETEN",
-                  "articles": [
+                  "children": [
                     {
+                      "type": "article",
                       "id": "KALIARTI000018828308",
                       "num": null,
                       "intOrdre": 1073741823,
@@ -1249,12 +1373,14 @@
               ]
             },
             {
-              "id": "KALISCTA000023271026",
+              "type": "section",
               "intOrdre": 786430,
               "title": "Cadres",
+              "id": "KALISCTA000023271026",
               "etat": "VIGUEUR_ETEN",
-              "articles": [
+              "children": [
                 {
+                  "type": "article",
                   "id": "KALIARTI000018828309",
                   "num": null,
                   "intOrdre": 1073741823,
@@ -1266,11 +1392,27 @@
           ]
         },
         {
-          "id": "KALITEXT000018773109",
-          "title": "Avenant n° 34 du 21 décembre 2007",
-          "dateParution": 1210204800000,
-          "articles": [
+          "type": "section",
+          "title": "Annexe IV - Grille d'attribution des coefficients hiérarchiques",
+          "id": "KALITEXT000018828024",
+          "children": [
             {
+              "type": "article",
+              "id": "KALIARTI000018828037",
+              "num": null,
+              "intOrdre": 262143,
+              "content": "<table border='1' cellSpacing='0' cellPadding='0'><tbody><tr><td colSpan='3' width='665' vAlign='top'></td><td width='1'></td></tr><tr><td width='487'><p align='left'>Ouvriers, Employés, Techniciens et Agents de maîtrise</p><p align='left'></p></td><td width='83'><p align='center'></p><p align='center'>Coefficients</p><p align='center'>(points OE/TAM)</p></td><td colSpan='2' width='96'><p align='center'>Catégorie professionnelle</p></td></tr><tr><td width='487'><p align='left'>1- Assistant Logistique </p></td><td width='83'><p align='center'></p></td><td colSpan='2' width='96'><p align='left'></p></td></tr><tr><td width='487'><p align='left'>1.1-Type 1</p></td><td width='83'><p align='center'>116</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>1.2-Type 2</p></td><td width='83'><p align='center'>140</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>1.3-Type 3</p></td><td width='83'><p align='center'>220</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>2- Agent de Production </p></td><td width='83'><p align='center'></p></td><td colSpan='2' width='96'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>2.1-Agent de ligne de production</p></td><td width='83'><p align='center'></p></td><td colSpan='2' width='96'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>2.1.1- Type 1</p></td><td width='83'><p align='center'>100</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>2.1.2- Type 2</p></td><td width='83'><p align='center'>108</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>2.1.3- Type 3</p></td><td width='83'><p align='center'>116</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>2.2-Conducteur de ligne de production</p></td><td width='83'><p align='center'></p></td><td colSpan='2' width='96'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>2.2.1- Type 1</p></td><td width='83'><p align='center'>156</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>2.2.2- Type 2</p></td><td width='83'><p align='center'>196</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>3- Conducteur d'Équipes</p></td><td width='83'><p align='center'>300</p></td><td colSpan='2' width='96'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>4- Animateur d'Unité</p></td><td width='83'><p align='center'></p></td><td colSpan='2' width='96'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>4.1- Type 1</p></td><td width='83'><p align='center'>360</p></td><td colSpan='2' width='96'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>4.2- Type 1</p></td><td width='83'><p align='center'>464</p></td><td colSpan='2' width='96'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>5- Maintenance et Entretien</p></td><td width='83'><p align='center'></p></td><td colSpan='2' width='96'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>5.1-Agent d'entretien</p></td><td width='83'><p align='center'>100</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>5.2-Agent de Maintenance</p></td><td width='83'><p align='center'>128</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>5.3-Mécanicien</p></td><td width='83'><p align='center'>220</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>5.4-Technicien de Maintenance</p></td><td width='83'><p align='center'>328</p></td><td colSpan='2' width='96'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>5.5-Electricien</p></td><td width='83'><p align='center'>328</p></td><td colSpan='2' width='96'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>5.6-Chef d'atelier</p></td><td width='83'><p align='center'>464</p></td><td colSpan='2' width='96'><p align='center'>TAM</p></td></tr></tbody></table><table border='1' cellSpacing='0' cellPadding='0'><tbody><tr><td width='487'><p align='left'>Ouvriers, Employés, Techniciens et Agents de maîtrise (suite)</p><p align='left'></p></td><td width='83'><p align='center'>Coefficients</p><p align='center'>(points OE/TAM)</p></td><td width='83'><p align='center'>Catégorie professionnelle</p></td></tr><tr><td width='487'><p align='left'>6-Activités autres que la Production</p></td><td width='83'><p align='center'></p></td><td width='83'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>6.1-Agent de travaux de récolte</p></td><td width='83'><p align='center'>100</p></td><td width='83'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>6.2-Agent de propreté des bureaux et/ou autres locaux</p></td><td width='83'><p align='center'>100</p></td><td width='83'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>6.3-Agent Sélection et/ou laboratoire et/ou relation culture</p></td><td width='83'><p align='center'>140</p></td><td width='83'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>6.4-Assistant de Sélection et/ou de laboratoire</p></td><td width='83'><p align='center'>220</p></td><td width='83'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>6.5-Technicien de Sélection et/ou de laboratoire</p></td><td width='83'><p align='center'>328</p></td><td width='83'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>6.6-Technicien Relation Culture et adhérent</p></td><td width='83'><p align='center'>244</p></td><td width='83'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>6.7-Technicien Conseil Cultures</p></td><td width='83'><p align='center'>464</p></td><td width='83'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>7-Administratif</p></td><td width='83'><p align='center'></p></td><td width='83'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>7.1-Assistant administratif</p></td><td width='83'><p align='center'></p></td><td width='83'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>7.1.1-Type 1</p></td><td width='83'><p align='center'>108</p></td><td width='83'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>7.1.2-Type 2</p></td><td width='83'><p align='center'>140</p></td><td width='83'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>7.1.3-Type 3</p></td><td width='83'><p align='center'>244</p></td><td width='83'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>7.2-Technicien Administratif et comptable</p></td><td width='83'><p align='center'>360</p></td><td width='83'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'></p></td><td width='83'><p align='center'></p></td><td width='83'><p align='center'><i></i></p></td></tr></tbody></table><table border='1' cellSpacing='0' cellPadding='0'><tbody><tr><td width='487'><p align='left'>Cadres</p><p align='left'></p></td><td width='166'><p align='center'>coefficients</p><p align='center'>(points Cadres)</p></td></tr><tr><td width='487'><p align='left'>1-Cadres de Type 1</p></td><td width='166'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>1.1-Echelon 1</p></td><td width='166'><p align='center'>630</p></td></tr><tr><td width='487'><p align='left'>1.2-Echelon 2</p></td><td width='166'><p align='center'>700</p></td></tr><tr><td width='487'><p align='left'>1.3-Echelon 3</p></td><td width='166'><p align='center'>800</p></td></tr><tr><td width='487'><p align='left'>2-Cadres de Type 2</p></td><td width='166'><p align='center'>900</p></td></tr><tr><td width='487'><p align='left'>3- Cadres de Type 3</p></td><td width='166'><p align='center'>1 200</p></td></tr></tbody></table><p>LEGENDE : </p><p>OE : ouvriers/employés</p><p>TAM : techniciens/agents de maîtrise</p><p>C : cadres</p>",
+              "etat": "VIGUEUR_ETEN"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Avenant n° 34 du 21 décembre 2007",
+          "id": "KALITEXT000018773109",
+          "children": [
+            {
+              "type": "article",
               "id": "KALIARTI000018773111",
               "num": "1",
               "intOrdre": 524287,
@@ -1278,6 +1420,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773113",
               "num": "2",
               "intOrdre": 1048574,
@@ -1285,6 +1428,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773117",
               "num": "3",
               "intOrdre": 1572861,
@@ -1292,6 +1436,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773122",
               "num": "4",
               "intOrdre": 2097148,
@@ -1299,6 +1444,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773124",
               "num": "5",
               "intOrdre": 2621435,
@@ -1306,6 +1452,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773127",
               "num": "6",
               "intOrdre": 3145722,
@@ -1313,6 +1460,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773128",
               "num": "7",
               "intOrdre": 3670009,
@@ -1320,6 +1468,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773130",
               "num": "8",
               "intOrdre": 4194296,
@@ -1327,6 +1476,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773134",
               "num": "9",
               "intOrdre": 4718583,
@@ -1334,6 +1484,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773136",
               "num": "10",
               "intOrdre": 5242870,
@@ -1341,6 +1492,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773139",
               "num": "11",
               "intOrdre": 5767157,
@@ -1348,6 +1500,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773141",
               "num": "12",
               "intOrdre": 6291444,
@@ -1355,6 +1508,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773143",
               "num": "13",
               "intOrdre": 6815731,
@@ -1362,6 +1516,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773145",
               "num": "14",
               "intOrdre": 7340018,
@@ -1369,6 +1524,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773146",
               "num": "15",
               "intOrdre": 7864305,
@@ -1376,6 +1532,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773148",
               "num": "16",
               "intOrdre": 8388592,
@@ -1383,6 +1540,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773151",
               "num": "17",
               "intOrdre": 8912879,
@@ -1390,6 +1548,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773153",
               "num": "18",
               "intOrdre": 9437166,
@@ -1397,6 +1556,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773156",
               "num": "19",
               "intOrdre": 9961453,
@@ -1404,6 +1564,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773158",
               "num": "20",
               "intOrdre": 10485740,
@@ -1411,6 +1572,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773159",
               "num": "21",
               "intOrdre": 11010027,
@@ -1418,6 +1580,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773161",
               "num": "22",
               "intOrdre": 11534314,
@@ -1425,6 +1588,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773163",
               "num": "23",
               "intOrdre": 12058601,
@@ -1432,6 +1596,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773166",
               "num": "24",
               "intOrdre": 12582888,
@@ -1439,6 +1604,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773169",
               "num": "25",
               "intOrdre": 13107175,
@@ -1446,6 +1612,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773171",
               "num": "26",
               "intOrdre": 13631462,
@@ -1453,6 +1620,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773175",
               "num": "27",
               "intOrdre": 14155749,
@@ -1460,6 +1628,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773177",
               "num": "28",
               "intOrdre": 14680036,
@@ -1467,6 +1636,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773179",
               "num": "29",
               "intOrdre": 15204323,
@@ -1474,6 +1644,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773180",
               "num": "30",
               "intOrdre": 15728610,
@@ -1481,6 +1652,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773182",
               "num": "31",
               "intOrdre": 16252897,
@@ -1488,6 +1660,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773187",
               "num": "32",
               "intOrdre": 16777184,
@@ -1495,6 +1668,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773189",
               "num": "33",
               "intOrdre": 17301471,
@@ -1502,6 +1676,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773191",
               "num": "34",
               "intOrdre": 17825758,
@@ -1509,6 +1684,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773192",
               "num": "35",
               "intOrdre": 18350045,
@@ -1516,6 +1692,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773218",
               "num": "36",
               "intOrdre": 18874332,
@@ -1523,6 +1700,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773223",
               "num": "37",
               "intOrdre": 19398619,
@@ -1530,6 +1708,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000018773224",
               "num": "38",
               "intOrdre": 19922906,
@@ -1541,17 +1720,19 @@
       ]
     },
     {
-      "id": null,
+      "type": "section",
       "intOrdre": 3,
       "title": "Textes Salaires",
+      "id": null,
       "etat": "VIGUEUR",
-      "sections": [
+      "children": [
         {
-          "id": "KALITEXT000036599937",
+          "type": "section",
           "title": "Avenant  n°  45 du 20 juin  2017 relatif aux salaires minimaux au 1er juillet 2017",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000036599937",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000036599940",
               "num": "1er",
               "intOrdre": 524287,
@@ -1559,6 +1740,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036599941",
               "num": "2",
               "intOrdre": 1048574,
@@ -1566,6 +1748,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000036599942",
               "num": " 3",
               "intOrdre": 1572861,
@@ -1575,11 +1758,12 @@
           ]
         },
         {
-          "id": "KALITEXT000034184016",
+          "type": "section",
           "title": "Avenant n° 44 du 22 juin 2016",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000034184016",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000034184019",
               "num": "1er",
               "intOrdre": 524287,
@@ -1587,6 +1771,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000034184020",
               "num": "2",
               "intOrdre": 1048574,
@@ -1594,6 +1779,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000034184021",
               "num": "3",
               "intOrdre": 1572861,
@@ -1603,11 +1789,12 @@
           ]
         },
         {
-          "id": "KALITEXT000032311303",
+          "type": "section",
           "title": "Avenant n° 43 du 16 juillet 2015 relatif aux salaires minimaux au 1er juillet 2015",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000032311303",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000032311306",
               "num": "1er",
               "intOrdre": 524287,
@@ -1615,6 +1802,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032311307",
               "num": "2",
               "intOrdre": 1048574,
@@ -1622,6 +1810,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000032311308",
               "num": "3",
               "intOrdre": 1572861,
@@ -1631,11 +1820,12 @@
           ]
         },
         {
-          "id": "KALITEXT000030429668",
+          "type": "section",
           "title": "Avenant n° 42 du 23 juin 2014 relatif aux salaires minimaux au 1er juillet 2014",
-          "dateParution": 1427932800000,
-          "articles": [
+          "id": "KALITEXT000030429668",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000030429671",
               "num": "1er",
               "intOrdre": 524287,
@@ -1643,6 +1833,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000030429672",
               "num": "2",
               "intOrdre": 1048574,
@@ -1650,6 +1841,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000030429673",
               "num": "3",
               "intOrdre": 1572861,
@@ -1659,11 +1851,12 @@
           ]
         },
         {
-          "id": "KALITEXT000028465950",
+          "type": "section",
           "title": "Avenant n° 41 du 2 juillet 2013",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000028465950",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000028465953",
               "num": "1er",
               "intOrdre": 524287,
@@ -1671,6 +1864,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028465954",
               "num": "2",
               "intOrdre": 1048574,
@@ -1678,6 +1872,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000028465955",
               "num": "3",
               "intOrdre": 1572861,
@@ -1687,11 +1882,12 @@
           ]
         },
         {
-          "id": "KALITEXT000027731934",
+          "type": "section",
           "title": "Avenant n° 40 du 9 octobre 2012 relatif aux salaires minimaux au 1er juillet 2012",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000027731934",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000027731937",
               "num": "1er",
               "intOrdre": 524287,
@@ -1699,6 +1895,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027731938",
               "num": "2",
               "intOrdre": 1048574,
@@ -1706,6 +1903,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000027731939",
               "num": "3",
               "intOrdre": 1572861,
@@ -1715,11 +1913,12 @@
           ]
         },
         {
-          "id": "KALITEXT000025774128",
+          "type": "section",
           "title": "Avenant n° 39 du 30 juin 2011 relatif aux salaires au 1er juillet 2011",
-          "dateParution": 1335916800000,
-          "articles": [
+          "id": "KALITEXT000025774128",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000025774131",
               "num": "1er",
               "intOrdre": 524287,
@@ -1727,6 +1926,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000025774132",
               "num": "2",
               "intOrdre": 1048574,
@@ -1734,6 +1934,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000025774133",
               "num": "3",
               "intOrdre": 1572861,
@@ -1743,11 +1944,12 @@
           ]
         },
         {
-          "id": "KALITEXT000023561643",
+          "type": "section",
           "title": "Avenant n° 38 du 2 juillet 2010",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000023561643",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000023621656",
               "num": "1er",
               "intOrdre": 524287,
@@ -1755,6 +1957,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023621660",
               "num": "2",
               "intOrdre": 1048574,
@@ -1762,6 +1965,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000023561648",
               "num": "3",
               "intOrdre": 1572861,
@@ -1771,11 +1975,12 @@
           ]
         },
         {
-          "id": "KALITEXT000022070890",
+          "type": "section",
           "title": "Avenant n° 37 du 21 juillet 2009",
-          "dateParution": 1270598400000,
-          "articles": [
+          "id": "KALITEXT000022070890",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000022070892",
               "num": "1",
               "intOrdre": 524287,
@@ -1783,6 +1988,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000022070893",
               "num": "2",
               "intOrdre": 1048574,
@@ -1790,6 +1996,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000022070894",
               "num": "3",
               "intOrdre": 1572861,
@@ -1799,11 +2006,12 @@
           ]
         },
         {
-          "id": "KALITEXT000019747388",
+          "type": "section",
           "title": "Avenant n° 35 du 17 juillet 2008 relatif aux salaires",
-          "dateParution": 32472144000000,
-          "articles": [
+          "id": "KALITEXT000019747388",
+          "children": [
             {
+              "type": "article",
               "id": "KALIARTI000019747390",
               "num": "1",
               "intOrdre": 524287,
@@ -1811,6 +2019,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019747391",
               "num": "2",
               "intOrdre": 1048574,
@@ -1818,6 +2027,7 @@
               "etat": "VIGUEUR_ETEN"
             },
             {
+              "type": "article",
               "id": "KALIARTI000019747392",
               "num": "3",
               "intOrdre": 1572861,
