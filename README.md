@@ -2,6 +2,8 @@
 
 Internal usage only. extracted with [dila-api-client](https://github.com/SocialGouv/dila-api-client).
 
+Data files are structured with an [univeral syntax-tree](https://github.com/syntax-tree/unist) structure.
+
 ## Usage
 
 use [dila-api-client](https://github.com/SocialGouv/dila-api-client/) under-the-hood. Set environment variables accordingly.
