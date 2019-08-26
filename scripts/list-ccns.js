@@ -21,7 +21,7 @@ const cleanDate = dte =>
 conventions.forEach(convention => {
   console.log(
     `${clean(convention.id)} | ${clean(convention.num)} | ${clean(
-      convention.titre
+      convention.title
     )} | ${cleanDate(convention.date_publi)}`
   );
 });
