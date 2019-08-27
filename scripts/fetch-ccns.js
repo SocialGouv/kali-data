@@ -45,6 +45,7 @@ pMap(
   conventions,
   convention => {
     const filePath = `./data/${convention.id}.json`;
+    //if (!fs.existsSync(filePath)) {
     console.log(`fetch ${convention.id}`);
     return fetchCCN(convention.id)
       .then(data => {
@@ -52,6 +53,7 @@ pMap(
         console.log(`wrote ${filePath}`);
       })
       .catch(console.error);
+    //}
   },
   { concurrency: 2 }
 )
