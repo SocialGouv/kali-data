@@ -1,0 +1,111 @@
+{
+  "etat": "VIGUEUR",
+  "id": "1",
+  "intOrdre": 1,
+  "title": "title",
+  "num": "0292",
+  "shortTitle": "shortTitle",
+  "categorisation": ["categorie"],
+  "sections": [
+    {
+      "etat": "VIGUEUR",
+      "id": "KALISCTA2",
+      "intOrdre": 2222,
+      "title": "title2",
+      "sections": [
+        {
+          "etat": "VIGUEUR",
+          "id": "KALISCTA21",
+          "intOrdre": 21,
+          "title": "title2-1",
+          "articles": [
+            {
+              "id": "211",
+              "cid": "211"
+            },
+            {
+              "id": "212",
+              "cid": "212"
+            },
+            {
+              "id": "213",
+              "cid": "213"
+            }
+          ],
+          "sections": [
+            {
+              "etat": "VIGUEUR",
+              "id": "KALISCTA211",
+              "intOrdre": 211,
+              "title": "title2",
+              "articles": [
+                {
+                  "id": "2111",
+                  "cid": "2111",
+                  "intOrdre": 555
+                },
+                {
+                  "id": "2112",
+                  "cid": "2112",
+                  "intOrdre": 55
+                },
+                {
+                  "id": "2113",
+                  "cid": "2113",
+                  "intOrdre": 7
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etat": "VIGUEUR",
+      "id": "KALISCTA3",
+      "intOrdre": 1111,
+      "title": "title3",
+      "articles": [
+        {
+          "id": "3",
+
+          "cid": "31"
+        }
+      ],
+      "sections": [
+        {
+          "etat": "VIGUEUR",
+          "id": "KALISCTA31",
+          "intOrdre": 31,
+          "title": "title3",
+          "sections": [
+            {
+              "etat": "VIGUEUR",
+              "id": "KALISCTA311",
+              "intOrdre": 311,
+              "title": "title311",
+              "articles": [
+                {
+                  "id": "311",
+                  "cid": "311"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "etat": "VIGUEUR",
+          "id": "KALISCTA32",
+          "intOrdre": 32,
+          "title": "title32",
+          "articles": [
+            {
+              "id": "321",
+              "cid": "321"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

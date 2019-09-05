@@ -1,0 +1,159 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`filterData should sort and filter sample convention 1`] = `
+Object {
+  "categorisation": Array [
+    "categorie",
+  ],
+  "content": undefined,
+  "etat": "VIGUEUR",
+  "id": "1",
+  "intOrdre": 1,
+  "num": "0292",
+  "sections": Array [
+    Object {
+      "articles": Array [
+        Object {
+          "content": undefined,
+          "id": "3",
+          "intOrdre": undefined,
+          "num": undefined,
+          "title": undefined,
+        },
+      ],
+      "content": undefined,
+      "etat": "VIGUEUR",
+      "id": "KALISCTA3",
+      "intOrdre": 1111,
+      "num": undefined,
+      "sections": Array [
+        Object {
+          "content": undefined,
+          "etat": "VIGUEUR",
+          "id": "KALISCTA31",
+          "intOrdre": 31,
+          "num": undefined,
+          "sections": Array [
+            Object {
+              "articles": Array [
+                Object {
+                  "content": undefined,
+                  "id": "311",
+                  "intOrdre": undefined,
+                  "num": undefined,
+                  "title": undefined,
+                },
+              ],
+              "content": undefined,
+              "etat": "VIGUEUR",
+              "id": "KALISCTA311",
+              "intOrdre": 311,
+              "num": undefined,
+              "title": "title311",
+            },
+          ],
+          "title": "title3",
+        },
+        Object {
+          "articles": Array [
+            Object {
+              "content": undefined,
+              "id": "321",
+              "intOrdre": undefined,
+              "num": undefined,
+              "title": undefined,
+            },
+          ],
+          "content": undefined,
+          "etat": "VIGUEUR",
+          "id": "KALISCTA32",
+          "intOrdre": 32,
+          "num": undefined,
+          "title": "title32",
+        },
+      ],
+      "title": "title3",
+    },
+    Object {
+      "content": undefined,
+      "etat": "VIGUEUR",
+      "id": "KALISCTA2",
+      "intOrdre": 2222,
+      "num": undefined,
+      "sections": Array [
+        Object {
+          "articles": Array [
+            Object {
+              "content": undefined,
+              "id": "211",
+              "intOrdre": undefined,
+              "num": undefined,
+              "title": undefined,
+            },
+            Object {
+              "content": undefined,
+              "id": "212",
+              "intOrdre": undefined,
+              "num": undefined,
+              "title": undefined,
+            },
+            Object {
+              "content": undefined,
+              "id": "213",
+              "intOrdre": undefined,
+              "num": undefined,
+              "title": undefined,
+            },
+          ],
+          "content": undefined,
+          "etat": "VIGUEUR",
+          "id": "KALISCTA21",
+          "intOrdre": 21,
+          "num": undefined,
+          "sections": Array [
+            Object {
+              "articles": Array [
+                Object {
+                  "content": undefined,
+                  "id": "2113",
+                  "intOrdre": 7,
+                  "num": undefined,
+                  "title": undefined,
+                },
+                Object {
+                  "content": undefined,
+                  "id": "2112",
+                  "intOrdre": 55,
+                  "num": undefined,
+                  "title": undefined,
+                },
+                Object {
+                  "content": undefined,
+                  "id": "2111",
+                  "intOrdre": 555,
+                  "num": undefined,
+                  "title": undefined,
+                },
+              ],
+              "content": undefined,
+              "etat": "VIGUEUR",
+              "id": "KALISCTA211",
+              "intOrdre": 211,
+              "num": undefined,
+              "title": "title2",
+            },
+          ],
+          "title": "title2-1",
+        },
+      ],
+      "title": "title2",
+    },
+  ],
+  "shortTitle": "shortTitle",
+  "title": "title",
+}
+`;
+
+exports[`isValidArticleFilterFilter isValidArticleFilterFilter should return false if its an old version of the article 1`] = `false`;
+
+exports[`isValidArticleFilterFilter isValidArticleFilterFilter should return true if its the newer version of the article 1`] = `true`;
