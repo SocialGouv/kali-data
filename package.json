@@ -19,9 +19,10 @@
   },
   "devDependencies": {
     "@socialgouv/eslint-config-recommended": "^0.7.2",
-    "esm": "^3.2.25",
     "eslint": "^5.13.0",
+    "esm": "^3.2.25",
     "husky": "^3.0.2",
+    "jest-cli": "^24.9.0",
     "prettier": "^1.16.4"
   },
   "engines": {
