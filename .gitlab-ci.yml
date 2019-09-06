@@ -1,0 +1,27 @@
+---
+stages:
+  - "Code Quality"
+  - "Data update"
+
+.node_stage: &node_stage
+  image: node:12-alpine
+  before_script:
+    - yarn --frozen-lockfile
+
+Quality tests:
+  <<: *node_stage
+  stage: "Code Quality"
+  cache:
+    key: ${CI_COMMIT_REF_SLUG}
+    paths:
+      - node_modules/
+  script:
+    - yarn lint
+    - yarn test
+
+Data fetch:
+  <<: *node_stage
+  when: manual
+  stage: "Data update"
+  script:
+    - yarn fetch
