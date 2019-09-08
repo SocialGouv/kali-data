@@ -2,43 +2,20 @@ import fs from "fs";
 import pMap from "p-map";
 
 import { getCCNContainer } from "./fetch-steps/get-ccn-container";
-import { filterData } from "./fetch-steps/filter-data";
 import { embedCCNTexts } from "./fetch-steps/embed-ccn-texts";
+
+import { filterData } from "../src/filterData";
+import astify from "../src/astify";
 
 // fetch all conventions from index.json
 import conventions from "../data/index.json";
 
-// convert to syntax-tree format : flatten articles|sections in children
-const astify = (node, depth = 0) => ({
-  type: "section",
-  data: {
-    intOrdre: node.intOrdre,
-    title: node.title,
-    id: node.id,
-    etat: node.etat,
-    ...(depth === 0 && {
-      num: node.num,
-      shortTitle: node.shortTitle
-    })
-  },
-  children: [
-    ...((node.sections && node.sections.map(node => astify(node, depth + 1))) ||
-      []),
-    ...((node.articles &&
-      node.articles.map(article => ({
-        type: "article",
-        data: article
-      }))) ||
-      [])
-  ]
-});
-
 const fetchCCN = id =>
   getCCNContainer(id)
     .then(filterData) // first pass to reduce the number of text calls
-    .then(embedCCNTexts)
+    .then(embedCCNTexts) // add textes attaches & salaires
     .then(filterData) // second and final pass to trim and order additional texts
-    .then(astify);
+    .then(astify); // convert to AST format
 
 //for each convention, fetch convention conteneur, populate conteneur texts, and ouput to JSON file.
 pMap(

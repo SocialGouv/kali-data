@@ -1,0 +1,163 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should convert structure to AST tree 1`] = `
+Object {
+  "children": Array [
+    Object {
+      "children": Array [
+        Object {
+          "children": Array [
+            Object {
+              "children": Array [
+                Object {
+                  "data": Object {
+                    "cid": "2111",
+                    "id": "2111",
+                    "intOrdre": 555,
+                  },
+                  "type": "article",
+                },
+                Object {
+                  "data": Object {
+                    "cid": "2112",
+                    "id": "2112",
+                    "intOrdre": 55,
+                  },
+                  "type": "article",
+                },
+                Object {
+                  "data": Object {
+                    "cid": "2113",
+                    "id": "2113",
+                    "intOrdre": 7,
+                  },
+                  "type": "article",
+                },
+              ],
+              "data": Object {
+                "etat": "VIGUEUR",
+                "id": "KALISCTA211",
+                "intOrdre": 211,
+                "title": "title2",
+              },
+              "type": "section",
+            },
+            Object {
+              "data": Object {
+                "cid": "211",
+                "id": "211",
+              },
+              "type": "article",
+            },
+            Object {
+              "data": Object {
+                "cid": "212",
+                "id": "212",
+              },
+              "type": "article",
+            },
+            Object {
+              "data": Object {
+                "cid": "213",
+                "id": "213",
+              },
+              "type": "article",
+            },
+          ],
+          "data": Object {
+            "etat": "VIGUEUR",
+            "id": "KALISCTA21",
+            "intOrdre": 21,
+            "title": "title2-1",
+          },
+          "type": "section",
+        },
+      ],
+      "data": Object {
+        "etat": "VIGUEUR",
+        "id": "KALISCTA2",
+        "intOrdre": 2222,
+        "title": "title2",
+      },
+      "type": "section",
+    },
+    Object {
+      "children": Array [
+        Object {
+          "children": Array [
+            Object {
+              "children": Array [
+                Object {
+                  "data": Object {
+                    "cid": "311",
+                    "id": "311",
+                  },
+                  "type": "article",
+                },
+              ],
+              "data": Object {
+                "etat": "VIGUEUR",
+                "id": "KALISCTA311",
+                "intOrdre": 311,
+                "title": "title311",
+              },
+              "type": "section",
+            },
+          ],
+          "data": Object {
+            "etat": "VIGUEUR",
+            "id": "KALISCTA31",
+            "intOrdre": 31,
+            "title": "title3",
+          },
+          "type": "section",
+        },
+        Object {
+          "children": Array [
+            Object {
+              "data": Object {
+                "cid": "321",
+                "id": "321",
+              },
+              "type": "article",
+            },
+          ],
+          "data": Object {
+            "etat": "VIGUEUR",
+            "id": "KALISCTA32",
+            "intOrdre": 32,
+            "title": "title32",
+          },
+          "type": "section",
+        },
+        Object {
+          "data": Object {
+            "cid": "31",
+            "id": "3",
+          },
+          "type": "article",
+        },
+      ],
+      "data": Object {
+        "etat": "VIGUEUR",
+        "id": "KALISCTA3",
+        "intOrdre": 1111,
+        "title": "title3",
+      },
+      "type": "section",
+    },
+  ],
+  "data": Object {
+    "categorisation": Array [
+      "categorie",
+    ],
+    "etat": "VIGUEUR",
+    "id": "1",
+    "intOrdre": 1,
+    "num": "0292",
+    "shortTitle": "shortTitle",
+    "title": "title",
+  },
+  "type": "section",
+}
+`;
