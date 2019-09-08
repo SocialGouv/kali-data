@@ -1,5 +1,5 @@
 const {
-  isValidArticleFilter,
+  latestArticleVersionFilter,
   isValidSection,
   filterData
 } = require("../src/filterData");
@@ -21,10 +21,10 @@ const sampleArticles = [
   }
 ];
 
-describe("isValidArticleFilterFilter", () => {
-  test("isValidArticleFilterFilter should return false if its an old version of the article", () => {
+describe("latestArticleVersionFilter", () => {
+  test("latestArticleVersionFilter should return false if its an old version of the article", () => {
     expect(
-      isValidArticleFilter(
+      latestArticleVersionFilter(
         {
           id: "KALIARTI000001",
           cid: 1
@@ -35,9 +35,9 @@ describe("isValidArticleFilterFilter", () => {
     ).toMatchSnapshot();
   });
 
-  test("isValidArticleFilterFilter should return true if its the newer version of the article", () => {
+  test("latestArticleVersionFilter should return true if its the newer version of the article", () => {
     expect(
-      isValidArticleFilter(
+      latestArticleVersionFilter(
         {
           id: "KALIARTI000003",
           cid: 1
