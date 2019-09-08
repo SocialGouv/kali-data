@@ -154,6 +154,6 @@ Object {
 }
 `;
 
-exports[`isValidArticleFilterFilter isValidArticleFilterFilter should return false if its an old version of the article 1`] = `false`;
+exports[`latestArticleVersionFilter latestArticleVersionFilter should return false if its an old version of the article 1`] = `false`;
 
-exports[`isValidArticleFilterFilter isValidArticleFilterFilter should return true if its the newer version of the article 1`] = `true`;
+exports[`latestArticleVersionFilter latestArticleVersionFilter should return true if its the newer version of the article 1`] = `true`;
