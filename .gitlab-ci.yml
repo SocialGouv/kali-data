@@ -23,5 +23,8 @@ Data fetch:
   <<: *node_stage
   when: manual
   stage: "Data update"
+  variables:
+    OAUTH_CLIENT_ID: ${OAUTH_CLIENT_ID}
+    OAUTH_CLIENT_SECRET: ${OAUTH_CLIENT_SECRET}
   script:
     - yarn fetch
