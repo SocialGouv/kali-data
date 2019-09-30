@@ -24,5 +24,6 @@ Data fetch:
   when: manual
   stage: "Data update"
   script:
+    - env
     - yarn fetch
     - git status
