@@ -1,4 +1,5 @@
 import fs from "fs";
+import path from "path";
 import pMap from "p-map";
 
 import { getCCNContainer } from "./fetch-steps/get-ccn-container";
@@ -17,25 +18,32 @@ const fetchCCN = id =>
     .then(filterData) // second and final pass to trim and order additional texts
     .then(astify); // convert to AST format
 
+const strfy = data => JSON.stringify(data, null, 2);
+
 //for each convention, fetch convention conteneur, populate conteneur texts, and ouput to JSON file.
 pMap(
   conventions,
   convention => {
-    const filePath = `./data/${convention.id}.json`;
-    //if (!fs.existsSync(filePath)) {
+    const filePath = path.join(__dirname, `../data/${convention.id}.json`);
     console.log(`fetch ${convention.id}`);
     return fetchCCN(convention.id)
       .then(data => {
-        fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
-        console.log(`wrote ${filePath}`);
+        const exists = fs.existsSync(filePath);
+        const changed = strfy(exists && require(filePath)) !== strfy(data); // poor-man compare
+        if (changed) {
+          fs.writeFileSync(filePath, strfy(data));
+          console.log(`wrote ${filePath}`);
+        }
       })
       .catch(console.error);
-    //}
   },
-  { concurrency: 2 }
+  { concurrency: 3 }
 )
   .then(() => console.log("done !"))
-  .catch(console.log);
+  .catch(e => {
+    console.log(e);
+    throw e;
+  });
 
 // IDCC 1747 - Convention collective nationale des activités industrielles de boulangerie et pâtisserie du 13 juillet 1993.
 
