@@ -23,6 +23,8 @@ Data fetch:
   <<: *node_stage
   when: manual
   stage: "Data update"
+  before_script:
+    - apk update -y && apk add -y git
   script:
     - env
     - yarn fetch
