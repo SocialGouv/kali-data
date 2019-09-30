@@ -25,3 +25,4 @@ Data fetch:
   stage: "Data update"
   script:
     - yarn fetch
+    - git status
