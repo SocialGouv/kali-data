@@ -577,7 +577,7 @@
             "intOrdre": 1159623,
             "title": "Contrat de travail. - Période d'essai",
             "id": "KALISCTA000005723950",
-            "etat": "VIGUEUR_ETEN"
+            "etat": "REMPLACE"
           },
           "children": [
             {
@@ -587,7 +587,7 @@
                 "num": "26",
                 "intOrdre": 42949,
                 "content": "<p>La durée de la période d'essai des employés est de 2 mois.</p><p>Elle n'est pas renouvelable.</p>",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               }
             }
           ]
@@ -598,7 +598,7 @@
             "intOrdre": 1159623,
             "title": "Période d'essai des employés",
             "id": "KALISCTA000038260799",
-            "etat": "VIGUEUR_NON_ETEN"
+            "etat": "VIGUEUR_ETEN"
           },
           "children": [
             {
@@ -608,7 +608,7 @@
                 "num": "26",
                 "intOrdre": 42949,
                 "content": "<p>La durée de la période d'essai des employés est de 2 mois.</p><p>Elle n'est pas renouvelable.</p>",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               }
             }
           ]
@@ -1393,6 +1393,251 @@
         {
           "type": "section",
           "data": {
+            "title": "Accord du 6 mai 2019 relatif à l'emploi et à l'intégration des personnes en situation de handicap",
+            "id": "KALITEXT000039124735"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000039124738",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000039124743",
+                    "num": null,
+                    "intOrdre": 524287,
+                    "content": "<p align='left'><br/>Cet accord a pour objectif l'amélioration de l'emploi et de l'intégration des personnes en situation de handicap dans la branche grâce à la mise en œuvre d'actions et via des dispositions cadres destinées aux entreprises. Il prend en compte les nouvelles obligations prévues par la loi sur la liberté de choisir son avenir professionnel du 5 septembre 2018 n° 2018-771.<br/>Les parties signataires souhaitent rappeler l'importance de l'emploi, de l'intégration et du maintien dans l'emploi des personnes en situation de handicap dans la branche et également l'égalité de traitement en termes d'insertion, de salaire, de promotion et de formation.<br/>L'accord s'applique aux rapports entre employeurs et salariés, relevant de la convention collective des maisons à succursales de vente au détail d'habillement (IDCC n° 675) sur le territoire national, y compris les DROM-COM (départements et régions, et collectivités d'outre-mer).<br/>Ses dispositions prennent en compte les différents types d'entreprises de la branche, et notamment celles de moins de 50 salariés.</p>",
+                    "etat": "VIGUEUR_NON_ETEN"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 1048574,
+                "title": "Partie 1 Actions engagées au niveau de la branche",
+                "id": "KALISCTA000039124739",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000039124744",
+                    "num": null,
+                    "intOrdre": 524287,
+                    "content": "<p align='left'><br/>Les parties signataires s'engagent à la réalisation de plusieurs actions au niveau de la branche.</p>",
+                    "etat": "VIGUEUR_NON_ETEN"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000039124745",
+                    "num": "1er",
+                    "intOrdre": 1048574,
+                    "content": "<p align='left'><br/>Afin de répondre de manière précise et efficace aux besoins liés au handicap dans la branche, un diagnostic quantitatif et qualitatif est réalisé. Ce travail est confié à l'observatoire de branche.<br/>Son suivi est réalisé dans les conditions prévues dans la partie 3, article 1er, du présent accord.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "surtitre": "Diagnostic"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000039124746",
+                    "num": "2",
+                    "intOrdre": 1572861,
+                    "content": "<p align='left'><br/>Les partenaires sociaux s'engagent à différentes actions destinées aux entreprises et aux salariés de la branche :</p><p align='center'><br/>Réalisation d'un guide pratique d'ici le 31 décembre 2019</p><p align='left'><br/>Confié à l'observatoire de branche, ce guide rappelle les obligations juridiques liées au handicap à respecter. Il doit également, par un recueil de bonnes pratiques, faciliter la mise en place d'actions visant à améliorer l'intégration des salariés en situation de handicap.<br/>Il est notamment diffusé aux entreprises par voie électronique.</p><p align='center'><br/>Réalisation d'outils de communication destinés aux salariés</p><p align='left'><br/>Des outils de communication relatifs aux bonnes pratiques en matière de handicap sont mis à disposition des entreprises de la branche.<br/>Ils permettent de sensibiliser et d'informer le plus grand nombre de salariés sur ce sujet.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "surtitre": "Actions de sensibilisation"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000039124747",
+                    "num": "3",
+                    "intOrdre": 2097148,
+                    "content": "<p align='left'><br/>Les parties signataires confient à la CPNEFP la définition et les modalités de mise en œuvre des formations pour les personnes en situation de handicap. Les membres de la CPNEFP doivent veiller à la formation des personnes en situation de handicap, plus particulièrement dans les domaines nécessaires au maintien de leur employabilité.<br/>Dans le cadre de la révision des diplômes, des certifications et des titres, les représentants de la branche veillent à ce que les connaissances de base liées au handicap figurent dans le contenu pédagogique des formations ou des savoirs à acquérir (formations relatives à l'emploi et à l'accueil des personnes handicapées).<br/>Les parties signataires s'engagent à la formation de 1 000 personnes en situation de handicap en moyenne par an d'ici le 31 décembre 2021.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "surtitre": "Formation des personnes en situation de handicap"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000039124748",
+                    "num": "4",
+                    "intOrdre": 2621435,
+                    "content": "<p align='left'><br/>Le suivi de la politique handicap de la branche est réalisé dans les conditions prévues dans la partie 3, article 1er, du présent accord.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "surtitre": "Suivi paritaire annuel du handicap dans la branche"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 1572861,
+                "title": "Partie 2 Actions engagées au niveau des entreprises",
+                "id": "KALISCTA000039124740",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000039124749",
+                    "num": "1er",
+                    "intOrdre": 524287,
+                    "content": "<p align='left'><br/>Les entreprises dépourvues d'accord sur le handicap à la date de signature de celui-ci doivent, dans un délai de 8 mois suivant l'extension du présent accord, réaliser un diagnostic quantitatif et qualitatif préalable pour la mise en place de ce dernier.<br/>À la suite du diagnostic, les entreprises adapteront leur plan de recrutement en étudiant les mesures relatives notamment à : l'embauche, l'alternance et l'apprentissage, les stages, des mesures incitatives et des plans de sensibilisation…<br/>Cette disposition fera l'objet d'un suivi par la commission visée à la partie 3, article 1er, du présent accord.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "surtitre": "Diagnostic"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000039124750",
+                    "num": "2",
+                    "intOrdre": 1048574,
+                    "content": "<p align='left'><br/>Les parties signataires rappellent l'objectif d'emploi de 6 % de salariés handicapés dans les entreprises selon les modalités fixées par la <a href='/affichTexte.do?cidTexte=JORFTEXT000037367660&categorieLien=cid' title='LOI n°2018-771 du 5 septembre 2018 (V)'>loi n° 2018-771</a> sur la liberté de choisir son avenir professionnel du 5 septembre 2018.<br/>Les entreprises employant au moins 250 salariés doivent désigner, sur la base du volontariat, au minimum un référent handicap chargé d'orienter, d'informer et d'accompagner les personnes en situation de handicap.<br/>Le nombre de référents handicap peut varier suivant la taille et l'organisation géographique de l'entreprise.<br/>Une fois par an, l'employeur et le référent handicap s'entretiennent sur la mission de ce dernier. À cette occasion, sont notamment abordés et précisés les sujets suivants :<br/>– besoins de formations et d'informations ;<br/>– temps/crédit d'heures nécessaires au bon déroulement de la mission.<br/>Les référents handicap bénéficient d'une indemnité ou d'une prime de mission, qui est au minimum de 50 € bruts (1) par mois, dans la mesure où le salarié effectue cette mission « handicap » en plus de son poste habituel.<br/>Les enseignes peuvent, le cas échéant, adjoindre au référent handicap des salariés « relais » chargés de les accompagner dans leurs fonctions. Le référent et son ou ses relais déterminent ensemble le fonctionnement de leur collaboration.</p><font color='808080'><em><br/>(1) Le régime social et fiscal de l'indemnité ou de la prime dépend de la nature de ces dernières.</em></font>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "surtitre": "Obligations à respecter"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000039124752",
+                    "num": "3",
+                    "intOrdre": 1572861,
+                    "content": "<p align='center'><br/>À destination du management de proximité</p><p align='left'><br/>Compte tenu de l'éclatement géographique des magasins succursalistes, les parties signataires rappellent l'importance du rôle des personnes ayant une mission d'encadrement sur le terrain.<br/>Ces dernières doivent sensibiliser leurs équipes à la question du handicap.<br/>Elles peuvent notamment s'appuyer sur les supports réalisés par la branche.</p><p align='center'><br/>À destination des salariés</p><p align='left'><br/>Les entreprises doivent s'assurer que les salariés ont accès aux informations nécessaires relatives au handicap.<br/>La commission de suivi établit le bilan de ces actions de sensibilisation à destination du management de proximité et des salariés.</p><p align='center'><br/>Reconnaissance de la qualité de travailleur handicapé</p><p align='left'><br/>Les entreprises veillent à ce que leurs salariés disposent de l'accompagnement, du temps et de l'information nécessaires pour la réalisation des dossiers de reconnaissance en qualité de travailleur handicapé (RQTH) avec l'aide du référent handicap et/ou du sauveteur secouriste du travail ou encore de toute autre personne dédiée à cet accompagnement.</p><p align='center'><br/>Adaptation des locaux de travail</p><p align='left'><br/>La sécurité des salariés en situation de handicap est assurée de la même manière que pour tout autre salarié.<br/>Les entreprises aménagent les locaux de travail chaque fois que nécessaire, suivant les recommandations de la médecine du travail. Elles doivent lancer sans délai les processus d'adaptation des locaux.</p><p align='center'><br/>Aménagement des postes</p><p align='left'><br/>Pour le maintien dans l'emploi des personnes en situation de handicap, les entreprises doivent aménager les postes de travail et les conditions de travail, notamment les horaires de travail, suivant les recommandations de la médecine du travail et, le cas échéant, d'un(e) ergonome. Elles doivent lancer sans délai les processus d'aménagement des postes.</p><p align='center'><br/>Mise en œuvre des actions de sensibilisation</p><p align='left'><br/>Les actions de sensibilisation sont mises en œuvre dans les entreprises par les différentes instances et personnes suivantes :<br/>– le SSCT ou, à défaut, le CSE ;<br/>– les référents ou parrains ;<br/>– les RH ;<br/>– les médecins du travail.<br/>Les entreprises doivent veiller dans le cadre de la mise en œuvre de ces actions de sensibilisation, à assurer l'employabilité et l'égalité de traitement, concernant l'évolution de carrière, et rému­nération.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "surtitre": "Actions de sensibilisation et d'adaptation"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 2097148,
+                "title": "Partie 3 Dispositions finales et suivi",
+                "id": "KALISCTA000039124741",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000039124753",
+                    "num": "1er",
+                    "intOrdre": 524287,
+                    "content": "<p align='left'><br/>Une commission paritaire de suivi de cet accord est mise en place et se réunit au moins une fois par an.<br/>Chaque organisation syndicale de salariés représentative dans la branche désigne au maximum deux membres pour la représenter au sein de cette commission.<br/>Le collège employeur est composé d'un nombre égal de membres que le collège salarié.<br/>Elle bénéficie des études nécessaires réalisées par l'observatoire de branche, dont les indicateurs sont définis par les membres du comité paritaire de pilotage de l'observatoire.<br/>Elle s'appuie dans un premier temps sur le diagnostic mentionné en annexe pour réaliser son suivi et faire le bilan des indicateurs.<br/>Un bilan de la mise en œuvre de l'accord est effectué par cette commission de suivi après une période de 12 mois suivant son extension.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "surtitre": "Suivi de l'accord"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000039124754",
+                    "num": "2",
+                    "intOrdre": 1048574,
+                    "content": "<p align='left'><br/>Le présent accord est d'application directe.<br/>Il vise les entreprises qui ne sont pas déjà couvertes par un accord collectif ayant le même objet, à la date de signature de ce dernier.<br/>Tout nouvel accord collectif ayant le même objet ne pourra y déroger que par des dispositions plus favorables.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "surtitre": "Modalités d'application de l'accord"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000039124755",
+                    "num": "3",
+                    "intOrdre": 1572861,
+                    "content": "<p align='left'><br/>Ces dispositions sont applicables à l'issue du délai d'opposition avec effet à la date de dépôt du présent accord.<br/>Cet accord est conclu pour une durée de 3 ans renouvelable une fois.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "surtitre": "Date d'application et durée de validité"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000039124756",
+                    "num": "4",
+                    "intOrdre": 2097148,
+                    "content": "<p align='left'><br/>Le présent accord sera déposé en un exemplaire original et une copie sera envoyée sous forme ­électronique à la direction générale du travail.<br/>Un exemplaire sera également communiqué au greffe du conseil de prud'hommes de Paris.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "surtitre": "Publicité"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000039124757",
+                    "num": "5",
+                    "intOrdre": 2621435,
+                    "content": "<p align='left'><br/>Les parties signataires sont convenues de demander sans délai l'extension du présent accord, la fédération des enseignes de l'habillement étant chargée des formalités à accomplir à cette fin.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "surtitre": "Extension"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 2621435,
+                "title": "Annexe",
+                "id": "KALISCTA000039124742",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000039124758",
+                    "num": null,
+                    "intOrdre": 524287,
+                    "content": "<p><br/>Annexe</p><p><br/>Données clés du diagnostic de l'AGEFIPH sur l'emploi des personnes handicapées dans la branche (données de 2016 présentées en 2018) :<br/>– 381 établissements étaient assujettis à l'OETH ;<br/>– 49 % établissements assujettis sous accords agréés ;<br/>– taux global de l'OETH : 2,34 % ;<br/>– 28 % des établissements atteignaient le taux de 6 % par l'emploi direct et indirect (11 % avec accord et 17 % sans accord) ;<br/>– 16 % des établissements n'employaient aucune personne handicapée ;<br/>– 8 % des établissements étaient « sans action positive » (contribution uniquement) ;<br/>– plus de 3, 2 millions d'euros de contribution versés à l'AGEFIPH ;<br/>– 1 489 personnes handicapées ;<br/>– 69 % des salariés handicapés étaient des femmes ;<br/>– 28 % avaient 50 ans ou plus ;<br/>– 80 % des salariés handicapés étaient en CDI ;<br/>– 30 % des salariés handicapés avaient au moins 10 ans d'ancienneté.<br/>Annexes téléchargeables sur le site internet de l'organisation patronale en charge du secrétariat de branche (www.f-e-h.com) :<br/>– guide pratique relatif à l'emploi des personnes handicapées ;<br/>– plaquette relative à l'accueil de la clientèle handicapée dans les magasins ;<br/>– diagnostic sur l'emploi des personnes handicapées dans la branche des maisons à succursales de vente au détail de l'habillement (publication 2018 [données 2016]).</p>",
+                    "etat": "VIGUEUR_NON_ETEN"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "title": "Accord du 28 mars 2019 relatif à la à la création d'une section professionnelle paritaire (SPP)",
+            "id": "KALITEXT000039075890"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000039075893",
+                "num": null,
+                "intOrdre": 524287,
+                "content": "<p align='left'>Cet accord abroge l'avenant n° 1 du 31 janvier 2012 à l'<a href='/affichIDCC.do?cidTexte=KALITEXT000023950159&categorieLien=cid' title='Formation professionnelle (VE)'>accord du 27 décembre 2010</a> relatif à la formation professionnelle, dont les dispositions sont désormais obsolètes.</p><p align='center'>I. – Création d'une section professionnelle paritaire</p><p align='left'>Les partenaires sociaux des maisons à succursales de vente au détail d'habillement demandent au conseil d'administration de L'OPCOMMERCE, sous réserve de l'agrément de ce dernier, la création d'une section professionnelle paritaire (SPP).</p><p align='center'>a) Mission</p><p align='left'>Cette instance a pour mission de proposer au conseil d'administration de l'OPCO les priorités et les critères de financement des formations définis par la branche.</p><p align='center'>b) Composition et modalités de fonctionnement</p><p align='left'>La composition de la section professionnelle paritaire et celle de son bureau sont identiques à celles de la CPNEFP de la branche. Elle se réunit aux mêmes dates que cette dernière.</p><p align='left'>Les modalités de fonctionnement de la SPP sont identiques à celles de la CPNEFP.</p><p align='center'>c) Champ d'application</p><p align='left'>Cette section professionnelle paritaire couvre l'ensemble des entreprises entrant dans le champ de la convention collective des maisons à succursales de vente au détail d'habillement (brochure n° 3065, IDCC 675).</p><p align='center'>II. – Date d'application, publicité et extension</p><p align='left'>Les dispositions du présent accord sont applicables immédiatement à l'issue du délai d'opposition.</p><p align='left'>Conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-2 (V)'>article D. 2231-2 du code du travail</a>, le présent accord sera déposé en un exemplaire original et une copie sera envoyée sous forme électronique à la direction générale du travail.</p><p align='left'>Un exemplaire sera également communiqué au greffe du conseil de prud'hommes de Paris.</p><p align='left'>Les parties signataires sont convenues de demander sans délai l'extension du présent accord, la fédération des enseignes de l'habillement étant chargée des formalités à accomplir à cette fin.</p>",
+                "etat": "VIGUEUR_NON_ETEN"
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
             "title": "Accord du 15 juin 2018 relatif aux périodes d'essai",
             "id": "KALITEXT000038115882"
           },
@@ -1403,7 +1648,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000038115885",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -1413,7 +1658,7 @@
                     "num": null,
                     "intOrdre": 524287,
                     "content": "<p align='left'>Le présent accord actualise les durées des périodes d'essais des employés, des agents de maîtrise et des cadres relevant de la convention collective des maisons à succursales de vente au détail d'habillement (IDCC 675).</p><p align='left'>Il modifie les dispositions relatives aux durées de périodes d'essais des articles 26 des clauses générales, 4 de l'avenant « Maîtrise » et 4 de l'avenant « Cadres ».</p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN"
+                    "etat": "VIGUEUR_ETEN"
                   }
                 }
               ]
@@ -1425,7 +1670,7 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "content": "",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Durée des périodes d'essais"
               }
             },
@@ -1436,7 +1681,7 @@
                 "num": "1.1",
                 "intOrdre": 1572861,
                 "content": "<p align='left'>(Modifie le premier alinéa de l'article 26 des clauses générales relatif à la durée de la période d'essai)</p><p align='left'>La durée de la période d'essai des employés est de 2 mois.</p><p align='left'>Elle n'est pas renouvelable.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Période d'essai des employés"
               }
             },
@@ -1447,7 +1692,7 @@
                 "num": "1.2",
                 "intOrdre": 2097148,
                 "content": "<p align='left'>(Modifie les 4e et 5e alinéas de l'article 4 de l'avenant « Maîtrise » relatifs à la durée et à la prolongation de la période d'essai)</p><p align='left'>La durée de la période d'essai des agents de maîtrise est de 2 mois, renouvelable 1 fois, soit au maximum de 4 mois.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Période d'essai des agents de maîtrise"
               }
             },
@@ -1458,7 +1703,7 @@
                 "num": "1.3",
                 "intOrdre": 2621435,
                 "content": "<p align='left'>(Modifie le 3e alinéa de l'article 4 de l'avenant « Cadres » relatif à la durée et à la prolongation de la période d'essai)</p><p align='left'>La durée de la période d'essai des cadres est de 3 mois, renouvelable 1 fois, soit au maximum de 6 mois.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Période d'essai des Cadres"
               }
             },
@@ -1469,7 +1714,7 @@
                 "num": "2",
                 "intOrdre": 3145722,
                 "content": "<p align='left'><br/>(Modifie le 7e alinéa de l'article 4 de l'avenant « Maîtrise » et le 5e alinéa de l'article 4 de l'avenant « Cadres »)</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Délai de prévenance"
               }
             },
@@ -1480,7 +1725,7 @@
                 "num": "2.1",
                 "intOrdre": 3670009,
                 "content": "<p align='left'>L'employeur qui souhaite rompre la période d'essai doit en informer le salarié avant son départ et respecter les délais de prévenance prévus par la loi, à savoir :<br/>\n– 24 heures en deçà de 8 jours de présence ;<br/>\n– 48 heures entre 8 jours et 1 mois de présence ;<br/>\n– 2 semaines après 1 mois de présence ;<br/>\n– 1 mois après 3 mois de présence.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Rupture à l'initiative de l'employeur"
               }
             },
@@ -1491,7 +1736,7 @@
                 "num": "2.2",
                 "intOrdre": 4194296,
                 "content": "<p align='left'>Le salarié qui souhaite rompre sa période d'essai doit en informer son employeur et respecter les délais de prévenance prévus par la loi, à savoir :<br/>\n– 24 heures en deçà de 8 jours de présence ;<br/>\n– 48 heures au-delà de 8 jours de présence.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Rupture à l'initiative du salarié"
               }
             },
@@ -1501,8 +1746,8 @@
                 "id": "KALIARTI000038115893",
                 "num": "3",
                 "intOrdre": 4718583,
-                "content": "<p align='left'>Les dispositions du présent accord sont applicables à compter du 1er septembre 2018, pour tout contrat de travail signé à compter de cette date.</p><p align='left'>Cet accord fera l'objet d'une note d'information réalisée par le secrétariat de branche, à destination des salariés et des entreprises relevant de la convention collective des maisons à succursales de vente au détail d'habillement (IDCC 675), et plus particulièrement celles de moins de 50 salariés.</p><p align='left'>Le présent accord est conclu pour une durée indéterminée.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'><i>Les dispositions du présent accord sont applicables à compter du 1er septembre 2018, pour tout contrat de travail signé à compter de cette date.</i> <a shape='rect' href='#RENVOI_KALIARTI000038115893_1'> (1)</a></p><p align='left'>Cet accord fera l'objet d'une note d'information réalisée par le secrétariat de branche, à destination des salariés et des entreprises relevant de la convention collective des maisons à succursales de vente au détail d'habillement (IDCC 675), et plus particulièrement celles de moins de 50 salariés. </p><p align='left'>Le présent accord est conclu pour une durée indéterminée.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000038115893_1'></a>(1) Alinéa étendu sous réserve du respect des dispositions des articles L. 2261-15 et L. 2254-1 du code du travail.  <br/>(Arrêté du 24 juillet 2019 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Date d'application, mise en œuvre et durée de validité"
               }
             },
@@ -1513,7 +1758,7 @@
                 "num": "4",
                 "intOrdre": 5242870,
                 "content": "<p align='left'>Le présent accord sera déposé en 1 exemplaire original et une copie sera envoyée sous forme électronique à la direction générale du travail.</p><p align='left'>Un exemplaire sera également communiqué au greffe du conseil de prud'hommes de Paris.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Publicité"
               }
             },
@@ -1524,7 +1769,7 @@
                 "num": "5",
                 "intOrdre": 5767157,
                 "content": "<p align='left'><br/>Les parties signataires sont convenues de demander sans délai l'extension du présent accord, la fédération des enseignes de l'habillement étant chargée des formalités à accomplir à cette fin.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Extension"
               }
             }
@@ -2660,7 +2905,7 @@
                         "num": "4",
                         "intOrdre": 42949,
                         "content": "<p>Le contrat de travail, obligatoirement rédigé par écrit, peut contenir des clauses différentes de celles insérées dans la convention collective nationale et le présent avenant, sous réserve que ces dispositions ne soient, en aucun cas, moins favorables.</p><p>Le contrat de travail, établi en double exemplaire, doit, à l'entrée en fonctions, être signé par les parties avec la mention \"Lu et approuvé\" après un délai de réflexion maximum de 8 jours.</p><p>Le contrat précisera :</p><p>- la date d'entrée dans l'entreprise ;</p><p>- la fonction occupée ;</p><p>- la position hiérarchique correspondant à sa catégorie d'emploi figurant dans la classification en annexe ;</p><p>- la rémunération et ses modalités ;</p><p>- le ou les établissements où l'emploi sera exercé ;</p><p>- éventuellement toute clause particulière, et, notamment la possibilité de changement de lieu de travail ;</p><p>- la mention de la période d'essai visée au présent article.</p><p>La durée de la période d'essai des agents de maîtrise est de 2 mois, renouvelable 1 fois, soit au maximum de 4 mois.</p><p>La prolongation de la période d'essai doit obligatoirement faire l'objet d'une notification écrite.</p><p align='center'>Rupture à l'initiative de l'employeur</p><p>L'employeur qui souhaite rompre la période d'essai doit en informer le salarié avant son départ et respecter les délais de prévenance prévus par la loi, à savoir :<br/>\n– 24 heures en deçà de 8 jours de présence ;<br/>\n– 48 heures entre 8 jours et 1 mois de présence ;<br/>\n– 2 semaines après 1 mois de présence ;<br/>\n– 1 mois après 3 mois de présence.</p><p align='center'>Rupture à l'initiative du salarié</p><p>Le salarié qui souhaite rompre sa période d'essai doit en informer son employeur et respecter les délais de prévenance prévus par la loi, à savoir :<br/>\n– 24 heures en deçà de 8 jours de présence ;<br/>\n– 48 heures au-delà de 8 jours de présence.</p>",
-                        "etat": "VIGUEUR_NON_ETEN"
+                        "etat": "VIGUEUR_ETEN"
                       }
                     }
                   ]
@@ -3083,7 +3328,7 @@
                         "num": "4",
                         "intOrdre": 42949,
                         "content": "<p>Le contrat de travail du cadre, rédigé par écrit, peut contenir des clauses différentes de celles insérées dans la convention nationale et le présent avenant sous réserve que ses dispositions ne lui soient, en aucun cas, moins favorables.</p><p>Le contrat de travail, établi en double exemplaire, doit, à l'entrée en fonction du cadre, être signé par les parties, avec la mention \"Lu et approuvé\" après un délai maximum de réflexion de 15 jours. Le contrat précisera :</p><p>- la date d'entrée dans l'entreprise ;</p><p>- la fonction occupée ;</p><p>- la position hiérarchique correspondant à sa catégorie d'emploi dans la classification figurant en annexe I ;</p><p>- la rémunération et ses modalités ;</p><p>- le ou les établissements où l'emploi sera exercé ;</p><p>- éventuellement toute clause particulière, et notamment la possibilité du changement de lieu de travail ;</p><p>- la mention de la période d'essai visée au présent article.</p><p>La durée de la période d'essai des cadres est de 3 mois, renouvelable 1 fois, soit au maximum de 6 mois.</p><p>La prolongation de la période d'essai doit obligatoirement faire l'objet d'une notification écrite.</p><p align='center'>Rupture à l'initiative de l'employeur</p><p>L'employeur qui souhaite rompre la période d'essai doit en informer le salarié avant son départ et respecter les délais de prévenance prévus par la loi, à savoir :<br/>\n– 24 heures en deçà de 8 jours de présence ;<br/>\n– 48 heures entre 8 jours et 1 mois de présence ;<br/>\n– 2 semaines après 1 mois de présence ;<br/>\n– 1 mois après 3 mois de présence.</p><p align='center'>Rupture à l'initiative du salarié</p><p>Le salarié qui souhaite rompre sa période d'essai doit en informer son employeur et respecter les délais de prévenance prévus par la loi, à savoir :<br/>\n– 24 heures en deçà de 8 jours de présence ;<br/>\n– 48 heures au-delà de 8 jours de présence.</p>",
-                        "etat": "VIGUEUR_NON_ETEN"
+                        "etat": "VIGUEUR_ETEN"
                       }
                     }
                   ]
