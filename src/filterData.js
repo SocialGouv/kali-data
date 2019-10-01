@@ -11,10 +11,11 @@ const sortByIntOrdre = (a, b) => {
 const numify = id => parseInt(id.replace(/^KALIARTI/, ""));
 
 const isValidSection = node => node.etat !== "ABROGE" && node.etat !== "PERIME";
+
 // the API returns all the version of a given article. we pick the latest one
-const isValidArticle = (currentArticle, index, articles) => {
+const latestArticleVersionFilter = (currentArticle, index, articles) => {
   const maxVersion = Math.max(
-    ...articles
+    ...((articles && articles) || [])
       .filter(
         article =>
           article.cid === currentArticle.cid && article.id !== currentArticle.id
@@ -26,7 +27,7 @@ const isValidArticle = (currentArticle, index, articles) => {
 };
 
 // beware, this one is recursive for sections / articles !
-export const filterData = node => ({
+const filterData = node => ({
   id: node.id,
   num: node.num,
   intOrdre: node.intOrdre,
@@ -44,7 +45,7 @@ export const filterData = node => ({
   ...(node.articles &&
     node.articles.length && {
       articles: node.articles
-        .filter(isValidArticle)
+        .filter(latestArticleVersionFilter)
         .map(filterData)
         .sort(sortByIntOrdre)
     }),
@@ -56,3 +57,9 @@ export const filterData = node => ({
         .sort(sortByIntOrdre)
     })
 });
+
+module.exports = {
+  filterData,
+  latestArticleVersionFilter,
+  isValidSection
+};
