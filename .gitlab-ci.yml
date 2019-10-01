@@ -37,7 +37,7 @@ Data fetch:
         # Check JSON files
         for filename in ./data/*\.json; do
           echo $filename
-          python -mjson.tool "$filename" > /dev/null || {
+          node "$filename" > /dev/null || {
             echo "Invalid JSON in $filename"
             exit 1
           }
