@@ -32,7 +32,7 @@ Data fetch:
   script:
     - yarn fetch
     - |
-      if [[ -n $(git status -s data) ]]; then
+      if [[ -n "$(git status -s ./data)" ]]; then
         echo "Files changed, checking JSON validity"
         # Check JSON files
         for filename in ./data/*\.json; do
