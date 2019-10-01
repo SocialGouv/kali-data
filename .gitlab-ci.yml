@@ -24,7 +24,7 @@ Data fetch:
   when: manual
   stage: "Data update"
   before_script:
-    - apk update -y && apk add -y git
+    - apk update -y && apk add git npm
     - git config user.name "Social Groovy Bot"
     - git config user.email "45039513+SocialGroovyBot@users.noreply.github.com"
     - git remote set-url origin https://${GITHUB_TOKEN}@github.com/${CI_PROJECT_PATH}.git
@@ -48,7 +48,9 @@ Data fetch:
         git add data
         git commit -m "updates $NOW"
         npm version patch
+        echo "Push to GIT"
         git push
+        echo "Push to NPM"
         npm publish --access=public
       else
         echo "Nothing changed"
