@@ -47,7 +47,9 @@ Data fetch:
         NOW=$(date +"%Y%m%d_%H%M")
         git add data
         git commit -m "updates $NOW"
+        npm version patch
         git push
+        npm publish --access=public
       else
         echo "Nothing changed"
       fi
