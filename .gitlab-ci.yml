@@ -49,7 +49,7 @@ Data fetch:
         git commit -m "updates $NOW"
         npm version patch
         echo "Push to GIT"
-        git push
+        git push origin HEAD:test1
         echo "Push to NPM"
         npm publish --access=public
       else
