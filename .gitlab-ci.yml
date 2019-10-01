@@ -36,7 +36,6 @@ Data fetch:
         echo "Files changed, checking JSON validity"
         # Check JSON files
         for filename in ./data/*\.json; do
-          echo $filename
           node "$filename" > /dev/null || {
             echo "Invalid JSON in $filename"
             exit 1
@@ -49,7 +48,7 @@ Data fetch:
         git commit -m "updates $NOW"
         npm version patch
         echo "Push to GIT"
-        git push origin HEAD:test1
+        git push origin HEAD:master
         echo "Push to NPM"
         npm publish --access=public
       else
