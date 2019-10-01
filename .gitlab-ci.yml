@@ -25,7 +25,29 @@ Data fetch:
   stage: "Data update"
   before_script:
     - apk update -y && apk add -y git
+    - git config user.name "Social Groovy Bot"
+    - git config user.email "45039513+SocialGroovyBot@users.noreply.github.com"
+    - git remote set-url origin https://${GITHUB_TOKEN}@github.com/${CI_PROJECT_PATH}.git
   script:
-    - env
     - yarn fetch
-    - git status
+    - |
+      set -e
+      if [[ -n $(git status -s data) ]]; then
+        echo "Files changed, checking JSON validity"
+        # Check JSON files
+        for filename in ./data/*\.json; do
+          echo $filename
+          python -mjson.tool "$filename" > /dev/null || {
+            echo "Invalid JSON in $filename"
+            exit 1
+          }
+        done
+        echo "Commit files"
+        # Commit files
+        NOW=$(date +"%Y%m%d_%H%M")
+        git add data
+        git commit -m "updates $NOW"
+        git push
+      else
+        echo "Nothing changed"
+      fi
