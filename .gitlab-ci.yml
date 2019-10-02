@@ -62,6 +62,6 @@ Master data fetch:
 Scheduled data fetch:
   <<: *node_stage
   <<: *publish_stage
-  when:
-    - scheduled
+  only:
+    - schedules
   stage: "Data update"
