@@ -8,22 +8,7 @@ stages:
   before_script:
     - yarn --frozen-lockfile
 
-Quality tests:
-  <<: *node_stage
-  stage: "Code Quality"
-  cache:
-    key: ${CI_COMMIT_REF_SLUG}
-    paths:
-      - node_modules/
-  script:
-    - yarn lint
-    - yarn test
-
-Data fetch:
-  <<: *node_stage
-  only:
-    - master
-  stage: "Data update"
+.publish_stage: &publish_stage
   before_script:
     - yarn --frozen-lockfile
     - apk update && apk add git
@@ -55,3 +40,28 @@ Data fetch:
       else
         echo "Nothing changed"
       fi
+
+Quality tests:
+  <<: *node_stage
+  stage: "Code Quality"
+  cache:
+    key: ${CI_COMMIT_REF_SLUG}
+    paths:
+      - node_modules/
+  script:
+    - yarn lint
+    - yarn test
+
+Master data fetch:
+  <<: *node_stage
+  <<: *publish_stage
+  only:
+    - master
+  stage: "Data update"
+
+Scheduled data fetch:
+  <<: *node_stage
+  <<: *publish_stage
+  when:
+    - scheduled
+  stage: "Data update"
