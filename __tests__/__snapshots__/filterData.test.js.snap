@@ -5,6 +5,7 @@ Object {
   "categorisation": Array [
     "categorie",
   ],
+  "cid": undefined,
   "content": undefined,
   "etat": "VIGUEUR",
   "id": "1",
@@ -14,6 +15,7 @@ Object {
     Object {
       "articles": Array [
         Object {
+          "cid": "31",
           "content": undefined,
           "id": "3",
           "intOrdre": undefined,
@@ -21,6 +23,7 @@ Object {
           "title": undefined,
         },
       ],
+      "cid": undefined,
       "content": undefined,
       "etat": "VIGUEUR",
       "id": "KALISCTA3",
@@ -28,6 +31,7 @@ Object {
       "num": undefined,
       "sections": Array [
         Object {
+          "cid": undefined,
           "content": undefined,
           "etat": "VIGUEUR",
           "id": "KALISCTA31",
@@ -37,6 +41,7 @@ Object {
             Object {
               "articles": Array [
                 Object {
+                  "cid": "311",
                   "content": undefined,
                   "id": "311",
                   "intOrdre": undefined,
@@ -44,6 +49,7 @@ Object {
                   "title": undefined,
                 },
               ],
+              "cid": undefined,
               "content": undefined,
               "etat": "VIGUEUR",
               "id": "KALISCTA311",
@@ -57,6 +63,7 @@ Object {
         Object {
           "articles": Array [
             Object {
+              "cid": "321",
               "content": undefined,
               "id": "321",
               "intOrdre": undefined,
@@ -64,6 +71,7 @@ Object {
               "title": undefined,
             },
           ],
+          "cid": undefined,
           "content": undefined,
           "etat": "VIGUEUR",
           "id": "KALISCTA32",
@@ -75,6 +83,7 @@ Object {
       "title": "title3",
     },
     Object {
+      "cid": undefined,
       "content": undefined,
       "etat": "VIGUEUR",
       "id": "KALISCTA2",
@@ -84,6 +93,7 @@ Object {
         Object {
           "articles": Array [
             Object {
+              "cid": "211",
               "content": undefined,
               "id": "211",
               "intOrdre": undefined,
@@ -91,6 +101,7 @@ Object {
               "title": undefined,
             },
             Object {
+              "cid": "212",
               "content": undefined,
               "id": "212",
               "intOrdre": undefined,
@@ -98,6 +109,7 @@ Object {
               "title": undefined,
             },
             Object {
+              "cid": "213",
               "content": undefined,
               "id": "213",
               "intOrdre": undefined,
@@ -105,6 +117,7 @@ Object {
               "title": undefined,
             },
           ],
+          "cid": undefined,
           "content": undefined,
           "etat": "VIGUEUR",
           "id": "KALISCTA21",
@@ -114,6 +127,7 @@ Object {
             Object {
               "articles": Array [
                 Object {
+                  "cid": "2113",
                   "content": undefined,
                   "id": "2113",
                   "intOrdre": 7,
@@ -121,6 +135,7 @@ Object {
                   "title": undefined,
                 },
                 Object {
+                  "cid": "2112",
                   "content": undefined,
                   "id": "2112",
                   "intOrdre": 55,
@@ -128,6 +143,7 @@ Object {
                   "title": undefined,
                 },
                 Object {
+                  "cid": "2111",
                   "content": undefined,
                   "id": "2111",
                   "intOrdre": 555,
@@ -135,6 +151,7 @@ Object {
                   "title": undefined,
                 },
               ],
+              "cid": undefined,
               "content": undefined,
               "etat": "VIGUEUR",
               "id": "KALISCTA211",

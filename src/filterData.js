@@ -14,6 +14,10 @@ const isValidSection = node => node.etat !== "ABROGE" && node.etat !== "PERIME";
 
 // the API returns all the version of a given article. we pick the latest one
 const latestArticleVersionFilter = (currentArticle, index, articles) => {
+  // dont filter out articles without cid
+  if (!currentArticle.cid) {
+    return true;
+  }
   const maxVersion = Math.max(
     ...((articles && articles) || [])
       .filter(
@@ -29,6 +33,7 @@ const latestArticleVersionFilter = (currentArticle, index, articles) => {
 // beware, this one is recursive for sections / articles !
 const filterData = node => ({
   id: node.id,
+  cid: node.cid,
   num: node.num,
   intOrdre: node.intOrdre,
   title: node.title,
