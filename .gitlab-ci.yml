@@ -47,7 +47,7 @@ Data fetch:
         # Commit files
         NOW=$(date +"%Y%m%d_%H%M")
         git add data
-        git commit -m "chore(data): %date% update"
+        git commit -m "chore(data): $NOW update"
         npm version patch
         echo "Push to GIT"
         git push origin HEAD:master
