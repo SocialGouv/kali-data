@@ -2374,22 +2374,9 @@
         {
           "type": "section",
           "data": {
-            "title": "Annexe IV - Enoncé des garanties du régime de prévoyance (Non-cadres et cadres) ",
             "id": "KALITEXT000005640322"
           },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "id": "KALIARTI000036798070",
-                "cid": "KALIARTI000005767037",
-                "num": null,
-                "intOrdre": 85898,
-                "content": "<p>(Tableau non reproduit, consultable en ligne sur le site www.journal-officiel.gouv.fr, rubrique BO Convention collective.)</p><p><a shape='rect' href='http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2018/0007/boc_20180007_0000_0012.pdf' target='_blank'> http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2018/0007/boc_20180007_0000_0012.pdf</a></p>",
-                "etat": "VIGUEUR_NON_ETEN"
-              }
-            }
-          ]
+          "children": []
         },
         {
           "type": "section",
@@ -2499,16 +2486,130 @@
         {
           "type": "section",
           "data": {
+            "title": "Annexe V - Cotisations du régime de prévoyance (Non-cadres et cadres)",
             "id": "KALITEXT000025983118"
           },
-          "children": []
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000036798121",
+                "cid": "KALIARTI000005767061",
+                "num": null,
+                "intOrdre": 85898,
+                "content": "<p>Cotisations du régime de prévoyance non-cadres et cadres (depuis le 1er janvier 2018)</p><center><table border='1'><tbody><tr><th>Garanties</th><th colspan='3'>TA</th><th colspan='3'>TB</th></tr><tr><td></td><td>Employeur</td><td>Salarié</td><td>Total</td><td>Employeur</td><td>Salarié</td><td>Total</td></tr><tr><td align='center'>Décès (Capitaux et rentes)</td><td align='center'>0,76 %</td><td>0,00 %</td><td>0,76 %</td><td align='center'>0,76 %</td><td>0,00 %</td><td>0,76 %</td></tr><tr><td align='center'>Incapacité</td><td align='center'>0,00 %</td><td>0,63 %</td><td>0,63 %</td><td align='center'>0,00 %</td><td>1,29 %</td><td>1,29 %</td></tr><tr><td align='center'>Invalidité</td><td align='center'>1,03 %</td><td>0,05 %</td><td>1,08 %</td><td align='center'>2,00 %</td><td>0,10 %</td><td>2,10 %</td></tr><tr><td align='center'>Total</td><td align='center'>1,79 %</td><td>0,68 %</td><td>2,47 %</td><td align='center'>2,76 %</td><td>1,39 %</td><td>4,15 %</td></tr></tbody></table></center>",
+                "etat": "VIGUEUR_NON_ETEN"
+              }
+            }
+          ]
         },
         {
           "type": "section",
           "data": {
+            "title": "Annexe 8 : Procédures et barèmes de remboursements des frais dans le cadre du dialogue social de la branche",
             "id": "KALITEXT000038608039"
           },
-          "children": []
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 42949,
+                "title": "Modalités",
+                "id": "KALISCTA000005690335",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000005767198",
+                    "cid": "KALIARTI000005767198",
+                    "num": "1er",
+                    "intOrdre": 42949,
+                    "content": "<p></p>   Le remboursement est nominatif.<p></p><p></p>",
+                    "etat": "VIGUEUR_ETEN"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 85898,
+                "title": "Montant",
+                "id": "KALISCTA000005690336",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000005767207",
+                    "cid": "KALIARTI000005767207",
+                    "num": "2",
+                    "intOrdre": 42949,
+                    "content": "<p>1. Transport</p><p>Train : trajet aller/retour sur la base du tarif SNCF 2<sup>e</sup> classe.</p><p>Ce mode de transport est la référence quel que soit le moyen de transport utilisé et les remboursements s'effectuent sur cette base, sauf accord particulier du trésorier de l'UGEM.</p><p>Le déplacement en voiture du domicile à la gare ou à l'aéroport est remboursé sur la base du barème fiscal.</p><p>A titre exceptionnel, peuvent être utilisés les moyens de transport suivants.</p><p>Avion : le remboursement du transport en avion peut intervenir après accord préalable du trésorier de l'UGEM lorsque le trajet aller ou retour est supérieur à 700 kilomètres.</p><p>Voiture : après accord préalable du trésorier de l'UGEM, les remboursements s'effectuent sur la base du barème fiscal.</p><p>Indemnités pour menus frais (métro, taxi ...) : remboursement dans la limite de 200 F.</p><p>2. Repas</p><p>Remboursement sur la base du montant réel dans la limite de 160 F.</p><p>3. Hébergement</p><p>Le remboursement intervient soit dans le cas où le représentant est obligé de venir à Paris la veille de la réunion compte tenu de l'horaire de cette dernière, soit dans le cas où la réunion dure plus d'une journée.</p><p>Limite pour une nuit à Paris (hôtel et petit déjeuner) : 500 F.</p>",
+                    "etat": "VIGUEUR_ETEN"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 128847,
+                "title": "Conditions",
+                "id": "KALISCTA000005690341",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000005767219",
+                    "cid": "KALIARTI000005767219",
+                    "num": "3",
+                    "intOrdre": 42949,
+                    "content": "<p>Les remboursements sont subordonnés à la fourniture des pièces justificatives, sauf dans la limite de 30 F pour les menus frais.</p>",
+                    "etat": "VIGUEUR_ETEN"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 171796,
+                "title": "Révision",
+                "id": "KALISCTA000005690351",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000036218068",
+                    "cid": "KALIARTI000005767230",
+                    "num": "4",
+                    "intOrdre": 42949,
+                    "content": "<p>Les montants des remboursements sont réexaminés chaque année en commission paritaire permanente de négociation et d'interprétation et un additif est apporté si nécessaire à la présente annexe.</p>",
+                    "etat": "VIGUEUR_ETEN"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000038608035",
+                "cid": "KALIARTI000038607995",
+                "num": null,
+                "intOrdre": 21474,
+                "content": "<p align='center'>Principe</p><p>La présente annexe a pour objet de fixer les modalités et les montants des remboursements effectués directement par l'ANEM auprès des salariés souverainement mandatés par leurs organisations syndicales représentatives au niveau de la branche.</p><p>Sont éligibles à ce remboursement, dans les conditions et limites fixées ci-après, les frais engagés pour participer à des travaux paritaires qui ne sont pas imputables sur la dotation de fonctionnement attribuée aux organisations syndicales en application de l'article 1.2 de l'accord de branche du 9 novembre 2018.</p><p align='center'>Montants</p><p>Sont remboursés, dans les limites fixées ci-dessous, les frais suivants :<br/>\n– indemnités de petits déplacements : ces frais correspondent aux trajets effectués en métro, train de banlieue, RER, taxi (etc.) et sont remboursés au réel dans la limite de 31 euros ;<br/>\n– indemnités pour grands déplacements (train grande ligne et avion) : ces frais correspondent aux trajets qui ne peuvent être effectués par un autre moyen que via un train grande ligne ou par avion et sont remboursés au réel :<br/>\n–– concernant le train, à hauteur du prix du billet sur la base du tarif de seconde classe ;<br/>\n–– concernant l'avion, à hauteur du prix du billet, dans la limite de 200 €. Si le coût du billet est supérieur à ce montant, le remboursement est conditionné à un accord préalable de l'ANEM ;<br/>\n– indemnités kilométriques : ces frais, liés à l'utilisation d'un véhicule personnel, sont remboursés selon le barème fiscal en vigueur ;<br/>\n– hébergement : ces frais sont remboursés dans la limite de 100 € par nuitée, petit déjeuner inclus ;<br/>\n– restauration : ces frais, correspondant à un déjeuner ou à un dîner, sont remboursés dans la limite de 28 € par repas.</p><p align='center'>Justificatifs</p><p>Ces remboursements sont subordonnés à la fourniture des pièces justificatives correspondantes (factures, tickets de caisse …)</p><p align='center'>Modalités de versement</p><p>L'ensemble de ces remboursements sont nominatifs, les versements étant effectués par l'ANEM sous la forme d'un virement ou d'un chèque.</p>",
+                "etat": "VIGUEUR_NON_ETEN"
+              }
+            }
+          ]
         }
       ]
     },
