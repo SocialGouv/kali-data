@@ -2616,18 +2616,25 @@
         {
           "type": "section",
           "data": {
-            "title": "Avenant n° 22 du 26 janvier 2017 relatif aux salaires minimaux au 1er février 2017",
             "id": "KALITEXT000035233115"
+          },
+          "children": []
+        },
+        {
+          "type": "section",
+          "data": {
+            "title": "Avenant n° 20 bis du 17 février 2015 relatif aux salaires minimaux au 1er février 2015",
+            "id": "KALITEXT000030786222"
           },
           "children": [
             {
               "type": "article",
               "data": {
-                "id": "KALIARTI000035233118",
-                "cid": "KALIARTI000035233118",
+                "id": "KALIARTI000030786225",
+                "cid": "KALIARTI000030786225",
                 "num": "1er",
                 "intOrdre": 524287,
-                "content": "<p align='left'>À compter du 1er février 2017, les salaires minimaux garantis sont les suivants :</p><p align='right'>(En euros.)</p><p align='left'></p><center><table border='1'><tbody><tr><th>Échelon</th><th>Salaire horaire</th></tr><tr><td align='center'>1</td><td align='center'>9,77</td></tr><tr><td align='center'>2</td><td align='center'>9,93</td></tr><tr><td align='center'>3</td><td align='center'>10,20</td></tr><tr><td align='center'>4</td><td align='center'>10,48</td></tr><tr><td align='center'>5</td><td align='center'>11,65</td></tr><tr><td align='center'>6</td><td align='center'>15,31</td></tr></tbody></table></center><p></p>",
+                "content": "<p align='left'><br/>A compter du 1er février 2015, les salaires minimaux garantis sont les suivants :</p><p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Echelon</th><th>Salaire horaire</th></tr><tr><td align='center'>1<br/>2<br/>3<br/>4<br/>5<br/>6</td><td align='center'>9,62<br/>9,75<br/>10,00<br/>10,28<br/>11,44<br/>15,05</td></tr></table></center></div></p>",
                 "etat": "VIGUEUR_ETEN",
                 "surtitre": "Salaires"
               }
@@ -2635,8 +2642,8 @@
             {
               "type": "article",
               "data": {
-                "id": "KALIARTI000035233120",
-                "cid": "KALIARTI000035233120",
+                "id": "KALIARTI000030786226",
+                "cid": "KALIARTI000030786226",
                 "num": "2",
                 "intOrdre": 1048574,
                 "content": "<p align='left'><br/>Les parties signataires demandent l'extension du présent avenant.</p>",
@@ -2647,11 +2654,11 @@
             {
               "type": "article",
               "data": {
-                "id": "KALIARTI000035233121",
-                "cid": "KALIARTI000035233121",
+                "id": "KALIARTI000030786227",
+                "cid": "KALIARTI000030786227",
                 "num": "3",
                 "intOrdre": 1572861,
-                "content": "<p align='left'><br/>Le présent avenant prendra effet au 1er février 2017.</p>",
+                "content": "<p align='left'><br/>Le présent avenant prendra effet au 1er février 2015.</p>",
                 "etat": "VIGUEUR_ETEN",
                 "surtitre": "Entrée en vigueur"
               }
@@ -2661,16 +2668,47 @@
         {
           "type": "section",
           "data": {
-            "id": "KALITEXT000030786222"
-          },
-          "children": []
-        },
-        {
-          "type": "section",
-          "data": {
+            "title": "Avenant n° 19 du 15 janvier 2014 relatif aux salaires minimaux au 1er février 2014",
             "id": "KALITEXT000029358803"
           },
-          "children": []
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000029358806",
+                "cid": "KALIARTI000029358806",
+                "num": "1er",
+                "intOrdre": 524287,
+                "content": "<p align='left'> \t\t\t\t\t\tA compter du 1er février 2014, les salaires minimaux garantis sont les suivants :<br/></p><p align='right'> \t\t\t\t\t\t(En euros.)<br/></p><p align='left'></p><div align='center'><center><table border='1'><tbody><tr><th>Echelon</th><th>Salaire horaire<br/>minimum conventionnel</th></tr><tr><td align='center'>1</td><td align='center'>9,54</td></tr><tr><td align='center'>2</td><td align='center'>9,65</td></tr><tr><td align='center'>3</td><td align='center'>9,90</td></tr><tr><td align='center'>4</td><td align='center'>10,21</td></tr><tr><td align='center'>5</td><td align='center'>11,36</td></tr><tr><td align='center'>6</td><td align='center'>14,94</td></tr></tbody></table></center></div><p></p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Salaires"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000029358807",
+                "cid": "KALIARTI000029358807",
+                "num": "2",
+                "intOrdre": 1048574,
+                "content": "<p align='left'><br/>Les parties signataires demandent l'extension du présent avenant.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Extension"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000029358808",
+                "cid": "KALIARTI000029358808",
+                "num": "3",
+                "intOrdre": 1572861,
+                "content": "<p align='left'><br/>Le présent avenant entrera en vigueur avec effet au 1er février 2014.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Entrée en vigueur"
+              }
+            }
+          ]
         },
         {
           "type": "section",
@@ -2738,22 +2776,9 @@
         {
           "type": "section",
           "data": {
-            "title": "Avenant n° 7 du 8 juillet 2004 relatif au salaire ",
             "id": "KALITEXT000005672297"
           },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "id": "KALIARTI000005833345",
-                "cid": "KALIARTI000005833345",
-                "num": null,
-                "intOrdre": 42949,
-                "content": "Article 1er<p></p><p></p>   A compter du 1er juillet 2004 les salaires minima garantis sont les suivants :<p></p><TABLE><TR><TD>ECHELON</TD><TD>SALAIRE HORAIRE MINIMUM</TD></TR><TR><TD></TD><TD>     conventionnel     </TD></TR><TR><TD></TD><TD>   exprimé en euros    </TD></TR><TR><TD> 1     </TD><TD>         7,61          </TD></TR><TR><TD> 2     </TD><TD>         7,87          </TD></TR><TR><TD> 3     </TD><TD>         8,23          </TD></TR><TR><TD> 4     </TD><TD>         8,57          </TD></TR><TR><TD> 5     </TD><TD>         9,59          </TD></TR><TR><TD> 6     </TD><TD>        12,66          </TD></TR></TABLE><p></p> Article 2 Aménagement du temps de travail du personnel sous contrat à durée déterminée<p></p>   Voir l'arucle 78 des Dispositions générales de la convention collective. Article 3 Extension<p></p>   Les parties signataires demandent l'extension du présent avenant. Article 4 Entrée en vigueur<p></p>   La présent avenant entrera en vigueur dès lors que son arrêté d'extension aura été publié au Journal officiel de la République française.<p></p>   Fait à Paris, le 8 juillet 2004.",
-                "etat": "VIGUEUR_ETEN"
-              }
-            }
-          ]
+          "children": []
         },
         {
           "type": "section",
