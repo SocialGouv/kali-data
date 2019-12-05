@@ -1,5 +1,3 @@
-import normalizeIdcc from "./normalizeIdcc";
-
 const sortByIntOrdre = (a, b) => {
   if (a.intOrdre < b.intOrdre) {
     return -1;
