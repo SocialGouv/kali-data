@@ -10,7 +10,8 @@ const sortByIntOrdre = (a, b) => {
 
 const numify = id => parseInt(id.replace(/^KALIARTI/, ""));
 
-const isValidSection = node => node.etat !== "ABROGE" && node.etat !== "PERIME";
+const isValidSection = node =>
+  !node.etat || (node.etat !== "ABROGE" && node.etat !== "PERIME");
 
 // the API returns all the version of a given article. we pick the latest one
 const latestArticleVersionFilter = (currentArticle, index, articles) => {
