@@ -2,6 +2,9 @@ import pMap from "p-map";
 
 import dilaClient from "../dila-client";
 
+const MAX_TRIES = 5;
+const CONCURRENCY = 3;
+
 const getText = (id, tries = 0) =>
   dilaClient
     .fetch({
@@ -11,10 +14,17 @@ const getText = (id, tries = 0) =>
         id
       }
     })
+    // ensure valid
+    .then(r => {
+      if (Object.keys(r).length === 1) {
+        throw new Error(`invalid response for ${id}`, r);
+      }
+      return r;
+    })
     // retry
     .catch(e => {
-      console.log(`getText ${id} ${tries + 1}/4`);
-      if (tries < 3) {
+      console.log(`getText ${id} ${tries + 1}/${MAX_TRIES}`);
+      if (tries < MAX_TRIES) {
         return getText(id, tries + 1);
       }
       throw e;
@@ -22,33 +32,39 @@ const getText = (id, tries = 0) =>
 
 const fetchAdditionalTexts = section =>
   pMap(
-    section.sections, // are we sure that there will never be any articles in the root section ?
+    section.sections,
     async text => ({
       ...((text.id.match(/^KALITEXT/) && (await getText(text.id))) || text)
     }),
     {
-      concurrency: 10
+      concurrency: CONCURRENCY,
+      stopOnError: true
     }
   );
 
 // embed CCN texts for attachés + salaires
 // conteneur first section is always "texte de base"
 // conteneur following sections are "textes attachées" and "textes salaires" but are not populated in the initial conteneur data
-export const embedCCNTexts = async ccn => ({
-  ...ccn,
-  sections: [
-    // texte de base (included in original conteneur)
-    ccn.sections[0],
-    // textes attaches & textes salaires
-    ...(await Promise.all(
-      ccn.sections.slice(1).map(emptyAdditionalTexts =>
-        fetchAdditionalTexts(emptyAdditionalTexts).then(
-          filledAdditionalTexts => ({
-            ...emptyAdditionalTexts,
-            sections: filledAdditionalTexts
-          })
-        )
+export const embedCCNTexts = async ccn => {
+  const additionalTexts = ccn.sections.slice(1);
+  const additionalTextsFilled = await Promise.all(
+    additionalTexts.map(emptyAdditionalTexts =>
+      fetchAdditionalTexts(emptyAdditionalTexts).then(
+        filledAdditionalTexts => ({
+          ...emptyAdditionalTexts,
+          sections: filledAdditionalTexts
+        })
       )
-    ))
-  ]
-});
+    )
+  );
+
+  return {
+    ...ccn,
+    sections: [
+      // texte de base (included in original conteneur)
+      ccn.sections[0],
+      // textes attaches & textes salaires
+      ...additionalTextsFilled
+    ]
+  };
+};

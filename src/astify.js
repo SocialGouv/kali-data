@@ -2,6 +2,8 @@
  * Convert a DILA API structure made of metadata and sections|articles children to a [generic AST tree](https://github.com/syntax-tree/unist#nodes)
  */
 
+import normalizeIdcc from "./normalizeIdcc";
+
 // convert to syntax-tree format : flatten articles|sections in children
 const astify = (node, depth = 0) => ({
   type: "section",
@@ -11,9 +13,10 @@ const astify = (node, depth = 0) => ({
     title: node.title,
     id: node.id,
     etat: node.etat,
+    ...(node.modifDate && { modifDate: node.modifDate }),
     // add more data when its the root container
     ...(depth === 0 && {
-      num: node.num,
+      num: normalizeIdcc(node.num),
       shortTitle: node.shortTitle,
       categorisation: node.categorisation
     })
@@ -30,4 +33,4 @@ const astify = (node, depth = 0) => ({
   ]
 });
 
-module.exports = astify;
+export default astify;

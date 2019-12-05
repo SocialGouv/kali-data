@@ -1,3 +1,5 @@
+import normalizeIdcc from "./normalizeIdcc";
+
 const sortByIntOrdre = (a, b) => {
   if (a.intOrdre < b.intOrdre) {
     return -1;
@@ -10,11 +12,11 @@ const sortByIntOrdre = (a, b) => {
 
 const numify = id => parseInt(id.replace(/^KALIARTI/, ""));
 
-const isValidSection = node =>
+export const isValidSection = node =>
   !node.etat || (node.etat !== "ABROGE" && node.etat !== "PERIME");
 
 // the API returns all the version of a given article. we pick the latest one
-const latestArticleVersionFilter = (currentArticle, index, articles) => {
+export const latestArticleVersionFilter = (currentArticle, index, articles) => {
   // dont filter out articles without cid
   if (!currentArticle.cid) {
     return true;
@@ -32,11 +34,12 @@ const latestArticleVersionFilter = (currentArticle, index, articles) => {
 };
 
 // beware, this one is recursive for sections / articles !
-const filterData = node => ({
+export const filterData = node => ({
   id: node.id,
   cid: node.cid,
   num: node.num,
   intOrdre: node.intOrdre,
+
   title: node.title,
   content: node.content,
   ...(node.etat && { etat: node.etat }),
@@ -47,6 +50,7 @@ const filterData = node => ({
   ...(node.dateParution && { dateParution: node.dateParution }),
   ...(node.surtitre && { surtitre: node.surtitre }),
   ...(node.historique && { historique: node.historique }),
+  ...(node.modifDate && { modifDate: node.modifDate }),
 
   ...(node.articles &&
     node.articles.length && {
@@ -63,9 +67,3 @@ const filterData = node => ({
         .sort(sortByIntOrdre)
     })
 });
-
-module.exports = {
-  filterData,
-  latestArticleVersionFilter,
-  isValidSection
-};
