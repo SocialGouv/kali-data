@@ -4385,157 +4385,37 @@
         {
           "type": "section",
           "data": {
-            "title": "Annexe V : Types d'emplois faisant l'objet d'un travail de nuit",
             "id": "KALITEXT000025196117"
           },
-          "children": [
-            {
-              "type": "section",
-              "data": {
-                "intOrdre": 524287,
-                "title": "Annexe",
-                "id": "KALISCTA000025196119",
-                "etat": "VIGUEUR_NON_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "id": "KALIARTI000025196120",
-                    "cid": "KALIARTI000025196120",
-                    "num": null,
-                    "intOrdre": 524287,
-                    "content": "<p><br/>Annexe V<br/>Types d'emplois faisant l'objet d'un travail de nuit<br/>1. Sucrerie<br/>Cour à betteraves, centre de réception et lavoir :</p><p><br/>– responsabilité et organisation cour/lavoir ;<br/>– chef de centre de réception ;<br/>– personnel centre de réception (triage/décolletage/râpure/saccharimétrie) ;<br/>– personnel de conduite et de surveillance cour et lavoir ;<br/>– autres appellations.<br/>Ateliers de fabrication :<br/>– encadrement fabrication ;<br/>– personnel de conduite et de surveillance (coupe-racines, diffusion, épuration, évaporation, cristallisation, séchage jusqu'à entrée dans silo) ;<br/>– personnel de laboratoire ;<br/>– personnel de nettoyage usine ;<br/>– autres appellations.</p><p><br/>2. Stockage et conditionnement</p><p><br/>Silos et stockage :<br/>– personnel des silos et stockage.<br/>Ateliers de conditionnement :<br/>– encadrement d'atelier de conditionnement ;<br/>– conducteur/opérateur de machine de conditionnement.<br/>Déshydratation.<br/>Expéditions :<br/>– encadrement magasin ;<br/>– personnel service expédition.</p><p><br/>3. Ateliers d'entretien</p><p><br/>Entretien :<br/>– encadrement atelier entretien (y compris entretien posté) ;<br/>– personnel d'entretien (notamment mécanicien, électricien) ;<br/>– personnel d'entretien (véhicules, matériel roulant et divers).<br/>Energie :<br/>– personnel de conduite et de surveillance chaufferie (chaudière, turbo).</p><p><br/>4. Atelier sucre liquide et connexe</p><p><br/>– encadrement atelier sucre liquide et connexe ;<br/>– personnel de conduite et de surveillance des installations ;<br/>– personnel de laboratoire ;<br/>– personnel conditionnement et expéditions ;<br/>– autres appellations.</p><p><br/>5. Services administratifs, généraux et divers</p><p><br/>– personnel de gardiennage/agents de sécurité ;<br/>– informatique (opérations ponctuelles de maintenance des programmes et des réseaux informatiques) ;<br/>– chauffeurs ;<br/>– personnel d'épandage ;<br/>– autres appellations.</p><p><br/>6. Distillerie</p><p><br/>– encadrement distillerie ;<br/>– conduite et surveillance des installations ;<br/>– expédition alcool ;<br/>– sécurité (pompiers) ;<br/>– autres appellations.</p><p><br/>7. Raffinerie</p><p><br/>Ateliers de fabrication :<br/>– encadrement fabrication ;<br/>– personnel de conduite et de surveillance ;<br/>– personnel de laboratoire ;<br/>– personnel de nettoyage usine ;<br/>– autres appellations.</p>",
-                    "etat": "VIGUEUR_NON_ETEN"
-                  }
-                }
-              ]
-            }
-          ]
+          "children": []
         },
         {
           "type": "section",
           "data": {
-            "title": "Annexe VI : Barème départs anticipés",
             "id": "KALITEXT000025196121"
           },
-          "children": [
-            {
-              "type": "section",
-              "data": {
-                "intOrdre": 524287,
-                "title": "Annexe",
-                "id": "KALISCTA000025196123",
-                "etat": "VIGUEUR_NON_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "id": "KALIARTI000025196124",
-                    "cid": "KALIARTI000025196124",
-                    "num": null,
-                    "intOrdre": 524287,
-                    "content": "<p><br/>Annexe VI</p><p><br/>Barème des départs anticipés</p><p><br/>Salariés ayant occupé un poste en 3 × 8 toute l'année</p><p><div align='center'><center><table border='1'><tr><th>ANNéES </th><th>jourS (1) </th><th>ANNéES </th><th>JourS (1) </th><th>JOURS (1) (2) </th><th>ANNéES </th><th>JourS (1) </th></tr><tr><td>10 </td><td>10 </td><td>20 </td><td>30 </td><td><br/></td><td>30 </td><td>60 </td></tr><tr><td>11 </td><td>11 </td><td>21 </td><td>31,5 </td><td>32 </td><td>31 </td><td>62 </td></tr><tr><td>12 </td><td>12 </td><td>22 </td><td>33 </td><td><br/></td><td>32 </td><td>64 </td></tr><tr><td>13 </td><td>13 </td><td>23 </td><td>34,5 </td><td>35 </td><td>33 </td><td>66 </td></tr><tr><td>14 </td><td>14 </td><td>24 </td><td>36 </td><td><br/></td><td>34 </td><td>68 </td></tr><tr><td>15 </td><td>15 </td><td>25 </td><td>37,5 </td><td>38 </td><td>35 </td><td>70 </td></tr><tr><td>16 </td><td>16 </td><td>26 </td><td>39 </td><td><br/></td><td>36 </td><td>72 </td></tr><tr><td>17 </td><td>17 </td><td>27 </td><td>40,5 </td><td>41 </td><td>37 </td><td>74 </td></tr><tr><td>18 </td><td>18 </td><td>28 </td><td>42 </td><td><br/></td><td>38 </td><td>76 </td></tr><tr><td>19 </td><td>19 </td><td>29 </td><td>43,5 </td><td>44 </td><td>39 </td><td>78 </td></tr><tr><td colspan='7'>(1) Jour = poste pour les salariés en 3 × 8 toute l'année encore en poste au moment de leur départ.<br/>Jour = 7 heures pour les autres salariés.<br/>(2) Arrêté au nombre de jours ou postes immédiatement supérieur. </td></tr></table></center></div></p><p><br/>Salariés ayant occupé un poste en 3 × 8 en campagne betteravière</p><p><div align='center'><center><table border='1'><tr><th>CampagneS </th><th>JourS (1) </th><th>JourS (2) </th><th>CampagneS </th><th>JourS (1) </th><th>JourS (2) </th><th>CampagneS </th><th>JourS (1) </th><th>JourS (2) </th></tr><tr><td>10 </td><td>3,33 </td><td>4 </td><td>20 </td><td>10 </td><td><br/></td><td>30 </td><td>20 </td><td><br/></td></tr><tr><td>11 </td><td>3,66 </td><td>4 </td><td>21 </td><td>10,5 </td><td>11 </td><td>31 </td><td>20,66 </td><td>21 </td></tr><tr><td>12 </td><td>4 </td><td><br/></td><td>22 </td><td>11 </td><td><br/></td><td>32 </td><td>21,33 </td><td>22 </td></tr><tr><td>13 </td><td>4,33 </td><td>5 </td><td>23 </td><td>11,5 </td><td>12 </td><td>33 </td><td>22 </td><td><br/></td></tr><tr><td>14 </td><td>4,66 </td><td>5 </td><td>24 </td><td>12 </td><td><br/></td><td>34 </td><td>22,66 </td><td>23 </td></tr><tr><td>15 </td><td>5 </td><td><br/></td><td>25 </td><td>12,5 </td><td>13 </td><td>35 </td><td>23,33 </td><td>24 </td></tr><tr><td>16 </td><td>5,33 </td><td>6 </td><td>26 </td><td>13 </td><td><br/></td><td>36 </td><td>24 </td><td><br/></td></tr><tr><td>17 </td><td>5,66 </td><td>6 </td><td>27 </td><td>13,5 </td><td>14 </td><td>37 </td><td>24,66 </td><td>25 </td></tr><tr><td>18 </td><td>6 </td><td><br/></td><td>28 </td><td>14 </td><td><br/></td><td>38 </td><td>25,33 </td><td>26 </td></tr><tr><td>19 </td><td>6,33 </td><td>7 </td><td>29 </td><td>14,5 </td><td>15 </td><td>39 </td><td>26 </td><td><br/></td></tr><tr><td colspan='7'>(1) Jour = 7 heures.<br/>(2) Arrêté au nombre de jours immédiatement supérieur.</td></tr></table></center></div></p>",
-                    "etat": "VIGUEUR_NON_ETEN"
-                  }
-                }
-              ]
-            }
-          ]
+          "children": []
         },
         {
           "type": "section",
           "data": {
-            "title": "Annexe VII : Validation des certificats de qualification professionnelle (CQP)",
             "id": "KALITEXT000025196125"
           },
-          "children": [
-            {
-              "type": "section",
-              "data": {
-                "intOrdre": 524287,
-                "title": "Annexe",
-                "id": "KALISCTA000025196127",
-                "etat": "VIGUEUR_NON_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "id": "KALIARTI000025196128",
-                    "cid": "KALIARTI000025196128",
-                    "num": null,
-                    "intOrdre": 524287,
-                    "content": "<p><br/>Annexe VII</p><p><br/>Validation des certificats de qualification professionnelle (CQP)</p><p><br/>Demande de création d'un CQP</p><p><br/>Compte tenu de la volonté affirmée de promouvoir la formation professionnelle comme moyen d'évolution des compétences et d'une meilleure qualification face à l'évolution des emplois, il a été convenu que la demande de création d'un CQP peut émaner d'un des partenaires sociaux dès lors que ce CQP présente un intérêt pour la branche professionnelle.</p><p><br/>CQP IA</p><p><br/>Dès lors que cette création est envisagée, les partenaires sociaux des autres branches professionnelles sont informés par l'intermédiaire de la CNPIE (commission nationale paritaire interalimentaire de l'emploi) avant le début des travaux, afin d'identifier si des intérêts communs existent. Dans cette hypothèse, la création d'un CQP IA est mise en œuvre par les branches signataires de l'accord du 20 juin 2007.</p><p><br/>CQP spécifiques à la branche sucre Mise en forme des référentiels. – Instances concernées</p><p><br/>Dans l'hypothèse où la création d'un CQP IA n'est pas retenue, la branche professionnelle prendra en charge la création d'un CQP spécifique.<br/>Une première étape est constituée par l'approche technique nécessaire à la mise en forme des référentiels de l'emploi concerné et des compétences nécessaires à la tenue de cet emploi.<br/>Cette étape fait l'objet de réunion(s) de la commission paritaire technique :</p><p><br/>– pour chaque organisation syndicale, la délégation des salariés à la commission paritaire nationale comprend :<br/>– le représentant auprès de la commission financière sucre de l'AGEFAFORIA ;<br/>– un salarié du secteur concerné par le CQP ;<br/>– pour les employeurs, la délégation est composée des cinq représentants de la commission financière sucre de l'AGEFAFORIA et de cinq représentants des entreprises du SNFS et de la CSRCSF.</p><p><br/>Mise en forme des référentiels</p><p><br/>Afin de préserver une harmonie de présentation entre les référentiels des CQP IA et des CQP spécifiques à la branche professionnelle, ces derniers seront établis sur un modèle identique.</p><p><br/>Validation des référentiels</p><p><br/>Les membres de la commission paritaire technique rendent compte de leurs travaux auprès de la commission paritaire nationale d'information économique, de l'emploi et de la formation (COPANIEF) sous une forme convenue préalablement en réunion.<br/>Compte tenu des éléments fournis, la décision de création du CQP est prise par la COPANIEF en liaison avec la commission paritaire nationale qui valident ces référentiels.</p><p><br/>Mise en œuvre et délivrance du CQP</p><p><br/>L'information est transmise à l'AGEFAFORIA qui, après consultation de la commission financière sucre, informe son conseil d'administration.<br/>La commission financière sucre est tenue informée :</p><p><br/>– de la recherche du formateur ;<br/>– des demandes d'inscriptions au CQP (ces demandes sont recueillies au niveau de chaque établissement et soumises régulièrement à l'avis du CE au travers de la commission formation lorsqu'elle existe). Elles sont ensuite transmises à AFISUC pour la mise en œuvre et information de la commission financière sucre ;<br/>– de la mise en place de la formation ;<br/>– de la réalisation des parcours de formation ;<br/>– du suivi en continu et de l'examen final.<br/>Au vu des procès-verbaux des jurys, le CQP est délivré par la COPANIEF.</p>",
-                    "etat": "VIGUEUR_NON_ETEN"
-                  }
-                }
-              ]
-            }
-          ]
+          "children": []
         },
         {
           "type": "section",
           "data": {
-            "title": "Annexe VIII : Liste des accords portant création de CQP de l'industrie sucrière",
             "id": "KALITEXT000025196130"
           },
-          "children": [
-            {
-              "type": "section",
-              "data": {
-                "intOrdre": 524287,
-                "title": "Annexe",
-                "id": "KALISCTA000025196132",
-                "etat": "VIGUEUR_NON_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "id": "KALIARTI000025196133",
-                    "cid": "KALIARTI000025196133",
-                    "num": null,
-                    "intOrdre": 524287,
-                    "content": "<p><br/>ANNEXE VIII</p><p><br/>Liste des accords portant création de CQP de l'industrie sucrière</p><p><br/>VIII-1. – Conducteur de machine de conditionnement (signé le 24 octobre 2002, étendu le 3 juin 2003, Journal officiel du 8 juin 2003).<br/>VIII-2. – Conducteur de process (signé le 23 janvier 2007, étendu le 19 février 2008, Journal officiel du 27 février 2008).</p>",
-                    "etat": "VIGUEUR_NON_ETEN"
-                  }
-                }
-              ]
-            }
-          ]
+          "children": []
         },
         {
           "type": "section",
           "data": {
-            "title": "Annexe IX : Liste des accords interbranches alimentaires à jour à la date de la signature de la présente convention",
             "id": "KALITEXT000025196134"
           },
-          "children": [
-            {
-              "type": "section",
-              "data": {
-                "intOrdre": 524287,
-                "title": "Annexe",
-                "id": "KALISCTA000025196136",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "id": "KALIARTI000025253903",
-                    "cid": "KALIARTI000025196137",
-                    "num": null,
-                    "intOrdre": 524287,
-                    "content": "<p>Liste des accords interbranches alimentaires à jour à la date de la signature de l'avenant n° 3</p><p><br/>1. Désignation de l'OPCA<br/><br/>Accord du 20 octobre 2004, étendu le 18 octobre 2005, et avenant du 25 juillet 2005, étendu le 18 octobre 2005.<br/><br/>2. Professionnalisation<br/><br/>(2) Plus de 2 campagnes sucrières dans leur catégorie lorsqu'ils travaillent au rythme de la campagne ou plus de 2 ans dans leur catégorie dans les autres cas.<br/><br/>Accord du 6 décembre 2004, étendu le 18 octobre 2005, et avenant du 25 juillet 2005, étendu le 18 octobre 2005.<br/><br/>3. Développement du tutorat<br/><br/>Accord du 6 décembre 2004, en cours d'extension, et avenant du 25 juillet 2005, en cours d'extension.<br/><br/>4. Création d'un observatoire prospectif des métiers et des qualifications<br/><br/>Accord du 6 décembre 2004, étendu le 18 octobre 2005, avenant du 25 juillet 2005, étendu le 18 octobre 2005, avenant n° 2 du 26 mars 2008, étendu le 6 mars 2009, et avenant n° 3 du 4 février 2011, qui sera présenté à l'extension.<br/><br/>5. Fonctionnement des jurys CQP<br/><br/>Accord du 6 décembre 2004, en cours d'extension, avenant du 25 juillet 2005, en cours d'extension, avenant n° 2 du 7 juillet 2008, étendu le 11 février 2009, et avenant n° 3 du 4 décembre 2009, en cours d'extension.<br/><br/>6. Mise en œuvre du droit individuel à la formation<br/><br/>Accord du 7 janvier 2005, étendu le 18 octobre 2005, avenant du 25 juillet 2005, en cours d'extension, et avenant n° 2 du 4 décembre 2009, en cours d'extension.<br/><br/>7. Répartition de la taxe d'apprentissage<br/><br/>Accord du 17 mai 2005, en cours d'extension, et avenant du 25 juillet 2005, en cours d'extension.<br/><br/>8. Reconnaissance des CQP harmonisés<br/><br/>Accord de juillet 2007.<br/><br/>9. Gestion prévisionnelle des emplois et des compétences<br/><br/>Accord du 26 octobre 2009, étendu par arrêté du 8 octobre 2010, publié le 16 octobre 2010.<br/><br/>10. Emploi des seniors<br/><br/>Accord du 15 décembre 2009 validé par la DGEFP le 9 février 2010, étendu par arrêté du 25 mai 2010, publié le 1er juin 2010.</p>",
-                    "etat": "VIGUEUR_ETEN"
-                  }
-                }
-              ]
-            }
-          ]
+          "children": []
         },
         {
           "type": "section",
