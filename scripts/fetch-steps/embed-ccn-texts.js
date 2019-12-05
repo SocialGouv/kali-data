@@ -2,8 +2,11 @@ import pMap from "p-map";
 
 import dilaClient from "../dila-client";
 
-const MAX_TRIES = 5;
+const MAX_TRIES = 10;
 const CONCURRENCY = 3;
+
+const wait = (timeout = 500) =>
+  new Promise(resolve => setTimeout(resolve, timeout));
 
 const getText = (id, tries = 0) =>
   dilaClient
@@ -19,14 +22,16 @@ const getText = (id, tries = 0) =>
       if (Object.keys(r).length === 1) {
         throw new Error(`invalid response for ${id}`, r);
       }
+      console.log(`getText ${id} ${tries + 1}/${MAX_TRIES}: OK`);
       return r;
     })
     // retry
     .catch(e => {
-      console.log(`getText ${id} ${tries + 1}/${MAX_TRIES}`);
       if (tries < MAX_TRIES) {
-        return getText(id, tries + 1);
+        console.log(`getText ${id} ${tries + 1}/${MAX_TRIES}: RETRY`);
+        return wait().then(() => getText(id, tries + 1));
       }
+      console.log(`getText ${id} ${tries + 1}/${MAX_TRIES}: ABORT`);
       throw e;
     });
 

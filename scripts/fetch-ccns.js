@@ -45,6 +45,8 @@ const fetchAllConventions = () =>
         if (changed) {
           fs.writeFileSync(filePath, strfy(data));
           console.log(`wrote ${filePath}`);
+        } else {
+          console.log(`skip ${filePath} (not changed)`);
         }
       });
       //  .catch(console.error);
