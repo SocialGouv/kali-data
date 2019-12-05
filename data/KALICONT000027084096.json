@@ -1517,30 +1517,882 @@
         {
           "type": "section",
           "data": {
+            "title": "Accord du 13 octobre 2016 relatif à l'aménagement du temps de travail",
             "id": "KALITEXT000034135624"
           },
-          "children": []
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000034135627",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000034135651",
+                    "cid": "KALIARTI000034135651",
+                    "num": null,
+                    "intOrdre": 524287,
+                    "content": "<p align='left'><br/>Le présent accord est conclu conformément aux <a alt='Code du travail - art. L3122-2 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902495&dateTexte=&categorieLien=cid'>dispositions de l'article L. 3122-2 du code du travail</a>, tel qu'institué par la <a alt='LOI n° 2008-789 du 20 août 2008 (V)' href='/affichTexte.do?cidTexte=JORFTEXT000019347122&categorieLien=cid'>loi n° 2008-789 du 20 août 2008</a>. Il couvre le champ d'application de la convention collective des entreprises de services à la personne (idcc 3127).<br/>L'objectif du présent accord est de permettre une application du dispositif d'aménagement du temps de travail sur l'année, prévu par la loi du 20 août 2008, au sein de la branche des services à la personne pour les entreprises de moins de 11 salariés équivalents temps pleins (ETP) ne disposant pas de représentants du personnel.<br/>Les dispositions du présent accord complètent celles déjà prévues dans la convention collective nationale des entreprises de services à la personne.</p>",
+                    "etat": "VIGUEUR_NON_ETEN"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000034135628",
+                "cid": "KALIARTI000034135628",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "content": "<p align='left'><br/>Dans les entreprises de moins de 11 salariés équivalents temps pleins (ETP) qui ne disposent pas de représentant du personnel et s'il n'y a pas eu de salarié mandaté, l'employeur peut, par décision unilatérale et après avoir préalablement échangé collectivement avec l'ensemble des salariés concernés, choisir d'appliquer l'aménagement du temps de travail sur l'année d'après les dispositions du présent accord.<br/>En cas d'élection d'IRP, l'employeur devra engager des négociations sur le sujet de l'aménagement du temps de travail dans les deux mois suivant l'élection. L'employeur peut à tout moment ouvrir des négociations au titre de l'<a alt='Code du travail - art. L2232-24 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901712&dateTexte=&categorieLien=cid'>article L. 2232-24 du code du travail</a>, avec un ou plusieurs salariés mandatés par une ou plusieurs organisations syndicales représentatives.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Objet"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000034135630",
+                "cid": "KALIARTI000034135630",
+                "num": "2",
+                "intOrdre": 1572861,
+                "content": "<p align='left'><br/>Le présent accord concerne les salariés de l'entreprise, en contrat de travail à durée indéterminée, ou en contrat de travail à durée déterminée de plus d'un mois qui interviennent au domicile des clients et qu'ils soient embauchés à temps plein ou à temps partiel.<br/>Il ne s'applique pas pour les CDI intermittents, ni pour les salariés mis à disposition pour une durée déterminée.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Champ d'application"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000034135631",
+                "cid": "KALIARTI000034135631",
+                "num": "3",
+                "intOrdre": 2097148,
+                "content": "<p align='left'><br/>Le principe de l'aménagement du temps de travail sur l'année est de répartir la durée du travail, dans le respect des plages d'indisponibilité du salarié, sur une période de référence annuelle, afin d'adapter le rythme de travail des salariés à l'activité irrégulière de l'entreprise. Par la nature de leurs activités, les entreprises de services à la personne ne peuvent pas définir à l'avance les périodes hautes et basses d'activité. De ce fait, les contrats de travail mentionneront la durée du travail mensuelle de référence et la durée annuelle sur la période de référence. La période de référence annuelle correspond soit à l'année civile : du 1er janvier au 31 décembre ; soit la période de l'exercice comptable de l'entreprise sans que celle-ci ne puisse excéder 12 mois.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Principe de l'annualisation"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000034135632",
+                "cid": "KALIARTI000034135632",
+                "num": "4",
+                "intOrdre": 2621435,
+                "content": "<p align='left'><br/>La durée du travail annuelle des contrats de travail qui débuteront en cours de période de référence sera calculée au pro rata temporis à compter de la date d'embauche du salarié dans l'entreprise sur la période de référence en cours.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Embauche en cours de période"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000034135633",
+                "cid": "KALIARTI000034135633",
+                "num": "5",
+                "intOrdre": 3145722,
+                "content": "<p align='center'><br/>5.1. Lissage de la rémunération</p><p align='left'><br/>La rémunération mensuelle est lissée sur la base de la durée annuelle du travail prévue au contrat, de façon à assurer une rémunération stable et régulière, indépendante de la variation de la durée réelle travaillée pendant le mois, sauf en cas d'absences non légalement rémunérées (telles que les congés sans solde).<br/>La rémunération mensuelle brute est déterminée de la manière suivante :<br/>– pour les salariés en contrat à durée indéterminée, elle est égale au nombre d'heure annuelle contractuelle / 12 × taux horaire brut ;<br/>– pour les salariés en contrat à durée déterminée, elle est égale au nombre d'heure contractuelle / nombre de mois × taux horaire brut.</p><p align='center'><br/>5.2. Paiement au réel</p><p align='left'><br/>A la demande expresse du salarié, sa rémunération pourra être versée sur la base de l'horaire réellement accompli sans que celle-ci ne puisse être inférieure à 20 % de la rémunération qu'il aurait perçue dans le cadre d'une rémunération mensuelle tel que défini à l'article 5.1 sur l'année indépendamment du nombre d'heures travaillées.<br/>Le salarié ayant opté pour une rémunération mensuelle calculée sur la durée du travail réellement accomplie, et non sur la durée du travail mensuelle de référence, peut à tout moment changer d'avis. Le salarié doit prévenir son employeur par écrit et la modification s'effectuera à partir de la paie du mois suivant la réception du courrier. Ce changement ne pourra intervenir qu'une seule fois par période de référence. L'employeur ne peut s'opposer à cette demande.<br/>La méthode de rémunération choisie doit figurer au contrat de travail du salarié. En cas de modification de la méthode de rémunération, un avenant au contrat de travail sera signé par les parties.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Lissage ou paiement au réel de la rémunération"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000034135634",
+                "cid": "KALIARTI000034135634",
+                "num": "6",
+                "intOrdre": 3670009,
+                "content": "<p align='left'><br/>La variation de la durée du travail du salarié implique de suivre le décompte de sa durée du travail au moyen d'un compteur individuel de suivi des heures.<br/>Un relevé de suivi sera communiqué mensuellement aux salariés par tout moyen permettant son impression à tout moment et durant toute la période de référence.<br/>Ce compteur est tenu pour chaque salarié et fait apparaître pour chaque mois de travail :<br/>– le nombre d'heures mensuelles contractuelles ;<br/>– le nombre d'heures de travail effectif réalisées et assimilées ;<br/>– l'écart mensuel entre le nombre d'heures de travail effectif réalisées et le nombre d'heures de travail effectif prévues pour la période d'annualisation ;<br/>– l'écart (ci-dessus) cumulé depuis le début de la période d'annualisation ;<br/>– le nombre d'heures rémunérées en application du lissage de la rémunération.<br/>Au plus tard le 6e mois de la période de référence, l'employeur communique au salarié un relevé récapitulatif du nombre d'heures de travail effectuées et du nombre d'heures contractuelles restant à effectuer jusqu'à la fin de la période de référence.<br/>Une notice explicative est jointe au contrat de travail afin d'expliciter la méthodologie de décompte des différents évènements dans les compteurs.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Compteur individuel"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000034135635",
+                "cid": "KALIARTI000034135635",
+                "num": "7",
+                "intOrdre": 4194296,
+                "content": "<p align='left'><br/>En cas de périodes non travaillées donnant lieu à rémunération par l'employeur (telles que notamment les congés payés), le salarié percevra une rémunération calculée sur la base de la rémunération lissée et telle que la loi le prévoit.<br/>La période non travaillée doit être valorisée en nombre d'heures dans le compteur d'heures tel que décrit dans la notice explicative. Ce nombre d'heures est calculé au 26e (nombre d'heures mensuelles de référence prévues au contrat / 26 × nombre de jours d'absence).</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Périodes non travaillées et rémunérées"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000034135636",
+                "cid": "KALIARTI000034135636",
+                "num": "8",
+                "intOrdre": 4718583,
+                "content": "<p align='left'><br/>Les périodes non travaillées en raison d'absences et congés non légalement rémunérés par l'employeur font l'objet d'une retenue sur la paie du salarié à hauteur du nombre d'heures d'absence constatée et d'une déduction ou d'une valorisation du compteur d'heures tel que décrit dans la notice explicative.<br/>Le nombre d'heures d'absence correspond aux heures planifiées au moment de l'absence du salarié. Si un des jours de la période non travaillée ne comporte aucune planification, le nombre d'heures d'absence correspondant à ce jour est calculé au 26e (nombre d'heures mensuelles de référence prévues au contrat / 26).<br/>Cependant, à la demande écrite du salarié dans le mois de l'absence, si le compteur du salarié est excédentaire, le nombre d'heures d'absence calculé au 26e ou aux heures planifiées sera soustrait du compteur du salarié sans que cette amputation ne puisse rendre le compteur négatif.<br/>Les refus de modification de planning au-delà du nombre autorisé (3 pour les modifications prévenues au moins 3 jours à l'avance et 3 pour celles correspondant à des urgences) seront comptabilisés dans un compteur spécifique tenu à la disposition du salarié.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Périodes non travaillées et non rémunérées"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000034135637",
+                "cid": "KALIARTI000034135637",
+                "num": "9",
+                "intOrdre": 5242870,
+                "content": "<p align='center'><br/>9.1. Notification des horaires de travail dans le respect des plages d'indisponibilité</p><p align='left'><br/>Les horaires de travail, pour chaque journée travaillée, sont communiqués aux salariés par la remise d'un planning prévisionnel des horaires. Ce planning est mensuel. Il est remis au salarié soit en version papier soit en version dématérialisée permettant son impression à tout moment et durant toute la période de référence.<br/>Il est notifié aux salariés au moins sept jours avant le 1er jour de son exécution dans la mesure où les délais de prévenance en cas de modification ont été respectés.<br/>Il précise pour chaque salarié la durée du travail et les horaires de travail déterminés par l'entreprise.<br/>Les modalités de notification des plannings individuels sont définies par l'entreprise dans une note interne qui est remise aux salariés avant leur entrée en vigueur. En cas de modification ultérieure de ces modalités, une nouvelle note est communiquée aux salariés préalablement à leur entrée en vigueur.<br/>Les salariés sont tenus de se conformer aux horaires tels que prévus au planning. Ils ne sont pas autorisés à modifier les heures et jours d'intervention mentionnés au planning, même à la demande ou avec l'accord du client.<br/>Enfin, il est rappelé que chaque salarié, embauché à temps partiel ou à temps plein, bénéficie de plages d'indisponibilité telles que définies dans la CCN, afin de permettre aux salariés de concilier vie personnelle et vie professionnelle ou d'exercer un autre emploi à temps partiel.</p><p align='center'><br/>9.2. Modification des horaires de travail dans le respect des plages d'indisponibilité</p><p align='left'><br/>Le planning initial de travail peut faire l'objet de modifications à l'initiative de l'employeur. Le salarié est averti de cette modification dans un délai minimum de trois jours avant la date à laquelle la modification apportée au planning initial doit avoir lieu, dans le respect des plages d'indisponibilité prévues au contrat.<br/>Toutefois, afin de faire face à la fluctuation des demandes inhérentes à l'activité et d'assurer une continuité de services, le délai d'information de la modification apportée au planning peut être réduit. Ainsi, en cas d'urgence tel que défini au chapitre II, section 2, I, i de la CCN, les salariés pourront être informés de la modification apportée à leur planning dans un délai inférieur à 3 jours et compris entre 2 jours et 1 heure.<br/>Il est précisé que la communication des modifications apportées par l'employeur au planning initial se fait au fur et à mesure oralement par appel téléphonique ou lorsque le salarié dispose d'un téléphone portable, par message vocal laissé sur ce dernier et confirmation par écrit en renvoyant le planning mensuel ou en le modifiant dans l'interface numérique dans les meilleurs délais et de manière à permettre une traçabilité des échanges pendant toute la période de référence.<br/>Lorsque le salarié utilise, à la demande de l'employeur, ses outils de communication personnels à des fins professionnelles, il perçoit une indemnité mensuelle minimale de 2 euros.</p><p align='center'><br/>9.3. Contrepartie à la réduction du délai de modification des horaires</p><p align='left'><br/>En contrepartie d'un délai de modification des horaires inférieur à trois jours, dans le respect des plages d'indisponibilité, le salarié a la possibilité de refuser 3 fois sur la période de référence la modification de ses horaires, sans que ces refus ne constituent une faute ou un motif de licenciement.<br/>Chaque acceptation par le salarié d'une modification de ses horaires dans un délai inferieur à trois jours incrémente de un son nombre de possibilités de refus.<br/>Tout refus de modification d'horaire doit être confirmé par écrit par l'employeur et sera comptabilisé dans un compteur spécifique.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Notification de la répartition du travail"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000034135638",
+                "cid": "KALIARTI000034135638",
+                "num": "10",
+                "intOrdre": 5767157,
+                "content": "<p align='center'><br/>10.1. Durée du travail des salariés à temps plein</p><p align='left'><br/>La durée de travail des salariés à temps plein est celle fixée par la loi, soit, à la date de la signature des présentes, 1 607 heures par an ce qui correspond à 35 heures par semaine. La durée du travail hebdomadaire de référence des salariés à temps plein est de 35 heures en moyenne sur la période de référence.</p><p align='center'><br/>10.2. Durée du travail des salariés à temps partiel sur l'année</p><p align='left'><br/>Pour les salariés à temps partiel, la durée effective du travail sur la période de référence, par définition, est inférieure à la durée légale du travail de 1 607 heures actuellement en vigueur.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Durée du travail"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000034135639",
+                "cid": "KALIARTI000034135639",
+                "num": "11",
+                "intOrdre": 6291444,
+                "content": "<p align='left'><br/>Les heures de travail effectives, réalisées par le salarié sur la période de référence, au-delà du seuil de déclenchement des heures supplémentaires actuellement fixé à 1 607 heures par an, constituent des heures supplémentaires.<br/>Le contingent annuel d'heures supplémentaires est fixé est fixé à 200 heures par an et par salarié.<br/>La majoration des heures supplémentaires sera traitée conformément aux dispositions conventionnelles et légales en vigueur.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Heures supplémentaires et contingent annuel"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000034135640",
+                "cid": "KALIARTI000034135640",
+                "num": "12",
+                "intOrdre": 6815731,
+                "content": "<p align='left'><br/>Les salariés à temps partiel pourront être amenés à effectuer des heures complémentaires dans la limite d'un tiers de la durée du travail prévue pour la période de référence.<br/>Les heures complémentaires accomplies au-delà de la durée du travail prévue pour la période de référence donnent lieu à une majoration de salaire, déduction faite des heures complémentaires déjà payées en cours de période de référence, conformément aux dispositions légales en vigueur.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Heures complémentaires"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000034135641",
+                "cid": "KALIARTI000034135641",
+                "num": "13",
+                "intOrdre": 7340018,
+                "content": "<p align='left'><br/>Les parties s'engagent à mettre en place toutes les mesures nécessaires à garantir aux salariés à temps partiel les mêmes droits que ceux reconnus aux salariés à temps plein. L'employeur s'engage à garantir aux salariés embauchés à temps partiel et soumis aux dispositions du présent accord, l'égalité d'accès aux possibilités de promotion, de carrière et de formation.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Contreparties pour les salariés à temps partiel"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000034135642",
+                "cid": "KALIARTI000034135642",
+                "num": "14",
+                "intOrdre": 7864305,
+                "content": "<p align='left'><br/>Sauf avenant au contrat de travail portant modification de la durée du travail et conclu en cours de période, l'employeur arrête les comptes de chaque salarié à l'issue de la période de référence.</p><p align='center'><br/>14.1. Solde de compteur positif</p><p align='left'><br/>Pour les salariés à temps plein dans le cas où le solde du compteur est positif, c'est-à-dire qu'il dépasse la durée annuelle de 1 607 heures, les heures au-delà de 1 607 heures constituent des heures supplémentaires.<br/>Pour les salariés à temps partiel, dans le cas où le solde du compteur est positif, c'est-à-dire qu'il dépasse la durée annuelle fixée dans le contrat et dans la limite d'un tiers de la durée du travail, les heures complémentaires accomplies au-delà de ce seuil donnent lieu à une majoration de salaire conformément aux dispositions légales en vigueur.<br/>Chaque heure supplémentaire ou complémentaire est traitée conformément aux dispositions conventionnelles et légales en vigueur au plus tard sur le bulletin de paie correspondant au mois suivant la clôture de la période d'annualisation.<br/>Toutefois, le salarié peut demander de remplacer en tout ou partie le paiement majoré de ces heures par un repos équivalent majoré dans les mêmes conditions que les heures majorées, octroyé dans les conditions suivantes : le repos doit être pris dans un délai maximum de 6 mois, par journée entière ou demi-journée. Les heures majorées sont ramenées à un nombre de jours suivant la règle du 26e de la durée mensuelle de référence. L'employeur et le salarié fixent d'un commun accord les modalités et la date du repos convenu. A défaut d'accord entre les parties, la moitié des jours de repos acquis est prise à l'initiative du salarié, et l'autre moitié à l'initiative de l'employeur, en une ou plusieurs fois et en respectant un délai de prévenance de deux semaines. Dans ce cas, les heures correspondantes récupérées en repos n'entrent pas dans les compteurs tels que détaillés dans la notice explicative.</p><p align='center'><br/>14.2. Solde de compteur négatif</p><p align='left'><br/>En fin de période, les heures non réalisées du seul fait du salarié dans le respect de ses droits et devoirs tels que définit dans le présent accord pourront faire l'objet d'une compensation. En effet, ces heures ayant été rémunérées mais non travaillées leur paiement étant assimilable à un indu pourra conduire à une retenue sur le salaire mensuel ne pouvant excéder 10 % de la rémunération.<br/>Il est précisé que lorsque l'employeur propose des heures régulières et que le salarié les refuse, le nombre d'heures refusées devant être pris en compte dans le cadre de l'annualisation du temps de travail est égal au nombre d'heures qui aurait été réalisé sur un mois d'intervention. Lorsque l'employeur propose des heures ponctuelles, le nombre d'heures refusées est égal au nombre d'heures proposées.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Régularisation des compteurs Salarié présent sur la totalité de la période de référence"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000034135643",
+                "cid": "KALIARTI000034135643",
+                "num": "15",
+                "intOrdre": 8388592,
+                "content": "<p align='left'><br/>Si en raison d'une fin de contrat ou d'une rupture de contrat un salarié n'a pas accompli la totalité des 12 mois de travail correspondant à la période de référence, une régularisation est effectuée dans les conditions suivantes :</p><p align='center'><br/>15.1. Solde de compteur positif</p><p align='left'><br/>Dans le cas où le solde du compteur est positif, seules les heures telles que définies à l'article 11 et 12 du présent accord sont des heures complémentaires ou supplémentaires et seront traitées conformément aux dispositions conventionnelles et légales en vigueur.</p><p align='center'><br/>15.2. Solde de compteur négatif</p><p align='left'><br/>Lorsque le solde du compteur est négatif, dans le cadre de licenciement pour motif économique, et à titre d'exception, si le départ est à l'initiative de l'employeur et en l'absence de faute grave ou lourde du salarié, l'employeur ne procédera pas à une récupération du trop-perçu par compensation sur le solde de tout compte avec les sommes restant dues à l'occasion de la fin ou de la rupture du contrat.<br/>Aucune compensation n'est possible pour les salariés en contrat à durée déterminée sauf en cas de rupture à l'initiative du salarié.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Régularisation des compteurs Salarié n'ayant pas accompli la totalité de la période de 12 mois"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000034135644",
+                "cid": "KALIARTI000034135644",
+                "num": "16",
+                "intOrdre": 8912879,
+                "content": "<p align='left'><br/>Les partenaires sociaux s'engagent par tout moyen à faire le bilan de cet accord tous les trois ans et à engager des négociations en vue d'éventuelles adaptations.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Suivi de l'accord"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000034135645",
+                "cid": "KALIARTI000034135645",
+                "num": "17",
+                "intOrdre": 9437166,
+                "content": "<p align='left'><br/>Le présent accord est conclu pour une durée indéterminée.<br/>Ces dispositions sont applicables à l'issue du délai d'opposition avec effet le premier jour du mois suivant le mois de la date de dépôt du présent accord.<br/>Conformément à l'<a alt='Code du travail - art. D2231-2 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid'>article D. 2231-2 du code du travail</a>, le présent accord sera déposé en un exemplaire original et une copie sera envoyée sous forme électronique à la direction générale du travail.<br/>Les parties signataires ayant convenu de demander sans délai l'extension du présent accord, l'extension du présent accord sera demandée à l'initiative de la partie la plus diligente conformément aux dispositions des articles <a alt='Code du travail - art. L2261-15 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>L. 2261-15</a> et <a alt='Code du travail - art. L2261-24 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901802&dateTexte=&categorieLien=cid'>L. 2261-24</a> du code du travail et dans les quinze jours qui suivent la fin du délai d'opposition à sa signature.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Durée. – Entrée en vigueur. – Dépôt de l'accord. – Extension"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000034135649",
+                "cid": "KALIARTI000034135649",
+                "num": "18",
+                "intOrdre": 9961453,
+                "content": "<p align='left'><br/>Toute demande de révision du présent accord doit être motivée et signifiée selon les règles légales en vigueur.<br/>En cas de modification des dispositions législatives ou réglementaires, notamment en matière de durée ou d'aménagement du temps partiel, qui auraient des effets directs sur les dispositions du présent accord, des négociations s'ouvriraient à l'initiative de la partie la plus diligente, afin d'examiner les possibilités de réviser le présent accord pour l'adapter à la situation nouvelle.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Révision de l'accord"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000034135650",
+                "cid": "KALIARTI000034135650",
+                "num": "19",
+                "intOrdre": 10485740,
+                "content": "<p align='left'><br/>Le présent accord obéit aux mêmes dispositions en matière de dénonciation que la convention collective des entreprises de services à la personne (idcc 3127).</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Dénonciation de l'accord"
+              }
+            }
+          ]
         },
         {
           "type": "section",
           "data": {
+            "title": "Adhésion par lettre du 28 septembre 2016 du SYNERPA à la convention",
             "id": "KALITEXT000033625748"
           },
-          "children": []
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000033625751",
+                "cid": "KALIARTI000033625751",
+                "num": null,
+                "intOrdre": 524287,
+                "content": "<p><br/>Paris, le 28 septembre 2016 <br/>SYNERPA <br/>164, boulevard du Montparnasse <br/>75014 Paris<br/>Madame, Monsieur, <br/>Nous vous informons par la présente que notre confédération, le SYNERPA, en application de des articles <a alt='Code du travail - art. L2261-3 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901781&dateTexte=&categorieLien=cid'>L. 2261-3</a>, <a alt='Code du travail - art. L2231-3 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901672&dateTexte=&categorieLien=cid'>L. 2231-3 </a>et <a alt='Code du travail - art. L2231-8 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901677&dateTexte=&categorieLien=cid'>L. 2231-8 </a>du code du travail, a décidé d'adhérer à la convention collective des services à la personne, pour ses membres dont l'activité relève du champ d'application professionnel de la convention collective. Ces membres sont regroupés au sein du SYNERPA ­ domicile. <br/>Notre adhésion vise la convention collective et les textes susvisés : <br/>– la <a alt='Convention collective nationale des entreprises de services à la personne du 20 septembre 2012  (VE)' href='/affichIDCC.do?cidTexte=KALITEXT000026943196&categorieLien=cid'>convention collective des services à la personne </a>(entreprises) idcc 3127 du 20 septembre 2012 ; <br/>– <a alt='Négociations 2012-2013 (VNE)' href='/affichIDCC.do?cidTexte=KALITEXT000026943327&categorieLien=cid'>l'accord du 20 septembre 2012 </a>sur le programme de négociation en 2012 et 2013 ; <br/>– <a alt='Protection sociale (VNE)' href='/affichIDCC.do?cidTexte=KALITEXT000027731812&categorieLien=cid'>l'avenant n° 1 </a>relatif à la protection sociale du 25 avril 2013 ; <br/>– <a alt='Salaires minima conventionnels (VE)' href='/affichIDCC.do?cidTexte=KALITEXT000032891404&categorieLien=cid'>l'avenant n° 1 </a>du 21 mars 2016 de révision des minima conventionnels ; <br/>– <a alt='Champ d'application du secteur des entreprises de services à la personne (VE)' href='/affichIDCC.do?cidTexte=KALITEXT000018563026&categorieLien=cid'>l'accord du 12 octobre 2007 </a>sur le champ d'application et son annexe ; <br/>– <a alt='Modalités d'indemnisation des salariés participant aux réunions paritaires relatives à la négocia... (VNE)' href='/affichIDCC.do?cidTexte=KALITEXT000022239535&categorieLien=cid'>l'accord du 18 mai 2005 </a>sur les modalités d'indemnisation des salariés participant aux réunions paritaires relatives à la négociation de la convention ; <br/>– <a alt='Formation professionnelle (VE)' href='/affichIDCC.do?cidTexte=KALITEXT000022271518&categorieLien=cid'>l'accord du 18 décembre 2009 </a>et du <a alt='Formation professionnelle tout au long de la vie (VE)' href='/affichIDCC.do?cidTexte=KALITEXT000032003508&categorieLien=cid'>2 octobre 2015 </a>sur la formation professionnelle ; <br/>– <a alt='Commission de validation des accords d'entreprise (VNE)' href='/affichIDCC.do?cidTexte=KALITEXT000032826735&categorieLien=cid'>l'accord du 26 janvier 2016 </a>sur la commission paritaire nationale de validation ; <br/>– <a alt='Financement du paritarisme (VE)' href='/affichIDCC.do?cidTexte=KALITEXT000022271536&categorieLien=cid'>l'accord du 18 décembre 2009 </a>sur le financement du paritarisme. <br/>Par ailleurs, nous vous remettons, les copies des courriers adressés aux signataires de la convention collective nationale des entreprises de services à la personne du 20 septembre 2012 (idcc n° 3127). <br/>Nous avons également procédé au dépôt de notre adhésion, et des pièces qui l'accompagnent, par voie électronique à l'adresse suivante : depot. accord @ travail. gouv. fr. <br/>Nous restons à votre disposition pour tout complément d'information et vous prions de croire, Madame, Monsieur, en l'assurance de nos salutations distinguées. <br/>La déléguée générale</p>",
+                "etat": "VIGUEUR_NON_ETEN"
+              }
+            }
+          ]
         },
         {
           "type": "section",
           "data": {
+            "title": "Accord du 26 janvier 2016 relatif à la commission de validation des accords d'entreprise",
             "id": "KALITEXT000032826735"
           },
-          "children": []
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000032826738",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032826759",
+                    "cid": "KALIARTI000032826759",
+                    "num": null,
+                    "intOrdre": 524287,
+                    "content": "<p align='left'><br/>La <a alt='Convention collective nationale des entreprises de services à la personne du 20 septembre 2012  (VE)' href='/affichIDCC.do?cidTexte=KALITEXT000026943196&categorieLien=cid'>convention collective de branche</a>, signée le 20 septembre 2012, prévoit en son chapitre IV, article 2.3, que la commission paritaire nationale de branche se prononce sur les accords d'entreprise négociés avec les élus du personnel, et ce dans les 4 mois suivant sa saisine. <br/>Le présent accord a pour objet de fixer les modalités de fonctionnement de cette commission paritaire de validation, au regard des dispositions des articles <a alt='Code du travail - art. L2232-21 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901709&dateTexte=&categorieLien=cid'>L. 2232-21 </a>et <a alt='Code du travail - art. L2232-22 (M)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901710&dateTexte=&categorieLien=cid'>L. 2232-22 </a>du code du travail. <br/>Les partenaires sociaux entendent rappeler que la négociation des accords d'entreprise doit, par principe, être menée avec les organisations syndicales représentatives de salariés de l'entreprise par l'intermédiaire de chaque délégué syndical valablement désigné. <br/>Au sein des entreprises de moins de 50 salariés ne disposant pas de délégués syndicaux, il peut être procédé à une négociation collective avec les élus du comité d'entreprise ou, à défaut, avec les délégués du personnel, étant précisé que la condition d'effectif s'apprécie au niveau de l'ensemble de l'entreprise et non pas de l'établissement. <br/>Néanmoins, un accord conclu dans ce cadre n'aura valeur d'accord collectif que sous réserve de sa validation par la commission paritaire de validation des accords d'entreprise instituée par le présent accord et de son dépôt auprès de l'autorité administrative compétente, dans les conditions législatives et réglementaires en vigueur. <br/>Enfin, il est rappelé la faculté pour les entreprises ayant eu une carence lors de leur élection professionnelle de pouvoir négocier un accord d'entreprise avec un salarié mandaté par une organisation de salarié représentative. Un tel accord étant soumis à référendum n'a pas à être soumis à validation par la commission paritaire nationale de validation des accords d'entreprise, tout comme les accords signés par des représentants du personnel mandatés par une organisation syndicale représentative dans la branche. <br/>Au regard de ce qui précède, les organisations syndicales représentatives dans la branche des entreprises de services à la personne définissent les modalités de fonctionnement suivantes.</p>",
+                    "etat": "VIGUEUR_NON_ETEN"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 7864305,
+                "title": "Annexes",
+                "id": "KALISCTA000032826758",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032826762",
+                    "cid": "KALIARTI000032826762",
+                    "num": null,
+                    "intOrdre": 524287,
+                    "content": "<p></p><p align='center'>Annexe I <br/>Demande de validation d'un accord d'entreprise </p><p></p><p></p><div align='center'><center><table border='1'><tbody><tr><th colspan='2'>Coordonnées de l'entreprise ou de l'établissement </th></tr><tr><td align='left'>N° SIRET : </td><td align='center'>Raison sociale : </td></tr><tr><td align='left'>Nom du correspondant : </td><td align='center'>Téléphone : </td></tr><tr><td align='left'>Courriel de contact : </td><td><br/></td></tr><tr><td align='left'>Adresse : </td><td><br/></td></tr><tr><td align='left'><br/></td><td><br/></td></tr><tr><td align='left'><br/></td><td><br/></td></tr><tr><td align='left'>Code postal : </td><td align='center'>Commune : </td></tr><tr><td align='left'>Effectifs (ETP) : </td><td align='center'>APE : </td></tr><tr><td align='left'>L'entreprise est-elle adhérente à une fédération ? </td><td align='center'></td></tr><tr><td align='left'>Si oui, à quelle fédération ? </td><td><br/></td></tr><tr><td align='left'><br/></td><td><br/></td></tr></tbody></table></center></div><p></p><p></p><p>Demande à la commission paritaire nationale de validation de se prononcer sur l'accord afin de vérifier qu'il n'est pas contraire aux dispositions légales, réglementaires et conventionnelles. <br/>Il s'agit d'un : □ accord collectif □ avenant <br/>Date de conclusion de l'accord/ avenant (à préciser) :.../.../20... <br/>Périmètre de l'accord ou de l'avenant : <br/>□ Tout le personnel salarié de l'organisme <br/>□ Une partie seulement des salariés de l'organisme <br/>Objet de l'accord : <br/>□ Organisation et aménagement du temps de travail (ex. : congés, temps de travail, forfaits, etc.) <br/>□ Formation professionnelle <br/>□ Seniors et génération <br/>□ Salaires <br/>□ Autre (à préciser)..................................................................................................................... <br/>Parties signataires : <br/>□ Elu (s) membre (s) du comité d'entreprise <br/>□ Elu (s) délégué (s) du personnel <br/>□ Elu (s) délégué (s) unique (s) du personnel <br/>Attention : pièces à fournir obligatoirement <br/>□ La présente fiche dûment complétée <br/>□ Copie de l'accord collectif ou de l'avenant en deux exemplaires (en cas d'avenant, merci de fournir également la copie de l'accord initial) <br/>□ L'attestation en annexe II des noms et adresses des organisations syndicales de salariés invitées à négocier le protocole préélectoral des dernières élections professionnelles <br/>□ Copie des PV CERFA des dernières élections (CE, DP, DUP selon le cas) <br/>□ Kbis du siège de moins de trois mois <br/>□ Copie de l'information préalable prévue à l'article <a alt='Code du travail - art. L2232-21 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901709&dateTexte=&categorieLien=cid'>L. 2232-21</a> du code du travail, adressée par l'employeur à chacune des fédérations des organisations syndicales représentatives des salariés de la branche sur sa décision d'engager des négociations collectives </p><p></p><p></p><div align='center'><center><table border='1'><tbody><tr><th>Partie réservée à la CPNVAE </th></tr><tr align='left'><td>Date de réception de l'accord/ avenant :....../....../20...... </td></tr><tr align='left'><td>Dossier réputé complet le : </td></tr><tr align='left'><td>Date de circularisation aux partenaires sociaux : </td></tr><tr align='left'><td>Avis de la commission : </td></tr><tr align='left'><td>Date d'envoi de l'avis :</td></tr></tbody></table></center></div><p></p>",
+                    "etat": "VIGUEUR_NON_ETEN"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032826764",
+                    "cid": "KALIARTI000032826764",
+                    "num": null,
+                    "intOrdre": 1048574,
+                    "content": "<p align='center'>Annexe II <br/>Attestation des noms et adresses des organisations syndicales de salariés invitées à négocier le protocole d'accord préélectoral </p><p>Dans le cadre de la saisine de la commission de branche de validation des accords d'entreprise, l'entreprise qui saisit doit informer la commission des noms et adresses des organisations syndicales de salariés invitées à négocier le protocole préélectoral des dernières élections professionnelles. <br/>Nom de l'entreprise :................................................................................................................... <br/>Date de la 1re réunion de négociation du protocole d'accord préélectoral :..................................... <br/>Date des élections :................................. </p><p></p><div align='center'><center><table border='1'><tbody><tr><th>Noms des organisations syndicales <br/>de salariés invitées </th><th>Adresse où le courrier a été envoyé </th><th>Date d'envoi du courrier </th></tr><tr><td><br/></td><td><br/></td><td><br/></td></tr><tr><td><br/></td><td><br/></td><td><br/></td></tr><tr><td><br/></td><td><br/></td><td><br/></td></tr><tr><td><br/></td><td><br/></td><td><br/></td></tr><tr><td><br/></td><td><br/></td><td><br/></td></tr><tr><td><br/></td><td><br/></td><td><br/></td></tr><tr><td><br/></td><td><br/></td><td><br/></td></tr></tbody></table></center></div><p></p><p>Je soussigné M. ou Mme..........................................................................................., représentant de l'entreprise................................................................. atteste sur l'honneur l'exactitude des informations ci-dessus. <br/>Dans le cas du non-respect de l'invitation des organisations syndicales de salariés prévue aux articles <a alt='Code du travail - art. L2314-3 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901873&dateTexte=&categorieLien=cid'>L. 2314-3 </a>et <a alt='Code du travail - art. L2324-4 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902028&dateTexte=&categorieLien=cid'>L. 2324-4</a> du code du travail lors de l'organisation des élections professionnelles, l'entreprise s'expose à l'annulation de l'accord même si la commission l'a validé. <br/>Fait à......................................................................., le............................................................... <br/>Signature du représentant et cachet de l'entreprise</p>",
+                    "etat": "VIGUEUR_NON_ETEN"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000032826739",
+                "cid": "KALIARTI000032826739",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "content": "<p align='left'><br/>A l'exception de ceux mentionnés conventionnellement ou légalement à l'article L. 2233-22 du code du travail, les thèmes ouverts à ce type de négociation sont les mesures dont la mise en œuvre est subordonnée par la loi ou par un accord collectif.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Thèmes de négociation dans les entreprises"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000032826741",
+                "cid": "KALIARTI000032826741",
+                "num": "2",
+                "intOrdre": 1572861,
+                "content": "<p align='left'><br/>L'accord soumis à la commission de validation ne pourra acquérir la qualité d'accord d'entreprise qu'après validation par la commission paritaire nationale de validation. A défaut de décision de ladite commission, au terme d'un délai de 4 mois à compter de la réception du dossier réputé complet au secrétariat de la commission, l'accord est réputé validé.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Validation des accords d'entreprise"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000032826742",
+                "cid": "KALIARTI000032826742",
+                "num": "3",
+                "intOrdre": 2097148,
+                "content": "<p align='left'><br/>La commission paritaire nationale de validation des accords d'entreprise (CPNVAE) contrôle que l'accord collectif n'enfreint pas les dispositions législatives, réglementaires ou conventionnelles applicables.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Fonctionnement de la commission paritaire nationale de validation des accords d'entreprise"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000032826743",
+                "cid": "KALIARTI000032826743",
+                "num": "3.1",
+                "intOrdre": 2621435,
+                "content": "<p align='left'><br/>La CPNVAE est composée :<br/>– pour le collège salarié : d'un titulaire et d'un suppléant par organisation syndicale de salariés représentative dans la branche ;<br/>– pour le collège patronal : il sera représenté par un nombre égal de représentants titulaires et suppléants à ceux du collège salarié.<br/>Les frais de déplacement pour assister à ces réunions sont régis par l'article 7 de l'accord sur le fonds du paritarisme de la branche.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Composition"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000032826744",
+                "cid": "KALIARTI000032826744",
+                "num": "3.2",
+                "intOrdre": 3145722,
+                "content": "<p align='left'><br/>La commission se réunit de préférence à l'occasion des commissions paritaires et au plus tard dans les 2 mois qui suivent la saisine par l'entreprise, sur convocation adressée par le secrétariat de la commission au plus tard 21 jours avant la réunion. Les dossiers complets devront être circularisés auprès des partenaires sociaux au maximum 15 jours calendaires après leur réception complète par le secrétariat, la preuve en sera fournie avec le dossier. Durant ces 2 mois, les organisations patronales et syndicales de salariés peuvent demander les informations complémentaires nécessaires. Il est précisé que ces délais commencent à courir dès réception du dossier complet. Les partenaires sociaux s'engagent à respecter la confidentialité des dossiers. Les séances de la commission nationale paritaire de validation sont présidées alternativement par un membre d'une des organisations syndicales de salariés et par un représentant d'une des organisations patronales.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Réunion de la CPNVAE"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000032826745",
+                "cid": "KALIARTI000032826745",
+                "num": "3.3",
+                "intOrdre": 3670009,
+                "content": "<p align='left'><br/>Afin que les décisions rendues soient valables, le quorum des membres présents à la réunion est fixé à deux organisations syndicales de salariés et une organisation patronale.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Quorum pour la validité des décisions"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000032826746",
+                "cid": "KALIARTI000032826746",
+                "num": "4",
+                "intOrdre": 4194296,
+                "content": "<p align='left'><br/>L'entreprise concernée saisit la commission paritaire nationale de validation (CPNVAE) en adressant un dossier au secrétariat de la commission dans les conditions suivantes : <br/>Envoi par lettre recommandée avec avis de réception de la demande de validation qui devra être accompagnée des documents suivants : <br/>– l'accord signé faisant l'objet de la demande de validation avec les coordonnées des signataires de ce dernier ; <br/>– une fiche de présentation de l'entreprise : annexe I ; <br/>– une copie du Kbis de moins de trois mois du siège social ; <br/>– une copie de l'information préalable prévue à l'article <a alt='Code du travail - art. L2232-21 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901709&dateTexte=&categorieLien=cid'>L. 2232-21</a> du code du travail, adressée par l'employeur à chacune des fédérations des organisations syndicales représentatives des salariés de la branche sur sa décision d'engager des négociations collectives ; <br/>– l'attestation en annexe II des noms et adresses des organisations syndicales de salariés invitées à négocier le protocole préélectoral des dernières élections professionnelles ; <br/>– une copie des procès-verbaux CERFA des dernières élections professionnelles (CE, DP, DUP) ; <br/>– une copie des accords d'entreprise cités dans l'accord soumis à la validation.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Procédure de validation des accords. – Saisine de la commission paritaire nationale de validation"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000032826748",
+                "cid": "KALIARTI000032826748",
+                "num": "5",
+                "intOrdre": 4718583,
+                "content": "",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Décision et notification de la commission paritaire nationale de validation"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000032826749",
+                "cid": "KALIARTI000032826749",
+                "num": "5.1",
+                "intOrdre": 5242870,
+                "content": "<p align='left'><br/>La CPNVAE rend une décision de validation si les conditions cumulatives suivantes sont remplies : <br/>– les mesures concernées ne peuvent être mises en œuvre que par accord collectif en application des dispositions légales ; <br/>– les mesures n'enfreignent pas les dispositions législatives, réglementaires ou conventionnelles applicables. La commission examine si les conditions ainsi rappelées sont respectées ; <br/>– l'accord a obtenu la validation du collège représentant les employeurs et du collège représentant les salariés, à savoir la majorité des voix des membres présents. Si les collèges sont en désaccord (un collège pour la validation et un collège contre la validation), il est procédé à un deuxième vote. A l'issue de ce deuxième vote, l'accord sera validé s'il obtient la majorité des voix des organisations présentes, les organisations patronales prenant soin, en début de séance, de communiquer la répartition de leur nombre de voix. <br/>Les avis rendus par la commission de validation de branche de la <a alt='Convention collective nationale des entreprises de services à la personne du 20 septembre 2012  (VE)' href='/affichIDCC.do?cidTexte=KALITEXT000026943196&categorieLien=cid'>convention collective nationale</a> des entreprises de services à la personne (n° 3370, idcc 3127) ne sauraient préjuger de l'interprétation qui en serait faite par les tribunaux et ne peut engager la responsabilité de la commission et de ses membres.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Prise de décision de la commission"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000032826750",
+                "cid": "KALIARTI000032826750",
+                "num": "5.2",
+                "intOrdre": 5767157,
+                "content": "<p align='left'><br/>Toutes les décisions de la commission sont consignées dans un registre tenu par le secrétariat de la commission.<br/>La décision de la CPNVAE est notifiée à la DIRECCTE compétente en recommandé avec avis de réception ou par courriel et à l'entreprise en recommandé avec avis de réception dans un délai de 15 jours suivant le prononcé de la décision à l'auteur de la saisine qui se charge d'informer les signataires de l'accord.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Notification de la décision de la CPNVAE"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000032826751",
+                "cid": "KALIARTI000032826751",
+                "num": "6",
+                "intOrdre": 6291444,
+                "content": "<p align='left'>Le secrétariat de la commission est assuré par les deux organisations patronales.<br/>Les accords sont à envoyer obligatoirement aux deux organisations patronales (1) :<br/>– FEDESAP, 29/31, rue Chaptal, 75009 Paris ;<br/>– FESP, 48, boulevard de la Tour-Maubourg, 75007 Paris.<br/>Le secrétariat est chargé de la réception des demandes de validation et de la vérification du contenu du dossier.<br/>Le secrétariat assure la convocation aux différentes réunions. Cette convocation indique la date, l'heure et le lieu de la réunion ainsi que la liste des accords qui seront examinés lors de cette réunion, en vue de leur validation. Il assure aussi la circularisation auprès des partenaires sociaux des dossiers une fois réputés complets dans les 15 jours qui suivent la réception de tous les documents.<br/>Le secrétariat rédige le procès-verbal des réunions de la commission. Le secrétariat notifie les décisions de la commission. Au titre de ce service, le secrétariat de la commission est habilité à facturer à l'APNESAP des frais de dossiers évalués sur une base forfaitaire unitaire.</p><font color='#808080' size='1'><em>(1) Ces coordonnées étant susceptibles d'être modifiées, les entreprises devront s'assurer de leur validité avant d'envoyer leur demande de validation.<br/></em></font>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Secrétariat de la commission paritaire nationale de validation"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000032826752",
+                "cid": "KALIARTI000032826752",
+                "num": "7",
+                "intOrdre": 6815731,
+                "content": "<p align='left'><br/>Le présent accord est conclu pour une durée indéterminée et entrera en vigueur à compter du jour de sa signature.<br/>Le présent accord fera l'objet d'un réexamen en cas d'évolution des dispositions législatives, réglementaires ou conventionnelles qui nécessiteraient l'adaptation de l'une ou de plusieurs de ses dispositions.<br/>En tout état de cause, il fera l'objet d'un réexamen par les partenaires sociaux à l'issue d'un délai de 3 ans à compter de sa date d'entrée en vigueur.<br/>Les conditions de dénonciation et révision sont respectivement régies par les règles en vigueur.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Entrée en vigueur. – Durée de l'accord. – Révision et dénonciation"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000032826753",
+                "cid": "KALIARTI000032826753",
+                "num": "8",
+                "intOrdre": 7340018,
+                "content": "<p align='left'>Le présent accord sera déposé par la partie la plus diligente, conformément aux articles <a alt='Code du travail - art. L2231-6 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>L. 2231-6</a>, <a alt='Code du travail - art. L2261-1 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901779&dateTexte=&categorieLien=cid'>L. 2261-1</a>, <a alt='Code du travail - art. L2262-8 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901817&dateTexte=&categorieLien=cid'>L. 2262-8</a> et D. 2232 du code du travail et les parties conviennent de le présenter à l'extension auprès du ministère compétent, à l'expiration du délai légal d'opposition.<br/></p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Dépôt et extension"
+              }
+            }
+          ]
         },
         {
           "type": "section",
           "data": {
+            "title": "Accord du 2 octobre 2015 relatif à la formation professionnelle tout au long de la vie",
             "id": "KALITEXT000032003508"
           },
-          "children": []
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000032003511",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032003520",
+                    "cid": "KALIARTI000032003520",
+                    "num": null,
+                    "intOrdre": 524287,
+                    "content": "<p align='left'><br/>Les partenaires sociaux du présent accord, après avoir analysé les dispositions de l'accord national interprofessionnel du 14 décembre 2013, et dans le cadre de l'ensemble des dispositions de la sixième partie, livre III, du code du travail et de la <a alt='lien vers un document Legifrance' href='/affichTexte.do?cidTexte=JORFTEXT000028683576&categorieLien=cid'>loi n° 2014-288 du 5 mars 2014 </a>relative à la formation professionnelle, à l'emploi et à la démocratie sociale, souhaitent poursuivre la dynamique de modernisation et de professionnalisation du secteur. <br/>Cet accord traite de la formation des salariés des entreprises de services à la personne. Convaincus que la formation est un investissement prioritaire, condition du développement durable de réponses adaptées aux besoins des usagers et de l'employabilité des salariés de la branche, levier pour plus de temps complet, les partenaires sociaux considèrent qu'elle doit bénéficier à toutes les catégories de salariés. <br/>Compte tenu de la loi du 5 mars 2014 relative à la formation professionnelle, à l'emploi et au dialogue social, les partenaires sociaux de la branche des entreprises de services à la personne ont souhaité modifier les dispositions du chapitre II, partie III, de la <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000026943196&categorieLien=cid'>convention collective des entreprises de services à la personne</a>.</p>",
+                    "etat": "VIGUEUR_ETEN"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 1572861,
+                "title": "Section 1 Objectifs de la politique de formation",
+                "id": "KALISCTA000032003513",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032003524",
+                    "cid": "KALIARTI000032003524",
+                    "num": "2",
+                    "intOrdre": 524287,
+                    "content": "<p align='left'><br/>Ces objectifs, pour les partenaires sociaux, portent sur la modernisation et la professionnalisation du secteur et s'articulent autour des axes suivants :<br/>– définir et mettre en place des formations qualifiantes pour les principaux emplois repères (construction systématique de référentiel métier, compétences, formation) ;<br/>– diversifier les modalités d'accès aux formations (en cours d'emploi, formation en alternance, e-learning, FOAD…) et de validation des compétences totales ou partielles, afin d'augmenter les effectifs qualifiés (création de passerelles et d'équivalences, en lien avec l'ensemble des pouvoirs publics concernés) ;<br/>– favoriser le développement de la VAE au travers d'une communication et d'un accompagnement adaptés ;<br/>– encourager le développement des compétences dans le cadre de la formation professionnelle continue, notamment dans le cadre du compte personnel à la formation ;<br/>– favoriser les passerelles entre les différents emplois de la branche ;<br/>– maîtriser le développement des dispositifs de formation par une présence active à l'intérieur des centres de formation déclarés et au travers du développement de l'accueil de stagiaires.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Objectifs généraux"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032003525",
+                    "cid": "KALIARTI000032003525",
+                    "num": "3",
+                    "intOrdre": 1048574,
+                    "content": "<p align='left'><br/>La négociation triennale sur les objectifs et les moyens de la formation professionnelle porte sur les thèmes prévus à <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485303&dateTexte=&categorieLien=cid'>l'article R. 2241-9 du code du travail</a>. <br/>Les partenaires sociaux définissent tous les 3 ans les objectifs prioritaires de la branche en matière de formation professionnelle, notamment les publics et qualifications prioritaires pour les contrats et périodes de professionnalisation. </p><p align='center'><br/>3.1. Qualification des salariés </p><p align='left'><br/>L'objectif est de poursuivre et de renforcer un effort important et permanent de qualification des salariés, en lien avec les activités et les projets des structures, permettant un accroissement continu et significatif du nombre de salariés qualifiés dans la branche. <br/>Afin d'atteindre cet objectif, les partenaires sociaux posent le principe de l'intérêt d'utiliser tous les dispositifs permettant d'acquérir de nouvelles qualifications et compétences. Les actions menées doivent s'inscrire dans le cadre de parcours sécurisés visant l'obtention d'une qualification reconnue. <br/>Une attention particulière est portée aux seniors, très nombreux dans ce secteur d'activité, pour accompagner leur évolution dans le métier et développer leur capacité à transmettre leurs compétences. <br/>Pour les 3 prochaines années, les objectifs prioritaires de la branche sont les suivants : <br/>– favoriser l'obtention de qualifications pour les salariés non qualifiés au sens de l'accord national interprofessionnel ou au regard des qualifications exigées par la réglementation du secteur des services à la personne, et notamment dans les emplois d'intervention et d'encadrement ; <br/>– favoriser l'obtention de qualifications pour les salariés bénéficiant d'une expérience dans l'emploi d'au moins 5 ans ; <br/>– faciliter l'obtention de qualification pour les emplois d'encadrement et pour les emplois de direction ; <br/>– mettre en place les contrats et périodes de professionnalisation ; <br/>– favoriser l'accès aux formations permettant la maîtrise des outils informatiques nécessaires au bon fonctionnement de l'entreprise ; <br/>– favoriser les actions de formation de perfectionnement et/ ou évolution des compétences liées à l'emploi occupé ou visé ; <br/>– favoriser les formations liées à la fonction tutorale, en particulier auprès des seniors. <br/>Ces priorités sont déclinées annuellement par la CPNEFP, qui les communique à l'OPCA désigné. </p><p align='center'><br/>3.2. Publics prioritaires </p><p align='left'><br/>Les partenaires sociaux définissent deux grandes catégories de publics prioritaires au sein de la branche professionnelle dans le cadre de la mise en œuvre des différents dispositifs de formation professionnelle continue (plan de formation, période de professionnalisation et compte personnel de formation). Il est précisé que ces publics sont prioritaires au regard des actions elles-mêmes prioritaires dans le présent accord. <br/>Première priorité : afin de réduire les inégalités d'accès à la formation et à la qualification, les partenaires sociaux désignent comme publics prioritaires majeurs de la branche : les intervenants non qualifiés, les salariés à temps partiels, les jeunes et les seniors, et cela quelle que soit la taille de l'entreprise. <br/>Deuxième priorité : les partenaires sociaux considèrent également comme publics prioritaires les salariés occupant un emploi d'encadrement et les cadres pour favoriser l'évolution de leurs compétences au regard de l'évolution des métiers qu'ils exercent et des exigences législatives ou réglementaires. <br/>Pour ces publics, les partenaires sociaux reconnaissent comme priorités nationales les objectifs suivants : <br/>Pour les intervenants non qualifiés, les jeunes et les seniors (visés supra) : <br/>– faciliter l'accès de ces salariés à la formation professionnelle continue en développant la démarche d'alphabétisation, la lutte contre l'illettrisme, l'initiation et le perfectionnement à la langue française ; <br/>– renforcer les compétences techniques, organisationnelles et aptitudes de service ainsi que l'acquisition des compétences liées aux services associés, en vue d'atteindre une qualification ; <br/>– faciliter l'accès à un parcours qualifiant ; <br/>– développer la formation à la prévention des risques liés aux publics fragiles, notamment par l'obtention de l'attestation « prévention et secours civiques de niveau 1 » (PSC1). <br/>Afin de favoriser l'intégration et l'évolution professionnelle des salariés embauchés sur des emplois non qualifiés, la branche décide de : <br/>– veiller à ce que les plans de formation accordent une attention particulière aux actions de formation en faveur de ces personnels ; <br/>– favoriser la mise en place de parcours d'intégration, notamment par la mise en place d'un tutorat au moment de l'entrée en fonction du personnel non qualifié ; <br/>– favoriser l'accès aux formations sur les savoirs de base (socle de compétences et de connaissances). <br/>Pour les salariés n'intervenant pas à domicile et les cadres : <br/>– pour les salariés n'intervenant pas à domicile : le développement des compétences techniques, organisationnelles et relationnelles (aptitudes de service face au client) ; <br/>– pour les cadres : <br/>– les certifications au moins de niveau II enregistrées au répertoire national des certifications professionnelles prévu à <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006071191&idArticle=LEGIARTI000006524831&dateTexte=&categorieLien=cid'>l'article L. 335-6 du code de l'éducation</a> permettant la direction d'établissements ou de services sociaux ou médico-sociaux ; <br/>– le développement des compétences commerciales (notamment concernant la dimension « services »), d'organisation, de gestion des structures (législation, gestion d'exploitation, qualité, devis) et de management des équipes (notamment le tutorat et l'accompagnement des salariés en alternance) ; <br/>– le développement de démarches de gestion des ressources humaines, notamment la gestion prévisionnelle de l'emploi et des compétences.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Priorités de formation"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 2097148,
+                "title": "Section 2 Favoriser l'insertion dans la branche par une meilleure articulation entre formation initiale et formation continue",
+                "id": "KALISCTA000032003514",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032003528",
+                    "cid": "KALIARTI000032003528",
+                    "num": null,
+                    "intOrdre": 524287,
+                    "content": "<p align='left'><br/>La branche des entreprises privées de services à la personne est une branche récente dont le développement passe par le recrutement de personnels qualifiés. Aussi, les parties affirment leur volonté de construire et de mettre en œuvre les filières de qualification de la branche de manière cohérente entre les contrats de professionnalisation et les contrats d'apprentissage.<br/>Elles souhaitent développer activement les liens nécessaires entre formation professionnelle continue et formation professionnelle initiale pour une professionnalisation efficace et la création de véritables projets de carrière, notamment par le biais de l'alternance.</p>",
+                    "etat": "VIGUEUR_ETEN"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032003529",
+                    "cid": "KALIARTI000032003529",
+                    "num": "4",
+                    "intOrdre": 1048574,
+                    "content": "<p align='left'><br/>Au regard des besoins de professionnalisation du secteur pour répondre aux exigences des clients et sécuriser les parcours professionnels des demandeurs d'emploi, les partenaires sociaux confirment leur volonté de mettre en œuvre la préparation opérationnelle à l'emploi individuelle et collective.<br/>Les partenaires sociaux invitent les entreprises à étudier, avant toute embauche, l'opportunité de mettre en place en amont une préparation opérationnelle à l'emploi individuelle, sous réserve du maintien du financement par le fonds paritaire de sécurisation des parcours professionnels et de Pôle emploi pour la POEI.<br/>Ils souhaitent également poursuivre le recours à la préparation opérationnelle à l'emploi collective pour les emplois dont les difficultés de recrutement de personnels compétents sont les plus importantes.<br/>La préparation opérationnelle à l'emploi collective permet à plusieurs demandeurs d'emploi de bénéficier d'une formation nécessaire à l'acquisition des compétences requises pour occuper des emplois correspondant à des besoins identifiés en CPNEFP.<br/>Le contrat de travail qui peut être conclu à l'issue de la préparation opérationnelle à l'emploi collective est un contrat à durée indéterminée, un contrat de professionnalisation d'une durée minimale de 12 mois, un contrat d'apprentissage ou un contrat à durée déterminée d'une durée minimale de 12 mois.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Préparation opérationnelle à l'emploi"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032003530",
+                    "cid": "KALIARTI000032003530",
+                    "num": "5",
+                    "intOrdre": 1572861,
+                    "content": "<p align='center'><br/>5.1. Publics</p><p align='left'><br/>Les jeunes âgés de 16 à 25 ans révolus, pour compléter leur formation initiale.<br/>Les demandeurs d'emploi âgés de 26 ans et plus, inscrits à Pôle emploi. Il est admis que les personnes âgées de 26 ans et plus, sortant d'un contrat aidé, puissent être recrutées en contrat de professionnalisation sans se réinscrire sur cette liste.<br/>Les bénéficiaires du revenu de solidarité active (RSA), de l'allocation de solidarité spécifique ou de l'allocation aux adultes handicapés.<br/>Les personnes ayant bénéficié d'un contrat unique d'insertion.<br/>NB. – La réglementation des services à la personne impose l'âge de 18 ans révolus pour exercer une activité auprès des publics fragiles.<br/>Sont considérées prioritaires les personnes âgées de moins de 26 ans qui n'ont pas validé un second cycle de l'enseignement secondaire et qui ne sont pas titulaires d'un diplôme de l'enseignement technologique ou professionnel, les bénéficiaires de minima sociaux (RSA, ASS, AAH) et les personnes ayant bénéficié d'un contrat unique d'insertion.<br/>Les entreprises peuvent étudier, avant chaque embauche en contrat de professionnalisation, l'opportunité de mettre en place en amont une préparation opérationnelle à l'emploi.</p><p align='center'><br/>5.2. Durée du contrat et de la formation</p><p align='left'><br/>Durée du contrat :<br/>– 6 à 12 mois pour les CDD ;<br/>– 6 à 12 mois pour l'action de professionnalisation dans le cas d'un contrat à durée indéterminée.<br/>La durée du contrat ou de l'action de professionnalisation peut être allongée, jusqu'à 24 mois maximum, pour les publics prioritaires (cf ci-dessus).<br/>Lorsque l'obtention de la qualification visée l'exige, la durée du contrat ou de l'action de professionnalisation peut être allongée, jusqu'à 24 mois maximum, pour l'obtention des qualifications conduisant à :<br/>– un titre ou un diplôme ;<br/>– un certificat de qualification professionnelle (CQP) ;<br/>– une qualification reconnue dans les classifications d'une convention collective.<br/>Durée des actions de formation et assimilées :<br/>La durée des actions de formation et assimilées (accompagnement et évaluation) est comprise entre 15 % et 25 % de la durée du contrat (contrat à durée déterminée) ou de l'action de professionnalisation (contrat à durée indéterminée).<br/>La durée des actions de formation ne peut être inférieure à 150 heures.<br/>La durée des actions de formation peut être comprise entre 25 % et 40 % de la durée du contrat (ou de la professionnalisation pour un contrat à durée indéterminée), lorsque la nature de la qualification visée l'exige, ou pour les publics suivants :<br/>– les jeunes de moins de 26 ans n'ayant pas de qualification professionnelle reconnue ;<br/>– les jeunes non titulaires de diplômes de l'enseignement technologique ou professionnel, de certificats de qualification professionnelle ou d'une qualification reconnue dans les classifications d'une convention collective ;<br/>– les jeunes de moins de 26 ans titulaires de diplômes de l'enseignement général ;<br/>– les personnes en situation d'illettrisme ;<br/>– les personnes n'ayant pas achevé un second cycle de l'enseignement secondaire (lycée) ;<br/>– les demandeurs d'emploi de plus de 45 ans ;<br/>– les personnes visant une qualification dont l'objet est la préparation à la fonction de chef d'entreprise (dirigeant, adjoint de dirigeant...) dans le cadre d'une reprise ou création d'entreprise.<br/>A noter : le contrat de professionnalisation peut être conclu à temps partiel, dans le respect des conditions précisées ci-dessus, notamment de la durée de la formation par rapport à la durée du contrat. L'organisation du travail à temps partiel ne doit pas faire obstacle à l'acquisition de la qualification visée.</p><p align='center'><br/>5.3. Objectifs</p><p align='left'><br/>Le contrat de professionnalisation a pour objectif de permettre à son bénéficiaire d'acquérir une qualification professionnelle :<br/>– soit enregistrée dans le RNCP (répertoire national des certifications professionnelles) ;<br/>– soit reconnue dans les classifications d'une convention collective nationale de branche ;<br/>– soit ouvrant droit à un certificat de qualification professionnelle.</p><p align='center'><br/>5.4. Tutorat</p><p align='left'><br/>La spécificité de l'exercice du travail au domicile d'un particulier conduit les partenaires sociaux à rendre obligatoire la désignation d'un tuteur, pour toute entreprise signant un contrat de professionnalisation.<br/>Le tuteur ne peut exercer simultanément ses fonctions à l'égard de plus de trois salariés bénéficiaires de contrats de professionnalisation ou d'apprentissage ou de périodes de professionnalisation (avec un maximum de deux bénéficiaires de contrats de professionnalisation ou d'apprentissage).<br/>Un travail sera conduit avec l'OPCA de la branche pour mettre en place des outils d'accompagnement spécifiques pour la formation et le suivi des tuteurs.</p><p align='center'><br/>5.5. Rémunération</p><p align='left'><br/>Les salariés âgés de moins de 26 ans perçoivent, pendant la durée du contrat à durée déterminée ou de l'action de professionnalisation du contrat à durée indéterminée, une rémunération minimale légale, calculée en fonction de leur âge et de leur niveau de formation.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Contrat de professionnalisation"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032003531",
+                    "cid": "KALIARTI000032003531",
+                    "num": "6",
+                    "intOrdre": 2097148,
+                    "content": "<p align='left'><br/>Bien que très peu organisé au sein de la branche, les partenaires sociaux considèrent que le contrat d'apprentissage est une voie appropriée pour accéder à certains métiers de la branche. Ils conviennent de financer, en priorité, les diplômes et titres professionnels figurant sur la liste établie par la CPNE.<br/>Les partenaires sociaux s'engagent à mener une véritable réflexion en matière d'apprentissage en vue de le développer au sein des entreprises et de permettre l'accès aux métiers de la branche par cette voie.<br/>Afin que la branche puisse disposer de moyens nécessaires pour prendre en charge des actions collectives de communication sur les métiers et le financement des établissements d'enseignement préparant à ses métiers, les partenaires sociaux invitent toutes les entreprises à verser leur taxe d'apprentissage à AGEFOS-PME en tant qu' OCTA de la branche.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Contrat d'apprentissage"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 2621435,
+                "title": "Section 3 Favoriser le développement professionnel des salariés de la branche et l'accès à une qualification",
+                "id": "KALISCTA000032003515",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032003532",
+                    "cid": "KALIARTI000032003532",
+                    "num": "7",
+                    "intOrdre": 524287,
+                    "content": "<p align='center'>7.1. Plan de formation </p><p align='left'>Le plan de formation de l'entreprise est un axe majeur de la stratégie de formation permettant la progression des salariés et le développement de leurs compétences. Il vise le développement de l'évolution professionnelle des salariés dans une perspective qualifiante et assure le maintien de la compétitivité des entreprises. <br/>Chaque entreprise, quel que soit son effectif, élabore un plan annuel de formation, dans le respect des dispositions du code du travail, tant en ce qui concerne sa construction qu'en ce qui concerne les obligations d'information et de consultation des instances représentatives du personnel. <br/>Le plan de formation de la structure doit prévoir : <br/>– les orientations générales en matière de formation professionnelle ; <br/>– les actions de formation retenues dans le respect des orientations définies par la CPNEFP de la branche : actions visant l'obtention d'une qualification (VAE, promotion professionnelle) ou actions de formation visant l'entretien et le développement des compétences ; <br/>– les dispositions prises en matière d'information des salariés, notamment sur les dispositifs de formation visant l'amélioration de la sécurité et de la santé au travail. <br/>Le plan de formation peut être élaboré sur une période de plusieurs années. Néanmoins, les obligations annuelles en matière de bilan, d'orientation et de consultation demeurent. </p><p align='center'>7.2. Périodes de professionnalisation </p><p align='left'>7.2.1. Publics <br/>La période de professionnalisation est ouverte aux salariés en contrat à durée indéterminée, de salariés en contrat de travail à durée déterminée conclu en application de <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901196&dateTexte=&categorieLien=cid'>l'article L. 1242-3 </a>avec un employeur relevant de <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006903498&dateTexte=&categorieLien=cid'>l'article L. 5132-4 </a>et de salariés bénéficiaires d'un contrat à durée déterminée ou indéterminée conclu en application de <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000019864843&dateTexte=&categorieLien=cid'>l'article L. 5134-19-1</a>.<br/>7.2.2. Durée <br/>La durée minimale de formation suivie par les bénéficiaires d'une période de professionnalisation ne peut être inférieure à 70 heures, sauf pour les actions de validation des acquis de l'expérience, l'abondement du compte personnel de formation et les formations inscrites à l'inventaire de la commission nationale de la certification professionnelle (CNCP). <br/>7.2.3. Objectifs <br/>La période de professionnalisation a pour objectif de permettre à son bénéficiaire d'acquérir : <br/>– des formations qualifiantes mentionnées à <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904142&dateTexte=&categorieLien=cid'>l'article L. 6314-1 </a>du code du travail ; <br/>– des actions permettant l'accès réglementaire au socle de connaissances et de compétences ; <br/>– des actions permettant l'accès à une certification inscrite à l'inventaire de la Commission nationale de la certification professionnelle (CNCP). <br/>Les périodes de professionnalisation peuvent être abondées par le compte personnel de formation du salarié, dans les conditions prévues à l'article 8.1.4.<br/>7.2.4. Tutorat <br/>La spécificité de l'exercice du travail au domicile d'un particulier conduit les partenaires sociaux à rendre obligatoire la désignation d'un tuteur formé, pour toute période de professionnalisation mise en œuvre dans l'entreprise au bénéfice d'intervenant à domicile. <br/>Un tuteur ne peut accompagner plus de trois salariés en période de professionnalisation. <br/>Un travail sera conduit avec l'OPCA pour mettre en place des outils d'accompagnement spécifique pour la formation et le suivi des tuteurs (1). </p><p align='center'>7.3. Développement du tutorat </p><p align='left'>La fonction tutorale est mise en place dans trois situations : <br/>– l'accueil des stagiaires ; <br/>– l'accompagnement des nouveaux embauchés ; <br/>– l'accompagnement des salariés en formation en alternance (période et contrat de professionnalisation). <br/>Le tuteur est désigné par l'employeur en priorité parmi les salariés seniors tel que le prévoit l'article V du chapitre III de la partie III de la <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000026943196&categorieLien=cid'>convention collective nationale des entreprises de services à la personne</a> sur la base du volontariat parmi les salariés qualifiés de l'entreprise ayant 2 ans minimum d'expérience dans le secteur, en tenant compte de leur emploi et de leur niveau de qualification, qui devront être en adéquation avec les objectifs de la formation. <br/>Le tuteur a pour missions : <br/>– d'accompagner le salarié, ou futur professionnel, dans l'élaboration et la mise en œuvre de son projet professionnel ; <br/>– d'aider, d'informer, de conseiller et de guider les salariés de l'entreprise qui participent à des actions de formation, notamment dans le cadre des contrats ou des périodes de professionnalisation ; <br/>– de contribuer à l'acquisition de connaissances, de compétences et d'aptitudes professionnelles par le salarié concerné, au travers d'actions de formation en situation professionnelle ; <br/>– de participer à l'évaluation des compétences acquises dans le cadre de la formation pratique. <br/>Pour favoriser l'exercice de cette fonction tutorale, le salarié doit avoir bénéficié, au préalable, d'une formation spécifique. <br/>Les partenaires sociaux conviennent que l'organisation et la charge de travail du tuteur doivent lui permettre de remplir sa mission. L'employeur détermine le temps consacré à cette mission. Ce temps est considéré comme du temps de travail effectif. <br/>La spécificité du travail au domicile des particuliers conduit les partenaires sociaux à engager un travail d'ingénierie pour la mise en œuvre de modalités innovantes d'exercice du tutorat, et de construction de parcours de formation adaptés au bénéfice des tuteurs. </p><font color='#808080' size='1'><i>(1) En fonction des référentiels correspondant aux qualifications visées, notamment pour les personnes n'ayant pas de qualification professionnelle reconnue et dans le cadre d'une qualification diplômante.<br/></i></font>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "A l'initiative de l'employeur"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032003535",
+                    "cid": "KALIARTI000032003535",
+                    "num": "8",
+                    "intOrdre": 1048574,
+                    "content": "<p align='center'><br/>8.1. Compte personnel de formation </p><p align='left'><br/>8.1.1. Conditions d'ouverture et de calcul des droits <br/>Le compte personnel de formation (CPF) est institué par les <a alt='Code du travail - art. L6111-1 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006903977&dateTexte=&categorieLien=cid'>articles L. 6111-1 </a>et <a alt='Code du travail - art. L6323-1 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904223&dateTexte=&categorieLien=cid'>L. 6323-1 </a>et suivants du code du travail à effet du 1er janvier 2015 au bénéfice de chaque personne âgée d'au moins 16 ans, qu'elle soit salariée, demandeur d'emploi ou accompagnée dans un projet d'orientation ou d'insertion professionnelle ou accueillie dans un établissement et service d'aide par le travail mentionné au a du 5° du I de <a alt='Code de l'action sociale et des familles - art. L312-1 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006074069&idArticle=LEGIARTI000006797382&dateTexte=&categorieLien=cid'>l'article L. 312-1 </a>du code de l'action sociale et des familles. Par dérogation, ce compte personnel de formation est ouvert dès l'âge de 15 ans pour le jeune qui signe un contrat d'apprentissage, s'il justifie avoir accompli la scolarité du premier cycle de l'enseignement secondaire. <br/>Le compte est fermé lorsque la personne est admise à faire valoir l'ensemble de ses droits à la retraite. <br/>L'alimentation du compte se fait à hauteur de 24 heures par année de travail à temps complet jusqu'à l'acquisition d'un crédit de 120 heures, puis de 12 heures par année de travail à temps complet, dans la limite d'un plafond total de 150 heures. <br/>Pour les salariés à temps partiel, l'alimentation du compte est calculée à proportion du temps de travail effectué. <br/>Les abondements n'entrent pas en compte dans les modes de calcul des heures qui sont créditées sur le compte personnel du salarié chaque année et ainsi que dans le mode du calcul du plafond de 150 heures. <br/>8.1.2. Modalités de mise en œuvre <br/>Le compte personnel de formation est comptabilisé en heures et est mobilisé par la personne, qu'elle soit salariée ou demandeur d'emploi, pour suivre une action de formation à son initiative. <br/>Le compte ne peut être mobilisé qu'avec l'accord exprès de son titulaire. Le refus du titulaire du compte de le mobiliser ne constitue pas une faute. <br/>Les heures inscrites au compte permettent à son titulaire de financer une formation éligible au compte. <br/>La mobilisation du compte personnel de formation en dehors du temps de travail n'est pas soumise à l'accord de l'employeur et ne donne pas lieu au versement d'une allocation de formation. <br/>La mobilisation du compte personnel de formation sur le temps de travail est soumise à l'accord de l'employeur sur le contenu et le calendrier de la formation. L'absence de réponse de l'employeur dans le délai de 30 jours vaut acceptation de la demande. <br/>8.1.3. Formations éligibles au CPF <br/>Les formations éligibles au compte et mobilisables de droit auprès de l'employeur, sous réserve d'accord sur le calendrier de la formation sont : <br/>– les formations permettant d'acquérir le socle réglementaire de connaissances et de compétences, et ce conformément à <a alt='Code du travail - art. L6323-6 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904228&dateTexte=&categorieLien=cid'>l'article L. 6323-6 </a>du code du travail ; <br/>– l'accompagnement à la VAE mentionné à <a alt='Code du travail - art. L6313-11 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904141&dateTexte=&categorieLien=cid'>l'article L. 6313-11 </a>du code du travail. <br/>Sont également éligibles au CPF : <br/>– les formations visées par la liste élaborée et actualisée par la CPNE de la branche conformément aux dispositions du 1° du I de <a alt='Code du travail - art. L6323-16 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904238&dateTexte=&categorieLien=cid'>l'article L. 6323-16 </a>du code du travail <br/>– les formations visées par les listes nationales et régionales élaborées conformément aux dispositions des 2° et 3° du I de l'article L. 6323-16 du code du travail. <br/>L'information sur les formations éligibles au compte figure sur le service dématérialisé administré par la Caisse des dépôts et consignations. <br/>8.1.4. Politique d'abondement <br/>Au regard des besoins de qualification des salariés de la branche et indépendamment de l'abondement obligatoire prévu par <a alt='Code du travail - art. L6323-13 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904235&dateTexte=&categorieLien=cid'>l'article L. 6323-13 </a>du code du travail, les partenaires sociaux décident de mettre en place une politique d'abondement ambitieuse, en particulier en faveur des salariés à temps partiel, en prévoyant d'y affecter une contribution conventionnelle de 0,1 % de la masse salariale. Cette contribution pourra être complétée par des financements au titre des périodes de professionnalisation. Pour plus de souplesse, les partenaires sociaux confient à la CPNE le soin d'en fixer les modalités, en particulier de définir les certifications prioritaires, les publics concernés, et la nature de l'abondement au regard des fonds disponibles. <br/>8.1.5. Financement <br/>Les frais liés au compte personnel de formation sont pris en charge par l'OPCA de la branche ou par l'entreprise en application d'un accord d'entreprise portant gestion en interne du compte personnel de formation, dans la limite du nombre d'heures inscrites sur le compte personnel de formation du salarié. <br/>Les partenaires sociaux conviennent de confier à la section paritaire professionnelle des entreprises privées de services à la personne le soin de déterminer les enveloppes financières consacrées à la politique d'abondement de la branche. <br/>8.1.6. Période de transition <br/>Conformément à <a alt='Code du travail - art. L6323-23 (V)' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000028687244&dateTexte=&categorieLien=cid'>l'article L. 6323-23 </a>du code du travail, le solde des droits acquis au titre du DIF au 31 décembre 2014 est utilisable sur le régime du compte personnel de formation à compter du 1er janvier 2015 et jusqu'au 1er janvier 2021. Il peut se cumuler avec le CPF, dans la limite d'un plafond total de 150 heures et dans des conditions définies par décret en Conseil d'Etat. <br/>Afin de permettre l'utilisation du solde DIF par les salariés, les employeurs informeront les salariés avant le 31 janvier 2015 du solde des droits acquis au titre du DIF au 31 décembre 2014 et non utilisés. </p><p align='center'><br/>8.2. Validation des acquis de l'expérience (VAE) </p><p align='left'><br/><i>8.2.1. Principes généraux</i> <a shape='rect' href='#RENVOI_KALIARTI000032003535_1'> (1)</a><br/>La validation des acquis de l'expérience permet à tout salarié de la branche de faire valider l'expérience qu'il a acquise afin d'obtenir un diplôme, un titre à finalité professionnelle ou un CQP. <br/>8.2.2. Modalités de mise en œuvre <br/>Les partenaires sociaux rappellent que l'accompagnement VAE est accessible, dans le respect des conditions légales et réglementaires, soit dans le cadre du plan de formation, soit de droit dans le cadre du compte personnel de formation, soit dans le cadre d'un congé de VAE. <br/>Les actions de formation nécessaires à l'obtention du diplôme (du titre ou du CQP) visé sont éligibles. <br/>En tout état de cause, après 20 ans d'activité professionnelle ou à compter de son 45e anniversaire, tout salarié qui en fait la demande bénéficie, sous réserve d'une ancienneté minimale de 1 an dans l'entreprise, d'une priorité d'accès à la VAE. <br/>8.2.3. Jury <br/>Les partenaires sociaux entendent favoriser la participation des salariés de la branche aux jurys professionnels. <br/>Pour cela, et conformément aux dispositions légales, ils rappellent que lorsque le jury intervient pour délivrer une certification inscrite au RNCP les frais résultant de la participation au jury sont considérés comme des dépenses de formation. <br/>Ces frais couvrent les frais de transport, d'hébergement et de restauration, la rémunération du salarié et les cotisations sociales obligatoires et conventionnelles qui s'y rattachent. <br/>Les partenaires sociaux prévoient une prise en charge de ces frais par l'OPCA, selon les modalités et les critères qui seront proposés par la section professionnelle paritaire au CA de l'OPCA.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000032003535_1'></a>(1) Article 8.2.1 étendu sous réserve des dispositions de l'article L. 6313-11 du code du travail.  <br/>(Arrêté du 7 avril 2016 - art. 1)</em></font></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "A l'initiative du salarié"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 3145722,
+                "title": "Section 4 Outils d'aide au départ en formation, à l'orientation et à la définition d'un projet professionnel",
+                "id": "KALISCTA000032003516",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032003545",
+                    "cid": "KALIARTI000032003545",
+                    "num": null,
+                    "intOrdre": 524287,
+                    "content": "<p align='left'><br/>Ce chapitre a une finalité pédagogique et liste les outils sur lesquels les salariés peuvent s'appuyer pour définir un projet professionnel et, le cas échéant, un projet de formation, tel que le prévoit la législation au jour de la signature du présent accord.</p>",
+                    "etat": "VIGUEUR_ETEN"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032003546",
+                    "cid": "KALIARTI000032003546",
+                    "num": "9",
+                    "intOrdre": 1048574,
+                    "content": "<p align='left'><br/>Conformément à <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000021340649&dateTexte=&categorieLien=cid'>l'article L. 6315-1 </a>du code du travail, à l'occasion de leur embauche, les salariés sont informés par leur employeur qu'ils bénéficient tous les 2 ans d'un entretien professionnel consacré aux perspectives d'évolution professionnelle, notamment en termes de qualifications et d'emploi. Cet entretien ne porte pas sur l'évaluation du travail. <br/>Cet entretien est proposé systématiquement au salarié qui reprend son activité à l'issue d'un congé de maternité, d'un congé parental d'éducation, d'un congé de soutien familial, d'un congé d'adoption, d'un congé sabbatique, d'une période de mobilité volontaire sécurisée mentionnée à <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000027548897&dateTexte=&categorieLien=cid'>l'article L. 1222-12 </a>du code du travail, d'une période d'activité à temps partiel au sens de <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006900929&dateTexte=&categorieLien=cid'>l'article L. 1225-47 </a>du même code, d'un arrêt longue maladie prévu à <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006742522&dateTexte=&categorieLien=cid'>l'article L. 324-1</a> du code de la sécurité sociale ou à l'issue d'un mandat syndical. <br/>L'entretien professionnel donne lieu à la rédaction d'un document. Une copie est remise au salarié. <br/>Tous les 6 ans, au regard de l'ancienneté du salarié dans l'entreprise, il donne lieu à l'établissement d'un état récapitulatif du parcours professionnel de chaque salarié. <br/>Cet état des lieux est formalisé dans un document, dont une copie est remise au salarié. Cet état doit permettre de vérifier que le salarié a bénéficié au cours des 6 dernières années des entretiens professionnels et d'apprécier s'il a : <br/>– soit suivi au moins une action de formation ; <br/>– soit acquis des éléments de certification par la formation ou par la validation des acquis de l'expérience ; <br/>– soit bénéficié d'une progression salariale ou professionnelle. <br/>Les entreprises peuvent s'appuyer sur les supports à l'entretien professionnel élaboré par l'OPCA et disponibles sur le site internet en page d'accueil (www. agefos-pme. com).</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Entretiens professionnels"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032003550",
+                    "cid": "KALIARTI000032003550",
+                    "num": "10",
+                    "intOrdre": 1572861,
+                    "content": "<p align='left'><br/>Le passeport formation est établi à l'initiative du salarié, qui en garde la propriété.<br/>Tout salarié peut obtenir le passeport auprès de son employeur ou auprès du système d'information mis en place par la Caisse des dépôts et consignations.<br/>Il recense les acquis de la formation initiale et ceux de la formation professionnelle continue : les diplômes et les titres obtenus en formation initiale, les expériences acquises lors de stages ou de formations, les certifications professionnelles délivrées ainsi que la nature et la durée des actions de formation continue suivies.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Passeport formation"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032003551",
+                    "cid": "KALIARTI000032003551",
+                    "num": "11",
+                    "intOrdre": 2097148,
+                    "content": "<p align='center'><br/>11.1. Principes généraux</p><p align='left'><br/>Le bilan de compétences a pour objet de permettre au salarié d'analyser ses compétences professionnelles et personnelles ainsi que ses aptitudes et ses motivations et de définir un projet professionnel et, le cas échéant, un projet de formation.<br/>Il est mis en œuvre dans les conditions légales et réglementaires en vigueur.</p><p align='center'><br/>11.2. Modalités de départ en formation</p><p align='left'><br/>Les partenaires sociaux rappellent qu'il est accessible, dans le respect des conditions légales et réglementaires, soit dans le cadre du plan de formation, soit dans le cadre d'un congé de bilan de compétences (FONGECIF).<br/>En tout état de cause, après 20 ans d'activité professionnelle ou à compter de son 45e anniversaire, tout salarié bénéficie, sous réserve d'une ancienneté minimale de 1 an dans l'entreprise, d'un bilan de compétences mis en œuvre en dehors du temps de travail et financé en priorité dans le cadre du CIF, ou dans le cadre du plan de formation avec l'accord de l'employeur.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Bilan de compétences"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032003552",
+                    "cid": "KALIARTI000032003552",
+                    "num": "12",
+                    "intOrdre": 2621435,
+                    "content": "<p align='left'><br/>Le conseil en évolution professionnelle est une prestation gratuite relevant du service public d'orientation auquel peuvent recourir l'ensemble des salariés de la branche pour être accompagnés dans l'élaboration d'un projet professionnel qui peut, le cas échéant, nécessiter une formation et la mobilisation du compte personnel de formation.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Conseil en évolution professionnelle"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 3670009,
+                "title": "Section 5 Suivi de la politique de branche",
+                "id": "KALISCTA000032003517",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032003553",
+                    "cid": "KALIARTI000032003553",
+                    "num": "13",
+                    "intOrdre": 524287,
+                    "content": "<p align='left'><br/>Au regard des évolutions législatives, réglementaires ou conventionnelles, tant en matière d'emploi que dans le domaine de la formation professionnelle, la commission paritaire nationale de l'emploi et de la formation professionnelle a un rôle déterminant à jouer.</p><p align='center'><br/>13.1. Missions de la CPNEFP</p><p align='left'><br/>La commission a pour mission générale de promouvoir la formation professionnelle en liaison avec l'évolution de l'emploi dans le secteur d'activité.<br/>A ce titre, les missions principales de la CPNEFP sont les suivantes :<br/>– examiner périodiquement l'évolution quantitative et qualitative des emplois et des qualifications professionnelles au regard des informations issues de l'observatoire prospectif des métiers et des qualifications ;<br/>– participer à l'étude des moyens de formation, de perfectionnement et de réadaptation professionnels existant pour les différents niveaux de qualification ;<br/>– rechercher, avec les pouvoirs publics et les organisations intéressées, les mesures propres à assurer la pleine utilisation, l'adaptation et le développement de ces moyens ;<br/>– participer à la définition des priorités et orientations en matière de formation professionnelle ;<br/>– s'assurer de la mise en œuvre effective de ces priorités et orientations et prendre les dispositions en conséquence. Ces dispositions préciseront des objectifs quantitatifs et qualitatifs (flux, filière, diplômes, localisations, répartition régionale) et des objectifs de moyens (financement, mesures d'accompagnement, aides publiques et autres) ;<br/>– suivre l'application des accords conclus à l'issue de la négociation triennale de branche sur les objectifs, les priorités et les moyens de la formation professionnelle ;<br/>– concourir à l'insertion professionnelle des jeunes et au maintien dans l'emploi ;<br/>– élaborer et mettre à jour régulièrement la liste des formations éligibles au compte personnel de formation pour les salariés de la branche ;<br/>– structurer et piloter la politique d'apprentissage de la branche.<br/>La CPNEFP examine, chaque année, le rapport réalisé par l'OPCA destiné à faire le bilan des actions de formation engagées par la branche au cours de l'année écoulée.</p><p align='center'><br/>13.2. Composition de la CPNEFP</p><p align='left'><br/>La CPNEFP est composée paritairement en nombre égal d'un titulaire et d'un suppléant désigné par chaque organisation syndicale représentative au plan national dans la branche professionnelle et d'un nombre équivalent de représentants désignés par les organisations professionnelles de la branche.<br/>Tout titulaire dans l'incapacité de participer à une réunion de la CPNEFP peut se faire représenter par son suppléant.<br/>En cas d'impossibilité de siéger du titulaire et de son suppléant, le titulaire peut donner pouvoir à un membre de la CPNEFP de son choix du même collège.<br/>En cas de démission d'un des membres titulaires ou suppléants, l'organisation syndicale de salariés ou l'organisation patronale concernée procède à une nouvelle désignation.<br/>Un représentant de l'OPCA de la branche est associé à titre technique aux travaux de la CPNEFP, sans droit de vote.</p><p align='center'><br/>13.3. Fonctionnement de la CPNEFP</p><p align='left'><br/>La CPNEFP élit un président et un vice-président n'appartenant pas au même collège. Chaque président est désigné par son collège. Le mandat du président est de 2 ans. Chaque poste sera occupé alternativement par un représentant de l'organisation d'employeurs et par un représentant des organisations de salariés concernées.<br/>La première présidence sera assurée par un représentant de la délégation employeurs. La commission se réunit au moins deux fois par an ; selon les besoins, elle se réunit plus souvent par accord entre au moins deux organisations syndicales, une de chaque collège. L'ordre du jour de chaque réunion est arrêté par le président en fonction des propositions faites par les organisations représentatives du présent accord.<br/>Les convocations doivent parvenir aux membres de la commission par lettre simple ou courriel au moins 15 jours ouvrables avant la date de la réunion avec le compte rendu de la précédente réunion et tout document nécessaire à l'examen de l'ordre du jour. Les suppléants sont convoqués en même temps et sont destinataires des mêmes documents que les membres titulaires.<br/>Par ailleurs, les frais liés à ces réunions leur sont remboursés en fonction des accords sur le fonctionnement du paritarisme.<br/>Les décisions sont prises comme suit :<br/>– vote par collège : les délibérations et les avis sont arrêtés à la majorité conjointe de chaque collège au premier tour ;<br/>– vote à la majorité des membres : les décisions sont prises à la majorité des voix des membres présents ou dûment représentés par pouvoir, en cas de second tour.<br/>Seul le membre titulaire dispose d'un droit de vote, le suppléant ne votant qu'en son absence.<br/>Le secrétariat est attribué par décision de la CPNEFP.<br/>Un compte rendu sera établi pour chacune des réunions et proposé à l'adoption à la réunion suivante.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Commission paritaire nationale de l'emploi et de la formation professionnelle"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032003554",
+                    "cid": "KALIARTI000032003554",
+                    "num": "14",
+                    "intOrdre": 1048574,
+                    "content": "<p align='left'><br/>L'observatoire prospectif des métiers et des qualifications de la branche professionnelle a pour objectif d'appréhender les évolutions susceptibles d'affecter les emplois et les qualifications de la branche afin d'appuyer la définition de la politique d'emploi et de formation décidée par la branche.</p><p align='center'><br/>14.1. Missions du comité paritaire de pilotage de l'observatoire (CPPO)</p><p align='left'><br/>Les missions d'observation essentielles sont les suivantes :<br/>– une veille permanente sur l'évolution des métiers et des emplois ;<br/>– des études spécifiques concernant les métiers et les emplois présents et à venir dans les entreprises des SAP ;<br/>– la collecte de données quantitatives et qualitatives sur les métiers ;<br/>– un travail de veille et d'analyse des certifications éligibles au CPF et intéressant la branche afin de mettre à jour la liste établie par la CPNE.<br/>Ces travaux intègrent la situation comparée des femmes et des hommes.</p><p align='center'><br/>14.2. Comité paritaire de pilotage de l'observatoire<br/>Missions du CPPO</p><p align='left'><br/>Le CPPO dispose notamment des attributions suivantes :<br/>– établir le programme de travail annuel de l'observatoire ;<br/>– orienter les travaux pour alimenter les réflexions liées à la négociation triennale sur la formation au niveau de la branche ;<br/>– élaborer et suivre le budget de fonctionnement de l'observatoire ;<br/>– veiller au suivi et à la validation des travaux avant transmission à la CPNEFP ;<br/>– définir les modalités de communication.</p><p align='center'><br/>Composition du CPPO</p><p align='left'><br/>Un comité paritaire de pilotage de l'observatoire (CPPO) est constitué dans la branche. Le CPPO est composé paritairement en nombre égal d'un représentant désigné par chaque organisation syndicale représentative au plan national dans la branche professionnelle et d'un nombre équivalent de représentants désignés par les organisations professionnelles de la branche.</p><p align='center'><br/>Fonctionnement du CPPO</p><p align='left'><br/>Le CPPO se réunira deux fois par an sous les mêmes conditions que la CPNEFP.<br/>Par voie de convention entre la CPNEFP et l'OPCA, les moyens techniques, humains, logistiques mis à disposition par l'OPCA seront précisés.<br/>Le CPPO rend compte de ses travaux aux membres de la CPNEFP.</p><p align='center'><br/>Financement</p><p align='left'><br/>Le financement de l'observatoire sera assuré par des fonds mutualisés au sein de l'OPCA, conformément aux dispositions légales et réglementaires en vigueur et sur la base d'un budget de fonctionnement annuel.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Observatoire prospectif des métiers et des qualifications"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 4194296,
+                "title": "Section 6 Dispositions financières",
+                "id": "KALISCTA000032003518",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032003555",
+                    "cid": "KALIARTI000032003555",
+                    "num": null,
+                    "intOrdre": 524287,
+                    "content": "<p align='left'><br/>Afin de donner toute son ampleur à la politique de formation de la branche, les partenaires sociaux décident de se doter de moyens financiers significatifs en adéquation.</p>",
+                    "etat": "VIGUEUR_ETEN"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032003556",
+                    "cid": "KALIARTI000032003556",
+                    "num": "15",
+                    "intOrdre": 1048574,
+                    "content": "<p align='left'><br/>Les partenaires sociaux renouvellent la désignation d'AGEFOS-PME comme OPCA de la branche pour collecter les contributions dues au titre de la formation professionnelle. Ils recommandent AGEFOS-PME comme OCTA de la branche dans les conditions prévues à l'article 6.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Désignation de l'OPCA-OCTA"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032003557",
+                    "cid": "KALIARTI000032003557",
+                    "num": "16",
+                    "intOrdre": 1572861,
+                    "content": "<p align='center'><br/>16.1. Taux de contribution légale à la formation professionnelle</p><p align='left'><br/>Les employeurs consacrent, chaque année, au financement des actions de formation professionnelle, une contribution minimale équivalente :<br/>– à 0,55 % du montant des rémunérations versées pendant l'année de référence pour les entreprises de moins de 10 salariés sans être inférieur à 150 € ;<br/>– 1 % du montant des rémunérations versées pendant l'année de référence pour les entreprises d'au moins 10 salariés.<br/>Cette contribution doit être versée en totalité à l'AGEFOS-PME.</p><p align='center'><br/>16.2. Taux de contribution conventionnelle à la formation et affectation</p><p align='left'><br/>Au regard des besoins très significatifs de professionnalisation des salariés de la branche dans le but d'assurer la compétitivité des entreprises, les partenaires sociaux décident de mettre en place une contribution conventionnelle. Cette contribution est obligatoirement versée à l'OPCA désigné par la branche.<br/>Cette contribution est de :<br/>– 0,10 % de la masse salariale pour les entreprises de moins de 10 salariés ;<br/>– 0,40 % de la masse salariale pour les entreprises d'au moins 20 salariés ;<br/>– pour les entreprises de 10 à moins de 20 salariés, la contribution conventionnelle est dégressive, elle est de 0,20 % la première d'année d'application, de 0,30 % la deuxième année d'application et de 0,40 % à partir de la troisième année d'application.<br/>Cette contribution conventionnelle a pour objet le développement de la formation professionnelle continue. Il s'agit tout aussi bien de répondre à des besoins au titre du plan de formation que de la professionnalisation, de prendre en charge les coûts pédagogiques, comme les rémunérations et, le cas échéant, les frais annexes. Les partenaires sociaux décident que 0,10 % de la contribution conventionnelle est réservée à une politique d'abondement du CPF, en particulier en faveur des salariés à temps partiels (cf. art. 8.1.4 « Politique d'abondement »).<br/>La contribution conventionnelle est mutualisée dans une section comptable à part au sein de l'OPCA et gérée par la section professionnelle paritaire.</p><p align='center'><br/>16.3. Tableau récapitulatif</p><p align='left'><div align='center'><center><table border='1'><tr><th>Dispositif</th><th>< 10 salariés</th><th>10 à 19 salariés</th><th>20 à 49 salariés</th><th>50 à 299 salariés</th><th>300 salariés et +</th></tr><tr><td align='center'>CIF</td><td><br/></td><td align='center'>0,15 %</td><td align='center'>0,15 %</td><td align='center'>0,20 %</td><td align='center'>0,20 %</td></tr><tr><td align='center'>Professionnalisation</td><td align='center'>0,15 %</td><td align='center'>0,30 %</td><td align='center'>0,30 %</td><td align='center'>0,30 %</td><td align='center'>0,40 %</td></tr><tr><td align='center'>Plan</td><td align='center'>0,40 %</td><td align='center'>0,20 %</td><td align='center'>0,20 %</td><td align='center'>0,10 %</td><td><br/></td></tr><tr><td align='center'>CPF</td><td><br/></td><td align='center'>0,20 %</td><td align='center'>0,20 %</td><td align='center'>0,20 %</td><td align='center'>0,20 %</td></tr><tr><td align='center'>FPSPP</td><td><br/></td><td align='center'>0,15 %</td><td align='center'>0,15 %</td><td align='center'>0,20 %</td><td align='center'>0,20 %</td></tr><tr><td align='center'>Contribution conventionnelle</td><td align='center'>0,10 %</td><td align='center'>Année 1 : 0,20 %</td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td><br/></td><td><br/></td><td align='center'>Année 2 : 0,30 %</td><td align='center'>0,40 %</td><td align='center'>0,40 %</td><td align='center'>0,40 %</td></tr><tr><td><br/></td><td><br/></td><td align='center'>Année 3 : 0,40 %</td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>Total légal + contribution conventionnelle</td><td align='center'>0,55 % + 0,10 % = 0,65 %</td><td align='center'>Année 1 : 1,20 %</td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td><br/></td><td><br/></td><td align='center'>Année 2 : 1,30 %</td><td align='center'>1,40 %</td><td align='center'>1,40 %</td><td align='center'>1,40 %</td></tr><tr><td><br/></td><td><br/></td><td align='center'>A partir de la 3e année : 1,40 %</td><td><br/></td><td><br/></td><td><br/></td></tr></table></center></div></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Financement de la formation professionnelle"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032003558",
+                    "cid": "KALIARTI000032003558",
+                    "num": "17",
+                    "intOrdre": 2097148,
+                    "content": "<p align='left'><br/>Conformément à l'article 2 de l'accord de branche sur le financement du paritarisme, La contribution assise sur la masse salariale brute des entreprises au-delà du taux légal est entièrement dédiée au financement du paritarisme et sera collectée par l'AGEFOS-PME.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Financement du paritarisme"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 4718583,
+                "title": "Section 7 Dispositions diverses",
+                "id": "KALISCTA000032003519",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032003559",
+                    "cid": "KALIARTI000032003559",
+                    "num": "18",
+                    "intOrdre": 524287,
+                    "content": "<p align='left'><br/>Cet accord est à durée indéterminée et peut être dénoncé par l'une des parties dans un délai de 6 mois à la date anniversaire de la signature. Toutefois, les partenaires conviennent de se revoir, au plus tard dans le délai de 3 ans à compter de la date d'entrée en vigueur de l'accord, afin de dresser un bilan de son application et d'engager, en tant que de besoin, les négociations utiles à son évolution.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Révision et négociation"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032003560",
+                    "cid": "KALIARTI000032003560",
+                    "num": "19",
+                    "intOrdre": 1048574,
+                    "content": "<p align='left'><br/>Le présent accord entrera en application à partir du jour qui suit la date de son dépôt effectué conformément aux dispositions des <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901779&dateTexte=&categorieLien=cid'>articles L. 2261-1 </a>et <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid'>D. 2231-2</a> du code du travail.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Dépôt et date d'application"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000032003563",
+                    "cid": "KALIARTI000032003563",
+                    "num": "20",
+                    "intOrdre": 1572861,
+                    "content": "<p align='left'><br/>L'extension du présent accord sera demandée à l'initiative de la partie la plus diligente conformément aux dispositions des <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>articles L. 2261-15 </a>et <a alt='lien vers un document Legifrance' href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901802&dateTexte=&categorieLien=cid'>L. 2261-24</a> du code du travail.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Extension"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000032003512",
+                "cid": "KALIARTI000032003512",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "content": "<p align='left'><br/>Le présent accord s'applique aux entreprises entrant dans le champ d'application de la <a alt='lien vers un document Legifrance' href='/affichIDCC.do?cidTexte=KALITEXT000026943196&categorieLien=cid'>convention collective nationale des entreprises de services à la personne</a>, qui comprend les DOM-COM, à l'exclusion des entreprises relevant de la mutualité sociale agricole.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Champ d'application"
+              }
+            }
+          ]
         },
         {
           "type": "section",
