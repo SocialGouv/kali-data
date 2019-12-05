@@ -13,7 +13,7 @@ const getText = (id, tries = 0) =>
     })
     // retry
     .catch(e => {
-      console.log(`getText ${id} ${tries + 1}/3`);
+      console.log(`getText ${id} ${tries + 1}/4`);
       if (tries < 3) {
         return getText(id, tries + 1);
       }
@@ -27,7 +27,7 @@ const fetchAdditionalTexts = section =>
       ...((text.id.match(/^KALITEXT/) && (await getText(text.id))) || text)
     }),
     {
-      concurrency: 5
+      concurrency: 10
     }
   );
 
