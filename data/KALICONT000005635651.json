@@ -1672,30 +1672,370 @@
         {
           "type": "section",
           "data": {
+            "title": "Protocole du 26 novembre 1976 relatif aux frais de déplacements du personnel",
             "id": "KALITEXT000005651177"
           },
-          "children": []
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 42949,
+                "title": "Objet",
+                "id": "KALISCTA000005697183",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000005784095",
+                    "cid": "KALIARTI000005784095",
+                    "num": "1",
+                    "intOrdre": 42949,
+                    "content": "<p></p>   Le présent protocole fixe les conditions d'attribution des frais de déplacement du personnel des voies ferrées d'intérêt local dans la mesure où ces frais ne sont pas remboursés dans des conditions plus favorables par l'employeur.<p></p><p></p>",
+                    "etat": "VIGUEUR_ETEN"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 85898,
+                "title": "Définitions",
+                "id": "KALISCTA000005697184",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000005784096",
+                    "cid": "KALIARTI000005784096",
+                    "num": "2",
+                    "intOrdre": 42949,
+                    "content": "<p></p>   Déplacement : obligation impliquée par le service de quitter le lieu de travail et le domicile.<p></p><p></p>   Lieu de travail : localité fixée au salarié comme résidence d'emploi.<p></p><p></p>   Indemnité de repas ou de repas unique : somme forfaitaire allouée par l'employeur au salarié en déplacement en complément de ce que celui-ci aurait dépensé s'il avait pris son repas à son domicile ou à son lieu de travail.<p></p><p></p>   Indemnité de repos journalier : somme forfaitaire allouée par l'employeur au salarié qui se trouve, en raison de son déplacement, obligé de prendre son repos journalier hors de son domicile.<p></p>",
+                    "etat": "VIGUEUR_ETEN"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 128847,
+                "title": "Déplacement comportant normalement un seul repas hors du lieu de travail",
+                "id": "KALISCTA000005697185",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000005784097",
+                    "cid": "KALIARTI000005784097",
+                    "num": "3",
+                    "intOrdre": 42949,
+                    "content": "<p></p>   1° Le personnel qui se trouve, en raison d'un déplacement impliqué par le service, obligé de prendre un repas hors de son lieu de travail, perçoit une indemnité de repas unique dont le taux est fixé par le tableau joint au présent protocole, sauf taux plus élevé résultant des usages.<p></p><p></p>   Toutefois, lorsque le personnel n'a pas été averti au moins la veille, et au plus tard à midi, d'un déplacement effectué en dehors de ses conditions habituelles de travail, l'indemnité de repas unique qui lui est allouée est égale au montant de l'indemnité de repas dont le taux est également fixé par le tableau joint au présent protocole.<p></p><p></p>   Enfin, dans le cas où, par suite d'un dépassement de l'horaire régulier, la fin de service se situe après 21 heures, le personnel intéressé reçoit pour son repas du soir une indemnité de repas.<p></p><p></p>   2° Ne peut prétendre à l'indemnité de repas unique :<p></p><p></p>   a) Le personnel dont l'amplitude de la journée de travail ne couvre pas entièrement la période comprise entre 11 heures et 13 h 30, soit entre 18 heures et 20 h 30 ;<p></p><p></p>   b) Le personnel qui dispose, à son lieu de travail, d'une coupure d'une durée ininterrompue d'au moins une heure comprise soit entre 11 heures et 13 h 30, soit entre 18 heures et 20 h 30.<p></p>",
+                    "etat": "VIGUEUR_ETEN"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 171796,
+                "title": "Déplacements comportant plusieurs repas successifs hors du lieu de travail",
+                "id": "KALISCTA000005697186",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000005784099",
+                    "cid": "KALIARTI000005784099",
+                    "num": "4",
+                    "intOrdre": 42949,
+                    "content": "<p></p>   Le personnel qui se trouve, en raison de son service, obligé de prendre plusieurs repas successifs hors de son lieu de travail perçoit pour chacun de ces repas le montant de l'indemnité de repas dont le taux est fixé par le tableau joint au présent protocole.<p></p><p></p>",
+                    "etat": "VIGUEUR_ETEN"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 214745,
+                "title": "Déplacements comportant au moins un repas journalier hors du domicile",
+                "id": "KALISCTA000005697187",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000005784100",
+                    "cid": "KALIARTI000005784100",
+                    "num": "5",
+                    "intOrdre": 42949,
+                    "content": "<p></p>   Le personnel qui se trouve, en raison d'un déplacement impliqué par le service, obligé de passer un ou plusieurs repos journaliers hors de son domicile perçoit pour chaque repos journalier une indemnité dite \" de repos journalier \" comprenant l'indemnité de chambre et petit déjeuner dont le taux est fixé par le tableau joint au présent protocole.<p></p><p></p>",
+                    "etat": "VIGUEUR_ETEN"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 257694,
+                "title": "Prise de service matinal",
+                "id": "KALISCTA000005697188",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000005784101",
+                    "cid": "KALIARTI000005784101",
+                    "num": "6",
+                    "intOrdre": 42949,
+                    "content": "<p></p>   Le personnel qui se trouve, en raison d'un déplacement impliqué par le service, obligé de prendre ce service avant 5 heures, perçoit une indemnité de casse-croûte dont le taux est fixé par le tableau joint au présent protocole.<p></p><p></p>",
+                    "etat": "VIGUEUR_ETEN"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 300643,
+                "title": "Services de nuit",
+                "id": "KALISCTA000005697189",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000005784102",
+                    "cid": "KALIARTI000005784102",
+                    "num": "7",
+                    "intOrdre": 42949,
+                    "content": "<p></p>   Une indemnité de casse-croûte égale à l'indemnité de repas unique est allouée au personnel assurant un service comportant au moins quatre heures de travail effectif entre 22 heures et 7 heures pour lequel il ne perçoit pas déjà d'indemnité.<p></p><p></p>",
+                    "etat": "VIGUEUR_ETEN"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 343592,
+                "title": "Logement et nourriture assurés par l'entreprise",
+                "id": "KALISCTA000005697190",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000005784103",
+                    "cid": "KALIARTI000005784103",
+                    "num": "8",
+                    "intOrdre": 42949,
+                    "content": "<p></p>   Le montant des indemnités fixées par le présent protocole est réduit ou supprimé dans la mesure où l'employeur prend en charge tout ou partie des frais correspondant au logement ou à la nourriture.<p></p><p></p>",
+                    "etat": "VIGUEUR_ETEN"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 386541,
+                "title": "Revalorisation des indemnités",
+                "id": "KALISCTA000005697191",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000005784105",
+                    "cid": "KALIARTI000005784105",
+                    "num": "9",
+                    "intOrdre": 42949,
+                    "content": "<p></p>   Les indemnités de frais de déplacement sont revalorisées dans les conditions ci-après :<p></p><p></p>   1° Au 1er mai et au 1er novembre de chaque année en fonction des taux applicables à ces mêmes dates dans les transports routiers pour ce qui concerne :<p></p><p></p>   - l'indemnité de repas unique ;<p></p><p></p>   - l'indemnité de casse-croûte.<p></p><p></p>   2° Au 1er novembre de chaque année en fonction des taux applicables à cette même date à la S.N.C.F. pour ce qui concerne :<p></p><p></p>   - l'indemnité de repas ;<p></p><p></p>   - l'indemnité de repos journalier (chambre plus petit déjeuner).<p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "historique": "Modifié par Avenant 1 du 4 février 1985 étendu par arrêté du 19 septembre 1985 JORF 2 octobre 1985"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 429490,
+                "title": "Date d'application",
+                "id": "KALISCTA000005697192",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000005784106",
+                    "cid": "KALIARTI000005784106",
+                    "num": "10",
+                    "intOrdre": 42949,
+                    "content": "<p></p>   Les dispositions du présent protocole prennent effet à partir du 1er janvier 1977.<p></p><p></p>   Leur application ne peut être l'occasion d'une réduction des taux pratiqués.<p></p>",
+                    "etat": "VIGUEUR_ETEN"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 472439,
+                "title": "Publicité",
+                "id": "KALISCTA000005697193",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000005784107",
+                    "cid": "KALIARTI000005784107",
+                    "num": "11",
+                    "intOrdre": 42949,
+                    "content": "<p></p>   Le présent protocole fera l'objet d'un dépôt au secrétariat du conseil de prud'hommes de Paris et d'une demande d'extension dans les conditions fixées par les articles L. 132-8 et L. 133-10 du livre Ier de la première partie du code du travail.<p></p><p></p>",
+                    "etat": "VIGUEUR_ETEN"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "type": "section",
           "data": {
+            "title": "Annexe I au protocole du 26 novembre 1976 relatif aux frais de déplacements du personnel",
             "id": "KALITEXT000005651182"
           },
-          "children": []
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 42949,
+                "title": "Taux des indemnités",
+                "id": "KALISCTA000005697194",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000005784108",
+                    "cid": "KALIARTI000005784108",
+                    "num": null,
+                    "intOrdre": 42949,
+                    "content": "NATURE DES INDEMNITÉS.<p></p> Indemnité de repas unique :<p></p> Taux :<p></p> Echelles I à VII : 9,30 Francs<p></p> Echelles VIII à XII : 10,85 Francs<p></p> Echelles au-dessus de XII : 12,90 Francs<p></p><p></p> Indemnité de casse-croûte :<p></p> Taux :<p></p> Echelles I à VII : 9,30 Francs<p></p> Echelles VIII à XII : 10,85 Francs<p></p> Echelles au-dessus de XII : 12,90 Francs<p></p><p></p> Indemnité de repas :<p></p> Taux :<p></p> Echelles I à VII : 13,65 Francs<p></p> Echelles VIII à XII : 15,90 Francs<p></p> Echelles au-dessus de XII : 18,90 Francs<p></p><p></p> Indemnité de repos journalier : 27,30 Francs<p></p> (chambre + petit déjeuner)<p></p> Taux :<p></p> Echelles I à VII : 27,30 Francs<p></p> Echelles VIII à XII : 31,80 Francs<p></p> Echelles au-dessus de XII : 37,80 Francs<p></p><p></p>   Ces taux sont applicables à partir du 1er janvier 1977.<p></p>",
+                    "etat": "VIGUEUR_ETEN"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "type": "section",
           "data": {
+            "title": "Avenant n° 1 à la convention collective nationale en vigueur le 1er janvier 1977",
             "id": "KALITEXT000005651184"
           },
-          "children": []
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 42949,
+                "title": "Taux des indemnités",
+                "id": "KALISCTA000005697195",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000005784110",
+                    "cid": "KALIARTI000005784110",
+                    "num": "1",
+                    "intOrdre": 42949,
+                    "content": "<p>Pour les agents qui relèvent de la convention collective des transports routiers et qui étaient en service avant le 1er août 1971, certaines dispositions de la convention collective nationale des VFIL restent applicables :</p><p>Article 5 : sur la liberté syndicale et la liberté d'opinion ;</p><p>Article 7 : sur l'exercice de l'action syndicale ;</p><p>Article 8 : sur la mise en disponibilité pour l'exercice de fonctions syndicales permanentes ;</p><p>Article 10 : sur le maintien des droits statutaires en cas de passage d'une entreprise à une autre ;</p><p>Article 26 : sur le licenciement par suppression d'emploi ou transformation de l'exploitation ;</p><p>Article 44 (§ 3°) : sur le congé annuel, tel qu'il a été arrêté dans l'accord du 17 juin 1968 ;</p><p>Article 48 : concernant les congés sans solde ;</p><p>Article 61 : sur l'évacuation des logements de fonctions ;</p><p>Article 64 : sur les congés pour affections de longue durée ;</p><p>Article 68 : sur la mise à la retraite ;</p><p>Article 69 : sur le rapatriement des agents réformés ou retraités.</p><p>A durée de travail égale, le reclassement ne devra en aucun cas entraîner de diminution de la rémunération globale annuelle.</p><p>En outre, des mesures particulières sont prises pour ces agents en ce qui concerne la garantie de l'emploi ; sauf en cas de faute lourde qui entraîne le licenciement immédiat de l'agent par le chef direct, toute sanction peut faire l'objet d'un complément d'enquête à la demande d'une des parties. L'agent en cause a la faculté de se faire assister par un défenseur de son choix qui doit être un agent de l'entreprise et auquel toutes facilités sont données pour assurer sa mission.</p><p>Les agents dont il s'agit ci-dessus, assujettis au régime de retraites de la caisse autonome mutuelle de retraite (CAMR), restent assujettis à ladite caisse, ainsi que la loi le prescrit.</p>",
+                    "etat": "VIGUEUR_ETEN"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000005784111",
+                    "cid": "KALIARTI000005784111",
+                    "num": "2",
+                    "intOrdre": 85898,
+                    "content": "<p>Les réseaux ayant une exploitation routière, dont le personnel continue de bénéficier, totalement ou partiellement, de la convention collective nationale des VFIL, font l'objet d'une liste annexée.</p>",
+                    "etat": "VIGUEUR_ETEN"
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000005784112",
+                    "cid": "KALIARTI000005784112",
+                    "num": "3",
+                    "intOrdre": 128847,
+                    "content": "<p></p>   Les dispositions du présent avenant sont applicables à partir du 1er janvier 1977.<p></p><p></p>",
+                    "etat": "VIGUEUR_ETEN"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "type": "section",
           "data": {
+            "title": "Annexe à l'avenant n° 1 du 11 mai 1977",
             "id": "KALITEXT000005651186"
           },
-          "children": []
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 42949,
+                "title": "Taux des indemnités",
+                "id": "KALISCTA000005697196",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000005784113",
+                    "cid": "KALIARTI000005784113",
+                    "num": null,
+                    "intOrdre": 42949,
+                    "content": "<p>1. Réseaux dont le personnel relève totalement de la convention collective nationale du personnel des VFIL</p><p>Régie départementale des transports de l'Aisne.</p><p>Régie départementale des transports des Bouches-du-Rhône.</p><p>Société des voies ferrées des Landes.</p><p>Compagnie du chemin de fer de Pontcharra à La Rochette.</p><p>Régie départementale des voies ferrées du Dauphiné.</p><p>Régie départementale des transports de l'Ain.</p><p>Régie départementale des transports des Ardennes.</p><p>Régie départementale d'Aunis et Saintonge.</p><p>Régie des transports de la Côte-d'Or.</p><p>Régie départementale des autobus de la Drôme.</p><p>Régie départementale des transports du Jura.</p><p>Régie départementale des transport des Landes.</p><p>Régie départementale VFIL du Pas-de-Calais.</p><p>Société d'économie des transports publics de l'agglomération grenobloise SEMITAG.</p><p>Régie départementale des transports de Savoie.</p><p>2. Réseau dont le personnel relève partiellement de la convention collective nationale du personnel des VFIL</p><p>Compagnie du chemin de fer du Blanc à Argent.</p><p>Compagnie des chemins de fer de la Camargue.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "historique": "Modifié par l' avenant 2 du 23 février 1978 étendu par arrêté du 8 août 1978 JONC 7 septembre 1978"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "type": "section",
@@ -1707,16 +2047,97 @@
         {
           "type": "section",
           "data": {
+            "title": "Annexe II à l'avenant n° 3 du 28 novembre 1980",
             "id": "KALITEXT000005651192"
           },
-          "children": []
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 42949,
+                "title": "Liste des emplois concernés par le régime de prévoyance « Inaptitude à la conduite »",
+                "id": "KALISCTA000005697199",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000005784123",
+                    "cid": "KALIARTI000005784123",
+                    "num": null,
+                    "intOrdre": 42949,
+                    "content": "<p></p>   En application de l'article 8 de l'annexe I à la convention collective nationale du personnel des voies ferrées d'intérêt local et en complément de l'article 25 bis de la convention collective nationale, la liste des emplois concernés par le régime de prévoyance s'établit comme suit :<p></p> a) Exploitations ferroviaires :<p></p><p></p>   - chauffeur autorisé ;<p></p><p></p>   - mécanicien ;<p></p><p></p>   - chef mécanicien ;<p></p><p></p>   - conducteur électricien ;<p></p><p></p>   - élève conducteur d'engins Diesel ;<p></p><p></p>   - conducteur d'engins Diesel ;<p></p><p></p>   - aide-conducteur ;<p></p><p></p>   - conducteur de manoeuvre ;<p></p><p></p>   - conducteur de route ;<p></p><p></p>   - conducteur d'autorails.<p></p> b) Exploitations routières :<p></p><p></p>   - conducteur de car ;<p></p><p></p>   - conducteur-receveur de car ;<p></p><p></p>   - conducteur de véhicules de plus de 3,5 tonnes.<p></p>",
+                    "etat": "VIGUEUR_ETEN"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "type": "section",
           "data": {
+            "title": "Accord du 25 mai 1983 relatif à l'indemnisation des représentants des salariés appelés à participer aux négociations et réunions paritaires nationales",
             "id": "KALITEXT000005651194"
           },
-          "children": []
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000005784124",
+                "cid": "KALIARTI000005784124",
+                "num": "1",
+                "intOrdre": 42949,
+                "content": "<p></p>   Chaque fois que des salariés des entreprises soumises à la présente convention sont appelés à participer en tant que représentants d'organisations syndicales représentatives à des négociations nationales ou à des réunions paritaires, des autorisations d'absence leur sont accordées pour y participer, dans les conditions ci-après indiquées.<p></p><p></p>",
+                "etat": "VIGUEUR_ETEN"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000005784125",
+                "cid": "KALIARTI000005784125",
+                "num": "2",
+                "intOrdre": 85898,
+                "content": "<p></p>   La rémunération est maintenue à deux agents au maximum par la fédération nationale participant aux séances dans la limite d'une journée et d'un agent par réseau. Les délais de route sont pris en compte pour leur valeur en temps réel nécessaire.<p></p><p></p>",
+                "etat": "VIGUEUR_ETEN"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000005784126",
+                "cid": "KALIARTI000005784126",
+                "num": "3",
+                "intOrdre": 128847,
+                "content": "<p></p>   Cette absence ne peut réduire les droits aux congés payés des intéressés.<p></p><p></p>",
+                "etat": "VIGUEUR_ETEN"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000005784127",
+                "cid": "KALIARTI000005784127",
+                "num": "4",
+                "intOrdre": 171796,
+                "content": "<p></p>   Les frais de transports sont remboursés par l'employeur dans la limite du prix du voyage en chemin de fer, en seconde classe (frais de couchette inclus le cas échéant), sur présentation des pièces justificatives correspondantes.<p></p><p></p>   L'indemnisation des frais de repas et, éventuellement, d'hébergement est effectuée dans les conditions habituellement pratiquées dans les entreprises dont dépendent les intéressés.<p></p>",
+                "etat": "VIGUEUR_ETEN"
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "id": "KALIARTI000005784128",
+                "cid": "KALIARTI000005784128",
+                "num": "5",
+                "intOrdre": 214745,
+                "content": "<p></p>   Dans tous les cas, les parties s'emploient à ce que ces absences n'apportent pas de gêne au bon fonctionnement du service public ; en particulier les représentants salariés sont tenus d'avertir leur employeur suffisamment à l'avance.<p></p><p></p>",
+                "etat": "VIGUEUR_ETEN"
+              }
+            }
+          ]
         }
       ]
     }
