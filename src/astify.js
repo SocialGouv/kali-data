@@ -16,7 +16,7 @@ const astify = (node, depth = 0) => ({
     ...(node.modifDate && { modifDate: node.modifDate }),
     // add more data when its the root container
     ...(depth === 0 && {
-      num: normalizeIdcc(node.num),
+      num: parseInt(node.num, 10),
       shortTitle: node.shortTitle,
       categorisation: node.categorisation
     })
