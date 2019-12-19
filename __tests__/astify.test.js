@@ -1,5 +1,5 @@
-const astify = require("../src/astify");
-const sampleConvention = require("./kaliCont-sample.json");
+import astify from "../src/astify";
+import sampleConvention from "./kaliCont-sample.json";
 
 // check structure conversion
 test("should convert structure to AST tree", () => {

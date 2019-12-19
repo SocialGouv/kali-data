@@ -2,8 +2,12 @@ import dilaClient from "../dila-client";
 
 import conventions from "../../data/index";
 
+import normalizeIdcc from "../../src/normalizeIdcc";
+
 const getShortTitle = idcc => {
-  const convention = conventions.find(c => c.num === idcc);
+  const convention = conventions.find(
+    c => normalizeIdcc(c.num) === normalizeIdcc(idcc)
+  );
   return convention && convention.shortTitle;
 };
 
@@ -22,5 +26,5 @@ export const getCCNContainer = id =>
       // ¯\_(ツ)_/¯
       title: data.titre,
       // add hard-coded short name from our index
-      shortTitle: getShortTitle[data.num.toString(10)] || undefined
+      shortTitle: (data.num && getShortTitle(data.num)) || data.titre
     }));

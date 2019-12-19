@@ -1,8 +1,8 @@
-const {
+import {
   latestArticleVersionFilter,
   isValidSection,
   filterData
-} = require("../src/filterData");
+} from "../src/filterData";
 
 const sampleConvention = require("./kaliCont-sample.json");
 
@@ -64,6 +64,9 @@ describe("isValidSection", () => {
   });
   test("should include section VIGUEUR_NON_ETEN", () => {
     expect(isValidSection({ etat: "VIGUEUR_NON_ETEN" })).toEqual(true);
+  });
+  test("should include section without etaet", () => {
+    expect(isValidSection({})).toEqual(true);
   });
 });
 
