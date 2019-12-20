@@ -3,7 +3,8 @@
   "data": {
     "title": "Convention collective nationale des taxis du 11 septembre 2001",
     "id": "KALICONT000021125058",
-    "num": "2219",
+    "num": 2219,
+    "shortTitle": "Taxis",
     "categorisation": [
       "Taxis"
     ]
@@ -934,21 +935,30 @@
         {
           "type": "section",
           "data": {
-            "id": "KALITEXT000037547879"
+            "intOrdre": -1540944000000,
+            "title": "Accord du 16 mai 2018 relatif à la mise en place de la commission paritaire permanente de négociation et d'interprétation",
+            "id": "KALITEXT000037547879",
+            "etat": "VIGUEUR_NON_ETEN"
           },
           "children": []
         },
         {
           "type": "section",
           "data": {
-            "id": "KALITEXT000037528479"
+            "intOrdre": -1540425600000,
+            "title": "Accord du 22 février 2018 relatif à la modification du champ d'application de la convention collective régionale des taxis parisiens du 11 septembre 2001 et de son intitulé",
+            "id": "KALITEXT000037528479",
+            "etat": "VIGUEUR_ETEN"
           },
           "children": []
         },
         {
           "type": "section",
           "data": {
-            "id": "KALITEXT000037528500"
+            "intOrdre": -1540425600000,
+            "title": "Adhésion par lettre du 24 mai 2018 de l'UNIT à l'accord du 22 février 2018 relatif à la modification du champ d'application de la convention collective régionale des taxis parisiens du 11 septembre 2001 et de son intitulé",
+            "id": "KALITEXT000037528500",
+            "etat": "VIGUEUR"
           },
           "children": []
         }
@@ -966,7 +976,10 @@
         {
           "type": "section",
           "data": {
-            "id": "KALITEXT000038435613"
+            "intOrdre": -1556755200000,
+            "title": "Accord du 12 décembre 2018 relatif aux rémunérations minimales des personnels roulants",
+            "id": "KALITEXT000038435613",
+            "etat": "VIGUEUR_ETEN"
           },
           "children": []
         }
