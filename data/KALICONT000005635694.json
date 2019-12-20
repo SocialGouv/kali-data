@@ -3,7 +3,8 @@
   "data": {
     "title": "Convention collective nationale de la restauration ferroviaire du 4 septembre 1984. Etendue par arrêté du 22 février 1985 JONC 7 mars 1985.",
     "id": "KALICONT000005635694",
-    "num": "1311",
+    "num": 1311,
+    "shortTitle": "Restauration ferroviaire",
     "categorisation": [
       "Restauration ferroviaire"
     ]
@@ -518,28 +519,40 @@
         {
           "type": "section",
           "data": {
-            "id": "KALITEXT000005656720"
+            "intOrdre": -946684800000,
+            "title": "Avenant 1 du 2 juillet 1985 relatif aux régimes de retraite",
+            "id": "KALITEXT000005656720",
+            "etat": "VIGUEUR_NON_ETEN"
           },
           "children": []
         },
         {
           "type": "section",
           "data": {
-            "id": "KALITEXT000005656723"
+            "intOrdre": -946684800000,
+            "title": "Annexe I Personnel sédentaire Convention collective nationale du 4 septembre 1984",
+            "id": "KALITEXT000005656723",
+            "etat": "VIGUEUR_ETEN"
           },
           "children": []
         },
         {
           "type": "section",
           "data": {
-            "id": "KALITEXT000005656725"
+            "intOrdre": -946684800000,
+            "title": "Annexe II Personnel roulant Convention collective nationale du 4 septembre 1984",
+            "id": "KALITEXT000005656725",
+            "etat": "VIGUEUR_ETEN"
           },
           "children": []
         },
         {
           "type": "section",
           "data": {
-            "id": "KALITEXT000005656727"
+            "intOrdre": -946684800000,
+            "title": "Convention collective nationale du 4 septembre 1984 relative aux dispositions particulières aux agents de la compagnie internationale des wagons-lits et du tourisme (CIWLT) ",
+            "id": "KALITEXT000005656727",
+            "etat": "VIGUEUR_ETEN"
           },
           "children": []
         }

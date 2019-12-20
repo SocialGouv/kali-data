@@ -3,7 +3,8 @@
   "data": {
     "title": "Convention collective nationale de travail du personnel des organismes de sécurité sociale du 8 février 1957",
     "id": "KALICONT000038292684",
-    "num": "218",
+    "num": 218,
+    "shortTitle": "Personnel des organismes de sécurité sociale",
     "categorisation": [
       "Personnel des organismes de sécurité sociale"
     ]
@@ -199,7 +200,7 @@
                 "cid": "KALIARTI000038276915",
                 "num": "13",
                 "intOrdre": 1572861,
-                "content": "<p align='left'>Aucune sanction ne sera prise pour fait de grève.</p><p align='left'>La rupture du contrat de travail ne peut intervenir que dans les conditions fixées par la <a alt='Loi n° 50-205 du 11 février 1950, v. init.' href='/affichTexte.do?cidTexte=JORFTEXT000000693160&categorieLien=cid'>loi n° 50-205 du 11 février 1950</a>.</p>",
+                "content": "<p align='left'>Aucune sanction ne sera prise pour fait de grève.</p><p align='left'>La rupture du contrat de travail ne peut intervenir que dans les conditions fixées par la <a href='/affichTexte.do?cidTexte=JORFTEXT000000693160&categorieLien=cid' title='Loi n° 50-205 du 11 février 1950, v. init.'>loi n° 50-205 du 11 février 1950</a>.</p>",
                 "etat": "VIGUEUR_NON_ETEN"
               }
             }
@@ -967,7 +968,10 @@
         {
           "type": "section",
           "data": {
-            "id": "KALITEXT000028901418"
+            "intOrdre": -1399248000000,
+            "title": "Accord du 1er octobre 2013 relatif à la création d'une commission paritaire de validation des accords",
+            "id": "KALITEXT000028901418",
+            "etat": "VIGUEUR_NON_ETEN"
           },
           "children": []
         }
