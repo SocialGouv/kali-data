@@ -1,8 +1,7 @@
-import dilaClient from "../dila-client";
+import dilaClient from "./dila-client";
+import normalizeIdcc from "./normalizeIdcc";
 
-import conventions from "../../data/index";
-
-import normalizeIdcc from "../../src/normalizeIdcc";
+import conventions from "../data/index";
 
 const getShortTitle = idcc => {
   const convention = conventions.find(
@@ -11,7 +10,7 @@ const getShortTitle = idcc => {
   return convention && convention.shortTitle;
 };
 
-export const getCCNContainer = id =>
+export const getCcnContainer = id =>
   dilaClient
     .fetch({
       path: "consult/kaliCont",
@@ -25,6 +24,10 @@ export const getCCNContainer = id =>
       // we normalize title tag, it is "title" everywhere else in the api
       // ¯\_(ツ)_/¯
       title: data.titre,
-      // add hard-coded short name from our index
-      shortTitle: (data.num && getShortTitle(data.num)) || data.titre
+      // use dila categorisation
+      shortTitle:
+        (data.categorisation &&
+          data.categorisation.length &&
+          data.categorisation[0]) ||
+        data.titre
     }));

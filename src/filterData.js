@@ -1,8 +1,10 @@
 const sortByIntOrdre = (a, b) => {
-  if (a.intOrdre < b.intOrdre) {
+  const aOrdre = a.intOrdre || a.id;
+  const bOrdre = b.intOrdre || b.id;
+  if (aOrdre < bOrdre) {
     return -1;
   }
-  if (a.intOrdre > b.intOrdre) {
+  if (aOrdre > bOrdre) {
     return 1;
   }
   return 0;

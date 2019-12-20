@@ -12,16 +12,18 @@ const clean = str =>
     .trim();
 
 const cleanDate = dte =>
-  dte
-    .split("T")[0]
-    .split("-")
-    .reverse()
-    .join("/");
+  (dte &&
+    dte
+      .split("T")[0]
+      .split("-")
+      .reverse()
+      .join("/")) ||
+  "-";
 
 conventions.forEach(convention => {
   console.log(
     `${clean(convention.id)} | ${clean(convention.num)} | ${clean(
-      convention.title
+      convention.shortTitle
     )} | ${cleanDate(convention.date_publi)}`
   );
 });

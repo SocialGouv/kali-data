@@ -1,12 +1,9 @@
 import pMap from "p-map";
 
-import dilaClient from "../dila-client";
+import dilaClient from "./dila-client";
 
 const MAX_TRIES = 10;
-const CONCURRENCY = 3;
-
-const wait = (timeout = 500) =>
-  new Promise(resolve => setTimeout(resolve, timeout));
+const CONCURRENCY = 5;
 
 const getText = (id, tries = 0) =>
   dilaClient
@@ -29,7 +26,7 @@ const getText = (id, tries = 0) =>
     .catch(e => {
       if (tries < MAX_TRIES) {
         console.log(`getText ${id} ${tries + 1}/${MAX_TRIES}: RETRY`);
-        return wait().then(() => getText(id, tries + 1));
+        return getText(id, tries + 1);
       }
       console.log(`getText ${id} ${tries + 1}/${MAX_TRIES}: ABORT`);
       throw e;
@@ -50,7 +47,14 @@ const fetchAdditionalTexts = section =>
 // embed CCN texts for attachés + salaires
 // conteneur first section is always "texte de base"
 // conteneur following sections are "textes attachées" and "textes salaires" but are not populated in the initial conteneur data
-export const embedCCNTexts = async ccn => {
+export const embedCcnTexts = async ccn => {
+  if (!ccn.sections) {
+    console.error(`ERROR: CCN "${ccn.id}" has no sections`);
+    return {
+      ...ccn,
+      sections: []
+    };
+  }
   const additionalTexts = ccn.sections.slice(1);
   const additionalTextsFilled = await Promise.all(
     additionalTexts.map(emptyAdditionalTexts =>
