@@ -36,7 +36,7 @@ const fetchAllConventions = () =>
         });
       //  .catch(console.error);
     },
-    { concurrency: 1, stopOnError: true }
+    { concurrency: 5, stopOnError: true }
   )
     .then(() => console.log("done !"))
     .catch(e => {
