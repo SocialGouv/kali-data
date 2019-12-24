@@ -1901,12 +1901,12 @@
             {
               "type": "article",
               "data": {
-                "id": "KALIARTI000028988883",
+                "id": "KALIARTI000039497291",
                 "cid": "KALIARTI000025127517",
                 "num": "92",
                 "intOrdre": 2147221503,
-                "content": "<p>Les cotisations sont calculées sur les salaires bruts (tranches A et B) des salariés non cadres. </p><p align='right'><br/>(En pourcentage.) </p><center><table border='1'><tbody><tr><th>Garantie </th><th>Taux contractuel <br/>des cotisations (*) </th><th>Part salarié </th><th>Part Employeur </th></tr><tr><td align='center'>Décès/ IAD - obsèques </td><td align='center'>0,35 </td><td align='center'>0,175 </td><td align='center'>0,175 </td></tr><tr><td align='center'>Invalidité </td><td align='center'>0,13 </td><td align='center'>0,065 </td><td align='center'>0,065 </td></tr><tr><td align='center'>Incapacité de travail </td><td align='center'>0,08 </td><td align='center'>0,04 </td><td align='center'>0,04 </td></tr><tr><td align='center'>Rente éducation </td><td align='center'>0,11 </td><td align='center'>0,055 </td><td align='center'>0,055 </td></tr><tr><td align='center'>Rente handicap </td><td align='center'>0,02 </td><td align='center'>0,01 </td><td align='center'>0,01 </td></tr><tr><td align='center'>Portabilité </td><td align='center'>0,01 </td><td align='center'>0,005 </td><td align='center'>0,005 </td></tr><tr><td align='center'>Total </td><td align='center'>0,70 </td><td align='center'>0,35 </td><td align='center'>0,35 </td></tr><tr><td colSpan='4' align='center'>(*) La répartition du total des cotisations est établie sur la base de 50 % à la charge de l'employeur et 50 % à la charge du salarié.</td></tr></tbody></table></center>",
-                "etat": "VIGUEUR_ETEN",
+                "content": "<p align='left'>Les cotisations sont calculées sur les salaires bruts (tranches A et B) des salariés non cadres.</p><p align='right'>(En pourcentage.)</p><center><table border='1'><tbody><tr><th>Garantie</th><th>Taux contractuel<br/>\n\t\t\tdes cotisations (*)</th><th>Part salarié</th><th>Part employeur</th></tr><tr><td align='center'>Décès/ IAD – obsèques</td><td align='center'>0,35</td><td align='center'>0,175</td><td align='center'>0,175</td></tr><tr><td align='center'>Invalidité</td><td align='center'>0,20</td><td align='center'>0,10</td><td align='center'>0,10</td></tr><tr><td align='center'>Incapacité de travail</td><td align='center'>0,15</td><td align='center'>0,075</td><td align='center'>0,075</td></tr><tr><td align='center'>Rente éducation</td><td align='center'>0,11</td><td align='center'>0,055</td><td align='center'>0,055</td></tr><tr><td align='center'>Rente handicap</td><td align='center'>0,02</td><td align='center'>0,01</td><td align='center'>0,01</td></tr><tr><td align='center'>Portabilité</td><td align='center'>0,01</td><td align='center'>0,005</td><td align='center'>0,005</td></tr><tr><td align='center'>Total</td><td align='center'>0,84</td><td align='center'>0,42</td><td align='center'>0,42</td></tr><tr><td colspan='4' align='center'>(*) La répartition du total des cotisations est établie sur la base de 50 % à la charge de l'employeur et 50 % à la charge du salarié.</td></tr></tbody></table></center>",
+                "etat": "VIGUEUR_NON_ETEN",
                 "surtitre": "Cotisations"
               }
             },
@@ -1983,6 +1983,16 @@
         "etat": "VIGUEUR"
       },
       "children": [
+        {
+          "type": "section",
+          "data": {
+            "intOrdre": -1576022400000,
+            "title": "Avenant n° 89 du 16 juillet 2019 relatif au régime de prévoyance",
+            "id": "KALITEXT000039479559",
+            "etat": "VIGUEUR_NON_ETEN"
+          },
+          "children": []
+        },
         {
           "type": "section",
           "data": {
