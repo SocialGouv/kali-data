@@ -18,7 +18,7 @@ const checkCcn = ccn => {
 //for each convention, fetch convention conteneur, populate conteneur texts, and ouput to JSON file.
 const fetchAllConventions = () =>
   pMap(
-    conventions,
+    conventions.filter(convention => !!convention.url),
     convention => {
       const filePath = path.join(__dirname, `../data/${convention.id}.json`);
       console.log(`fetch ${convention.id}`);
