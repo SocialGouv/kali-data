@@ -1740,7 +1740,7 @@
           "type": "section",
           "data": {
             "intOrdre": -1337731200000,
-            "title": "Avenant n° 1 du 15 décembre 2011 relatif à la prévoyance frais de santé",
+            "title": "Avenant n° 1 du 15 décembre 2011 relatif aux régimes de  prévoyance et de frais de santé",
             "id": "KALITEXT000025910823",
             "etat": "VIGUEUR_NON_ETEN"
           },
@@ -2070,10 +2070,20 @@
         {
           "type": "section",
           "data": {
+            "intOrdre": -1403740800000,
+            "title": "Avenant n° 18 du 31 janvier 2014 à l'accord du 23 décembre 1996 relatif aux rémunérations minimales mensuelles au 1er janvier 2014",
+            "id": "KALITEXT000029138701",
+            "etat": "VIGUEUR_ETEN"
+          },
+          "children": []
+        },
+        {
+          "type": "section",
+          "data": {
             "intOrdre": -1351123200000,
             "title": "Avenant n° 17 du 1er juillet 2012 relatif aux rémunérations minimales mensuelles",
             "id": "KALITEXT000026533938",
-            "etat": "VIGUEUR_NON_ETEN"
+            "etat": "VIGUEUR_ETEN"
           },
           "children": []
         },
