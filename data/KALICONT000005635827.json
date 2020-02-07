@@ -1157,17 +1157,39 @@
                 "intOrdre": 85898,
                 "title": "Absences pour soigner un enfant",
                 "id": "KALISCTA000005750553",
+                "etat": "REMPLACE"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "id": "KALIARTI000041499009",
+                    "cid": "KALIARTI000005839994",
+                    "num": "43",
+                    "intOrdre": 42949,
+                    "content": "<p>Le salarié bénéficie d'un congé non rémunéré en cas de maladie ou d'accident, constatés par certificat médical, communiqué sous 48 heures à l'employeur, d'un enfant dont il assume la charge – notamment financière – effective et permanente.</p><p><em>Si deux salariés travaillent dans la même entreprise et assument de façon effective et financière la charge d'un même enfant, cette autorisation ne sera accordée qu'à l'un des deux. L'autorisation est accordée, de droit, au salarié qui en fait la demande en premier</em><a shape='rect' href='#RENVOI_KALIARTI000005839994_1'> (1)</a>.</p><p>Ce congé est ouvert aux salariés sans conditions d'ancienneté.</p><p>La durée de ce congé est au maximum de :</p><p>– 6 jours ouvrables par an si l'enfant est âgé de moins de 12 ans ou si le salarié assume la charge effective et permanente de trois enfants ou plus âgés de moins de 16 ans ;</p><p>– 3 jours ouvrables par an si l'âge de l'enfant est compris entre 12 et 16 ans.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000005839994_1'></a>(1) Alinéa exclu de l'extension en tant qu'il contrevient aux dispositions de l'article L. 1225-61 du code du travail. <br/>\n(Arrêté du 15 janvier 2020 - art. 1)</em></font></p>",
+                    "etat": "VIGUEUR_ETEN"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 85898,
+                "title": "Congé enfant malade",
+                "id": "KALISCTA000041499012",
                 "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
                   "type": "article",
                   "data": {
-                    "id": "KALIARTI000005839994",
+                    "id": "KALIARTI000041499009",
                     "cid": "KALIARTI000005839994",
                     "num": "43",
                     "intOrdre": 42949,
-                    "content": "<p>   Il sera accordé au père ou à la mère et sur présentation d'un certificat médical, une autorisation d'absence non rémunérée pour soigner son enfant malade âgé de moins de 12 ans.</p><p>   S'ils travaillent dans la même entreprise, cette autorisation ne sera accordée qu'à l'un des deux.</p><p>   Celle-ci ne saurait excéder 6 jours par an au bénéfice de l'un des deux parents et ne sera accordée qu'à celui qui en fera la demande.</p>",
+                    "content": "<p>Le salarié bénéficie d'un congé non rémunéré en cas de maladie ou d'accident, constatés par certificat médical, communiqué sous 48 heures à l'employeur, d'un enfant dont il assume la charge – notamment financière – effective et permanente.</p><p><em>Si deux salariés travaillent dans la même entreprise et assument de façon effective et financière la charge d'un même enfant, cette autorisation ne sera accordée qu'à l'un des deux. L'autorisation est accordée, de droit, au salarié qui en fait la demande en premier</em><a shape='rect' href='#RENVOI_KALIARTI000005839994_1'> (1)</a>.</p><p>Ce congé est ouvert aux salariés sans conditions d'ancienneté.</p><p>La durée de ce congé est au maximum de :</p><p>– 6 jours ouvrables par an si l'enfant est âgé de moins de 12 ans ou si le salarié assume la charge effective et permanente de trois enfants ou plus âgés de moins de 16 ans ;</p><p>– 3 jours ouvrables par an si l'âge de l'enfant est compris entre 12 et 16 ans.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000005839994_1'></a>(1) Alinéa exclu de l'extension en tant qu'il contrevient aux dispositions de l'article L. 1225-61 du code du travail. <br/>\n(Arrêté du 15 janvier 2020 - art. 1)</em></font></p>",
                     "etat": "VIGUEUR_ETEN"
                   }
                 }
@@ -1445,6 +1467,16 @@
             "intOrdre": -1560384000000,
             "title": "Accord du 10 octobre 2018 relatif à la mise en place d'une CPPNI",
             "id": "KALITEXT000038616348",
+            "etat": "VIGUEUR_ETEN"
+          },
+          "children": []
+        },
+        {
+          "type": "section",
+          "data": {
+            "intOrdre": -1537315200000,
+            "title": "Avenant n° 38 du 23 février 2018 relatif à l'article 43 portant sur les absences pour soigner un enfant malade",
+            "id": "KALITEXT000037411938",
             "etat": "VIGUEUR_ETEN"
           },
           "children": []
