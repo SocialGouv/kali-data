@@ -1052,7 +1052,7 @@
                         "num": "1er",
                         "intOrdre": 1073741823,
                         "content": "<p align='left'>La rémunération mensuelle brute de base garantie pour chacun des niveaux des quatre catégories s'établit comme suit :</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Catégorie</th><th>Niveau</th><th>Coefficient</th><th>Salaire brut de base</th></tr><tr><td align='center'>I</td><td align='center'>1<br/>\n\t\t\t2</td><td align='center'>255<br/>\n\t\t\t262</td><td align='center'>1 528<br/>\n\t\t\t1 548</td></tr><tr><td align='center'>II</td><td align='center'>1<br/>\n\t\t\t2</td><td align='center'>278<br/>\n\t\t\t301</td><td align='center'>1 635<br/>\n\t\t\t1 763</td></tr><tr><td align='center'>III</td><td align='center'>1<br/>\n\t\t\t2</td><td align='center'>371<br/>\n\t\t\t452</td><td align='center'>2 155<br/>\n\t\t\t2 610</td></tr><tr><td align='center'>IV</td><td align='center'>1<br/>\n\t\t\t2</td><td align='center'>625<br/>\n\t\t\t880</td><td align='center'>3 586<br/>\n\t\t\t5 040</td></tr></tbody></table></center><p align='left'>La rémunération de base garantie, conformément au tableau ci-dessus, s'entend comme le salaire de base, hors primes et avantages en nature.</p><p align='left'>Les montants indiqués dans ce tableau sont donnés pour un horaire hebdomadaire légal de 35 heures au sens des articles L. 3121-1 et suivants du code du travail.</p>",
-                        "etat": "VIGUEUR_NON_ETEN",
+                        "etat": "VIGUEUR_ETEN",
                         "surtitre": "Rémunération mensuelle brute de base"
                       }
                     },
@@ -1064,7 +1064,7 @@
                         "num": "2",
                         "intOrdre": 1610612735,
                         "content": "<p align='left'>Les décisions annuelles portant sur le barème national des rémunérations mensuelles brutes de base s'appliquent à compter du 1er janvier de l'année suivante, sous réserve des barèmes plus favorables conclus dans les offices.</p><p align='left'>À titre exceptionnel et pour l'année 2019, le barème des rémunérations de base tel qu'établi à l'article 1er du point I du sous-chapitre V du chapitre III de la convention collective nationale du personnel des offices publics de l'habitat s'applique dès le 1er janvier 2019.</p>",
-                        "etat": "VIGUEUR_NON_ETEN",
+                        "etat": "VIGUEUR_ETEN",
                         "surtitre": "Application du barème national de base dans les offices"
                       }
                     },
@@ -2532,7 +2532,7 @@
             "intOrdre": -1573430400000,
             "title": "Avenant n° 3 du 20 mars 2019 relatif au barème national des rémunérations de base",
             "id": "KALITEXT000039358345",
-            "etat": "VIGUEUR_NON_ETEN"
+            "etat": "VIGUEUR_ETEN"
           },
           "children": []
         },
