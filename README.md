@@ -16,7 +16,7 @@ const conventions = require("@socialgouv/kali-data/data/index.json");
 const syntec = require("@socialgouv/kali-data/data/KALICONT000005635173.json");
 ```
 
-Or via http directly : https://unpkg.com/@socialgouv/kali-data@1.0.0/data/KALICONT000038661444.json
+Or via http directly : https://unpkg.com/@socialgouv/kali-data/data/KALICONT000038661444.json
 
 ## Dev
 
@@ -38,6 +38,12 @@ DEBUG="*" yarn run fetch
 # print list of conventions and last updates (for the readme)
 DEBUG="*" yarn run list
 ```
+
+## See also
+
+- [dila-api-client : Client JavaScript pour l'API DILA AIFE](https://github.com/SocialGouv/dila-api-client)
+- [legi-data : base LEGI](https://github.com/SocialGouv/legi-data)
+- [fiches-vdd : Fiches vos droits et démarches](https://github.com/SocialGouv/fiches-vdd)
 
 ## References
 
