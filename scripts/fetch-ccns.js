@@ -29,18 +29,19 @@ async function fetchAdditionalText(container) {
   if (!container.sections) {
     throw new Error(`container ${container.id} is empty`);
   }
-  const [
-    textedeBase,
-    ...additionnalSections
-  ] = container.sections.filter(({ etat }) => etat.startsWith("VIGUEUR"));
+  const nbBaseText = container.texteBaseId.length;
+  const textedeBase = container.sections.slice(0, nbBaseText);
+  const additionnalSections = container.sections.slice(nbBaseText);
 
   const pAdditionnalSections = additionnalSections.map(async mainSection => {
-    const pSections = mainSection.sections.map(text =>
-      queue.add(() => {
-        console.log(`› fetch text ${text.id}`);
-        return retry(() => getKaliText(text.id), { retries: 10 });
-      })
-    );
+    const pSections = mainSection.sections
+      .filter(({ etat }) => etat.startsWith("VIGUEUR"))
+      .map(text =>
+        queue.add(() => {
+          console.log(`› fetch text ${text.id}`);
+          return retry(() => getKaliText(text.id), { retries: 10 });
+        })
+      );
     mainSection.sections = await Promise.all(pSections);
     mainSection.sections.forEach(section => {
       section.etat = section.jurisState;
@@ -48,7 +49,7 @@ async function fetchAdditionalText(container) {
     return mainSection;
   });
   const sectionsWithText = await Promise.all(pAdditionnalSections);
-  container.sections = [textedeBase, ...sectionsWithText];
+  container.sections = [...textedeBase, ...sectionsWithText];
   return container;
 }
 
