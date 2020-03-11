@@ -14,7 +14,9 @@ import { getKaliCont, getKaliText } from "../src/api";
 
 const writeFile = promisify(fs.writeFile);
 
-const queue = new Queue({ concurrency: 20, intervalCap: 40, interval: 1000 });
+const queue = new Queue({ concurrency: 10, intervalCap: 20, interval: 1000 });
+
+const t0 = Date.now();
 
 function fetchKaliCont(id) {
   return queue.add(() => {
@@ -22,19 +24,11 @@ function fetchKaliCont(id) {
     return retry(() => getKaliCont(id), { retries: 3 });
   });
 }
-function getKaliTextAndCheck(id) {
-  console.log(` › fetch text ${id}`);
-  return getKaliText(id).then(r => {
-    if (Object.keys(r).length === 1) {
-      throw new Error(`invalid response for text ${id}`, r);
-    }
-    return r;
-  });
-}
 
 async function fetchAdditionalText(container) {
+  console.log(` › fetch text ${container.id}`);
   if (!container.sections) {
-    throw new Error(`container ${container.num} is empty`);
+    throw new Error(`container ${container.id} is empty`);
   }
   const [
     textedeBase,
@@ -43,7 +37,7 @@ async function fetchAdditionalText(container) {
 
   const pAdditionnalSections = additionnalSections.map(async mainSection => {
     const pSections = mainSection.sections.map(text =>
-      queue.add(() => retry(() => getKaliTextAndCheck(text.id), { retries: 3 }))
+      queue.add(() => retry(() => getKaliText(text.id), { retries: 10 }))
     );
     mainSection.sections = await Promise.all(pSections);
     return mainSection;
@@ -119,8 +113,6 @@ async function main() {
   );
 
   const ccnList = conventions.filter(convention => !!convention.url);
-
-  const t0 = Date.now();
   const pResults = ccnList.map(({ id }) => pipeline(id));
 
   await Promise.all(pResults);
@@ -129,5 +121,6 @@ async function main() {
 
 main().catch(error => {
   console.error(error);
+  console.log(`››› Failed in ${toFix((Date.now() - t0) / 1000)} s`);
   process.exit(-1);
 });
