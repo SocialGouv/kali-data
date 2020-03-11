@@ -40,6 +40,9 @@ async function fetchAdditionalText(container) {
       queue.add(() => retry(() => getKaliText(text.id), { retries: 10 }))
     );
     mainSection.sections = await Promise.all(pSections);
+    mainSection.sections.forEach(section => {
+      section.etat = section.jurisState;
+    });
     return mainSection;
   });
   const sectionsWithText = await Promise.all(pAdditionnalSections);
