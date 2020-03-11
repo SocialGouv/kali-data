@@ -1,59 +1,131 @@
 import fs from "fs";
 import path from "path";
-import pMap from "p-map";
+import Queue from "p-queue";
+import pPipe from "p-pipe";
+import retry from "p-retry";
+import map from "unist-util-map";
+import remove from "unist-util-remove";
+import { promisify } from "util";
 
-// fetch all conventions from index.json
 import conventions from "../data/index.json";
-import fetchCcn from "../src/fetchCcn";
+import astify from "../src/astify";
 
-const strfy = data => JSON.stringify(data, null, 2);
+import { getKaliCont, getKaliText } from "../src/api";
 
-const checkCcn = ccn => {
-  if (ccn.children.length === 0) {
-    throw new Error(`ccn ${ccn.data.id}: no children"`);
+const writeFile = promisify(fs.writeFile);
+
+const queue = new Queue({ concurrency: 10, intervalCap: 20, interval: 1000 });
+
+const t0 = Date.now();
+
+function fetchKaliCont(id) {
+  return queue.add(() => {
+    console.log(`fetch ${id}`);
+    return retry(() => getKaliCont(id), { retries: 3 });
+  });
+}
+
+async function fetchAdditionalText(container) {
+  if (!container.sections) {
+    throw new Error(`container ${container.id} is empty`);
   }
-  return ccn;
-};
+  const [
+    textedeBase,
+    ...additionnalSections
+  ] = container.sections.filter(({ etat }) => etat.startsWith("VIGUEUR"));
 
-//for each convention, fetch convention conteneur, populate conteneur texts, and ouput to JSON file.
-const fetchAllConventions = () =>
-  pMap(
-    conventions.filter(convention => !!convention.url),
-    convention => {
-      const filePath = path.join(__dirname, `../data/${convention.id}.json`);
-      console.log(`fetch ${convention.id}`);
-      return fetchCcn(convention.id)
-        .then(checkCcn)
-        .then(data => {
-          const exists = fs.existsSync(filePath);
-          const changed = strfy(exists && require(filePath)) !== strfy(data); // poor-man compare
-          if (changed) {
-            fs.writeFileSync(filePath, strfy(data));
-            console.log(`wrote ${filePath}`);
-          } else {
-            console.log(`skip ${filePath} (not changed)`);
-          }
-        });
-      //  .catch(console.error);
-    },
-    { concurrency: 5, stopOnError: true }
-  )
-    .then(() => console.log("done !"))
-    .catch(e => {
-      console.error(e);
-      throw e;
+  const pAdditionnalSections = additionnalSections.map(async mainSection => {
+    const pSections = mainSection.sections.map(text =>
+      queue.add(() => {
+        console.log(`› fetch text ${text.id}`);
+        return retry(() => getKaliText(text.id), { retries: 10 });
+      })
+    );
+    mainSection.sections = await Promise.all(pSections);
+    mainSection.sections.forEach(section => {
+      section.etat = section.jurisState;
     });
+    return mainSection;
+  });
+  const sectionsWithText = await Promise.all(pAdditionnalSections);
+  container.sections = [textedeBase, ...sectionsWithText];
+  return container;
+}
 
-fetchAllConventions();
+function cleanAst(tree) {
+  remove(
+    tree,
+    ({ data: { etat } }) =>
+      etat !== "ABROGE" && etat !== "PERIME" && etat !== "REMPLACE"
+  );
+  const sortByOrdre = sortBy("intOrdre");
+  const keys = [
+    "cid",
+    "num",
+    "intOrdre",
+    "title",
+    "id",
+    "content",
+    "etat",
+    "shortTitle",
+    "categorisation",
+    "dateParution",
+    "surtitre",
+    "historique",
+    "modifDate",
+    "lstLienModification"
+  ];
+  return map(tree, ({ type, data: rawData, children }) => {
+    const data = keys.reduce((data, key) => {
+      if (rawData[key] !== null || rawData[key]) {
+        data[key] = rawData[key];
+      }
+      return data;
+    }, {});
+    if (children && children.length) {
+      children.sort(sortByOrdre);
+    }
+    return { type, data, children };
+  });
+}
 
-// IDCC 1747 - Convention collective nationale des activités industrielles de boulangerie et pâtisserie du 13 juillet 1993.
+async function saveFile(container) {
+  await writeFile(
+    path.join(__dirname, `../data/${container.data.id}.json`),
+    JSON.stringify(container, 0, 2)
+  );
+  console.log(`› write ${container.data.id}.json`);
+}
 
-// fetchCCN("KALICONT000005635269")
-//   .then(data => {
-//     fs.writeFileSync("./data/test.json", JSON.stringify(data, null, 2));
-//     console.log("wrote ./data/test.json");
-//   })
-//   .catch(e => {
-//     console.error(e);
-//     throw e;
-//   });
+function toFix(value, nb = 2) {
+  const digit = Math.pow(10, nb);
+  return Math.round(value * digit) / digit;
+}
+
+function sortBy(key) {
+  return function(a, b) {
+    return a.data[key] - b.data[key];
+  };
+}
+
+async function main() {
+  const pipeline = pPipe(
+    fetchKaliCont,
+    fetchAdditionalText,
+    astify,
+    cleanAst,
+    saveFile
+  );
+
+  const ccnList = conventions.filter(convention => !!convention.url);
+  const pResults = ccnList.map(({ id }) => pipeline(id));
+
+  await Promise.all(pResults);
+  console.log(`››› Done in ${toFix((Date.now() - t0) / 1000)} s`);
+}
+
+main().catch(error => {
+  console.error(error);
+  console.log(`››› Failed in ${toFix((Date.now() - t0) / 1000)} s`);
+  process.exit(-1);
+});
