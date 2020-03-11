@@ -26,7 +26,6 @@ function fetchKaliCont(id) {
 }
 
 async function fetchAdditionalText(container) {
-  console.log(` › fetch text ${container.id}`);
   if (!container.sections) {
     throw new Error(`container ${container.id} is empty`);
   }
@@ -37,7 +36,10 @@ async function fetchAdditionalText(container) {
 
   const pAdditionnalSections = additionnalSections.map(async mainSection => {
     const pSections = mainSection.sections.map(text =>
-      queue.add(() => retry(() => getKaliText(text.id), { retries: 10 }))
+      queue.add(() => {
+        console.log(`› fetch text ${text.id}`);
+        return retry(() => getKaliText(text.id), { retries: 10 });
+      })
     );
     mainSection.sections = await Promise.all(pSections);
     mainSection.sections.forEach(section => {
