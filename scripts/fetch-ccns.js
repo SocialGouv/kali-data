@@ -8,7 +8,7 @@ import remove from "unist-util-remove";
 import { promisify } from "util";
 
 import conventions from "../data/index.json";
-import astify from "../src/astify";
+import astify, { isValidSection } from "../src/astify";
 
 import { getKaliCont, getKaliText } from "../src/api";
 
@@ -34,14 +34,12 @@ async function fetchAdditionalText(container) {
   const additionnalSections = container.sections.slice(nbBaseText);
 
   const pAdditionnalSections = additionnalSections.map(async mainSection => {
-    const pSections = mainSection.sections
-      .filter(({ etat }) => etat.startsWith("VIGUEUR"))
-      .map(text =>
-        queue.add(() => {
-          console.log(`› fetch text ${text.id}`);
-          return retry(() => getKaliText(text.id), { retries: 10 });
-        })
-      );
+    const pSections = mainSection.sections.filter(isValidSection).map(text =>
+      queue.add(() => {
+        console.log(`› fetch text ${text.id}`);
+        return retry(() => getKaliText(text.id), { retries: 10 });
+      })
+    );
     mainSection.sections = await Promise.all(pSections);
     mainSection.sections.forEach(section => {
       section.etat = section.jurisState;
@@ -54,11 +52,7 @@ async function fetchAdditionalText(container) {
 }
 
 function cleanAst(tree) {
-  remove(
-    tree,
-    ({ data: { etat } }) =>
-      etat !== "ABROGE" && etat !== "PERIME" && etat !== "REMPLACE"
-  );
+  remove(tree, node => isValidSection(node.data));
   const sortByOrdre = sortBy("intOrdre");
   const keys = [
     "cid",

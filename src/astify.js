@@ -24,12 +24,35 @@ const astify = (node, depth = 0) => ({
     ...((node.sections && node.sections.map(node => astify(node, depth + 1))) ||
       []),
     ...((node.articles &&
-      node.articles.map(article => ({
+      node.articles.filter(latestArticleVersionFilter).map(article => ({
         type: "article",
         data: article
       }))) ||
       [])
   ]
 });
+
+const numify = id => parseInt(id.replace(/^KALIARTI/, ""));
+
+export const isValidSection = node =>
+  !node.etat || node.etat.startsWith("VIGUEUR");
+
+// the API returns all the version of a given article. we pick the latest one
+export const latestArticleVersionFilter = (currentArticle, _, articles) => {
+  // dont filter out articles without cid
+  if (!currentArticle.cid) {
+    return true;
+  }
+  const maxVersion = Math.max(
+    ...((articles && articles) || [])
+      .filter(
+        article =>
+          article.cid === currentArticle.cid && article.id !== currentArticle.id
+      )
+      .map(article => numify(article.id)),
+    0
+  );
+  return numify(currentArticle.id) > maxVersion;
+};
 
 export default astify;
