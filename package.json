@@ -9,7 +9,7 @@
     "data"
   ],
   "scripts": {
-    "test": "jest",
+    "test": "jest && yarn postfetch",
     "fetch": "node -r esm scripts/fetch-ccns.js",
     "postfetch": "node -r esm scripts/check-ccns.js",
     "list": "node -r esm scripts/list-ccns.js",

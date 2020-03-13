@@ -30,8 +30,12 @@ async function fetchAdditionalText(container) {
     throw new Error(`container ${container.id} is empty`);
   }
   const nbBaseText = container.texteBaseId.length;
-  const textedeBase = container.sections.slice(0, nbBaseText);
-  const additionnalSections = container.sections.slice(nbBaseText);
+  const textedeBase = container.sections
+    .slice(0, nbBaseText)
+    .filter(isValidSection);
+  const additionnalSections = container.sections
+    .slice(nbBaseText)
+    .filter(isValidSection);
 
   const pAdditionnalSections = additionnalSections.map(async mainSection => {
     const pSections = mainSection.sections.filter(isValidSection).map(text =>
@@ -46,7 +50,10 @@ async function fetchAdditionalText(container) {
     });
     return mainSection;
   });
-  const sectionsWithText = await Promise.all(pAdditionnalSections);
+  // Ensure Additionnal Text Section is not empty
+  const sectionsWithText = (await Promise.all(pAdditionnalSections)).filter(
+    ({ sections }) => sections.length > 0
+  );
   container.sections = [...textedeBase, ...sectionsWithText];
   return container;
 }
