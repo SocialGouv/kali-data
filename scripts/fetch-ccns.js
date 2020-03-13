@@ -8,7 +8,7 @@ import remove from "unist-util-remove";
 import { promisify } from "util";
 
 import conventions from "../data/index.json";
-import astify from "../src/astify";
+import astify, { isValidSection } from "../src/astify";
 
 import { getKaliCont, getKaliText } from "../src/api";
 
@@ -29,13 +29,12 @@ async function fetchAdditionalText(container) {
   if (!container.sections) {
     throw new Error(`container ${container.id} is empty`);
   }
-  const [
-    textedeBase,
-    ...additionnalSections
-  ] = container.sections.filter(({ etat }) => etat.startsWith("VIGUEUR"));
+  const nbBaseText = container.texteBaseId.length;
+  const textedeBase = container.sections.slice(0, nbBaseText);
+  const additionnalSections = container.sections.slice(nbBaseText);
 
   const pAdditionnalSections = additionnalSections.map(async mainSection => {
-    const pSections = mainSection.sections.map(text =>
+    const pSections = mainSection.sections.filter(isValidSection).map(text =>
       queue.add(() => {
         console.log(`› fetch text ${text.id}`);
         return retry(() => getKaliText(text.id), { retries: 10 });
@@ -48,16 +47,12 @@ async function fetchAdditionalText(container) {
     return mainSection;
   });
   const sectionsWithText = await Promise.all(pAdditionnalSections);
-  container.sections = [textedeBase, ...sectionsWithText];
+  container.sections = [...textedeBase, ...sectionsWithText];
   return container;
 }
 
 function cleanAst(tree) {
-  remove(
-    tree,
-    ({ data: { etat } }) =>
-      etat !== "ABROGE" && etat !== "PERIME" && etat !== "REMPLACE"
-  );
+  remove(tree, node => isValidSection(node.data));
   const sortByOrdre = sortBy("intOrdre");
   const keys = [
     "cid",
