@@ -39,8 +39,9 @@ DEBUG="*" yarn run fetch
 DEBUG="*" yarn run list
 ```
 
-## See also
+## Related
 
+- [Code du travail numérique](https://github.com/SocialGouv/code-du-travail-numerique)
 - [dila-api-client : Client JavaScript pour l'API DILA AIFE](https://github.com/SocialGouv/dila-api-client)
 - [legi-data : base LEGI](https://github.com/SocialGouv/legi-data)
 - [fiches-vdd : Fiches vos droits et démarches](https://github.com/SocialGouv/fiches-vdd)
