@@ -4988,18 +4988,6 @@
                     "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
-                        "textCid": "KALITEXT000024286682",
-                        "textTitle": "Formation professionnelle - art. (VNE)",
-                        "linkType": "MODIFIE",
-                        "linkOrientation": "cible",
-                        "articleNum": "",
-                        "articleId": "KALIARTI000024286685",
-                        "natureText": "Avenant",
-                        "datePubliTexte": "2011-06-30",
-                        "dateSignaTexte": "2011-01-20",
-                        "dateDebutCible": "2011-01-20"
-                      },
-                      {
                         "textCid": "JORFTEXT000024386314",
                         "textTitle": "Arrêté du 13 juillet 2011 - art. 14, v. init.",
                         "linkType": "ETEND",
@@ -5010,6 +4998,18 @@
                         "datePubliTexte": "2011-07-22",
                         "dateSignaTexte": "2011-07-13",
                         "dateDebutCible": "2999-01-01"
+                      },
+                      {
+                        "textCid": "KALITEXT000024286682",
+                        "textTitle": "Formation professionnelle - art. (VNE)",
+                        "linkType": "MODIFIE",
+                        "linkOrientation": "cible",
+                        "articleNum": "",
+                        "articleId": "KALIARTI000024286685",
+                        "natureText": "Avenant",
+                        "datePubliTexte": "2999-01-01",
+                        "dateSignaTexte": "2011-01-20",
+                        "dateDebutCible": "2011-01-20"
                       }
                     ]
                   }
@@ -6967,18 +6967,6 @@
                 "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000025201797",
-                    "textTitle": "Formation professionnelle tout au long de la vie - art. 3.1 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "source",
-                    "articleNum": "3.1",
-                    "articleId": "KALIARTI000026910800",
-                    "natureText": "Accord",
-                    "datePubliTexte": "2012-01-26",
-                    "dateSignaTexte": "2011-10-17",
-                    "dateDebutCible": "2012-09-11"
-                  },
-                  {
                     "textCid": "JORFTEXT000026812000",
                     "textTitle": "Arrêté du 19 décembre 2012 - art. 13, v. init.",
                     "linkType": "ETEND",
@@ -6989,6 +6977,18 @@
                     "datePubliTexte": "2012-12-23",
                     "dateSignaTexte": "2012-12-19",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000025201797",
+                    "textTitle": "Formation professionnelle tout au long de la vie - art. 3.1 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "3.1",
+                    "articleId": "KALIARTI000026910800",
+                    "natureText": "Accord",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2011-10-17",
+                    "dateDebutCible": "2012-09-11"
                   }
                 ]
               }
