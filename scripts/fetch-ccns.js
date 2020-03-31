@@ -50,7 +50,6 @@ async function fetchAdditionalText(container) {
   const pAdditionnalSections = additionnalSections.map(async (mainSection) => {
     const pSections = mainSection.sections.filter(isValidSection).map((text) =>
       queue.add(() => {
-        console.log(`› fetch text ${text.id}`);
         return retry(() => getKaliText(text.id), { retries: 10 });
       })
     );
