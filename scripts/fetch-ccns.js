@@ -47,15 +47,15 @@ async function fetchAdditionalText(container) {
     .slice(nbBaseText)
     .filter(isValidSection);
 
-  const pAdditionnalSections = additionnalSections.map(async mainSection => {
-    const pSections = mainSection.sections.filter(isValidSection).map(text =>
+  const pAdditionnalSections = additionnalSections.map(async (mainSection) => {
+    const pSections = mainSection.sections.filter(isValidSection).map((text) =>
       queue.add(() => {
         console.log(`› fetch text ${text.id}`);
         return retry(() => getKaliText(text.id), { retries: 10 });
       })
     );
     mainSection.sections = await Promise.all(pSections);
-    mainSection.sections.forEach(section => {
+    mainSection.sections.forEach((section) => {
       section.etat = section.jurisState;
     });
     return mainSection;
@@ -69,7 +69,7 @@ async function fetchAdditionalText(container) {
 }
 
 function cleanAst(tree) {
-  remove(tree, node => isValidSection(node.data));
+  remove(tree, (node) => isValidSection(node.data));
   const sortByOrdre = sortBy("intOrdre");
   const keys = [
     "cid",
@@ -85,7 +85,7 @@ function cleanAst(tree) {
     "surtitre",
     "historique",
     "modifDate",
-    "lstLienModification"
+    "lstLienModification",
   ];
   return map(tree, ({ type, data: rawData, children }) => {
     const data = keys.reduce((data, key) => {
@@ -129,14 +129,14 @@ async function main() {
     saveFile
   );
 
-  const ccnList = conventions.filter(convention => !!convention.url);
+  const ccnList = conventions.filter((convention) => !!convention.url);
   const pResults = ccnList.map(({ id }) => pipeline(id));
 
   await Promise.all(pResults);
   console.log(`››› Done in ${toFix((Date.now() - t0) / 1000)} s`);
 }
 
-main().catch(error => {
+main().catch((error) => {
   console.error(error);
   console.log(`››› Failed in ${toFix((Date.now() - t0) / 1000)} s`);
   process.exit(-1);

@@ -1,6 +1,6 @@
 import astify, {
   isValidSection,
-  latestArticleVersionFilter
+  latestArticleVersionFilter,
 } from "../src/astify";
 import sampleConvention from "./kaliCont-sample.json";
 
@@ -11,16 +11,16 @@ test("should convert structure to AST tree", () => {
 const sampleArticles = [
   {
     id: "KALIARTI000001",
-    cid: 1
+    cid: 1,
   },
   {
     id: "KALIARTI000003",
-    cid: 1
+    cid: 1,
   },
   {
     id: "KALIARTI000002",
-    cid: 1
-  }
+    cid: 1,
+  },
 ];
 
 describe("latestArticleVersionFilter", () => {
@@ -29,7 +29,7 @@ describe("latestArticleVersionFilter", () => {
       latestArticleVersionFilter(
         {
           id: "KALIARTI000001",
-          cid: 1
+          cid: 1,
         },
         0,
         sampleArticles
@@ -42,7 +42,7 @@ describe("latestArticleVersionFilter", () => {
       latestArticleVersionFilter(
         {
           id: "KALIARTI000003",
-          cid: 1
+          cid: 1,
         },
         0,
         sampleArticles

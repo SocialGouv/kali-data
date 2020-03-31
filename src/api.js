@@ -9,8 +9,8 @@ export async function getKaliCont(containerId) {
       path: "consult/kaliCont",
       method: "POST",
       params: {
-        id: containerId
-      }
+        id: containerId,
+      },
     })
     .then(checkApiResponse);
 }
@@ -22,8 +22,8 @@ export function getKaliContIdcc(idcc) {
       path: "consult/kaliContIdcc",
       method: "POST",
       params: {
-        id: idcc
-      }
+        id: idcc,
+      },
     })
     .then(checkApiResponse);
 }
@@ -35,8 +35,8 @@ export function getKaliText(textId) {
       path: "consult/kaliText",
       method: "POST",
       params: {
-        id: textId
-      }
+        id: textId,
+      },
     })
     .then(checkApiResponse);
 }
