@@ -18,6 +18,16 @@ const queue = new Queue({ concurrency: 10, intervalCap: 20, interval: 1000 });
 
 const t0 = Date.now();
 
+function sortText(a, b) {
+  if (a.intOrdre === b.intOrdre) {
+    return (
+      parseInt(a.id.replace("w+", ""), 10) -
+      parseInt(b.id.replace("w+", ""), 10)
+    );
+  }
+  return a.ordre - b.ordre;
+}
+
 function fetchKaliCont(id) {
   return queue.add(() => {
     console.log(`fetch ${id}`);
@@ -54,7 +64,7 @@ async function fetchAdditionalText(container) {
   const sectionsWithText = (await Promise.all(pAdditionnalSections)).filter(
     ({ sections }) => sections.length > 0
   );
-  container.sections = [...textedeBase, ...sectionsWithText];
+  container.sections = [...textedeBase, ...sectionsWithText].sort(sortText);
   return container;
 }
 
@@ -105,7 +115,7 @@ function toFix(value, nb = 2) {
 }
 
 function sortBy(key) {
-  return function(a, b) {
+  return function (a, b) {
     return a.data[key] - b.data[key];
   };
 }
