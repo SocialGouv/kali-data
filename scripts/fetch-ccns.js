@@ -18,6 +18,16 @@ const queue = new Queue({ concurrency: 10, intervalCap: 20, interval: 1000 });
 
 const t0 = Date.now();
 
+function sortText(a, b) {
+  if (a.intOrdre === b.intOrdre) {
+    return (
+      parseInt(a.id.replace("w+", ""), 10) -
+      parseInt(b.id.replace("w+", ""), 10)
+    );
+  }
+  return a.ordre - b.ordre;
+}
+
 function fetchKaliCont(id) {
   return queue.add(() => {
     console.log(`fetch ${id}`);
@@ -37,15 +47,15 @@ async function fetchAdditionalText(container) {
     .slice(nbBaseText)
     .filter(isValidSection);
 
-  const pAdditionnalSections = additionnalSections.map(async mainSection => {
-    const pSections = mainSection.sections.filter(isValidSection).map(text =>
+  const pAdditionnalSections = additionnalSections.map(async (mainSection) => {
+    const pSections = mainSection.sections.filter(isValidSection).map((text) =>
       queue.add(() => {
         console.log(`› fetch text ${text.id}`);
         return retry(() => getKaliText(text.id), { retries: 10 });
       })
     );
     mainSection.sections = await Promise.all(pSections);
-    mainSection.sections.forEach(section => {
+    mainSection.sections.forEach((section) => {
       section.etat = section.jurisState;
     });
     return mainSection;
@@ -54,12 +64,12 @@ async function fetchAdditionalText(container) {
   const sectionsWithText = (await Promise.all(pAdditionnalSections)).filter(
     ({ sections }) => sections.length > 0
   );
-  container.sections = [...textedeBase, ...sectionsWithText];
+  container.sections = [...textedeBase, ...sectionsWithText].sort(sortText);
   return container;
 }
 
 function cleanAst(tree) {
-  remove(tree, node => isValidSection(node.data));
+  remove(tree, (node) => isValidSection(node.data));
   const sortByOrdre = sortBy("intOrdre");
   const keys = [
     "cid",
@@ -75,7 +85,7 @@ function cleanAst(tree) {
     "surtitre",
     "historique",
     "modifDate",
-    "lstLienModification"
+    "lstLienModification",
   ];
   return map(tree, ({ type, data: rawData, children }) => {
     const data = keys.reduce((data, key) => {
@@ -105,7 +115,7 @@ function toFix(value, nb = 2) {
 }
 
 function sortBy(key) {
-  return function(a, b) {
+  return function (a, b) {
     return a.data[key] - b.data[key];
   };
 }
@@ -119,14 +129,14 @@ async function main() {
     saveFile
   );
 
-  const ccnList = conventions.filter(convention => !!convention.url);
+  const ccnList = conventions.filter((convention) => !!convention.url);
   const pResults = ccnList.map(({ id }) => pipeline(id));
 
   await Promise.all(pResults);
   console.log(`››› Done in ${toFix((Date.now() - t0) / 1000)} s`);
 }
 
-main().catch(error => {
+main().catch((error) => {
   console.error(error);
   console.log(`››› Failed in ${toFix((Date.now() - t0) / 1000)} s`);
   process.exit(-1);
