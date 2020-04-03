@@ -40,18 +40,6 @@
                 "surtitre": "Champ d'application",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000020851826",
-                    "textTitle": "Modifications d'articles - art. 1 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "1er",
-                    "articleId": "KALIARTI000020851829",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2009-07-15",
-                    "dateSignaTexte": "2009-03-24",
-                    "dateDebutCible": "2009-03-24"
-                  },
-                  {
                     "textCid": "JORFTEXT000022522576",
                     "textTitle": "Arrêté du 19 juillet 2010, v. init.",
                     "linkType": "ETEND",
@@ -62,6 +50,18 @@
                     "datePubliTexte": "2010-07-28",
                     "dateSignaTexte": "2010-07-19",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000020851826",
+                    "textTitle": "Modifications d'articles - art. 1 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "1er",
+                    "articleId": "KALIARTI000020851829",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2009-03-24",
+                    "dateDebutCible": "2009-03-24"
                   }
                 ]
               }
@@ -408,6 +408,18 @@
                 "surtitre": "Période d'essai",
                 "lstLienModification": [
                   {
+                    "textCid": "JORFTEXT000022522576",
+                    "textTitle": "Arrêté du 19 juillet 2010, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "JORFTEXT000022522576",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2010-07-28",
+                    "dateSignaTexte": "2010-07-19",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
                     "textCid": "KALITEXT000020851826",
                     "textTitle": "Modifications d'articles - art. 2 (VNE)",
                     "linkType": "MODIFIE",
@@ -415,7 +427,7 @@
                     "articleNum": "2",
                     "articleId": "KALIARTI000020851830",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2009-07-15",
+                    "datePubliTexte": "2999-01-01",
                     "dateSignaTexte": "2009-03-24",
                     "dateDebutCible": "2009-03-24"
                   },
@@ -427,21 +439,9 @@
                     "articleNum": "3",
                     "articleId": "KALIARTI000020851831",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2009-07-15",
+                    "datePubliTexte": "2999-01-01",
                     "dateSignaTexte": "2009-03-24",
                     "dateDebutCible": "2009-03-24"
-                  },
-                  {
-                    "textCid": "JORFTEXT000022522576",
-                    "textTitle": "Arrêté du 19 juillet 2010, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "JORFTEXT000022522576",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2010-07-28",
-                    "dateSignaTexte": "2010-07-19",
-                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -458,6 +458,18 @@
                 "surtitre": "Nature, forme et conclusion des contrats de travail",
                 "lstLienModification": [
                   {
+                    "textCid": "JORFTEXT000028781103",
+                    "textTitle": "Arrêté du 18 mars 2014 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000028781106",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2014-03-27",
+                    "dateSignaTexte": "2014-03-18",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
                     "textCid": "KALITEXT000027931698",
                     "textTitle": "Modification d'articles de la convention - art. 1er (VNE)",
                     "linkType": "MODIFIE",
@@ -465,7 +477,7 @@
                     "articleNum": "1er",
                     "articleId": "KALIARTI000027931701",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2013-09-05",
+                    "datePubliTexte": "2999-01-01",
                     "dateSignaTexte": "2013-06-19",
                     "dateDebutCible": "2013-06-19"
                   },
@@ -477,21 +489,9 @@
                     "articleNum": "2",
                     "articleId": "KALIARTI000027931704",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2013-09-05",
+                    "datePubliTexte": "2999-01-01",
                     "dateSignaTexte": "2013-06-19",
                     "dateDebutCible": "2013-06-19"
-                  },
-                  {
-                    "textCid": "JORFTEXT000028781103",
-                    "textTitle": "Arrêté du 18 mars 2014 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000028781106",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2014-03-27",
-                    "dateSignaTexte": "2014-03-18",
-                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -650,18 +650,6 @@
                 "surtitre": "Licenciement",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000020013663",
-                    "textTitle": "Modification d'articles de la convention collec... - art. 2 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "2",
-                    "articleId": "KALIARTI000020013668",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2008-12-31",
-                    "dateSignaTexte": "2008-10-15",
-                    "dateDebutCible": "2008-10-15"
-                  },
-                  {
                     "textCid": "JORFTEXT000020287999",
                     "textTitle": "Arrêté du 16 février 2009, v. init.",
                     "linkType": "ETEND",
@@ -672,6 +660,18 @@
                     "datePubliTexte": "2009-02-21",
                     "dateSignaTexte": "2009-02-16",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000020013663",
+                    "textTitle": "Modification d'articles de la convention collec... - art. 2 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "2",
+                    "articleId": "KALIARTI000020013668",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2008-10-15",
+                    "dateDebutCible": "2008-10-15"
                   }
                 ]
               }
@@ -688,18 +688,6 @@
                 "surtitre": "Départ a la retraite",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000020851826",
-                    "textTitle": "Modifications d'articles - art. 4 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "4",
-                    "articleId": "KALIARTI000020851834",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2009-07-15",
-                    "dateSignaTexte": "2009-03-24",
-                    "dateDebutCible": "2009-03-24"
-                  },
-                  {
                     "textCid": "JORFTEXT000022522576",
                     "textTitle": "Arrêté du 19 juillet 2010, v. init.",
                     "linkType": "ETEND",
@@ -710,6 +698,18 @@
                     "datePubliTexte": "2010-07-28",
                     "dateSignaTexte": "2010-07-19",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000020851826",
+                    "textTitle": "Modifications d'articles - art. 4 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "4",
+                    "articleId": "KALIARTI000020851834",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2009-03-24",
+                    "dateDebutCible": "2009-03-24"
                   }
                 ]
               }
@@ -726,18 +726,6 @@
                 "surtitre": "Egalité d'accès à l'emploi et égalité de traitement",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000020013663",
-                    "textTitle": "Modification d'articles de la convention collec... - art. 3 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "3",
-                    "articleId": "KALIARTI000020013669",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2008-12-31",
-                    "dateSignaTexte": "2008-10-15",
-                    "dateDebutCible": "2008-10-15"
-                  },
-                  {
                     "textCid": "JORFTEXT000020287999",
                     "textTitle": "Arrêté du 16 février 2009, v. init.",
                     "linkType": "ETEND",
@@ -748,6 +736,18 @@
                     "datePubliTexte": "2009-02-21",
                     "dateSignaTexte": "2009-02-16",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000020013663",
+                    "textTitle": "Modification d'articles de la convention collec... - art. 3 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "3",
+                    "articleId": "KALIARTI000020013669",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2008-10-15",
+                    "dateDebutCible": "2008-10-15"
                   }
                 ]
               }
@@ -825,18 +825,6 @@
                 "surtitre": "Durée du travail, jours fériés et congés du personneladministratif et de service",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000029617296",
-                    "textTitle": "Modification d'articles de la convention - art. 1er (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "1er",
-                    "articleId": "KALIARTI000029617299",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2014-10-22",
-                    "dateSignaTexte": "2014-06-23",
-                    "dateDebutCible": "2015-09-01"
-                  },
-                  {
                     "textCid": "JORFTEXT000030391395",
                     "textTitle": "ARRÊTÉ du 11 mars 2015 - art. 1, v. init.",
                     "linkType": "ETEND",
@@ -847,6 +835,18 @@
                     "datePubliTexte": "2015-03-24",
                     "dateSignaTexte": "2015-03-11",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000029617296",
+                    "textTitle": "Modification d'articles de la convention - art. 1er (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "1er",
+                    "articleId": "KALIARTI000029617299",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2014-06-23",
+                    "dateDebutCible": "2015-09-01"
                   }
                 ]
               }
@@ -863,6 +863,18 @@
                 "surtitre": " Personnel d'encadrement pédagogique ",
                 "lstLienModification": [
                   {
+                    "textCid": "JORFTEXT000028781103",
+                    "textTitle": "Arrêté du 18 mars 2014 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000028781106",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2014-03-27",
+                    "dateSignaTexte": "2014-03-18",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
                     "textCid": "KALITEXT000027931698",
                     "textTitle": "Modification d'articles de la convention - art. 3 (VNE)",
                     "linkType": "MODIFIE",
@@ -870,7 +882,7 @@
                     "articleNum": "3",
                     "articleId": "KALIARTI000027931705",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2013-09-05",
+                    "datePubliTexte": "2999-01-01",
                     "dateSignaTexte": "2013-06-19",
                     "dateDebutCible": "2013-06-19"
                   },
@@ -882,21 +894,9 @@
                     "articleNum": "4",
                     "articleId": "KALIARTI000027931707",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2013-09-05",
+                    "datePubliTexte": "2999-01-01",
                     "dateSignaTexte": "2013-06-19",
                     "dateDebutCible": "2013-06-19"
-                  },
-                  {
-                    "textCid": "JORFTEXT000028781103",
-                    "textTitle": "Arrêté du 18 mars 2014 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000028781106",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2014-03-27",
-                    "dateSignaTexte": "2014-03-18",
-                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -1012,6 +1012,18 @@
                 "surtitre": "Congés payés",
                 "lstLienModification": [
                   {
+                    "textCid": "JORFTEXT000030391395",
+                    "textTitle": "ARRÊTÉ du 11 mars 2015 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000030391398",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2015-03-24",
+                    "dateSignaTexte": "2015-03-11",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
                     "textCid": "KALITEXT000029617296",
                     "textTitle": "Modification d'articles de la convention - art. 3 (VNE)",
                     "linkType": "MODIFIE",
@@ -1019,7 +1031,7 @@
                     "articleNum": "3",
                     "articleId": "KALIARTI000029617302",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2014-10-22",
+                    "datePubliTexte": "2999-01-01",
                     "dateSignaTexte": "2014-06-23",
                     "dateDebutCible": "2015-09-01"
                   },
@@ -1031,21 +1043,9 @@
                     "articleNum": "4",
                     "articleId": "KALIARTI000029617303",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2014-10-22",
+                    "datePubliTexte": "2999-01-01",
                     "dateSignaTexte": "2014-06-23",
                     "dateDebutCible": "2015-09-01"
-                  },
-                  {
-                    "textCid": "JORFTEXT000030391395",
-                    "textTitle": "ARRÊTÉ du 11 mars 2015 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000030391398",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2015-03-24",
-                    "dateSignaTexte": "2015-03-11",
-                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -1062,18 +1062,6 @@
                 "surtitre": "Maladie ou accident du travail",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000028967567",
-                    "textTitle": "Prévoyance - art. 1er (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "1er",
-                    "articleId": "KALIARTI000028967570",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2014-05-22",
-                    "dateSignaTexte": "2014-01-15",
-                    "dateDebutCible": "2014-01-01"
-                  },
-                  {
                     "textCid": "JORFTEXT000029624069",
                     "textTitle": "ARRÊTÉ du 6 octobre 2014 - art. 12, v. init.",
                     "linkType": "ETEND",
@@ -1084,6 +1072,18 @@
                     "datePubliTexte": "2014-10-24",
                     "dateSignaTexte": "2014-10-06",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000028967567",
+                    "textTitle": "Prévoyance - art. 1er (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "1er",
+                    "articleId": "KALIARTI000028967570",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2014-01-15",
+                    "dateDebutCible": "2014-01-01"
                   }
                 ]
               }
@@ -1238,18 +1238,6 @@
                 "surtitre": "Catégories de personnelet critères généraux de classification",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000027931698",
-                    "textTitle": "Modification d'articles de la convention - art. 8 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "8",
-                    "articleId": "KALIARTI000027931714",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2013-09-05",
-                    "dateSignaTexte": "2013-06-19",
-                    "dateDebutCible": "2013-06-19"
-                  },
-                  {
                     "textCid": "JORFTEXT000028781103",
                     "textTitle": "Arrêté du 18 mars 2014 - art. 1, v. init.",
                     "linkType": "ETEND",
@@ -1260,6 +1248,18 @@
                     "datePubliTexte": "2014-03-27",
                     "dateSignaTexte": "2014-03-18",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000027931698",
+                    "textTitle": "Modification d'articles de la convention - art. 8 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "8",
+                    "articleId": "KALIARTI000027931714",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2013-06-19",
+                    "dateDebutCible": "2013-06-19"
                   }
                 ]
               }
@@ -1276,18 +1276,6 @@
                 "surtitre": "Classification du personnel administratif et de service",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000027931698",
-                    "textTitle": "Modification d'articles de la convention - art. 9 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "9",
-                    "articleId": "KALIARTI000027931715",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2013-09-05",
-                    "dateSignaTexte": "2013-06-19",
-                    "dateDebutCible": "2013-06-19"
-                  },
-                  {
                     "textCid": "JORFTEXT000028781103",
                     "textTitle": "Arrêté du 18 mars 2014 - art. 1, v. init.",
                     "linkType": "ETEND",
@@ -1298,6 +1286,18 @@
                     "datePubliTexte": "2014-03-27",
                     "dateSignaTexte": "2014-03-18",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000027931698",
+                    "textTitle": "Modification d'articles de la convention - art. 9 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "9",
+                    "articleId": "KALIARTI000027931715",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2013-06-19",
+                    "dateDebutCible": "2013-06-19"
                   }
                 ]
               }
@@ -1314,18 +1314,6 @@
                 "surtitre": " Classification du personnel d'encadrement pédagogique ",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000027931698",
-                    "textTitle": "Modification d'articles de la convention - art. 10 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "10",
-                    "articleId": "KALIARTI000027931716",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2013-09-05",
-                    "dateSignaTexte": "2013-06-19",
-                    "dateDebutCible": "2013-06-19"
-                  },
-                  {
                     "textCid": "JORFTEXT000028781103",
                     "textTitle": "Arrêté du 18 mars 2014 - art. 1, v. init.",
                     "linkType": "ETEND",
@@ -1336,6 +1324,18 @@
                     "datePubliTexte": "2014-03-27",
                     "dateSignaTexte": "2014-03-18",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000027931698",
+                    "textTitle": "Modification d'articles de la convention - art. 10 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "10",
+                    "articleId": "KALIARTI000027931716",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2013-06-19",
+                    "dateDebutCible": "2013-06-19"
                   }
                 ]
               }
@@ -1352,6 +1352,18 @@
                 "surtitre": "Classification du personnel enseignant",
                 "lstLienModification": [
                   {
+                    "textCid": "JORFTEXT000028781103",
+                    "textTitle": "Arrêté du 18 mars 2014 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000028781106",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2014-03-27",
+                    "dateSignaTexte": "2014-03-18",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
                     "textCid": "KALITEXT000027931698",
                     "textTitle": "Modification d'articles de la convention - art. 11 (VNE)",
                     "linkType": "MODIFIE",
@@ -1359,7 +1371,7 @@
                     "articleNum": "11",
                     "articleId": "KALIARTI000027931717",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2013-09-05",
+                    "datePubliTexte": "2999-01-01",
                     "dateSignaTexte": "2013-06-19",
                     "dateDebutCible": "2013-06-19"
                   },
@@ -1371,21 +1383,9 @@
                     "articleNum": "12",
                     "articleId": "KALIARTI000027931718",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2013-09-05",
+                    "datePubliTexte": "2999-01-01",
                     "dateSignaTexte": "2013-06-19",
                     "dateDebutCible": "2013-06-19"
-                  },
-                  {
-                    "textCid": "JORFTEXT000028781103",
-                    "textTitle": "Arrêté du 18 mars 2014 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000028781106",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2014-03-27",
-                    "dateSignaTexte": "2014-03-18",
-                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -1413,18 +1413,6 @@
                 "surtitre": "Définition des salaires minima annuels bruts",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000029617288",
-                    "textTitle": "Modification de l'article 7.1.2 « Salaires mini... - art. 1er (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "1er",
-                    "articleId": "KALIARTI000029617291",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2014-10-22",
-                    "dateSignaTexte": "2014-06-23",
-                    "dateDebutCible": "2015-01-01"
-                  },
-                  {
                     "textCid": "JORFTEXT000030073826",
                     "textTitle": "ARRÊTÉ du 5 janvier 2015 - art. 14, v. init.",
                     "linkType": "ETEND",
@@ -1435,6 +1423,18 @@
                     "datePubliTexte": "2015-01-10",
                     "dateSignaTexte": "2015-01-05",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000029617288",
+                    "textTitle": "Modification de l'article 7.1.2 « Salaires mini... - art. 1er (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "1er",
+                    "articleId": "KALIARTI000029617291",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2014-06-23",
+                    "dateDebutCible": "2015-01-01"
                   }
                 ]
               }
@@ -1555,18 +1555,6 @@
                 "surtitre": "Modalités de rémunération et de décompte des heures d'activité pour le personnel enseignant",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000023956760",
-                    "textTitle": "Rémunération et décompte des heures d'activité - art. 2 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "2",
-                    "articleId": "KALIARTI000023956765",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2011-05-09",
-                    "dateSignaTexte": "2010-12-14",
-                    "dateDebutCible": "2010-12-14"
-                  },
-                  {
                     "textCid": "JORFTEXT000026074914",
                     "textTitle": "Arrêté du 19 juin 2012 - art. 6, v. init.",
                     "linkType": "ETEND",
@@ -1577,6 +1565,18 @@
                     "datePubliTexte": "2012-06-27",
                     "dateSignaTexte": "2012-06-19",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000023956760",
+                    "textTitle": "Rémunération et décompte des heures d'activité - art. 2 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "2",
+                    "articleId": "KALIARTI000023956765",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2010-12-14",
+                    "dateDebutCible": "2010-12-14"
                   }
                 ]
               }
@@ -1770,6 +1770,18 @@
                 "surtitre": "Définition des garanties",
                 "lstLienModification": [
                   {
+                    "textCid": "JORFTEXT000029624069",
+                    "textTitle": "ARRÊTÉ du 6 octobre 2014 - art. 12, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "12",
+                    "articleId": "JORFARTI000029624118",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2014-10-24",
+                    "dateSignaTexte": "2014-10-06",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
                     "textCid": "KALITEXT000028967567",
                     "textTitle": "Prévoyance - art. 2 (VNE)",
                     "linkType": "MODIFIE",
@@ -1777,7 +1789,7 @@
                     "articleNum": "2",
                     "articleId": "KALIARTI000028967571",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2014-05-22",
+                    "datePubliTexte": "2999-01-01",
                     "dateSignaTexte": "2014-01-15",
                     "dateDebutCible": "2014-01-01"
                   },
@@ -1789,21 +1801,9 @@
                     "articleNum": "3",
                     "articleId": "KALIARTI000028967572",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2014-05-22",
+                    "datePubliTexte": "2999-01-01",
                     "dateSignaTexte": "2014-01-15",
                     "dateDebutCible": "2014-01-01"
-                  },
-                  {
-                    "textCid": "JORFTEXT000029624069",
-                    "textTitle": "ARRÊTÉ du 6 octobre 2014 - art. 12, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "12",
-                    "articleId": "JORFARTI000029624118",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2014-10-24",
-                    "dateSignaTexte": "2014-10-06",
-                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -1853,7 +1853,7 @@
                     "articleNum": "2",
                     "articleId": "KALIARTI000027593514",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2013-06-24",
+                    "datePubliTexte": "2999-01-01",
                     "dateSignaTexte": "2013-02-13",
                     "dateDebutCible": "2013-01-01"
                   }
@@ -1898,18 +1898,6 @@
                 "surtitre": "Date d'effet. ― Révision. ― Dénonciation",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000020013659",
-                    "textTitle": "Clause de migration (Prévoyance) - art. (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "KALIARTI000020013662",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2008-12-31",
-                    "dateSignaTexte": "2008-10-15",
-                    "dateDebutCible": "2008-10-15"
-                  },
-                  {
                     "textCid": "JORFTEXT000020560984",
                     "textTitle": "Arrêté du 21 avril 2009, v. init.",
                     "linkType": "ETEND",
@@ -1920,6 +1908,18 @@
                     "datePubliTexte": "2009-04-29",
                     "dateSignaTexte": "2009-04-21",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000020013659",
+                    "textTitle": "Clause de migration (Prévoyance) - art. (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "KALIARTI000020013662",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2008-10-15",
+                    "dateDebutCible": "2008-10-15"
                   }
                 ]
               }
@@ -2237,22 +2237,22 @@
                 "cid": "KALIARTI000025361761",
                 "num": "9.10",
                 "intOrdre": 1076363258,
-                "id": "KALIARTI000034185672",
-                "content": "<p>L'OPCA-PL, dénommé ACTALIANS, sis 4, rue du Colonel-Driant, 75046 Paris Cedex 01, est désigné en qualité d'OPCA de la branche, seul habilité à ce titre à collecter les contributions des entreprises et des établissements de la branche au titre de la formation professionnelle continue tout au long de la vie, dans le respect de la législation sociale en vigueur.</p>",
+                "id": "KALIARTI000041770100",
+                "content": "<p>Par arrêté du 29 mars 2019 portant agrément d'un opérateur de compétences, l'opérateur de compétences des entreprises et des salariés des services à forte intensité de main-d'œuvre dit AKTO, sis 14, rue Riquet, 75940 Paris Cedex 19 est désigné en qualité d'OPCO de la branche, seul habilité à ce titre à collecter les contributions des entreprises et des établissements de la branche au titre de la formation professionnelle continue tout au long de la vie, dans le respect de la législation en vigueur.</p>",
                 "etat": "VIGUEUR_NON_ETEN",
-                "surtitre": "OPCA de la branche ",
+                "surtitre": "OPCO de branche ",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000034183756",
-                    "textTitle": "Formation professionnelle - art. 1er (VNE)",
+                    "textCid": "KALITEXT000041764044",
+                    "textTitle": "Désignation de l'OPCO et contribution supplémen... - art. 1er (VNE)",
                     "linkType": "MODIFIE",
                     "linkOrientation": "cible",
                     "articleNum": "1er",
-                    "articleId": "KALIARTI000034183763",
+                    "articleId": "KALIARTI000041764048",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2999-01-01",
-                    "dateSignaTexte": "2016-12-07",
-                    "dateDebutCible": "2017-01-01"
+                    "datePubliTexte": "2020-03-30",
+                    "dateSignaTexte": "2019-12-18",
+                    "dateDebutCible": "2019-12-18"
                   }
                 ]
               }
@@ -2263,22 +2263,22 @@
                 "cid": "KALIARTI000025959310",
                 "num": "9.11",
                 "intOrdre": 1611923452,
-                "id": "KALIARTI000034185674",
-                "content": "<p>En application de dispositions de l'article L. 6332-1-2 du code du travail, les entreprises de 11 salariés et plus de l'enseignement supérieur, de l'enseignement postsecondaire non supérieur, de l'enseignement culturel et des autres enseignements, à l'exception des entreprises citées à l'alinéa suivant, versent une contribution conventionnelle de formation à l'OPCA-PL, dénommé ACTALIANS, qui s'élève à 0,30 % de la masse salariale brute annuelle, à l'exception des entreprises dont le siège est implanté dans un DOM-CROM, qui, selon les dispositions légales, peuvent verser leur contribution formation à un organisme interprofessionnel.<br/><br/>\nEn application des dispositions de l'article L. 6332-1-2 du code du travail, toutes les entreprises de la branche de moins de 11 salariés ainsi que les entreprises de 11 salariés et plus de l'enseignement préprimaire, primaire, secondaire général et de l'enseignement à distance versent une contribution conventionnelle de formation à l'OPCA-PL, dénommé ACTALIANS, qui s'élève à 0,10 % de la masse salariale brute annuelle, à l'exception des entreprises dont le siège est implanté dans un DOM-CROM, qui, selon les dispositions légales, peuvent verser leur contribution formation à un organisme interprofessionnel.<br/><br/>\nEn cas de pluriactivité susceptible de justifier l'application de l'un ou l'autre des taux, les entreprises visées relèveront du seul taux correspondant à leur activité principale, déterminée d'après le chiffre d'affaires réalisé dans chacun des enseignements concernés.</p>",
+                "id": "KALIARTI000041770102",
+                "content": "<p>a)   En application des dispositions de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000021343095&dateTexte=&categorieLien=cid' title='Code du travail - art. L6332-1-2 (V)'>article L. 6332-1-2 du code du travail</a>, les entreprises de 11 salariés et plus de l'enseignement supérieur, de l'enseignement postsecondaire non supérieur, de l'enseignement culturel, de l'enseignement à distance, et des autres enseignements, à l'exception des entreprises citées à l'alinéa suivant, versent une contribution supplémentaire conventionnelle de formation à l'opérateur de compétences des entreprises et des salariés des services à forte intensité de main-d'œuvre dit AKTO qui s'élève à 0,3 % de la masse salariale brute annuelle, y compris les entreprises dont le siège est implanté dans un DROM ou une COM appliquant la législation française en matière de participation à la formation professionnelle. </p><p>b)   En application des dispositions de l'article L. 6332-1-2 du code du travail, toutes les entreprises de 10 salariés et moins, ainsi que les entreprises de 11 salariés et plus de l'enseignement préprimaire, primaire et secondaire général versent une contribution supplémentaire conventionnelle de formation à l'opérateur de compétences des entreprises et des salariés des services à forte intensité de main-d'œuvre dit AKTO qui s'élève à 0,1 % de la masse salariale brute annuelle, y compris les entreprises dont le siège est implanté dans un DROM ou une COM appliquant la législation française en matière de participation à la formation professionnelle. </p><p>c)   En cas de pluriactivité susceptible de justifier l'application de l'un ou l'autre des taux, les entreprises visées relèveront du seul taux correspondant à leur activité principale, déterminée d'après le chiffre d'affaires réalisé dans chacun des enseignements concernés. </p><p>d)   Les employeurs des entreprises de l'enseignement supérieur, de l'enseignement postsecondaire non supérieur, de l'enseignement culturel, de l'enseignement à distance et des autres enseignements, à l'exception des entreprises citées à l'alinéa b qui, en raison de l'accroissement de leur effectif, atteignent ou dépassent au titre d'une année, pour la première fois, l'effectif de 11 salariés, bénéficient d'une évolution spécifique du taux de leur contribution. </p><p>Ils restent soumis pour l'année en cours et les deux suivantes au taux applicable aux employeurs occupant 10 salariés et moins, à savoir 0,1 %. </p><p>Ils sont ensuite assujettis à la contribution supplémentaire conventionnelle de 0,2 % de la masse salariale la quatrième année de l'accroissement de leur effectif pour atteindre, la cinquième année, la contribution supplémentaire conventionnelle des employeurs occupant 11 salariés et plus, à savoir : 0,3 % de la masse salariale. </p><p>Cette évolution progressive n'est pas applicable lorsque : <br/>– l'accroissement d'effectif résulte de la reprise ou de l'absorption d'un établissement ayant employé 11 salariés ou plus au cours des 3 années précédentes ; <br/>– le seuil de 11 salariés est atteint ou dépassé dès la 1re année d'activité.</p>",
                 "etat": "VIGUEUR_NON_ETEN",
-                "surtitre": "Contribution conventionnelle",
+                "surtitre": "Contribution supplémentaire conventionnelle",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000034183756",
-                    "textTitle": "Formation professionnelle - art. 2 (VNE)",
+                    "textCid": "KALITEXT000041764044",
+                    "textTitle": "Désignation de l'OPCO et contribution supplémen... - art. 2 (VNE)",
                     "linkType": "MODIFIE",
                     "linkOrientation": "cible",
                     "articleNum": "2",
-                    "articleId": "KALIARTI000034183764",
+                    "articleId": "KALIARTI000041764049",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2999-01-01",
-                    "dateSignaTexte": "2016-12-07",
-                    "dateDebutCible": "2017-01-01"
+                    "datePubliTexte": "2020-03-30",
+                    "dateSignaTexte": "2019-12-18",
+                    "dateDebutCible": "2019-12-18"
                   }
                 ]
               }
@@ -2332,18 +2332,6 @@
                 "surtitre": "Préambule ",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000021682640",
-                    "textTitle": "Egalité professionnelle entre les hommes et les... - art. 2 (VNE)",
-                    "linkType": "CREE",
-                    "linkOrientation": "cible",
-                    "articleNum": "2",
-                    "articleId": "KALIARTI000021682644",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2010-01-14",
-                    "dateSignaTexte": "2009-06-09",
-                    "dateDebutCible": "2009-06-09"
-                  },
-                  {
                     "textCid": "JORFTEXT000022145408",
                     "textTitle": "Arrêté du 16 avril 2010, v. init.",
                     "linkType": "ETEND",
@@ -2354,6 +2342,18 @@
                     "datePubliTexte": "2010-04-29",
                     "dateSignaTexte": "2010-04-16",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000021682640",
+                    "textTitle": "Egalité professionnelle entre les hommes et les... - art. 2 (VNE)",
+                    "linkType": "CREE",
+                    "linkOrientation": "cible",
+                    "articleNum": "2",
+                    "articleId": "KALIARTI000021682644",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2009-06-09",
+                    "dateDebutCible": "2009-06-09"
                   }
                 ]
               }
@@ -2370,18 +2370,6 @@
                 "surtitre": "Recrutement",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000021682640",
-                    "textTitle": "Egalité professionnelle entre les hommes et les... - art. 2 (VNE)",
-                    "linkType": "CREE",
-                    "linkOrientation": "cible",
-                    "articleNum": "2",
-                    "articleId": "KALIARTI000021682644",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2010-01-14",
-                    "dateSignaTexte": "2009-06-09",
-                    "dateDebutCible": "2009-06-09"
-                  },
-                  {
                     "textCid": "JORFTEXT000022145408",
                     "textTitle": "Arrêté du 16 avril 2010, v. init.",
                     "linkType": "ETEND",
@@ -2392,6 +2380,18 @@
                     "datePubliTexte": "2010-04-29",
                     "dateSignaTexte": "2010-04-16",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000021682640",
+                    "textTitle": "Egalité professionnelle entre les hommes et les... - art. 2 (VNE)",
+                    "linkType": "CREE",
+                    "linkOrientation": "cible",
+                    "articleNum": "2",
+                    "articleId": "KALIARTI000021682644",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2009-06-09",
+                    "dateDebutCible": "2009-06-09"
                   }
                 ]
               }
@@ -2408,18 +2408,6 @@
                 "surtitre": "Emploi, promotion et évolution professionnelle",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000021682640",
-                    "textTitle": "Egalité professionnelle entre les hommes et les... - art. 2 (VNE)",
-                    "linkType": "CREE",
-                    "linkOrientation": "cible",
-                    "articleNum": "2",
-                    "articleId": "KALIARTI000021682644",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2010-01-14",
-                    "dateSignaTexte": "2009-06-09",
-                    "dateDebutCible": "2009-06-09"
-                  },
-                  {
                     "textCid": "JORFTEXT000022145408",
                     "textTitle": "Arrêté du 16 avril 2010, v. init.",
                     "linkType": "ETEND",
@@ -2430,6 +2418,18 @@
                     "datePubliTexte": "2010-04-29",
                     "dateSignaTexte": "2010-04-16",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000021682640",
+                    "textTitle": "Egalité professionnelle entre les hommes et les... - art. 2 (VNE)",
+                    "linkType": "CREE",
+                    "linkOrientation": "cible",
+                    "articleNum": "2",
+                    "articleId": "KALIARTI000021682644",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2009-06-09",
+                    "dateDebutCible": "2009-06-09"
                   }
                 ]
               }
@@ -2446,18 +2446,6 @@
                 "surtitre": "Organisation et aménagement du travail ",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000021682640",
-                    "textTitle": "Egalité professionnelle entre les hommes et les... - art. 2 (VNE)",
-                    "linkType": "CREE",
-                    "linkOrientation": "cible",
-                    "articleNum": "2",
-                    "articleId": "KALIARTI000021682644",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2010-01-14",
-                    "dateSignaTexte": "2009-06-09",
-                    "dateDebutCible": "2009-06-09"
-                  },
-                  {
                     "textCid": "JORFTEXT000022145408",
                     "textTitle": "Arrêté du 16 avril 2010, v. init.",
                     "linkType": "ETEND",
@@ -2468,6 +2456,18 @@
                     "datePubliTexte": "2010-04-29",
                     "dateSignaTexte": "2010-04-16",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000021682640",
+                    "textTitle": "Egalité professionnelle entre les hommes et les... - art. 2 (VNE)",
+                    "linkType": "CREE",
+                    "linkOrientation": "cible",
+                    "articleNum": "2",
+                    "articleId": "KALIARTI000021682644",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2009-06-09",
+                    "dateDebutCible": "2009-06-09"
                   }
                 ]
               }
@@ -2484,18 +2484,6 @@
                 "surtitre": "Rémunération",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000021682640",
-                    "textTitle": "Egalité professionnelle entre les hommes et les... - art. 2 (VNE)",
-                    "linkType": "CREE",
-                    "linkOrientation": "cible",
-                    "articleNum": "2",
-                    "articleId": "KALIARTI000021682644",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2010-01-14",
-                    "dateSignaTexte": "2009-06-09",
-                    "dateDebutCible": "2009-06-09"
-                  },
-                  {
                     "textCid": "JORFTEXT000022145408",
                     "textTitle": "Arrêté du 16 avril 2010, v. init.",
                     "linkType": "ETEND",
@@ -2506,6 +2494,18 @@
                     "datePubliTexte": "2010-04-29",
                     "dateSignaTexte": "2010-04-16",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000021682640",
+                    "textTitle": "Egalité professionnelle entre les hommes et les... - art. 2 (VNE)",
+                    "linkType": "CREE",
+                    "linkOrientation": "cible",
+                    "articleNum": "2",
+                    "articleId": "KALIARTI000021682644",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2009-06-09",
+                    "dateDebutCible": "2009-06-09"
                   }
                 ]
               }
@@ -2522,18 +2522,6 @@
                 "surtitre": "Formation professionnelle",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000021682640",
-                    "textTitle": "Egalité professionnelle entre les hommes et les... - art. 2 (VNE)",
-                    "linkType": "CREE",
-                    "linkOrientation": "cible",
-                    "articleNum": "2",
-                    "articleId": "KALIARTI000021682644",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2010-01-14",
-                    "dateSignaTexte": "2009-06-09",
-                    "dateDebutCible": "2009-06-09"
-                  },
-                  {
                     "textCid": "JORFTEXT000022145408",
                     "textTitle": "Arrêté du 16 avril 2010, v. init.",
                     "linkType": "ETEND",
@@ -2544,6 +2532,18 @@
                     "datePubliTexte": "2010-04-29",
                     "dateSignaTexte": "2010-04-16",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000021682640",
+                    "textTitle": "Egalité professionnelle entre les hommes et les... - art. 2 (VNE)",
+                    "linkType": "CREE",
+                    "linkOrientation": "cible",
+                    "articleNum": "2",
+                    "articleId": "KALIARTI000021682644",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2009-06-09",
+                    "dateDebutCible": "2009-06-09"
                   }
                 ]
               }
@@ -2560,18 +2560,6 @@
                 "surtitre": "Absences liées à la maternité, la parentalité et la paternité",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000021682640",
-                    "textTitle": "Egalité professionnelle entre les hommes et les... - art. 2 (VNE)",
-                    "linkType": "CREE",
-                    "linkOrientation": "cible",
-                    "articleNum": "2",
-                    "articleId": "KALIARTI000021682644",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2010-01-14",
-                    "dateSignaTexte": "2009-06-09",
-                    "dateDebutCible": "2009-06-09"
-                  },
-                  {
                     "textCid": "JORFTEXT000022145408",
                     "textTitle": "Arrêté du 16 avril 2010, v. init.",
                     "linkType": "ETEND",
@@ -2582,6 +2570,18 @@
                     "datePubliTexte": "2010-04-29",
                     "dateSignaTexte": "2010-04-16",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000021682640",
+                    "textTitle": "Egalité professionnelle entre les hommes et les... - art. 2 (VNE)",
+                    "linkType": "CREE",
+                    "linkOrientation": "cible",
+                    "articleNum": "2",
+                    "articleId": "KALIARTI000021682644",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2009-06-09",
+                    "dateDebutCible": "2009-06-09"
                   }
                 ]
               }
@@ -2609,18 +2609,6 @@
                 "surtitre": "Préambule ",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000032074225",
-                    "textTitle": "Modification du titre X relatif à l'égalité pro... - art. (VNE)",
-                    "linkType": "CREE",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "KALIARTI000032074228",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2016-02-18",
-                    "dateSignaTexte": "2015-11-24",
-                    "dateDebutCible": "2015-12-10"
-                  },
-                  {
                     "textCid": "JORFTEXT000034329335",
                     "textTitle": "Arrêté du 21 mars 2017 - art. 1, v. init.",
                     "linkType": "ETEND",
@@ -2631,6 +2619,18 @@
                     "datePubliTexte": "2017-04-01",
                     "dateSignaTexte": "2017-03-21",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000032074225",
+                    "textTitle": "Modification du titre X relatif à l'égalité pro... - art. (VNE)",
+                    "linkType": "CREE",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "KALIARTI000032074228",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2015-11-24",
+                    "dateDebutCible": "2015-12-10"
                   }
                 ]
               }
@@ -2647,18 +2647,6 @@
                 "surtitre": "Principe de non-discrimination ",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000032074225",
-                    "textTitle": "Modification du titre X relatif à l'égalité pro... - art. (VNE)",
-                    "linkType": "CREE",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "KALIARTI000032074228",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2016-02-18",
-                    "dateSignaTexte": "2015-11-24",
-                    "dateDebutCible": "2015-12-10"
-                  },
-                  {
                     "textCid": "JORFTEXT000034329335",
                     "textTitle": "Arrêté du 21 mars 2017 - art. 1, v. init.",
                     "linkType": "ETEND",
@@ -2669,6 +2657,18 @@
                     "datePubliTexte": "2017-04-01",
                     "dateSignaTexte": "2017-03-21",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000032074225",
+                    "textTitle": "Modification du titre X relatif à l'égalité pro... - art. (VNE)",
+                    "linkType": "CREE",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "KALIARTI000032074228",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2015-11-24",
+                    "dateDebutCible": "2015-12-10"
                   }
                 ]
               }
@@ -2685,18 +2685,6 @@
                 "surtitre": "Recrutement ",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000032074225",
-                    "textTitle": "Modification du titre X relatif à l'égalité pro... - art. (VNE)",
-                    "linkType": "CREE",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "KALIARTI000032074228",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2016-02-18",
-                    "dateSignaTexte": "2015-11-24",
-                    "dateDebutCible": "2015-12-10"
-                  },
-                  {
                     "textCid": "JORFTEXT000034329335",
                     "textTitle": "Arrêté du 21 mars 2017 - art. 1, v. init.",
                     "linkType": "ETEND",
@@ -2707,6 +2695,18 @@
                     "datePubliTexte": "2017-04-01",
                     "dateSignaTexte": "2017-03-21",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000032074225",
+                    "textTitle": "Modification du titre X relatif à l'égalité pro... - art. (VNE)",
+                    "linkType": "CREE",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "KALIARTI000032074228",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2015-11-24",
+                    "dateDebutCible": "2015-12-10"
                   }
                 ]
               }
@@ -2723,18 +2723,6 @@
                 "surtitre": "Emploi. – Promotion. – Evolution professionnelle ",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000032074225",
-                    "textTitle": "Modification du titre X relatif à l'égalité pro... - art. (VNE)",
-                    "linkType": "CREE",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "KALIARTI000032074228",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2016-02-18",
-                    "dateSignaTexte": "2015-11-24",
-                    "dateDebutCible": "2015-12-10"
-                  },
-                  {
                     "textCid": "JORFTEXT000034329335",
                     "textTitle": "Arrêté du 21 mars 2017 - art. 1, v. init.",
                     "linkType": "ETEND",
@@ -2745,6 +2733,18 @@
                     "datePubliTexte": "2017-04-01",
                     "dateSignaTexte": "2017-03-21",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000032074225",
+                    "textTitle": "Modification du titre X relatif à l'égalité pro... - art. (VNE)",
+                    "linkType": "CREE",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "KALIARTI000032074228",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2015-11-24",
+                    "dateDebutCible": "2015-12-10"
                   }
                 ]
               }
@@ -2761,18 +2761,6 @@
                 "surtitre": "Organisation du temps de travail et articulation entre activité professionnelle et responsabilité familiale ",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000032074225",
-                    "textTitle": "Modification du titre X relatif à l'égalité pro... - art. (VNE)",
-                    "linkType": "CREE",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "KALIARTI000032074228",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2016-02-18",
-                    "dateSignaTexte": "2015-11-24",
-                    "dateDebutCible": "2015-12-10"
-                  },
-                  {
                     "textCid": "JORFTEXT000034329335",
                     "textTitle": "Arrêté du 21 mars 2017 - art. 1, v. init.",
                     "linkType": "ETEND",
@@ -2783,6 +2771,18 @@
                     "datePubliTexte": "2017-04-01",
                     "dateSignaTexte": "2017-03-21",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000032074225",
+                    "textTitle": "Modification du titre X relatif à l'égalité pro... - art. (VNE)",
+                    "linkType": "CREE",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "KALIARTI000032074228",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2015-11-24",
+                    "dateDebutCible": "2015-12-10"
                   }
                 ]
               }
@@ -2799,18 +2799,6 @@
                 "surtitre": "Rémunération effective ",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000032074225",
-                    "textTitle": "Modification du titre X relatif à l'égalité pro... - art. (VNE)",
-                    "linkType": "CREE",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "KALIARTI000032074228",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2016-02-18",
-                    "dateSignaTexte": "2015-11-24",
-                    "dateDebutCible": "2015-12-10"
-                  },
-                  {
                     "textCid": "JORFTEXT000034329335",
                     "textTitle": "Arrêté du 21 mars 2017 - art. 1, v. init.",
                     "linkType": "ETEND",
@@ -2821,6 +2809,18 @@
                     "datePubliTexte": "2017-04-01",
                     "dateSignaTexte": "2017-03-21",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000032074225",
+                    "textTitle": "Modification du titre X relatif à l'égalité pro... - art. (VNE)",
+                    "linkType": "CREE",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "KALIARTI000032074228",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2015-11-24",
+                    "dateDebutCible": "2015-12-10"
                   }
                 ]
               }
@@ -2837,18 +2837,6 @@
                 "surtitre": "Formation professionnelle et qualification ",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000032074225",
-                    "textTitle": "Modification du titre X relatif à l'égalité pro... - art. (VNE)",
-                    "linkType": "CREE",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "KALIARTI000032074228",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2016-02-18",
-                    "dateSignaTexte": "2015-11-24",
-                    "dateDebutCible": "2015-12-10"
-                  },
-                  {
                     "textCid": "JORFTEXT000034329335",
                     "textTitle": "Arrêté du 21 mars 2017 - art. 1, v. init.",
                     "linkType": "ETEND",
@@ -2859,6 +2847,18 @@
                     "datePubliTexte": "2017-04-01",
                     "dateSignaTexte": "2017-03-21",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000032074225",
+                    "textTitle": "Modification du titre X relatif à l'égalité pro... - art. (VNE)",
+                    "linkType": "CREE",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "KALIARTI000032074228",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2015-11-24",
+                    "dateDebutCible": "2015-12-10"
                   }
                 ]
               }
@@ -2875,18 +2875,6 @@
                 "surtitre": "Absences liées à la maternité, la parentalité et à la paternité ",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000032074225",
-                    "textTitle": "Modification du titre X relatif à l'égalité pro... - art. (VNE)",
-                    "linkType": "CREE",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "KALIARTI000032074228",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2016-02-18",
-                    "dateSignaTexte": "2015-11-24",
-                    "dateDebutCible": "2015-12-10"
-                  },
-                  {
                     "textCid": "JORFTEXT000034329335",
                     "textTitle": "Arrêté du 21 mars 2017 - art. 1, v. init.",
                     "linkType": "ETEND",
@@ -2897,6 +2885,18 @@
                     "datePubliTexte": "2017-04-01",
                     "dateSignaTexte": "2017-03-21",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000032074225",
+                    "textTitle": "Modification du titre X relatif à l'égalité pro... - art. (VNE)",
+                    "linkType": "CREE",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "KALIARTI000032074228",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2015-11-24",
+                    "dateDebutCible": "2015-12-10"
                   }
                 ]
               }
@@ -2913,18 +2913,6 @@
                 "surtitre": "Négociations ",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000032074225",
-                    "textTitle": "Modification du titre X relatif à l'égalité pro... - art. (VNE)",
-                    "linkType": "CREE",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "KALIARTI000032074228",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2016-02-18",
-                    "dateSignaTexte": "2015-11-24",
-                    "dateDebutCible": "2015-12-10"
-                  },
-                  {
                     "textCid": "JORFTEXT000034329335",
                     "textTitle": "Arrêté du 21 mars 2017 - art. 1, v. init.",
                     "linkType": "ETEND",
@@ -2935,6 +2923,18 @@
                     "datePubliTexte": "2017-04-01",
                     "dateSignaTexte": "2017-03-21",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000032074225",
+                    "textTitle": "Modification du titre X relatif à l'égalité pro... - art. (VNE)",
+                    "linkType": "CREE",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "KALIARTI000032074228",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2015-11-24",
+                    "dateDebutCible": "2015-12-10"
                   }
                 ]
               }
@@ -2951,18 +2951,6 @@
                 "surtitre": "Recueil d'informations ",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000032074225",
-                    "textTitle": "Modification du titre X relatif à l'égalité pro... - art. (VNE)",
-                    "linkType": "CREE",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "KALIARTI000032074228",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2016-02-18",
-                    "dateSignaTexte": "2015-11-24",
-                    "dateDebutCible": "2015-12-10"
-                  },
-                  {
                     "textCid": "JORFTEXT000034329335",
                     "textTitle": "Arrêté du 21 mars 2017 - art. 1, v. init.",
                     "linkType": "ETEND",
@@ -2973,6 +2961,18 @@
                     "datePubliTexte": "2017-04-01",
                     "dateSignaTexte": "2017-03-21",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000032074225",
+                    "textTitle": "Modification du titre X relatif à l'égalité pro... - art. (VNE)",
+                    "linkType": "CREE",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "KALIARTI000032074228",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2015-11-24",
+                    "dateDebutCible": "2015-12-10"
                   }
                 ]
               }
@@ -2989,18 +2989,6 @@
                 "surtitre": "Suivi ",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000032074225",
-                    "textTitle": "Modification du titre X relatif à l'égalité pro... - art. (VNE)",
-                    "linkType": "CREE",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "KALIARTI000032074228",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2016-02-18",
-                    "dateSignaTexte": "2015-11-24",
-                    "dateDebutCible": "2015-12-10"
-                  },
-                  {
                     "textCid": "JORFTEXT000034329335",
                     "textTitle": "Arrêté du 21 mars 2017 - art. 1, v. init.",
                     "linkType": "ETEND",
@@ -3011,6 +2999,18 @@
                     "datePubliTexte": "2017-04-01",
                     "dateSignaTexte": "2017-03-21",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000032074225",
+                    "textTitle": "Modification du titre X relatif à l'égalité pro... - art. (VNE)",
+                    "linkType": "CREE",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "KALIARTI000032074228",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2015-11-24",
+                    "dateDebutCible": "2015-12-10"
                   }
                 ]
               }
@@ -3038,18 +3038,6 @@
                 "surtitre": "Dépôt",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000021682640",
-                    "textTitle": "Egalité professionnelle entre les hommes et les... - art. 1 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "KALIARTI000021682643",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2010-01-14",
-                    "dateSignaTexte": "2009-06-09",
-                    "dateDebutCible": "2009-06-09"
-                  },
-                  {
                     "textCid": "JORFTEXT000022145408",
                     "textTitle": "Arrêté du 16 avril 2010, v. init.",
                     "linkType": "ETEND",
@@ -3060,6 +3048,18 @@
                     "datePubliTexte": "2010-04-29",
                     "dateSignaTexte": "2010-04-16",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000021682640",
+                    "textTitle": "Egalité professionnelle entre les hommes et les... - art. 1 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "KALIARTI000021682643",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2009-06-09",
+                    "dateDebutCible": "2009-06-09"
                   }
                 ]
               }
@@ -3076,18 +3076,6 @@
                 "surtitre": "Demande d'extension",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000021682640",
-                    "textTitle": "Egalité professionnelle entre les hommes et les... - art. 1 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "KALIARTI000021682643",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2010-01-14",
-                    "dateSignaTexte": "2009-06-09",
-                    "dateDebutCible": "2009-06-09"
-                  },
-                  {
                     "textCid": "JORFTEXT000022145408",
                     "textTitle": "Arrêté du 16 avril 2010, v. init.",
                     "linkType": "ETEND",
@@ -3098,6 +3086,18 @@
                     "datePubliTexte": "2010-04-29",
                     "dateSignaTexte": "2010-04-16",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000021682640",
+                    "textTitle": "Egalité professionnelle entre les hommes et les... - art. 1 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "KALIARTI000021682643",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2009-06-09",
+                    "dateDebutCible": "2009-06-09"
                   }
                 ]
               }
@@ -3125,18 +3125,6 @@
                 "surtitre": "Dépôt",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000021682640",
-                    "textTitle": "Egalité professionnelle entre les hommes et les... - art. 1 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "KALIARTI000021682643",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2010-01-14",
-                    "dateSignaTexte": "2009-06-09",
-                    "dateDebutCible": "2009-06-09"
-                  },
-                  {
                     "textCid": "JORFTEXT000022145408",
                     "textTitle": "Arrêté du 16 avril 2010, v. init.",
                     "linkType": "ETEND",
@@ -3147,6 +3135,18 @@
                     "datePubliTexte": "2010-04-29",
                     "dateSignaTexte": "2010-04-16",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000021682640",
+                    "textTitle": "Egalité professionnelle entre les hommes et les... - art. 1 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "KALIARTI000021682643",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2009-06-09",
+                    "dateDebutCible": "2009-06-09"
                   }
                 ]
               }
@@ -3163,18 +3163,6 @@
                 "surtitre": "Demande d'extension",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000021682640",
-                    "textTitle": "Egalité professionnelle entre les hommes et les... - art. 1 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "KALIARTI000021682643",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2010-01-14",
-                    "dateSignaTexte": "2009-06-09",
-                    "dateDebutCible": "2009-06-09"
-                  },
-                  {
                     "textCid": "JORFTEXT000022145408",
                     "textTitle": "Arrêté du 16 avril 2010, v. init.",
                     "linkType": "ETEND",
@@ -3185,6 +3173,18 @@
                     "datePubliTexte": "2010-04-29",
                     "dateSignaTexte": "2010-04-16",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000021682640",
+                    "textTitle": "Egalité professionnelle entre les hommes et les... - art. 1 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "KALIARTI000021682643",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2009-06-09",
+                    "dateDebutCible": "2009-06-09"
                   }
                 ]
               }
@@ -3234,18 +3234,6 @@
                 "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000027931698",
-                    "textTitle": "Modification d'articles de la convention - art. 14 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "14",
-                    "articleId": "KALIARTI000027931721",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2013-09-05",
-                    "dateSignaTexte": "2013-06-19",
-                    "dateDebutCible": "2013-06-19"
-                  },
-                  {
                     "textCid": "JORFTEXT000028781103",
                     "textTitle": "Arrêté du 18 mars 2014 - art. 1, v. init.",
                     "linkType": "ETEND",
@@ -3256,6 +3244,18 @@
                     "datePubliTexte": "2014-03-27",
                     "dateSignaTexte": "2014-03-18",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000027931698",
+                    "textTitle": "Modification d'articles de la convention - art. 14 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "14",
+                    "articleId": "KALIARTI000027931721",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2013-06-19",
+                    "dateDebutCible": "2013-06-19"
                   }
                 ]
               }
@@ -3294,18 +3294,6 @@
                 "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000027931698",
-                    "textTitle": "Modification d'articles de la convention - art. 13 (VNE)",
-                    "linkType": "CREE",
-                    "linkOrientation": "cible",
-                    "articleNum": "13",
-                    "articleId": "KALIARTI000027931719",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2013-09-05",
-                    "dateSignaTexte": "2013-06-19",
-                    "dateDebutCible": "2013-06-19"
-                  },
-                  {
                     "textCid": "JORFTEXT000028781103",
                     "textTitle": "Arrêté du 18 mars 2014 - art. 1, v. init.",
                     "linkType": "ETEND",
@@ -3316,6 +3304,18 @@
                     "datePubliTexte": "2014-03-27",
                     "dateSignaTexte": "2014-03-18",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000027931698",
+                    "textTitle": "Modification d'articles de la convention - art. 13 (VNE)",
+                    "linkType": "CREE",
+                    "linkOrientation": "cible",
+                    "articleNum": "13",
+                    "articleId": "KALIARTI000027931719",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2013-06-19",
+                    "dateDebutCible": "2013-06-19"
                   }
                 ]
               }
@@ -3330,18 +3330,6 @@
                 "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000027931698",
-                    "textTitle": "Modification d'articles de la convention - art. 14 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "14",
-                    "articleId": "KALIARTI000027931721",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2013-09-05",
-                    "dateSignaTexte": "2013-06-19",
-                    "dateDebutCible": "2013-06-19"
-                  },
-                  {
                     "textCid": "JORFTEXT000028781103",
                     "textTitle": "Arrêté du 18 mars 2014 - art. 1, v. init.",
                     "linkType": "ETEND",
@@ -3352,6 +3340,18 @@
                     "datePubliTexte": "2014-03-27",
                     "dateSignaTexte": "2014-03-18",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000027931698",
+                    "textTitle": "Modification d'articles de la convention - art. 14 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "14",
+                    "articleId": "KALIARTI000027931721",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2013-06-19",
+                    "dateDebutCible": "2013-06-19"
                   }
                 ]
               }
@@ -3366,18 +3366,6 @@
                 "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000027931698",
-                    "textTitle": "Modification d'articles de la convention - art. 14 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "14",
-                    "articleId": "KALIARTI000027931721",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2013-09-05",
-                    "dateSignaTexte": "2013-06-19",
-                    "dateDebutCible": "2013-06-19"
-                  },
-                  {
                     "textCid": "JORFTEXT000028781103",
                     "textTitle": "Arrêté du 18 mars 2014 - art. 1, v. init.",
                     "linkType": "ETEND",
@@ -3388,6 +3376,18 @@
                     "datePubliTexte": "2014-03-27",
                     "dateSignaTexte": "2014-03-18",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000027931698",
+                    "textTitle": "Modification d'articles de la convention - art. 14 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "14",
+                    "articleId": "KALIARTI000027931721",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2013-06-19",
+                    "dateDebutCible": "2013-06-19"
                   }
                 ]
               }
@@ -3402,18 +3402,6 @@
                 "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000027931698",
-                    "textTitle": "Modification d'articles de la convention - art. 14 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "14",
-                    "articleId": "KALIARTI000027931721",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2013-09-05",
-                    "dateSignaTexte": "2013-06-19",
-                    "dateDebutCible": "2013-06-19"
-                  },
-                  {
                     "textCid": "JORFTEXT000028781103",
                     "textTitle": "Arrêté du 18 mars 2014 - art. 1, v. init.",
                     "linkType": "ETEND",
@@ -3424,6 +3412,18 @@
                     "datePubliTexte": "2014-03-27",
                     "dateSignaTexte": "2014-03-18",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000027931698",
+                    "textTitle": "Modification d'articles de la convention - art. 14 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "14",
+                    "articleId": "KALIARTI000027931721",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2013-06-19",
+                    "dateDebutCible": "2013-06-19"
                   }
                 ]
               }
@@ -14283,6 +14283,143 @@
                 "id": "KALIARTI000038688168",
                 "content": "<p align='left'><br/>Au terme du délai d'opposition de 15 jours suivant sa notification, le présent accord est déposé, conformément aux dispositions légales, auprès de la direction générale du travail.</p>",
                 "etat": "VIGUEUR_NON_ETEN",
+                "lstLienModification": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "title": "Avenant n° 48 du 18 décembre 2019 relatif à la désignation de l'opérateur de compétences et à la contribution supplémentaire conventionnelle",
+            "id": "KALITEXT000041764044",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2019-12-18"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000041764047",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000041764057",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000041764057",
+                    "content": "<p align='left'>Dans le cadre de la décision de l'État d'affecter les entreprises relevant de la convention collective nationale de l'enseignement privé indépendant à l'opérateur de compétences des entreprises et des salariés des services à forte intensité de main-d'œuvre dit AKTO et de la création d'une section paritaire professionnelle (SPP), le présent avenant prend acte de ladite désignation et fixe le montant de la contribution supplémentaire conventionnelle au titre de la formation professionnelle continue avec effet au 1er janvier 2019 et collectée en février 2020.</p><p align='left'>Cet avenant ne comporte aucune spécificité relative aux entreprises employant moins de 50 salariés. En effet, le dernier rapport de la branche fait apparaître que 90 % des entreprises de celle-ci emploient moins de 50 salariés. Par contre, il comporte des mesures pour les entreprises de 10 salariés et moins, plus adaptées à la répartition des salariés dans les entreprises de la branche.</p><p></p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": []
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000041764048",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000041764048",
+                "content": "<p align='left'>L'article 9.10 de la convention collective nationale EPI est désormais rédigé comme suit :</p><p align='center'>« Article 9.10<br/>\nOPCO de branche</p><p align='left'>Par arrêté du 29 mars 2019 portant agrément d'un opérateur de compétences, l'opérateur de compétences des entreprises et des salariés des services à forte intensité de main-d'œuvre dit AKTO, sis 14, rue Riquet, 75940 Paris Cedex 19 est désigné en qualité d'OPCO de la branche, seul habilité à ce titre à collecter les contributions des entreprises et des établissements de la branche au titre de la formation professionnelle continue tout au long de la vie, dans le respect de la législation en vigueur. »</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Désignation de l'OPCO",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000019593665",
+                    "textTitle": "Convention collective nationale du 27 novembre ... - art. 9.10 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "9.10",
+                    "articleId": "KALIARTI000041770100",
+                    "natureText": "Convention collective nationale ",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2007-11-27",
+                    "dateDebutCible": "2019-12-18"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000041764049",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000041764049",
+                "content": "<p align='left'>L'article 9.11 de la convention collective nationale EPI est désormais rédigé comme suit :</p><p align='center'>« Article 9.11<br/>\nContribution supplémentaire conventionnelle</p><p align='left'>a)   En application des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000021343095&dateTexte=&categorieLien=cid' title='Code du travail - art. L6332-1-2 (V)'>dispositions de l'article L. 6332-1-2 du code du travail</a>, les entreprises de 11 salariés et plus de l'enseignement supérieur, de l'enseignement postsecondaire non supérieur, de l'enseignement culturel, de l'enseignement à distance, et des autres enseignements, à l'exception des entreprises citées à l'alinéa suivant, versent une contribution supplémentaire conventionnelle de formation à l'opérateur de compétences des entreprises et des salariés des services à forte intensité de main-d'œuvre dit AKTO qui s'élève à 0,3 % de la masse salariale brute annuelle, y compris les entreprises dont le siège est implanté dans un DROM ou une COM appliquant la législation française en matière de participation à la formation professionnelle.</p><p align='left'>b)   En application des dispositions de l'article L. 6332-1-2 du code du travail, toutes les entreprises de 10 salariés et moins, ainsi que les entreprises de 11 salariés et plus de l'enseignement préprimaire, primaire et secondaire général versent une contribution supplémentaire conventionnelle de formation à l'opérateur de compétences des entreprises et des salariés des services à forte intensité de main-d'œuvre dit AKTO qui s'élève à 0,1 % de la masse salariale brute annuelle, y compris les entreprises dont le siège est implanté dans un DROM ou une COM appliquant la législation française en matière de participation à la formation professionnelle.</p><p align='left'>c)   En cas de pluriactivité susceptible de justifier l'application de l'un ou l'autre des taux, les entreprises visées relèveront du seul taux correspondant à leur activité principale, déterminée d'après le chiffre d'affaires réalisé dans chacun des enseignements concernés.</p><p align='left'>d)   Les employeurs des entreprises de l'enseignement supérieur, de l'enseignement postsecondaire non supérieur, de l'enseignement culturel, de l'enseignement à distance et des autres enseignements, à l'exception des entreprises citées à l'alinéa b qui, en raison de l'accroissement de leur effectif, atteignent ou dépassent au titre d'une année, pour la première fois, l'effectif de 11 salariés, bénéficient d'une évolution spécifique du taux de leur contribution.</p><p align='left'>Ils restent soumis pour l'année en cours et les deux suivantes au taux applicable aux employeurs occupant 10 salariés et moins, à savoir 0,1 %.</p><p align='left'>Ils sont ensuite assujettis à la contribution supplémentaire conventionnelle de 0,2 % de la masse salariale la quatrième année de l'accroissement de leur effectif pour atteindre, la cinquième année, la contribution supplémentaire conventionnelle des employeurs occupant 11 salariés et plus, à savoir : 0,3 % de la masse salariale.</p><p align='left'>Cette évolution progressive n'est pas applicable lorsque :<br/>\n– l'accroissement d'effectif résulte de la reprise ou de l'absorption d'un établissement ayant employé 11 salariés ou plus au cours des 3 années précédentes ;<br/>\n– le seuil de 11 salariés est atteint ou dépassé dès la 1re année d'activité. »</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Contribution supplémentaire conventionnelle de formation",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000019593665",
+                    "textTitle": "Convention collective nationale du 27 novembre ... - art. 9.11 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "9.11",
+                    "articleId": "KALIARTI000041770102",
+                    "natureText": "Convention collective nationale ",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2007-11-27",
+                    "dateDebutCible": "2019-12-18"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000041764052",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000041764052",
+                "content": "<p align='left'><br/>Les signataires décident de conférer une valeur impérative à cet avenant qui s'applique à l'ensemble des établissements d'enseignement privé indépendant relevant du champ de la convention collective. En conséquence, les entreprises relevant du champ du présent avenant ne peuvent y déroger, même par accord.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Caractère impératif de l'avenant",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000041764053",
+                "num": "4",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000041764053",
+                "content": "<p align='left'><br/>Le texte du présent avenant est déposé à la direction générale du travail (DGT) conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485209&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-3 (M)'>article D. 2231-3 du code du travail</a>.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Dépôt",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000041764055",
+                "num": "5",
+                "intOrdre": 3145722,
+                "id": "KALIARTI000041764055",
+                "content": "<p align='left'><br/>Les signataires du présent avenant s'engagent à en demander l'extension au ministre chargé du travail.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Extension",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000041764056",
+                "num": "6",
+                "intOrdre": 3670009,
+                "id": "KALIARTI000041764056",
+                "content": "<p align='left'>Les articles 1er et 3 du présent avenant sont conclus pour une durée indéterminée.</p><p align='left'>L'article 2 du présent avenant est conclu pour une durée de 2 ans. Ses dispositions sont applicables à compter de la date d'exigibilité du prélèvement de la contribution supplémentaire conventionnelle en février 2020 sur la masse salariale brute 2019.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Durée. Entrée en vigueur",
                 "lstLienModification": []
               }
             }
