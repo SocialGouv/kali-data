@@ -25,7 +25,8 @@ const astify = (node, depth = 0) => ({
       node.sections.map((node) => astify(node, depth + 1))) ||
       []),
     ...((node.articles &&
-      node.articles.filter(latestArticleVersionFilter).map((article) => ({
+      // node.articles.filter(latestArticleVersionFilter).map((article) => ({
+      node.articles.map((article) => ({
         type: "article",
         data: article,
       }))) ||

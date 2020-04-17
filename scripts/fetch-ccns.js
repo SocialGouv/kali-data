@@ -68,7 +68,7 @@ async function fetchAdditionalText(container) {
 }
 
 function cleanAst(tree) {
-  remove(tree, (node) => isValidSection(node.data));
+  // remove(tree, (node) => isValidSection(node.data));
   const sortByOrdre = sortBy("intOrdre");
   const keys = [
     "cid",
