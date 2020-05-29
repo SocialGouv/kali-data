@@ -1,0 +1,156 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "description": "KALI Labor Agreements Database API.",
+    "title": "KALI Data API",
+    "contact": {
+      "email": "dsi-incubateur@sg.social.gouv.fr"
+    },
+    "license": {
+      "name": "Apache 2.0",
+      "url": "https://github.com/SocialGouv/kali-data/blob/master/LICENSE"
+    }
+  },
+  "host": "kali.codedutravail.fabrique.social.gouv.fr",
+  "basePath": "/",
+  "tags": [
+    {
+      "name": "agreement",
+      "description": "Labor Agreement"
+    },
+    {
+      "name": "article",
+      "description": "Labor Agreement Article"
+    }
+  ],
+  "schemes": ["https"],
+  "paths": {
+    "/agreement/{idOrIdcc}": {
+      "get": {
+        "tags": ["agreement"],
+        "summary": "",
+        "description": "",
+        "operationId": "getAgreementById",
+        "consumes": ["application/json"],
+        "produces": ["application/json"],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "idOrIdcc",
+            "description": "Agreement ID or IDCC.",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "array",
+              "items": {
+                "type": "object"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/agreements": {
+      "get": {
+        "tags": ["agreement"],
+        "summary": "",
+        "description": "",
+        "operationId": "findAgreementsByQuery",
+        "consumes": ["application/json"],
+        "produces": ["application/json"],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "query",
+            "description": "Search query.",
+            "required": false,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "array",
+              "items": {
+                "type": "object"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/article/{id}": {
+      "get": {
+        "tags": ["article"],
+        "summary": "",
+        "description": "",
+        "operationId": "getArticleById",
+        "consumes": ["application/json"],
+        "produces": ["application/json"],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "description": "Agreement ID",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "array",
+              "items": {
+                "type": "object"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/articles": {
+      "get": {
+        "tags": ["article"],
+        "summary": "",
+        "description": "",
+        "operationId": "findArticlesByAgreementIdOrIdccAndQuery",
+        "consumes": ["application/json"],
+        "produces": ["application/json"],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "agreementIdOrIdcc",
+            "description": "Agreement ID or IDCC.",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "query",
+            "description": "Search query.",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "array",
+              "items": {
+                "type": "object"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

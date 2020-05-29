@@ -1,29 +1,48 @@
 ---
 stages:
-  - "Code Quality"
-  - "Data update"
+  - Test
+  - Release
 
 .node_stage: &node_stage
   image: node:13-alpine
   before_script:
     - yarn --frozen-lockfile
 
-Quality tests:
+UnitTest:
   <<: *node_stage
-  stage: "Code Quality"
+  stage: Test
   cache:
     key: ${CI_COMMIT_REF_SLUG}
     paths:
       - node_modules/
+      - packages/api/node_modules/
+      - packages/data/node_modules/
+      - packages/generator/node_modules/
   script:
-    - yarn lint
     - yarn test
+  after_script:
+    - npx codecov
 
-Data fetch:
+E2eTest:
+  <<: *node_stage
+  stage: Test
+  cache:
+    key: ${CI_COMMIT_REF_SLUG}
+    paths:
+      - node_modules/
+      - packages/api/node_modules/
+      - packages/data/node_modules/
+      - packages/generator/node_modules/
+  before_script:
+    - yarn start:docker
+  script:
+    - yarn test:e2e
+
+Release:
   <<: *node_stage
   only:
     - master
-  stage: "Data update"
+  stage: Release
   before_script:
     - yarn --frozen-lockfile
     - yarn global add npx
@@ -33,7 +52,7 @@ Data fetch:
     - git remote set-url origin https://${GITHUB_TOKEN}@github.com/${CI_PROJECT_PATH}.git
     - echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" > ~/.npmrc
   script:
-    - yarn fetch
+    - yarn data:update
     - |
       if [[ -n "$(git status -s ./data)" ]]; then
         echo "Files changed, checking JSON validity"

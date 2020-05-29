@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "Node",
+    "noEmit": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "strictNullChecks": true,
+    "target": "ES6",
+    "typeRoots": ["node_modules/@types", "packages/typings"]
+  },
+  "include": [
+    "packages/api/src/**/*.js",
+    "packages/data/src/**/*.js",
+    "packages/data/src/index.d.ts",
+    "packages/generator/src/**/*.js",
+    "packages/typings/*.d.ts"
+  ]
+}

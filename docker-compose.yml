@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  api:
+    restart: always
+    build:
+      context: .
+    ports:
+      - 3000:3000
