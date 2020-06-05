@@ -3561,8 +3561,8 @@
                 "num": "92",
                 "intOrdre": 2147221503,
                 "id": "KALIARTI000039497291",
-                "content": "<p align='left'>Les cotisations sont calculées sur les salaires bruts (tranches A et B) des salariés non cadres.</p><p align='right'>(En pourcentage.)</p><center><table border='1'><tbody><tr><th>Garantie</th><th>Taux contractuel<br/>\n\t\t\tdes cotisations (*)</th><th>Part salarié</th><th>Part employeur</th></tr><tr><td align='center'>Décès/ IAD – obsèques</td><td align='center'>0,35</td><td align='center'>0,175</td><td align='center'>0,175</td></tr><tr><td align='center'>Invalidité</td><td align='center'>0,20</td><td align='center'>0,10</td><td align='center'>0,10</td></tr><tr><td align='center'>Incapacité de travail</td><td align='center'>0,15</td><td align='center'>0,075</td><td align='center'>0,075</td></tr><tr><td align='center'>Rente éducation</td><td align='center'>0,11</td><td align='center'>0,055</td><td align='center'>0,055</td></tr><tr><td align='center'>Rente handicap</td><td align='center'>0,02</td><td align='center'>0,01</td><td align='center'>0,01</td></tr><tr><td align='center'>Portabilité</td><td align='center'>0,01</td><td align='center'>0,005</td><td align='center'>0,005</td></tr><tr><td align='center'>Total</td><td align='center'>0,84</td><td align='center'>0,42</td><td align='center'>0,42</td></tr><tr><td colspan='4' align='center'>(*) La répartition du total des cotisations est établie sur la base de 50 % à la charge de l'employeur et 50 % à la charge du salarié.</td></tr></tbody></table></center>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Les cotisations sont calculées sur les salaires bruts (tranches A et B) des salariés non cadres.</p><p align='right'>(En pourcentage.)</p><center><table border='1'><tbody><tr><th>Garantie</th><th>Taux contractuel<br/>\n\t\t\tdes cotisations (*)</th><th>Part salarié</th><th>Part employeur</th></tr><tr><td align='center'>Décès/ IAD – obsèques</td><td align='center'>0,35</td><td align='center'>0,175</td><td align='center'>0,175</td></tr><tr><td align='center'>Invalidité</td><td align='center'>0,20</td><td align='center'>0,10</td><td align='center'>0,10</td></tr><tr><td align='center'>Incapacité de travail</td><td align='center'>0,15</td><td align='center'>0,075</td><td align='center'>0,075</td></tr><tr><td align='center'>Rente éducation</td><td align='center'>0,11</td><td align='center'>0,055</td><td align='center'>0,055</td></tr><tr><td align='center'>Rente handicap</td><td align='center'>0,02</td><td align='center'>0,01</td><td align='center'>0,01</td></tr><tr><td align='center'>Portabilité</td><td align='center'>0,01</td><td align='center'>0,005</td><td align='center'>0,005</td></tr><tr><td align='center'>Total</td><td align='center'>0,84</td><td align='center'>0,42</td><td align='center'>0,42</td></tr><tr><td colspan='4' align='center'>(*) La répartition du total des cotisations est établie sur la base de 50 % à la charge de l'employeur et 50 % à la charge du salarié.</td></tr></tbody></table></center><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000025127517_1'></a>(1) Article étendu sous réserve de l'application des stipulations de l'accord national interprofessionnel du 17 novembre 2017 instituant le régime AGIRC-ARRCO de retraite complémentaire et de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres.  <br/>(Arrêté du 20 mai 2020 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Cotisations",
                 "lstLienModification": [
                   {
@@ -3576,6 +3576,18 @@
                     "datePubliTexte": "2019-12-11",
                     "dateSignaTexte": "2019-07-16",
                     "dateDebutCible": "2019-07-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000041937544",
+                    "textTitle": "Arrêté du 20 mai 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000041937547",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-05-30",
+                    "dateSignaTexte": "2020-05-20",
+                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -11990,6 +12002,18 @@
                         "datePubliTexte": "2014-10-24",
                         "dateSignaTexte": "2014-10-06",
                         "dateDebutCible": "2999-01-01"
+                      },
+                      {
+                        "textCid": "JORFTEXT000041937544",
+                        "textTitle": "Arrêté du 20 mai 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000041937547",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2020-05-30",
+                        "dateSignaTexte": "2020-05-20",
+                        "dateDebutCible": "2999-01-01"
                       }
                     ]
                   }
@@ -12019,6 +12043,18 @@
                     "dateDebutCible": "2999-01-01"
                   },
                   {
+                    "textCid": "JORFTEXT000041937544",
+                    "textTitle": "Arrêté du 20 mai 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000041937547",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-05-30",
+                    "dateSignaTexte": "2020-05-20",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
                     "textCid": "KALITEXT000005657149",
                     "textTitle": "Convention collective nationale du 10 juillet 1956 - art. 80 (VNE)",
                     "linkType": "MODIFIE",
@@ -12040,8 +12076,8 @@
                 "num": "2",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000039497293",
-                "content": "<p>L'article 92 du régime de prévoyance de la convention collective nationale des exploitations frigorifiques, tel que modifié par l'avenant n° 81 du 16 décembre 2013, est modifié comme suit :</p><p align='center'>« Article 92</p><p align='left'><br/>\nLes cotisations sont calculées sur les salaires bruts (tranches A et B) des salariés non cadres.</p><p align='right'>(En pourcentage.)</p><center><table border='1'><tbody><tr><th>Garantie</th><th>Taux contractuel<br/>\n\t\t\tdes cotisations (*)</th><th>Part salarié</th><th>Part employeur</th></tr><tr><td align='center'>Décès/ IAD – obsèques</td><td align='center'>0,35</td><td align='center'>0,175</td><td align='center'>0,175</td></tr><tr><td align='center'>Invalidité</td><td align='center'>0,20</td><td align='center'>0,10</td><td align='center'>0,10</td></tr><tr><td align='center'>Incapacité de travail</td><td align='center'>0,15</td><td align='center'>0,075</td><td align='center'>0,075</td></tr><tr><td align='center'>Rente éducation</td><td align='center'>0,11</td><td align='center'>0,055</td><td align='center'>0,055</td></tr><tr><td align='center'>Rente handicap</td><td align='center'>0,02</td><td align='center'>0,01</td><td align='center'>0,01</td></tr><tr><td align='center'>Portabilité</td><td align='center'>0,01</td><td align='center'>0,005</td><td align='center'>0,005</td></tr><tr><td align='center'>Total</td><td align='center'>0,84</td><td align='center'>0,42</td><td align='center'>0,42</td></tr><tr><td colspan='4' align='center'>(*) La répartition du total des cotisations est établie sur la base de 50 % à la charge de l'employeur et 50 % à la charge du salarié.</td></tr></tbody></table></center>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p>L'article 92 du régime de prévoyance de la convention collective nationale des exploitations frigorifiques, tel que modifié par l'avenant n° 81 du 16 décembre 2013, est modifié comme suit :</p><p align='center'>« Article 92</p><p align='left'><br/>\nLes cotisations sont calculées sur les salaires bruts (tranches A et B) des salariés non cadres.</p><p align='right'>(En pourcentage.)</p><center><table border='1'><tbody><tr><th>Garantie</th><th>Taux contractuel<br/>\n\t\t\tdes cotisations (*)</th><th>Part salarié</th><th>Part employeur</th></tr><tr><td align='center'>Décès/ IAD – obsèques</td><td align='center'>0,35</td><td align='center'>0,175</td><td align='center'>0,175</td></tr><tr><td align='center'>Invalidité</td><td align='center'>0,20</td><td align='center'>0,10</td><td align='center'>0,10</td></tr><tr><td align='center'>Incapacité de travail</td><td align='center'>0,15</td><td align='center'>0,075</td><td align='center'>0,075</td></tr><tr><td align='center'>Rente éducation</td><td align='center'>0,11</td><td align='center'>0,055</td><td align='center'>0,055</td></tr><tr><td align='center'>Rente handicap</td><td align='center'>0,02</td><td align='center'>0,01</td><td align='center'>0,01</td></tr><tr><td align='center'>Portabilité</td><td align='center'>0,01</td><td align='center'>0,005</td><td align='center'>0,005</td></tr><tr><td align='center'>Total</td><td align='center'>0,84</td><td align='center'>0,42</td><td align='center'>0,42</td></tr><tr><td colspan='4' align='center'>(*) La répartition du total des cotisations est établie sur la base de 50 % à la charge de l'employeur et 50 % à la charge du salarié.</td></tr></tbody></table></center><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000028967583_1'></a>(1) Article étendu sous réserve de l'application des stipulations de l'accord national interprofessionnel du 17 novembre 2017 instituant le régime AGIRC-ARRCO de retraite complémentaire et de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres.  <br/>(Arrêté du 20 mai 2020 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
                   {
                     "textCid": "KALITEXT000039479559",
@@ -12054,6 +12090,18 @@
                     "datePubliTexte": "2019-12-11",
                     "dateSignaTexte": "2019-07-16",
                     "dateDebutCible": "2019-07-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000041937544",
+                    "textTitle": "Arrêté du 20 mai 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000041937547",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-05-30",
+                    "dateSignaTexte": "2020-05-20",
+                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -12080,6 +12128,18 @@
                     "datePubliTexte": "2014-10-24",
                     "dateSignaTexte": "2014-10-06",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000041937544",
+                    "textTitle": "Arrêté du 20 mai 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000041937547",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-05-30",
+                    "dateSignaTexte": "2020-05-20",
+                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -12105,6 +12165,18 @@
                     "natureText": "ARRETE",
                     "datePubliTexte": "2014-10-24",
                     "dateSignaTexte": "2014-10-06",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000041937544",
+                    "textTitle": "Arrêté du 20 mai 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000041937547",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-05-30",
+                    "dateSignaTexte": "2020-05-20",
                     "dateDebutCible": "2999-01-01"
                   }
                 ]
@@ -13168,7 +13240,7 @@
           "data": {
             "title": "Avenant n° 89 du 16 juillet 2019 relatif au régime de prévoyance",
             "id": "KALITEXT000039479559",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2019-07-01"
           },
           "children": [
@@ -13178,7 +13250,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000039479562",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -13188,8 +13260,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000039479570",
                     "content": "<p align='left'><br/>Afin de prévenir un déséquilibre financier du régime de la prévoyance dans la branche des exploitations frigorifiques, les partenaires sociaux conviennent d'une révision à la hausse des taux de cotisation des garanties du régime de prévoyance conventionnel à effet du 1er juillet 2019.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000041937544",
+                        "textTitle": "Arrêté du 20 mai 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000041937547",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2020-05-30",
+                        "dateSignaTexte": "2020-05-20",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -13201,8 +13286,8 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000039479563",
-                "content": "<p align='left'>L'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000028967578&idArticle=KALIARTI000028967583&categorieLien=cid' title='Prévoyance - art. 2 (VE)'>article 2 </a>de l'avenant n° 81 relatif à la prévoyance du 16 décembre 2013 est modifié comme suit.</p><p align='left'>« L'article 92 du régime de prévoyance de la convention collective nationale des exploitations frigorifiques, tel que modifié par l'avenant n° 81 du 16 décembre 2013, est modifié comme suit :</p><p align='center'>''Article 92</p><p align='left'>Les cotisations sont calculées sur les salaires bruts (tranches A et B) des salariés non cadres.</p><p align='right'>(En pourcentage.)</p><center><table border='1'><tbody><tr><th>Garantie</th><th>Taux contractuel<br/>\n\t\t\tdes cotisations (*)</th><th>Part salarié</th><th>Part employeur</th></tr><tr><td align='center'>Décès/ IAD – obsèques</td><td align='center'>0,35</td><td align='center'>0,175</td><td align='center'>0,175</td></tr><tr><td align='center'>Invalidité</td><td align='center'>0,20</td><td align='center'>0,10</td><td align='center'>0,10</td></tr><tr><td align='center'>Incapacité de travail</td><td align='center'>0,15</td><td align='center'>0,075</td><td align='center'>0,075</td></tr><tr><td align='center'>Rente éducation</td><td align='center'>0,11</td><td align='center'>0,055</td><td align='center'>0,055</td></tr><tr><td align='center'>Rente handicap</td><td align='center'>0,02</td><td align='center'>0,01</td><td align='center'>0,01</td></tr><tr><td align='center'>Portabilité</td><td align='center'>0,01</td><td align='center'>0,005</td><td align='center'>0,005</td></tr><tr><td align='center'>Total</td><td align='center'>0,84</td><td align='center'>0,42</td><td align='center'>0,42</td></tr><tr><td colspan='4' align='center'>(*) La répartition du total des cotisations est établie sur la base de 50 % à la charge de l'employeur et 50 % à la charge du salarié.</td></tr></tbody></table></center><p></p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>L'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000028967578&idArticle=KALIARTI000028967583&categorieLien=cid'>article 2 </a>de l'avenant n° 81 relatif à la prévoyance du 16 décembre 2013 est modifié comme suit.</p><p align='left'>« L'article 92 du régime de prévoyance de la convention collective nationale des exploitations frigorifiques, tel que modifié par l'avenant n° 81 du 16 décembre 2013, est modifié comme suit :</p><p align='center'>''Article 92</p><p align='left'>Les cotisations sont calculées sur les salaires bruts (tranches A et B) des salariés non cadres.</p><p align='right'>(En pourcentage.)</p><center><table border='1'><tbody><tr><th>Garantie</th><th>Taux contractuel<br/>\n\t\t\tdes cotisations (*)</th><th>Part salarié</th><th>Part employeur</th></tr><tr><td align='center'>Décès/ IAD – obsèques</td><td align='center'>0,35</td><td align='center'>0,175</td><td align='center'>0,175</td></tr><tr><td align='center'>Invalidité</td><td align='center'>0,20</td><td align='center'>0,10</td><td align='center'>0,10</td></tr><tr><td align='center'>Incapacité de travail</td><td align='center'>0,15</td><td align='center'>0,075</td><td align='center'>0,075</td></tr><tr><td align='center'>Rente éducation</td><td align='center'>0,11</td><td align='center'>0,055</td><td align='center'>0,055</td></tr><tr><td align='center'>Rente handicap</td><td align='center'>0,02</td><td align='center'>0,01</td><td align='center'>0,01</td></tr><tr><td align='center'>Portabilité</td><td align='center'>0,01</td><td align='center'>0,005</td><td align='center'>0,005</td></tr><tr><td align='center'>Total</td><td align='center'>0,84</td><td align='center'>0,42</td><td align='center'>0,42</td></tr><tr><td colspan='4' align='center'>(*) La répartition du total des cotisations est établie sur la base de 50 % à la charge de l'employeur et 50 % à la charge du salarié.</td></tr></tbody></table></center><p></p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000039479563_1'></a>(1) Article étendu sous réserve de l'application des stipulations de l'accord national interprofessionnel du 17 novembre 2017 instituant le régime AGIRC-ARRCO de retraite complémentaire et de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres.  <br/>(Arrêté du 20 mai 2020 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
                   {
                     "textCid": "KALITEXT000028967578",
@@ -13215,6 +13300,18 @@
                     "datePubliTexte": "2014-05-22",
                     "dateSignaTexte": "2013-12-16",
                     "dateDebutCible": "2019-07-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000041937544",
+                    "textTitle": "Arrêté du 20 mai 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000041937547",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-05-30",
+                    "dateSignaTexte": "2020-05-20",
+                    "dateDebutCible": "2999-01-01"
                   },
                   {
                     "textCid": "KALITEXT000005657149",
@@ -13239,9 +13336,22 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000039479565",
                 "content": "<p align='left'><br/>Le présent avenant prend effet au 1er juillet 2019.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Date d'effet",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000041937544",
+                    "textTitle": "Arrêté du 20 mai 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000041937547",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-05-30",
+                    "dateSignaTexte": "2020-05-20",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -13251,10 +13361,23 @@
                 "num": "3",
                 "intOrdre": 2097148,
                 "id": "KALIARTI000039479566",
-                "content": "<p align='left'>Le présent avenant est fait en nombre suffisant d'exemplaires pour remise à chacune des organisations signataires et dépôt dans les conditions prévues par le code du travail. </p><p align='left'>Les parties signataires conviennent de demander l'extension du présent avenant. </p><p align='left'>Suivant les dispositions de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>article L. 2261-23-1 du code du travail</a>, les parties signataires n'ont pas retenu de dispositions spécifiques telles que visées par l'article L. 2231-10-1 du code du travail à l'attention des entreprises de moins de 50 salariés, dès lors que le présent avenant vise à modifier le régime collectif obligatoire de prévoyance dont doivent bénéficier les salariés relevant de la convention collective et ce, quel que soit l'effectif de leur entreprise.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'><i>Le présent avenant est fait en nombre suffisant d'exemplaires pour remise à chacune des organisations signataires et dépôt dans les conditions prévues par le code du travail.</i> <a shape='rect' href='#RENVOI_KALIARTI000039479566_1'> (1)</a></p><p align='left'>Les parties signataires conviennent de demander l'extension du présent avenant. </p><p align='left'>Suivant les dispositions de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>article L. 2261-23-1 du code du travail</a>, les parties signataires n'ont pas retenu de dispositions spécifiques telles que visées par l'article L. 2231-10-1 du code du travail à l'attention des entreprises de moins de 50 salariés, dès lors que le présent avenant vise à modifier le régime collectif obligatoire de prévoyance dont doivent bénéficier les salariés relevant de la convention collective et ce, quel que soit l'effectif de leur entreprise.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000039479566_1'></a>(1) Alinéa étendu sous réserve du respect des dispositions de l'article L. 2231-5 du code du travail.  <br/>(Arrêté du 20 mai 2020 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dépôt. – Extension",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000041937544",
+                    "textTitle": "Arrêté du 20 mai 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000041937547",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-05-30",
+                    "dateSignaTexte": "2020-05-20",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
