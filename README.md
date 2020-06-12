@@ -1,8 +1,10 @@
-# @socialgouv/kali-data
+# @socialgouv/kali-data [![](https://img.shields.io/npm/v/@socialgouv/kali-data.svg)](https://www.npmjs.com/package/@socialgouv/kali-data)
 
 Internal usage only. extracted with [dila-api-client](https://github.com/SocialGouv/dila-api-client).
 
 Data files are structured with an [univeral syntax-tree](https://unifiedjs.com) structure.
+
+Daily update
 
 ## Usage
 
