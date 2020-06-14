@@ -16,7 +16,7 @@
     "lint": "eslint scripts/*"
   },
   "dependencies": {
-    "@socialgouv/dila-api-client": "^1.1.0",
+    "@socialgouv/dila-api-client": "^1.1.1",
     "p-pipe": "^3.0.0",
     "p-queue": "^6.3.0",
     "p-retry": "^4.2.0",
@@ -30,10 +30,10 @@
     "babel-jest": "^25.4.0",
     "eslint": "^6.8.0",
     "esm": "^3.2.25",
-    "husky": "^4.2.3",
+    "husky": "^4.2.5",
     "jest": "^25.4.0",
     "prettier": "^2.0.5",
-    "semantic-release": "^17.0.4"
+    "semantic-release": "^17.0.8"
   },
   "engines": {
     "node": ">= 10"
