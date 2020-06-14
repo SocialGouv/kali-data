@@ -63,13 +63,12 @@ async function fetchAdditionalText(container) {
   const sectionsWithText = (await Promise.all(pAdditionnalSections)).filter(
     ({ sections }) => sections.length > 0
   );
-  container.sections = [...textedeBase, ...sectionsWithText].sort(sortText);
+  container.sections = [...textedeBase, ...sectionsWithText];
   return container;
 }
 
 function cleanAst(tree) {
   remove(tree, (node) => isValidSection(node.data));
-  const sortByOrdre = sortBy("intOrdre");
   const keys = [
     "cid",
     "num",
@@ -94,7 +93,7 @@ function cleanAst(tree) {
       return data;
     }, {});
     if (children && children.length) {
-      children.sort(sortByOrdre);
+      children.sort(sortText);
     }
     return { type, data, children };
   });
@@ -111,12 +110,6 @@ async function saveFile(container) {
 function toFix(value, nb = 2) {
   const digit = Math.pow(10, nb);
   return Math.round(value * digit) / digit;
-}
-
-function sortBy(key) {
-  return function (a, b) {
-    return a.data[key] - b.data[key];
-  };
 }
 
 async function main() {
