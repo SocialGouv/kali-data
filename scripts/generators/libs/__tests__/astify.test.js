@@ -1,0 +1,70 @@
+import astify, { isValidSection, latestArticleVersionFilter } from "../astify";
+import sampleConvention from "./fixtures/sample.json";
+
+test("should convert structure to AST tree", () => {
+  expect(astify(sampleConvention)).toMatchSnapshot();
+});
+
+const sampleArticles = [
+  {
+    cid: 1,
+    id: "KALIARTI000001",
+  },
+  {
+    cid: 1,
+    id: "KALIARTI000003",
+  },
+  {
+    cid: 1,
+    id: "KALIARTI000002",
+  },
+];
+
+describe("latestArticleVersionFilter", () => {
+  test("latestArticleVersionFilter should return false if its an old version of the article", () => {
+    expect(
+      latestArticleVersionFilter(
+        {
+          cid: 1,
+          id: "KALIARTI000001",
+        },
+        0,
+        sampleArticles,
+      ),
+    ).toMatchSnapshot();
+  });
+
+  test("latestArticleVersionFilter should return true if its the newer version of the article", () => {
+    expect(
+      latestArticleVersionFilter(
+        {
+          cid: 1,
+          id: "KALIARTI000003",
+        },
+        0,
+        sampleArticles,
+      ),
+    ).toMatchSnapshot();
+  });
+});
+
+describe("isValidSection", () => {
+  test("should exclude section ABROGE", () => {
+    expect(isValidSection({ etat: "ABROGE" })).toEqual(false);
+  });
+  test("should exclude section PERIME", () => {
+    expect(isValidSection({ etat: "PERIME" })).toEqual(false);
+  });
+  test("should include section VIGUEUR", () => {
+    expect(isValidSection({ etat: "VIGUEUR" })).toEqual(true);
+  });
+  test("should include section VIGUEUR_ETEN", () => {
+    expect(isValidSection({ etat: "VIGUEUR_ETEN" })).toEqual(true);
+  });
+  test("should include section VIGUEUR_NON_ETEN", () => {
+    expect(isValidSection({ etat: "VIGUEUR_NON_ETEN" })).toEqual(true);
+  });
+  test("should include section without etaet", () => {
+    expect(isValidSection({})).toEqual(true);
+  });
+});
