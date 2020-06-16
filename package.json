@@ -3,50 +3,62 @@
   "version": "1.3.36",
   "homepage": "https://github.com/SocialGouv/kali-data",
   "repository": "https://github.com/SocialGouv/kali-data.git",
-  "main": "index.js",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
   "license": "Apache-2.0",
   "files": [
     "data"
   ],
   "scripts": {
-    "test": "jest && yarn postfetch",
-    "fetch": "node -r esm scripts/fetch-ccns.js",
-    "postfetch": "node -r esm scripts/check-ccns.js",
-    "list": "node -r esm scripts/list-ccns.js",
-    "lint": "eslint scripts/*"
+    "data:check": "node -r esm ./scripts/generators/check.js",
+    "data:fetch": "node -r dotenv/config -r esm ./scripts/generators/fetch.js dotenv_config_path=./.env",
+    "data:list": "node -r esm ./scripts/generators/list.js",
+    "data:match": "node -r esm ./scripts/generators/match.js",
+    "data:update": "yarn data:fetch && yarn data:match && yarn data:list && yarn data:check",
+    "setup": "node -r esm ./scripts/dev/setup.js",
+    "test": "yarn test:lint && yarn test:type && yarn test:unit --silent",
+    "test:lint": "eslint .",
+    "test:type": "tsc",
+    "test:unit": "jest",
+    "test:update": "jest --updateSnapshot",
+    "test:watch": "yarn test:unit --watch",
+    "posttest": "yarn data:check"
   },
   "dependencies": {
-    "@socialgouv/dila-api-client": "^1.1.1",
-    "p-pipe": "^3.0.0",
-    "p-queue": "^6.3.0",
-    "p-retry": "^4.2.0",
-    "unist-util-find-all-after": "^3.0.1",
-    "unist-util-map": "^2.0.1",
-    "unist-util-remove": "^2.0.0"
+    "unist-util-find": "1.0.1",
+    "unist-util-flat-filter": "1.0.0",
+    "unist-util-parents": "1.0.3"
   },
   "devDependencies": {
-    "@babel/preset-env": "^7.8.7",
-    "@socialgouv/eslint-config-recommended": "^0.17.0",
-    "babel-jest": "^25.4.0",
-    "eslint": "^6.8.0",
-    "esm": "^3.2.25",
-    "husky": "^4.2.5",
-    "jest": "^25.4.0",
-    "prettier": "^2.0.5",
-    "semantic-release": "^17.0.8"
+    "@babel/preset-env": "7.10.2",
+    "@socialgouv/dila-api-client": "1.1.1",
+    "@socialgouv/eslint-config-strict": "0.29.0",
+    "@types/jest": "26.0.0",
+    "@types/node": "14.0.13",
+    "babel-eslint": "10.1.0",
+    "babel-jest": "26.0.1",
+    "eslint": "7.2.0",
+    "eslint-plugin-sort-requires": "2.1.0",
+    "esm": "3.2.25",
+    "husky": "4.2.5",
+    "jest": "26.0.1",
+    "npmlog": "4.1.2",
+    "p-pipe": "3.1.0",
+    "p-queue": "6.4.0",
+    "p-retry": "4.2.0",
+    "prettier": "2.0.5",
+    "prompt": "1.0.0",
+    "semantic-release": "17.0.8",
+    "typescript": "3.9.5",
+    "unist-util-map": "2.0.1",
+    "unist-util-remove": "2.0.0"
   },
   "engines": {
     "node": ">= 10"
   },
   "husky": {
     "hooks": {
-      "pre-push": "yarn lint"
-    }
-  },
-  "jest": {
-    "verbose": true,
-    "transform": {
-      "^.+\\.[t|j]sx?$": "babel-jest"
+      "pre-push": "yarn test"
     }
   },
   "release": {
