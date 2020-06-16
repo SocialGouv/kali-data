@@ -70,9 +70,9 @@ KaliData.Agreement
 
 Get a full agreement [unist][link-unist] tree with its sections and articles.
 
-| Parameter           | Type              | Default      | Description          |
-| ------------------- | ----------------- | ------------ | -------------------- |
-| `agreementIdOrIdcc` | `number | string` | **required** | Agreement ID or IDCC |
+| Parameter           | Type               | Default      | Description          |
+| ------------------- | ------------------ | ------------ | -------------------- |
+| `agreementIdOrIdcc` | `number \| string` | **required** | Agreement ID or IDCC |
 
 **Return Type**
 
@@ -84,9 +84,9 @@ KaliData.Agreement
 
 Get a flat [unist][link-unist] array of all the articles an agreement contains.
 
-| Parameter           | Type              | Default      | Description          |
-| ------------------- | ----------------- | ------------ | -------------------- |
-| `agreementIdOrIdcc` | `number | string` | **required** | Agreement ID or IDCC |
+| Parameter           | Type               | Default      | Description          |
+| ------------------- | ------------------ | ------------ | -------------------- |
+| `agreementIdOrIdcc` | `number \| string` | **required** | Agreement ID or IDCC |
 
 **Return Type**
 
@@ -132,9 +132,9 @@ KaliData.AgreementArticleWithParentSections
 
 Check if an agreement is available.
 
-| Parameter           | Type              | Default      | Description          |
-| ------------------- | ----------------- | ------------ | -------------------- |
-| `agreementIdOrIdcc` | `number | string` | **required** | Agreement ID or IDCC |
+| Parameter           | Type               | Default      | Description          |
+| ------------------- | ------------------ | ------------ | -------------------- |
+| `agreementIdOrIdcc` | `number \| string` | **required** | Agreement ID or IDCC |
 
 **Return Type**
 
