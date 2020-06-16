@@ -15,7 +15,7 @@ Extracted with [dila-api-client][link-dila-api-client] from [DILA API][link-aife
   - [API](#api)
     - [Data](#data)
     - [getAgreement()](#getagreement)
-    - [getAgreementArticlesithParentSections()](#getagreementarticlesithparentsections)
+    - [getAgreementArticlesWithParentSections()](#getagreementarticleswithparentsections)
     - [getAgreements()](#getagreements)
     - [getArticles()](#getarticles)
     - [getArticleWithParentSections()](#getarticlewithparentsections)
@@ -80,7 +80,7 @@ Get a full agreement [unist][link-unist] tree with its sections and articles.
 KaliData.Agreement
 ```
 
-#### getAgreementArticlesithParentSections()
+#### getAgreementArticlesWithParentSections()
 
 Get a flat [unist][link-unist] array of all the articles an agreement contains.
 

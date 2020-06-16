@@ -13,7 +13,7 @@ const getArticleWithParentSections = require("./getArticleWithParentSections");
  *
  * @returns {KaliData.AgreementArticleWithParentSections[]}
  */
-function getAgreementArticlesithParentSections(agreementIdOrIdcc) {
+function getAgreementArticlesWithParentSections(agreementIdOrIdcc) {
   const agreement = getAgreement(agreementIdOrIdcc);
 
   const articles =
@@ -38,4 +38,4 @@ function getAgreementArticlesithParentSections(agreementIdOrIdcc) {
   return articlesWithParentSections;
 }
 
-module.exports = getAgreementArticlesithParentSections;
+module.exports = getAgreementArticlesWithParentSections;
