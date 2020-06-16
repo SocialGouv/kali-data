@@ -17,8 +17,6 @@ Quality tests:
       - node_modules/
   script:
     - yarn test
-  after_script:
-    - npx codecov
 
 Data fetch:
   <<: *node_stage
