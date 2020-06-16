@@ -39,6 +39,7 @@ Object {
                 },
               ],
               "data": Object {
+                "cid": "KALISCTA211",
                 "etat": "VIGUEUR",
                 "id": "KALISCTA211",
                 "intOrdre": 211,
@@ -69,6 +70,7 @@ Object {
             },
           ],
           "data": Object {
+            "cid": "KALISCTA21",
             "etat": "VIGUEUR",
             "id": "KALISCTA21",
             "intOrdre": 21,
@@ -78,6 +80,7 @@ Object {
         },
       ],
       "data": Object {
+        "cid": "KALISCTA2",
         "etat": "VIGUEUR",
         "id": "KALISCTA2",
         "intOrdre": 2222,
@@ -100,6 +103,7 @@ Object {
                 },
               ],
               "data": Object {
+                "cid": "KALISCTA311",
                 "etat": "VIGUEUR",
                 "id": "KALISCTA311",
                 "intOrdre": 311,
@@ -109,6 +113,7 @@ Object {
             },
           ],
           "data": Object {
+            "cid": "KALISCTA31",
             "etat": "VIGUEUR",
             "id": "KALISCTA31",
             "intOrdre": 31,
@@ -127,6 +132,7 @@ Object {
             },
           ],
           "data": Object {
+            "cid": "KALISCTA32",
             "etat": "VIGUEUR",
             "id": "KALISCTA32",
             "intOrdre": 32,
@@ -143,6 +149,7 @@ Object {
         },
       ],
       "data": Object {
+        "cid": "KALISCTA3",
         "etat": "VIGUEUR",
         "id": "KALISCTA3",
         "intOrdre": 1111,
@@ -162,6 +169,6 @@ Object {
     "shortTitle": "categorie",
     "title": "title",
   },
-  "type": "section",
+  "type": "convention collective",
 }
 `;

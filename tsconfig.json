@@ -10,5 +10,5 @@
     "strictNullChecks": true,
     "target": "ES6"
   },
-  "include": ["src/**/*.js", "src/index.d.ts", "scripts/generators/**/*.js"]
+  "include": ["src/**/*.js", "src/index.d.ts", "scripts/lib/*.js", "scripts/*.js"]
 }
