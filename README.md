@@ -57,7 +57,13 @@ It's possible to require any of the [available agreements][link-agreement-refere
 [unist][link-unist] tree straight from the data directory:
 
 ```js
-const JournalismAgreement = require("@socialgouv/kali-data/KALITEXT000005652402.json");
+const JournalismAgreement = require("@socialgouv/kali-data/data/KALITEXT000005652402.json");
+```
+
+And the list of available agreements with
+
+```js
+const agreements = require("@socialgouv/kali-data/data/index.json");
 ```
 
 **Return Type**
