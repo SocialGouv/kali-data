@@ -7,7 +7,8 @@
   "types": "./src/index.d.ts",
   "license": "Apache-2.0",
   "files": [
-    "data"
+    "data",
+    "src"
   ],
   "scripts": {
     "data:check": "node -r esm ./scripts/generators/check.js",
