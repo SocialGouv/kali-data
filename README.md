@@ -9,7 +9,11 @@ Extracted with [dila-api-client][link-dila-api-client] from [DILA API][link-aife
 
 - [Usage](#usage)
   - [Getting started](#getting-started)
+  - [Definitions](#definitions)
+    - [Agreement](#agreement)
+    - [Article](#article)
   - [API](#api)
+    - [Data](#data)
     - [getAgreement()](#getagreement)
     - [getAgreementArticlesithParentSections()](#getagreementarticlesithparentsections)
     - [getAgreements()](#getagreements)
@@ -17,7 +21,6 @@ Extracted with [dila-api-client][link-dila-api-client] from [DILA API][link-aife
     - [getArticleWithParentSections()](#getarticlewithparentsections)
     - [hasAgreement()](#hasagreement)
     - [hasArticle()](#hasarticle)
-  - [License](#license)
 - [Contributing](#contributing)
   - [Getting started](#getting-started-1)
   - [Data Generation](#data-generation)
@@ -33,9 +36,35 @@ Extracted with [dila-api-client][link-dila-api-client] from [DILA API][link-aife
 npm i @socialgouv/kali-data
 ```
 
+### Definitions
+
+#### Agreement
+
+An agreement is a labor agreement (_convention collective_ in French). Only national agreements
+are available at the moment. Each agreement is made up of articles wrapped within sections.
+
+#### Article
+
+An article always refers to an agreement article.
+
 ### API
 
 This package is typed with Typscript, you can check the returns type details [there][link-typings].
+
+#### Data
+
+It's possible to require any of the [available agreements][link-agreement-references] JSON
+[unist][link-unist] tree straight from the data directory:
+
+```js
+const JournalismAgreement = require("@socialgouv/kali-data/KALITEXT000005652402.json");
+```
+
+**Return Type**
+
+```ts
+KaliData.Agreement
+```
 
 #### getAgreement()
 
@@ -126,10 +155,6 @@ Check if an article is available.
 ```ts
 boolean
 ```
-
-### License
-
-[![licence Apache 2.0][img-license]][link-license]
 
 ## Contributing
 
