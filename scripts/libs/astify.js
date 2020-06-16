@@ -15,6 +15,7 @@ const astify = (node, depth = 0) => ({
   ],
   data: {
     title: node.title,
+
     ...(depth === 0 && {
       categorisation: node.categorisation,
       num: parseInt(node.num, 10),
@@ -22,7 +23,7 @@ const astify = (node, depth = 0) => ({
       title: node.titre,
     }),
 
-    cid: node.cid,
+    ...(depth > 0 && { cid: node.cid }),
     // eslint-disable-next-line sort-keys-fix/sort-keys-fix
     etat: node.etat,
     id: node.id,
@@ -31,7 +32,7 @@ const astify = (node, depth = 0) => ({
     ...(node.modifDate && { modifDate: node.modifDate }),
     // add more data when its the root container
   },
-  type: "section",
+  type: depth === 0 ? "convention collective" : "section",
 });
 
 const numify = id => parseInt(id.replace(/^KALIARTI/, ""));
