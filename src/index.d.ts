@@ -9,19 +9,13 @@ export function getAgreement(agreementIdOrIdcc: number | string): KaliData.Agree
 
 /**
  * Get a flat unist array of all the articles an agreement contains.
+ * Each article includes a list of its parent sections.
  *
  * @see https://github.com/syntax-tree/unist
  */
-export function getAgreementArticles(
+export function getAgreementArticlesithParentSections(
   agreementIdOrIdcc: number | string,
-): KaliData.AgreementArticleWithSections[];
-
-/**
- * Get an agreement article unist node.
- *
- * @see https://github.com/syntax-tree/unist
- */
-export function getArticle(articleId: string): KaliData.AgreementArticleWithSections;
+): KaliData.AgreementArticleWithParentSections[];
 
 /**
  * Get the full list of indexed agreements.
@@ -32,6 +26,15 @@ export function getAgreements(): KaliData.IndexedAgreement[];
  * Get the full list of indexed articles.
  */
 export function getArticles(): KaliData.IndexedArticle[];
+
+/**
+ * Get an agreement article unist node with its parent sections.
+ *
+ * @see https://github.com/syntax-tree/unist
+ */
+export function getArticleWithParentSections(
+  articleId: string,
+): KaliData.AgreementArticleWithParentSections;
 
 /**
  * Check if an agreement is available.
@@ -172,7 +175,7 @@ type IndexedArticle = {
   articleId: string;
 };
 
-type AgreementArticleWithSections = AgreementArticle & {
+type AgreementArticleWithParentSections = AgreementArticle & {
   sections: Array<{
     type: "section";
     data: AgreementSectionData;

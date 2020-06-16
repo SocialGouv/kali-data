@@ -11,10 +11,10 @@ Extracted with [dila-api-client][link-dila-api-client] from [DILA API][link-aife
   - [Getting started](#getting-started)
   - [API](#api)
     - [getAgreement()](#getagreement)
-    - [getAgreementArticles()](#getagreementarticles)
-    - [getArticle()](#getarticle)
+    - [getAgreementArticlesithParentSections()](#getagreementarticlesithparentsections)
     - [getAgreements()](#getagreements)
     - [getArticles()](#getarticles)
+    - [getArticleWithParentSections()](#getarticlewithparentsections)
     - [hasAgreement()](#hasagreement)
     - [hasArticle()](#hasarticle)
   - [License](#license)
@@ -51,7 +51,7 @@ Get a full agreement [unist][link-unist] tree with its sections and articles.
 KaliData.Agreement
 ```
 
-#### getAgreementArticles()
+#### getAgreementArticlesithParentSections()
 
 Get a flat [unist][link-unist] array of all the articles an agreement contains.
 
@@ -62,21 +62,7 @@ Get a flat [unist][link-unist] array of all the articles an agreement contains.
 **Return Type**
 
 ```ts
-KaliData.AgreementArticleWithSections[]
-```
-
-#### getArticle()
-
-Get an agreement article [unist][link-unist] node.
-
-| Parameter   | Type     | Default      | Description |
-| ----------- | -------- | ------------ | ----------- |
-| `articleId` | `string` | **required** | Article ID  |
-
-**Return Type**
-
-```ts
-KaliData.AgreementArticleWithSections
+KaliData.AgreementArticleWithParentSections[]
 ```
 
 #### getAgreements()
@@ -97,6 +83,20 @@ Get the full list of indexed articles.
 
 ```ts
 KaliData.IndexedArticle[]
+```
+
+#### getArticleWithParentSections()
+
+Get an agreement article [unist][link-unist] node.
+
+| Parameter   | Type     | Default      | Description |
+| ----------- | -------- | ------------ | ----------- |
+| `articleId` | `string` | **required** | Article ID  |
+
+**Return Type**
+
+```ts
+KaliData.AgreementArticleWithParentSections
 ```
 
 #### hasAgreement()

@@ -7,13 +7,15 @@ const unistUtilFind = require("unist-util-find");
 const INDEXED_ARTICLES = getArticles();
 
 /**
+ * Get an agreement article unist node with its parent sections.
+ *
  * @param {string} articleId
  *
- * @returns {KaliData.AgreementArticleWithSections}
+ * @returns {KaliData.AgreementArticleWithParentSections}
  *
  * TODO Replace this dirty "let" by a clean recursive function.
  */
-function getArticle(articleId) {
+function getArticleWithParentSections(articleId) {
   const maybeIndexedArticle = INDEXED_ARTICLES.find(
     indexedArticle => indexedArticle.articleId === articleId,
   );
@@ -29,20 +31,20 @@ function getArticle(articleId) {
     throw new Error(`No agreement article found with this ID (${articleId}).`);
   }
 
-  /** @type {KaliData.AgreementArticleWithSections} */
-  const articleWithSections = { ...node, sections: [] };
+  /** @type {KaliData.AgreementArticleWithParentSections} */
+  const articleWithParentSections = { ...node, sections: [] };
   while (node) {
     const clonedNode = { ...node };
     delete clonedNode.children;
     delete clonedNode.parent;
-    articleWithSections.sections.unshift(clonedNode);
+    articleWithParentSections.sections.unshift(clonedNode);
 
     node = node.parent;
   }
   // Remove the article itself from the sections pile:
-  articleWithSections.sections.pop();
+  articleWithParentSections.sections.pop();
 
-  return articleWithSections;
+  return articleWithParentSections;
 }
 
-module.exports = getArticle;
+module.exports = getArticleWithParentSections;
