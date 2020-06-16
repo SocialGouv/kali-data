@@ -60,7 +60,7 @@ It's possible to require any of the [available agreements][link-agreement-refere
 const JournalismAgreement = require("@socialgouv/kali-data/data/KALITEXT000005652402.json");
 ```
 
-And the list of available agreements with
+And the list of available agreements with :
 
 ```js
 const agreements = require("@socialgouv/kali-data/data/index.json");
