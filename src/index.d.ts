@@ -91,7 +91,7 @@ type AgreementData = {
 type AgreementSection = {
   type: "section";
   data: AgreementSectionData;
-  children: (AgreementArticle & AgreementSection)[];
+  children: (AgreementArticle | AgreementSection)[];
 };
 
 type AgreementSectionData = {
