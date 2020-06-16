@@ -22,8 +22,9 @@ const astify = (node, depth = 0) => ({
       title: node.titre,
     }),
 
+    cid: node.cid,
+    // eslint-disable-next-line sort-keys-fix/sort-keys-fix
     etat: node.etat,
-
     id: node.id,
     // add some data
     intOrdre: node.intOrdre,
