@@ -17,13 +17,11 @@ const writeFile = promisify(fs.writeFile);
 
 const INDEXED_AGREEMENTS = getAgreements();
 
-const { API_HOST, OAUTH_CLIENT_ID, OAUTH_CLIENT_SECRET, TOKEN_HOST } = process.env;
+const { OAUTH_CLIENT_ID, OAUTH_CLIENT_SECRET } = process.env;
 
 if (
-  API_HOST === undefined ||
   OAUTH_CLIENT_ID === undefined ||
-  OAUTH_CLIENT_SECRET === undefined ||
-  TOKEN_HOST == undefined
+  OAUTH_CLIENT_SECRET === undefined
 ) {
   log.error(
     "fetch()",
