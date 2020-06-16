@@ -13,7 +13,7 @@ export function getAgreement(agreementIdOrIdcc: number | string): KaliData.Agree
  *
  * @see https://github.com/syntax-tree/unist
  */
-export function getAgreementArticlesithParentSections(
+export function getAgreementArticlesWithParentSections(
   agreementIdOrIdcc: number | string,
 ): KaliData.AgreementArticleWithParentSections[];
 

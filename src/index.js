@@ -3,7 +3,7 @@
 // @ts-check
 
 const getAgreement = require("./libs/getAgreement");
-const getAgreementArticlesithParentSections = require("./libs/getAgreementArticlesithParentSections");
+const getAgreementArticlesWithParentSections = require("./libs/getAgreementArticlesWithParentSections");
 const getAgreements = require("./libs/getAgreements");
 const getArticleWithParentSections = require("./libs/getArticleWithParentSections");
 const getArticles = require("./libs/getArticles");
@@ -11,7 +11,7 @@ const hasAgreement = require("./libs/hasAgreement");
 
 module.exports = {
   getAgreement,
-  getAgreementArticlesithParentSections,
+  getAgreementArticlesWithParentSections,
   getAgreements,
   getArticleWithParentSections,
   getArticles,
