@@ -9,7 +9,7 @@ import log from "npmlog";
 import path from "path";
 import unistUtilFlatFilter from "unist-util-flat-filter";
 
-import { getAgreement, getAgreements } from "../..";
+import { getAgreement, getAgreements } from "../src";
 
 log.enableColor();
 
@@ -41,6 +41,6 @@ const articlesIndex = agreementsIndex.reduce((prevArticlesIndex, { id: agreement
   return [...prevArticlesIndex, ...newArticlesIndex];
 }, []);
 
-const articlesIndexFilePath = path.join(__dirname, "../../data/articles/index.json");
+const articlesIndexFilePath = path.join(__dirname, "..", "data", "articles", "index.json");
 log.info("match()", `Writing ${articlesIndexFilePath}…`);
 fs.writeFileSync(articlesIndexFilePath, JSON.stringify(articlesIndex, null, 2));

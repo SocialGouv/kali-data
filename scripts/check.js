@@ -3,7 +3,7 @@
 import log from "npmlog";
 import unistUtilFind from "unist-util-find";
 
-import { getAgreement, getAgreements } from "../..";
+import { getAgreement, getAgreements } from "../src";
 
 log.enableColor();
 const INDEXED_AGREEMENTS = getAgreements();

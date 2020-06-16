@@ -8,7 +8,7 @@ import map from "unist-util-map";
 import remove from "unist-util-remove";
 import { promisify } from "util";
 
-import { getAgreements } from "../..";
+import { getAgreements } from "../src";
 import { getKaliCont, getKaliText } from "./libs/api";
 import astify, { isValidSection } from "./libs/astify";
 
@@ -19,10 +19,7 @@ const INDEXED_AGREEMENTS = getAgreements();
 
 const { OAUTH_CLIENT_ID, OAUTH_CLIENT_SECRET } = process.env;
 
-if (
-  OAUTH_CLIENT_ID === undefined ||
-  OAUTH_CLIENT_SECRET === undefined
-) {
+if (OAUTH_CLIENT_ID === undefined || OAUTH_CLIENT_SECRET === undefined) {
   log.error(
     "fetch()",
     `Missing environment variables. Please run "yarn setup" to reset your .env file.`,
@@ -33,14 +30,6 @@ if (
 
 const queue = new Queue({ concurrency: 10, interval: 1000, intervalCap: 20 });
 const t0 = Date.now();
-
-function sortText(a, b) {
-  if (a.intOrdre === b.intOrdre) {
-    return parseInt(a.id.replace("w+", ""), 10) - parseInt(b.id.replace("w+", ""), 10);
-  }
-
-  return a.ordre - b.ordre;
-}
 
 function fetchKaliCont(id) {
   return queue.add(() => {
@@ -76,14 +65,13 @@ async function fetchAdditionalText(container) {
   const sectionsWithText = (await Promise.all(pAdditionnalSections)).filter(
     ({ sections }) => sections.length > 0,
   );
-  container.sections = [...textedeBase, ...sectionsWithText].sort(sortText);
+  container.sections = [...textedeBase, ...sectionsWithText];
 
   return container;
 }
 
 function cleanAst(tree) {
   remove(tree, node => isValidSection(node.data));
-  const sortByOrdre = sortBy("intOrdre");
   const keys = [
     "cid",
     "num",
@@ -113,13 +101,14 @@ function cleanAst(tree) {
       children.sort(sortByOrdre);
     }
 
-    return { children, data, type };
+    // eslint-disable-next-line sort-keys-fix/sort-keys-fix
+    return { type, data, children };
   });
 }
 
 async function saveFile(container) {
   await writeFile(
-    path.join(__dirname, `../../data/${container.data.id}.json`),
+    path.join(__dirname, "..", "data", `${container.data.id}.json`),
     JSON.stringify(container, 0, 2),
   );
   log.info("fetch()", `Updating ${container.data.id}.json…`);
@@ -131,10 +120,12 @@ function toFix(value, nb = 2) {
   return Math.round(value * digit) / digit;
 }
 
-function sortBy(key) {
-  return function (a, b) {
-    return a.data[key] - b.data[key];
-  };
+function sortByOrdre(a, b) {
+  if (a.data.intOrdre === b.data.intOrdre) {
+    return parseInt(a.data.id.replace("w+", ""), 10) - parseInt(b.data.id.replace("w+", ""), 10);
+  }
+
+  return a.data.intOrdre - b.data.intOrdre;
 }
 
 async function main() {

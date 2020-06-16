@@ -8,7 +8,7 @@ import fs from "fs";
 import log from "npmlog";
 import path from "path";
 
-import { getAgreements } from "../..";
+import { getAgreements } from "../src";
 
 log.enableColor();
 
@@ -26,7 +26,7 @@ getAgreements().forEach(convention => {
 
 log.info("list()", `Updating REFERENCES.md…`);
 
-const filePath = path.join(__dirname, "../../REFERENCES.md");
+const filePath = path.join(__dirname, "..", "REFERENCES.md");
 const source = sourceLines.join("\n");
 fs.writeFileSync(filePath, source);
 
