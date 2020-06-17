@@ -16,7 +16,7 @@
     "data:list": "node -r esm ./scripts/list.js",
     "data:match": "node -r esm ./scripts/match.js",
     "data:update": "yarn data:fetch && yarn data:match && yarn data:list && yarn data:check",
-    "setup": "node -r esm ./scripts/dev/setup.js",
+    "setup": "node -r esm ./scripts/setup.js",
     "test": "yarn test:lint && yarn test:type && yarn test:unit --silent",
     "test:lint": "eslint .",
     "test:type": "tsc",
