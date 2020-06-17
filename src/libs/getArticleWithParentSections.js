@@ -34,7 +34,7 @@ const findArticleWithData = (agreement, data) =>
  *
  * @returns {KaliData.AgreementArticleWithParentSections["sections"]}
  */
-const getSectionsFromArticle = article => {
+const getParentSectionsFromArticle = article => {
   const sections = [];
   let section = article.parent;
 
@@ -65,7 +65,7 @@ function getArticleWithParentSections(articleIdOrCid) {
     /** @type {KaliData.AgreementArticleWithParentSections} */
     const articleWithParentSections = {
       ...maybeArticleWithId,
-      sections: getSectionsFromArticle(maybeArticleWithId),
+      sections: getParentSectionsFromArticle(maybeArticleWithId),
     };
 
     return articleWithParentSections;
@@ -80,7 +80,7 @@ function getArticleWithParentSections(articleIdOrCid) {
   /** @type {KaliData.AgreementArticleWithParentSections} */
   const articleWithParentSections = {
     ...maybeArticleWithCid,
-    sections: getSectionsFromArticle(maybeArticleWithCid),
+    sections: getParentSectionsFromArticle(maybeArticleWithCid),
   };
 
   return articleWithParentSections;
