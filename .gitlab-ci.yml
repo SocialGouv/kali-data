@@ -11,7 +11,7 @@ stages:
 Quality tests:
   <<: *node_stage
   stage: "Code Quality"
-  retry: 3
+  retry: 2
   cache:
     key: ${CI_COMMIT_REF_SLUG}
     paths:
