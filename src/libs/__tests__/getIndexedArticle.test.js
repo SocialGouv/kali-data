@@ -1,6 +1,6 @@
 import getIndexedArticle from "../getIndexedArticle";
 
-describe(`helpers/getIndexedArticle()`, () => {
+describe(`libs/getIndexedArticle()`, () => {
   describe(`should match properties`, () => {
     it(`with an existing article ID`, () => {
       expect(getIndexedArticle("KALIARTI000023306963")).toMatchObject({

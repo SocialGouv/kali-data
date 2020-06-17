@@ -1,6 +1,6 @@
 import hasAgreement from "../hasAgreement";
 
-describe(`helpers/hasAgreement()`, () => {
+describe(`libs/hasAgreement()`, () => {
   describe(`should return true`, () => {
     it(`with an existing agreement ID`, () => {
       expect(hasAgreement("KALICONT000005635444")).toBe(true);
