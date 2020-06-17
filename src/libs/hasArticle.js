@@ -1,17 +1,10 @@
 // @ts-check
 
 const checkArticleIdOrCid = require("../helpers/checkArticleIdOrCid");
+const withArticleIdOrCid = require("../helpers/withArticleIdOrCid");
 const getArticles = require("./getArticles");
 
 const INDEXED_ARTICLES = getArticles();
-
-/**
- * @param {string} articleIdOrCid
- *
- * @returns {((indexedArticle: KaliData.IndexedArticle) => boolean)}
- */
-const withArticleIdOrCid = articleIdOrCid => indexedArticle =>
-  indexedArticle.articleId === articleIdOrCid || indexedArticle.articleCid === articleIdOrCid;
 
 /**
  * @param {string} articleIdOrCid
