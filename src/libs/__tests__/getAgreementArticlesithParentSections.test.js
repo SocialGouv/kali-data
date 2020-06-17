@@ -1,6 +1,6 @@
 import getAgreementArticlesWithParentSections from "../getAgreementArticlesWithParentSections";
 
-describe(`helpers/getAgreementArticlesWithParentSections()`, () => {
+describe(`libs/getAgreementArticlesWithParentSections()`, () => {
   describe(`should match snapshot`, () => {
     it(`with an existing agreement ID`, () => {
       const received = getAgreementArticlesWithParentSections("KALICONT000005635444");

@@ -1,6 +1,6 @@
 import getAgreement from "../getAgreement";
 
-describe(`helpers/getAgreement()`, () => {
+describe(`libs/getAgreement()`, () => {
   describe(`should match properties`, () => {
     it(`with an existing agreement ID`, () => {
       const received = getAgreement("KALICONT000005635444");

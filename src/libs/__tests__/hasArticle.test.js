@@ -1,6 +1,6 @@
 import hasArticle from "../hasArticle";
 
-describe(`helpers/hasArticle()`, () => {
+describe(`libs/hasArticle()`, () => {
   describe(`should return true`, () => {
     it(`with an existing article ID`, () => {
       expect(hasArticle("KALIARTI000023306963")).toBe(true);

@@ -1,6 +1,6 @@
 import getArticleWithParentSections from "../getArticleWithParentSections";
 
-describe(`helpers/getArticleWithParentSections()`, () => {
+describe(`libs/getArticleWithParentSections()`, () => {
   describe(`should match properties`, () => {
     it(`with an existing main article ID`, () => {
       const received = getArticleWithParentSections("KALIARTI000019508230");
