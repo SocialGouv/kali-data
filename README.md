@@ -50,7 +50,7 @@ An article always refers to an agreement article.
 
 ### API
 
-This package is typed with Typscript, you can check the returns type details [there][link-typings].
+This package is typed with Typescript, you can check the returns type details [there][link-typings].
 
 #### Data
 
@@ -233,8 +233,7 @@ The agreement references list is available [here][link-agreement-references].
 [link-license]: https://github.com/SocialGouv/kali-data/blob/master/LICENSE
 [link-npm]: https://www.npmjs.com/package/kali-data
 
-[link-agreement-references]:
-  https://github.com/SocialGouv/code-du-travail-backoffice/blob/master/REFERENCES.md
+[link-agreement-references]: https://github.com/SocialGouv/kali-data/blob/master/REFERENCES.md
 [link-aife-api]: https://developer.aife.economie.gouv.fr
 [link-dila-api-client]: https://github.com/SocialGouv/dila-api-client
 [link-typings]: https://github.com/SocialGouv/kali-data/blob/master/src/index.d.ts
