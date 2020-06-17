@@ -33,8 +33,13 @@ export function getArticles(): KaliData.IndexedArticle[];
  * @see https://github.com/syntax-tree/unist
  */
 export function getArticleWithParentSections(
-  articleId: string,
+  articleIdOrCid: string,
 ): KaliData.AgreementArticleWithParentSections;
+
+/**
+ * Get an indexed article.
+ */
+export function getIndexedArticle(articleIdOrCid: string): KaliData.IndexedArticle;
 
 /**
  * Check if an agreement is available.
@@ -44,7 +49,7 @@ export function hasAgreement(agreementIdOrIdcc: number | string): boolean;
 /**
  * Check if an article is available.
  */
-export function hasArticle(articleId: string): boolean;
+export function hasArticle(articleIdOrCid: string): boolean;
 
 export as namespace KaliData;
 
@@ -171,6 +176,8 @@ type IndexedAgreement = {
 type IndexedArticle = {
   /** Agreement ID */
   agreementId: string;
+  /** Article CID */
+  articleCid: string;
   /** Article ID */
   articleId: string;
 };

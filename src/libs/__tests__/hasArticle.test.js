@@ -3,7 +3,11 @@ import hasArticle from "../hasArticle";
 describe(`helpers/hasArticle()`, () => {
   describe(`should return true`, () => {
     it(`with an existing article ID`, () => {
-      expect(hasArticle("KALIARTI000005768397")).toBe(true);
+      expect(hasArticle("KALIARTI000023306963")).toBe(true);
+    });
+
+    it(`with an existing article CID`, () => {
+      expect(hasArticle("KALIARTI000005768420")).toBe(true);
     });
   });
 

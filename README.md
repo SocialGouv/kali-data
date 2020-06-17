@@ -19,6 +19,7 @@ Extracted with [dila-api-client][link-dila-api-client] from [DILA API][link-aife
     - [getAgreements()](#getagreements)
     - [getArticles()](#getarticles)
     - [getArticleWithParentSections()](#getarticlewithparentsections)
+    - [getIndexedArticle()](#getindexedarticle)
     - [hasAgreement()](#hasagreement)
     - [hasArticle()](#hasarticle)
 - [Contributing](#contributing)
@@ -124,14 +125,28 @@ KaliData.IndexedArticle[]
 
 Get an agreement article [unist][link-unist] node.
 
-| Parameter   | Type     | Default      | Description |
-| ----------- | -------- | ------------ | ----------- |
-| `articleId` | `string` | **required** | Article ID  |
+| Parameter        | Type     | Default      | Description       |
+| ---------------- | -------- | ------------ | ----------------- |
+| `articleIdOrCid` | `string` | **required** | Article ID or CID |
 
 **Return Type**
 
 ```ts
 KaliData.AgreementArticleWithParentSections
+```
+
+#### getIndexedArticle()
+
+Get an indexed article.
+
+| Parameter        | Type     | Default      | Description       |
+| ---------------- | -------- | ------------ | ----------------- |
+| `articleIdOrCid` | `string` | **required** | Article ID or CID |
+
+**Return Type**
+
+```ts
+KaliData.IndexedArticle
 ```
 
 #### hasAgreement()
@@ -152,9 +167,9 @@ boolean
 
 Check if an article is available.
 
-| Parameter   | Type     | Default      | Description |
-| ----------- | -------- | ------------ | ----------- |
-| `articleId` | `string` | **required** | Article ID  |
+| Parameter        | Type     | Default      | Description       |
+| ---------------- | -------- | ------------ | ----------------- |
+| `articleIdOrCid` | `string` | **required** | Article ID or CID |
 
 **Return Type**
 
@@ -185,7 +200,8 @@ their articles.
 
 - `yarn data:check` Check agreements consistency.
 - `yarn data:fetch`: Update agreements articles from DILA API.
-- `yarn data:match`: Update agreements articles index (matching articles ID with agreements ID).
+- `yarn data:match`: Update agreements articles index (matching articles ID & CID with their
+  agreements ID).
 - `yarn data:list` Update `REFERENCES.md` file.
 
 ### Tests
@@ -203,7 +219,7 @@ The agreement references list is available [here][link-agreement-references].
 ## See Also
 
 - [Code du travail numérique](https://github.com/SocialGouv/code-du-travail-numerique)
-- [dila-api-client : Client JavaScript pour l'API DILA AIFE](https://github.com/SocialGouv/dila-api-client)
+- [dila-api-client : Client JavaScript pour l'API DILA AIFE][link-dila-api-client]
 - [legi-data : base LEGI](https://github.com/SocialGouv/legi-data)
 - [fiches-vdd : Fiches vos droits et démarches](https://github.com/SocialGouv/fiches-vdd)
 

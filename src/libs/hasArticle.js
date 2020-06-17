@@ -1,22 +1,21 @@
 // @ts-check
 
-const checkArticleId = require("../helpers/checkArticleId");
+const checkArticleIdOrCid = require("../helpers/checkArticleIdOrCid");
+const withArticleIdOrCid = require("../helpers/withArticleIdOrCid");
 const getArticles = require("./getArticles");
 
 const INDEXED_ARTICLES = getArticles();
 
 /**
- * @param {string} articleId
+ * @param {string} articleIdOrCid
  *
  * @returns {boolean}
  */
-function hasArticle(articleId) {
+function hasArticle(articleIdOrCid) {
   try {
-    checkArticleId(articleId);
+    checkArticleIdOrCid(articleIdOrCid);
 
-    return (
-      INDEXED_ARTICLES.find(indexedArticle => indexedArticle.articleId === articleId) !== undefined
-    );
+    return INDEXED_ARTICLES.find(withArticleIdOrCid(articleIdOrCid)) !== undefined;
   } catch (err) {
     return false;
   }

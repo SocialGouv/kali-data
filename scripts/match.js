@@ -1,7 +1,7 @@
 // @ts-check
 
 /**
- * Generate an articles index matching articles ID with their agreement ID.
+ * Generate an articles index matching articles ID & CID with their agreement ID.
  */
 
 import fs from "fs";
@@ -22,7 +22,7 @@ const articlesIndex = agreementsIndex.reduce((prevArticlesIndex, { id: agreement
 
   const agreementTree = getAgreement(agreementId);
   const agreementTreeWithFlatArticles =
-    /** @type {KaliData.AgreementSection} */
+    /** @type {{ type: "root", children: KaliData.AgreementArticle }} */
     (unistUtilFlatFilter(agreementTree, "article"));
   if (
     agreementTreeWithFlatArticles === null ||
@@ -32,8 +32,9 @@ const articlesIndex = agreementsIndex.reduce((prevArticlesIndex, { id: agreement
   }
 
   const newArticlesIndex = agreementTreeWithFlatArticles.children.map(
-    ({ data: { id: articleId } }) => ({
+    ({ data: { cid: articleCid, id: articleId } }) => ({
       agreementId,
+      articleCid,
       articleId,
     }),
   );
