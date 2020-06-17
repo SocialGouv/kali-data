@@ -39,10 +39,8 @@ const getSectionsFromArticle = article => {
   let section = article.parent;
 
   while (section) {
-    const clonedSection = { ...section };
-    delete clonedSection.children;
-    delete clonedSection.parent;
-    sections.unshift(clonedSection);
+    const { data, type } = section;
+    sections.unshift({ data, type });
 
     section = section.parent;
   }
