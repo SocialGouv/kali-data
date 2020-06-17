@@ -35,7 +35,7 @@ function fetchKaliCont(id) {
   return queue.add(() => {
     log.info("fetch()", `Fetching ${id}…`);
 
-    return retry(() => getKaliCont(id), { retries: 3 });
+    return retry(() => getKaliCont(id), { retries: 10 });
   });
 }
 
@@ -50,7 +50,7 @@ async function fetchAdditionalText(container) {
   const pAdditionnalSections = additionnalSections.map(async mainSection => {
     const pSections = mainSection.sections.filter(isValidSection).map(text =>
       queue.add(() => {
-        return retry(() => getKaliText(text.id), { retries: 10 });
+        return retry(() => getKaliText(text.id), { retries: 30 });
       }),
     );
     mainSection.sections = await Promise.all(pSections);
