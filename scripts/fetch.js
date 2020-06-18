@@ -9,6 +9,7 @@ import remove from "unist-util-remove";
 import { promisify } from "util";
 
 import { getAgreements } from "../src";
+import sortByIntOrdre from "./helpers/sortByIntOrdre";
 import { getKaliCont, getKaliText } from "./libs/api";
 import astify, { isValidSection } from "./libs/astify";
 
@@ -98,7 +99,7 @@ function cleanAst(tree) {
       return data;
     }, {});
     if (children && children.length) {
-      children.sort(sortByOrdre);
+      children.sort(sortByIntOrdre);
     }
 
     // eslint-disable-next-line sort-keys-fix/sort-keys-fix
@@ -118,14 +119,6 @@ function toFix(value, nb = 2) {
   const digit = Math.pow(10, nb);
 
   return Math.round(value * digit) / digit;
-}
-
-function sortByOrdre(a, b) {
-  if (a.data.intOrdre === b.data.intOrdre) {
-    return parseInt(a.data.id.replace("w+", ""), 10) - parseInt(b.data.id.replace("w+", ""), 10);
-  }
-
-  return a.data.intOrdre - b.data.intOrdre;
 }
 
 async function main() {
