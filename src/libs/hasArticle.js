@@ -7,6 +7,8 @@ const getArticles = require("./getArticles");
 const INDEXED_ARTICLES = getArticles();
 
 /**
+ * Check if an article is available.
+ *
  * @param {string} articleIdOrCid
  *
  * @returns {boolean}

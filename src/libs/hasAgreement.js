@@ -9,6 +9,8 @@ const isFile = require("../helpers/isFile");
 const INDEXED_AGREEMENTS = getAgreements();
 
 /**
+ * Check if an agreement is available.
+ *
  * @param {number | string} agreementIdOrIdcc
  *
  * @returns {boolean}

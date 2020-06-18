@@ -5,6 +5,8 @@ const INDEXED_ARTICLES =
   (require("../../data/articles/index.json"));
 
 /**
+ * Get the full list of indexed articles.
+ *
  * @returns {KaliData.IndexedArticle[]}
  */
 function getArticles() {
