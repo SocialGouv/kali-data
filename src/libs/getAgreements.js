@@ -5,6 +5,8 @@ const INDEXED_AGREEMENTS =
   (require("../../data/index.json"));
 
 /**
+ * Get the full list of indexed agreements.
+ *
  * @returns {KaliData.IndexedAgreement[]}
  */
 function getAgreements() {

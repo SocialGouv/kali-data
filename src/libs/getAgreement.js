@@ -6,6 +6,8 @@ const getAgreementIdFromIdOrIdcc = require("../helpers/getAgreementIdFromIdOrIdc
 const hasAgreement = require("./hasAgreement");
 
 /**
+ * Get a full agreement unist tree with its sections and articles.
+ *
  * @param {number | string} agreementIdOrIdcc
  *
  * @returns {KaliData.Agreement}
