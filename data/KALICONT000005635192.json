@@ -2210,9 +2210,9 @@
           "data": {
             "cid": "KALISCTA000005730887",
             "intOrdre": 2533991,
-            "title": "Indemnités de licenciement, de départ ou de mise à la retraite",
-            "id": "KALISCTA000027921752",
-            "etat": "VIGUEUR_NON_ETEN"
+            "title": "Indemnités de congédiement et de mise ou départ à la retraite",
+            "id": "KALISCTA000005730887",
+            "etat": "VIGUEUR_ETEN"
           },
           "children": [
             {
@@ -2259,9 +2259,9 @@
           "data": {
             "cid": "KALISCTA000005730887",
             "intOrdre": 2533991,
-            "title": "Indemnités de congédiement et de mise ou départ à la retraite",
-            "id": "KALISCTA000005730887",
-            "etat": "VIGUEUR_ETEN"
+            "title": "Indemnités de licenciement, de départ ou de mise à la retraite",
+            "id": "KALISCTA000027921752",
+            "etat": "VIGUEUR_NON_ETEN"
           },
           "children": [
             {
@@ -9668,70 +9668,6 @@
         {
           "type": "section",
           "data": {
-            "cid": "KALITEXT000033106330",
-            "title": "Avenant n° 37 du 27 avril 2016 relatif à la prime de panier de nuit au 1er avril 2016",
-            "id": "KALITEXT000033106330",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "2016-04-01"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000033106333",
-                "num": "1er",
-                "intOrdre": 524287,
-                "id": "KALIARTI000033106333",
-                "content": "<p align='left'><br/>Le montant de la prime de panier de nuit visée à l'article 37 des dispositions générales des conventions collectives OETAM est fixé à 5,29 € à compter du 1er avril 2016.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Prime de panier de nuit",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000033141094",
-                    "textTitle": "Arrêté du 16 septembre 2016 - art. 4, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "4",
-                    "articleId": "JORFARTI000033141108",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2016-09-24",
-                    "dateSignaTexte": "2016-09-16",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000033106334",
-                "num": "2",
-                "intOrdre": 1048574,
-                "id": "KALIARTI000033106334",
-                "content": "<p align='left'><br/>La base de calcul de l'avantage pécuniaire de nuit visé à l'article 13 de l'annexe catégorielle « Ouvriers », à l'article 11 de l'annexe catégorielle « Employés » et à l'article 16 de l'annexe catégorielle « Techniciens et agents de maîtrise » est fixée à 638 € à compter du 1er avril 2016.<br/>Le présent avenant obéit aux mêmes conditions de publicité et d'extension que les conventions collectives.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Avantage pécuniaire de nuit",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000033141094",
-                    "textTitle": "Arrêté du 16 septembre 2016 - art. 4, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "4",
-                    "articleId": "JORFARTI000033141108",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2016-09-24",
-                    "dateSignaTexte": "2016-09-16",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
             "cid": "KALITEXT000033106310",
             "title": "Avenant n° 8 du 27 avril 2016 à l'accord professionnel du 22 novembre 2006, relatif aux salaires au 1er avril 2016",
             "id": "KALITEXT000033106310",
@@ -9861,6 +9797,70 @@
                     "linkOrientation": "cible",
                     "articleNum": "1",
                     "articleId": "JORFARTI000033141130",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2016-09-24",
+                    "dateSignaTexte": "2016-09-16",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000033106330",
+            "title": "Avenant n° 37 du 27 avril 2016 relatif à la prime de panier de nuit au 1er avril 2016",
+            "id": "KALITEXT000033106330",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2016-04-01"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000033106333",
+                "num": "1er",
+                "intOrdre": 524287,
+                "id": "KALIARTI000033106333",
+                "content": "<p align='left'><br/>Le montant de la prime de panier de nuit visée à l'article 37 des dispositions générales des conventions collectives OETAM est fixé à 5,29 € à compter du 1er avril 2016.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Prime de panier de nuit",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000033141094",
+                    "textTitle": "Arrêté du 16 septembre 2016 - art. 4, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "4",
+                    "articleId": "JORFARTI000033141108",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2016-09-24",
+                    "dateSignaTexte": "2016-09-16",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000033106334",
+                "num": "2",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000033106334",
+                "content": "<p align='left'><br/>La base de calcul de l'avantage pécuniaire de nuit visé à l'article 13 de l'annexe catégorielle « Ouvriers », à l'article 11 de l'annexe catégorielle « Employés » et à l'article 16 de l'annexe catégorielle « Techniciens et agents de maîtrise » est fixée à 638 € à compter du 1er avril 2016.<br/>Le présent avenant obéit aux mêmes conditions de publicité et d'extension que les conventions collectives.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Avantage pécuniaire de nuit",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000033141094",
+                    "textTitle": "Arrêté du 16 septembre 2016 - art. 4, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "4",
+                    "articleId": "JORFARTI000033141108",
                     "natureText": "ARRETE",
                     "datePubliTexte": "2016-09-24",
                     "dateSignaTexte": "2016-09-16",

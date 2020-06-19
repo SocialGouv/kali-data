@@ -1269,9 +1269,9 @@
           "data": {
             "cid": "KALISCTA000005694858",
             "intOrdre": 1331419,
-            "title": "Maladie et accidents  ",
-            "id": "KALISCTA000024986870",
-            "etat": "VIGUEUR_NON_ETEN"
+            "title": "Maladie et accidents \"non professionnels\".",
+            "id": "KALISCTA000005694858",
+            "etat": "VIGUEUR_ETEN"
           },
           "children": [
             {
@@ -1318,9 +1318,9 @@
           "data": {
             "cid": "KALISCTA000005694858",
             "intOrdre": 1331419,
-            "title": "Maladie et accidents \"non professionnels\".",
-            "id": "KALISCTA000005694858",
-            "etat": "VIGUEUR_ETEN"
+            "title": "Maladie et accidents  ",
+            "id": "KALISCTA000024986870",
+            "etat": "VIGUEUR_NON_ETEN"
           },
           "children": [
             {
@@ -6176,6 +6176,78 @@
         {
           "type": "section",
           "data": {
+            "cid": "KALITEXT000037767986",
+            "title": "Avenant du 21 juin 2018 relatif à la revalorisation des salaires pour 2018",
+            "id": "KALITEXT000037767986",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2018-07-10"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000037767989",
+                "intOrdre": 524287,
+                "id": "KALIARTI000037767989",
+                "content": "<p align='center'>1. Objet de l'avenant</p><p align='left'>Le présent avenant fait suite à l'<a href='/affichTexteArticle.do?cidTexte=JORFTEXT000035607311&idArticle=JORFARTI000035607330&categorieLien=cid'>ordonnance n° 2017-1385 du 22 septembre 2017, art. 2</a>, qui dispose que, pour être étendu, un accord doit comporter, pour les entreprises de moins de 50 salariés, des stipulations spécifiques mentionnées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid'>article L. 2232-10-1 du code du travail</a>.</p><p align='center'>2. Modification de l'accord</p><p align='left'>Les parties signataires considèrent que le contenu du présent accord est adapté aux entreprises de moins de 50 salariés. Elles rappellent à ce titre que la branche de la désinfection, désinsectisation et dératisation comprend très majoritairement des entreprises de moins de 50 salariés. En effet, selon le dernier panorama de branche réalisé en 2017, les entreprises qui emploient en 2016 entre 1 et 49 salariés représentent 99 % des entreprises de la branche. Les dispositions du présent accord tiennent par conséquent déjà compte des spécificités desdites entreprises.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000038155546",
+                    "textTitle": "Arrêté du 13 février 2019 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000038155550",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2019-02-22",
+                    "dateSignaTexte": "2019-02-13",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000037940024",
+            "title": "Avenant du 21 juin 2018 à l'accord du 20 décembre 2017 relatif à la mise en place de la CPPNI",
+            "id": "KALITEXT000037940024",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2018-07-10"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000037940027",
+                "intOrdre": 524287,
+                "id": "KALIARTI000037940027",
+                "content": "<p align='center'><br/>1. Objet de l'avenant</p><p align='left'><br/>Le présent avenant fait suite à l'<a href='/affichTexteArticle.do?cidTexte=JORFTEXT000035607311&idArticle=JORFARTI000035607330&categorieLien=cid'>ordonnance n° 2017-1385 du 22 septembre 2017, article 2</a>, qui dispose que pour être étendu, un accord doit comporter, pour les entreprises de moins de 50 salariés, des stipulations spécifiques mentionnées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid'>article L. 2232-10-1 du code du travail</a>.</p><p align='center'><br/>2. Modification de l'accord</p><p align='left'><br/>Les parties signataires considèrent que le contenu du présent accord est adapté aux entreprises de moins de 50 salariés. Elles rappellent à ce titre que la branche de la désinfection, désinsectisation et dératisation comprend très majoritairement des entreprises de moins de 50 salariés. En effet, selon le dernier panorama de branche réalisé en 2017, les entreprises qui emploient en 2016 entre 1 et 49 salariés représentent 99 % des entreprises de la branche. Les dispositions du présent accord tiennent par conséquent déjà compte des spécificités desdites entreprises.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000037790235",
+                    "textTitle": "Arrêté du 4 décembre 2018 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000037790239",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2018-12-11",
+                    "dateSignaTexte": "2018-12-04",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
             "cid": "KALITEXT000038115847",
             "title": "Avenant du 20 décembre 2017 relatif à l'égalité professionnelle entre les hommes et les femmes",
             "id": "KALITEXT000038115847",
@@ -6630,78 +6702,6 @@
                   }
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALITEXT000037767986",
-            "title": "Avenant du 21 juin 2018 relatif à la revalorisation des salaires pour 2018",
-            "id": "KALITEXT000037767986",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "2018-07-10"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000037767989",
-                "intOrdre": 524287,
-                "id": "KALIARTI000037767989",
-                "content": "<p align='center'>1. Objet de l'avenant</p><p align='left'>Le présent avenant fait suite à l'<a href='/affichTexteArticle.do?cidTexte=JORFTEXT000035607311&idArticle=JORFARTI000035607330&categorieLien=cid'>ordonnance n° 2017-1385 du 22 septembre 2017, art. 2</a>, qui dispose que, pour être étendu, un accord doit comporter, pour les entreprises de moins de 50 salariés, des stipulations spécifiques mentionnées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid'>article L. 2232-10-1 du code du travail</a>.</p><p align='center'>2. Modification de l'accord</p><p align='left'>Les parties signataires considèrent que le contenu du présent accord est adapté aux entreprises de moins de 50 salariés. Elles rappellent à ce titre que la branche de la désinfection, désinsectisation et dératisation comprend très majoritairement des entreprises de moins de 50 salariés. En effet, selon le dernier panorama de branche réalisé en 2017, les entreprises qui emploient en 2016 entre 1 et 49 salariés représentent 99 % des entreprises de la branche. Les dispositions du présent accord tiennent par conséquent déjà compte des spécificités desdites entreprises.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000038155546",
-                    "textTitle": "Arrêté du 13 février 2019 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000038155550",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2019-02-22",
-                    "dateSignaTexte": "2019-02-13",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALITEXT000037940024",
-            "title": "Avenant du 21 juin 2018 à l'accord du 20 décembre 2017 relatif à la mise en place de la CPPNI",
-            "id": "KALITEXT000037940024",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "2018-07-10"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000037940027",
-                "intOrdre": 524287,
-                "id": "KALIARTI000037940027",
-                "content": "<p align='center'><br/>1. Objet de l'avenant</p><p align='left'><br/>Le présent avenant fait suite à l'<a href='/affichTexteArticle.do?cidTexte=JORFTEXT000035607311&idArticle=JORFARTI000035607330&categorieLien=cid'>ordonnance n° 2017-1385 du 22 septembre 2017, article 2</a>, qui dispose que pour être étendu, un accord doit comporter, pour les entreprises de moins de 50 salariés, des stipulations spécifiques mentionnées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid'>article L. 2232-10-1 du code du travail</a>.</p><p align='center'><br/>2. Modification de l'accord</p><p align='left'><br/>Les parties signataires considèrent que le contenu du présent accord est adapté aux entreprises de moins de 50 salariés. Elles rappellent à ce titre que la branche de la désinfection, désinsectisation et dératisation comprend très majoritairement des entreprises de moins de 50 salariés. En effet, selon le dernier panorama de branche réalisé en 2017, les entreprises qui emploient en 2016 entre 1 et 49 salariés représentent 99 % des entreprises de la branche. Les dispositions du présent accord tiennent par conséquent déjà compte des spécificités desdites entreprises.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000037790235",
-                    "textTitle": "Arrêté du 4 décembre 2018 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000037790239",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2018-12-11",
-                    "dateSignaTexte": "2018-12-04",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
             }
           ]
         },

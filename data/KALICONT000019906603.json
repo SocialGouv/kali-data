@@ -2162,9 +2162,9 @@
           "data": {
             "cid": "KALISCTA000019906620",
             "intOrdre": 5767157,
-            "title": "Titre X : Durée, révision, commission paritaire permanente de négociation et d'interprétation",
-            "id": "KALISCTA000038171695",
-            "etat": "VIGUEUR_ETEN"
+            "title": "Titre X : Durée, révision, commission d'interprétation, de conciliation et de suivi",
+            "id": "KALISCTA000019906620",
+            "etat": "REMPLACE"
           },
           "children": [
             {
@@ -2497,9 +2497,9 @@
           "data": {
             "cid": "KALISCTA000019906620",
             "intOrdre": 5767157,
-            "title": "Titre X : Durée, révision, commission d'interprétation, de conciliation et de suivi",
-            "id": "KALISCTA000019906620",
-            "etat": "REMPLACE"
+            "title": "Titre X : Durée, révision, commission paritaire permanente de négociation et d'interprétation",
+            "id": "KALISCTA000038171695",
+            "etat": "VIGUEUR_ETEN"
           },
           "children": [
             {
@@ -5293,6 +5293,118 @@
         {
           "type": "section",
           "data": {
+            "cid": "KALITEXT000027666904",
+            "title": "Avenant n° 1 du 11 mars 2013 relatif au remboursement des frais de santé",
+            "id": "KALITEXT000027666904",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2012-01-01"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000027666907",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000027666907",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000027666912",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000027666912",
+                    "content": "<p align='left'><br/>Le comité paritaire de gestion mentionné à l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000023589755&idArticle=KALIARTI000023589771&categorieLien=cid'>article 6 de l'accord collectif du 25 octobre 2010</a> instituant un régime complémentaire de remboursement de frais de santé au sein de la branche des entreprises techniques au service de la création et de l'événement a examiné les conditions d'application du régime de frais de santé entré en vigueur après extension de l'accord, le 1er octobre 2011.<br/>Depuis la conclusion de cet accord, plusieurs évolutions législatives ayant notamment des incidences sur le tarif des dispositifs de frais de santé sont intervenues.<br/>Ainsi, l'<a href='/affichTexteArticle.do?cidTexte=JORFTEXT000024574328&idArticle=JORFARTI000024574382&categorieLien=cid'>article 9 de la loi n° 2011-1117 du 19 septembre 2011</a> de finances rectificative pour 2011 a majoré le taux de la taxe sur les conventions d'assurance applicable aux contrats d'assurance maladie « solidaires et responsables » de 3,5 % à 7 %.<br/>Afin de prendre en compte les incidences de cette mesure sur le coût des couvertures concernées, les parties signataires se sont réunies et ont constaté la nécessaire augmentation des cotisations versées au titre du financement des garanties de frais de santé.<br/>Parallèlement, les parties signataires ont décidé d'adopter, pour les salariés relevant du régime local d'assurance maladie applicable dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle (dit « Alsace-Moselle »), des conditions de cotisation adaptées.<br/>Pour ce faire, les parties signataires ont décidé de réviser les termes de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000023589755&categorieLien=cid'>accord du 25 octobre 2010 précité</a> de la manière suivante :</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000028348053",
+                        "textTitle": "Arrêté du 13 décembre 2013 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000028348057",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2013-12-20",
+                        "dateSignaTexte": "2013-12-13",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000027666908",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000027666908",
+                "content": "<p align='left'><br/>Le présent article a pour objet de modifier les deux premiers alinéas de l'article 4 de l'accord susvisé. <br/>En conséquence, ces deux alinéas sont remplacés par le texte suivant : <br/>« 1. Les cotisations servant au financement du présent régime s'élèvent à un montant de 1,15 % du plafond de la sécurité sociale au titre de la couverture du seul salarié. <br/>Cette cotisation étant assujettie à diverses taxes, elle se répartie de la façon suivante : </p><p align='left'><br/>– 1,02 % au titre de la cotisation d'assurance + 0,13 % de taxes. <br/>2. Pour les salariés relevant du régime local de sécurité sociale de l'Alsace-Moselle, le montant des cotisations est fixé à 0,69 % du plafond de la sécurité sociale au titre de la couverture du seul salarié. <br/>Cette cotisation étant assujettie à diverses taxes, elle se répartie de la façon suivante : 0,61 % au titre de la cotisation d'assurance + 0,08 % de taxes. » <br/>Les autres dispositions de l'accord du 25 octobre 2010 restent inchangées.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Cotisations",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000023589755",
+                    "textTitle": "Prévoyance - art. 4 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "4",
+                    "articleId": "KALIARTI000027726247",
+                    "natureText": "Accord",
+                    "datePubliTexte": "2011-02-16",
+                    "dateSignaTexte": "2010-10-25",
+                    "dateDebutCible": "2013-03-11"
+                  },
+                  {
+                    "textCid": "JORFTEXT000028348053",
+                    "textTitle": "Arrêté du 13 décembre 2013 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000028348057",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2013-12-20",
+                    "dateSignaTexte": "2013-12-13",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000027666910",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000027666910",
+                "content": "<p align='left'><br/>Le présent avenant est conclu pour une durée indéterminée.<br/>Il entrera en vigueur le 1er janvier 2012.<br/>Le présent avenant sera déposé en deux exemplaires (une version sur support papier signée des parties et une version sur support électronique) auprès des services centraux du ministre chargé du travail, dans les conditions prévues aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>articles L. 2231-6 et D. 2231-2 et suivants du code du travail</a>. En outre, un exemplaire sera établi pour chaque partie.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Durée. – Date d'effet. – Dépôt",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000028348053",
+                    "textTitle": "Arrêté du 13 décembre 2013 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000028348057",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2013-12-20",
+                    "dateSignaTexte": "2013-12-13",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
             "cid": "KALITEXT000027715061",
             "title": "Accord du 5 février 2013 relatif aux salaires minimaux pour 2013-2014",
             "id": "KALITEXT000027715061",
@@ -5752,118 +5864,6 @@
                   }
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALITEXT000027666904",
-            "title": "Avenant n° 1 du 11 mars 2013 relatif au remboursement des frais de santé",
-            "id": "KALITEXT000027666904",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "2012-01-01"
-          },
-          "children": [
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000027666907",
-                "intOrdre": 524287,
-                "title": "Préambule",
-                "id": "KALISCTA000027666907",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000027666912",
-                    "intOrdre": 524287,
-                    "id": "KALIARTI000027666912",
-                    "content": "<p align='left'><br/>Le comité paritaire de gestion mentionné à l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000023589755&idArticle=KALIARTI000023589771&categorieLien=cid'>article 6 de l'accord collectif du 25 octobre 2010</a> instituant un régime complémentaire de remboursement de frais de santé au sein de la branche des entreprises techniques au service de la création et de l'événement a examiné les conditions d'application du régime de frais de santé entré en vigueur après extension de l'accord, le 1er octobre 2011.<br/>Depuis la conclusion de cet accord, plusieurs évolutions législatives ayant notamment des incidences sur le tarif des dispositifs de frais de santé sont intervenues.<br/>Ainsi, l'<a href='/affichTexteArticle.do?cidTexte=JORFTEXT000024574328&idArticle=JORFARTI000024574382&categorieLien=cid'>article 9 de la loi n° 2011-1117 du 19 septembre 2011</a> de finances rectificative pour 2011 a majoré le taux de la taxe sur les conventions d'assurance applicable aux contrats d'assurance maladie « solidaires et responsables » de 3,5 % à 7 %.<br/>Afin de prendre en compte les incidences de cette mesure sur le coût des couvertures concernées, les parties signataires se sont réunies et ont constaté la nécessaire augmentation des cotisations versées au titre du financement des garanties de frais de santé.<br/>Parallèlement, les parties signataires ont décidé d'adopter, pour les salariés relevant du régime local d'assurance maladie applicable dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle (dit « Alsace-Moselle »), des conditions de cotisation adaptées.<br/>Pour ce faire, les parties signataires ont décidé de réviser les termes de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000023589755&categorieLien=cid'>accord du 25 octobre 2010 précité</a> de la manière suivante :</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000028348053",
-                        "textTitle": "Arrêté du 13 décembre 2013 - art. 1, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "1",
-                        "articleId": "JORFARTI000028348057",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2013-12-20",
-                        "dateSignaTexte": "2013-12-13",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000027666908",
-                "num": "1er",
-                "intOrdre": 1048574,
-                "id": "KALIARTI000027666908",
-                "content": "<p align='left'><br/>Le présent article a pour objet de modifier les deux premiers alinéas de l'article 4 de l'accord susvisé. <br/>En conséquence, ces deux alinéas sont remplacés par le texte suivant : <br/>« 1. Les cotisations servant au financement du présent régime s'élèvent à un montant de 1,15 % du plafond de la sécurité sociale au titre de la couverture du seul salarié. <br/>Cette cotisation étant assujettie à diverses taxes, elle se répartie de la façon suivante : </p><p align='left'><br/>– 1,02 % au titre de la cotisation d'assurance + 0,13 % de taxes. <br/>2. Pour les salariés relevant du régime local de sécurité sociale de l'Alsace-Moselle, le montant des cotisations est fixé à 0,69 % du plafond de la sécurité sociale au titre de la couverture du seul salarié. <br/>Cette cotisation étant assujettie à diverses taxes, elle se répartie de la façon suivante : 0,61 % au titre de la cotisation d'assurance + 0,08 % de taxes. » <br/>Les autres dispositions de l'accord du 25 octobre 2010 restent inchangées.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Cotisations",
-                "lstLienModification": [
-                  {
-                    "textCid": "KALITEXT000023589755",
-                    "textTitle": "Prévoyance - art. 4 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "source",
-                    "articleNum": "4",
-                    "articleId": "KALIARTI000027726247",
-                    "natureText": "Accord",
-                    "datePubliTexte": "2011-02-16",
-                    "dateSignaTexte": "2010-10-25",
-                    "dateDebutCible": "2013-03-11"
-                  },
-                  {
-                    "textCid": "JORFTEXT000028348053",
-                    "textTitle": "Arrêté du 13 décembre 2013 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000028348057",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2013-12-20",
-                    "dateSignaTexte": "2013-12-13",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000027666910",
-                "num": "2",
-                "intOrdre": 1572861,
-                "id": "KALIARTI000027666910",
-                "content": "<p align='left'><br/>Le présent avenant est conclu pour une durée indéterminée.<br/>Il entrera en vigueur le 1er janvier 2012.<br/>Le présent avenant sera déposé en deux exemplaires (une version sur support papier signée des parties et une version sur support électronique) auprès des services centraux du ministre chargé du travail, dans les conditions prévues aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>articles L. 2231-6 et D. 2231-2 et suivants du code du travail</a>. En outre, un exemplaire sera établi pour chaque partie.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Durée. – Date d'effet. – Dépôt",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000028348053",
-                    "textTitle": "Arrêté du 13 décembre 2013 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000028348057",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2013-12-20",
-                    "dateSignaTexte": "2013-12-13",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
             }
           ]
         },
@@ -8503,6 +8503,288 @@
         {
           "type": "section",
           "data": {
+            "cid": "KALITEXT000039288576",
+            "title": "Accord du 31 juillet 2019 relatif au degré élevé de solidarité mutualisé pour les entreprises de la branche ETSCE",
+            "id": "KALITEXT000039288576",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2020-01-01"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000039288579",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000039288579",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000039288593",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000039288593",
+                    "content": "<p align='left'>Les organisations représentatives d'employeurs et de salariés appartenant à la branche des entreprises techniques au service de la création et de l'événement se sont réunies afin d'instituer des prestations sociales nécessitant la prise en compte d'éléments relatifs à la situation des salariés sans lien direct avec le contrat de travail. Ces prestations ont vocation à instituer un degré élevé de solidarité dans la branche.</p><p align='left'>Afin d'assurer un maximum d'efficacité à cette action, les partenaires sociaux conviennent qu'il est nécessaire de l'organiser à la plus grande échelle possible. Pour y parvenir, ils décident donc de recourir à une gestion et un financement mutualisés en créant un fonds de solidarité, tels qu'autorisés par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745472&dateTexte=&categorieLien=cid'>article L. 912-1, IV du code de la sécurité sociale</a>.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000041759728",
+                        "textTitle": "Arrêté du 19 mars 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000041759731",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2020-03-27",
+                        "dateSignaTexte": "2020-03-19",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000039288580",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000039288580",
+                "content": "<p align='left'>Le présent accord organise la mise en place d'un degré élevé de solidarité au sein des entreprises techniques au service de la création et de l'événement.</p><p align='left'>Le champ du présent accord est celui de la convention collective nationale des entreprises techniques au service de la création et de l'événement du 21 février 2008.</p><p align='left'>Les bénéficiaires de l'action sociale sont ceux retenus par l'accord de prévoyance modifié de la branche et celui relatif aux frais de santé.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Champ d'application et bénéficiaires",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000041759728",
+                    "textTitle": "Arrêté du 19 mars 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000041759731",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-03-27",
+                    "dateSignaTexte": "2020-03-19",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000039288581",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000039288581",
+                "content": "<p align='left'><br/>Le comité de suivi du fonds de solidarité est celui institué à l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000019732158&idArticle=KALIARTI000019732174&categorieLien=cid'>article 7</a> de l'accord collectif instituant le régime de prévoyance du 31 juillet 2008.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Comité de suivi",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000041759728",
+                    "textTitle": "Arrêté du 19 mars 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000041759731",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-03-27",
+                    "dateSignaTexte": "2020-03-19",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000039288582",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000039288582",
+                "content": "<p align='left'>L'action sociale et les actions de prévention de la branche peuvent prendre les formes suivantes :</p><p align='left'>a) la solidarité intergénérationnelle avec le paiement d'une partie de la cotisation santé des salariés retraités.</p><p align='left'>Cette prise en charge sera effectuée indépendamment de l'organisme assureur retenu par le salarié ;</p><p align='left'>b) les salariés RQTH (reconnaissance de la qualité de travailleur handicapé) dont une partie de la cotisation prévoyance et santé pourra être prise en charge par le régime.</p><p align='left'>Cette prise en charge sera effectuée indépendamment de l'organisme assureur retenu par l'entreprise ;</p><p align='left'>c) la réalisation de bilans de santé.</p><p align='left'>Le comité de suivi du fonds de solidarité décidera annuellement des axes prioritaires et des niveaux de prise en charge par le fonds.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Prestations",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000041759728",
+                    "textTitle": "Arrêté du 19 mars 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000041759731",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-03-27",
+                    "dateSignaTexte": "2020-03-19",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000039288583",
+                "num": "4",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000039288583",
+                "content": "<p align='left'>Les prestations ainsi instituées sont financées dans le cadre de l'article R. 912-3 qui renvoie au <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000029900365&dateTexte=&categorieLien=cid'>R. 912-1 du code de la sécurité sociale</a> par une somme égale à 2 % des cotisations nettes de taxes perçues au titre des garanties prévoyance et frais de santé (base + options + renforts individuels) de la branche.</p><p align='left'>Les entreprises relevant du présent accord sont tenues de verser ces sommes à l'organisme assureur auprès duquel sont garantis les régimes de frais de santé et/ ou de prévoyance de leurs salariés. Cet organisme assureur sera ensuite chargé de les reverser de façon globale à l'organisme gestionnaire visé à l'article 5 ci-après sans mentionner le (ou les) nom(s) des entreprise(s).</p><p align='left'>Le versement des 2 % au gestionnaire par les organismes assureurs devra avoir lieu 2 mois, au plus, après l'approbation des comptes et, au plus tard, le 31 août suivant la clôture de l'exercice considéré.</p><p align='left'>Les entreprises, responsables de l'effectivité de ce reversement par leur organisme assureur doivent :<br/>\n– informer leur organisme assureur du présent accord lors de la souscription des garanties prévoyance et frais de santé (base + options + renforts individuels) ;<br/>\n– obtenir de leur organisme assureur une attestation certifiant le reversement effectif des sommes à l'organisme gestionnaire mentionné ci-dessous.</p><p align='left'>Lors de la demande du bénéfice des prestations, cette attestation devra être présentée au tiers de confiance visé à l'article 6 ci-après afin de contrôler le respect de leurs obligations par les entreprises soumises au présent accord.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Financement de ces actions",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000041759728",
+                    "textTitle": "Arrêté du 19 mars 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000041759731",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-03-27",
+                    "dateSignaTexte": "2020-03-19",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000039288585",
+                "num": "5",
+                "intOrdre": 3145722,
+                "id": "KALIARTI000039288585",
+                "content": "<p align='left'>Il est créé un fonds de solidarité, chargé de percevoir les sommes définies à l'article 4 ci-dessus et de les utiliser pour financer les prestations d'action sociale et de prévention précisées par le règlement intérieur du comité de suivi.</p><p align='left'>La gestion de ce fonds est confiée à un organisme gestionnaire pour le compte du comité de suivi : l'institution de prévoyance Audiens santé prévoyance.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Création d'un fonds de solidarité",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000041759728",
+                    "textTitle": "Arrêté du 19 mars 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000041759731",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-03-27",
+                    "dateSignaTexte": "2020-03-19",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000039288586",
+                "num": "6",
+                "intOrdre": 3670009,
+                "id": "KALIARTI000039288586",
+                "content": "<p align='left'>Le fonds de solidarité est géré par l'organisme gestionnaire désigné à l'article 5 conformément aux directives du comité de suivi.</p><p align='left'>Les actifs de ce fonds sont l'objet d'une gestion distincte des autres actifs du gestionnaire. L'organisme gestionnaire établit, chaque année, un compte de résultat du fonds de solidarité présenté au comité de suivi.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Fonctionnement du fonds de solidarité",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000041759728",
+                    "textTitle": "Arrêté du 19 mars 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000041759731",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-03-27",
+                    "dateSignaTexte": "2020-03-19",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000039288587",
+                "num": "7",
+                "intOrdre": 4194296,
+                "id": "KALIARTI000039288587",
+                "content": "<p align='left'>Le comité de suivi mandate un tiers de confiance indépendant pour faciliter le processus de collecte, valider les sommes versées conformément à l'article 4 ci-dessus et permettre la confidentialité des informations transmises par chaque organisme assureur.</p><p align='left'>Le tiers de confiance a mandat pour :</p><p align='left'>1. Informer les organismes assureurs sur la base d'une liste validée par le comité de suivi du présent accord ;</p><p align='left'>2. Rappeler aux organismes assureurs l'obligation du versement annuel des sommes définies à l'article 4 ci-dessus ;</p><p align='left'>3. Demander à chaque organisme assureur de compléter le fichier permettant de maintenir à jour la liste des entreprises ayant acquitté leur cotisation. Les informations demandées aux organismes assureurs ne comprendront aucunes données à caractère personnel sur les salariés des entreprises de la branche. En outre, la liste communiquée au comité de suivi ne mentionnera pas les organismes assureurs retenus par les différentes entreprises de la branche ;</p><p align='left'>4. Organiser le suivi du processus ;</p><p align='left'>5. Collecter les attestations non nominatives auprès des entreprises ;</p><p align='left'>6. Remettre un bilan annuel au comité de suivi.</p><p align='left'>Le tiers de confiance désigné par le comité de suivi est le cabinet AOPS conseil.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Rôle et mission du tiers de confiance",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000041759728",
+                    "textTitle": "Arrêté du 19 mars 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000041759731",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-03-27",
+                    "dateSignaTexte": "2020-03-19",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000039288588",
+                "num": "8",
+                "intOrdre": 4718583,
+                "id": "KALIARTI000039288588",
+                "content": "<p align='center'>8.1. Critères de choix</p><p align='left'>Un appel d'offres a été réalisé en vue de déterminer l'organisme gestionnaire pour une durée de 3 années. Il est prévu un suivi périodique deux fois par an et un bilan au terme des 3 années.</p><p align='center'>8.2. Transférabilité</p><p align='left'>Les partenaires sociaux ont effectué le choix de l'organisme gestionnaire après avoir validé que les sommes non utilisées resteraient à disposition de la branche et seraient transférables à la demande de celle-ci.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Modalité de choix de l'organisme gestionnaire chargé de gérer le fonds de solidarité",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000041759728",
+                    "textTitle": "Arrêté du 19 mars 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000041759731",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-03-27",
+                    "dateSignaTexte": "2020-03-19",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000039288589",
+                "num": "9",
+                "intOrdre": 5242870,
+                "id": "KALIARTI000039288589",
+                "content": "<p align='left'>9.1. Le présent accord est conclu pour une durée indéterminée. Il entre en vigueur au 1er janvier 2020.</p><p align='left'>9.2. Les partenaires sociaux s'engagent à se réunir deux fois par an pour suivre le dispositif et à se réunir au moins une fois tous les 3 ans pour assurer un suivi du présent accord et mettre à jour le règlement intérieur du comité de suivi.</p><p align='left'>9.3. Le présent accord pourra être révisé selon les règles prévues aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901667&dateTexte=&categorieLien=cid'>L. 2222-5</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid'>L. 2261-7</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901786&dateTexte=&categorieLien=cid'>L. 2261-8</a> du code du travail, et dénoncé selon les règles prévues aux articles L. 2222-6, L. 2261-9 et suivants du même code.</p><p align='left'>9.4. Compte tenu de l'objectif de mutualisation recherché par le présent accord, il s'applique quel que soit l'effectif de l'entreprise entrant dans son champ d'application, sans qu'il n'y ait lieu de prévoir de modalités particulières pour les entreprises de moins de 50 salariés.</p><p align='left'>9.5. Le présent accord collectif sera déposé auprès de l'administration conformément aux dispositions légales en vigueur et fera l'objet d'une demande d'extension.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Dispositions finales",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000041759728",
+                    "textTitle": "Arrêté du 19 mars 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000041759731",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-03-27",
+                    "dateSignaTexte": "2020-03-19",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
             "cid": "KALITEXT000039399672",
             "title": "Accord du 12 juin 2019 relatif à l'épargne salariale pour les entreprises de la branche ETSCE",
             "id": "KALITEXT000039399672",
@@ -9247,288 +9529,6 @@
                   }
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALITEXT000039288576",
-            "title": "Accord du 31 juillet 2019 relatif au degré élevé de solidarité mutualisé pour les entreprises de la branche ETSCE",
-            "id": "KALITEXT000039288576",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "2020-01-01"
-          },
-          "children": [
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000039288579",
-                "intOrdre": 524287,
-                "title": "Préambule",
-                "id": "KALISCTA000039288579",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000039288593",
-                    "intOrdre": 524287,
-                    "id": "KALIARTI000039288593",
-                    "content": "<p align='left'>Les organisations représentatives d'employeurs et de salariés appartenant à la branche des entreprises techniques au service de la création et de l'événement se sont réunies afin d'instituer des prestations sociales nécessitant la prise en compte d'éléments relatifs à la situation des salariés sans lien direct avec le contrat de travail. Ces prestations ont vocation à instituer un degré élevé de solidarité dans la branche.</p><p align='left'>Afin d'assurer un maximum d'efficacité à cette action, les partenaires sociaux conviennent qu'il est nécessaire de l'organiser à la plus grande échelle possible. Pour y parvenir, ils décident donc de recourir à une gestion et un financement mutualisés en créant un fonds de solidarité, tels qu'autorisés par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745472&dateTexte=&categorieLien=cid'>article L. 912-1, IV du code de la sécurité sociale</a>.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000041759728",
-                        "textTitle": "Arrêté du 19 mars 2020 - art. 1, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "1",
-                        "articleId": "JORFARTI000041759731",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2020-03-27",
-                        "dateSignaTexte": "2020-03-19",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000039288580",
-                "num": "1er",
-                "intOrdre": 1048574,
-                "id": "KALIARTI000039288580",
-                "content": "<p align='left'>Le présent accord organise la mise en place d'un degré élevé de solidarité au sein des entreprises techniques au service de la création et de l'événement.</p><p align='left'>Le champ du présent accord est celui de la convention collective nationale des entreprises techniques au service de la création et de l'événement du 21 février 2008.</p><p align='left'>Les bénéficiaires de l'action sociale sont ceux retenus par l'accord de prévoyance modifié de la branche et celui relatif aux frais de santé.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Champ d'application et bénéficiaires",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000041759728",
-                    "textTitle": "Arrêté du 19 mars 2020 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000041759731",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2020-03-27",
-                    "dateSignaTexte": "2020-03-19",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000039288581",
-                "num": "2",
-                "intOrdre": 1572861,
-                "id": "KALIARTI000039288581",
-                "content": "<p align='left'><br/>Le comité de suivi du fonds de solidarité est celui institué à l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000019732158&idArticle=KALIARTI000019732174&categorieLien=cid'>article 7</a> de l'accord collectif instituant le régime de prévoyance du 31 juillet 2008.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Comité de suivi",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000041759728",
-                    "textTitle": "Arrêté du 19 mars 2020 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000041759731",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2020-03-27",
-                    "dateSignaTexte": "2020-03-19",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000039288582",
-                "num": "3",
-                "intOrdre": 2097148,
-                "id": "KALIARTI000039288582",
-                "content": "<p align='left'>L'action sociale et les actions de prévention de la branche peuvent prendre les formes suivantes :</p><p align='left'>a) la solidarité intergénérationnelle avec le paiement d'une partie de la cotisation santé des salariés retraités.</p><p align='left'>Cette prise en charge sera effectuée indépendamment de l'organisme assureur retenu par le salarié ;</p><p align='left'>b) les salariés RQTH (reconnaissance de la qualité de travailleur handicapé) dont une partie de la cotisation prévoyance et santé pourra être prise en charge par le régime.</p><p align='left'>Cette prise en charge sera effectuée indépendamment de l'organisme assureur retenu par l'entreprise ;</p><p align='left'>c) la réalisation de bilans de santé.</p><p align='left'>Le comité de suivi du fonds de solidarité décidera annuellement des axes prioritaires et des niveaux de prise en charge par le fonds.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Prestations",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000041759728",
-                    "textTitle": "Arrêté du 19 mars 2020 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000041759731",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2020-03-27",
-                    "dateSignaTexte": "2020-03-19",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000039288583",
-                "num": "4",
-                "intOrdre": 2621435,
-                "id": "KALIARTI000039288583",
-                "content": "<p align='left'>Les prestations ainsi instituées sont financées dans le cadre de l'article R. 912-3 qui renvoie au <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000029900365&dateTexte=&categorieLien=cid'>R. 912-1 du code de la sécurité sociale</a> par une somme égale à 2 % des cotisations nettes de taxes perçues au titre des garanties prévoyance et frais de santé (base + options + renforts individuels) de la branche.</p><p align='left'>Les entreprises relevant du présent accord sont tenues de verser ces sommes à l'organisme assureur auprès duquel sont garantis les régimes de frais de santé et/ ou de prévoyance de leurs salariés. Cet organisme assureur sera ensuite chargé de les reverser de façon globale à l'organisme gestionnaire visé à l'article 5 ci-après sans mentionner le (ou les) nom(s) des entreprise(s).</p><p align='left'>Le versement des 2 % au gestionnaire par les organismes assureurs devra avoir lieu 2 mois, au plus, après l'approbation des comptes et, au plus tard, le 31 août suivant la clôture de l'exercice considéré.</p><p align='left'>Les entreprises, responsables de l'effectivité de ce reversement par leur organisme assureur doivent :<br/>\n– informer leur organisme assureur du présent accord lors de la souscription des garanties prévoyance et frais de santé (base + options + renforts individuels) ;<br/>\n– obtenir de leur organisme assureur une attestation certifiant le reversement effectif des sommes à l'organisme gestionnaire mentionné ci-dessous.</p><p align='left'>Lors de la demande du bénéfice des prestations, cette attestation devra être présentée au tiers de confiance visé à l'article 6 ci-après afin de contrôler le respect de leurs obligations par les entreprises soumises au présent accord.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Financement de ces actions",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000041759728",
-                    "textTitle": "Arrêté du 19 mars 2020 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000041759731",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2020-03-27",
-                    "dateSignaTexte": "2020-03-19",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000039288585",
-                "num": "5",
-                "intOrdre": 3145722,
-                "id": "KALIARTI000039288585",
-                "content": "<p align='left'>Il est créé un fonds de solidarité, chargé de percevoir les sommes définies à l'article 4 ci-dessus et de les utiliser pour financer les prestations d'action sociale et de prévention précisées par le règlement intérieur du comité de suivi.</p><p align='left'>La gestion de ce fonds est confiée à un organisme gestionnaire pour le compte du comité de suivi : l'institution de prévoyance Audiens santé prévoyance.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Création d'un fonds de solidarité",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000041759728",
-                    "textTitle": "Arrêté du 19 mars 2020 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000041759731",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2020-03-27",
-                    "dateSignaTexte": "2020-03-19",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000039288586",
-                "num": "6",
-                "intOrdre": 3670009,
-                "id": "KALIARTI000039288586",
-                "content": "<p align='left'>Le fonds de solidarité est géré par l'organisme gestionnaire désigné à l'article 5 conformément aux directives du comité de suivi.</p><p align='left'>Les actifs de ce fonds sont l'objet d'une gestion distincte des autres actifs du gestionnaire. L'organisme gestionnaire établit, chaque année, un compte de résultat du fonds de solidarité présenté au comité de suivi.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Fonctionnement du fonds de solidarité",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000041759728",
-                    "textTitle": "Arrêté du 19 mars 2020 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000041759731",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2020-03-27",
-                    "dateSignaTexte": "2020-03-19",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000039288587",
-                "num": "7",
-                "intOrdre": 4194296,
-                "id": "KALIARTI000039288587",
-                "content": "<p align='left'>Le comité de suivi mandate un tiers de confiance indépendant pour faciliter le processus de collecte, valider les sommes versées conformément à l'article 4 ci-dessus et permettre la confidentialité des informations transmises par chaque organisme assureur.</p><p align='left'>Le tiers de confiance a mandat pour :</p><p align='left'>1. Informer les organismes assureurs sur la base d'une liste validée par le comité de suivi du présent accord ;</p><p align='left'>2. Rappeler aux organismes assureurs l'obligation du versement annuel des sommes définies à l'article 4 ci-dessus ;</p><p align='left'>3. Demander à chaque organisme assureur de compléter le fichier permettant de maintenir à jour la liste des entreprises ayant acquitté leur cotisation. Les informations demandées aux organismes assureurs ne comprendront aucunes données à caractère personnel sur les salariés des entreprises de la branche. En outre, la liste communiquée au comité de suivi ne mentionnera pas les organismes assureurs retenus par les différentes entreprises de la branche ;</p><p align='left'>4. Organiser le suivi du processus ;</p><p align='left'>5. Collecter les attestations non nominatives auprès des entreprises ;</p><p align='left'>6. Remettre un bilan annuel au comité de suivi.</p><p align='left'>Le tiers de confiance désigné par le comité de suivi est le cabinet AOPS conseil.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Rôle et mission du tiers de confiance",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000041759728",
-                    "textTitle": "Arrêté du 19 mars 2020 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000041759731",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2020-03-27",
-                    "dateSignaTexte": "2020-03-19",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000039288588",
-                "num": "8",
-                "intOrdre": 4718583,
-                "id": "KALIARTI000039288588",
-                "content": "<p align='center'>8.1. Critères de choix</p><p align='left'>Un appel d'offres a été réalisé en vue de déterminer l'organisme gestionnaire pour une durée de 3 années. Il est prévu un suivi périodique deux fois par an et un bilan au terme des 3 années.</p><p align='center'>8.2. Transférabilité</p><p align='left'>Les partenaires sociaux ont effectué le choix de l'organisme gestionnaire après avoir validé que les sommes non utilisées resteraient à disposition de la branche et seraient transférables à la demande de celle-ci.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Modalité de choix de l'organisme gestionnaire chargé de gérer le fonds de solidarité",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000041759728",
-                    "textTitle": "Arrêté du 19 mars 2020 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000041759731",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2020-03-27",
-                    "dateSignaTexte": "2020-03-19",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000039288589",
-                "num": "9",
-                "intOrdre": 5242870,
-                "id": "KALIARTI000039288589",
-                "content": "<p align='left'>9.1. Le présent accord est conclu pour une durée indéterminée. Il entre en vigueur au 1er janvier 2020.</p><p align='left'>9.2. Les partenaires sociaux s'engagent à se réunir deux fois par an pour suivre le dispositif et à se réunir au moins une fois tous les 3 ans pour assurer un suivi du présent accord et mettre à jour le règlement intérieur du comité de suivi.</p><p align='left'>9.3. Le présent accord pourra être révisé selon les règles prévues aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901667&dateTexte=&categorieLien=cid'>L. 2222-5</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid'>L. 2261-7</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901786&dateTexte=&categorieLien=cid'>L. 2261-8</a> du code du travail, et dénoncé selon les règles prévues aux articles L. 2222-6, L. 2261-9 et suivants du même code.</p><p align='left'>9.4. Compte tenu de l'objectif de mutualisation recherché par le présent accord, il s'applique quel que soit l'effectif de l'entreprise entrant dans son champ d'application, sans qu'il n'y ait lieu de prévoir de modalités particulières pour les entreprises de moins de 50 salariés.</p><p align='left'>9.5. Le présent accord collectif sera déposé auprès de l'administration conformément aux dispositions légales en vigueur et fera l'objet d'une demande d'extension.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Dispositions finales",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000041759728",
-                    "textTitle": "Arrêté du 19 mars 2020 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000041759731",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2020-03-27",
-                    "dateSignaTexte": "2020-03-19",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
             }
           ]
         }

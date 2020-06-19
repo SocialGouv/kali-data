@@ -964,54 +964,6 @@
         {
           "type": "section",
           "data": {
-            "cid": "KALITEXT000035657642",
-            "title": "Accord du 6 juillet 1972 relatif aux œuvres sociales dans le BTP de la région Provence-Côte d'Azur",
-            "id": "KALITEXT000035657642",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "1973-01-01"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000035657649",
-                "intOrdre": 524287,
-                "id": "KALIARTI000035657649",
-                "content": "<p align='center'>Constat d'accord sur les œuvres sociales</p><p align='left'>Dans la région « Provence-Côte d'Azur » les œuvres sociales seront obligatoires à partir du 1er janvier 1973 dans le bâtiment et les travaux publics.</p><p align='left'>Cet accord est applicable à toutes les entreprises de la région et aux entreprises extérieures y travaillant, relevant des numéros INSEE 53 et 34.</p><p align='left'>Le taux de la cotisation est fixé à 0,10 % des salaires bruts versés à partir du 1er janvier 1975.</p><p align='left'>Une commission paritaire de travail sera désignée dans les meilleurs délais pour établir les statuts et déterminer les modalités d'application de cet accord.</p><p align='left'>Les membres du conseil d'administration, de composition paritaire, feront obligatoirement partie de la profession. Ce conseil comprendra des représentants des organisations syndicales salariales représentatives et des organisations syndicales patronales.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000036820186",
-                    "textTitle": "Arrêté du 13 avril 2018 - art. 1, v. init.",
-                    "linkType": "EXTENSION",
-                    "linkOrientation": "source",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000036820190",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2018-04-20",
-                    "dateSignaTexte": "2018-04-13",
-                    "dateDebutCible": "2999-01-01"
-                  },
-                  {
-                    "textCid": "JORFTEXT000037187161",
-                    "textTitle": "Arrêté du 29 juin 2018 - art. 1, v. init.",
-                    "linkType": "EXTENSION",
-                    "linkOrientation": "source",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000037187163",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2018-07-13",
-                    "dateSignaTexte": "2018-06-29",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
             "cid": "KALITEXT000017941954",
             "title": "Protocole d'accord du 13 juin 1973 relatif au fonds commun",
             "id": "KALITEXT000017941954",
@@ -2050,6 +2002,54 @@
                   }
                 }
               ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000035657642",
+            "title": "Accord du 6 juillet 1972 relatif aux œuvres sociales dans le BTP de la région Provence-Côte d'Azur",
+            "id": "KALITEXT000035657642",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "1973-01-01"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000035657649",
+                "intOrdre": 524287,
+                "id": "KALIARTI000035657649",
+                "content": "<p align='center'>Constat d'accord sur les œuvres sociales</p><p align='left'>Dans la région « Provence-Côte d'Azur » les œuvres sociales seront obligatoires à partir du 1er janvier 1973 dans le bâtiment et les travaux publics.</p><p align='left'>Cet accord est applicable à toutes les entreprises de la région et aux entreprises extérieures y travaillant, relevant des numéros INSEE 53 et 34.</p><p align='left'>Le taux de la cotisation est fixé à 0,10 % des salaires bruts versés à partir du 1er janvier 1975.</p><p align='left'>Une commission paritaire de travail sera désignée dans les meilleurs délais pour établir les statuts et déterminer les modalités d'application de cet accord.</p><p align='left'>Les membres du conseil d'administration, de composition paritaire, feront obligatoirement partie de la profession. Ce conseil comprendra des représentants des organisations syndicales salariales représentatives et des organisations syndicales patronales.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000036820186",
+                    "textTitle": "Arrêté du 13 avril 2018 - art. 1, v. init.",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000036820190",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2018-04-20",
+                    "dateSignaTexte": "2018-04-13",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000037187161",
+                    "textTitle": "Arrêté du 29 juin 2018 - art. 1, v. init.",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000037187163",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2018-07-13",
+                    "dateSignaTexte": "2018-06-29",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
             }
           ]
         },

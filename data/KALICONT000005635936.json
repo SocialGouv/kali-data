@@ -251,9 +251,9 @@
           "data": {
             "cid": "KALISCTA000005706157",
             "intOrdre": 128847,
-            "title": "Chapitre III : Commission d'interprétation et de conciliation",
-            "id": "KALISCTA000036576709",
-            "etat": "VIGUEUR_ETEN"
+            "title": "Chapitre III : Conciliation",
+            "id": "KALISCTA000005706157",
+            "etat": "REMPLACE"
           },
           "children": [
             {
@@ -301,9 +301,9 @@
           "data": {
             "cid": "KALISCTA000005706157",
             "intOrdre": 128847,
-            "title": "Chapitre III : Conciliation",
-            "id": "KALISCTA000005706157",
-            "etat": "REMPLACE"
+            "title": "Chapitre III : Commission d'interprétation et de conciliation",
+            "id": "KALISCTA000036576709",
+            "etat": "VIGUEUR_ETEN"
           },
           "children": [
             {
@@ -4332,6 +4332,78 @@
         {
           "type": "section",
           "data": {
+            "cid": "KALITEXT000005661597",
+            "title": "Avenant n° 4 du 24 janvier 2000 relatif à la constitution de la commission paritaire nationale de l'emploi ",
+            "id": "KALITEXT000005661597",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2000-01-24"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000005806095",
+                "intOrdre": 42949,
+                "id": "KALIARTI000005806095",
+                "content": "Article unique<p></p><p></p>   Le montant de la cotisation d'entreprise destinée au fonctionnement de la commission paritaire de l'emploi prévue au taux de 0,25 % de la masse salariale brute annuelle est porté à 0,50 % pour 2000, exceptionnellement.<p></p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "",
+                    "textTitle": "Avenant n° 4 2000-01-24 BO conventions collectives 2000-6 étendu par arrêté du 12 mai 2000 JORF 23 mai 2000",
+                    "linkType": "CREATION",
+                    "linkOrientation": "source",
+                    "articleNum": "",
+                    "articleId": "",
+                    "natureText": "",
+                    "datePubliTexte": null,
+                    "dateSignaTexte": null,
+                    "dateDebutCible": null
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000005661599",
+            "title": "Décision interprétative du 15 mai 2000 relative aux fonctions supplémentaires ",
+            "id": "KALITEXT000005661599",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2000-05-15"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000005806096",
+                "intOrdre": 42949,
+                "id": "KALIARTI000005806096",
+                "content": "Article unique<p></p><p></p>   Saisie en vue d'une interprétation par le centre équestre d'Istres, représenté par son président, et par plusieurs de ses salariés, représentés par la FGA-CFDT, la commission s'est exprimée comme suit :<p></p><p></p>   Exposé de la situation :<p></p><p></p>   Reconnaissance éventuelle par l'employeur de fonctions supplémentaires entraînant une majoration de salaire de 3 % pour des gardes assurant également une activité calèche et de soins aux chevaux.<p></p><p></p>   Les membres de la commission mixte proposent de rendre l'arbitrage suivant :<p></p><p></p>   Il convient de positionner le métier exercé au coefficient 106 \" cavalier soigneur \" avec, le cas échéant, une majoration pour fonction supplémentaire (exemple : meneur), les soins courants aux équidés faisant partie de l'emploi.<p></p><p></p>   La présente décision est entendue compte tenu des dispositions de l'article 58, dernier alinéa de la convention collective, et en particulier du respect de l'entretien annuel qui y est stipulé.<p></p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "",
+                    "textTitle": "Décision interprétative 2000-05-15 BO conventions collectives 2000-28 étendu par arrêté du 10 octobre 2000 JORF 18 octobre 2000",
+                    "linkType": "CREATION",
+                    "linkOrientation": "source",
+                    "articleNum": "",
+                    "articleId": "",
+                    "natureText": "",
+                    "datePubliTexte": null,
+                    "dateSignaTexte": null,
+                    "dateDebutCible": null
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
             "cid": "KALITEXT000005661617",
             "title": "Annexe II - Définition de l'emploi Avenant n° 64 du 23 avril 1998",
             "id": "KALITEXT000005661617",
@@ -4670,9 +4742,9 @@
               "data": {
                 "cid": "KALISCTA000005706210",
                 "intOrdre": 85898,
-                "title": "I. − Durée du travail. – Organisation – Rémunération",
-                "id": "KALISCTA000029557458",
-                "etat": "VIGUEUR_NON_ETEN"
+                "title": "I. - Durée du travail et organisation et rémunération",
+                "id": "KALISCTA000005706210",
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -4947,9 +5019,9 @@
               "data": {
                 "cid": "KALISCTA000005706210",
                 "intOrdre": 85898,
-                "title": "I. - Durée du travail et organisation et rémunération",
-                "id": "KALISCTA000005706210",
-                "etat": "VIGUEUR_ETEN"
+                "title": "I. − Durée du travail. – Organisation – Rémunération",
+                "id": "KALISCTA000029557458",
+                "etat": "VIGUEUR_NON_ETEN"
               },
               "children": [
                 {
@@ -5981,78 +6053,6 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALITEXT000005661597",
-            "title": "Avenant n° 4 du 24 janvier 2000 relatif à la constitution de la commission paritaire nationale de l'emploi ",
-            "id": "KALITEXT000005661597",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "2000-01-24"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000005806095",
-                "intOrdre": 42949,
-                "id": "KALIARTI000005806095",
-                "content": "Article unique<p></p><p></p>   Le montant de la cotisation d'entreprise destinée au fonctionnement de la commission paritaire de l'emploi prévue au taux de 0,25 % de la masse salariale brute annuelle est porté à 0,50 % pour 2000, exceptionnellement.<p></p>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "",
-                    "textTitle": "Avenant n° 4 2000-01-24 BO conventions collectives 2000-6 étendu par arrêté du 12 mai 2000 JORF 23 mai 2000",
-                    "linkType": "CREATION",
-                    "linkOrientation": "source",
-                    "articleNum": "",
-                    "articleId": "",
-                    "natureText": "",
-                    "datePubliTexte": null,
-                    "dateSignaTexte": null,
-                    "dateDebutCible": null
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALITEXT000005661599",
-            "title": "Décision interprétative du 15 mai 2000 relative aux fonctions supplémentaires ",
-            "id": "KALITEXT000005661599",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "2000-05-15"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000005806096",
-                "intOrdre": 42949,
-                "id": "KALIARTI000005806096",
-                "content": "Article unique<p></p><p></p>   Saisie en vue d'une interprétation par le centre équestre d'Istres, représenté par son président, et par plusieurs de ses salariés, représentés par la FGA-CFDT, la commission s'est exprimée comme suit :<p></p><p></p>   Exposé de la situation :<p></p><p></p>   Reconnaissance éventuelle par l'employeur de fonctions supplémentaires entraînant une majoration de salaire de 3 % pour des gardes assurant également une activité calèche et de soins aux chevaux.<p></p><p></p>   Les membres de la commission mixte proposent de rendre l'arbitrage suivant :<p></p><p></p>   Il convient de positionner le métier exercé au coefficient 106 \" cavalier soigneur \" avec, le cas échéant, une majoration pour fonction supplémentaire (exemple : meneur), les soins courants aux équidés faisant partie de l'emploi.<p></p><p></p>   La présente décision est entendue compte tenu des dispositions de l'article 58, dernier alinéa de la convention collective, et en particulier du respect de l'entretien annuel qui y est stipulé.<p></p>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "",
-                    "textTitle": "Décision interprétative 2000-05-15 BO conventions collectives 2000-28 étendu par arrêté du 10 octobre 2000 JORF 18 octobre 2000",
-                    "linkType": "CREATION",
-                    "linkOrientation": "source",
-                    "articleNum": "",
-                    "articleId": "",
-                    "natureText": "",
-                    "datePubliTexte": null,
-                    "dateSignaTexte": null,
-                    "dateDebutCible": null
-                  }
-                ]
-              }
             }
           ]
         },
@@ -7659,6 +7659,68 @@
         {
           "type": "section",
           "data": {
+            "cid": "KALITEXT000005661637",
+            "title": "Avenant n° 79 du 2 octobre 2006 relatif aux capacités équestres professionnelles de référence ",
+            "id": "KALITEXT000005661637",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2006-10-02"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000005806368",
+                "num": "1",
+                "intOrdre": 42949,
+                "id": "KALIARTI000005806368",
+                "content": "<p></p>   Les dispositions de l'annexe III de la convention collective susvisée sont abrogées et remplacées par les dispositions suivantes :<p></p><p></p>   (voir cette annexe)<p></p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "",
+                    "textTitle": "Avenant n° 79 2006-10-02 BO conventions collectives 2006-48 étendu par arrêté du 19 janvier 2007 JORF 9 février 2007",
+                    "linkType": "CREATION",
+                    "linkOrientation": "source",
+                    "articleNum": "",
+                    "articleId": "",
+                    "natureText": "",
+                    "datePubliTexte": null,
+                    "dateSignaTexte": null,
+                    "dateDebutCible": null
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000005806369",
+                "num": "2",
+                "intOrdre": 85898,
+                "id": "KALIARTI000005806369",
+                "content": "<p></p>   Les parties signataires demandent l'extension du présent avenant.<p></p><p></p>   Fait à Boulogne, le 2 octobre 2006.<p></p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "",
+                    "textTitle": "Avenant n° 79 2006-10-02 BO conventions collectives 2006-48 étendu par arrêté du 19 janvier 2007 JORF 9 février 2007",
+                    "linkType": "CREATION",
+                    "linkOrientation": "source",
+                    "articleNum": "",
+                    "articleId": "",
+                    "natureText": "",
+                    "datePubliTexte": null,
+                    "dateSignaTexte": null,
+                    "dateDebutCible": null
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
             "cid": "KALITEXT000018084776",
             "title": "Accord national de branche du 21 juin 2006   relatif à la formation professionnelle des entreprises équestres",
             "id": "KALITEXT000018084776",
@@ -8838,68 +8900,6 @@
                   }
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALITEXT000005661637",
-            "title": "Avenant n° 79 du 2 octobre 2006 relatif aux capacités équestres professionnelles de référence ",
-            "id": "KALITEXT000005661637",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "2006-10-02"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000005806368",
-                "num": "1",
-                "intOrdre": 42949,
-                "id": "KALIARTI000005806368",
-                "content": "<p></p>   Les dispositions de l'annexe III de la convention collective susvisée sont abrogées et remplacées par les dispositions suivantes :<p></p><p></p>   (voir cette annexe)<p></p>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "",
-                    "textTitle": "Avenant n° 79 2006-10-02 BO conventions collectives 2006-48 étendu par arrêté du 19 janvier 2007 JORF 9 février 2007",
-                    "linkType": "CREATION",
-                    "linkOrientation": "source",
-                    "articleNum": "",
-                    "articleId": "",
-                    "natureText": "",
-                    "datePubliTexte": null,
-                    "dateSignaTexte": null,
-                    "dateDebutCible": null
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000005806369",
-                "num": "2",
-                "intOrdre": 85898,
-                "id": "KALIARTI000005806369",
-                "content": "<p></p>   Les parties signataires demandent l'extension du présent avenant.<p></p><p></p>   Fait à Boulogne, le 2 octobre 2006.<p></p>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "",
-                    "textTitle": "Avenant n° 79 2006-10-02 BO conventions collectives 2006-48 étendu par arrêté du 19 janvier 2007 JORF 9 février 2007",
-                    "linkType": "CREATION",
-                    "linkOrientation": "source",
-                    "articleNum": "",
-                    "articleId": "",
-                    "natureText": "",
-                    "datePubliTexte": null,
-                    "dateSignaTexte": null,
-                    "dateDebutCible": null
-                  }
-                ]
-              }
             }
           ]
         },

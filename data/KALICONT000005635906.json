@@ -2243,55 +2243,6 @@
         {
           "type": "section",
           "data": {
-            "cid": "KALITEXT000005643769",
-            "title": "Annexe IV Convention collective nationale du 16 mars 1982",
-            "id": "KALITEXT000005643769",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "1982-03-16"
-          },
-          "children": [
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005692953",
-                "intOrdre": 42949,
-                "title": "Valeur du point",
-                "id": "KALISCTA000005692953",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005773829",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000005773829",
-                    "content": "<p></p>    Voir \" Salaires \"<p></p><p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "surtitre": "ANNEXE IV",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Convention collective nationale 1982-03-16 étendue par arrêté du 18 novembre 1982 JONC 11 janvier 1983",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
             "cid": "KALITEXT000005643734",
             "title": "Avenant n° 32 du 1 octobre 1998 relatif à la formation professionnelle",
             "id": "KALITEXT000005643734",
@@ -2523,6 +2474,55 @@
                       {
                         "textCid": "",
                         "textTitle": "Avenant n° 34 1999-02-04 en vigueur le 28 février 1999 BO conventions collectives 99-7 étendu par arrêté du 19 juillet 1999 JORF 30 juillet 1999",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000005643769",
+            "title": "Annexe IV Convention collective nationale du 16 mars 1982",
+            "id": "KALITEXT000005643769",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "1982-03-16"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000005692953",
+                "intOrdre": 42949,
+                "title": "Valeur du point",
+                "id": "KALISCTA000005692953",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005773829",
+                    "intOrdre": 42949,
+                    "id": "KALIARTI000005773829",
+                    "content": "<p></p>    Voir \" Salaires \"<p></p><p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "ANNEXE IV",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Convention collective nationale 1982-03-16 étendue par arrêté du 18 novembre 1982 JONC 11 janvier 1983",
                         "linkType": "CREATION",
                         "linkOrientation": "source",
                         "articleNum": "",
@@ -7386,6 +7386,30 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000038649913",
                 "content": "<p align='center'><br/>Au titre de l'année 2018</p><p align='left'><br/>Il est accordé une prime exceptionnelle de 300 € brut dans les conditions prévues par le décret du 26 décembre 2018 (n° 2018-1213) portant mesures d'urgence économiques et sociales.<br/>Cette prime au prorata du temps de travail sera versée à l'ensemble des salariés ayant 3 mois d'ancienneté et présents dans l'entreprise, le 31 décembre 2018.<br/>Elle devra être versée avant le 31 mars 2019.</p><p align='center'><br/>Au titre de l'année 2019</p><p align='left'><br/>Au 1er janvier 2019, le montant de la valeur du point, soit 9,75 €, sera augmenté de 2 % et deviendra, 9,945 €.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "lstLienModification": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000042005406",
+            "title": "Avenant du 28 janvier 2020 relatif à la valeur du point au 1er janvier 2020",
+            "id": "KALITEXT000042005406",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2020-01-01"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000042005409",
+                "num": "unique",
+                "intOrdre": 524287,
+                "id": "KALIARTI000042005409",
+                "content": "<p align='center'><br/>Au titre de l'année 2020</p><p align='left'><br/>Au 1er janvier 2020, le montant de la valeur du point, soit 9,945 €, sera augmentée de 1,3 % et deviendra 10,074 €.</p>",
                 "etat": "VIGUEUR_NON_ETEN",
                 "lstLienModification": []
               }

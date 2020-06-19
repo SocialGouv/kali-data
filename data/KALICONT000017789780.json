@@ -799,9 +799,9 @@
           "data": {
             "cid": "KALISCTA000005690251",
             "intOrdre": 858980,
-            "title": "Indemnité de départ à la retraite  ",
-            "id": "KALISCTA000022008067",
-            "etat": "VIGUEUR_ETEN"
+            "title": "Départ et mise à la retraite",
+            "id": "KALISCTA000005690251",
+            "etat": "REMPLACE"
           },
           "children": [
             {
@@ -836,9 +836,9 @@
           "data": {
             "cid": "KALISCTA000005690251",
             "intOrdre": 858980,
-            "title": "Départ et mise à la retraite",
-            "id": "KALISCTA000005690251",
-            "etat": "REMPLACE"
+            "title": "Indemnité de départ à la retraite  ",
+            "id": "KALISCTA000022008067",
+            "etat": "VIGUEUR_ETEN"
           },
           "children": [
             {
@@ -971,43 +971,6 @@
           "data": {
             "cid": "KALISCTA000005690254",
             "intOrdre": 987827,
-            "title": "Mutation  ",
-            "id": "KALISCTA000022008055",
-            "etat": "VIGUEUR_ETEN"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000005767079",
-                "num": "20",
-                "intOrdre": 42949,
-                "id": "KALIARTI000037409127",
-                "content": "<p>Les entreprises sont d'accord pour adresser au moins une fois par an aux gérants mandataires non salariés en fonction une enquête relative à leurs desiderata de changements de succursales.</p><p>Elles tiendront compte, dans toute la mesure du possible, des renseignements qu'elles auront ainsi obtenus à l'occasion des vacances ou créations de succursales.</p><p>Les entreprises s'engagent à adresser une réponse écrite explicite à toute demande de mutation émanant de leurs gérants mandataires non salariés.</p><p>Dans le cas de mutation de magasin du fait de la société et avec l'accord du gérant mandataire non salarié qui en aura été averti 1 mois à l'avance, la société privilégiera la mutation vers un magasin à chiffre d'affaires au moins équivalent et assumera les frais de déménagement, sur présentation de devis soumis à son agrément.</p><p>Le gérant mandataire non salarié muté aura la possibilité de prendre effectivement ses congés payés conformément aux dispositions de l'article 34 du présent accord.</p><p>La clause visée au quatrième alinéa ci-dessus ne fait pas obstacle à l'exercice, pour l'une des parties, du droit de mettre fin au contrat qui leur est réservé par l'article 14 du présent accord.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "KALITEXT000037397875",
-                    "textTitle": "Minima garantis, indemnités et congés - art. 5 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "5",
-                    "articleId": "KALIARTI000037397885",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2018-09-13",
-                    "dateSignaTexte": "2018-02-05",
-                    "dateDebutCible": "2018-01-01"
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALISCTA000005690254",
-            "intOrdre": 987827,
             "title": "Clause de non-concurrence",
             "id": "KALISCTA000005690254",
             "etat": "REMPLACE"
@@ -1043,11 +1006,48 @@
         {
           "type": "section",
           "data": {
+            "cid": "KALISCTA000005690254",
+            "intOrdre": 987827,
+            "title": "Mutation  ",
+            "id": "KALISCTA000022008055",
+            "etat": "VIGUEUR_ETEN"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000005767079",
+                "num": "20",
+                "intOrdre": 42949,
+                "id": "KALIARTI000037409127",
+                "content": "<p>Les entreprises sont d'accord pour adresser au moins une fois par an aux gérants mandataires non salariés en fonction une enquête relative à leurs desiderata de changements de succursales.</p><p>Elles tiendront compte, dans toute la mesure du possible, des renseignements qu'elles auront ainsi obtenus à l'occasion des vacances ou créations de succursales.</p><p>Les entreprises s'engagent à adresser une réponse écrite explicite à toute demande de mutation émanant de leurs gérants mandataires non salariés.</p><p>Dans le cas de mutation de magasin du fait de la société et avec l'accord du gérant mandataire non salarié qui en aura été averti 1 mois à l'avance, la société privilégiera la mutation vers un magasin à chiffre d'affaires au moins équivalent et assumera les frais de déménagement, sur présentation de devis soumis à son agrément.</p><p>Le gérant mandataire non salarié muté aura la possibilité de prendre effectivement ses congés payés conformément aux dispositions de l'article 34 du présent accord.</p><p>La clause visée au quatrième alinéa ci-dessus ne fait pas obstacle à l'exercice, pour l'une des parties, du droit de mettre fin au contrat qui leur est réservé par l'article 14 du présent accord.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000037397875",
+                    "textTitle": "Minima garantis, indemnités et congés - art. 5 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "5",
+                    "articleId": "KALIARTI000037397885",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2018-09-13",
+                    "dateSignaTexte": "2018-02-05",
+                    "dateDebutCible": "2018-01-01"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
             "cid": "KALISCTA000005690255",
             "intOrdre": 1030776,
-            "title": "Inventaires et arrêtés de comptes  ",
-            "id": "KALISCTA000022008050",
-            "etat": "VIGUEUR_ETEN"
+            "title": "Mutation",
+            "id": "KALISCTA000005690255",
+            "etat": "REMPLACE"
           },
           "children": [
             {
@@ -1082,9 +1082,9 @@
           "data": {
             "cid": "KALISCTA000005690255",
             "intOrdre": 1030776,
-            "title": "Mutation",
-            "id": "KALISCTA000005690255",
-            "etat": "REMPLACE"
+            "title": "Inventaires et arrêtés de comptes  ",
+            "id": "KALISCTA000022008050",
+            "etat": "VIGUEUR_ETEN"
           },
           "children": [
             {
@@ -1315,9 +1315,9 @@
           "data": {
             "cid": "KALISCTA000005690259",
             "intOrdre": 1159623,
-            "title": "Responsabilité du gérant mandataire non salarié en cas de chèque sans provision  ",
-            "id": "KALISCTA000022008036",
-            "etat": "VIGUEUR_ETEN"
+            "title": "Responsabilité du gérant pour les marchandises qui lui sont confiées",
+            "id": "KALISCTA000005690259",
+            "etat": "REMPLACE"
           },
           "children": [
             {
@@ -1364,9 +1364,9 @@
           "data": {
             "cid": "KALISCTA000005690259",
             "intOrdre": 1159623,
-            "title": "Responsabilité du gérant pour les marchandises qui lui sont confiées",
-            "id": "KALISCTA000005690259",
-            "etat": "REMPLACE"
+            "title": "Responsabilité du gérant mandataire non salarié en cas de chèque sans provision  ",
+            "id": "KALISCTA000022008036",
+            "etat": "VIGUEUR_ETEN"
           },
           "children": [
             {
@@ -1511,43 +1511,6 @@
           "data": {
             "cid": "KALISCTA000005690261",
             "intOrdre": 1245521,
-            "title": "Remboursement des freintes  ",
-            "id": "KALISCTA000022008026",
-            "etat": "VIGUEUR_ETEN"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000005767086",
-                "num": "26",
-                "intOrdre": 42949,
-                "id": "KALIARTI000037409130",
-                "content": "<p>Afin de compenser les pertes dues à la dessiccation et aux avaries de toute nature pouvant survenir aux marchandises périssables à partir de la réception en magasin, chaque société pourra établir, en accord avec les représentants syndicaux de ses gérants mandataires non-salariés, la liste des denrées, en particulier fruits et légumes, charcuterie à la coupe, fromage à la coupe, marée … donnant lieu à remboursement de freintes.</p><p>Les taux de remboursement sont en principe fixés par rapport au poids ou au nombre de pièces (pour les marchandises périssables vendues à la pièce) des marchandises réceptionnées. Toutefois, les accords peuvent prévoir toute autre modalité de compensation. Ces accords constituent un avenant aux présentes dispositions.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "KALITEXT000037397875",
-                    "textTitle": "Minima garantis, indemnités et congés - art. 6 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "6",
-                    "articleId": "KALIARTI000037397887",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2018-09-13",
-                    "dateSignaTexte": "2018-02-05",
-                    "dateDebutCible": "2018-01-01"
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALISCTA000005690261",
-            "intOrdre": 1245521,
             "title": "Equipement, entretien des magasins.",
             "id": "KALISCTA000005690261",
             "etat": "REMPLACE"
@@ -1583,46 +1546,34 @@
         {
           "type": "section",
           "data": {
-            "cid": "KALISCTA000005690262",
-            "intOrdre": 1288470,
-            "title": "Tournées et livraisons à domicile  ",
-            "id": "KALISCTA000022008022",
-            "etat": "VIGUEUR_NON_ETEN"
+            "cid": "KALISCTA000005690261",
+            "intOrdre": 1245521,
+            "title": "Remboursement des freintes  ",
+            "id": "KALISCTA000022008026",
+            "etat": "VIGUEUR_ETEN"
           },
           "children": [
             {
               "type": "article",
               "data": {
-                "cid": "KALIARTI000005767088",
-                "num": "27",
+                "cid": "KALIARTI000005767086",
+                "num": "26",
                 "intOrdre": 42949,
-                "id": "KALIARTI000022008019",
-                "content": "<p align='left'>Lorsque le matériel nécessaire aux tournées et livraisons à domicile sera la propriété du gérant mandataire non salarié, la société participera aux frais d'entretien et de réparation ainsi qu'aux primes de l'assurance qui aura été contractée par le gérant mandataire non salarié auprès d'une compagnie notoirement solvable. <br/>Seront considérées comme voitures de livraison : les camionnettes commerciales ou anciennes voitures de tourisme aménagées à cet usage sous réserve que ces aménagements soient conformes à la réglementation en vigueur. <br/>Ces frais établis forfaitairement ou de toute autre façon feront l'objet d'un accord écrit entre les parties intéressées ou les organisations professionnelles ou syndicales. <br/>En aucun cas, l'impossibilité pour le gérant mandataire non salarié d'acheter lui-même le matériel nécessaire aux livraisons ne peut entraîner la rupture de son contrat. </p>",
-                "etat": "VIGUEUR_ETEN",
+                "id": "KALIARTI000037409130",
+                "content": "<p>Afin de compenser les pertes dues à la dessiccation et aux avaries de toute nature pouvant survenir aux marchandises périssables à partir de la réception en magasin, chaque société pourra établir, en accord avec les représentants syndicaux de ses gérants mandataires non-salariés, la liste des denrées, en particulier fruits et légumes, charcuterie à la coupe, fromage à la coupe, marée … donnant lieu à remboursement de freintes.</p><p>Les taux de remboursement sont en principe fixés par rapport au poids ou au nombre de pièces (pour les marchandises périssables vendues à la pièce) des marchandises réceptionnées. Toutefois, les accords peuvent prévoir toute autre modalité de compensation. Ces accords constituent un avenant aux présentes dispositions.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
                 "lstLienModification": [
                   {
-                    "textCid": "JORFTEXT000022932666",
-                    "textTitle": "Arrêté du 14 octobre 2010, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "JORFTEXT000022932666",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2010-10-21",
-                    "dateSignaTexte": "2010-10-14",
-                    "dateDebutCible": "2999-01-01"
-                  },
-                  {
-                    "textCid": "KALITEXT000021980544",
-                    "textTitle": "Avenant à l'accord du 18 juillet 1963 - art. 2 (VNE)",
+                    "textCid": "KALITEXT000037397875",
+                    "textTitle": "Minima garantis, indemnités et congés - art. 6 (VNE)",
                     "linkType": "MODIFIE",
                     "linkOrientation": "cible",
-                    "articleNum": "2",
-                    "articleId": "KALIARTI000021980548",
-                    "natureText": "avenant",
-                    "datePubliTexte": "2999-01-01",
-                    "dateSignaTexte": "2009-10-14",
-                    "dateDebutCible": "2009-11-15"
+                    "articleNum": "6",
+                    "articleId": "KALIARTI000037397887",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2018-09-13",
+                    "dateSignaTexte": "2018-02-05",
+                    "dateDebutCible": "2018-01-01"
                   }
                 ]
               }
@@ -1681,21 +1632,21 @@
         {
           "type": "section",
           "data": {
-            "cid": "KALISCTA000005690263",
-            "intOrdre": 1331419,
-            "title": "Frais de correspondance avec le siège et la société  ",
-            "id": "KALISCTA000022008017",
-            "etat": "VIGUEUR_ETEN"
+            "cid": "KALISCTA000005690262",
+            "intOrdre": 1288470,
+            "title": "Tournées et livraisons à domicile  ",
+            "id": "KALISCTA000022008022",
+            "etat": "VIGUEUR_NON_ETEN"
           },
           "children": [
             {
               "type": "article",
               "data": {
-                "cid": "KALIARTI000005767089",
-                "num": "28",
+                "cid": "KALIARTI000005767088",
+                "num": "27",
                 "intOrdre": 42949,
-                "id": "KALIARTI000022008014",
-                "content": "<p align='left'>Seront remboursés intégralement les frais engagés par les gérants mandataires non salariés pour la correspondance échangée avec l'entreprise. </p>",
+                "id": "KALIARTI000022008019",
+                "content": "<p align='left'>Lorsque le matériel nécessaire aux tournées et livraisons à domicile sera la propriété du gérant mandataire non salarié, la société participera aux frais d'entretien et de réparation ainsi qu'aux primes de l'assurance qui aura été contractée par le gérant mandataire non salarié auprès d'une compagnie notoirement solvable. <br/>Seront considérées comme voitures de livraison : les camionnettes commerciales ou anciennes voitures de tourisme aménagées à cet usage sous réserve que ces aménagements soient conformes à la réglementation en vigueur. <br/>Ces frais établis forfaitairement ou de toute autre façon feront l'objet d'un accord écrit entre les parties intéressées ou les organisations professionnelles ou syndicales. <br/>En aucun cas, l'impossibilité pour le gérant mandataire non salarié d'acheter lui-même le matériel nécessaire aux livraisons ne peut entraîner la rupture de son contrat. </p>",
                 "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
                   {
@@ -1779,11 +1730,60 @@
         {
           "type": "section",
           "data": {
+            "cid": "KALISCTA000005690263",
+            "intOrdre": 1331419,
+            "title": "Frais de correspondance avec le siège et la société  ",
+            "id": "KALISCTA000022008017",
+            "etat": "VIGUEUR_ETEN"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000005767089",
+                "num": "28",
+                "intOrdre": 42949,
+                "id": "KALIARTI000022008014",
+                "content": "<p align='left'>Seront remboursés intégralement les frais engagés par les gérants mandataires non salariés pour la correspondance échangée avec l'entreprise. </p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000022932666",
+                    "textTitle": "Arrêté du 14 octobre 2010, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "JORFTEXT000022932666",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2010-10-21",
+                    "dateSignaTexte": "2010-10-14",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000021980544",
+                    "textTitle": "Avenant à l'accord du 18 juillet 1963 - art. 2 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "2",
+                    "articleId": "KALIARTI000021980548",
+                    "natureText": "avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2009-10-14",
+                    "dateDebutCible": "2009-11-15"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
             "cid": "KALISCTA000005690264",
             "intOrdre": 1374368,
-            "title": "Logement  ",
-            "id": "KALISCTA000022008012",
-            "etat": "VIGUEUR_ETEN"
+            "title": "Frais de correspondance avec le siège et la société",
+            "id": "KALISCTA000005690264",
+            "etat": "REMPLACE"
           },
           "children": [
             {
@@ -1830,9 +1830,9 @@
           "data": {
             "cid": "KALISCTA000005690264",
             "intOrdre": 1374368,
-            "title": "Frais de correspondance avec le siège et la société",
-            "id": "KALISCTA000005690264",
-            "etat": "REMPLACE"
+            "title": "Logement  ",
+            "id": "KALISCTA000022008012",
+            "etat": "VIGUEUR_ETEN"
           },
           "children": [
             {
@@ -2419,9 +2419,9 @@
           "data": {
             "cid": "KALISCTA000005690272",
             "intOrdre": 1717960,
-            "title": "Représentation des gérants mandataires non salariés et des syndicats  ",
-            "id": "KALISCTA000022007977",
-            "etat": "VIGUEUR_ETEN"
+            "title": "Indemnités particulières.",
+            "id": "KALISCTA000005690272",
+            "etat": "REMPLACE"
           },
           "children": [
             {
@@ -2468,9 +2468,9 @@
           "data": {
             "cid": "KALISCTA000005690272",
             "intOrdre": 1717960,
-            "title": "Indemnités particulières.",
-            "id": "KALISCTA000005690272",
-            "etat": "REMPLACE"
+            "title": "Représentation des gérants mandataires non salariés et des syndicats  ",
+            "id": "KALISCTA000022007977",
+            "etat": "VIGUEUR_ETEN"
           },
           "children": [
             {
@@ -2615,55 +2615,6 @@
           "data": {
             "cid": "KALISCTA000005690275",
             "intOrdre": 1803858,
-            "title": "Arbitrage  ",
-            "id": "KALISCTA000022007969",
-            "etat": "VIGUEUR_ETEN"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000005767112",
-                "num": "38",
-                "intOrdre": 42949,
-                "id": "KALIARTI000022007966",
-                "content": "Le recours à l'arbitrage est facultatif ; les parties qui y auront recours devront désigner un arbitre commun. <br/>Les arbitrages rendus dans ces conditions seront obligatoires pour les parties qui devront s'y soumettre.",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000022932666",
-                    "textTitle": "Arrêté du 14 octobre 2010, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "JORFTEXT000022932666",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2010-10-21",
-                    "dateSignaTexte": "2010-10-14",
-                    "dateDebutCible": "2999-01-01"
-                  },
-                  {
-                    "textCid": "KALITEXT000021980544",
-                    "textTitle": "Avenant à l'accord du 18 juillet 1963 - art. 2 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "2",
-                    "articleId": "KALIARTI000021980548",
-                    "natureText": "avenant",
-                    "datePubliTexte": "2999-01-01",
-                    "dateSignaTexte": "2009-10-14",
-                    "dateDebutCible": "2009-11-15"
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALISCTA000005690275",
-            "intOrdre": 1803858,
             "title": "Commission nationale de conciliation",
             "id": "KALISCTA000005690275",
             "etat": "REMPLACE"
@@ -2711,11 +2662,60 @@
         {
           "type": "section",
           "data": {
+            "cid": "KALISCTA000005690275",
+            "intOrdre": 1803858,
+            "title": "Arbitrage  ",
+            "id": "KALISCTA000022007969",
+            "etat": "VIGUEUR_ETEN"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000005767112",
+                "num": "38",
+                "intOrdre": 42949,
+                "id": "KALIARTI000022007966",
+                "content": "Le recours à l'arbitrage est facultatif ; les parties qui y auront recours devront désigner un arbitre commun. <br/>Les arbitrages rendus dans ces conditions seront obligatoires pour les parties qui devront s'y soumettre.",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000022932666",
+                    "textTitle": "Arrêté du 14 octobre 2010, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "JORFTEXT000022932666",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2010-10-21",
+                    "dateSignaTexte": "2010-10-14",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000021980544",
+                    "textTitle": "Avenant à l'accord du 18 juillet 1963 - art. 2 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "2",
+                    "articleId": "KALIARTI000021980548",
+                    "natureText": "avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2009-10-14",
+                    "dateDebutCible": "2009-11-15"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
             "cid": "KALISCTA000005690276",
             "intOrdre": 1846807,
-            "title": "Indemnisation des gérants mandataires non salariés participant aux réunions paritaires  ",
-            "id": "KALISCTA000022007964",
-            "etat": "VIGUEUR_NON_ETEN"
+            "title": "Arbitrage.",
+            "id": "KALISCTA000005690276",
+            "etat": "VIGUEUR_ETEN"
           },
           "children": [
             {
@@ -2750,9 +2750,9 @@
           "data": {
             "cid": "KALISCTA000005690276",
             "intOrdre": 1846807,
-            "title": "Arbitrage.",
-            "id": "KALISCTA000005690276",
-            "etat": "VIGUEUR_ETEN"
+            "title": "Indemnisation des gérants mandataires non salariés participant aux réunions paritaires  ",
+            "id": "KALISCTA000022007964",
+            "etat": "VIGUEUR_NON_ETEN"
           },
           "children": [
             {
@@ -5631,236 +5631,6 @@
         {
           "type": "section",
           "data": {
-            "cid": "KALITEXT000022017843",
-            "title": "Avenant n° 52 du 14 octobre 2009 relatif à la prévoyance",
-            "id": "KALITEXT000022017843",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "2015-06-01"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000022017846",
-                "num": "1",
-                "intOrdre": 524287,
-                "id": "KALIARTI000022017846",
-                "content": "<p align='left'><br/>Le présent avenant a pour objet de modifier l'<a href='/affichIDCC.do?cidTexte=KALITEXT000005640320&idSectionTA=KALISCTA000005690244&categorieLien=cid'>article 10 </a>« Régime de prévoyance » de l'accord collectif national des maisons d'alimentation à succursales, supermarchés, hypermarchés (gérants mandataires) (<a href='/affichIDCC.do?cidTexte=KALITEXT000005640320&categorieLien=cid'>n° 3007</a>). <br/>Le contrat de gérance confié aux gérants mandataires non salariés comportant l'obligation d'assurer l'ouverture du magasin qui leur est confié, il est apparu nécessaire aux parties signataires du présent avenant d'améliorer les garanties de prévoyance des gérants mandataires non salariés lorsque ceux-ci sont empêchés, par la maladie, l'accident, ou en cas de décès, d'exploiter personnellement leur magasin. <br/>Le présent avenant prévoit l'amélioration des garanties de prévoyance (art. 2) pour les gérants mandataires non salariés en activité et le maintien des garanties du régime de prévoyance pour les gérants mandataires non salariés dont le contrat de gérance a été rompu ou en fin de contrat de gérance (art. 3).</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Objet",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000022932666",
-                    "textTitle": "Arrêté du 14 octobre 2010, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "JORFTEXT000022932666",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2010-10-21",
-                    "dateSignaTexte": "2010-10-14",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000022017847",
-                "num": "2",
-                "intOrdre": 1048574,
-                "id": "KALIARTI000022017847",
-                "content": "<p align='left'><br/>L'article 10 « Régime de prévoyance » de l'accord collectif national des maisons d'alimentation à succursales, supermarchés, hypermarchés (gérants mandataires) (<a href='/affichIDCC.do?cidTexte=KALITEXT000005640320&categorieLien=cid'>n° 3007</a>) est modifié comme suit : </p><p align='center'><br/>« A. ― Garantie décès. ― Invalidité permanente totale et définitive <br/>1. Bénéficiaires </p><p align='left'><br/>Sont considérés comme bénéficiaires les gérants mandataires non salariés dont le contrat de gérance est en vigueur à la date d'effet du présent avenant. </p><p align='center'><br/>2. Prestations </p><p align='left'><br/>a) Base de calcul des prestations : commissions de référence <br/>La base de calcul pour les prestations décès est constituée du total des commissions brutes perçues par le gérant mandataire non salarié au cours de l'année civile précédant le décès ou l'arrêt de travail, majoré de 10 % et limité à 4 fois le plafond annuel de la sécurité sociale en vigueur au cours du mois qui précède le décès ou l'arrêt de travail. <br/>b) Montant des prestations <br/>En cas de décès d'un gérant mandataire non salarié il sera versé : <br/>― 100 % des commissions brutes de référence ; <br/>― ce capital étant majoré de 25 % par enfant à charge. <br/>En cas d'invalidité permanente totale et définitive, le gérant mandataire non salarié perçoit un capital d'un montant identique à celui prévu en cas de décès. Est considéré en situation d'invalidité permanente totale et définitive, le gérant mandataire non salarié reconnu par la sécurité sociale, soit comme invalide 3e catégorie en application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006742597&dateTexte=&categorieLien=cid'>article L. 341-4 du code de la sécurité sociale</a>, soit comme victime d'accident du travail bénéficiant de la rente pour incapacité permanente et totale, majorée pour recours à l'assistance d'une tierce personne. <br/>Le paiement du capital en cas d'invalidité permanente totale et définitive met fin à la garantie décès. </p><p align='center'><br/>Double effet </p><p align='left'><br/>Si le conjoint, le partenaire de Pacs ou le concubin décède, simultanément ou postérieurement au décès du gérant mandataire non salarié, un nouveau capital égal à une fois le plafond de la sécurité sociale de l'année civile écoulée majoré de 10 % sera versé aux enfants restant à charge du conjoint, du partenaire de Pacs ou du concubin et issus du mariage, du Pacs ou du concubinage avec le gérant mandataire non salarié. Le nouveau capital est réparti par parts égales entre eux. </p><p align='center'><br/>Enfants à charge </p><p align='left'><br/>Pour le versement de la majoration du capital décès, invalidité permanente totale et définitive, et la garantie double effet, sont considérés à charge : <br/>― les enfants de moins de 21 ans à charge au sens de la législation de la sécurité sociale, du gérant mandataire non salarié ou de son conjoint ; <br/>― les enfants âgés de moins de 26 ans à charge du gérant mandataire non salarié ou de son conjoint au sens de la législation fiscale, c'est-à-dire : <br/>― les enfants pris en compte dans le quotient familial ou ouvrant droit à un abattement applicable au revenu imposable ; <br/>― les enfants auquel le gérant mandataire non salarié sert une pension alimentaire (y compris en application d'un jugement de divorce) retenue sur son avis d'imposition à titre de charge déductible du revenu global ; <br/>― l'enfant handicapé du gérant mandataire non salarié ou de son conjoint si, avant son 21e anniversaire, il est titulaire de la carte d'invalide civil et bénéficie de l'allocation des adultes handicapés ; <br/>― quel que soit son âge, sauf déclaration personnelle de revenus, l'enfant infirme à charge du gérant mandataire non salarié ou de son conjoint n'étant pas en mesure de subvenir à ses besoins en raison de son infirmité, pris en compte dans le calcul du quotient familial ou ouvrant droit à un abattement applicable au revenu imposable ; <br/>― l'enfant du gérant mandataire non salarié né \" viable ” moins de 300 jours après le décès de ce dernier. </p><p align='center'><br/>Partenaire lié par un Pacs </p><p align='left'><br/>Personne liée au gérant mandataire non salarié par un pacte civil de solidarité tel que défini à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006428462&dateTexte=&categorieLien=cid'>article 515-1 du code civil</a>. </p><p align='center'><br/>Bénéficiaires du capital décès, invalidité permanente totale et définitive </p><p align='left'><br/>Le capital décès est versé au gérant mandataire non salarié lui-même en cas d'invalidité permanente totale et définitive ou au (x) bénéficiaire (s) qu'il aura expressément désigné (s) en cas de décès.A défaut de désignation expresse, le capital est versé dans l'ordre de préférence suivant : <br/>― à son conjoint non séparé judiciairement ni divorcé, ou à défaut son partenaire de Pacs ; <br/>― à défaut, à ses enfants nés ou représentés, légitimes, reconnus ou adoptifs ; <br/>― à défaut, à ses petits-enfants ; <br/>― à défaut de descendance directe, à ses parents, ou à défaut à ses grands-parents survivants ; <br/>― à défaut de tous les susnommés, à ses héritiers. <br/>Lorsqu'il y a attribution de majorations familiales, chacune d'entre elles est versée au profit de l'enfant au titre duquel elle est accordée ou à son représentant légal.</p><p align='center'><br/>B. ― Garantie incapacité de travail <br/>1. Bénéficiaires </p><p align='left'><br/>Sont considérés comme bénéficiaires les gérants mandataires non salariés en activité et sous contrat de gérance avec l'entreprise depuis au moins 1 an révolu, cette condition d'ancienneté étant réduite à 1 mois en cas d'arrêt de travail consécutif à un accident du travail. </p><p align='center'><br/>2. Prestations </p><p align='left'><br/>a) Base de calcul des prestations : commissions de référence <br/>La commission servant de base au calcul des prestations est égale à la moyenne des commissions nettes perçues au cours des 12 derniers mois précédant l'arrêt de travail. <br/>b) Montant des prestations de la garantie incapacité de travail <br/>En cas d'incapacité temporaire totale de travail du gérant mandataire non salarié pour cause de maladie ou d'accident, il sera garanti des indemnités journalières complémentaires soit au titre de l'assurance maladie, soit au titre des accidents de travail ou des maladies professionnelles.<br/>L'indemnisation intervient après une franchise fixe de 12 jours, supprimée en cas d'accident du travail ou d'hospitalisation ayant entraîné un arrêt de travail total (hospitalisation et ses suites) d'au moins 1 mois. <br/>Les montants des prestations sont définis comme suit : <br/>― 95 % des commissions nettes tranche A ; <br/>― 70 % des commissions nettes tranche B. <br/>Les prestations sont versées sous déduction des prestations versées par la sécurité sociale. <br/>Les prestations sont versées tant que dure l'indemnisation par la sécurité sociale, et au plus tard jusqu'au 1 095e jour d'arrêt de travail.</p><p align='center'><br/>C. ― Garantie invalidité permanente <br/>1. Bénéficiaires des garanties </p><p align='left'><br/>Pour la garantie invalidité permanente, sont considérés comme bénéficiaires les gérants mandataires non salariés en activité et sous contrat de gérance avec l'entreprise depuis au moins 1 an révolu, cette condition d'ancienneté étant réduite à 1 mois en cas d'arrêt de travail consécutif à un accident du travail. </p><p align='center'><br/>2. Base de calcul des prestations : commissions de référence </p><p align='left'><br/>La commission servant de base au calcul des prestations est égale à la moyenne des commissions brutes perçues au cours des 12 derniers mois précédant l'arrêt de travail. </p><p align='center'><br/>3. Montant des prestations </p><p align='left'><br/>La garantie a pour objet le versement : <br/>― de rentes en cas d'incapacité permanente consécutive à un accident du travail ou à une maladie professionnelle survenue pendant la période d'affiliation et ouvrant droit aux rentes d'incapacité prévues par les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006743049&dateTexte=&categorieLien=cid'>articles L. 434-1 et suivants du code de la sécurité sociale </a>; <br/>― de rentes en cas d'invalidité permanente consécutive à une maladie ou à un accident survenu pendant la période d'affiliation et ouvrant droit à la pension d'invalidité prévue à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006742593&dateTexte=&categorieLien=cid'>article L. 341-1 du code de la sécurité sociale</a>. <br/>Les prestations, servies sous la forme de rentes, sont exprimées en pourcentage des commissions de référence : <br/>― invalidité permanente classée en 2e ou 3e catégorie par la sécurité sociale : 10 % des commissions brutes limitées à la tranche A ; <br/>― invalidité permanente classée en 1re catégorie par la sécurité sociale : 6 % des commissions brutes limitées à la tranche A.<br/>L'incapacité consécutive à un accident du travail ou à une maladie professionnelle est assimilée à une invalidité de 2e ou 3e catégorie lorsque le taux d'incapacité est égal ou supérieur à 66 %. <br/>Les prestations sont versées en complément des prestations brutes de la sécurité sociale, des commissions éventuellement perçues par le gérant mandataire non salarié au titre d'une activité réduite, des prestations versées au titre d'un autre régime complémentaire de prévoyance. <br/>Le cumul de ces prestations ne peut en aucun cas dépasser 100 % des commissions que le gérant mandataire non salarié aurait perçues s'il avait continué à travailler normalement. <br/>Le service de la rente est maintenu sous réserve du versement de la rente d'invalidité de la sécurité sociale et au plus tard jusqu'à la liquidation d'une pension vieillesse (au sens notamment des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006742610&dateTexte=&categorieLien=cid'>articles L. 341-15 et R. 341-22 du code de la sécurité sociale</a>) ou du décès du gérant mandataire non salarié. La rente est réduite ou suspendue en cas de réduction ou de suspension de la pension versée par la sécurité sociale. <br/>Les rentes d'invalidité seront revalorisées sur la base de l'évolution du point de retraite AGIRC, dans la limite de 90 % du rendement de l'actif général d'AG2R Prévoyance.</p><p align='center'><br/>D. ― Reprise des risques en cours pour la garantie invalidité </p><p align='left'><br/>Bénéficient des prestations du présent régime de prévoyance : <br/>― les gérants mandataires non salariés en incapacité de travail au 1er janvier 2010 qui deviendraient invalides postérieurement à cette date ; <br/>― ainsi que les gérants mandataires non salariés en invalidité au sens de la sécurité sociale et sous contrat de gérance au 1er janvier 2010.<br/>L'entreprise qui adhère au régime de prévoyance doit, dès son adhésion, produire la liste déclarative des gérants mandataires non salariés en invalidité sous réserve que le contrat de gérance soit toujours en vigueur. <br/>Concernant la garantie décès et conformément à l'article 7. 1 de la loi Evin, celle-ci sera maintenue par le précédant assureur au profit des gérants mandataires non salariés ou anciens gérants mandataires non salariés bénéficiant de prestations incapacité ou invalidité complémentaires, à la date de résiliation du contrat de prévoyance. <br/>Sous cette réserve, les garanties décès, définies ci-dessus (A), s'appliquent aux gérants mandataires non salariés en invalidité dont le contrat de gérance est en cours, à la date d'adhésion de l'entreprise au présent régime. <br/>La prise en charge des risques en cours est financée par une cotisation sur 5 ans à raison de 0, 10 % TA et fait l'objet d'un compte spécifique.</p><p align='center'><br/>E. ― Cotisations </p><p align='left'><br/>A effet du 1er janvier 2010, le taux de cotisation est de 1, 23 % TA et 1, 39 % TB des commissions brutes réparti à raison de 70 % à la charge de l'entreprise et 30 % à la charge du gérant mandataire non salarié. <br/>Le taux de cotisation est ventilé comme suit : <br/>― garantie décès-invalidité permanente totale et définitive : 0, 25 % TA-TB ; <br/>― garantie incapacité de travail : 0, 72 % TA + 1, 11 % TB ; <br/>― garantie invalidité permanente : 0, 14 % TA ; <br/>― reprise des risques en cours : 0, 10 % TA ; <br/>― maintien des garanties (« portabilité ») en cas de rupture du contrat de gérance dans les conditions définies à l'article 3 : 0, 02 % TA + 0, 03 % TB. <br/>On entend par tranche A (TA) la part de la rémunération brute inférieure ou égale au plafond mensuel de la sécurité sociale. <br/>On entend par la tranche B (TB) la part de la rémunération brute comprise entre le plafond mensuel de la sécurité sociale et 4 fois le montant de ce plafond. <br/>Le paiement des cotisations est trimestriel à terme échu. <br/>Les cotisations sont assises sur l'ensemble des rémunérations totales brutes soumis aux cotisations sociales.</p><p align='center'><br/>F. ― Désignation de l'organisme assureur </p><p align='left'><br/>AG2R Prévoyance, institution de prévoyance du pôle alimentaire ISICA du groupe AG2R-La Mondiale régie par le <a href='/affichCode.do?cidTexte=LEGITEXT000006073189&dateTexte=&categorieLien=cid'>code de la sécurité sociale</a>, est désignée comme organisme assureur des garanties visées au présent avenant. <br/>La collecte des cotisations et le versement des prestations correspondant aux garanties susvisées sont confiés à AG2R Prévoyance. <br/>Les modalités d'organisation de la mutualisation des risques couverts par le présent avenant seront réexaminées par la commission paritaire nationale au cours d'une réunion, et ce dans un délai de 5 ans à compter de la date d'effet du présent accord, conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745472&dateTexte=&categorieLien=cid'>dispositions de l'article L. 912-1 du code de la sécurité sociale</a>. »</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Régime de prévoyance",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000022932666",
-                    "textTitle": "Arrêté du 14 octobre 2010, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "JORFTEXT000022932666",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2010-10-21",
-                    "dateSignaTexte": "2010-10-14",
-                    "dateDebutCible": "2999-01-01"
-                  },
-                  {
-                    "textCid": "KALITEXT000005640320",
-                    "textTitle": "ACCORD COLLECTIF NATIONAL du 18 juillet 1963 - art. 10 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "source",
-                    "articleNum": "10",
-                    "articleId": "KALIARTI000022037211",
-                    "natureText": "ACCORD COLLECTIF NATIONAL",
-                    "datePubliTexte": "2999-01-01",
-                    "dateSignaTexte": "1963-07-18",
-                    "dateDebutCible": "2010-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000022017855",
-                "num": "3",
-                "intOrdre": 1572861,
-                "id": "KALIARTI000030800702",
-                "content": "<p align='center'><i>1. Bénéficiaires et garanties maintenues</i><a shape='rect' href='#RENVOI_KALIARTI000022017855_1'> (1)</a></p><p align='left'>En cas de : <br/>― rupture du contrat de gérance non consécutive à une faute justifiant la rupture immédiate dudit contrat ; <br/>― ou de fin du dernier contrat de gérance, <br/>ouvrant droit à indemnisation du régime obligatoire d'assurance chômage, le gérant mandataire non salarié bénéficie du maintien des garanties de prévoyance prévues à l'article 10 « Régime de prévoyance » de l'accord collectif national des maisons d'alimentation à succursales, supermarchés, hypermarchés (gérants mandataires) (<a href='/affichIDCC.do?cidTexte=KALITEXT000005640320&categorieLien=cid'>n° 3007</a>). </p><p align='center'>2. Décès-invalidité permanente et totale, incapacité de travail, invalidité </p><p align='left'>Le maintien de ces garanties s'effectue dans les mêmes conditions que les gérants mandataires non salariés en activité, sauf dispositions particulières définies ci-après.</p><p align='left'>Le cas échéant, le gérant mandataire non salarié est informé qu'il bénéficie des dispositions prévues à l'alinéa précédent. Cette information fait l'objet d'une mention expresse sur le certificat de gérance qui est remis à l'occasion de la cessation du contrat.</p><p align='left'>Le dispositif de portabilité s'applique aux ruptures telles que définies dans le paragraphe 1 ci-dessus ou fins de contrat de gérance dont la date est égale ou postérieure au 1er janvier 2010. </p><p align='center'>3. Commission de référence </p><p align='left'>La commission servant de base au calcul des prestations est celle définie pour les gérants mandataires non salariés en activité pour chaque garantie maintenue, étant précisé que la période prise en compte est celle précédant la date de rupture ou de fin du contrat de gérance. Pour la détermination de la commission de référence, sont exclues les sommes liées à la rupture ou à la fin du contrat de gérance (et toutes autres sommes versées à titre exceptionnel). </p><p align='center'>4. Durée et limites de la portabilité </p><p align='left'>Le maintien des garanties par AG2R Prévoyance prend effet dès le lendemain de la date de fin du contrat de gérance sous réserve d'avoir été régulièrement déclaré par l'entreprise auprès de l'organisme assureur désigné. <br/> Les garanties sont maintenues pendant la période d'indemnisation de l'assurance chômage, dans la limite de la durée du dernier contrat de gérance ou des derniers contrats de gérance s'ils ont été consécutifs. Cette durée est appréciée en mois entiers, le cas échéant arrondie au nombre supérieur, sans pouvoir excéder 12 mois.  <br/>En tout état de cause, le maintien des garanties cesse : <br/>― lorsque le bénéficiaire du dispositif de portabilité reprend une activité professionnelle rémunérée, salariée ou non ; <br/>― dès qu'il ne peut plus justifier auprès de l'organisme assureur de son statut de demandeur d'emploi indemnisé par le régime obligatoire d'assurance chômage ; <br/>― à la date de la liquidation de la pension vieillesse de la sécurité sociale ; <br/>― en cas de décès. <br/>La suspension des allocations du régime obligatoire d'assurance chômage, pour cause de maladie ou pour tout autre motif, n'a pas d'incidence sur le calcul de la durée du maintien des garanties qui ne sera pas prolongée d'autant. </p><p align='center'>5. Financement de la portabilité </p><p align='left'>Le maintien des garanties au titre de la portabilité est financé par les cotisations des entreprises et des gérants mandataires non salariés en activité (part patronale et part du gérant mandataire non salarié) définie à l'article 10 « Régime de prévoyance » de l'accord collectif national des maisons d'alimentation à succursales, supermarchés, hypermarchés (gérants mandataires) (n° 3007). Le taux de cotisation de cette garantie est défini à l'article E du présent avenant. <br/>Les partenaires sociaux dresseront un bilan des dispositifs de mutualisation à l'issue d'une période de 12 mois suivant l'entrée en vigueur de l'avenant. </p><p align='center'>6. Changement d'organisme assureur </p><p align='left'>En cas de changement d'organisme assureur : <br/>― les prestations en cours sont maintenues par le précédent organisme assureur ; <br/>― les bénéficiaires du dispositif de portabilité relevant des présentes stipulations sont affiliés dans les mêmes conditions que les gérants mandataires non salariés en activité auprès du nouvel organisme assureur.</p><p><font color='#808080' size='1'><em><a shape='rect' name='RENVOI_KALIARTI000022017855_1' title='RENVOI_KALIARTI000022017855_1'></a>(1) L'article 3 (1) « Bénéficiaires et garanties maintenues » de l'avenant n° 52 est étendu sous réserve du respect de l'article 14 de l'accord national interprofessionnel du 11 janvier 2008, qui dispose que seule une faute lourde peut exclure du bénéfice de la portabilité. <br/>(Arrêté du 14 octobre 2010, art. 1er)</em></font></p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Portabilité des droits de prévoyance complémentaire",
-                "lstLienModification": [
-                  {
-                    "textCid": "KALITEXT000030785578",
-                    "textTitle": "Portabilité des garanties de prévoyance - art. 2 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "2",
-                    "articleId": "KALIARTI000030785584",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2015-06-29",
-                    "dateSignaTexte": "2015-01-26",
-                    "dateDebutCible": "2015-06-01"
-                  },
-                  {
-                    "textCid": "KALITEXT000030785578",
-                    "textTitle": "Portabilité des garanties de prévoyance - art. 3 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "3",
-                    "articleId": "KALIARTI000030785588",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2015-06-29",
-                    "dateSignaTexte": "2015-01-26",
-                    "dateDebutCible": "2015-06-01"
-                  },
-                  {
-                    "textCid": "JORFTEXT000031692894",
-                    "textTitle": "Arrêté du 18 décembre 2015 - art. 2, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "2",
-                    "articleId": "JORFARTI000031692916",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2015-12-27",
-                    "dateSignaTexte": "2015-12-18",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000022017857",
-                "num": "4",
-                "intOrdre": 2097148,
-                "id": "KALIARTI000022017857",
-                "content": "<p align='left'><br/> Le présent avenant prend effet au 1er janvier 2010.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Date d'effet",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000022932666",
-                    "textTitle": "Arrêté du 14 octobre 2010, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "JORFTEXT000022932666",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2010-10-21",
-                    "dateSignaTexte": "2010-10-14",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000022017858",
-                "num": "5",
-                "intOrdre": 2621435,
-                "id": "KALIARTI000022017858",
-                "content": "<p align='left'><br/> Par exception et sous réserve des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745472&dateTexte=&categorieLien=cid'>dispositions de l'article L. 912-1, alinéa 2, du code de la sécurité sociale</a>, les entreprises ayant souscrit antérieurement à la date d'effet du présent accord un contrat de prévoyance au profit de leurs gérants mandataires non salariés, tels que définis dans l'article 2, assurant ces garanties à un niveau strictement supérieur à celles prévues à l'article 3 du présent accord et s'acquittant des cotisations correspondantes, ne seront pas tenues d'adhérer à l'organisme désigné dans le présent accord, tant que ledit contrat sera en vigueur.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Clause de sauvegarde",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000022932666",
-                    "textTitle": "Arrêté du 14 octobre 2010, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "JORFTEXT000022932666",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2010-10-21",
-                    "dateSignaTexte": "2010-10-14",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000022017860",
-                "num": "6",
-                "intOrdre": 3145722,
-                "id": "KALIARTI000022017860",
-                "content": "<p align='left'><br/> Le présent avenant pourra être dénoncé par l'une ou l'autre des parties signataires en respectant un délai de préavis de 3 mois. En cas de dénonciation, l'avenant continuera à produire ses effets jusqu'à l'entrée en vigueur de l'avenant qui lui sera substitué ou, à défaut, pendant une durée de 1 an conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901788&dateTexte=&categorieLien=cid'>article L. 2261-10 du code du travail</a>.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Modalités de dénonciation",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000022932666",
-                    "textTitle": "Arrêté du 14 octobre 2010, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "JORFTEXT000022932666",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2010-10-21",
-                    "dateSignaTexte": "2010-10-14",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000022017862",
-                "num": "7",
-                "intOrdre": 3670009,
-                "id": "KALIARTI000022017862",
-                "content": "<p align='left'><br/>Le présent avenant fera l'objet d'un dépôt à la direction départementale du travail, de l'emploi et de la formation professionnelle ainsi qu'au secrétariat du greffe du conseil de prud'hommes de Paris en un nombre suffisant d'exemplaires. <br/>Les signataires en demandent l'extension, et ce en application des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>articles L. 2261-15</a> et suivants du code du travail. <br/>Les formalités de dépôt et la demande d'extension seront effectuées par la fédération des entreprises du commerce et de la distribution.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Dépôt et extension",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000022932666",
-                    "textTitle": "Arrêté du 14 octobre 2010, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "JORFTEXT000022932666",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2010-10-21",
-                    "dateSignaTexte": "2010-10-14",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
             "cid": "KALITEXT000021980544",
             "title": "Avenant n° 53 du 14 octobre 2009 à l'accord du 18 juillet 1963",
             "id": "KALITEXT000021980544",
@@ -6889,6 +6659,236 @@
                   }
                 }
               ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000022017843",
+            "title": "Avenant n° 52 du 14 octobre 2009 relatif à la prévoyance",
+            "id": "KALITEXT000022017843",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2015-06-01"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000022017846",
+                "num": "1",
+                "intOrdre": 524287,
+                "id": "KALIARTI000022017846",
+                "content": "<p align='left'><br/>Le présent avenant a pour objet de modifier l'<a href='/affichIDCC.do?cidTexte=KALITEXT000005640320&idSectionTA=KALISCTA000005690244&categorieLien=cid'>article 10 </a>« Régime de prévoyance » de l'accord collectif national des maisons d'alimentation à succursales, supermarchés, hypermarchés (gérants mandataires) (<a href='/affichIDCC.do?cidTexte=KALITEXT000005640320&categorieLien=cid'>n° 3007</a>). <br/>Le contrat de gérance confié aux gérants mandataires non salariés comportant l'obligation d'assurer l'ouverture du magasin qui leur est confié, il est apparu nécessaire aux parties signataires du présent avenant d'améliorer les garanties de prévoyance des gérants mandataires non salariés lorsque ceux-ci sont empêchés, par la maladie, l'accident, ou en cas de décès, d'exploiter personnellement leur magasin. <br/>Le présent avenant prévoit l'amélioration des garanties de prévoyance (art. 2) pour les gérants mandataires non salariés en activité et le maintien des garanties du régime de prévoyance pour les gérants mandataires non salariés dont le contrat de gérance a été rompu ou en fin de contrat de gérance (art. 3).</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Objet",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000022932666",
+                    "textTitle": "Arrêté du 14 octobre 2010, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "JORFTEXT000022932666",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2010-10-21",
+                    "dateSignaTexte": "2010-10-14",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000022017847",
+                "num": "2",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000022017847",
+                "content": "<p align='left'><br/>L'article 10 « Régime de prévoyance » de l'accord collectif national des maisons d'alimentation à succursales, supermarchés, hypermarchés (gérants mandataires) (<a href='/affichIDCC.do?cidTexte=KALITEXT000005640320&categorieLien=cid'>n° 3007</a>) est modifié comme suit : </p><p align='center'><br/>« A. ― Garantie décès. ― Invalidité permanente totale et définitive <br/>1. Bénéficiaires </p><p align='left'><br/>Sont considérés comme bénéficiaires les gérants mandataires non salariés dont le contrat de gérance est en vigueur à la date d'effet du présent avenant. </p><p align='center'><br/>2. Prestations </p><p align='left'><br/>a) Base de calcul des prestations : commissions de référence <br/>La base de calcul pour les prestations décès est constituée du total des commissions brutes perçues par le gérant mandataire non salarié au cours de l'année civile précédant le décès ou l'arrêt de travail, majoré de 10 % et limité à 4 fois le plafond annuel de la sécurité sociale en vigueur au cours du mois qui précède le décès ou l'arrêt de travail. <br/>b) Montant des prestations <br/>En cas de décès d'un gérant mandataire non salarié il sera versé : <br/>― 100 % des commissions brutes de référence ; <br/>― ce capital étant majoré de 25 % par enfant à charge. <br/>En cas d'invalidité permanente totale et définitive, le gérant mandataire non salarié perçoit un capital d'un montant identique à celui prévu en cas de décès. Est considéré en situation d'invalidité permanente totale et définitive, le gérant mandataire non salarié reconnu par la sécurité sociale, soit comme invalide 3e catégorie en application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006742597&dateTexte=&categorieLien=cid'>article L. 341-4 du code de la sécurité sociale</a>, soit comme victime d'accident du travail bénéficiant de la rente pour incapacité permanente et totale, majorée pour recours à l'assistance d'une tierce personne. <br/>Le paiement du capital en cas d'invalidité permanente totale et définitive met fin à la garantie décès. </p><p align='center'><br/>Double effet </p><p align='left'><br/>Si le conjoint, le partenaire de Pacs ou le concubin décède, simultanément ou postérieurement au décès du gérant mandataire non salarié, un nouveau capital égal à une fois le plafond de la sécurité sociale de l'année civile écoulée majoré de 10 % sera versé aux enfants restant à charge du conjoint, du partenaire de Pacs ou du concubin et issus du mariage, du Pacs ou du concubinage avec le gérant mandataire non salarié. Le nouveau capital est réparti par parts égales entre eux. </p><p align='center'><br/>Enfants à charge </p><p align='left'><br/>Pour le versement de la majoration du capital décès, invalidité permanente totale et définitive, et la garantie double effet, sont considérés à charge : <br/>― les enfants de moins de 21 ans à charge au sens de la législation de la sécurité sociale, du gérant mandataire non salarié ou de son conjoint ; <br/>― les enfants âgés de moins de 26 ans à charge du gérant mandataire non salarié ou de son conjoint au sens de la législation fiscale, c'est-à-dire : <br/>― les enfants pris en compte dans le quotient familial ou ouvrant droit à un abattement applicable au revenu imposable ; <br/>― les enfants auquel le gérant mandataire non salarié sert une pension alimentaire (y compris en application d'un jugement de divorce) retenue sur son avis d'imposition à titre de charge déductible du revenu global ; <br/>― l'enfant handicapé du gérant mandataire non salarié ou de son conjoint si, avant son 21e anniversaire, il est titulaire de la carte d'invalide civil et bénéficie de l'allocation des adultes handicapés ; <br/>― quel que soit son âge, sauf déclaration personnelle de revenus, l'enfant infirme à charge du gérant mandataire non salarié ou de son conjoint n'étant pas en mesure de subvenir à ses besoins en raison de son infirmité, pris en compte dans le calcul du quotient familial ou ouvrant droit à un abattement applicable au revenu imposable ; <br/>― l'enfant du gérant mandataire non salarié né \" viable ” moins de 300 jours après le décès de ce dernier. </p><p align='center'><br/>Partenaire lié par un Pacs </p><p align='left'><br/>Personne liée au gérant mandataire non salarié par un pacte civil de solidarité tel que défini à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006428462&dateTexte=&categorieLien=cid'>article 515-1 du code civil</a>. </p><p align='center'><br/>Bénéficiaires du capital décès, invalidité permanente totale et définitive </p><p align='left'><br/>Le capital décès est versé au gérant mandataire non salarié lui-même en cas d'invalidité permanente totale et définitive ou au (x) bénéficiaire (s) qu'il aura expressément désigné (s) en cas de décès.A défaut de désignation expresse, le capital est versé dans l'ordre de préférence suivant : <br/>― à son conjoint non séparé judiciairement ni divorcé, ou à défaut son partenaire de Pacs ; <br/>― à défaut, à ses enfants nés ou représentés, légitimes, reconnus ou adoptifs ; <br/>― à défaut, à ses petits-enfants ; <br/>― à défaut de descendance directe, à ses parents, ou à défaut à ses grands-parents survivants ; <br/>― à défaut de tous les susnommés, à ses héritiers. <br/>Lorsqu'il y a attribution de majorations familiales, chacune d'entre elles est versée au profit de l'enfant au titre duquel elle est accordée ou à son représentant légal.</p><p align='center'><br/>B. ― Garantie incapacité de travail <br/>1. Bénéficiaires </p><p align='left'><br/>Sont considérés comme bénéficiaires les gérants mandataires non salariés en activité et sous contrat de gérance avec l'entreprise depuis au moins 1 an révolu, cette condition d'ancienneté étant réduite à 1 mois en cas d'arrêt de travail consécutif à un accident du travail. </p><p align='center'><br/>2. Prestations </p><p align='left'><br/>a) Base de calcul des prestations : commissions de référence <br/>La commission servant de base au calcul des prestations est égale à la moyenne des commissions nettes perçues au cours des 12 derniers mois précédant l'arrêt de travail. <br/>b) Montant des prestations de la garantie incapacité de travail <br/>En cas d'incapacité temporaire totale de travail du gérant mandataire non salarié pour cause de maladie ou d'accident, il sera garanti des indemnités journalières complémentaires soit au titre de l'assurance maladie, soit au titre des accidents de travail ou des maladies professionnelles.<br/>L'indemnisation intervient après une franchise fixe de 12 jours, supprimée en cas d'accident du travail ou d'hospitalisation ayant entraîné un arrêt de travail total (hospitalisation et ses suites) d'au moins 1 mois. <br/>Les montants des prestations sont définis comme suit : <br/>― 95 % des commissions nettes tranche A ; <br/>― 70 % des commissions nettes tranche B. <br/>Les prestations sont versées sous déduction des prestations versées par la sécurité sociale. <br/>Les prestations sont versées tant que dure l'indemnisation par la sécurité sociale, et au plus tard jusqu'au 1 095e jour d'arrêt de travail.</p><p align='center'><br/>C. ― Garantie invalidité permanente <br/>1. Bénéficiaires des garanties </p><p align='left'><br/>Pour la garantie invalidité permanente, sont considérés comme bénéficiaires les gérants mandataires non salariés en activité et sous contrat de gérance avec l'entreprise depuis au moins 1 an révolu, cette condition d'ancienneté étant réduite à 1 mois en cas d'arrêt de travail consécutif à un accident du travail. </p><p align='center'><br/>2. Base de calcul des prestations : commissions de référence </p><p align='left'><br/>La commission servant de base au calcul des prestations est égale à la moyenne des commissions brutes perçues au cours des 12 derniers mois précédant l'arrêt de travail. </p><p align='center'><br/>3. Montant des prestations </p><p align='left'><br/>La garantie a pour objet le versement : <br/>― de rentes en cas d'incapacité permanente consécutive à un accident du travail ou à une maladie professionnelle survenue pendant la période d'affiliation et ouvrant droit aux rentes d'incapacité prévues par les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006743049&dateTexte=&categorieLien=cid'>articles L. 434-1 et suivants du code de la sécurité sociale </a>; <br/>― de rentes en cas d'invalidité permanente consécutive à une maladie ou à un accident survenu pendant la période d'affiliation et ouvrant droit à la pension d'invalidité prévue à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006742593&dateTexte=&categorieLien=cid'>article L. 341-1 du code de la sécurité sociale</a>. <br/>Les prestations, servies sous la forme de rentes, sont exprimées en pourcentage des commissions de référence : <br/>― invalidité permanente classée en 2e ou 3e catégorie par la sécurité sociale : 10 % des commissions brutes limitées à la tranche A ; <br/>― invalidité permanente classée en 1re catégorie par la sécurité sociale : 6 % des commissions brutes limitées à la tranche A.<br/>L'incapacité consécutive à un accident du travail ou à une maladie professionnelle est assimilée à une invalidité de 2e ou 3e catégorie lorsque le taux d'incapacité est égal ou supérieur à 66 %. <br/>Les prestations sont versées en complément des prestations brutes de la sécurité sociale, des commissions éventuellement perçues par le gérant mandataire non salarié au titre d'une activité réduite, des prestations versées au titre d'un autre régime complémentaire de prévoyance. <br/>Le cumul de ces prestations ne peut en aucun cas dépasser 100 % des commissions que le gérant mandataire non salarié aurait perçues s'il avait continué à travailler normalement. <br/>Le service de la rente est maintenu sous réserve du versement de la rente d'invalidité de la sécurité sociale et au plus tard jusqu'à la liquidation d'une pension vieillesse (au sens notamment des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006742610&dateTexte=&categorieLien=cid'>articles L. 341-15 et R. 341-22 du code de la sécurité sociale</a>) ou du décès du gérant mandataire non salarié. La rente est réduite ou suspendue en cas de réduction ou de suspension de la pension versée par la sécurité sociale. <br/>Les rentes d'invalidité seront revalorisées sur la base de l'évolution du point de retraite AGIRC, dans la limite de 90 % du rendement de l'actif général d'AG2R Prévoyance.</p><p align='center'><br/>D. ― Reprise des risques en cours pour la garantie invalidité </p><p align='left'><br/>Bénéficient des prestations du présent régime de prévoyance : <br/>― les gérants mandataires non salariés en incapacité de travail au 1er janvier 2010 qui deviendraient invalides postérieurement à cette date ; <br/>― ainsi que les gérants mandataires non salariés en invalidité au sens de la sécurité sociale et sous contrat de gérance au 1er janvier 2010.<br/>L'entreprise qui adhère au régime de prévoyance doit, dès son adhésion, produire la liste déclarative des gérants mandataires non salariés en invalidité sous réserve que le contrat de gérance soit toujours en vigueur. <br/>Concernant la garantie décès et conformément à l'article 7. 1 de la loi Evin, celle-ci sera maintenue par le précédant assureur au profit des gérants mandataires non salariés ou anciens gérants mandataires non salariés bénéficiant de prestations incapacité ou invalidité complémentaires, à la date de résiliation du contrat de prévoyance. <br/>Sous cette réserve, les garanties décès, définies ci-dessus (A), s'appliquent aux gérants mandataires non salariés en invalidité dont le contrat de gérance est en cours, à la date d'adhésion de l'entreprise au présent régime. <br/>La prise en charge des risques en cours est financée par une cotisation sur 5 ans à raison de 0, 10 % TA et fait l'objet d'un compte spécifique.</p><p align='center'><br/>E. ― Cotisations </p><p align='left'><br/>A effet du 1er janvier 2010, le taux de cotisation est de 1, 23 % TA et 1, 39 % TB des commissions brutes réparti à raison de 70 % à la charge de l'entreprise et 30 % à la charge du gérant mandataire non salarié. <br/>Le taux de cotisation est ventilé comme suit : <br/>― garantie décès-invalidité permanente totale et définitive : 0, 25 % TA-TB ; <br/>― garantie incapacité de travail : 0, 72 % TA + 1, 11 % TB ; <br/>― garantie invalidité permanente : 0, 14 % TA ; <br/>― reprise des risques en cours : 0, 10 % TA ; <br/>― maintien des garanties (« portabilité ») en cas de rupture du contrat de gérance dans les conditions définies à l'article 3 : 0, 02 % TA + 0, 03 % TB. <br/>On entend par tranche A (TA) la part de la rémunération brute inférieure ou égale au plafond mensuel de la sécurité sociale. <br/>On entend par la tranche B (TB) la part de la rémunération brute comprise entre le plafond mensuel de la sécurité sociale et 4 fois le montant de ce plafond. <br/>Le paiement des cotisations est trimestriel à terme échu. <br/>Les cotisations sont assises sur l'ensemble des rémunérations totales brutes soumis aux cotisations sociales.</p><p align='center'><br/>F. ― Désignation de l'organisme assureur </p><p align='left'><br/>AG2R Prévoyance, institution de prévoyance du pôle alimentaire ISICA du groupe AG2R-La Mondiale régie par le <a href='/affichCode.do?cidTexte=LEGITEXT000006073189&dateTexte=&categorieLien=cid'>code de la sécurité sociale</a>, est désignée comme organisme assureur des garanties visées au présent avenant. <br/>La collecte des cotisations et le versement des prestations correspondant aux garanties susvisées sont confiés à AG2R Prévoyance. <br/>Les modalités d'organisation de la mutualisation des risques couverts par le présent avenant seront réexaminées par la commission paritaire nationale au cours d'une réunion, et ce dans un délai de 5 ans à compter de la date d'effet du présent accord, conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745472&dateTexte=&categorieLien=cid'>dispositions de l'article L. 912-1 du code de la sécurité sociale</a>. »</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Régime de prévoyance",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000022932666",
+                    "textTitle": "Arrêté du 14 octobre 2010, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "JORFTEXT000022932666",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2010-10-21",
+                    "dateSignaTexte": "2010-10-14",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000005640320",
+                    "textTitle": "ACCORD COLLECTIF NATIONAL du 18 juillet 1963 - art. 10 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "10",
+                    "articleId": "KALIARTI000022037211",
+                    "natureText": "ACCORD COLLECTIF NATIONAL",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "1963-07-18",
+                    "dateDebutCible": "2010-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000022017855",
+                "num": "3",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000030800702",
+                "content": "<p align='center'><i>1. Bénéficiaires et garanties maintenues</i><a shape='rect' href='#RENVOI_KALIARTI000022017855_1'> (1)</a></p><p align='left'>En cas de : <br/>― rupture du contrat de gérance non consécutive à une faute justifiant la rupture immédiate dudit contrat ; <br/>― ou de fin du dernier contrat de gérance, <br/>ouvrant droit à indemnisation du régime obligatoire d'assurance chômage, le gérant mandataire non salarié bénéficie du maintien des garanties de prévoyance prévues à l'article 10 « Régime de prévoyance » de l'accord collectif national des maisons d'alimentation à succursales, supermarchés, hypermarchés (gérants mandataires) (<a href='/affichIDCC.do?cidTexte=KALITEXT000005640320&categorieLien=cid'>n° 3007</a>). </p><p align='center'>2. Décès-invalidité permanente et totale, incapacité de travail, invalidité </p><p align='left'>Le maintien de ces garanties s'effectue dans les mêmes conditions que les gérants mandataires non salariés en activité, sauf dispositions particulières définies ci-après.</p><p align='left'>Le cas échéant, le gérant mandataire non salarié est informé qu'il bénéficie des dispositions prévues à l'alinéa précédent. Cette information fait l'objet d'une mention expresse sur le certificat de gérance qui est remis à l'occasion de la cessation du contrat.</p><p align='left'>Le dispositif de portabilité s'applique aux ruptures telles que définies dans le paragraphe 1 ci-dessus ou fins de contrat de gérance dont la date est égale ou postérieure au 1er janvier 2010. </p><p align='center'>3. Commission de référence </p><p align='left'>La commission servant de base au calcul des prestations est celle définie pour les gérants mandataires non salariés en activité pour chaque garantie maintenue, étant précisé que la période prise en compte est celle précédant la date de rupture ou de fin du contrat de gérance. Pour la détermination de la commission de référence, sont exclues les sommes liées à la rupture ou à la fin du contrat de gérance (et toutes autres sommes versées à titre exceptionnel). </p><p align='center'>4. Durée et limites de la portabilité </p><p align='left'>Le maintien des garanties par AG2R Prévoyance prend effet dès le lendemain de la date de fin du contrat de gérance sous réserve d'avoir été régulièrement déclaré par l'entreprise auprès de l'organisme assureur désigné. <br/> Les garanties sont maintenues pendant la période d'indemnisation de l'assurance chômage, dans la limite de la durée du dernier contrat de gérance ou des derniers contrats de gérance s'ils ont été consécutifs. Cette durée est appréciée en mois entiers, le cas échéant arrondie au nombre supérieur, sans pouvoir excéder 12 mois.  <br/>En tout état de cause, le maintien des garanties cesse : <br/>― lorsque le bénéficiaire du dispositif de portabilité reprend une activité professionnelle rémunérée, salariée ou non ; <br/>― dès qu'il ne peut plus justifier auprès de l'organisme assureur de son statut de demandeur d'emploi indemnisé par le régime obligatoire d'assurance chômage ; <br/>― à la date de la liquidation de la pension vieillesse de la sécurité sociale ; <br/>― en cas de décès. <br/>La suspension des allocations du régime obligatoire d'assurance chômage, pour cause de maladie ou pour tout autre motif, n'a pas d'incidence sur le calcul de la durée du maintien des garanties qui ne sera pas prolongée d'autant. </p><p align='center'>5. Financement de la portabilité </p><p align='left'>Le maintien des garanties au titre de la portabilité est financé par les cotisations des entreprises et des gérants mandataires non salariés en activité (part patronale et part du gérant mandataire non salarié) définie à l'article 10 « Régime de prévoyance » de l'accord collectif national des maisons d'alimentation à succursales, supermarchés, hypermarchés (gérants mandataires) (n° 3007). Le taux de cotisation de cette garantie est défini à l'article E du présent avenant. <br/>Les partenaires sociaux dresseront un bilan des dispositifs de mutualisation à l'issue d'une période de 12 mois suivant l'entrée en vigueur de l'avenant. </p><p align='center'>6. Changement d'organisme assureur </p><p align='left'>En cas de changement d'organisme assureur : <br/>― les prestations en cours sont maintenues par le précédent organisme assureur ; <br/>― les bénéficiaires du dispositif de portabilité relevant des présentes stipulations sont affiliés dans les mêmes conditions que les gérants mandataires non salariés en activité auprès du nouvel organisme assureur.</p><p><font color='#808080' size='1'><em><a shape='rect' name='RENVOI_KALIARTI000022017855_1' title='RENVOI_KALIARTI000022017855_1'></a>(1) L'article 3 (1) « Bénéficiaires et garanties maintenues » de l'avenant n° 52 est étendu sous réserve du respect de l'article 14 de l'accord national interprofessionnel du 11 janvier 2008, qui dispose que seule une faute lourde peut exclure du bénéfice de la portabilité. <br/>(Arrêté du 14 octobre 2010, art. 1er)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Portabilité des droits de prévoyance complémentaire",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000030785578",
+                    "textTitle": "Portabilité des garanties de prévoyance - art. 2 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "2",
+                    "articleId": "KALIARTI000030785584",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2015-06-29",
+                    "dateSignaTexte": "2015-01-26",
+                    "dateDebutCible": "2015-06-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000030785578",
+                    "textTitle": "Portabilité des garanties de prévoyance - art. 3 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "3",
+                    "articleId": "KALIARTI000030785588",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2015-06-29",
+                    "dateSignaTexte": "2015-01-26",
+                    "dateDebutCible": "2015-06-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000031692894",
+                    "textTitle": "Arrêté du 18 décembre 2015 - art. 2, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "2",
+                    "articleId": "JORFARTI000031692916",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2015-12-27",
+                    "dateSignaTexte": "2015-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000022017857",
+                "num": "4",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000022017857",
+                "content": "<p align='left'><br/> Le présent avenant prend effet au 1er janvier 2010.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Date d'effet",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000022932666",
+                    "textTitle": "Arrêté du 14 octobre 2010, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "JORFTEXT000022932666",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2010-10-21",
+                    "dateSignaTexte": "2010-10-14",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000022017858",
+                "num": "5",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000022017858",
+                "content": "<p align='left'><br/> Par exception et sous réserve des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745472&dateTexte=&categorieLien=cid'>dispositions de l'article L. 912-1, alinéa 2, du code de la sécurité sociale</a>, les entreprises ayant souscrit antérieurement à la date d'effet du présent accord un contrat de prévoyance au profit de leurs gérants mandataires non salariés, tels que définis dans l'article 2, assurant ces garanties à un niveau strictement supérieur à celles prévues à l'article 3 du présent accord et s'acquittant des cotisations correspondantes, ne seront pas tenues d'adhérer à l'organisme désigné dans le présent accord, tant que ledit contrat sera en vigueur.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Clause de sauvegarde",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000022932666",
+                    "textTitle": "Arrêté du 14 octobre 2010, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "JORFTEXT000022932666",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2010-10-21",
+                    "dateSignaTexte": "2010-10-14",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000022017860",
+                "num": "6",
+                "intOrdre": 3145722,
+                "id": "KALIARTI000022017860",
+                "content": "<p align='left'><br/> Le présent avenant pourra être dénoncé par l'une ou l'autre des parties signataires en respectant un délai de préavis de 3 mois. En cas de dénonciation, l'avenant continuera à produire ses effets jusqu'à l'entrée en vigueur de l'avenant qui lui sera substitué ou, à défaut, pendant une durée de 1 an conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901788&dateTexte=&categorieLien=cid'>article L. 2261-10 du code du travail</a>.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Modalités de dénonciation",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000022932666",
+                    "textTitle": "Arrêté du 14 octobre 2010, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "JORFTEXT000022932666",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2010-10-21",
+                    "dateSignaTexte": "2010-10-14",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000022017862",
+                "num": "7",
+                "intOrdre": 3670009,
+                "id": "KALIARTI000022017862",
+                "content": "<p align='left'><br/>Le présent avenant fera l'objet d'un dépôt à la direction départementale du travail, de l'emploi et de la formation professionnelle ainsi qu'au secrétariat du greffe du conseil de prud'hommes de Paris en un nombre suffisant d'exemplaires. <br/>Les signataires en demandent l'extension, et ce en application des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>articles L. 2261-15</a> et suivants du code du travail. <br/>Les formalités de dépôt et la demande d'extension seront effectuées par la fédération des entreprises du commerce et de la distribution.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Dépôt et extension",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000022932666",
+                    "textTitle": "Arrêté du 14 octobre 2010, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "JORFTEXT000022932666",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2010-10-21",
+                    "dateSignaTexte": "2010-10-14",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
             }
           ]
         },

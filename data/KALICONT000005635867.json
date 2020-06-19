@@ -7099,9 +7099,9 @@
               "data": {
                 "cid": "KALISCTA000005728953",
                 "intOrdre": 128847,
-                "title": "Conditions d'ancienneté",
-                "id": "KALISCTA000025239635",
-                "etat": "VIGUEUR_NON_ETEN"
+                "title": "Conditions d'ancienneté 3.1. Personnel non cadre.",
+                "id": "KALISCTA000005728953",
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -7148,9 +7148,9 @@
               "data": {
                 "cid": "KALISCTA000005728953",
                 "intOrdre": 128847,
-                "title": "Conditions d'ancienneté 3.1. Personnel non cadre.",
-                "id": "KALISCTA000005728953",
-                "etat": "VIGUEUR_ETEN"
+                "title": "Conditions d'ancienneté",
+                "id": "KALISCTA000025239635",
+                "etat": "VIGUEUR_NON_ETEN"
               },
               "children": [
                 {
@@ -12360,6 +12360,78 @@
         {
           "type": "section",
           "data": {
+            "cid": "KALITEXT000036512073",
+            "title": "Accord du 6 juin 2017 relatif à la désignation de l'OPCA et aux obligations conventionnelles de versement",
+            "id": "KALITEXT000036512073",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2018-01-01"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000036512076",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000036512076",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000036512080",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000036512080",
+                    "content": "<p align='left'>Le présent accord vise à la mise en œuvre des objectifs de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000034183905&categorieLien=cid'>accord du 4 octobre 2016 </a>relatif à la formation professionnelle et a pour ambition, notamment par la mutualisation, de donner à toutes les associations de la branche les moyens de réaliser des actions contribuant à pérenniser l'emploi, à sécuriser les parcours professionnels, et de nature à favoriser l'évolution et la promotion professionnelle dans la branche du tourisme social et familial.<br/><br/>\nCet accord désigne l'OPCA de branche, Uniformation, et fixe, par type d'entreprise, des obligations conventionnelles de versement, en complément des obligations légales.<br/><br/>\nLes partenaires sociaux de la branche soulignent l'accompagnement effectué par Uniformation et souhaitent par cette redésignation lui témoigner leur confiance, mais aussi l'inviter, aidé en cela par les moyens complémentaires ainsi créés, à faciliter l'accès à la formation de tous les salariés de la branche et plus particulièrement dans les plus petites structures.</p><p align='center'><br/>\n1. Organisme paritaire collecteur agréé (OPCA) de la branche</p><p align='left'><br/>\nLa désignation de l'OPCA-OPACIF Uniformation prévue au sein de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000034183950&categorieLien=cid'>accord du 17 novembre 2016</a> relatif à la désignation de l'OPCA et aux obligations conventionnelles de versement est prorogée pour une durée de 5 années soit jusqu'au 31 décembre 2022.<br/><br/>\nEn conséquence, elle cessera de produire effet à la date limite de versement des contributions à la formation professionnelle assises sur les masses salariales de 2022 soit le 28 février 2023.<br/><br/>\nIl est expressément acté que toutes les contributions légales et conventionnelles assises sur les masses salariales 2022 seront à verser au plus tard le 28 février 2023 par les entreprises de la branche à l'OPCA-OPACIF Uniformation et qu'elles viendront notamment compenser les engagements accordés par l'OPCA-OPACIF Uniformation jusqu'au 31 décembre 2022.</p><p align='center'><br/>\n2. Obligations légales</p><p align='left'><br/>\nPar application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904143&dateTexte=&categorieLien=cid'>article L. 6321-1 du code du travail</a>, « L'employeur assure l'adaptation des salariés à leur poste de travail. Il veille au maintien de leur capacité à occuper un emploi, au regard notamment de l'évolution des emplois, des technologies et des organisations ».<br/><br/>\nAfin de permettre la mise en œuvre de cette obligation de formation professionnelle continue des salariés, la loi fixe une contribution dont les taux sont, à la date de signature du présent accord, les suivants, en fonction de la taille des entreprises :</p><p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000036625627",
+                        "textTitle": "Arrêté du 15 février 2018 - art. 17, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "17",
+                        "articleId": "JORFARTI000036625687",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2018-02-21",
+                        "dateSignaTexte": "2018-02-15",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000036512077",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000036512077",
+                "content": "<p>(En pourcentage.)</p><p></p><center><table border='1'><tbody><tr><th></th><th>Entreprises<br/>\n\t\t\tde moins<br/>\n\t\t\tde 11 salariés</th><th>Entreprises<br/>\n\t\t\tde 11 à moins<br/>\n\t\t\tde 50 salariés</th><th>Entreprises<br/>\n\t\t\tde plus de 50 salaries à moins de 300 salariés</th><th>Entreprises<br/>\n\t\t\tde 300 salariés<br/>\n\t\t\tet plus</th></tr><tr><td align='center'>Contributions (au total)</td><td align='center'>0,55</td><td align='center'>1</td><td align='center'>1</td><td align='center'>1</td></tr><tr><td colspan='5' align='center'>Répartition des contributions</td></tr><tr><td align='center'>CIF (congé individuel de formation)</td><td></td><td align='center'>0,15</td><td align='center'>0,20</td><td align='center'>0,20</td></tr><tr><td align='center'>Plan de formation</td><td align='center'>0,40</td><td align='center'>0,20</td><td align='center'>0,10</td><td></td></tr><tr><td align='center'>Professionnalisation</td><td align='center'>0,15</td><td align='center'>0,30</td><td align='center'>0,30</td><td align='center'>0,40</td></tr><tr><td align='center'>CPF (compte personnel de formation)</td><td></td><td align='center'>0,20</td><td align='center'>0,20</td><td align='center'>0,20</td></tr><tr><td align='center'>FPSPP (fonds paritaire de sécurisation des parcours professionnels)</td><td></td><td align='center'>0,15</td><td align='center'>0,20</td><td align='center'>0,20</td></tr></tbody></table></center><p></p><p><br/>\n3. Obligations conventionnelles de versement</p><p><br/>\nAfin de faciliter l'accès des salariés de la branche à la formation, les partenaires sociaux instituent pour les entreprises de la branche l'obligation de consacrer, au-delà des contributions légales, un pourcentage de leur masse salariale brute au financement de la formation.<br/><br/>\nLes contributions supplémentaires conventionnelles versées à l'OPCA-OPACIF Uniformation, conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000021343095&dateTexte=&categorieLien=cid'>article L. 6332-1-2 du code du travail</a>, sont mutualisées et utilisées selon les dispositions arrêtées annuellement par la CPNEF du tourisme social et familial.<br/><br/>\nCes taux mentionnés ci-dessous sont applicables sur les contributions assises sur les masses salariales brutes versées entre le 1er janvier 2018 et le 31 décembre 2022.</p><p><br/>\n3.1. Pour les entreprises de moins de 300 salariés équivalents temps plein</p><p><br/>\nEn complément des dispositions légales, les entreprises ayant un effectif inférieur à 300 salariés versent à l'OPCA-OPACIF Uniformation une contribution supplémentaire conventionnelle au titre du développement de la formation professionnelle selon la progression suivante.<br/><br/>\n– pour la contribution assise sur la masse salariale brute de 2018 : 0,25 % ;<br/>\n– pour la contribution assise sur la masse salariale brute de 2019 : 0,30 % ;<br/>\n– pour la contribution assise sur la masse salariale brute de 2020, 2021 et 2022 : 0,40 %.<br/><br/>\nLa contribution ne peut être inférieure à 100 €.</p><p><br/>\n3.2. Pour les entreprises de 300 salariés et plus</p><p><br/>\nSans préjudice de l'application des dispositions relatives à la contribution minimale légale, les entreprises de 300 salariés et plus gèrent librement les moyens consacrés annuellement ou de manière pluriannuelle à la formation, ou peuvent verser une contribution supplémentaire volontaire à l'OPCA-OPACIF Uniformation, laquelle ne peut être inférieure à 0,60 % de la masse salariale brute annuelle.<br/><br/>\nLes partenaires sociaux rappellent que la mutualisation contribue efficacement à une meilleure répartition des moyens dans le temps et invitent les entreprises de 300 salariés et plus à confier à l'OPCA de branche la gestion de tout ou partie de leur plan de formation.</p><p><br/>\n4. Suivi</p><p><br/>\nLes partenaires sociaux confient à la CPNEF le suivi du présent accord.<br/><br/>\nLes organisations syndicales de salariés et d'employeurs conviennent d'établir un bilan de l'application de ces dispositions chaque année et de se revoir 1 an avant la fin de désignation de l'OPCA pour engager les négociations en vue d'une nouvelle désignation.</p><p><br/>\n5. Dates d'application et durée</p><p><br/>\nLe présent accord est conclu pour une durée de 5 ans à partir du 1er janvier 2018.</p><p><br/>\n6. Formalités</p><p><br/>\nCet accord fera l'objet des formalités de dépôt prévues aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>articles L. 2231-6 et suivants du code du travail</a> et d'une demande d'extension.</p><p><br/>\n7. Révision</p><p><br/>\nLe présent accord pourra être révisé dans les conditions légales.</p><p></p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000036625627",
+                    "textTitle": "Arrêté du 15 février 2018 - art. 17, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "17",
+                    "articleId": "JORFARTI000036625687",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2018-02-21",
+                    "dateSignaTexte": "2018-02-15",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
             "cid": "KALITEXT000036512084",
             "title": "Avenant n° 3 du 6 juin 2017 à l'accord du 17 novembre 2016 relatif à l'instauration d'un régime professionnel de santé et de prévoyance",
             "id": "KALITEXT000036512084",
@@ -12466,78 +12538,6 @@
                 "etat": "VIGUEUR_NON_ETEN",
                 "surtitre": "Formalités et publicité",
                 "lstLienModification": []
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALITEXT000036512073",
-            "title": "Accord du 6 juin 2017 relatif à la désignation de l'OPCA et aux obligations conventionnelles de versement",
-            "id": "KALITEXT000036512073",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "2018-01-01"
-          },
-          "children": [
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000036512076",
-                "intOrdre": 524287,
-                "title": "Préambule",
-                "id": "KALISCTA000036512076",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000036512080",
-                    "intOrdre": 524287,
-                    "id": "KALIARTI000036512080",
-                    "content": "<p align='left'>Le présent accord vise à la mise en œuvre des objectifs de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000034183905&categorieLien=cid'>accord du 4 octobre 2016 </a>relatif à la formation professionnelle et a pour ambition, notamment par la mutualisation, de donner à toutes les associations de la branche les moyens de réaliser des actions contribuant à pérenniser l'emploi, à sécuriser les parcours professionnels, et de nature à favoriser l'évolution et la promotion professionnelle dans la branche du tourisme social et familial.<br/><br/>\nCet accord désigne l'OPCA de branche, Uniformation, et fixe, par type d'entreprise, des obligations conventionnelles de versement, en complément des obligations légales.<br/><br/>\nLes partenaires sociaux de la branche soulignent l'accompagnement effectué par Uniformation et souhaitent par cette redésignation lui témoigner leur confiance, mais aussi l'inviter, aidé en cela par les moyens complémentaires ainsi créés, à faciliter l'accès à la formation de tous les salariés de la branche et plus particulièrement dans les plus petites structures.</p><p align='center'><br/>\n1. Organisme paritaire collecteur agréé (OPCA) de la branche</p><p align='left'><br/>\nLa désignation de l'OPCA-OPACIF Uniformation prévue au sein de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000034183950&categorieLien=cid'>accord du 17 novembre 2016</a> relatif à la désignation de l'OPCA et aux obligations conventionnelles de versement est prorogée pour une durée de 5 années soit jusqu'au 31 décembre 2022.<br/><br/>\nEn conséquence, elle cessera de produire effet à la date limite de versement des contributions à la formation professionnelle assises sur les masses salariales de 2022 soit le 28 février 2023.<br/><br/>\nIl est expressément acté que toutes les contributions légales et conventionnelles assises sur les masses salariales 2022 seront à verser au plus tard le 28 février 2023 par les entreprises de la branche à l'OPCA-OPACIF Uniformation et qu'elles viendront notamment compenser les engagements accordés par l'OPCA-OPACIF Uniformation jusqu'au 31 décembre 2022.</p><p align='center'><br/>\n2. Obligations légales</p><p align='left'><br/>\nPar application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904143&dateTexte=&categorieLien=cid'>article L. 6321-1 du code du travail</a>, « L'employeur assure l'adaptation des salariés à leur poste de travail. Il veille au maintien de leur capacité à occuper un emploi, au regard notamment de l'évolution des emplois, des technologies et des organisations ».<br/><br/>\nAfin de permettre la mise en œuvre de cette obligation de formation professionnelle continue des salariés, la loi fixe une contribution dont les taux sont, à la date de signature du présent accord, les suivants, en fonction de la taille des entreprises :</p><p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000036625627",
-                        "textTitle": "Arrêté du 15 février 2018 - art. 17, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "17",
-                        "articleId": "JORFARTI000036625687",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2018-02-21",
-                        "dateSignaTexte": "2018-02-15",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000036512077",
-                "intOrdre": 1048574,
-                "id": "KALIARTI000036512077",
-                "content": "<p>(En pourcentage.)</p><p></p><center><table border='1'><tbody><tr><th></th><th>Entreprises<br/>\n\t\t\tde moins<br/>\n\t\t\tde 11 salariés</th><th>Entreprises<br/>\n\t\t\tde 11 à moins<br/>\n\t\t\tde 50 salariés</th><th>Entreprises<br/>\n\t\t\tde plus de 50 salaries à moins de 300 salariés</th><th>Entreprises<br/>\n\t\t\tde 300 salariés<br/>\n\t\t\tet plus</th></tr><tr><td align='center'>Contributions (au total)</td><td align='center'>0,55</td><td align='center'>1</td><td align='center'>1</td><td align='center'>1</td></tr><tr><td colspan='5' align='center'>Répartition des contributions</td></tr><tr><td align='center'>CIF (congé individuel de formation)</td><td></td><td align='center'>0,15</td><td align='center'>0,20</td><td align='center'>0,20</td></tr><tr><td align='center'>Plan de formation</td><td align='center'>0,40</td><td align='center'>0,20</td><td align='center'>0,10</td><td></td></tr><tr><td align='center'>Professionnalisation</td><td align='center'>0,15</td><td align='center'>0,30</td><td align='center'>0,30</td><td align='center'>0,40</td></tr><tr><td align='center'>CPF (compte personnel de formation)</td><td></td><td align='center'>0,20</td><td align='center'>0,20</td><td align='center'>0,20</td></tr><tr><td align='center'>FPSPP (fonds paritaire de sécurisation des parcours professionnels)</td><td></td><td align='center'>0,15</td><td align='center'>0,20</td><td align='center'>0,20</td></tr></tbody></table></center><p></p><p><br/>\n3. Obligations conventionnelles de versement</p><p><br/>\nAfin de faciliter l'accès des salariés de la branche à la formation, les partenaires sociaux instituent pour les entreprises de la branche l'obligation de consacrer, au-delà des contributions légales, un pourcentage de leur masse salariale brute au financement de la formation.<br/><br/>\nLes contributions supplémentaires conventionnelles versées à l'OPCA-OPACIF Uniformation, conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000021343095&dateTexte=&categorieLien=cid'>article L. 6332-1-2 du code du travail</a>, sont mutualisées et utilisées selon les dispositions arrêtées annuellement par la CPNEF du tourisme social et familial.<br/><br/>\nCes taux mentionnés ci-dessous sont applicables sur les contributions assises sur les masses salariales brutes versées entre le 1er janvier 2018 et le 31 décembre 2022.</p><p><br/>\n3.1. Pour les entreprises de moins de 300 salariés équivalents temps plein</p><p><br/>\nEn complément des dispositions légales, les entreprises ayant un effectif inférieur à 300 salariés versent à l'OPCA-OPACIF Uniformation une contribution supplémentaire conventionnelle au titre du développement de la formation professionnelle selon la progression suivante.<br/><br/>\n– pour la contribution assise sur la masse salariale brute de 2018 : 0,25 % ;<br/>\n– pour la contribution assise sur la masse salariale brute de 2019 : 0,30 % ;<br/>\n– pour la contribution assise sur la masse salariale brute de 2020, 2021 et 2022 : 0,40 %.<br/><br/>\nLa contribution ne peut être inférieure à 100 €.</p><p><br/>\n3.2. Pour les entreprises de 300 salariés et plus</p><p><br/>\nSans préjudice de l'application des dispositions relatives à la contribution minimale légale, les entreprises de 300 salariés et plus gèrent librement les moyens consacrés annuellement ou de manière pluriannuelle à la formation, ou peuvent verser une contribution supplémentaire volontaire à l'OPCA-OPACIF Uniformation, laquelle ne peut être inférieure à 0,60 % de la masse salariale brute annuelle.<br/><br/>\nLes partenaires sociaux rappellent que la mutualisation contribue efficacement à une meilleure répartition des moyens dans le temps et invitent les entreprises de 300 salariés et plus à confier à l'OPCA de branche la gestion de tout ou partie de leur plan de formation.</p><p><br/>\n4. Suivi</p><p><br/>\nLes partenaires sociaux confient à la CPNEF le suivi du présent accord.<br/><br/>\nLes organisations syndicales de salariés et d'employeurs conviennent d'établir un bilan de l'application de ces dispositions chaque année et de se revoir 1 an avant la fin de désignation de l'OPCA pour engager les négociations en vue d'une nouvelle désignation.</p><p><br/>\n5. Dates d'application et durée</p><p><br/>\nLe présent accord est conclu pour une durée de 5 ans à partir du 1er janvier 2018.</p><p><br/>\n6. Formalités</p><p><br/>\nCet accord fera l'objet des formalités de dépôt prévues aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>articles L. 2231-6 et suivants du code du travail</a> et d'une demande d'extension.</p><p><br/>\n7. Révision</p><p><br/>\nLe présent accord pourra être révisé dans les conditions légales.</p><p></p>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000036625627",
-                    "textTitle": "Arrêté du 15 février 2018 - art. 17, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "17",
-                    "articleId": "JORFARTI000036625687",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2018-02-21",
-                    "dateSignaTexte": "2018-02-15",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
               }
             }
           ]
@@ -14217,30 +14217,30 @@
         {
           "type": "section",
           "data": {
-            "cid": "KALITEXT000041973396",
-            "title": "Avenant n° 6 du 1er juillet 2019 à l'accord du 17 novembre 2016 relatif à l'instauration d'un régime professionnel de santé et de prévoyance",
-            "id": "KALITEXT000041973396",
+            "cid": "KALITEXT000041973341",
+            "title": "Accord du 27 novembre 2019 relatif au financement de la formation professionnelle et de l'apprentissage",
+            "id": "KALITEXT000041973341",
             "etat": "VIGUEUR_NON_ETEN",
-            "modifDate": "2019-01-01"
+            "modifDate": "2020-01-01"
           },
           "children": [
             {
               "type": "section",
               "data": {
-                "cid": "KALISCTA000041973399",
+                "cid": "KALISCTA000041973344",
                 "intOrdre": 524287,
                 "title": "Préambule",
-                "id": "KALISCTA000041973399",
+                "id": "KALISCTA000041973344",
                 "etat": "VIGUEUR_NON_ETEN"
               },
               "children": [
                 {
                   "type": "article",
                   "data": {
-                    "cid": "KALIARTI000041973407",
+                    "cid": "KALIARTI000041973363",
                     "intOrdre": 524287,
-                    "id": "KALIARTI000041973407",
-                    "content": "<p align='left'>Le présent avenant a pour objet de définir la répartition des taux de cotisations entre employeur et salarié des suites de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000038192437&categorieLien=cid' title='Régime professionnel de santé et de prévoyance (VE)'>avenant n° 5</a> modifiant le taux d'appel des cotisations pour le régime prévoyance.</p><p align='left'>Les partenaires sociaux ont expressément souhaité maintenir le principe du taux de répartition antérieur, à savoir 40 % à la charge du salarié et 60 % à la charge de l'employeur.</p><p align='left'>Les partenaires sociaux précisent que les salariés cadres et assimilés cadres bénéficient d'une participation employeur de 96 % sur la tranche de rémunération inférieure au plafond fixé pour les cotisations de sécurité sociale, et non pas de 60 %, dans l'objectif de respecter les dispositions antérieurement applicables.</p><p align='left'>Les partenaires sociaux rappellent que les taux de répartitions exprimées ci-dessous ne concerne que les entreprises adhérentes aux organismes recommandés par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000034183966&categorieLien=cid' title='Frais de santé et prévoyance (VE)'>accord du 17 novembre 2016</a>.</p>",
+                    "id": "KALIARTI000041973363",
+                    "content": "<p align='left'>La loi du 5 septembre 2018 « pour la liberté de choisir son avenir professionnel » modifie la totalité des modalités de financement de la formation professionnelle, donnant une responsabilité accrue aux branches professionnelles.</p><p align='left'>Le présent accord vise à déterminer les moyens financiers en vue de mettre en œuvre, et de préciser, les objectifs de l'accord du 27 novembre 2019 relatif à la formation professionnelle.</p><p align='left'>Les partenaires sociaux insistent sur le fait que la gestion des fonds conventionnels doit se faire dans un cadre mutualisé entre toutes les entreprises de la branche.</p><p align='left'>Les dispositions du présent accord annulent et remplacent celles prévues par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000036512073&categorieLien=cid' title='Désignation de l'OPCA et obligations conventionnelles de versement (VE)'>accord du 6 juin 2017</a> relatif à la désignation de l'OPCA et aux obligations conventionnelles de versement.</p>",
                     "etat": "VIGUEUR_NON_ETEN",
                     "lstLienModification": []
                   }
@@ -14250,52 +14250,117 @@
             {
               "type": "article",
               "data": {
-                "cid": "KALIARTI000041973400",
+                "cid": "KALIARTI000041973345",
                 "num": "1er",
                 "intOrdre": 1048574,
-                "id": "KALIARTI000041973400",
-                "content": "<p align='left'>Au sein de l'article 3.4 de l'accord du 17 novembre 2016 le tableau déterminant le taux des cotisations pour les salariés non cadres est annulé et remplacé par le tableau suivant :</p><p align='left'></p><center><table border='1'><tbody><tr><th>Non cadres</th><th colspan='2'>Part salariale</th><th colspan='2'>Part patronale</th><th colspan='2'>Total</th></tr><tr><td align='center'></td><td align='center'>TA</td><td align='center'>TB</td><td align='center'>TA</td><td align='center'>TB</td><td align='center'>TA</td><td align='center'>TB</td></tr><tr><td align='center'>Total</td><td align='center'>0,66 %</td><td align='center'>0,66 %</td><td align='center'>0,99 %</td><td align='center'>0,99 %</td><td align='center'>1,65 %</td><td align='center'>1,65 %</td></tr></tbody></table></center><p></p><p align='left'>Au sein de l'article 3.4 de l'accord du 17 novembre 2016 le tableau déterminant le taux des cotisations pour les salariés cadres est annulé et remplacé par le tableau suivant :</p><p align='left'></p><center><table border='1'><tbody><tr><th>Cadres</th><th colspan='2'>Part salariale</th><th colspan='2'>Part patronale</th><th colspan='2'>Total</th></tr><tr><td align='center'></td><td align='center'>TA</td><td align='center'>TB</td><td align='center'>TA</td><td align='center'>TB</td><td align='center'>TA</td><td align='center'>TB</td></tr><tr><td align='center'>Total</td><td align='center'>0,07 %</td><td align='center'>1,35 %</td><td align='center'>1,77 %</td><td align='center'>2,02 %</td><td align='center'>1,84 %</td><td align='center'>3,37 %</td></tr></tbody></table></center><p></p>",
+                "id": "KALIARTI000041973345",
+                "content": "<p align='left'>En vertu de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000037375108&dateTexte=&categorieLien=cid' title='Code du travail - art. L6131-1 (V)'>article L. 6131-1 du code du travail</a>, le financement de la formation professionnelle est assuré par le financement direct d'actions de formation et le versement par les entreprises :<br/>\n– la contribution unique à la formation professionnelle et à l'alternance composée de la taxe d'apprentissage et de la contribution à la formation professionnelle ;<br/>\n– la contribution supplémentaire à l'apprentissage (CSA) ;<br/>\n– la contribution pour le financement du compte personnel de formation (CPF) des salariés en CDD.</p><p align='left'>Les partenaires sociaux décident de maintenir la contribution conventionnelle afin de se doter des moyens nécessaires à la mise en place d'une politique de formation au niveau de la branche.</p><p align='left'>Les entreprises de la branche ont l'obligation de consacrer, au-delà des contributions légales, un pourcentage de leur masse salariale brute au financement de la formation dans les conditions définies à l'article 4 du présent accord.</p><p align='left'>Ces versements sont opérés par les entreprises auprès de l'URSSAF et, à titre transitoire, auprès de l'OPCO désigné par la branche jusqu'à prise de relai effective par les URSSAF.</p>",
                 "etat": "VIGUEUR_NON_ETEN",
-                "surtitre": "Répartition du taux de cotisation pour le régime prévoyance",
-                "lstLienModification": [
-                  {
-                    "textCid": "KALITEXT000034183966",
-                    "textTitle": "Frais de santé et prévoyance - art. 3 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "source",
-                    "articleNum": "3",
-                    "articleId": "KALIARTI000041981970",
-                    "natureText": "Accord",
-                    "datePubliTexte": "2999-01-01",
-                    "dateSignaTexte": "2016-11-17",
-                    "dateDebutCible": "2019-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000041973403",
-                "num": "2",
-                "intOrdre": 1572861,
-                "id": "KALIARTI000041973403",
-                "content": "<p align='left'><br/>Les partenaires sociaux, compte tenu de l'objet du présent avenant, choisissent de ne pas prévoir de dispositions particulières par taille d'entreprise.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "surtitre": "Dispositions relatives aux entreprises de moins de 50 salariés",
+                "surtitre": "L'obligation de versement",
                 "lstLienModification": []
               }
             },
             {
               "type": "article",
               "data": {
-                "cid": "KALIARTI000041973404",
+                "cid": "KALIARTI000041973347",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000041973347",
+                "content": "<p align='left'>Le taux de la contribution à la formation professionnelle est déterminé en fonction de l'effectif comme défini ci-dessous. Le versement de cette contribution intervient dans les délais et conditions prévus par les dispositions légales et réglementaires.</p><p align='left'>En vertu des dispositions légales en vigueur, les entreprises occupant moins de 11 salariés doivent consacrer au financement de la formation une participation minimale de 0,55 % de leur masse salariale.</p><p align='left'>Les entreprises occupant 11 salariés et plus doivent consacrer au financement de la formation une participation minimale de 1 % de leur masse salariale.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Le taux de la contribution à la formation professionnelle et la répartition des contributions",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000041973348",
                 "num": "3",
                 "intOrdre": 2097148,
-                "id": "KALIARTI000041973404",
-                "content": "<p align='left'>Le présent avenant prendra effet à compter du 1er janvier 2019.</p><p align='left'>Il fera l'objet des formalités de dépôt prévues aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-6 (V)'>articles L. 2231-6 et suivants du code du travail</a> ainsi que d'une demande d'extension.</p><p align='left'>Il pourra être révisé ou dénoncé dans le respect des dispositions légales. La dénonciation par l'une des parties signataires doit être notifiée par lettre recommandée avec avis de réception aux autres signataires et faire l'objet d'un dépôt conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-9 (V)'>article L. 2261-9 du code du travail</a>.</p><p align='left'>L'ensemble des partenaires sociaux peuvent se réunir dans les trois mois suivant la réception de la notification afin d'envisager l'éventuelle conclusion d'un accord de substitution. Un accord peut être conclu, y compris avant l'expiration du délai de préavis de 3 mois.</p>",
+                "id": "KALIARTI000041973348",
+                "content": "<p align='left'><br/>Les entreprises, quel que soit leur effectif, doivent, s'acquitter d'une contribution dédiée au financement du CPF égale à 1 % du montant des salaires versés aux salariés sous contrats à durée déterminée avec exclusion des contrats de travail à durée déterminée des salariés occupant un emploi saisonnier conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904283&dateTexte=&categorieLien=cid' title='Code du travail - art. L6331-6 (V)'>article L. 6331-6 du code du travail</a>.</p>",
                 "etat": "VIGUEUR_NON_ETEN",
-                "surtitre": "Dispositions relatives à l'entrée en vigueur, au dépôt et à la publicité du présent avenant",
+                "surtitre": "La contribution pour le financement du compte personnel de formation (CPF) des salariés en CDD",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000041973350",
+                "num": "4",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000041973350",
+                "content": "<p align='center'>4.1. Montant de la contribution conventionnelle</p><p align='left'>Une contribution supplémentaire conventionnelle de 0,40 % de la masse salariale brute est due par les entreprises de moins de 300 salariés équivalent temps plein. La contribution ne peut être inférieure à 100 €.</p><p align='left'>Une contribution supplémentaire conventionnelle de 0,20 % de la masse salariale brute est due par les entreprises de plus de 300 salariés équivalent temps plein.<br/>\nLes contributions supplémentaires conventionnelles sont mutualisées et utilisées selon les dispositions arrêtées annuellement par la CPNEF du tourisme social et familial.</p><p align='left'>Ces versements sont exclusivement réservés au financement d'actions bénéficiant aux entreprises visées par cet article et à leurs salariés, et restent entièrement acquis à la branche.</p><p align='left'>Les taux de versement pour la contribution conventionnelle mentionnés ci-dessus sont applicables sur les contributions assises sur les masses salariales brutes à compter de celles versées au titre de l'année 2020 et jusqu'à celles versées au titre de l'année 2021.</p><p align='center'>4.2. Priorités d'utilisation des fonds conventionnels</p><p align='left'>L'utilisation des fonds conventionnels est arrêtée annuellement par la CPNEF en fonction des fonds disponibles. Les partenaires sociaux souhaitent néanmoins poser les principes prioritaires sur lesquels les fonds conventionnels pourront être fléchés pendant la durée d'application de l'accord :<br/>\n– développer l'offre de formation pour les entreprises de la branche notamment via un accès aux fonds conventionnels ;<br/>\n– favoriser le départ en formation des salariés de la branche ;<br/>\n– relancer l'observation des emplois et des compétences dans la branche ;<br/>\n– faciliter le recours à l'alternance ;<br/>\n– réaliser des co-financements du CPF lorsque celui-ci est co-construit avec entre l'employeur et le salarié ;<br/>\n– mettre en place des certifications conformes aux besoins des entreprises de la branche, tant par leur création que leur adaptation lorsque cela est possible.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Obligations conventionnelles de versement",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000041973351",
+                "num": "5",
+                "intOrdre": 3145722,
+                "id": "KALIARTI000041973351",
+                "content": "<p align='left'>Au-delà des obligations légales et conventionnelles de financement de la formation professionnelle, les entreprises doivent s'inscrire dans une obligation sociale d'accompagnement de leurs salariés.</p><p align='left'>Toutes les entreprises de la branche, quel que soit leur seuil d'effectif, peuvent décider d'augmenter leur investissement en matière de formation professionnelle.</p><p align='left'>Ces entreprises peuvent soit garder en gestion propre ce budget, soit conclure un partenariat spécifique avec l'OPCO afin de convenir des modalités de ce versement volontaire et de son utilisation.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Les contributions volontaires",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000041973352",
+                "num": "6",
+                "intOrdre": 3670009,
+                "id": "KALIARTI000041973352",
+                "content": "<p align='left'>Un mécanisme de neutralisation des effets de seuils est prévu à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904277&dateTexte=&categorieLien=cid' title='Code du travail - art. L6331-1 (VT)'>article L. 6331-1 A du code du travail</a>.</p><p align='left'>Conformément à cet article, et par renvoi aux dispositions de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000038498675&dateTexte=&categorieLien=cid' title='Code de la sécurité sociale. - art. L130-1 (V)'>article L. 130-1 du code de la sécurité sociale</a>, le franchissement à la hausse d'un seuil d'effectif est pris en compte lorsque ce seuil a été atteint ou dépassé pendant cinq années civiles consécutives.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "La neutralisation des effets de seuils",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000041973359",
+                "num": "7",
+                "intOrdre": 4194296,
+                "id": "KALIARTI000041973359",
+                "content": "<p align='left'><br/>Le présent accord se substitue à l'<a href='/affichIDCC.do?cidTexte=KALITEXT000036512073&categorieLien=cid' title='Désignation de l'OPCA et obligations conventionnelles de versement (VE)'>accord du 6 juin 2017</a> relatif à la désignation de l'OPCA et aux obligations conventionnelles de versement.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Sécurisation juridique",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000041973361",
+                "num": "8",
+                "intOrdre": 4718583,
+                "id": "KALIARTI000041973361",
+                "content": "<p align='left'>Les partenaires sociaux confient à la CPNEF le suivi du présent accord.</p><p align='left'>Le présent accord est conclu pour une durée déterminée de 2 ans à partir du 1er janvier 2020 et jusqu'au 31 décembre 2021.</p><p align='left'>Les taux de versement pour la contribution conventionnelle mentionnés ci-dessus sont applicables sur les contributions assises sur les masses salariales brutes versées au titre de l'année 2020 et jusqu'à celles versées au titre de l'année 2021.</p><p align='left'>Il fera l'objet d'un dépôt auprès de la direction générale du travail, ainsi que d'une demande d'extension.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Suivi, durée de l'accord et entrée en vigueur",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000041973362",
+                "num": "9",
+                "intOrdre": 5242870,
+                "id": "KALIARTI000041973362",
+                "content": "<p align='left'><br/>Le présent accord pourra être révisé ou dénoncé conformément aux dispositions légales.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Révision, dénonciation",
                 "lstLienModification": []
               }
             }
@@ -14482,30 +14547,30 @@
         {
           "type": "section",
           "data": {
-            "cid": "KALITEXT000041973341",
-            "title": "Accord du 27 novembre 2019 relatif au financement de la formation professionnelle et de l'apprentissage",
-            "id": "KALITEXT000041973341",
+            "cid": "KALITEXT000041973396",
+            "title": "Avenant n° 6 du 1er juillet 2019 à l'accord du 17 novembre 2016 relatif à l'instauration d'un régime professionnel de santé et de prévoyance",
+            "id": "KALITEXT000041973396",
             "etat": "VIGUEUR_NON_ETEN",
-            "modifDate": "2020-01-01"
+            "modifDate": "2019-01-01"
           },
           "children": [
             {
               "type": "section",
               "data": {
-                "cid": "KALISCTA000041973344",
+                "cid": "KALISCTA000041973399",
                 "intOrdre": 524287,
                 "title": "Préambule",
-                "id": "KALISCTA000041973344",
+                "id": "KALISCTA000041973399",
                 "etat": "VIGUEUR_NON_ETEN"
               },
               "children": [
                 {
                   "type": "article",
                   "data": {
-                    "cid": "KALIARTI000041973363",
+                    "cid": "KALIARTI000041973407",
                     "intOrdre": 524287,
-                    "id": "KALIARTI000041973363",
-                    "content": "<p align='left'>La loi du 5 septembre 2018 « pour la liberté de choisir son avenir professionnel » modifie la totalité des modalités de financement de la formation professionnelle, donnant une responsabilité accrue aux branches professionnelles.</p><p align='left'>Le présent accord vise à déterminer les moyens financiers en vue de mettre en œuvre, et de préciser, les objectifs de l'accord du 27 novembre 2019 relatif à la formation professionnelle.</p><p align='left'>Les partenaires sociaux insistent sur le fait que la gestion des fonds conventionnels doit se faire dans un cadre mutualisé entre toutes les entreprises de la branche.</p><p align='left'>Les dispositions du présent accord annulent et remplacent celles prévues par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000036512073&categorieLien=cid' title='Désignation de l'OPCA et obligations conventionnelles de versement (VE)'>accord du 6 juin 2017</a> relatif à la désignation de l'OPCA et aux obligations conventionnelles de versement.</p>",
+                    "id": "KALIARTI000041973407",
+                    "content": "<p align='left'>Le présent avenant a pour objet de définir la répartition des taux de cotisations entre employeur et salarié des suites de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000038192437&categorieLien=cid' title='Régime professionnel de santé et de prévoyance (VE)'>avenant n° 5</a> modifiant le taux d'appel des cotisations pour le régime prévoyance.</p><p align='left'>Les partenaires sociaux ont expressément souhaité maintenir le principe du taux de répartition antérieur, à savoir 40 % à la charge du salarié et 60 % à la charge de l'employeur.</p><p align='left'>Les partenaires sociaux précisent que les salariés cadres et assimilés cadres bénéficient d'une participation employeur de 96 % sur la tranche de rémunération inférieure au plafond fixé pour les cotisations de sécurité sociale, et non pas de 60 %, dans l'objectif de respecter les dispositions antérieurement applicables.</p><p align='left'>Les partenaires sociaux rappellent que les taux de répartitions exprimées ci-dessous ne concerne que les entreprises adhérentes aux organismes recommandés par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000034183966&categorieLien=cid' title='Frais de santé et prévoyance (VE)'>accord du 17 novembre 2016</a>.</p>",
                     "etat": "VIGUEUR_NON_ETEN",
                     "lstLienModification": []
                   }
@@ -14515,117 +14580,52 @@
             {
               "type": "article",
               "data": {
-                "cid": "KALIARTI000041973345",
+                "cid": "KALIARTI000041973400",
                 "num": "1er",
                 "intOrdre": 1048574,
-                "id": "KALIARTI000041973345",
-                "content": "<p align='left'>En vertu de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000037375108&dateTexte=&categorieLien=cid' title='Code du travail - art. L6131-1 (V)'>article L. 6131-1 du code du travail</a>, le financement de la formation professionnelle est assuré par le financement direct d'actions de formation et le versement par les entreprises :<br/>\n– la contribution unique à la formation professionnelle et à l'alternance composée de la taxe d'apprentissage et de la contribution à la formation professionnelle ;<br/>\n– la contribution supplémentaire à l'apprentissage (CSA) ;<br/>\n– la contribution pour le financement du compte personnel de formation (CPF) des salariés en CDD.</p><p align='left'>Les partenaires sociaux décident de maintenir la contribution conventionnelle afin de se doter des moyens nécessaires à la mise en place d'une politique de formation au niveau de la branche.</p><p align='left'>Les entreprises de la branche ont l'obligation de consacrer, au-delà des contributions légales, un pourcentage de leur masse salariale brute au financement de la formation dans les conditions définies à l'article 4 du présent accord.</p><p align='left'>Ces versements sont opérés par les entreprises auprès de l'URSSAF et, à titre transitoire, auprès de l'OPCO désigné par la branche jusqu'à prise de relai effective par les URSSAF.</p>",
+                "id": "KALIARTI000041973400",
+                "content": "<p align='left'>Au sein de l'article 3.4 de l'accord du 17 novembre 2016 le tableau déterminant le taux des cotisations pour les salariés non cadres est annulé et remplacé par le tableau suivant :</p><p align='left'></p><center><table border='1'><tbody><tr><th>Non cadres</th><th colspan='2'>Part salariale</th><th colspan='2'>Part patronale</th><th colspan='2'>Total</th></tr><tr><td align='center'></td><td align='center'>TA</td><td align='center'>TB</td><td align='center'>TA</td><td align='center'>TB</td><td align='center'>TA</td><td align='center'>TB</td></tr><tr><td align='center'>Total</td><td align='center'>0,66 %</td><td align='center'>0,66 %</td><td align='center'>0,99 %</td><td align='center'>0,99 %</td><td align='center'>1,65 %</td><td align='center'>1,65 %</td></tr></tbody></table></center><p></p><p align='left'>Au sein de l'article 3.4 de l'accord du 17 novembre 2016 le tableau déterminant le taux des cotisations pour les salariés cadres est annulé et remplacé par le tableau suivant :</p><p align='left'></p><center><table border='1'><tbody><tr><th>Cadres</th><th colspan='2'>Part salariale</th><th colspan='2'>Part patronale</th><th colspan='2'>Total</th></tr><tr><td align='center'></td><td align='center'>TA</td><td align='center'>TB</td><td align='center'>TA</td><td align='center'>TB</td><td align='center'>TA</td><td align='center'>TB</td></tr><tr><td align='center'>Total</td><td align='center'>0,07 %</td><td align='center'>1,35 %</td><td align='center'>1,77 %</td><td align='center'>2,02 %</td><td align='center'>1,84 %</td><td align='center'>3,37 %</td></tr></tbody></table></center><p></p>",
                 "etat": "VIGUEUR_NON_ETEN",
-                "surtitre": "L'obligation de versement",
-                "lstLienModification": []
+                "surtitre": "Répartition du taux de cotisation pour le régime prévoyance",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000034183966",
+                    "textTitle": "Frais de santé et prévoyance - art. 3 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "3",
+                    "articleId": "KALIARTI000041981970",
+                    "natureText": "Accord",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2016-11-17",
+                    "dateDebutCible": "2019-01-01"
+                  }
+                ]
               }
             },
             {
               "type": "article",
               "data": {
-                "cid": "KALIARTI000041973347",
+                "cid": "KALIARTI000041973403",
                 "num": "2",
                 "intOrdre": 1572861,
-                "id": "KALIARTI000041973347",
-                "content": "<p align='left'>Le taux de la contribution à la formation professionnelle est déterminé en fonction de l'effectif comme défini ci-dessous. Le versement de cette contribution intervient dans les délais et conditions prévus par les dispositions légales et réglementaires.</p><p align='left'>En vertu des dispositions légales en vigueur, les entreprises occupant moins de 11 salariés doivent consacrer au financement de la formation une participation minimale de 0,55 % de leur masse salariale.</p><p align='left'>Les entreprises occupant 11 salariés et plus doivent consacrer au financement de la formation une participation minimale de 1 % de leur masse salariale.</p>",
+                "id": "KALIARTI000041973403",
+                "content": "<p align='left'><br/>Les partenaires sociaux, compte tenu de l'objet du présent avenant, choisissent de ne pas prévoir de dispositions particulières par taille d'entreprise.</p>",
                 "etat": "VIGUEUR_NON_ETEN",
-                "surtitre": "Le taux de la contribution à la formation professionnelle et la répartition des contributions",
+                "surtitre": "Dispositions relatives aux entreprises de moins de 50 salariés",
                 "lstLienModification": []
               }
             },
             {
               "type": "article",
               "data": {
-                "cid": "KALIARTI000041973348",
+                "cid": "KALIARTI000041973404",
                 "num": "3",
                 "intOrdre": 2097148,
-                "id": "KALIARTI000041973348",
-                "content": "<p align='left'><br/>Les entreprises, quel que soit leur effectif, doivent, s'acquitter d'une contribution dédiée au financement du CPF égale à 1 % du montant des salaires versés aux salariés sous contrats à durée déterminée avec exclusion des contrats de travail à durée déterminée des salariés occupant un emploi saisonnier conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904283&dateTexte=&categorieLien=cid' title='Code du travail - art. L6331-6 (V)'>article L. 6331-6 du code du travail</a>.</p>",
+                "id": "KALIARTI000041973404",
+                "content": "<p align='left'>Le présent avenant prendra effet à compter du 1er janvier 2019.</p><p align='left'>Il fera l'objet des formalités de dépôt prévues aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-6 (V)'>articles L. 2231-6 et suivants du code du travail</a> ainsi que d'une demande d'extension.</p><p align='left'>Il pourra être révisé ou dénoncé dans le respect des dispositions légales. La dénonciation par l'une des parties signataires doit être notifiée par lettre recommandée avec avis de réception aux autres signataires et faire l'objet d'un dépôt conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-9 (V)'>article L. 2261-9 du code du travail</a>.</p><p align='left'>L'ensemble des partenaires sociaux peuvent se réunir dans les trois mois suivant la réception de la notification afin d'envisager l'éventuelle conclusion d'un accord de substitution. Un accord peut être conclu, y compris avant l'expiration du délai de préavis de 3 mois.</p>",
                 "etat": "VIGUEUR_NON_ETEN",
-                "surtitre": "La contribution pour le financement du compte personnel de formation (CPF) des salariés en CDD",
-                "lstLienModification": []
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000041973350",
-                "num": "4",
-                "intOrdre": 2621435,
-                "id": "KALIARTI000041973350",
-                "content": "<p align='center'>4.1. Montant de la contribution conventionnelle</p><p align='left'>Une contribution supplémentaire conventionnelle de 0,40 % de la masse salariale brute est due par les entreprises de moins de 300 salariés équivalent temps plein. La contribution ne peut être inférieure à 100 €.</p><p align='left'>Une contribution supplémentaire conventionnelle de 0,20 % de la masse salariale brute est due par les entreprises de plus de 300 salariés équivalent temps plein.<br/>\nLes contributions supplémentaires conventionnelles sont mutualisées et utilisées selon les dispositions arrêtées annuellement par la CPNEF du tourisme social et familial.</p><p align='left'>Ces versements sont exclusivement réservés au financement d'actions bénéficiant aux entreprises visées par cet article et à leurs salariés, et restent entièrement acquis à la branche.</p><p align='left'>Les taux de versement pour la contribution conventionnelle mentionnés ci-dessus sont applicables sur les contributions assises sur les masses salariales brutes à compter de celles versées au titre de l'année 2020 et jusqu'à celles versées au titre de l'année 2021.</p><p align='center'>4.2. Priorités d'utilisation des fonds conventionnels</p><p align='left'>L'utilisation des fonds conventionnels est arrêtée annuellement par la CPNEF en fonction des fonds disponibles. Les partenaires sociaux souhaitent néanmoins poser les principes prioritaires sur lesquels les fonds conventionnels pourront être fléchés pendant la durée d'application de l'accord :<br/>\n– développer l'offre de formation pour les entreprises de la branche notamment via un accès aux fonds conventionnels ;<br/>\n– favoriser le départ en formation des salariés de la branche ;<br/>\n– relancer l'observation des emplois et des compétences dans la branche ;<br/>\n– faciliter le recours à l'alternance ;<br/>\n– réaliser des co-financements du CPF lorsque celui-ci est co-construit avec entre l'employeur et le salarié ;<br/>\n– mettre en place des certifications conformes aux besoins des entreprises de la branche, tant par leur création que leur adaptation lorsque cela est possible.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "surtitre": "Obligations conventionnelles de versement",
-                "lstLienModification": []
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000041973351",
-                "num": "5",
-                "intOrdre": 3145722,
-                "id": "KALIARTI000041973351",
-                "content": "<p align='left'>Au-delà des obligations légales et conventionnelles de financement de la formation professionnelle, les entreprises doivent s'inscrire dans une obligation sociale d'accompagnement de leurs salariés.</p><p align='left'>Toutes les entreprises de la branche, quel que soit leur seuil d'effectif, peuvent décider d'augmenter leur investissement en matière de formation professionnelle.</p><p align='left'>Ces entreprises peuvent soit garder en gestion propre ce budget, soit conclure un partenariat spécifique avec l'OPCO afin de convenir des modalités de ce versement volontaire et de son utilisation.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "surtitre": "Les contributions volontaires",
-                "lstLienModification": []
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000041973352",
-                "num": "6",
-                "intOrdre": 3670009,
-                "id": "KALIARTI000041973352",
-                "content": "<p align='left'>Un mécanisme de neutralisation des effets de seuils est prévu à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904277&dateTexte=&categorieLien=cid' title='Code du travail - art. L6331-1 (VT)'>article L. 6331-1 A du code du travail</a>.</p><p align='left'>Conformément à cet article, et par renvoi aux dispositions de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000038498675&dateTexte=&categorieLien=cid' title='Code de la sécurité sociale. - art. L130-1 (V)'>article L. 130-1 du code de la sécurité sociale</a>, le franchissement à la hausse d'un seuil d'effectif est pris en compte lorsque ce seuil a été atteint ou dépassé pendant cinq années civiles consécutives.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "surtitre": "La neutralisation des effets de seuils",
-                "lstLienModification": []
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000041973359",
-                "num": "7",
-                "intOrdre": 4194296,
-                "id": "KALIARTI000041973359",
-                "content": "<p align='left'><br/>Le présent accord se substitue à l'<a href='/affichIDCC.do?cidTexte=KALITEXT000036512073&categorieLien=cid' title='Désignation de l'OPCA et obligations conventionnelles de versement (VE)'>accord du 6 juin 2017</a> relatif à la désignation de l'OPCA et aux obligations conventionnelles de versement.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "surtitre": "Sécurisation juridique",
-                "lstLienModification": []
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000041973361",
-                "num": "8",
-                "intOrdre": 4718583,
-                "id": "KALIARTI000041973361",
-                "content": "<p align='left'>Les partenaires sociaux confient à la CPNEF le suivi du présent accord.</p><p align='left'>Le présent accord est conclu pour une durée déterminée de 2 ans à partir du 1er janvier 2020 et jusqu'au 31 décembre 2021.</p><p align='left'>Les taux de versement pour la contribution conventionnelle mentionnés ci-dessus sont applicables sur les contributions assises sur les masses salariales brutes versées au titre de l'année 2020 et jusqu'à celles versées au titre de l'année 2021.</p><p align='left'>Il fera l'objet d'un dépôt auprès de la direction générale du travail, ainsi que d'une demande d'extension.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "surtitre": "Suivi, durée de l'accord et entrée en vigueur",
-                "lstLienModification": []
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000041973362",
-                "num": "9",
-                "intOrdre": 5242870,
-                "id": "KALIARTI000041973362",
-                "content": "<p align='left'><br/>Le présent accord pourra être révisé ou dénoncé conformément aux dispositions légales.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "surtitre": "Révision, dénonciation",
+                "surtitre": "Dispositions relatives à l'entrée en vigueur, au dépôt et à la publicité du présent avenant",
                 "lstLienModification": []
               }
             }

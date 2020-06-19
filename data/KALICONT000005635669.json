@@ -1188,9 +1188,9 @@
           "data": {
             "cid": "KALISCTA000005697460",
             "intOrdre": 1288470,
-            "title": "Prévoyance conventionnelle",
-            "id": "KALISCTA000027760523",
-            "etat": "VIGUEUR_NON_ETEN"
+            "title": "Maladies et accidents",
+            "id": "KALISCTA000005697460",
+            "etat": "MODIFIE"
           },
           "children": [
             {
@@ -1225,9 +1225,9 @@
           "data": {
             "cid": "KALISCTA000005697460",
             "intOrdre": 1288470,
-            "title": "Maladies et accidents",
-            "id": "KALISCTA000005697460",
-            "etat": "MODIFIE"
+            "title": "Prévoyance conventionnelle",
+            "id": "KALISCTA000027760523",
+            "etat": "VIGUEUR_NON_ETEN"
           },
           "children": [
             {
@@ -1336,9 +1336,9 @@
           "data": {
             "cid": "KALISCTA000005697463",
             "intOrdre": 1417317,
-            "title": "Maternité et paternité",
-            "id": "KALISCTA000026456552",
-            "etat": "VIGUEUR_NON_ETEN"
+            "title": "Maternité",
+            "id": "KALISCTA000005697463",
+            "etat": "MODIFIE"
           },
           "children": [
             {
@@ -1373,9 +1373,9 @@
           "data": {
             "cid": "KALISCTA000005697463",
             "intOrdre": 1417317,
-            "title": "Maternité",
-            "id": "KALISCTA000005697463",
-            "etat": "MODIFIE"
+            "title": "Maternité et paternité",
+            "id": "KALISCTA000026456552",
+            "etat": "VIGUEUR_NON_ETEN"
           },
           "children": [
             {
@@ -1961,6 +1961,265 @@
         {
           "type": "section",
           "data": {
+            "cid": "KALITEXT000005651401",
+            "title": "Accord national professionnel du 29 juin 1990 relatif aux mutations technologiques et à l'organisation du travail dans la production et la transformation du papier-carton ",
+            "id": "KALITEXT000005651401",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "1990-06-29"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000005784451",
+                "num": "Préambule",
+                "intOrdre": 42949,
+                "id": "KALIARTI000005784451",
+                "content": "<p></p>   L'évolution que connaît actuellement l'industrie française papetière dans le cadre de l'économie nationale et mondiale est marquée par une accélération du développement des mutations technologiques et une transformation des modes d'organisation du travail qui jouent un rôle majeur dans la modernisation des entreprises.<p></p><p></p>   Qu'elles s'opèrent au quotidien ou qu'elles s'accompagnent de transformations importantes, qu'elles concernent les techniques d'information ou de production, les mutations technologiques seront d'autant mieux perçues comme des opportunités qu'elles seront l'occasion de progrès dans les conditions d'emploi et de travail, et qu'elles auront été anticipées par un large processus de concertation et de négociation.<p></p><p></p>   Il convient donc, qu'à partir d'analyses prospectives de l'évolution des techniques, la politique active de l'emploi préconisée par l'accord interprofessionnel du 10 février 1969, tende davantage à sauvegarder et à développer l'emploi en facilitant les adaptations de la main-d'oeuvre, notamment par une démarche prévisionnelle visant à identifier suffisamment à l'avance les évolutions des emplois, à détecter les besoins de formation correspondant aux nouvelles compétences requises, à favoriser les promotions et à anticiper les conversions et les reclassements qui s'avéreraient nécessaires.<p></p><p></p>   Il importe dans ces conditions que les projets importants ou courants des entreprises soient conduits en déterminant des objectifs humains et sociaux en rapport avec les évolutions envisagées, qu'ils soient traités et que leur réalisation soit suivie dans le respect des attributions des institutions représentatives, en concertation avec les salariés concernés et en tenant compte du rôle du personnel d'encadrement.<p></p><p></p>   C'est avec ces préoccupations que les parties signataires ont décidé de conclure le présent accord qui définit les objectifs et procédures pour une maîtrise prévisionnelle et concertée des évolutions de l'emploi et du travail au sein des entreprises. Celui-ci prolonge et développe l'accord interprofessionnel du 23 septembre 1988.<p></p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "",
+                    "textTitle": "Accord national professionnel 1990-06-29",
+                    "linkType": "CREATION",
+                    "linkOrientation": "source",
+                    "articleNum": "",
+                    "articleId": "",
+                    "natureText": "",
+                    "datePubliTexte": null,
+                    "dateSignaTexte": null,
+                    "dateDebutCible": null
+                  }
+                ]
+              }
+            },
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000005697424",
+                "intOrdre": 85898,
+                "title": "Champ d'application",
+                "id": "KALISCTA000005697424",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005784452",
+                    "num": "1",
+                    "intOrdre": 42949,
+                    "id": "KALIARTI000005784452",
+                    "content": "<p></p>   Les dispositions du présent accord sont applicables aux entreprises dont l'activité professionnelle est classée dans les nomenclatures d'activités et de produits 50-01 : Pâtes à papier, 50-02 : Papiers et cartons, 50-04 : Produits de la transformation du papier, 50-06 : Fabrication de carton ondulé et de produits en carton ondulé. Elles seront insérées dans les conventions collectives nationales de la production et de la transformation du papier.<p></p><p></p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord national professionnel 1990-06-29",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000005697426",
+                "intOrdre": 128847,
+                "title": "Effets des nouvelles technologies sur l'organisation du travail",
+                "id": "KALISCTA000005697426",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005784454",
+                    "num": "2",
+                    "intOrdre": 42949,
+                    "id": "KALIARTI000005784454",
+                    "content": "<p></p>   L'introduction de nouvelles technologies, telles que définies par le préambule du présent accord, devra être pour l'employeur l'occasion de rechercher de nouvelles organisations du travail mieux adaptées aux conditions futures de fonctionnement de l'atelier ou du service, voire de l'établissement en adéquation avec les qualifications existantes et/ou à venir, de favoriser la mixité des emplois, l'égalité professionnelle et l'amélioration des qualifications, d'éviter l'isolement des salariés dans toute la mesure du possible par le recours à des formules de travail en groupe.<p></p><p></p>   Le souci d'obtenir une meilleure utilisation des machines et des produits de qualité croissante devra aller de pair avec l'intégration, dès la conception, de la sécurité dans les processus de fabrication et la recherche de modifications des horaires de travail et de leur aménagement dans le respect des dispositions légales et conventionnelles sur la durée du travail.<p></p><p></p>   Les fonctions résultant de nouvelles technologies feront appel aux qualités de raisonnement et de décision du personnel dans l'exercice de ses responsabilités.<p></p><p></p>   Différents moyens seront mis en oeuvre pour recueillir l'opinion du personnel concerné, notamment la consultation des institutions représentatives du personnel, la négociation et le recours, dans le cadre d'accords conclus dans les conditions prévues à l'article L461-3, au droit d'expression des salariés.<p></p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord national professionnel 1990-06-29",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000005697427",
+                "intOrdre": 171796,
+                "title": "Consultation des instances représentatives du personnel dans l'entreprise ou l'établissement",
+                "id": "KALISCTA000005697427",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005784455",
+                    "num": "3",
+                    "intOrdre": 42949,
+                    "id": "KALIARTI000005784455",
+                    "content": "a) Procédure d'information et de consultation. <p></p><p></p>Le comité d'entreprise ou d'établissement est informé et consulté le plus tôt et le plus régulièrement possible, sur tous les projets comportant des transformations techniques et/ ou d'organisation du travail.<p></p><p></p>L'information et la consultation sont engagées préalablement à toute décision irréversible susceptible d'avoir des conséquences significatives sur l'emploi, l'organisation et le contenu du travail, la qualification, la formation, les conditions de travail ou la rémunération du personnel. Dans les entreprises soumises à la législation sur les comités d'entreprise, en l'absence de comité d'entreprise, les délégués du personnel bénéficient de cette information et font l'objet de cette consultation. <p></p><p></p>En cas de projet important au sens de l'accord interprofessionnel du 23 septembre 1988 : en vue d'assurer l'information et la consultation du comité d'entreprise, lorsque le projet se trouvera en voie d'élaboration, et avant toute décision irréversible de mise en oeuvre, les membres élus du comité ainsi que les représentants syndicaux reçoivent, au moins un mois avant la réunion, les éléments d'informations nécessaires sur le projet et sur les conséquences qu'il est susceptible d'avoir pour le personnel. <p></p><p></p>Les éléments d'information porteront, dans toute la mesure du possible par écrit, sur :<p></p><p></p>-1° Les objectifs économiques, technologiques et sociaux auxquels répond le projet ; l'évaluation financière des investissements et des coûts d'exploitation : les avantages et les objectifs que l'entreprise prévoit d'atteindre notamment en matière de productivité ;<p></p><p></p>-2° L'explication technique des technologies et de l'organisation du travail dont la transformation est envisagée, les raisons du choix du système et le calendrier prévisionnel de mise en place ;<p></p><p></p>-3° Les modifications qu'elles apportent au processus de fabrication ou de travail ; l'évaluation des besoins quant aux effectifs et aux qualifications requises ;<p></p><p></p>-4° Les effets prévisibles des nouvelles technologies sur l'emploi, l'organisation du travail, la formation, les conditions de travail, la qualification et la rémunération du personnel, l'hygiène et la sécurité. <p></p><p></p>Dans le délai d'un mois, le comité d'entreprise ou d'établissement à l'initiative de son président ou à la demande de la majorité de ses membres, tient une réunion préparatoire au cours de laquelle il est procédé à un premier examen du projet. <p></p><p></p>En accord avec le chef d'entreprise, le comité d'entreprise pourra avoir recours à un expert, dans les conditions prévues à l'article L434-6. <p></p><p></p>Dans les entreprises ou établissements où il existe, le CHSCT est informé et consulté sur les conséquences au regard de l'hygiène, de la sécurité et des conditions de travail, des évolutions technologiques et/ ou d'organisation du travail telles qu'elles sont décrites au préambule du présent accord. Le CHSCT transmet dans les domaines où il est compétent ses avis et suggestions au comité d'entreprise ou d'établissement, dans le cadre du processus d'information, consultation précisée ci-dessus. <p></p><p></p>Dans les entreprises visées à l'article 43 des dispositions générales de la convention collective nationale pour les           OEDTAM, le comité d'entreprise peut demander le concours de la commission de la formation professionnelle. <p></p>b) Plan d'adaptation. <p></p><p></p>Dans les entreprises ou établissements assujettis à la législation sur les comités d'entreprise, lorsque la mise en oeuvre de mutations technologiques et/ ou de nouvelles organisations du travail importantes et rapides sont envisagées, un plan d'adaptation est établi et transmis, pour information et consultation, au comité d'entreprise ou d'établissement, conformément aux dispositions de l'article L432-2 du code du travail. <p></p><p></p>Ce plan est destiné à rechercher toutes les mesures, au besoin individualisées, qui pourraient avoir des effets bénéfiques sur l'emploi et, notamment par la mise en oeuvre d'actions de formation, à faciliter l'adaptation du personnel aux nouvelles technologies ou aux nouveaux modes d'organisation du travail et le reclassement des salariés dont la mutation serait rendue nécessaire et à ouvrir de nouvelles perspectives de carrière. <p></p><p></p>Ce plan sera également transmis au comité d'hygiène, de sécurité et des conditions de travail ainsi qu'aux délégués syndicaux. Le comité d'entreprise ou d'établissement est régulièrement informé et périodiquement consulté sur la mise en oeuvre de ce plan. <p></p><p></p>Ce plan devra si nécessaire comporter des mesures permettant notamment :<p></p><p></p>-la réorganisation du travail, l'amélioration du contenu du travail, et des qualifications ;<p></p><p></p>-la recherche des possibilités de reclassement interne à l'établissement et, le cas échéant, à l'entreprise et les conditions de ces mutations ;<p></p><p></p>-les bilans évaluations, les actions de formation collectives ou personnalisées nécessaires à l'acquisition des qualifications requises ;<p></p><p></p>-le programme de formation ;<p></p><p></p>-un inventaire des moyens de formation disponibles ;<p></p><p></p>-les mesures susceptibles de tenir compte des problèmes spécifiques à certains salariés, et notamment à ceux des ouvriers spécialisés, aux femmes, au personnel âgé et au personnel travaillant en continu ;<p></p><p></p>-les modifications des horaires de travail, leur aménagement et les contreparties éventuelles ;<p></p><p></p>-les modifications des perspectives de carrière, de l'évolution des qualifications ;<p></p><p></p>-les modifications des conditions de travail et de sécurité et les mesures d'amélioration utiles. <p></p><p></p>Si l'employeur est amené, en vue de limiter les conséquences sur l'emploi, à apporter des modifications au contrat de travail d'un salarié entraînant l'occupation d'un emploi disponible d'un niveau ou d'un échelon inférieur, le salarié bénéficiera selon le cas des garanties prévues à l'article 28a des dispositions générales de la convention collective nationale pour les ouvriers, employés, dessinateurs, techniciens et agents de maîtrise et à l'article 29 de la convention collective des cadres (modifié par l'avenant n° 12 du 24 décembre 1979).<p></p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord national professionnel 1990-06-29",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000005697428",
+                "intOrdre": 214745,
+                "title": "Rôle et moyens de la commission paritaire nationale de l'emploi",
+                "id": "KALISCTA000005697428",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005784456",
+                    "num": "4",
+                    "intOrdre": 42949,
+                    "id": "KALIARTI000005784456",
+                    "content": "<p></p>   Conformément au protocole d'accord relatif à la formation professionnelle du 13 février 1985, afin de permettre à la C.P.N.E. de veiller que soit donnée au plus grand nombre de salariés une formation professionnelle offrant une base technologique élargie, la commission recevra une information :<p></p><p></p>   \" - relative aux évolutions susceptibles d'intervenir sur le plan technologique, sur le plan économique et en matière d'emploi ;<p></p><p></p>   \" - permettant d'assurer la diffusion du contenu et des méthodes de formation qui répondent aux problèmes posés par les catégories professionnelles affectées par les évolutions technologiques\".<p></p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord national professionnel 1990-06-29",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000005697429",
+                "intOrdre": 257694,
+                "title": "Formation, nouvelles technologies et organisation du travail",
+                "id": "KALISCTA000005697429",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005784457",
+                    "num": "5",
+                    "intOrdre": 42949,
+                    "id": "KALIARTI000005784457",
+                    "content": "<p></p>   La formation est un investissement essentiel pour assurer la réussite des projets de modernisation des entreprises.<p></p><p></p>   Conscientes de l'importance des évolutions technologiques prévisibles dans notre profession, les parties signataires rappellent les orientations retenues par l'accord professionnel du 13 février 1985 qui privilégient les actions de formation destinées à permettre aux salariés concernés :<p></p><p></p>   - de parfaire leurs qualifications ;<p></p><p></p>   - d'envisager une évolution de leur carrière ;<p></p><p></p>   - d'anticiper sur d'éventuelles mutations d'activité.<p></p><p></p>   Cette politique de formation doit viser au développement de la culture technique, économique et sociale des salariés, permettant par une amélioration des compétences de développer leurs capacités d'adaptation aux évolutions prévisibles. Par là même, elle doit permettre une évolution de carrière.<p></p><p></p>   Ces orientations seront reprises dans le plan d'adaptation prévu à l'article 3. Elles devront être prises en compte par la C.P.N.E. pour l'établissement de la liste des cours, stages ou sessions considérés par elle comme présentant un intérêt reconnu pour les salariés de la profession.<p></p><p></p>   Les entreprises prévoient les formations nécessaires dès que leurs projets de modernisation sont suffisamment avancés pour permettre, en fonction des choix d'organisation du travail, la définition des besoins de formation qui en résulteront. Les commissions de formation prévues par l'article 43 des dispositions générales de la convention collective nationale pour les ouvriers, employés, dessinateurs, techniciens et agents de maîtrise seront consultées. Dans leurs projets de transformation, les entreprises veilleront à ce que les modifications de travail et les formations nécessaires soient traitées de façon conjointe en concertation avec le personnel et ses représentants.<p></p><p></p>   Le personnel d'encadrement participera à cette concertation et bénéficiera d'actions de formation lui permettant de se préparer et de s'adapter aux transformations techniques. Il aura un rôle essentiel à jouer dans le pilotage et l'accompagnement des changements technologiques et d'organisation du travail.<p></p><p></p>   Pour cerner les écarts et construire des actions de formation individuelles et collectives d'adaptation, il sera procédé à une analyse comparée des qualifications ou savoir-faire existants et des besoins de qualification, de reclassement ou de reconversion du personnel concerné.<p></p><p></p>   Pour favoriser l'acquisition des savoirs devenus plus abstraits et qui s'acquièrent mieux avec une analyse concrète du travail effectué, les actions de formation se réaliseront en partie sur le lieu de travail par une pédagogie appropriée et en tenant compte de la situation particulière du personnel travaillant en continu. Compte-tenu notamment de l'importance des matériels et de la complexité des technologies, l'un des moyens pour atteindre cet objectif consiste dans la réalisation de situations simulées permettant d'intensifier le processus de formation, l'objectif étant à terme, par le recours à l'informatique et à la télématique, de décentraliser la formation au plus près des postes de travail en utilisant des systèmes multimédias. Dès à présent, le développement des formations de groupe qui facilitent l'acquisition des connaissances tout en préfigurant des nouvelles situations collectives du travail sera recherché.<p></p><p></p>   Pour répondre à leurs besoins, les entreprises chercheront à développer leur potentiel interne avant de recourir à des embauches extérieures.<p></p><p></p>   Lorsque les transformations techniques seront de nature à entraîner la disparition des postes de travail occupés jusque-là par les salariés, les entreprises mettront tout en oeuvre pour que, par une formation appropriée, les intéressés puissent se voir affectés à un autre emploi.<p></p><p></p>   Au cas où le reclassement interne des salariés dont le poste de travail serait supprimé du fait des transformations techniques et/ou d'organisation ne s'avérerait pas possible, des solutions seront recherchées pour que puisse être donnée aux intéressés une formation vers des métiers pour lesquels existent des débouchés.<p></p><p></p>   Les actions correspondant à ces orientations seront retenues de façon prioritaire dans la convention de développement de la formation professionnelle continue.<p></p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord national professionnel 1990-06-29",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000005697430",
+                "intOrdre": 300643,
+                "title": "Obligation de discrétion et de secret",
+                "id": "KALISCTA000005697430",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005784458",
+                    "num": "6",
+                    "intOrdre": 42949,
+                    "id": "KALIARTI000005784458",
+                    "content": "<p></p>   Les membres du comité d'entreprise, les délégués syndicaux et les membres du comité d'hygiène, de sécurité et des conditions de travail sont tenus aux obligations de secret et de discrétion énoncées par l'article L432-7.<p></p><p></p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord national professionnel 1990-06-29",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
             "cid": "KALITEXT000005651405",
             "title": "Accord du 21 décembre 1972 portant création de la nouvelle convention collective ",
             "id": "KALITEXT000005651405",
@@ -2399,265 +2658,6 @@
                 "etat": "VIGUEUR_NON_ETEN",
                 "lstLienModification": []
               }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALITEXT000005651401",
-            "title": "Accord national professionnel du 29 juin 1990 relatif aux mutations technologiques et à l'organisation du travail dans la production et la transformation du papier-carton ",
-            "id": "KALITEXT000005651401",
-            "etat": "VIGUEUR_NON_ETEN",
-            "modifDate": "1990-06-29"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000005784451",
-                "num": "Préambule",
-                "intOrdre": 42949,
-                "id": "KALIARTI000005784451",
-                "content": "<p></p>   L'évolution que connaît actuellement l'industrie française papetière dans le cadre de l'économie nationale et mondiale est marquée par une accélération du développement des mutations technologiques et une transformation des modes d'organisation du travail qui jouent un rôle majeur dans la modernisation des entreprises.<p></p><p></p>   Qu'elles s'opèrent au quotidien ou qu'elles s'accompagnent de transformations importantes, qu'elles concernent les techniques d'information ou de production, les mutations technologiques seront d'autant mieux perçues comme des opportunités qu'elles seront l'occasion de progrès dans les conditions d'emploi et de travail, et qu'elles auront été anticipées par un large processus de concertation et de négociation.<p></p><p></p>   Il convient donc, qu'à partir d'analyses prospectives de l'évolution des techniques, la politique active de l'emploi préconisée par l'accord interprofessionnel du 10 février 1969, tende davantage à sauvegarder et à développer l'emploi en facilitant les adaptations de la main-d'oeuvre, notamment par une démarche prévisionnelle visant à identifier suffisamment à l'avance les évolutions des emplois, à détecter les besoins de formation correspondant aux nouvelles compétences requises, à favoriser les promotions et à anticiper les conversions et les reclassements qui s'avéreraient nécessaires.<p></p><p></p>   Il importe dans ces conditions que les projets importants ou courants des entreprises soient conduits en déterminant des objectifs humains et sociaux en rapport avec les évolutions envisagées, qu'ils soient traités et que leur réalisation soit suivie dans le respect des attributions des institutions représentatives, en concertation avec les salariés concernés et en tenant compte du rôle du personnel d'encadrement.<p></p><p></p>   C'est avec ces préoccupations que les parties signataires ont décidé de conclure le présent accord qui définit les objectifs et procédures pour une maîtrise prévisionnelle et concertée des évolutions de l'emploi et du travail au sein des entreprises. Celui-ci prolonge et développe l'accord interprofessionnel du 23 septembre 1988.<p></p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "",
-                    "textTitle": "Accord national professionnel 1990-06-29",
-                    "linkType": "CREATION",
-                    "linkOrientation": "source",
-                    "articleNum": "",
-                    "articleId": "",
-                    "natureText": "",
-                    "datePubliTexte": null,
-                    "dateSignaTexte": null,
-                    "dateDebutCible": null
-                  }
-                ]
-              }
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005697424",
-                "intOrdre": 85898,
-                "title": "Champ d'application",
-                "id": "KALISCTA000005697424",
-                "etat": "VIGUEUR_NON_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005784452",
-                    "num": "1",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000005784452",
-                    "content": "<p></p>   Les dispositions du présent accord sont applicables aux entreprises dont l'activité professionnelle est classée dans les nomenclatures d'activités et de produits 50-01 : Pâtes à papier, 50-02 : Papiers et cartons, 50-04 : Produits de la transformation du papier, 50-06 : Fabrication de carton ondulé et de produits en carton ondulé. Elles seront insérées dans les conventions collectives nationales de la production et de la transformation du papier.<p></p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord national professionnel 1990-06-29",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005697426",
-                "intOrdre": 128847,
-                "title": "Effets des nouvelles technologies sur l'organisation du travail",
-                "id": "KALISCTA000005697426",
-                "etat": "VIGUEUR_NON_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005784454",
-                    "num": "2",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000005784454",
-                    "content": "<p></p>   L'introduction de nouvelles technologies, telles que définies par le préambule du présent accord, devra être pour l'employeur l'occasion de rechercher de nouvelles organisations du travail mieux adaptées aux conditions futures de fonctionnement de l'atelier ou du service, voire de l'établissement en adéquation avec les qualifications existantes et/ou à venir, de favoriser la mixité des emplois, l'égalité professionnelle et l'amélioration des qualifications, d'éviter l'isolement des salariés dans toute la mesure du possible par le recours à des formules de travail en groupe.<p></p><p></p>   Le souci d'obtenir une meilleure utilisation des machines et des produits de qualité croissante devra aller de pair avec l'intégration, dès la conception, de la sécurité dans les processus de fabrication et la recherche de modifications des horaires de travail et de leur aménagement dans le respect des dispositions légales et conventionnelles sur la durée du travail.<p></p><p></p>   Les fonctions résultant de nouvelles technologies feront appel aux qualités de raisonnement et de décision du personnel dans l'exercice de ses responsabilités.<p></p><p></p>   Différents moyens seront mis en oeuvre pour recueillir l'opinion du personnel concerné, notamment la consultation des institutions représentatives du personnel, la négociation et le recours, dans le cadre d'accords conclus dans les conditions prévues à l'article L461-3, au droit d'expression des salariés.<p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord national professionnel 1990-06-29",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005697427",
-                "intOrdre": 171796,
-                "title": "Consultation des instances représentatives du personnel dans l'entreprise ou l'établissement",
-                "id": "KALISCTA000005697427",
-                "etat": "VIGUEUR_NON_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005784455",
-                    "num": "3",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000005784455",
-                    "content": "a) Procédure d'information et de consultation. <p></p><p></p>Le comité d'entreprise ou d'établissement est informé et consulté le plus tôt et le plus régulièrement possible, sur tous les projets comportant des transformations techniques et/ ou d'organisation du travail.<p></p><p></p>L'information et la consultation sont engagées préalablement à toute décision irréversible susceptible d'avoir des conséquences significatives sur l'emploi, l'organisation et le contenu du travail, la qualification, la formation, les conditions de travail ou la rémunération du personnel. Dans les entreprises soumises à la législation sur les comités d'entreprise, en l'absence de comité d'entreprise, les délégués du personnel bénéficient de cette information et font l'objet de cette consultation. <p></p><p></p>En cas de projet important au sens de l'accord interprofessionnel du 23 septembre 1988 : en vue d'assurer l'information et la consultation du comité d'entreprise, lorsque le projet se trouvera en voie d'élaboration, et avant toute décision irréversible de mise en oeuvre, les membres élus du comité ainsi que les représentants syndicaux reçoivent, au moins un mois avant la réunion, les éléments d'informations nécessaires sur le projet et sur les conséquences qu'il est susceptible d'avoir pour le personnel. <p></p><p></p>Les éléments d'information porteront, dans toute la mesure du possible par écrit, sur :<p></p><p></p>-1° Les objectifs économiques, technologiques et sociaux auxquels répond le projet ; l'évaluation financière des investissements et des coûts d'exploitation : les avantages et les objectifs que l'entreprise prévoit d'atteindre notamment en matière de productivité ;<p></p><p></p>-2° L'explication technique des technologies et de l'organisation du travail dont la transformation est envisagée, les raisons du choix du système et le calendrier prévisionnel de mise en place ;<p></p><p></p>-3° Les modifications qu'elles apportent au processus de fabrication ou de travail ; l'évaluation des besoins quant aux effectifs et aux qualifications requises ;<p></p><p></p>-4° Les effets prévisibles des nouvelles technologies sur l'emploi, l'organisation du travail, la formation, les conditions de travail, la qualification et la rémunération du personnel, l'hygiène et la sécurité. <p></p><p></p>Dans le délai d'un mois, le comité d'entreprise ou d'établissement à l'initiative de son président ou à la demande de la majorité de ses membres, tient une réunion préparatoire au cours de laquelle il est procédé à un premier examen du projet. <p></p><p></p>En accord avec le chef d'entreprise, le comité d'entreprise pourra avoir recours à un expert, dans les conditions prévues à l'article L434-6. <p></p><p></p>Dans les entreprises ou établissements où il existe, le CHSCT est informé et consulté sur les conséquences au regard de l'hygiène, de la sécurité et des conditions de travail, des évolutions technologiques et/ ou d'organisation du travail telles qu'elles sont décrites au préambule du présent accord. Le CHSCT transmet dans les domaines où il est compétent ses avis et suggestions au comité d'entreprise ou d'établissement, dans le cadre du processus d'information, consultation précisée ci-dessus. <p></p><p></p>Dans les entreprises visées à l'article 43 des dispositions générales de la convention collective nationale pour les           OEDTAM, le comité d'entreprise peut demander le concours de la commission de la formation professionnelle. <p></p>b) Plan d'adaptation. <p></p><p></p>Dans les entreprises ou établissements assujettis à la législation sur les comités d'entreprise, lorsque la mise en oeuvre de mutations technologiques et/ ou de nouvelles organisations du travail importantes et rapides sont envisagées, un plan d'adaptation est établi et transmis, pour information et consultation, au comité d'entreprise ou d'établissement, conformément aux dispositions de l'article L432-2 du code du travail. <p></p><p></p>Ce plan est destiné à rechercher toutes les mesures, au besoin individualisées, qui pourraient avoir des effets bénéfiques sur l'emploi et, notamment par la mise en oeuvre d'actions de formation, à faciliter l'adaptation du personnel aux nouvelles technologies ou aux nouveaux modes d'organisation du travail et le reclassement des salariés dont la mutation serait rendue nécessaire et à ouvrir de nouvelles perspectives de carrière. <p></p><p></p>Ce plan sera également transmis au comité d'hygiène, de sécurité et des conditions de travail ainsi qu'aux délégués syndicaux. Le comité d'entreprise ou d'établissement est régulièrement informé et périodiquement consulté sur la mise en oeuvre de ce plan. <p></p><p></p>Ce plan devra si nécessaire comporter des mesures permettant notamment :<p></p><p></p>-la réorganisation du travail, l'amélioration du contenu du travail, et des qualifications ;<p></p><p></p>-la recherche des possibilités de reclassement interne à l'établissement et, le cas échéant, à l'entreprise et les conditions de ces mutations ;<p></p><p></p>-les bilans évaluations, les actions de formation collectives ou personnalisées nécessaires à l'acquisition des qualifications requises ;<p></p><p></p>-le programme de formation ;<p></p><p></p>-un inventaire des moyens de formation disponibles ;<p></p><p></p>-les mesures susceptibles de tenir compte des problèmes spécifiques à certains salariés, et notamment à ceux des ouvriers spécialisés, aux femmes, au personnel âgé et au personnel travaillant en continu ;<p></p><p></p>-les modifications des horaires de travail, leur aménagement et les contreparties éventuelles ;<p></p><p></p>-les modifications des perspectives de carrière, de l'évolution des qualifications ;<p></p><p></p>-les modifications des conditions de travail et de sécurité et les mesures d'amélioration utiles. <p></p><p></p>Si l'employeur est amené, en vue de limiter les conséquences sur l'emploi, à apporter des modifications au contrat de travail d'un salarié entraînant l'occupation d'un emploi disponible d'un niveau ou d'un échelon inférieur, le salarié bénéficiera selon le cas des garanties prévues à l'article 28a des dispositions générales de la convention collective nationale pour les ouvriers, employés, dessinateurs, techniciens et agents de maîtrise et à l'article 29 de la convention collective des cadres (modifié par l'avenant n° 12 du 24 décembre 1979).<p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord national professionnel 1990-06-29",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005697428",
-                "intOrdre": 214745,
-                "title": "Rôle et moyens de la commission paritaire nationale de l'emploi",
-                "id": "KALISCTA000005697428",
-                "etat": "VIGUEUR_NON_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005784456",
-                    "num": "4",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000005784456",
-                    "content": "<p></p>   Conformément au protocole d'accord relatif à la formation professionnelle du 13 février 1985, afin de permettre à la C.P.N.E. de veiller que soit donnée au plus grand nombre de salariés une formation professionnelle offrant une base technologique élargie, la commission recevra une information :<p></p><p></p>   \" - relative aux évolutions susceptibles d'intervenir sur le plan technologique, sur le plan économique et en matière d'emploi ;<p></p><p></p>   \" - permettant d'assurer la diffusion du contenu et des méthodes de formation qui répondent aux problèmes posés par les catégories professionnelles affectées par les évolutions technologiques\".<p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord national professionnel 1990-06-29",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005697429",
-                "intOrdre": 257694,
-                "title": "Formation, nouvelles technologies et organisation du travail",
-                "id": "KALISCTA000005697429",
-                "etat": "VIGUEUR_NON_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005784457",
-                    "num": "5",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000005784457",
-                    "content": "<p></p>   La formation est un investissement essentiel pour assurer la réussite des projets de modernisation des entreprises.<p></p><p></p>   Conscientes de l'importance des évolutions technologiques prévisibles dans notre profession, les parties signataires rappellent les orientations retenues par l'accord professionnel du 13 février 1985 qui privilégient les actions de formation destinées à permettre aux salariés concernés :<p></p><p></p>   - de parfaire leurs qualifications ;<p></p><p></p>   - d'envisager une évolution de leur carrière ;<p></p><p></p>   - d'anticiper sur d'éventuelles mutations d'activité.<p></p><p></p>   Cette politique de formation doit viser au développement de la culture technique, économique et sociale des salariés, permettant par une amélioration des compétences de développer leurs capacités d'adaptation aux évolutions prévisibles. Par là même, elle doit permettre une évolution de carrière.<p></p><p></p>   Ces orientations seront reprises dans le plan d'adaptation prévu à l'article 3. Elles devront être prises en compte par la C.P.N.E. pour l'établissement de la liste des cours, stages ou sessions considérés par elle comme présentant un intérêt reconnu pour les salariés de la profession.<p></p><p></p>   Les entreprises prévoient les formations nécessaires dès que leurs projets de modernisation sont suffisamment avancés pour permettre, en fonction des choix d'organisation du travail, la définition des besoins de formation qui en résulteront. Les commissions de formation prévues par l'article 43 des dispositions générales de la convention collective nationale pour les ouvriers, employés, dessinateurs, techniciens et agents de maîtrise seront consultées. Dans leurs projets de transformation, les entreprises veilleront à ce que les modifications de travail et les formations nécessaires soient traitées de façon conjointe en concertation avec le personnel et ses représentants.<p></p><p></p>   Le personnel d'encadrement participera à cette concertation et bénéficiera d'actions de formation lui permettant de se préparer et de s'adapter aux transformations techniques. Il aura un rôle essentiel à jouer dans le pilotage et l'accompagnement des changements technologiques et d'organisation du travail.<p></p><p></p>   Pour cerner les écarts et construire des actions de formation individuelles et collectives d'adaptation, il sera procédé à une analyse comparée des qualifications ou savoir-faire existants et des besoins de qualification, de reclassement ou de reconversion du personnel concerné.<p></p><p></p>   Pour favoriser l'acquisition des savoirs devenus plus abstraits et qui s'acquièrent mieux avec une analyse concrète du travail effectué, les actions de formation se réaliseront en partie sur le lieu de travail par une pédagogie appropriée et en tenant compte de la situation particulière du personnel travaillant en continu. Compte-tenu notamment de l'importance des matériels et de la complexité des technologies, l'un des moyens pour atteindre cet objectif consiste dans la réalisation de situations simulées permettant d'intensifier le processus de formation, l'objectif étant à terme, par le recours à l'informatique et à la télématique, de décentraliser la formation au plus près des postes de travail en utilisant des systèmes multimédias. Dès à présent, le développement des formations de groupe qui facilitent l'acquisition des connaissances tout en préfigurant des nouvelles situations collectives du travail sera recherché.<p></p><p></p>   Pour répondre à leurs besoins, les entreprises chercheront à développer leur potentiel interne avant de recourir à des embauches extérieures.<p></p><p></p>   Lorsque les transformations techniques seront de nature à entraîner la disparition des postes de travail occupés jusque-là par les salariés, les entreprises mettront tout en oeuvre pour que, par une formation appropriée, les intéressés puissent se voir affectés à un autre emploi.<p></p><p></p>   Au cas où le reclassement interne des salariés dont le poste de travail serait supprimé du fait des transformations techniques et/ou d'organisation ne s'avérerait pas possible, des solutions seront recherchées pour que puisse être donnée aux intéressés une formation vers des métiers pour lesquels existent des débouchés.<p></p><p></p>   Les actions correspondant à ces orientations seront retenues de façon prioritaire dans la convention de développement de la formation professionnelle continue.<p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord national professionnel 1990-06-29",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005697430",
-                "intOrdre": 300643,
-                "title": "Obligation de discrétion et de secret",
-                "id": "KALISCTA000005697430",
-                "etat": "VIGUEUR_NON_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005784458",
-                    "num": "6",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000005784458",
-                    "content": "<p></p>   Les membres du comité d'entreprise, les délégués syndicaux et les membres du comité d'hygiène, de sécurité et des conditions de travail sont tenus aux obligations de secret et de discrétion énoncées par l'article L432-7.<p></p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord national professionnel 1990-06-29",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                }
-              ]
             }
           ]
         },
@@ -4286,70 +4286,6 @@
         {
           "type": "section",
           "data": {
-            "cid": "KALITEXT000033106322",
-            "title": "Avenant n° 3 du 27 avril 2016 à l'accord du 13 décembre 2010 relatif à la classification professionnelle",
-            "id": "KALITEXT000033106322",
-            "etat": "VIGUEUR_NON_ETEN",
-            "modifDate": "2016-04-01"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000033106324",
-                "num": "1er",
-                "intOrdre": 524287,
-                "id": "KALIARTI000033106324",
-                "content": "<p align='left'><br/>La grille de rémunération visée à l'annexe II de <a href='/affichIDCC.do?cidTexte=KALITEXT000024401344&categorieLien=cid' title='Classification professionnelle (VNE)'>l'accord professionnel du 13 décembre 2010</a>est modifiée comme suit pour l'année 2016 : </p><p align='right'><br/>(En euros.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>Niveau </th><th>Proposition <br/>RAM 2016 </th><th>Mensuel 80 % </th><th>Mensuel 70 % (2) </th></tr><tr><td align='center'>Débutant (1) : </td><td align='center'>26 999 </td><td align='center'>1 800 </td><td>– </td></tr><tr><td align='center'>Moins de 2 ans d'ancienneté </td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>Entre 2 et 5 ans d'ancienneté </td><td align='center'>30 180 </td><td align='center'>2 012 </td><td>– </td></tr><tr><td align='center'>A </td><td align='center'>37 600 </td><td align='center'>2 507 </td><td align='center'>2 193 </td></tr><tr><td align='center'>B </td><td align='center'>43 354 </td><td align='center'>2 890 </td><td align='center'>2 529 </td></tr><tr><td align='center'>C </td><td align='center'>56 773 </td><td align='center'>3 785 </td><td align='center'>3 312 </td></tr><tr><td colspan='4' align='center'>(1) Collaborateurs ingénieurs et cadres débutants au sens du paragraphe 3.3 de l'accord du 13 décembre 2010. <br/>(2) Collaborateurs dont la fonction justifie une part importante d'éléments variables de rémunération (ex. cadres commerciaux) et paragraphe 5.2 de l'accord du 13 décembre 2010.</td></tr></table></center></div></p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "surtitre": "Revalorisation de la grille de rémunération",
-                "lstLienModification": []
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000033106327",
-                "num": "2",
-                "intOrdre": 1048574,
-                "id": "KALIARTI000033106327",
-                "content": "<p align='left'><br/>Le présent avenant est conclu dans le champ d'application :<br/>– n° 3011 (idcc 700) : convention collective nationale des ingénieurs et cadres de la production des papiers, cartons et cellulose du 4 décembre 1972 ;<br/>– n° 3068 (idcc 707) : convention collective nationale des ingénieurs et cadres de la transformation des papiers, cartons et de la pellicule cellulosique du 21 décembre 1972.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "surtitre": "Champ d'application",
-                "lstLienModification": []
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000033106328",
-                "num": "3",
-                "intOrdre": 1572861,
-                "id": "KALIARTI000033106328",
-                "content": "<p align='left'><br/>Le présent avenant fait l'objet des mêmes conditions de dépôt et de procédure que l'accord initial lui-même. La partie patronale s'attachera à recourir à son extension.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "surtitre": "Procédure de dépôt et d'extension",
-                "lstLienModification": []
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000033106329",
-                "num": "4",
-                "intOrdre": 2097148,
-                "id": "KALIARTI000033106329",
-                "content": "<p align='left'><br/>Le présent accord entre en vigueur de manière rétroactive au 1er avril 2016.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "surtitre": "Date d'application de l'accord",
-                "lstLienModification": []
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
             "cid": "KALITEXT000033106310",
             "title": "Avenant n° 8 du 27 avril 2016 à l'accord professionnel du 22 novembre 2006, relatif aux salaires au 1er avril 2016",
             "id": "KALITEXT000033106310",
@@ -4485,6 +4421,70 @@
                     "dateDebutCible": "2999-01-01"
                   }
                 ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000033106322",
+            "title": "Avenant n° 3 du 27 avril 2016 à l'accord du 13 décembre 2010 relatif à la classification professionnelle",
+            "id": "KALITEXT000033106322",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2016-04-01"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000033106324",
+                "num": "1er",
+                "intOrdre": 524287,
+                "id": "KALIARTI000033106324",
+                "content": "<p align='left'><br/>La grille de rémunération visée à l'annexe II de <a href='/affichIDCC.do?cidTexte=KALITEXT000024401344&categorieLien=cid' title='Classification professionnelle (VNE)'>l'accord professionnel du 13 décembre 2010</a>est modifiée comme suit pour l'année 2016 : </p><p align='right'><br/>(En euros.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>Niveau </th><th>Proposition <br/>RAM 2016 </th><th>Mensuel 80 % </th><th>Mensuel 70 % (2) </th></tr><tr><td align='center'>Débutant (1) : </td><td align='center'>26 999 </td><td align='center'>1 800 </td><td>– </td></tr><tr><td align='center'>Moins de 2 ans d'ancienneté </td><td><br/></td><td><br/></td><td><br/></td></tr><tr><td align='center'>Entre 2 et 5 ans d'ancienneté </td><td align='center'>30 180 </td><td align='center'>2 012 </td><td>– </td></tr><tr><td align='center'>A </td><td align='center'>37 600 </td><td align='center'>2 507 </td><td align='center'>2 193 </td></tr><tr><td align='center'>B </td><td align='center'>43 354 </td><td align='center'>2 890 </td><td align='center'>2 529 </td></tr><tr><td align='center'>C </td><td align='center'>56 773 </td><td align='center'>3 785 </td><td align='center'>3 312 </td></tr><tr><td colspan='4' align='center'>(1) Collaborateurs ingénieurs et cadres débutants au sens du paragraphe 3.3 de l'accord du 13 décembre 2010. <br/>(2) Collaborateurs dont la fonction justifie une part importante d'éléments variables de rémunération (ex. cadres commerciaux) et paragraphe 5.2 de l'accord du 13 décembre 2010.</td></tr></table></center></div></p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Revalorisation de la grille de rémunération",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000033106327",
+                "num": "2",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000033106327",
+                "content": "<p align='left'><br/>Le présent avenant est conclu dans le champ d'application :<br/>– n° 3011 (idcc 700) : convention collective nationale des ingénieurs et cadres de la production des papiers, cartons et cellulose du 4 décembre 1972 ;<br/>– n° 3068 (idcc 707) : convention collective nationale des ingénieurs et cadres de la transformation des papiers, cartons et de la pellicule cellulosique du 21 décembre 1972.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Champ d'application",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000033106328",
+                "num": "3",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000033106328",
+                "content": "<p align='left'><br/>Le présent avenant fait l'objet des mêmes conditions de dépôt et de procédure que l'accord initial lui-même. La partie patronale s'attachera à recourir à son extension.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Procédure de dépôt et d'extension",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000033106329",
+                "num": "4",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000033106329",
+                "content": "<p align='left'><br/>Le présent accord entre en vigueur de manière rétroactive au 1er avril 2016.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Date d'application de l'accord",
+                "lstLienModification": []
               }
             }
           ]

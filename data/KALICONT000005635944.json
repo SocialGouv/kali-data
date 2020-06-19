@@ -1160,9 +1160,9 @@
           "data": {
             "cid": "KALISCTA000005705462",
             "intOrdre": 1288470,
-            "title": "Commission paritaire nationale d'interprétation et de conciliation",
-            "id": "KALISCTA000033308905",
-            "etat": "VIGUEUR_NON_ETEN"
+            "title": "Différends collectifs-Conciliation  ",
+            "id": "KALISCTA000005705462",
+            "etat": "VIGUEUR_ETEN"
           },
           "children": [
             {
@@ -1209,9 +1209,9 @@
           "data": {
             "cid": "KALISCTA000005705462",
             "intOrdre": 1288470,
-            "title": "Différends collectifs-Conciliation  ",
-            "id": "KALISCTA000005705462",
-            "etat": "VIGUEUR_ETEN"
+            "title": "Commission paritaire nationale d'interprétation et de conciliation",
+            "id": "KALISCTA000033308905",
+            "etat": "VIGUEUR_NON_ETEN"
           },
           "children": [
             {
@@ -1374,6 +1374,54 @@
         "etat": "VIGUEUR"
       },
       "children": [
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000005660653",
+            "title": "Avenant n° 6 du 31 août 1992 relatif à la grille prime d'ancienneté des ouvriers",
+            "id": "KALITEXT000005660653",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "1992-08-31"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000005705426",
+                "intOrdre": 42949,
+                "title": "Prime d'ancienneté (table et ornementation)",
+                "id": "KALISCTA000005705426",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005804588",
+                    "intOrdre": 42949,
+                    "id": "KALIARTI000005804588",
+                    "content": "<p></p>   Les taux horaires ci-dessous serviront de base au calcul de la prime d'ancienneté du personnel ouvrier, selon le calendrier indiqué.<p></p><p></p>   Grille de la prime d'ancienneté des ouvriers.<p></p><p></p> Coefficient : M.O. 100.<p></p> Prime horaire à l'ancienneté :<p></p> 11-1992 : 15,30 F<p></p> 4-1993 : 16,60 F<p></p> 9-1993 : 18,00 F<p></p> 4-1994 : 19,50 F<p></p> 9-1994 : 20,50 F<p></p><p></p> Coefficient : M.S. 120.<p></p> Prime horaire à l'ancienneté :<p></p> 11-1992 : 18,36 F<p></p> 4-1993 : 19,92 F<p></p> 9-1993 : 21,60 F<p></p> 4-1994 : 23,40 F<p></p> 9-1994 : 24,60 F<p></p><p></p> Coefficient : 0.S.1 125.<p></p> Prime horaire à l'ancienneté :<p></p> 11-1992 : 19,13 F<p></p> 4-1993 : 20,75 F<p></p> 9-1993 : 22,50 F<p></p> 4-1994 : 24,38 F<p></p> 9-1994 : 25,63 F<p></p><p></p> Coefficient : O.S.2 130.<p></p> Prime horaire à l'ancienneté :<p></p> 11-1992 : 19,89 F<p></p> 4-1993 : 21,58 F<p></p> 9-1993 : 23,40 F<p></p> 4-1994 : 25,35 F<p></p> 9-1994 : 26,65 F<p></p><p></p> Coefficient : O.S.3 135.<p></p> Prime horaire à l'ancienneté :<p></p> 11-1992 : 20,66 F<p></p> 4-1993 : 22,41 F<p></p> 9-1993 : 24,30 F<p></p> 4-1994 : 26,33 F<p></p> 9-1994 : 27,68 F<p></p><p></p>Coefficient : O.Q.1 142.<p></p> Prime horaire à l'ancienneté :<p></p> 11-1992 : 21,73 F<p></p> 4-1993 : 23,58 F<p></p> 9-1993 : 25,56 F<p></p> 4-1994 : 27,69 F<p></p> 9-1994 : 29,11 F<p></p><p></p> Coefficient : 0.Q.2 152.<p></p> Prime horaire à l'ancienneté :<p></p> 11-1992 : 23,26 F<p></p> 4-1993 : 25,24 F<p></p> 9-1993 : 27,36 F<p></p> 4-1994 : 29,64 F<p></p> 9-1994 : 31,16 F<p></p><p></p> Coefficient : O.Q.3 163.<p></p> Prime horaire à l'ancienneté :<p></p> 11-1992 : 24,94 F<p></p> 4-1993 : 27,06 F<p></p> 9-1993 : 29,34 F<p></p> 4-1994 : 31,79 F<p></p> 9-1994 : 33,42 F<p></p><p></p> Coefficient : O.H.Q 170.<p></p> Prime horaire à l'ancienneté :<p></p> 11-1992 : 26,01 F<p></p> 4-1993 : 28,22 F<p></p> 9-1993 : 30,60 F<p></p> 4-1994 : 33,15 F<p></p> 9-1994 : 34,85 F<p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Avenant n° 6 1992-08-31 art. 1 BO Conventions collectives 92-37 étendu par arrêté du 19 novembre 1992 JORF 5 décembre 1992",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
         {
           "type": "section",
           "data": {
@@ -2303,48 +2351,111 @@
         {
           "type": "section",
           "data": {
-            "cid": "KALITEXT000005660653",
-            "title": "Avenant n° 6 du 31 août 1992 relatif à la grille prime d'ancienneté des ouvriers",
-            "id": "KALITEXT000005660653",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "1992-08-31"
+            "cid": "KALITEXT000005660684",
+            "title": "Accord du 17 juin 1994 relatif au financement du CFA des industries céramiques par le 0,4 % consacré à l'alternance",
+            "id": "KALITEXT000005660684",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "1994-06-17"
           },
           "children": [
             {
-              "type": "section",
+              "type": "article",
               "data": {
-                "cid": "KALISCTA000005705426",
+                "cid": "KALIARTI000005804690",
                 "intOrdre": 42949,
-                "title": "Prime d'ancienneté (table et ornementation)",
-                "id": "KALISCTA000005705426",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005804588",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000005804588",
-                    "content": "<p></p>   Les taux horaires ci-dessous serviront de base au calcul de la prime d'ancienneté du personnel ouvrier, selon le calendrier indiqué.<p></p><p></p>   Grille de la prime d'ancienneté des ouvriers.<p></p><p></p> Coefficient : M.O. 100.<p></p> Prime horaire à l'ancienneté :<p></p> 11-1992 : 15,30 F<p></p> 4-1993 : 16,60 F<p></p> 9-1993 : 18,00 F<p></p> 4-1994 : 19,50 F<p></p> 9-1994 : 20,50 F<p></p><p></p> Coefficient : M.S. 120.<p></p> Prime horaire à l'ancienneté :<p></p> 11-1992 : 18,36 F<p></p> 4-1993 : 19,92 F<p></p> 9-1993 : 21,60 F<p></p> 4-1994 : 23,40 F<p></p> 9-1994 : 24,60 F<p></p><p></p> Coefficient : 0.S.1 125.<p></p> Prime horaire à l'ancienneté :<p></p> 11-1992 : 19,13 F<p></p> 4-1993 : 20,75 F<p></p> 9-1993 : 22,50 F<p></p> 4-1994 : 24,38 F<p></p> 9-1994 : 25,63 F<p></p><p></p> Coefficient : O.S.2 130.<p></p> Prime horaire à l'ancienneté :<p></p> 11-1992 : 19,89 F<p></p> 4-1993 : 21,58 F<p></p> 9-1993 : 23,40 F<p></p> 4-1994 : 25,35 F<p></p> 9-1994 : 26,65 F<p></p><p></p> Coefficient : O.S.3 135.<p></p> Prime horaire à l'ancienneté :<p></p> 11-1992 : 20,66 F<p></p> 4-1993 : 22,41 F<p></p> 9-1993 : 24,30 F<p></p> 4-1994 : 26,33 F<p></p> 9-1994 : 27,68 F<p></p><p></p>Coefficient : O.Q.1 142.<p></p> Prime horaire à l'ancienneté :<p></p> 11-1992 : 21,73 F<p></p> 4-1993 : 23,58 F<p></p> 9-1993 : 25,56 F<p></p> 4-1994 : 27,69 F<p></p> 9-1994 : 29,11 F<p></p><p></p> Coefficient : 0.Q.2 152.<p></p> Prime horaire à l'ancienneté :<p></p> 11-1992 : 23,26 F<p></p> 4-1993 : 25,24 F<p></p> 9-1993 : 27,36 F<p></p> 4-1994 : 29,64 F<p></p> 9-1994 : 31,16 F<p></p><p></p> Coefficient : O.Q.3 163.<p></p> Prime horaire à l'ancienneté :<p></p> 11-1992 : 24,94 F<p></p> 4-1993 : 27,06 F<p></p> 9-1993 : 29,34 F<p></p> 4-1994 : 31,79 F<p></p> 9-1994 : 33,42 F<p></p><p></p> Coefficient : O.H.Q 170.<p></p> Prime horaire à l'ancienneté :<p></p> 11-1992 : 26,01 F<p></p> 4-1993 : 28,22 F<p></p> 9-1993 : 30,60 F<p></p> 4-1994 : 33,15 F<p></p> 9-1994 : 34,85 F<p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Avenant n° 6 1992-08-31 art. 1 BO Conventions collectives 92-37 étendu par arrêté du 19 novembre 1992 JORF 5 décembre 1992",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
+                "id": "KALIARTI000005804690",
+                "content": "<p align='center'>Préambule </p><p>Les parties signataires rappellent l'extrême importance qu'elles attachent à la valorisation et au renforcement, par la formation, des qualifications et compétences du personnel, atouts pour l'entreprise, pour le développement de l'emploi et pour l'évolution de carrière des salariés.</p><p>Elles considèrent que les efforts en matière de formation initiale, comme de formation continue, doivent être accentués. La CICF s'y est d'ailleurs déjà préparée par la rénovation des filières de formation et par la volonté qu'elle manifeste de réactiver l'apprentissage et la formation continue.</p><p>Les signataires ont la volonté de poursuivre ces actions au sein de la commission nationale paritaire de l'emploi des industries céramiques (qui comprend également l'industrie de la porcelaine) et d'encourager la mise en place dans les entreprises de politiques et de pratiques prévisionnelles dans le domaine de la gestion des ressources humaines de façon à anticiper les évolutions nécessaires en matière de recrutement et de formation. Ainsi pourront être utilisées pleinement les connaissances, qualifications et aptitudes des salariés, dans le souci de faire correspondre au mieux leurs aspirations professionnelles et les besoins présents et futurs des entreprises.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "",
+                    "textTitle": "Accord 1994-06-17 BO Conventions collectives 94-28",
+                    "linkType": "CREATION",
+                    "linkOrientation": "source",
+                    "articleNum": "",
+                    "articleId": "",
+                    "natureText": "",
+                    "datePubliTexte": null,
+                    "dateSignaTexte": null,
+                    "dateDebutCible": null
                   }
-                }
-              ]
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000005804692",
+                "num": "1",
+                "intOrdre": 64423,
+                "id": "KALIARTI000005804692",
+                "content": "<p></p>   En application de l'article 30 de la loi n° 92-1446 du 31 décembre 1992, de l'article 92 de la loi n° 93-121 du 27 janvier 1993 et de l'article 96 de la loi n° 93-1352 du 30 décembre 1993, l'organisme mutualisateur agréé des industries céramiques peut affecter chaque année au C.F.A. des industries céramiques tout ou partie des fonds recueillis au titre du 0,1 % que les entreprises employant moins de dix salariés doivent consacrer aux formations en alternance et tout ou partie de 35 % des fonds versés par les entreprises de dix salariés et plus, au titre du 0,4 % prélevé sur la formation continue.<p></p><p></p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "",
+                    "textTitle": "Accord 1994-06-17 BO Conventions collectives 94-28",
+                    "linkType": "CREATION",
+                    "linkOrientation": "source",
+                    "articleNum": "",
+                    "articleId": "",
+                    "natureText": "",
+                    "datePubliTexte": null,
+                    "dateSignaTexte": null,
+                    "dateDebutCible": null
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000005804693",
+                "num": "2",
+                "intOrdre": 75160,
+                "id": "KALIARTI000005804693",
+                "content": "<p>Le CNPE des industries céramiques établit les priorités en matière de développement de l'apprentissage, et en particulier les évolutions souhaitables des effectifs d'apprentis dans le CFA des industries céramiques.</p><p>Elle décide chaque année, avant le 30 juin, des montants à affecter au CFA des industries céramiques, sur le vu d'un budget prévisionnel établi par ce dernier et qui lui est adressé avant le 31 mai avec toutes justifications nécessaires.</p><p>Est également transmis à la CNPE, avant sa décision d'affectation des fonds, l'avis formulé par le conseil de perfectionnement des industries céramiques sur les montants en cause et leur utilisation projetée.</p><p>Chaque année, la CNPE est informée des réalisations et de l'emploi des fonds affectés à l'année précédente. Il lui est en outre présenté au même moment un rapport relatif aux conditions de mise en oeuvre du présent accord.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "",
+                    "textTitle": "Accord 1994-06-17 BO Conventions collectives 94-28",
+                    "linkType": "CREATION",
+                    "linkOrientation": "source",
+                    "articleNum": "",
+                    "articleId": "",
+                    "natureText": "",
+                    "datePubliTexte": null,
+                    "dateSignaTexte": null,
+                    "dateDebutCible": null
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000005804694",
+                "num": "3",
+                "intOrdre": 80529,
+                "id": "KALIARTI000005804694",
+                "content": "<p></p>Au vu des aspects respectifs du conseil de perfectionnement des industries céramiques en date du 3 mai 1994 et de la CNPE des industries céramiques en date du 17 juin 1994, les signataires décident d'affecter, sur les fonds de la formation en alternance recueillis en 1994 au titre du 01, % auprès des entreprises de moins de dix salariés et au titre du 0,4 % auprès des entreprises de dix salariés et plus, une somme de 1.650.000 F, dès la date de signature du présent accord, au     CFA des industries céramiques en vue de :<p></p><p></p>-contribuer au fonctionnement du     CFA des industries céramiques ;<p></p><p></p>-développer des actions en vue d'augmenter le nombre des apprentis et la qualité de la formation ;<p></p><p></p>-procéder à la maintenance et au renouvellement du matériel pédagogique du     CFA dans les limites autorisées par la loi. <p></p><p></p>Un dossier chiffré, reprenant les éléments de budget prévisionnel des investissements présentés oralement le 3 mai 1994 lors des conseils de perfectionnement paritaires du C.P.I.C. et du     CFA des industries céramiques, sera transmis avant le 31 août 1994 aux organisations syndicales de salariés.<p></p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "",
+                    "textTitle": "Accord 1994-06-17 BO Conventions collectives 94-28",
+                    "linkType": "CREATION",
+                    "linkOrientation": "source",
+                    "articleNum": "",
+                    "articleId": "",
+                    "natureText": "",
+                    "datePubliTexte": null,
+                    "dateSignaTexte": null,
+                    "dateDebutCible": null
+                  }
+                ]
+              }
             }
           ]
         },
@@ -3955,50 +4066,37 @@
         {
           "type": "section",
           "data": {
-            "cid": "KALITEXT000005660684",
-            "title": "Accord du 17 juin 1994 relatif au financement du CFA des industries céramiques par le 0,4 % consacré à l'alternance",
-            "id": "KALITEXT000005660684",
+            "cid": "KALITEXT000005660710",
+            "title": "Accord du 31 mars 1998 relatif au financement du CFA des industries céramiques par le 0,4 % consacré à l'alternance",
+            "id": "KALITEXT000005660710",
             "etat": "VIGUEUR_NON_ETEN",
-            "modifDate": "1994-06-17"
+            "modifDate": "1998-03-31"
           },
           "children": [
             {
               "type": "article",
               "data": {
-                "cid": "KALIARTI000005804690",
-                "intOrdre": 42949,
-                "id": "KALIARTI000005804690",
-                "content": "<p align='center'>Préambule </p><p>Les parties signataires rappellent l'extrême importance qu'elles attachent à la valorisation et au renforcement, par la formation, des qualifications et compétences du personnel, atouts pour l'entreprise, pour le développement de l'emploi et pour l'évolution de carrière des salariés.</p><p>Elles considèrent que les efforts en matière de formation initiale, comme de formation continue, doivent être accentués. La CICF s'y est d'ailleurs déjà préparée par la rénovation des filières de formation et par la volonté qu'elle manifeste de réactiver l'apprentissage et la formation continue.</p><p>Les signataires ont la volonté de poursuivre ces actions au sein de la commission nationale paritaire de l'emploi des industries céramiques (qui comprend également l'industrie de la porcelaine) et d'encourager la mise en place dans les entreprises de politiques et de pratiques prévisionnelles dans le domaine de la gestion des ressources humaines de façon à anticiper les évolutions nécessaires en matière de recrutement et de formation. Ainsi pourront être utilisées pleinement les connaissances, qualifications et aptitudes des salariés, dans le souci de faire correspondre au mieux leurs aspirations professionnelles et les besoins présents et futurs des entreprises.</p>",
+                "cid": "KALIARTI000030764875",
+                "intOrdre": 21474,
+                "id": "KALIARTI000030764875",
+                "content": "<p>Conformément à l'accord du 17 juin 1994, </p><p>il a été convenu ce qui suit :</p>",
                 "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "",
-                    "textTitle": "Accord 1994-06-17 BO Conventions collectives 94-28",
-                    "linkType": "CREATION",
-                    "linkOrientation": "source",
-                    "articleNum": "",
-                    "articleId": "",
-                    "natureText": "",
-                    "datePubliTexte": null,
-                    "dateSignaTexte": null,
-                    "dateDebutCible": null
-                  }
-                ]
+                "lstLienModification": []
               }
             },
             {
               "type": "article",
               "data": {
-                "cid": "KALIARTI000005804692",
+                "cid": "KALIARTI000005804801",
                 "num": "1",
-                "intOrdre": 64423,
-                "id": "KALIARTI000005804692",
-                "content": "<p></p>   En application de l'article 30 de la loi n° 92-1446 du 31 décembre 1992, de l'article 92 de la loi n° 93-121 du 27 janvier 1993 et de l'article 96 de la loi n° 93-1352 du 30 décembre 1993, l'organisme mutualisateur agréé des industries céramiques peut affecter chaque année au C.F.A. des industries céramiques tout ou partie des fonds recueillis au titre du 0,1 % que les entreprises employant moins de dix salariés doivent consacrer aux formations en alternance et tout ou partie de 35 % des fonds versés par les entreprises de dix salariés et plus, au titre du 0,4 % prélevé sur la formation continue.<p></p><p></p>",
+                "intOrdre": 42949,
+                "id": "KALIARTI000005804801",
+                "content": "<p></p>   Sur les fonds de la formation en alternance recueillis en 1997 au titre du 0,1 % auprès des entreprises de moins de 10 salariés et au titre des 0,4 % auprès des entreprises de plus de 10 salariés, la CNPE des industries céramiques décide de transmettre un avis favorable pour le transfert d'un montant de 1 910 000 F affecté, dès la date de signature du présent accord, au CFA des industries céramiques en vue de :<p></p><p></p>   - contribuer au fonctionnement du CFA des industries céramiques ;<p></p><p></p>   - développer des actions en vue d'augmenter le nombre des apprentis et la qualité de la formation, notamment en créant des antennes auprès des lycées techniques de Vierzon et Limoges.<p></p>",
                 "etat": "VIGUEUR_NON_ETEN",
                 "lstLienModification": [
                   {
                     "textCid": "",
-                    "textTitle": "Accord 1994-06-17 BO Conventions collectives 94-28",
+                    "textTitle": "Accord 1998-03-31 BO conventions collectives 98-18",
                     "linkType": "CREATION",
                     "linkOrientation": "source",
                     "articleNum": "",
@@ -4014,16 +4112,53 @@
             {
               "type": "article",
               "data": {
-                "cid": "KALIARTI000005804693",
+                "cid": "KALIARTI000005804802",
                 "num": "2",
-                "intOrdre": 75160,
-                "id": "KALIARTI000005804693",
-                "content": "<p>Le CNPE des industries céramiques établit les priorités en matière de développement de l'apprentissage, et en particulier les évolutions souhaitables des effectifs d'apprentis dans le CFA des industries céramiques.</p><p>Elle décide chaque année, avant le 30 juin, des montants à affecter au CFA des industries céramiques, sur le vu d'un budget prévisionnel établi par ce dernier et qui lui est adressé avant le 31 mai avec toutes justifications nécessaires.</p><p>Est également transmis à la CNPE, avant sa décision d'affectation des fonds, l'avis formulé par le conseil de perfectionnement des industries céramiques sur les montants en cause et leur utilisation projetée.</p><p>Chaque année, la CNPE est informée des réalisations et de l'emploi des fonds affectés à l'année précédente. Il lui est en outre présenté au même moment un rapport relatif aux conditions de mise en oeuvre du présent accord.</p>",
+                "intOrdre": 85898,
+                "id": "KALIARTI000005804802",
+                "content": "<p></p>   Chaque année, lors de sa première réunion, le CPIC fera un bilan des actions réalisées et retiendra les actions nouvelles qu'il décide de financer.<p></p><p></p>",
                 "etat": "VIGUEUR_NON_ETEN",
                 "lstLienModification": [
                   {
                     "textCid": "",
-                    "textTitle": "Accord 1994-06-17 BO Conventions collectives 94-28",
+                    "textTitle": "Accord 1998-03-31 BO conventions collectives 98-18",
+                    "linkType": "CREATION",
+                    "linkOrientation": "source",
+                    "articleNum": "",
+                    "articleId": "",
+                    "natureText": "",
+                    "datePubliTexte": null,
+                    "dateSignaTexte": null,
+                    "dateDebutCible": null
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000005660712",
+            "title": "Accord du 30 mars 1999 relatif au financement du CFA par les fonds de formation consacrés à l'alternance",
+            "id": "KALITEXT000005660712",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "1999-03-30"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000005804803",
+                "num": "1",
+                "intOrdre": 42949,
+                "id": "KALIARTI000005804803",
+                "content": "<p></p>   Sur les fonds de la formation en alternance recueillis en 1998 au titre du 0,1 % auprès des entreprises de moins de 10 salariés et au titre des 0,4 % auprès des entreprises de plus de 10 salariés, la CNPE des industries céramiques décide de donner un avis favorable pour le transfert d'un montant de 3 900 000 F affecté, dès la date de signature du présent accord, au CFA des industries céramiques en vue de :<p></p><p></p>   - contribuer au fonctionnement du CFA des industries céramiques ;<p></p><p></p>   - développer des actions de promotion afin d'augmenter le nombre des apprentis et la qualité de la formation.<p></p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "",
+                    "textTitle": "Accord 1999-03-30 BO conventions collectives 99-17",
                     "linkType": "CREATION",
                     "linkOrientation": "source",
                     "articleNum": "",
@@ -4039,16 +4174,16 @@
             {
               "type": "article",
               "data": {
-                "cid": "KALIARTI000005804694",
-                "num": "3",
-                "intOrdre": 80529,
-                "id": "KALIARTI000005804694",
-                "content": "<p></p>Au vu des aspects respectifs du conseil de perfectionnement des industries céramiques en date du 3 mai 1994 et de la CNPE des industries céramiques en date du 17 juin 1994, les signataires décident d'affecter, sur les fonds de la formation en alternance recueillis en 1994 au titre du 01, % auprès des entreprises de moins de dix salariés et au titre du 0,4 % auprès des entreprises de dix salariés et plus, une somme de 1.650.000 F, dès la date de signature du présent accord, au     CFA des industries céramiques en vue de :<p></p><p></p>-contribuer au fonctionnement du     CFA des industries céramiques ;<p></p><p></p>-développer des actions en vue d'augmenter le nombre des apprentis et la qualité de la formation ;<p></p><p></p>-procéder à la maintenance et au renouvellement du matériel pédagogique du     CFA dans les limites autorisées par la loi. <p></p><p></p>Un dossier chiffré, reprenant les éléments de budget prévisionnel des investissements présentés oralement le 3 mai 1994 lors des conseils de perfectionnement paritaires du C.P.I.C. et du     CFA des industries céramiques, sera transmis avant le 31 août 1994 aux organisations syndicales de salariés.<p></p>",
+                "cid": "KALIARTI000005804804",
+                "num": "2",
+                "intOrdre": 85898,
+                "id": "KALIARTI000005804804",
+                "content": "<p></p>   Chaque année, lors de sa première réunion, le CIPC fera un bilan des actions réalisées et retiendra les actions nouvelles qu'il décide de financer.<p></p><p></p>",
                 "etat": "VIGUEUR_NON_ETEN",
                 "lstLienModification": [
                   {
                     "textCid": "",
-                    "textTitle": "Accord 1994-06-17 BO Conventions collectives 94-28",
+                    "textTitle": "Accord 1999-03-30 BO conventions collectives 99-17",
                     "linkType": "CREATION",
                     "linkOrientation": "source",
                     "articleNum": "",
@@ -4618,847 +4753,6 @@
         {
           "type": "section",
           "data": {
-            "cid": "KALITEXT000005670660",
-            "title": "Accord du 5 novembre 2011 relatif à la formation professionnelle dans les industries céramiques",
-            "id": "KALITEXT000005670660",
-            "etat": "VIGUEUR_NON_ETEN",
-            "modifDate": "1999-03-30"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000005827923",
-                "intOrdre": 42949,
-                "id": "KALIARTI000005827923",
-                "content": "<p></p>   La CNPE de la céramique,<p></p><p></p>   Après avoir examiné dans son ensemble le projet de budget 1999 du CFA des industries céramiques tel que présenté au conseil d'administration de Forcemat, en justification de la demande de transfert OPCA-CFA,<p></p><p></p>   Compte tenu :<p></p><p></p>   - de la nécessité de restaurer une capacité d'accueil dans les locaux de Sèvres ;<p></p><p></p>   - de la nécessité de mettre en place un apprentissage en céramique industrielle ;<p></p><p></p>   - des perspectives d'ouverture d'antennes du CFA,<p></p> tous éléments déjà largement discutés,<p></p> donnent au directeur du CFA pour orientation impérative d'accélérer les actions d'investissements et de promotion de l'apprentissage au cours de l'année 1999 et de réajuster le montant du transfert alloué.<p></p><p></p>   Cette volonté sera à exprimer clairement lors de la dernière mise en forme du dossier de renouvellement de la convention portant création du CFA, qui, après un dernier examen par le conseil de perfectionnement du CFA, sera soumis à la commission permanente de formation professionnelle.<p></p><p></p>   Dans ce sens, les soussignés signataires, membres de la CNPE, donnent un avis favorable au transfert de 3 900 000 F des fonds de formation inutilisés par l'OPCA au CFA des industries céramiques, conformément à l'accord du 17 juin 1994.<p></p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "",
-                    "textTitle": "Accord 1999-03-30 BO conventions collectives 99-17",
-                    "linkType": "CREATION",
-                    "linkOrientation": "source",
-                    "articleNum": "",
-                    "articleId": "",
-                    "natureText": "",
-                    "datePubliTexte": null,
-                    "dateSignaTexte": null,
-                    "dateDebutCible": null
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALITEXT000005667426",
-            "title": "Accord du 5 novembre 1996 relatif à la formation professionnelle dans les industries céramiques",
-            "id": "KALITEXT000005667426",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "1996-11-05"
-          },
-          "children": [
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005710779",
-                "intOrdre": 42949,
-                "title": "Préambule",
-                "id": "KALISCTA000005710779",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819297",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000005819297",
-                    "content": "<p></p>   La confédération des industries céramiques de France, d'une part, et les fédérations de salariés affiliées à la C.F.D.T., C.F.T.C., C.G.T., C.G.T. - F.O. et S.C.A.M.I.C. - C.G.C. avaient conclu le 11 février 1985 un accord sur les objectifs et moyens de la formation professionnelle dans les industries céramiques.<p></p><p></p>   Depuis lors l'accord national interprofessionnel du 3 juillet 1991 et les lois du 31 décembre 1991 modifiée, du 31 décembre 1992 et du 27 février 1993 ont créé les conditions de la conclusion d'un nouvel accord.<p></p><p></p>   Les parties signataires rappellent l'extrême importance qu'elles attachent à la valorisation et au renforcement, par la formation, des qualifications et compétences du personnel, atouts pour l'entreprise, pour le développement de l'emploi et pour l'évolution de carrière des salariés.<p></p><p></p>   Elles considèrent que les efforts en matière de formation initiale, comme de formation continue, doivent être accentués. La C.I.C.F. s'y est d'ailleurs déjà préparée par la rénovation des filières de formation et par la volonté qu'elle manifeste de réactiver l'apprentissage et la formation continue. En matière de formation des jeunes, les parties signataires se référeront à l'accord interprofessionnel du 23 juin 1995 relatif à l'insertion professionnel des jeunes.<p></p><p></p>   Par ailleurs, les parties signataires souhaitent que les moyens mis à la disposition des entreprises en faveur de l'emploi soient effectivement utilisés pour atteindre cet objectif.<p></p><p></p>   Les signataires ont la volonté de poursuivre ces actions au sein de la commission nationale paritaire de l'emploi des industries céramiques (qui comprend également les industries de la porcelaine) et d'encourager la mise en place dans les entreprises de politiques et de pratiques prévisionnelles dans le domaine de la gestion des ressources humaines de façon à anticiper les évolutions nécessaires en matière de recrutement et de formation. Ainsi pourront être utilisées pleinement les connaissances, qualifications et aptitudes des salariés, dans le souci de faire correspondre au mieux leurs aspirations professionnelles et les besoins présents et futurs des entreprises.<p></p><p></p>   Le présent accord constitue la réaffirmation que la formation des salariés doit être l'une des priorités de la profession et des entreprises, en tant qu'outil d'enrichissement personnel et d'évolution de carrière, de facteur essentiel de développement des entreprises et de création d'emplois.<p></p><p></p>   En conséquence, il a été convenu ce qui suit, pour l'application de l'article L. 933-2 du code du travail.<p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000005819298",
-                "num": "1",
-                "intOrdre": 85898,
-                "id": "KALIARTI000005819298",
-                "content": "<p></p>   Le présent accord s'applique aux entreprises relevant du champ d'application de la convention collective nationale des industries de la céramique et de la convention collective nationale des industries de la porcelaine.<p></p><p></p>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "",
-                    "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                    "linkType": "CREATION",
-                    "linkOrientation": "source",
-                    "articleNum": "",
-                    "articleId": "",
-                    "natureText": "",
-                    "datePubliTexte": null,
-                    "dateSignaTexte": null,
-                    "dateDebutCible": null
-                  }
-                ]
-              }
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005710780",
-                "intOrdre": 128847,
-                "title": "Chapitre Ier : Nature des actions de formation et ordre de priorité",
-                "id": "KALISCTA000005710780",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819299",
-                    "num": "2",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000005819299",
-                    "content": "<p></p>   En ce qui concerne les formations initiales, continues et alternées, le présent article a pour objet de déterminer quelles actions devront être prioritairement conduites au niveau de la profession, comme dans les entreprises.<p></p><p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819300",
-                    "num": "3",
-                    "intOrdre": 85898,
-                    "id": "KALIARTI000005819300",
-                    "content": "<p></p>   S'agissant du plan de formation dans les entreprises et des formations qualifiantes initiales ou continues, la mise en oeuvre des principes ci-dessus énoncés conduira celles-ci à prévoir les types d'actions suivantes :<p></p><p></p>   - actions répondant au besoin d'adaptation et de modernisation des entreprises : qualité des produits, respect de l'environnement, circulation de l'information, adaptation aux nouvelles technologies et à l'évolution des marchés, perfectionnement des connaissances concernant l'emploi occupé, apport de connaissances nouvelles débordant cet emploi ;<p></p><p></p>   - actions de prévention, ayant pour objet de réduire les risques d'inadaptation de qualification à l'évolution des techniques et des structures des entreprises, en préparant les salariés dont l'emploi est menacé, à une mutation d'activité soit dans le cadre, soit en dehors de leur entreprise ;<p></p><p></p>   - actions d'adaptation et de perfectionnement à l'emploi occupé, prenant en compte la promotion de la sécurité, la qualité des produits et des prestations fournis, les relations au sein de l'entreprise et hors d'elle ;<p></p><p></p>   - actions de promotion en vue de faciliter l'orientation et l'amélioration des connaissances des salariés les moins qualifiés.<p></p><p></p>   L'ordre de priorité entre ces différents types d'actions figurant au plan de formation soumis au comité d'entreprise dépendra de la situation propre à chaque entreprise.<p></p><p></p>   Ces actions prioritaires feront l'objet d'un examen selon les circonstances, et au moins une fois par an, par la commission nationale paritaire de l'emploi des industries céramiques, qui pourra formuler à cette occasion toute proposition de nature à les compléter ou les actualiser.<p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819301",
-                    "num": "4",
-                    "intOrdre": 128847,
-                    "id": "KALIARTI000005819301",
-                    "content": "<p></p>   Dans le prolongement de l'accord national interprofessionnel du 3 juillet 1991, les organisations signataires incitent les entreprises à élaborer des programmes de formation pluriannuels, qui prennent en compte les objectifs et priorités du présent accord, les perspectives économiques et l'évolution des investissements, les technologies, les modes d'organisation du travail et l'aménagement du temps de travail dans l'entreprise.<p></p><p></p>   Afin de faciliter la mise en place de tels programmes dans les entreprises et favoriser ainsi le développement d'une gestion prévisionnelle des emplois et des qualifications, les organisations signataires étudieront la mise en oeuvre d'engagements de développement de la formation (E.D.D.F.).<p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005710781",
-                "intOrdre": 171796,
-                "title": "Chapitre II : Reconnaissance des qualifications acquises du fait d'actions de formation",
-                "id": "KALISCTA000005710781",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819302",
-                    "num": "5",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000005819302",
-                    "content": "<p></p>   Les signataires s'engagent à continuer de développer des formations aboutissant à des diplômes de l'éducation nationale spécifiques à la profession et s'emploieront avec le ministère de l'éducation nationale à réactiver la commission professionnelle consultative céramique et verre. Ils veilleront à ce que le contenu des formations existantes évolue parallèlement à l'organisation du travail et à l'introduction de nouvelles technologies.<p></p><p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819303",
-                    "num": "6",
-                    "intOrdre": 85898,
-                    "id": "KALIARTI000005819303",
-                    "content": "<p></p>   Considérant la possibilité offerte à la commission nationale paritaire de l'emploi des industries céramiques d'établir une liste des qualifications professionnelles pouvant être acquises par la voie du contrat de qualification ou dans le cadre du plan de formation de l'entreprise, en application de l'article 70-7 de l'accord national interprofessionnel du 3 juillet 1991, les organisations soussignées sont convenues d'instituer des certificats de qualification professionnelle.<p></p><p></p>   Les compétences professionnelles acquises par ces moyens peuvent être reconnues et sanctionnées par des certificats de qualification professionnelle.<p></p><p></p>   Les organisations représentées à la commission nationale paritaire de l'emploi des industries céramiques sont seules habilitées à proposer la création de certificats de qualification professionnelle. Toute proposition doit comporter un cahier des charges pédagogiques, auquel est joint l'avis technique du centre de perfectionnement des industries céramiques.<p></p><p></p>   La décision de créer un certificat de qualification professionnelle est prise par la commission nationale paritaire de l'emploi des industries céramiques.<p></p><p></p>   La commission nationale paritaire de l'emploi des industries céramiques définit et communique au centre de perfectionnement des industries céramiques les conditions d'inscription du salarié et d'organisation des examens nécessaires à l'obtention des certificats de qualification professionnelle.<p></p><p></p>   Le système des certificats de qualification professionnelle institué par le présent accord doit pouvoir être adapté de manière souple et rapide à l'évolution des besoins en formation et en qualification de la profession, tout en conservant une stabilité suffisante dans le temps pour permettre aux entreprises et aux salariés concernés de programmer leurs décisions.<p></p><p></p>   Les modalités de renouvellement, de modification et de suppression des certificats de qualification professionnelle sont définies par la commission nationale paritaire de l'emploi des industries céramiques.<p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819304",
-                    "num": "7",
-                    "intOrdre": 128847,
-                    "id": "KALIARTI000005819304",
-                    "content": "<p></p>   En application de l'accord de 1995, il est rappelé qu'un dispositif de validation des acquis a été mis en place.<p></p><p></p>   Les stages de formation donnent lieu à la délivrance soit par l'entreprise, soit par un organisme, d'une attestation d'assiduité précisant l'objet et la durée du stage suivi.<p></p><p></p>   Ils peuvent entraîner une modification de la classification de l'intéressé dans les conditions suivantes : lorsque les stages agréés par la commission nationale paritaire de l'emploi des industries céramiques donnent lieu à un contrôle des connaissances, les salariés ayant subi ce contrôle avec succès bénéficieront d'une priorité pour l'accès aux emplois correspondant à la qualification obtenue qui viendraient à se libérer ou à être créés. Ces salariés seront soumis, à leur nouveau poste, à la période probatoire prévue soit par la convention collective des industries céramiques de France, soit par la convention collective nationale des industries de la porcelaine.<p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005710782",
-                "intOrdre": 214745,
-                "title": "Chapitre III : Moyens reconnus aux instances de représentation des salariés pour l'accomplissement de leur mission dans le domaine de la formation",
-                "id": "KALISCTA000005710782",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819305",
-                    "num": "8",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000005819305",
-                    "content": "<p></p>   Le comité d'entreprise ou d'établissement ou, à défaut, les délégués du personnel s'il en existe, doivent délibérer tous les ans sur le plan de formation du personnel de l'entreprise de l'année précédente et sur le projet de plan pour l'année à venir. Conformément à l'article L. 434-7 du code du travail, dans les entreprises ou les établissements de 200 salariés et plus, le comité d'entreprise doit constituer une commission de formation chargée notamment de préparer la délibération du comité d'entreprise sur le plan de formation. Cette commission présidée par un membre du comité d'entreprise a, en liaison avec les services de l'entreprise, en particulier l'encadrement, un rôle essentiel pour assurer l'information des salariés de l'entreprise sur la formation.<p></p><p></p>   La consultation du comité d'entreprise se fait au cours de deux réunions spécifiques.<p></p><p></p>   Au cours de la première réunion, la direction présente le bilan des actions réalisées et en cours de réalisation et soumet à la discussion ses orientations générales en matière de formation et ses projets pour l'année à venir en précisant les objectifs poursuivis, compte tenu des perspectives et spécificités de l'entreprise ainsi que du bilan des actions réalisées.<p></p><p></p>   Au cours de la deuxième réunion, la délibération porte sur le calendrier de mise en oeuvre des projets de l'entreprise. Ces projets devront tenir compte des orientations de la formation professionnelle dans l'entreprise dont le comité d'entreprise aura eu à délibérer, ainsi que, le cas échéant, du résultat des négociations de branche sur les objectifs et moyens de la formation professionnelle. Ils seront communiqués aux délégués syndicaux.<p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819306",
-                    "num": "9",
-                    "intOrdre": 85898,
-                    "id": "KALIARTI000005819306",
-                    "content": "<p></p>   Afin de permettre aux membres du comité d'entreprise, ou à défaut aux délégués du personnel et, le cas échéant, à la commission de formation de participer à l'élaboration de ce plan et de préparer les délibérations dont il fait l'objet, le chef d'entreprise leur communique, ainsi qu'aux délégués syndicaux, au plus tard trois semaines avant chacune des réunions prévues ci-dessus, les documents suivants :<p></p><p></p>   S'agissant du bilan de la formation réalisée :<p></p><p></p>   - une copie de la déclaration relative à la participation au développement de la formation professionnelle continue ;<p></p><p></p>   - les informations sur la formation figurant au bilan social ;<p></p><p></p>   - le bilan des actions comprises dans le plan de formation pour l'année antérieure et pour l'année en cours incluant, le cas échéant, le bilan des actions de conseil, des actions d'évaluation ou de bilan de compétences et des actions d'évaluation des formations ;<p></p><p></p>   - une note présentant les informations relatives aux congés individuels de formation et aux congés de bilan de compétences qui ont été accordés aux salariés de l'entreprise aux conditions dans lesquelles ces congés ont été accordés ou reportés, ainsi qu'aux résultats obtenus ;<p></p><p></p>   - le bilan, pour l'année antérieure et l'année en cours, en matière d'accueil, d'insertion et de formation professionnelle des jeunes dans l'entreprise ;<p></p><p></p>   - les observations éventuelles des services de contrôle visés à l'article L. 991-1 du code du travail sur le caractère libératoire des dépenses imputées sur la participation de l'entreprise.<p></p><p></p>   S'agissant du plan de formation :<p></p><p></p>   - une note présentant les orientations générales de l'entreprise en matière de formation ;<p></p><p></p>   - le plan de formation de l'entreprise pour l'année suivante tenant compte des évolutions auxquelles les entreprises sont confrontées dans tous les domaines, notamment dans le domaine technologique et comportant la liste des actions de formation proposées par l'employeur complétée par les informations relatives aux organismes formateurs, aux conditions d'organisation de ces actions, aux effectifs concernés répartis par catégories professionnelles, aux conditions financières de leur exécution, aux éléments constitutifs du coût des actions de formation compte tenu de leurs caractéristiques ;<p></p><p></p>   - une note sur les demandes de congés individuels de formation enregistrées pour l'année suivante, notamment leur nombre, la nature des formations, leur durée, leur coût et les organismes formateurs.<p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819307",
-                    "num": "10",
-                    "intOrdre": 128847,
-                    "id": "KALIARTI000005819307",
-                    "content": "<p></p>   Dans les entreprises de 200 salariés et plus, en application de la législation actuellement en vigueur, le temps passé par les membres titulaires et suppléants du comité d'entreprise aux séances de la commission de formation est payé comme temps de travail sans imputation sur le crédit d'heures de délégation attribué aux membres titulaires du comité. Pour les autres membres de la commission de formation, et dans la limite d'un nombre de personnes ne dépassant pas 1 p. 100 de l'effectif, le temps passé au titre de la commission est payé comme temps de travail à concurrence de 20 heures par an et par personne.<p></p><p></p>   Dans les entreprises de 50 à 199 salariés, s'il est constitué une commission de formation, les mêmes dispositions que ci-dessus s'appliquent. Toutefois, le nombre de salariés de la commission, membres du comité ou non, ne devra pas dépasser 3 p. 100 de l'effectif, avec un minimum de 2 personnes.<p></p><p></p>   Dans les entreprises de moins de 50 salariés, la loi fixe les prérogatives des délégués du personnel en matière de formation professionnelle et donc les dispositions ci-dessus relatives à la commission de formation ne s'appliquent pas.<p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819308",
-                    "num": "11",
-                    "intOrdre": 171796,
-                    "id": "KALIARTI000005819308",
-                    "content": "<p></p>   Les parties signataires rappellent l'importance qu'elles attachent aux missions de la commission nationale paritaire de l'emploi des industries céramiques.<p></p><p></p>   Cette dernière sera régulièrement informée des évolutions technologiques ayant des incidences sur les besoins des entreprises, ainsi que les moyens mis en oeuvre pour développer les formations correspondantes.<p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005710784",
-                "intOrdre": 257694,
-                "title": "Chapitre IV : Dispositions relatives à l'accueil et à l'insertion des jeunes dans le cadre de l'apprentissage et des formations en alternance",
-                "id": "KALISCTA000005710784",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819309",
-                    "num": "12",
-                    "intOrdre": 85898,
-                    "id": "KALIARTI000005819310",
-                    "content": "<p>   L'insertion professionnelle des jeunes par la voie de la formation par l'apprentissage est reconnue comme une action prioritaire.</p><p>   Les orientations relatives à l'apprentissage sont définies au niveau professionnel. Dans le cadre d'une politique de concertation et de coopération avec l'Etat, les régions et les instances européennes et afin d'encourager le plus efficacement possible la formation des jeunes en vue de leur insertion dans l'emploi, les organisations signataires entendent favoriser la conclusion de contrats d'objectifs pluriannuels de développement de l'apprentissage et de l'enseignement professionnel ou technologique par alternance.</p><p>   Conformément aux dispositions de l'article L. 115-2 du code du travail, la durée des contrats d'apprentissage est fixée par décret en fonction du type de profession et du niveau de qualification préparés et peut varier entre un et trois ans.</p><p>   Dans le cadre des articles L. 933-2 paragraphe 4 bis du code du travail et 10-3 de l'accord national interprofessionnel du 3 juillet 1991 et, compte tenu de la durée des contrats d'apprentissage, les parties signataires décident que les principes suivants seront mis en oeuvre :</p><p>   - adapter à la spécificité de chaque titre ou diplôme préparé, la répartition des durées de formation pratique, technique, théorique et générale ;</p><p>   - fixer une durée annuelle minimale de 400 heures en C.F.A., le maximum devant être au plus égal à 50 p. 100 du temps passé en entreprise ;</p><p>   - assurer à l'apprenti un niveau de formation générale lui permettant d'évoluer au cours de sa vie professionnelle et, le cas échéant, de poursuivre des études sous statut scolaire ou universitaire : B.E.P., bac pro, B.T.S., D.U.T., D.E.U.S.T., diplôme d'ingénieur, etc. ;</p><p>   - élaborer des parcours individualisés de formation sur la base de bilans de compétences, conformément aux dispositions de la loi du 17 juillet 1992 et de l'accord national interprofessionnel du 3 juillet 1991 ;</p><p>   - organiser des actions de soutien aux apprentis en difficulté ;</p><p>   - développer des programmes en vue de soutenir des actions de perfectionnement des enseignants du C.F.A. des industries céramiques à travers des actions de formation spécifique de courte et moyenne durée, dans les diverses spécialités professionnelles enseignées, mais aussi dans l'amélioration de leurs outils pédagogiques afin de les adapter à la pédagogie de l'alternance ;</p><p>   - développer des actions de formation et de perfectionnement des maîtres d'apprentissage, et notamment par l'élaboration d'outils et recommandations pédagogiques adaptés à l'entreprise.</p><p>   Les parties signataires rappellent que le travail confié à l'apprenti doit être en relation directe avec la formation professionnelle prévue au contrat.</p><p>   La rémunération minimale des apprentis est déterminée en pourcentage du S.M.I.C. (1). Ce pourcentage ne saurait être inférieur à 50 p. 100 du S.M.I.C.</p><p>   Le financement de l'apprentissage est assuré essentiellement par la taxe d'apprentissage. Suivant les textes actuellement en vigueur, cette taxe correspond à 0,50 p. 100 de la masse salariale de l'entreprise. A cet égard, les signataires incitent les entreprises de la branche, afin de conforter la demande visée par le présent accord et, en raison des moyens financiers nécessaires, à utiliser le service collecteur de taxe d'apprentissage de la profession et à le faire bénéficier de leur taxe disponible dans le respect des décisions d'affectation prises, le cas échéant, par les chefs d'entreprises.</p><p><font color='808080' size='1'><i>    (1) Phrase exclue de l'extension par arrêté du 7 mai 1997.</i></font></p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, *étendu avec exclusions par arrêté du 7 mai 1997 JORF 17 mai 1997*",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819311",
-                    "num": "13",
-                    "intOrdre": 128847,
-                    "id": "KALIARTI000005819311",
-                    "content": "<p>   Les parties signataires confirment également leur intérêt pour les formules de contrats d'insertion en alternance : contrat d'orientation, contrat de qualification et contrat d'adaptation. Chacune de ces formules correspond à des conditions particulières d'accès et de réalisation et constitue un moyen d'insertion approprié pour les jeunes comme pour les entreprises.</p><p>   Le comité d'entreprise et les délégués du personnel, dans les entreprises de moins de 50 salariés, sont informés et consultés sur les projets de l'entreprise en matière de formation alternée.</p><p>   L'accord du 6 décembre 1994 a créé l'organisme paritaire collecteur agréé \" Forcemat \" chargé de collecter les fonds de la formation des entreprises de la céramique et des carrières et matériaux. Les entreprises de la branche professionnelle de la céramique doivent verser à l'O.P.C.A. Forcemat (conformément à l'accord du 15 décembre 1994) les fonds correspondant :</p><p>   - pour celles employant moins de 10 salariés, à la contribution du 0,1 p. 100 qu'elles consacrent au financement des contrats d'insertion en alternance ;</p><p>   - pour celles occupant 10 salariés et plus, à la contribution du 0,4 p. 100 prélevée sur la participation au développement de la formation continue.</p><p>   Cet organisme est paritaire et décide des orientations d'affectation des fonds et vérifie l'application de ses orientations. Il est soumis à la certification des comptes par un commissaire aux comptes.</p><p>   Afin de favoriser la qualité des contrats d'insertion, l'entreprise porte une attention toute particulière au choix du tuteur. Conformément à l'article 20-3 de l'accord national interprofessionnel du 3 juillet 1991, le tuteur est choisi par l'employeur, sur la base du volontariat, parmi les salariés qualifiés de l'entreprise en tenant compte de son niveau de qualification, qui devra être au moins égal à celui du jeune, et de l'objectif à atteindre. Dans les petites entreprises, le tuteur peut être l'employeur lui-même. Il a notamment pour mission d'accueillir, d'aider, d'informer, de guider les jeunes pendant leur séjour dans l'entreprise, ainsi que d'être attentif au respect de leur emploi du temps.</p><p>   Le tuteur organise également le parcours du jeune et met en place dans le milieu de travail les principales phases d'un processus d'apprentissage, tenant compte des objectifs de formation et des impératifs de fonctionnement de l'entreprise.</p><p>   L'entreprise prend, s'il y a lieu, les mesures d'organisation et d'aménagement de la charge de travail, nécessaires à l'accomplissement de la mission du tuteur. Pour assurer celle-ci, il bénéficie d'une préparation et, si nécessaire, d'une formation spécifique. A son issue, il rend compte de sa mission.</p><p>   Les signataires confirment l'importance du rôle de l'encadrement dans l'accueil des jeunes. Il s'agit, en effet, de donner non seulement la formation indispensable pour tenir un poste de travail, pour respecter les règles de sécurité, mais aussi de vérifier si les connaissances nécessaires à l'exercice d'un emploi ont été bien acquises, de se préoccuper de l'adaptation de la personne à sa fonction ; enfin, de replacer l'ensemble de ces tâches dans le fonctionnement général de l'entreprise, de montrer l'articulation des divers services qui la composent. En un mot, de faire percevoir, au travers de cette expérience, les enjeux économiques qui sont attachés à toute fonction de l'entreprise et qui conditionnent sa réussite ou ses difficultés.</p><p><font color='808080' size='1'><i> (1) Le cinquième alinéa de l'article 13 est étendu sous réserve des dispositions de l'article 20-3 de l'avenant du 5 juillet 1994 à l'accord national interprofessionnel du 3 juillet 1991, étendu par arrêté du 10 mai 1995.</i></font></p><p><font color='808080' size='1'><i>(Arrêté du 7 mai 1997- </i></font><font color='808080' size='1'><i>art. 1er)</i></font></p><p></p><p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819312",
-                    "num": "14",
-                    "intOrdre": 171796,
-                    "id": "KALIARTI000005819312",
-                    "content": "<p></p>En application de l'article 30 de la loi n° 92-1446 du 31 décembre 1992, de l'article 92 de la loi n° 93-1352 du 30 décembre 1993, l'organisme mutualisateur agréé des industries céramiques peut affecter chaque année au     CFA des industries céramiques tout ou partie des fonds recueillis au titre du 0,1 p. 100 que les entreprises employant moins de 10 salariés doivent consacrer aux formations en alternance et tout ou partie des 35 p. 100 des fonds versés par les entreprises de 10 salariés et plus au titre du 0,4 p. 100 prélevé sur la formation continue. <p></p><p></p>La CNPE des industries céramiques établit les priorités en matière de développement de l'apprentissage et, en particulier, les évolutions souhaitables des effectifs d'apprentis dans le     CFA des industries céramiques. <p></p><p></p>Elle présente chaque année, avant le 30 juin, un argumentaire au conseil d'administration de l'O.P.C.A. Forcemat afin de fixer les montants à affecter au     CFA des industries céramiques sur le vu d'un budget prévisionnel établi par ce dernier et qui lui est adressé avant le 31 mai avec toutes justifications nécessaires. <p></p><p></p>Est également transmis à la CNPE, avant sa décision d'affectation des fonds, l'avis formulé par le centre de perfectionnement des industries céramiques sur les montants en cause et leur utilisation projetée. <p></p><p></p>Chaque année, le conseil d'administration de l'O.P.C.A. Forcemat et la CNPE sont informés des réalisations et de l'emploi des fonds affectés l'année précédente. Il lui est, en outre, présenté au même moment un rapport relatif aux conditions de mise en oeuvre du présent article.<p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005710785",
-                "intOrdre": 300643,
-                "title": "Chapitre V : Actions de formation en faveur des salariés ayant les niveaux de qualification les moins élevés",
-                "id": "KALISCTA000005710785",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819313",
-                    "num": "15",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000005819313",
-                    "content": "<p></p>   Les signataires souhaitant favoriser l'adaptation des personnels ayant les niveaux de qualification les moins élevés par des actions d'orientation et de formation qualifiante, il leur apparaît prioritaire :<p></p><p></p>   - de privilégier des méthodes pédagogiques axées sur le développement personnel ;<p></p><p></p>   - de favoriser des formations composées d'apports de connaissances générales de base et, notamment, celles destinées à combattre l'illettrisme, facilitant les capacités d'adaptation au monde du travail, dans ses aspects technologiques, relationnels et socio-économiques.<p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005710786",
-                "intOrdre": 343592,
-                "title": "Chapitre VI : Actions de formation en vue d'assurer l'égalité d'accès des hommes et des femmes à la formation professionnelle",
-                "id": "KALISCTA000005710786",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819314",
-                    "num": "16",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000005819314",
-                    "content": "<p></p>   Les actions de formation sont accessibles à tous les salariés, sans aucune distinction d'âge ou de sexe.<p></p><p></p>   Le comité d'entreprise ou, à défaut, les délégués du personnel, veille à ce que l'accès à la formation des différentes catégories de personnel ait lieu de manière équitable. Le cas des salariés n'ayant pas suivi de formation durant les cinq années précédentes fera l'objet d'un examen spécial.<p></p><p></p>   Une attention particulière doit être portée aux salariés à temps partiel afin qu'ils puissent avoir accès à la formation. A cet effet, des solutions adaptées (type modification ou aménagement provisoire des conditions d'emploi) doivent être recherchées avec les intéressées.<p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005710787",
-                "intOrdre": 386541,
-                "title": "Chapitre VII : Dispositions relatives aux petites et moyennes entreprises et en particulier celles inférieures à dix salariés",
-                "id": "KALISCTA000005710787",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819316",
-                    "num": "17",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000005819316",
-                    "content": "<p></p>   Les obstacles au développement de la formation dans les petites et moyennes entreprises, et notamment celles de moins de dix salariés, tiennent davantage à l'effet de taille qu'à la spécificité de leur activité. On constate ainsi que la dimension réduite des effectifs :<p></p><p></p>   - limite les structures et les moyens propres à la formation ;<p></p><p></p>   - rend difficile le départ en stage sans remplacement sur le poste de<p></p><p></p>   travail ;<p></p><p></p>   - restreint les possibilités de promotions internes et renforce la crainte de voir un salarié partir une fois formé.<p></p><p></p>   Plus généralement, ces entreprises ont beaucoup de mal à bien identifier et définir leurs problèmes en matière de formation et à les anticiper dans une vision prospective de leur développement.<p></p><p></p>   La branche professionnelle est composée en majeure partie d'entreprises de petite taille (49 p. 100 des entreprises adhérentes en 1993 occupaient moins de cinquante salariés).<p></p><p></p>   Les signataires considèrent comme essentiel d'encourager et de promouvoir le développement de la formation dans ces entreprises, en les incitant notamment à entrer dans une démarche d'investissement formation. Ceci implique :<p></p><p></p>   - de les accompagner dans leurs projets, par la mise en oeuvre d'actions plus spécifiquement axées sur l'aide et le conseil ;<p></p><p></p>   - de porter à leur connaissance les dispositifs d'aides publiques à la formation ;<p></p><p></p>   - de les amener à élaborer des plans de formation qui traduisent la politique affirmée, construite et stratégique de l'entreprise, en matière de production de compétences.<p></p><p></p>   Il appartient à l'O.P.C.A. Forcemat de faciliter et favoriser la mise en place d'une telle démarche. Il lui incombe également d'impulser des regroupements de moyens entre plusieurs entreprises y compris au plan régional et, à chaque fois que cela est possible, de conseiller à l'entreprise de s'appuyer sur des moyens pédagogiques issus de l'ingénierie de la formation spécifiques à nos métiers.<p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819317",
-                    "num": "18",
-                    "intOrdre": 85898,
-                    "id": "KALIARTI000005819317",
-                    "content": "<p></p>   Pour ce qui concerne plus particulièrement les entreprises employant moins de dix salariés, les parties signataires décident de mettre à la disposition de ces entreprises les moyens d'assurer le perfectionnement de développer la formation et la qualification professionnelle de leurs personnels. Dans ce but, l'O.P.C.A. Forcemat se mettra à disposition des entreprises pour :<p></p><p></p>   - identifier leurs besoins de formation, compte tenu de leurs projets et de leurs objectifs ;<p></p><p></p>   - élaborer et leur proposer un plan de formation ;<p></p><p></p>   - mettre en place des actions de formation adaptées et compatibles avec leur taille et leur activité économique.<p></p><p></p>   Conformément à l'accord du 15 décembre 1994 et en contrepartie, les entreprises de la branche professionnelle de la céramique employant moins de dix salariés verseront à l'O.P.C.A. Forcemat leur contribution au développement de la formation professionnelle continue.<p></p><p></p>   Cette contribution est égale à 0,25 p. 100 du montant des salaires payés pendant l'année en cours.<p></p><p></p>   La mutualisation et la gestion des sommes collectées sera effectuée par l'O.P.C.A. Forcemat qui a défini les règles relatives :<p></p><p></p>   - à la définition des priorités, des critères et des conditions de prise en charge des demandes présentées par les entreprises ;<p></p><p></p>   - aux modalités de prise en charge des frais de formation, de transport et d'hébergement, ainsi que des rémunérations et charges sociales y afférent ;<p></p><p></p>   - à l'information des entreprises et des salariés.<p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005710788",
-                "intOrdre": 429490,
-                "title": "Chapitre VIII : Conséquences de la construction européenne sur les besoins et actions de formation",
-                "id": "KALISCTA000005710788",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819318",
-                    "num": "19",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000005819318",
-                    "content": "<p></p>   Les organismes signataires souhaitent, dans le cadre de l'article L. 933-2, paragraphe 10, du code du travail, concourir à la préparation des entreprises de la branche et des jeunes en formation au grand marché européen :<p></p><p></p>   - en promouvant les échanges de jeunes en formation, notamment grâce à la fédération européenne de la céramique, cérame-unie, et aux fédérations européennes de la branche qui y sont rattachées (C.E.T., F.E.C.S., F.E.P.F., Groupisol, P.R.E., T.B.E.) ;<p></p><p></p>   - en s'impliquant dans les programmes de développement de la formation professionnelle initiale et continue.<p></p><p></p>   Cette préparation nécessite l'introduction progressive dans les programmes de formation technique d'une formation aux langues, dans la mesure où cette formation est indispensable au bon accomplissement de la fonction dans l'entreprise.<p></p><p></p>   Par ailleurs, les programmes de formation devront intégrer la connaissance des normes européennes.<p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005710789",
-                "intOrdre": 472439,
-                "title": "Chapitre IX : Dispositions diverses",
-                "id": "KALISCTA000005710789",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819319",
-                    "num": "20",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000005819319",
-                    "content": "<p></p>   Le présent accord est conclu pour une durée de trois ans à compter de sa date de signature.<p></p><p></p>   Il annule et remplace l'accord du 11 février 1985, sauf en ce qui concerne l'annexe relative à la section paritaire du centre de perfectionnement des industries céramiques.<p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819320",
-                    "num": "21",
-                    "intOrdre": 85898,
-                    "id": "KALIARTI000005819320",
-                    "content": "<p></p>   Le champ d'application professionnel et territorial du présent accord est identique à celui de la convention collective nationale des industries céramiques de France du 6 juillet 1989 et de celle des industries françaises de la porcelaine du 1er juillet 1997.<p></p><p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819321",
-                    "num": "22",
-                    "intOrdre": 128847,
-                    "id": "KALIARTI000005819321",
-                    "content": "<p></p>   Le suivi de l'application du présent accord sera examiné par les parties signataires dans les six premiers mois de la deuxième année d'application.<p></p><p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819322",
-                    "num": "23",
-                    "intOrdre": 171796,
-                    "id": "KALIARTI000005819322",
-                    "content": "<p></p>   Le présent accord est établi en un nombre suffisant d'exemplaires pour être remis à chacune des parties contractantes et pour le dépôt à la direction départementale du travail et de l'emploi de Paris, dans les conditions prévues à l'article L. 132-10 du code du travail.<p></p><p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819323",
-                    "num": "24",
-                    "intOrdre": 214745,
-                    "id": "KALIARTI000005819323",
-                    "content": "<p></p>   Toute organisation syndicale représentative des salariés ou des employeurs non signataire du présent accord pourra y adhérer par simple déclaration auprès de l'organisme compétent. Elle devra également aviser, par lettre recommandée, toutes les organisations signataires.<p></p><p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALITEXT000005667430",
-            "title": "Accord du 5 novembre 1996",
-            "id": "KALITEXT000005667430",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "1996-11-05"
-          },
-          "children": [
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005710791",
-                "intOrdre": 42949,
-                "title": "Chapitre IX : Dispositions diverses",
-                "id": "KALISCTA000005710791",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005819324",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000005819324",
-                    "content": "<p></p>Cette annexe présente des commentaires sur certains articles de l'accord. <p></p>Chapitre Ier<p></p> Nature des actions de formation et ordre de prioritéArticle<p></p> 2<p></p><p></p> Il faut déterminer ici quelles actions prioritaires devront être engagées dans les années à venir dans la profession, compte tenu des besoins des entreprises et des salariés de la céramique, des évolutions technologiques, environnementales, etc.<p></p><p></p>L'U.N.I.C.E.M. dans son accord fait référence au contrat d'études prévisionnelles (aujourd'hui \" Contrat d'études prospectives \", prévu par la circulaire D.F.P. n° 93-5 du 10 février 1993) qu'elle a conclu avec l'Etat en 1992 : par ce biais, cette branche a bénéficié d'une aide au conseil qui lui a permis de faire émerger les enjeux et les priorités économiques, technologiques et socio-organisationnelles de la formation dans les carrières et matériaux. Ce sont ces enjeux qui sont repris dans cet article. <p></p>Article 4<p></p><p></p> Les engagements de développement de la formation (art.L. 951-5 du code du travail) peuvent être signés par une branche professionnelle, et les entreprises (de dix salariés et plus) qui y adhèrent sont exonérées de tout ou partie de leur participation au financement de la formation professionnelle continue. <p></p><p></p>Cela consiste pour les entreprises de la branche à s'engager sur une ou plusieurs années à atteindre certains objectifs en matière de formation professionnelle, moyennant quoi l'Etat peut apporter sa contribution financière à l'exécution des actions de formation.<p></p><p></p>C'est très intéressant notamment pour des branches qui fournissent un effort de formation faible comme nous car tout l'objectif de la négociation contractuelle peut être d'inciter la profession et les entreprises :<p></p><p></p>-d'une part, à quantifier leurs objectifs en matière de salariés formés, en particulier des bas niveaux de qualification, de P.M.E. bénéficiaires, voire d'accroissement minimum de l'effort financier ;<p></p><p></p>-d'autre part, à entrer dans une démarche d'investissement formation sur plusieurs années. <p></p>Chapitre II<p></p> Reconnaissance des qualifications acquises<p></p> du fait d'actions de formation<p></p> Article 6<p></p><p></p> Pour des actions de formation d'une durée supérieure à 300 heures permettant d'acquérir une qualification professionnelle définie par la CNPE, l'article 70-7 autorise les entreprises à faire effectuer avec l'accord du salarié une partie de la formation (25 p. 100 au maximum) en dehors du temps de travail sans rémunération. En contrepartie, en cas de succès aux épreuves de fin de formation, l'entreprise doit s'employer dans un délai de un an à faire accéder le salarié en priorité aux fonctions disponibles correspondant aux connaissances ainsi acquises. En tout état de cause, elle doit prendre en compte, dès l'issue de la formation, les efforts que l'intéressé a accomplis par des principes, majorations de salaires, progression intermédiaire de fonction, etc. <p></p>Chapitre III<p></p> Moyens reconnus aux instances de représentation des salariés<p></p> pour l'accomplissement de leur mission dans le domaine de la formation<p></p><p></p> Reprise de l'accord de 1985, actualisé pour tenir compte des évolutions législatives. <p></p>Chapitre IV<p></p> Dispositions relatives à l'accueil et l'insertion des jeunes<p></p> dans le cadre de l'apprentissage et des formations en alternance<p></p> Article 12<p></p><p></p> Les chiffres de l'apprentissage dans la profession semblent le confirmer (après un creux en 1991-1992, le nombre d'apprentis dans les industries céramiques est en passe d'atteindre, en 1994, le niveau de 1986). <p></p><p></p>Les contrats d'objectifs sont des contrats pluriannuels, d'une durée de trois à cinq ans, conclus entre la région (préfet de région, président du conseil régional) et la branche, qui fixent les orientations et les objectifs de développement de l'apprentissage et de l'enseignement professionnel en alternance sous statut scolaire, coordonnées avec les autres voies de formation professionnelle alternée. <p></p><p></p>Ils ont pour finalité de permettre à l'Etat, aux conseils régionaux et aux organisations professionnelles de mieux conjuguer leurs efforts en matière de développement de l'apprentissage et de l'enseignement professionnel et technique en alternance. <p></p><p></p>Les contrats d'objectifs tiennent compte des orientations définies dans le cadre de la négociation de branche et des conventions et accords conclus entre l'Etat et les branches professionnelles : sont notamment visés les accords-cadres relatifs à l'apprentissage signés par le ministre du travail et les branches professionnelles. En l'absence de tels accords, la CNPE est informée sur le contenu des contrats d'objectifs. <p></p><p></p>Ils peuvent donner des orientations sur les objectifs qualitatifs et quantitatifs, la localisation des formations, l'information des jeunes et des familles sur les professions, les durées prévisionnelles des formations en     CFA, les diplômes et titres pouvant être préparés, les mesures d'accompagnement matérielles des contrats d'apprentissage (formation des formateurs, par exemple), etc. <p></p><p></p>La CNPE, en l'absence de négociations de branches, est régulièrement informée de la mise en oeuvre et du résultat des actions prévues par le contrat d'objectif. <p></p><p></p>Il est très important que les entreprises ne se contentent pas de déclarations de principes mais donnent à leur branche les moyens financiers de développer l'apprentissage. Il faut peut-être introduire ici l'obligation de faire bénéficier l'I.C.F. de 75 p. 100 de la taxe, l'objectif étant de ramener des fonds à l'O.P.C.A. <p></p>Chapitre V<p></p> Actions de formation en faveur des salariés<p></p> ayant les niveaux de qualification les moins élevésChapitre<p></p> VI<p></p> Actions de formation en vue d'assurer l'égalité d'accès<p></p> des hommes et des femmes à la formation professionnelle<p></p> Article 16<p></p><p></p> Reprise de l'esprit du projet d'accord sur les nouvelles classifications, concernant les plus faibles classifications : examen au moins tous les cinq ans. <p></p>Chapitre VII<p></p> Dispositions relatives aux petites et moyennes entreprises<p></p> et en particulier celles inférieures à dix salariés<p></p> Article 17<p></p><p></p> Article particulièrement important dans notre profession, composée dans une grosse majorité de P.M.E. <p></p>Chapitre VIII<p></p> Conséquences de la construction européenne<p></p> sur les besoins et actions de formation<p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "surtitre": "Annexe",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
             "cid": "KALITEXT000005660738",
             "title": "Accord du 8 avril 1997 relatif au financement du CFA (Centre de formation en alternance) par le 0,4 % consacré à l'alternance",
             "id": "KALITEXT000005660738",
@@ -5540,141 +4834,6 @@
                   {
                     "textCid": "",
                     "textTitle": "Accord 1997-04-08 BO Conventions collectives 97-19",
-                    "linkType": "CREATION",
-                    "linkOrientation": "source",
-                    "articleNum": "",
-                    "articleId": "",
-                    "natureText": "",
-                    "datePubliTexte": null,
-                    "dateSignaTexte": null,
-                    "dateDebutCible": null
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALITEXT000005660710",
-            "title": "Accord du 31 mars 1998 relatif au financement du CFA des industries céramiques par le 0,4 % consacré à l'alternance",
-            "id": "KALITEXT000005660710",
-            "etat": "VIGUEUR_NON_ETEN",
-            "modifDate": "1998-03-31"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000030764875",
-                "intOrdre": 21474,
-                "id": "KALIARTI000030764875",
-                "content": "<p>Conformément à l'accord du 17 juin 1994, </p><p>il a été convenu ce qui suit :</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000005804801",
-                "num": "1",
-                "intOrdre": 42949,
-                "id": "KALIARTI000005804801",
-                "content": "<p></p>   Sur les fonds de la formation en alternance recueillis en 1997 au titre du 0,1 % auprès des entreprises de moins de 10 salariés et au titre des 0,4 % auprès des entreprises de plus de 10 salariés, la CNPE des industries céramiques décide de transmettre un avis favorable pour le transfert d'un montant de 1 910 000 F affecté, dès la date de signature du présent accord, au CFA des industries céramiques en vue de :<p></p><p></p>   - contribuer au fonctionnement du CFA des industries céramiques ;<p></p><p></p>   - développer des actions en vue d'augmenter le nombre des apprentis et la qualité de la formation, notamment en créant des antennes auprès des lycées techniques de Vierzon et Limoges.<p></p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "",
-                    "textTitle": "Accord 1998-03-31 BO conventions collectives 98-18",
-                    "linkType": "CREATION",
-                    "linkOrientation": "source",
-                    "articleNum": "",
-                    "articleId": "",
-                    "natureText": "",
-                    "datePubliTexte": null,
-                    "dateSignaTexte": null,
-                    "dateDebutCible": null
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000005804802",
-                "num": "2",
-                "intOrdre": 85898,
-                "id": "KALIARTI000005804802",
-                "content": "<p></p>   Chaque année, lors de sa première réunion, le CPIC fera un bilan des actions réalisées et retiendra les actions nouvelles qu'il décide de financer.<p></p><p></p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "",
-                    "textTitle": "Accord 1998-03-31 BO conventions collectives 98-18",
-                    "linkType": "CREATION",
-                    "linkOrientation": "source",
-                    "articleNum": "",
-                    "articleId": "",
-                    "natureText": "",
-                    "datePubliTexte": null,
-                    "dateSignaTexte": null,
-                    "dateDebutCible": null
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALITEXT000005660712",
-            "title": "Accord du 30 mars 1999 relatif au financement du CFA par les fonds de formation consacrés à l'alternance",
-            "id": "KALITEXT000005660712",
-            "etat": "VIGUEUR_NON_ETEN",
-            "modifDate": "1999-03-30"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000005804803",
-                "num": "1",
-                "intOrdre": 42949,
-                "id": "KALIARTI000005804803",
-                "content": "<p></p>   Sur les fonds de la formation en alternance recueillis en 1998 au titre du 0,1 % auprès des entreprises de moins de 10 salariés et au titre des 0,4 % auprès des entreprises de plus de 10 salariés, la CNPE des industries céramiques décide de donner un avis favorable pour le transfert d'un montant de 3 900 000 F affecté, dès la date de signature du présent accord, au CFA des industries céramiques en vue de :<p></p><p></p>   - contribuer au fonctionnement du CFA des industries céramiques ;<p></p><p></p>   - développer des actions de promotion afin d'augmenter le nombre des apprentis et la qualité de la formation.<p></p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "",
-                    "textTitle": "Accord 1999-03-30 BO conventions collectives 99-17",
-                    "linkType": "CREATION",
-                    "linkOrientation": "source",
-                    "articleNum": "",
-                    "articleId": "",
-                    "natureText": "",
-                    "datePubliTexte": null,
-                    "dateSignaTexte": null,
-                    "dateDebutCible": null
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000005804804",
-                "num": "2",
-                "intOrdre": 85898,
-                "id": "KALIARTI000005804804",
-                "content": "<p></p>   Chaque année, lors de sa première réunion, le CIPC fera un bilan des actions réalisées et retiendra les actions nouvelles qu'il décide de financer.<p></p><p></p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "",
-                    "textTitle": "Accord 1999-03-30 BO conventions collectives 99-17",
                     "linkType": "CREATION",
                     "linkOrientation": "source",
                     "articleNum": "",
@@ -8447,6 +7606,847 @@
         {
           "type": "section",
           "data": {
+            "cid": "KALITEXT000005667426",
+            "title": "Accord du 5 novembre 1996 relatif à la formation professionnelle dans les industries céramiques",
+            "id": "KALITEXT000005667426",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "1996-11-05"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000005710779",
+                "intOrdre": 42949,
+                "title": "Préambule",
+                "id": "KALISCTA000005710779",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819297",
+                    "intOrdre": 42949,
+                    "id": "KALIARTI000005819297",
+                    "content": "<p></p>   La confédération des industries céramiques de France, d'une part, et les fédérations de salariés affiliées à la C.F.D.T., C.F.T.C., C.G.T., C.G.T. - F.O. et S.C.A.M.I.C. - C.G.C. avaient conclu le 11 février 1985 un accord sur les objectifs et moyens de la formation professionnelle dans les industries céramiques.<p></p><p></p>   Depuis lors l'accord national interprofessionnel du 3 juillet 1991 et les lois du 31 décembre 1991 modifiée, du 31 décembre 1992 et du 27 février 1993 ont créé les conditions de la conclusion d'un nouvel accord.<p></p><p></p>   Les parties signataires rappellent l'extrême importance qu'elles attachent à la valorisation et au renforcement, par la formation, des qualifications et compétences du personnel, atouts pour l'entreprise, pour le développement de l'emploi et pour l'évolution de carrière des salariés.<p></p><p></p>   Elles considèrent que les efforts en matière de formation initiale, comme de formation continue, doivent être accentués. La C.I.C.F. s'y est d'ailleurs déjà préparée par la rénovation des filières de formation et par la volonté qu'elle manifeste de réactiver l'apprentissage et la formation continue. En matière de formation des jeunes, les parties signataires se référeront à l'accord interprofessionnel du 23 juin 1995 relatif à l'insertion professionnel des jeunes.<p></p><p></p>   Par ailleurs, les parties signataires souhaitent que les moyens mis à la disposition des entreprises en faveur de l'emploi soient effectivement utilisés pour atteindre cet objectif.<p></p><p></p>   Les signataires ont la volonté de poursuivre ces actions au sein de la commission nationale paritaire de l'emploi des industries céramiques (qui comprend également les industries de la porcelaine) et d'encourager la mise en place dans les entreprises de politiques et de pratiques prévisionnelles dans le domaine de la gestion des ressources humaines de façon à anticiper les évolutions nécessaires en matière de recrutement et de formation. Ainsi pourront être utilisées pleinement les connaissances, qualifications et aptitudes des salariés, dans le souci de faire correspondre au mieux leurs aspirations professionnelles et les besoins présents et futurs des entreprises.<p></p><p></p>   Le présent accord constitue la réaffirmation que la formation des salariés doit être l'une des priorités de la profession et des entreprises, en tant qu'outil d'enrichissement personnel et d'évolution de carrière, de facteur essentiel de développement des entreprises et de création d'emplois.<p></p><p></p>   En conséquence, il a été convenu ce qui suit, pour l'application de l'article L. 933-2 du code du travail.<p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000005819298",
+                "num": "1",
+                "intOrdre": 85898,
+                "id": "KALIARTI000005819298",
+                "content": "<p></p>   Le présent accord s'applique aux entreprises relevant du champ d'application de la convention collective nationale des industries de la céramique et de la convention collective nationale des industries de la porcelaine.<p></p><p></p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "",
+                    "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                    "linkType": "CREATION",
+                    "linkOrientation": "source",
+                    "articleNum": "",
+                    "articleId": "",
+                    "natureText": "",
+                    "datePubliTexte": null,
+                    "dateSignaTexte": null,
+                    "dateDebutCible": null
+                  }
+                ]
+              }
+            },
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000005710780",
+                "intOrdre": 128847,
+                "title": "Chapitre Ier : Nature des actions de formation et ordre de priorité",
+                "id": "KALISCTA000005710780",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819299",
+                    "num": "2",
+                    "intOrdre": 42949,
+                    "id": "KALIARTI000005819299",
+                    "content": "<p></p>   En ce qui concerne les formations initiales, continues et alternées, le présent article a pour objet de déterminer quelles actions devront être prioritairement conduites au niveau de la profession, comme dans les entreprises.<p></p><p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819300",
+                    "num": "3",
+                    "intOrdre": 85898,
+                    "id": "KALIARTI000005819300",
+                    "content": "<p></p>   S'agissant du plan de formation dans les entreprises et des formations qualifiantes initiales ou continues, la mise en oeuvre des principes ci-dessus énoncés conduira celles-ci à prévoir les types d'actions suivantes :<p></p><p></p>   - actions répondant au besoin d'adaptation et de modernisation des entreprises : qualité des produits, respect de l'environnement, circulation de l'information, adaptation aux nouvelles technologies et à l'évolution des marchés, perfectionnement des connaissances concernant l'emploi occupé, apport de connaissances nouvelles débordant cet emploi ;<p></p><p></p>   - actions de prévention, ayant pour objet de réduire les risques d'inadaptation de qualification à l'évolution des techniques et des structures des entreprises, en préparant les salariés dont l'emploi est menacé, à une mutation d'activité soit dans le cadre, soit en dehors de leur entreprise ;<p></p><p></p>   - actions d'adaptation et de perfectionnement à l'emploi occupé, prenant en compte la promotion de la sécurité, la qualité des produits et des prestations fournis, les relations au sein de l'entreprise et hors d'elle ;<p></p><p></p>   - actions de promotion en vue de faciliter l'orientation et l'amélioration des connaissances des salariés les moins qualifiés.<p></p><p></p>   L'ordre de priorité entre ces différents types d'actions figurant au plan de formation soumis au comité d'entreprise dépendra de la situation propre à chaque entreprise.<p></p><p></p>   Ces actions prioritaires feront l'objet d'un examen selon les circonstances, et au moins une fois par an, par la commission nationale paritaire de l'emploi des industries céramiques, qui pourra formuler à cette occasion toute proposition de nature à les compléter ou les actualiser.<p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819301",
+                    "num": "4",
+                    "intOrdre": 128847,
+                    "id": "KALIARTI000005819301",
+                    "content": "<p></p>   Dans le prolongement de l'accord national interprofessionnel du 3 juillet 1991, les organisations signataires incitent les entreprises à élaborer des programmes de formation pluriannuels, qui prennent en compte les objectifs et priorités du présent accord, les perspectives économiques et l'évolution des investissements, les technologies, les modes d'organisation du travail et l'aménagement du temps de travail dans l'entreprise.<p></p><p></p>   Afin de faciliter la mise en place de tels programmes dans les entreprises et favoriser ainsi le développement d'une gestion prévisionnelle des emplois et des qualifications, les organisations signataires étudieront la mise en oeuvre d'engagements de développement de la formation (E.D.D.F.).<p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000005710781",
+                "intOrdre": 171796,
+                "title": "Chapitre II : Reconnaissance des qualifications acquises du fait d'actions de formation",
+                "id": "KALISCTA000005710781",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819302",
+                    "num": "5",
+                    "intOrdre": 42949,
+                    "id": "KALIARTI000005819302",
+                    "content": "<p></p>   Les signataires s'engagent à continuer de développer des formations aboutissant à des diplômes de l'éducation nationale spécifiques à la profession et s'emploieront avec le ministère de l'éducation nationale à réactiver la commission professionnelle consultative céramique et verre. Ils veilleront à ce que le contenu des formations existantes évolue parallèlement à l'organisation du travail et à l'introduction de nouvelles technologies.<p></p><p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819303",
+                    "num": "6",
+                    "intOrdre": 85898,
+                    "id": "KALIARTI000005819303",
+                    "content": "<p></p>   Considérant la possibilité offerte à la commission nationale paritaire de l'emploi des industries céramiques d'établir une liste des qualifications professionnelles pouvant être acquises par la voie du contrat de qualification ou dans le cadre du plan de formation de l'entreprise, en application de l'article 70-7 de l'accord national interprofessionnel du 3 juillet 1991, les organisations soussignées sont convenues d'instituer des certificats de qualification professionnelle.<p></p><p></p>   Les compétences professionnelles acquises par ces moyens peuvent être reconnues et sanctionnées par des certificats de qualification professionnelle.<p></p><p></p>   Les organisations représentées à la commission nationale paritaire de l'emploi des industries céramiques sont seules habilitées à proposer la création de certificats de qualification professionnelle. Toute proposition doit comporter un cahier des charges pédagogiques, auquel est joint l'avis technique du centre de perfectionnement des industries céramiques.<p></p><p></p>   La décision de créer un certificat de qualification professionnelle est prise par la commission nationale paritaire de l'emploi des industries céramiques.<p></p><p></p>   La commission nationale paritaire de l'emploi des industries céramiques définit et communique au centre de perfectionnement des industries céramiques les conditions d'inscription du salarié et d'organisation des examens nécessaires à l'obtention des certificats de qualification professionnelle.<p></p><p></p>   Le système des certificats de qualification professionnelle institué par le présent accord doit pouvoir être adapté de manière souple et rapide à l'évolution des besoins en formation et en qualification de la profession, tout en conservant une stabilité suffisante dans le temps pour permettre aux entreprises et aux salariés concernés de programmer leurs décisions.<p></p><p></p>   Les modalités de renouvellement, de modification et de suppression des certificats de qualification professionnelle sont définies par la commission nationale paritaire de l'emploi des industries céramiques.<p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819304",
+                    "num": "7",
+                    "intOrdre": 128847,
+                    "id": "KALIARTI000005819304",
+                    "content": "<p></p>   En application de l'accord de 1995, il est rappelé qu'un dispositif de validation des acquis a été mis en place.<p></p><p></p>   Les stages de formation donnent lieu à la délivrance soit par l'entreprise, soit par un organisme, d'une attestation d'assiduité précisant l'objet et la durée du stage suivi.<p></p><p></p>   Ils peuvent entraîner une modification de la classification de l'intéressé dans les conditions suivantes : lorsque les stages agréés par la commission nationale paritaire de l'emploi des industries céramiques donnent lieu à un contrôle des connaissances, les salariés ayant subi ce contrôle avec succès bénéficieront d'une priorité pour l'accès aux emplois correspondant à la qualification obtenue qui viendraient à se libérer ou à être créés. Ces salariés seront soumis, à leur nouveau poste, à la période probatoire prévue soit par la convention collective des industries céramiques de France, soit par la convention collective nationale des industries de la porcelaine.<p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000005710782",
+                "intOrdre": 214745,
+                "title": "Chapitre III : Moyens reconnus aux instances de représentation des salariés pour l'accomplissement de leur mission dans le domaine de la formation",
+                "id": "KALISCTA000005710782",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819305",
+                    "num": "8",
+                    "intOrdre": 42949,
+                    "id": "KALIARTI000005819305",
+                    "content": "<p></p>   Le comité d'entreprise ou d'établissement ou, à défaut, les délégués du personnel s'il en existe, doivent délibérer tous les ans sur le plan de formation du personnel de l'entreprise de l'année précédente et sur le projet de plan pour l'année à venir. Conformément à l'article L. 434-7 du code du travail, dans les entreprises ou les établissements de 200 salariés et plus, le comité d'entreprise doit constituer une commission de formation chargée notamment de préparer la délibération du comité d'entreprise sur le plan de formation. Cette commission présidée par un membre du comité d'entreprise a, en liaison avec les services de l'entreprise, en particulier l'encadrement, un rôle essentiel pour assurer l'information des salariés de l'entreprise sur la formation.<p></p><p></p>   La consultation du comité d'entreprise se fait au cours de deux réunions spécifiques.<p></p><p></p>   Au cours de la première réunion, la direction présente le bilan des actions réalisées et en cours de réalisation et soumet à la discussion ses orientations générales en matière de formation et ses projets pour l'année à venir en précisant les objectifs poursuivis, compte tenu des perspectives et spécificités de l'entreprise ainsi que du bilan des actions réalisées.<p></p><p></p>   Au cours de la deuxième réunion, la délibération porte sur le calendrier de mise en oeuvre des projets de l'entreprise. Ces projets devront tenir compte des orientations de la formation professionnelle dans l'entreprise dont le comité d'entreprise aura eu à délibérer, ainsi que, le cas échéant, du résultat des négociations de branche sur les objectifs et moyens de la formation professionnelle. Ils seront communiqués aux délégués syndicaux.<p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819306",
+                    "num": "9",
+                    "intOrdre": 85898,
+                    "id": "KALIARTI000005819306",
+                    "content": "<p></p>   Afin de permettre aux membres du comité d'entreprise, ou à défaut aux délégués du personnel et, le cas échéant, à la commission de formation de participer à l'élaboration de ce plan et de préparer les délibérations dont il fait l'objet, le chef d'entreprise leur communique, ainsi qu'aux délégués syndicaux, au plus tard trois semaines avant chacune des réunions prévues ci-dessus, les documents suivants :<p></p><p></p>   S'agissant du bilan de la formation réalisée :<p></p><p></p>   - une copie de la déclaration relative à la participation au développement de la formation professionnelle continue ;<p></p><p></p>   - les informations sur la formation figurant au bilan social ;<p></p><p></p>   - le bilan des actions comprises dans le plan de formation pour l'année antérieure et pour l'année en cours incluant, le cas échéant, le bilan des actions de conseil, des actions d'évaluation ou de bilan de compétences et des actions d'évaluation des formations ;<p></p><p></p>   - une note présentant les informations relatives aux congés individuels de formation et aux congés de bilan de compétences qui ont été accordés aux salariés de l'entreprise aux conditions dans lesquelles ces congés ont été accordés ou reportés, ainsi qu'aux résultats obtenus ;<p></p><p></p>   - le bilan, pour l'année antérieure et l'année en cours, en matière d'accueil, d'insertion et de formation professionnelle des jeunes dans l'entreprise ;<p></p><p></p>   - les observations éventuelles des services de contrôle visés à l'article L. 991-1 du code du travail sur le caractère libératoire des dépenses imputées sur la participation de l'entreprise.<p></p><p></p>   S'agissant du plan de formation :<p></p><p></p>   - une note présentant les orientations générales de l'entreprise en matière de formation ;<p></p><p></p>   - le plan de formation de l'entreprise pour l'année suivante tenant compte des évolutions auxquelles les entreprises sont confrontées dans tous les domaines, notamment dans le domaine technologique et comportant la liste des actions de formation proposées par l'employeur complétée par les informations relatives aux organismes formateurs, aux conditions d'organisation de ces actions, aux effectifs concernés répartis par catégories professionnelles, aux conditions financières de leur exécution, aux éléments constitutifs du coût des actions de formation compte tenu de leurs caractéristiques ;<p></p><p></p>   - une note sur les demandes de congés individuels de formation enregistrées pour l'année suivante, notamment leur nombre, la nature des formations, leur durée, leur coût et les organismes formateurs.<p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819307",
+                    "num": "10",
+                    "intOrdre": 128847,
+                    "id": "KALIARTI000005819307",
+                    "content": "<p></p>   Dans les entreprises de 200 salariés et plus, en application de la législation actuellement en vigueur, le temps passé par les membres titulaires et suppléants du comité d'entreprise aux séances de la commission de formation est payé comme temps de travail sans imputation sur le crédit d'heures de délégation attribué aux membres titulaires du comité. Pour les autres membres de la commission de formation, et dans la limite d'un nombre de personnes ne dépassant pas 1 p. 100 de l'effectif, le temps passé au titre de la commission est payé comme temps de travail à concurrence de 20 heures par an et par personne.<p></p><p></p>   Dans les entreprises de 50 à 199 salariés, s'il est constitué une commission de formation, les mêmes dispositions que ci-dessus s'appliquent. Toutefois, le nombre de salariés de la commission, membres du comité ou non, ne devra pas dépasser 3 p. 100 de l'effectif, avec un minimum de 2 personnes.<p></p><p></p>   Dans les entreprises de moins de 50 salariés, la loi fixe les prérogatives des délégués du personnel en matière de formation professionnelle et donc les dispositions ci-dessus relatives à la commission de formation ne s'appliquent pas.<p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819308",
+                    "num": "11",
+                    "intOrdre": 171796,
+                    "id": "KALIARTI000005819308",
+                    "content": "<p></p>   Les parties signataires rappellent l'importance qu'elles attachent aux missions de la commission nationale paritaire de l'emploi des industries céramiques.<p></p><p></p>   Cette dernière sera régulièrement informée des évolutions technologiques ayant des incidences sur les besoins des entreprises, ainsi que les moyens mis en oeuvre pour développer les formations correspondantes.<p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000005710784",
+                "intOrdre": 257694,
+                "title": "Chapitre IV : Dispositions relatives à l'accueil et à l'insertion des jeunes dans le cadre de l'apprentissage et des formations en alternance",
+                "id": "KALISCTA000005710784",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819309",
+                    "num": "12",
+                    "intOrdre": 85898,
+                    "id": "KALIARTI000005819310",
+                    "content": "<p>   L'insertion professionnelle des jeunes par la voie de la formation par l'apprentissage est reconnue comme une action prioritaire.</p><p>   Les orientations relatives à l'apprentissage sont définies au niveau professionnel. Dans le cadre d'une politique de concertation et de coopération avec l'Etat, les régions et les instances européennes et afin d'encourager le plus efficacement possible la formation des jeunes en vue de leur insertion dans l'emploi, les organisations signataires entendent favoriser la conclusion de contrats d'objectifs pluriannuels de développement de l'apprentissage et de l'enseignement professionnel ou technologique par alternance.</p><p>   Conformément aux dispositions de l'article L. 115-2 du code du travail, la durée des contrats d'apprentissage est fixée par décret en fonction du type de profession et du niveau de qualification préparés et peut varier entre un et trois ans.</p><p>   Dans le cadre des articles L. 933-2 paragraphe 4 bis du code du travail et 10-3 de l'accord national interprofessionnel du 3 juillet 1991 et, compte tenu de la durée des contrats d'apprentissage, les parties signataires décident que les principes suivants seront mis en oeuvre :</p><p>   - adapter à la spécificité de chaque titre ou diplôme préparé, la répartition des durées de formation pratique, technique, théorique et générale ;</p><p>   - fixer une durée annuelle minimale de 400 heures en C.F.A., le maximum devant être au plus égal à 50 p. 100 du temps passé en entreprise ;</p><p>   - assurer à l'apprenti un niveau de formation générale lui permettant d'évoluer au cours de sa vie professionnelle et, le cas échéant, de poursuivre des études sous statut scolaire ou universitaire : B.E.P., bac pro, B.T.S., D.U.T., D.E.U.S.T., diplôme d'ingénieur, etc. ;</p><p>   - élaborer des parcours individualisés de formation sur la base de bilans de compétences, conformément aux dispositions de la loi du 17 juillet 1992 et de l'accord national interprofessionnel du 3 juillet 1991 ;</p><p>   - organiser des actions de soutien aux apprentis en difficulté ;</p><p>   - développer des programmes en vue de soutenir des actions de perfectionnement des enseignants du C.F.A. des industries céramiques à travers des actions de formation spécifique de courte et moyenne durée, dans les diverses spécialités professionnelles enseignées, mais aussi dans l'amélioration de leurs outils pédagogiques afin de les adapter à la pédagogie de l'alternance ;</p><p>   - développer des actions de formation et de perfectionnement des maîtres d'apprentissage, et notamment par l'élaboration d'outils et recommandations pédagogiques adaptés à l'entreprise.</p><p>   Les parties signataires rappellent que le travail confié à l'apprenti doit être en relation directe avec la formation professionnelle prévue au contrat.</p><p>   La rémunération minimale des apprentis est déterminée en pourcentage du S.M.I.C. (1). Ce pourcentage ne saurait être inférieur à 50 p. 100 du S.M.I.C.</p><p>   Le financement de l'apprentissage est assuré essentiellement par la taxe d'apprentissage. Suivant les textes actuellement en vigueur, cette taxe correspond à 0,50 p. 100 de la masse salariale de l'entreprise. A cet égard, les signataires incitent les entreprises de la branche, afin de conforter la demande visée par le présent accord et, en raison des moyens financiers nécessaires, à utiliser le service collecteur de taxe d'apprentissage de la profession et à le faire bénéficier de leur taxe disponible dans le respect des décisions d'affectation prises, le cas échéant, par les chefs d'entreprises.</p><p><font color='808080' size='1'><i>    (1) Phrase exclue de l'extension par arrêté du 7 mai 1997.</i></font></p><p></p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, *étendu avec exclusions par arrêté du 7 mai 1997 JORF 17 mai 1997*",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819311",
+                    "num": "13",
+                    "intOrdre": 128847,
+                    "id": "KALIARTI000005819311",
+                    "content": "<p>   Les parties signataires confirment également leur intérêt pour les formules de contrats d'insertion en alternance : contrat d'orientation, contrat de qualification et contrat d'adaptation. Chacune de ces formules correspond à des conditions particulières d'accès et de réalisation et constitue un moyen d'insertion approprié pour les jeunes comme pour les entreprises.</p><p>   Le comité d'entreprise et les délégués du personnel, dans les entreprises de moins de 50 salariés, sont informés et consultés sur les projets de l'entreprise en matière de formation alternée.</p><p>   L'accord du 6 décembre 1994 a créé l'organisme paritaire collecteur agréé \" Forcemat \" chargé de collecter les fonds de la formation des entreprises de la céramique et des carrières et matériaux. Les entreprises de la branche professionnelle de la céramique doivent verser à l'O.P.C.A. Forcemat (conformément à l'accord du 15 décembre 1994) les fonds correspondant :</p><p>   - pour celles employant moins de 10 salariés, à la contribution du 0,1 p. 100 qu'elles consacrent au financement des contrats d'insertion en alternance ;</p><p>   - pour celles occupant 10 salariés et plus, à la contribution du 0,4 p. 100 prélevée sur la participation au développement de la formation continue.</p><p>   Cet organisme est paritaire et décide des orientations d'affectation des fonds et vérifie l'application de ses orientations. Il est soumis à la certification des comptes par un commissaire aux comptes.</p><p>   Afin de favoriser la qualité des contrats d'insertion, l'entreprise porte une attention toute particulière au choix du tuteur. Conformément à l'article 20-3 de l'accord national interprofessionnel du 3 juillet 1991, le tuteur est choisi par l'employeur, sur la base du volontariat, parmi les salariés qualifiés de l'entreprise en tenant compte de son niveau de qualification, qui devra être au moins égal à celui du jeune, et de l'objectif à atteindre. Dans les petites entreprises, le tuteur peut être l'employeur lui-même. Il a notamment pour mission d'accueillir, d'aider, d'informer, de guider les jeunes pendant leur séjour dans l'entreprise, ainsi que d'être attentif au respect de leur emploi du temps.</p><p>   Le tuteur organise également le parcours du jeune et met en place dans le milieu de travail les principales phases d'un processus d'apprentissage, tenant compte des objectifs de formation et des impératifs de fonctionnement de l'entreprise.</p><p>   L'entreprise prend, s'il y a lieu, les mesures d'organisation et d'aménagement de la charge de travail, nécessaires à l'accomplissement de la mission du tuteur. Pour assurer celle-ci, il bénéficie d'une préparation et, si nécessaire, d'une formation spécifique. A son issue, il rend compte de sa mission.</p><p>   Les signataires confirment l'importance du rôle de l'encadrement dans l'accueil des jeunes. Il s'agit, en effet, de donner non seulement la formation indispensable pour tenir un poste de travail, pour respecter les règles de sécurité, mais aussi de vérifier si les connaissances nécessaires à l'exercice d'un emploi ont été bien acquises, de se préoccuper de l'adaptation de la personne à sa fonction ; enfin, de replacer l'ensemble de ces tâches dans le fonctionnement général de l'entreprise, de montrer l'articulation des divers services qui la composent. En un mot, de faire percevoir, au travers de cette expérience, les enjeux économiques qui sont attachés à toute fonction de l'entreprise et qui conditionnent sa réussite ou ses difficultés.</p><p><font color='808080' size='1'><i> (1) Le cinquième alinéa de l'article 13 est étendu sous réserve des dispositions de l'article 20-3 de l'avenant du 5 juillet 1994 à l'accord national interprofessionnel du 3 juillet 1991, étendu par arrêté du 10 mai 1995.</i></font></p><p><font color='808080' size='1'><i>(Arrêté du 7 mai 1997- </i></font><font color='808080' size='1'><i>art. 1er)</i></font></p><p></p><p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819312",
+                    "num": "14",
+                    "intOrdre": 171796,
+                    "id": "KALIARTI000005819312",
+                    "content": "<p></p>En application de l'article 30 de la loi n° 92-1446 du 31 décembre 1992, de l'article 92 de la loi n° 93-1352 du 30 décembre 1993, l'organisme mutualisateur agréé des industries céramiques peut affecter chaque année au     CFA des industries céramiques tout ou partie des fonds recueillis au titre du 0,1 p. 100 que les entreprises employant moins de 10 salariés doivent consacrer aux formations en alternance et tout ou partie des 35 p. 100 des fonds versés par les entreprises de 10 salariés et plus au titre du 0,4 p. 100 prélevé sur la formation continue. <p></p><p></p>La CNPE des industries céramiques établit les priorités en matière de développement de l'apprentissage et, en particulier, les évolutions souhaitables des effectifs d'apprentis dans le     CFA des industries céramiques. <p></p><p></p>Elle présente chaque année, avant le 30 juin, un argumentaire au conseil d'administration de l'O.P.C.A. Forcemat afin de fixer les montants à affecter au     CFA des industries céramiques sur le vu d'un budget prévisionnel établi par ce dernier et qui lui est adressé avant le 31 mai avec toutes justifications nécessaires. <p></p><p></p>Est également transmis à la CNPE, avant sa décision d'affectation des fonds, l'avis formulé par le centre de perfectionnement des industries céramiques sur les montants en cause et leur utilisation projetée. <p></p><p></p>Chaque année, le conseil d'administration de l'O.P.C.A. Forcemat et la CNPE sont informés des réalisations et de l'emploi des fonds affectés l'année précédente. Il lui est, en outre, présenté au même moment un rapport relatif aux conditions de mise en oeuvre du présent article.<p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000005710785",
+                "intOrdre": 300643,
+                "title": "Chapitre V : Actions de formation en faveur des salariés ayant les niveaux de qualification les moins élevés",
+                "id": "KALISCTA000005710785",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819313",
+                    "num": "15",
+                    "intOrdre": 42949,
+                    "id": "KALIARTI000005819313",
+                    "content": "<p></p>   Les signataires souhaitant favoriser l'adaptation des personnels ayant les niveaux de qualification les moins élevés par des actions d'orientation et de formation qualifiante, il leur apparaît prioritaire :<p></p><p></p>   - de privilégier des méthodes pédagogiques axées sur le développement personnel ;<p></p><p></p>   - de favoriser des formations composées d'apports de connaissances générales de base et, notamment, celles destinées à combattre l'illettrisme, facilitant les capacités d'adaptation au monde du travail, dans ses aspects technologiques, relationnels et socio-économiques.<p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000005710786",
+                "intOrdre": 343592,
+                "title": "Chapitre VI : Actions de formation en vue d'assurer l'égalité d'accès des hommes et des femmes à la formation professionnelle",
+                "id": "KALISCTA000005710786",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819314",
+                    "num": "16",
+                    "intOrdre": 42949,
+                    "id": "KALIARTI000005819314",
+                    "content": "<p></p>   Les actions de formation sont accessibles à tous les salariés, sans aucune distinction d'âge ou de sexe.<p></p><p></p>   Le comité d'entreprise ou, à défaut, les délégués du personnel, veille à ce que l'accès à la formation des différentes catégories de personnel ait lieu de manière équitable. Le cas des salariés n'ayant pas suivi de formation durant les cinq années précédentes fera l'objet d'un examen spécial.<p></p><p></p>   Une attention particulière doit être portée aux salariés à temps partiel afin qu'ils puissent avoir accès à la formation. A cet effet, des solutions adaptées (type modification ou aménagement provisoire des conditions d'emploi) doivent être recherchées avec les intéressées.<p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000005710787",
+                "intOrdre": 386541,
+                "title": "Chapitre VII : Dispositions relatives aux petites et moyennes entreprises et en particulier celles inférieures à dix salariés",
+                "id": "KALISCTA000005710787",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819316",
+                    "num": "17",
+                    "intOrdre": 42949,
+                    "id": "KALIARTI000005819316",
+                    "content": "<p></p>   Les obstacles au développement de la formation dans les petites et moyennes entreprises, et notamment celles de moins de dix salariés, tiennent davantage à l'effet de taille qu'à la spécificité de leur activité. On constate ainsi que la dimension réduite des effectifs :<p></p><p></p>   - limite les structures et les moyens propres à la formation ;<p></p><p></p>   - rend difficile le départ en stage sans remplacement sur le poste de<p></p><p></p>   travail ;<p></p><p></p>   - restreint les possibilités de promotions internes et renforce la crainte de voir un salarié partir une fois formé.<p></p><p></p>   Plus généralement, ces entreprises ont beaucoup de mal à bien identifier et définir leurs problèmes en matière de formation et à les anticiper dans une vision prospective de leur développement.<p></p><p></p>   La branche professionnelle est composée en majeure partie d'entreprises de petite taille (49 p. 100 des entreprises adhérentes en 1993 occupaient moins de cinquante salariés).<p></p><p></p>   Les signataires considèrent comme essentiel d'encourager et de promouvoir le développement de la formation dans ces entreprises, en les incitant notamment à entrer dans une démarche d'investissement formation. Ceci implique :<p></p><p></p>   - de les accompagner dans leurs projets, par la mise en oeuvre d'actions plus spécifiquement axées sur l'aide et le conseil ;<p></p><p></p>   - de porter à leur connaissance les dispositifs d'aides publiques à la formation ;<p></p><p></p>   - de les amener à élaborer des plans de formation qui traduisent la politique affirmée, construite et stratégique de l'entreprise, en matière de production de compétences.<p></p><p></p>   Il appartient à l'O.P.C.A. Forcemat de faciliter et favoriser la mise en place d'une telle démarche. Il lui incombe également d'impulser des regroupements de moyens entre plusieurs entreprises y compris au plan régional et, à chaque fois que cela est possible, de conseiller à l'entreprise de s'appuyer sur des moyens pédagogiques issus de l'ingénierie de la formation spécifiques à nos métiers.<p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819317",
+                    "num": "18",
+                    "intOrdre": 85898,
+                    "id": "KALIARTI000005819317",
+                    "content": "<p></p>   Pour ce qui concerne plus particulièrement les entreprises employant moins de dix salariés, les parties signataires décident de mettre à la disposition de ces entreprises les moyens d'assurer le perfectionnement de développer la formation et la qualification professionnelle de leurs personnels. Dans ce but, l'O.P.C.A. Forcemat se mettra à disposition des entreprises pour :<p></p><p></p>   - identifier leurs besoins de formation, compte tenu de leurs projets et de leurs objectifs ;<p></p><p></p>   - élaborer et leur proposer un plan de formation ;<p></p><p></p>   - mettre en place des actions de formation adaptées et compatibles avec leur taille et leur activité économique.<p></p><p></p>   Conformément à l'accord du 15 décembre 1994 et en contrepartie, les entreprises de la branche professionnelle de la céramique employant moins de dix salariés verseront à l'O.P.C.A. Forcemat leur contribution au développement de la formation professionnelle continue.<p></p><p></p>   Cette contribution est égale à 0,25 p. 100 du montant des salaires payés pendant l'année en cours.<p></p><p></p>   La mutualisation et la gestion des sommes collectées sera effectuée par l'O.P.C.A. Forcemat qui a défini les règles relatives :<p></p><p></p>   - à la définition des priorités, des critères et des conditions de prise en charge des demandes présentées par les entreprises ;<p></p><p></p>   - aux modalités de prise en charge des frais de formation, de transport et d'hébergement, ainsi que des rémunérations et charges sociales y afférent ;<p></p><p></p>   - à l'information des entreprises et des salariés.<p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000005710788",
+                "intOrdre": 429490,
+                "title": "Chapitre VIII : Conséquences de la construction européenne sur les besoins et actions de formation",
+                "id": "KALISCTA000005710788",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819318",
+                    "num": "19",
+                    "intOrdre": 42949,
+                    "id": "KALIARTI000005819318",
+                    "content": "<p></p>   Les organismes signataires souhaitent, dans le cadre de l'article L. 933-2, paragraphe 10, du code du travail, concourir à la préparation des entreprises de la branche et des jeunes en formation au grand marché européen :<p></p><p></p>   - en promouvant les échanges de jeunes en formation, notamment grâce à la fédération européenne de la céramique, cérame-unie, et aux fédérations européennes de la branche qui y sont rattachées (C.E.T., F.E.C.S., F.E.P.F., Groupisol, P.R.E., T.B.E.) ;<p></p><p></p>   - en s'impliquant dans les programmes de développement de la formation professionnelle initiale et continue.<p></p><p></p>   Cette préparation nécessite l'introduction progressive dans les programmes de formation technique d'une formation aux langues, dans la mesure où cette formation est indispensable au bon accomplissement de la fonction dans l'entreprise.<p></p><p></p>   Par ailleurs, les programmes de formation devront intégrer la connaissance des normes européennes.<p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000005710789",
+                "intOrdre": 472439,
+                "title": "Chapitre IX : Dispositions diverses",
+                "id": "KALISCTA000005710789",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819319",
+                    "num": "20",
+                    "intOrdre": 42949,
+                    "id": "KALIARTI000005819319",
+                    "content": "<p></p>   Le présent accord est conclu pour une durée de trois ans à compter de sa date de signature.<p></p><p></p>   Il annule et remplace l'accord du 11 février 1985, sauf en ce qui concerne l'annexe relative à la section paritaire du centre de perfectionnement des industries céramiques.<p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819320",
+                    "num": "21",
+                    "intOrdre": 85898,
+                    "id": "KALIARTI000005819320",
+                    "content": "<p></p>   Le champ d'application professionnel et territorial du présent accord est identique à celui de la convention collective nationale des industries céramiques de France du 6 juillet 1989 et de celle des industries françaises de la porcelaine du 1er juillet 1997.<p></p><p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819321",
+                    "num": "22",
+                    "intOrdre": 128847,
+                    "id": "KALIARTI000005819321",
+                    "content": "<p></p>   Le suivi de l'application du présent accord sera examiné par les parties signataires dans les six premiers mois de la deuxième année d'application.<p></p><p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819322",
+                    "num": "23",
+                    "intOrdre": 171796,
+                    "id": "KALIARTI000005819322",
+                    "content": "<p></p>   Le présent accord est établi en un nombre suffisant d'exemplaires pour être remis à chacune des parties contractantes et pour le dépôt à la direction départementale du travail et de l'emploi de Paris, dans les conditions prévues à l'article L. 132-10 du code du travail.<p></p><p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819323",
+                    "num": "24",
+                    "intOrdre": 214745,
+                    "id": "KALIARTI000005819323",
+                    "content": "<p></p>   Toute organisation syndicale représentative des salariés ou des employeurs non signataire du présent accord pourra y adhérer par simple déclaration auprès de l'organisme compétent. Elle devra également aviser, par lettre recommandée, toutes les organisations signataires.<p></p><p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000005667430",
+            "title": "Accord du 5 novembre 1996",
+            "id": "KALITEXT000005667430",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "1996-11-05"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000005710791",
+                "intOrdre": 42949,
+                "title": "Chapitre IX : Dispositions diverses",
+                "id": "KALISCTA000005710791",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000005819324",
+                    "intOrdre": 42949,
+                    "id": "KALIARTI000005819324",
+                    "content": "<p></p>Cette annexe présente des commentaires sur certains articles de l'accord. <p></p>Chapitre Ier<p></p> Nature des actions de formation et ordre de prioritéArticle<p></p> 2<p></p><p></p> Il faut déterminer ici quelles actions prioritaires devront être engagées dans les années à venir dans la profession, compte tenu des besoins des entreprises et des salariés de la céramique, des évolutions technologiques, environnementales, etc.<p></p><p></p>L'U.N.I.C.E.M. dans son accord fait référence au contrat d'études prévisionnelles (aujourd'hui \" Contrat d'études prospectives \", prévu par la circulaire D.F.P. n° 93-5 du 10 février 1993) qu'elle a conclu avec l'Etat en 1992 : par ce biais, cette branche a bénéficié d'une aide au conseil qui lui a permis de faire émerger les enjeux et les priorités économiques, technologiques et socio-organisationnelles de la formation dans les carrières et matériaux. Ce sont ces enjeux qui sont repris dans cet article. <p></p>Article 4<p></p><p></p> Les engagements de développement de la formation (art.L. 951-5 du code du travail) peuvent être signés par une branche professionnelle, et les entreprises (de dix salariés et plus) qui y adhèrent sont exonérées de tout ou partie de leur participation au financement de la formation professionnelle continue. <p></p><p></p>Cela consiste pour les entreprises de la branche à s'engager sur une ou plusieurs années à atteindre certains objectifs en matière de formation professionnelle, moyennant quoi l'Etat peut apporter sa contribution financière à l'exécution des actions de formation.<p></p><p></p>C'est très intéressant notamment pour des branches qui fournissent un effort de formation faible comme nous car tout l'objectif de la négociation contractuelle peut être d'inciter la profession et les entreprises :<p></p><p></p>-d'une part, à quantifier leurs objectifs en matière de salariés formés, en particulier des bas niveaux de qualification, de P.M.E. bénéficiaires, voire d'accroissement minimum de l'effort financier ;<p></p><p></p>-d'autre part, à entrer dans une démarche d'investissement formation sur plusieurs années. <p></p>Chapitre II<p></p> Reconnaissance des qualifications acquises<p></p> du fait d'actions de formation<p></p> Article 6<p></p><p></p> Pour des actions de formation d'une durée supérieure à 300 heures permettant d'acquérir une qualification professionnelle définie par la CNPE, l'article 70-7 autorise les entreprises à faire effectuer avec l'accord du salarié une partie de la formation (25 p. 100 au maximum) en dehors du temps de travail sans rémunération. En contrepartie, en cas de succès aux épreuves de fin de formation, l'entreprise doit s'employer dans un délai de un an à faire accéder le salarié en priorité aux fonctions disponibles correspondant aux connaissances ainsi acquises. En tout état de cause, elle doit prendre en compte, dès l'issue de la formation, les efforts que l'intéressé a accomplis par des principes, majorations de salaires, progression intermédiaire de fonction, etc. <p></p>Chapitre III<p></p> Moyens reconnus aux instances de représentation des salariés<p></p> pour l'accomplissement de leur mission dans le domaine de la formation<p></p><p></p> Reprise de l'accord de 1985, actualisé pour tenir compte des évolutions législatives. <p></p>Chapitre IV<p></p> Dispositions relatives à l'accueil et l'insertion des jeunes<p></p> dans le cadre de l'apprentissage et des formations en alternance<p></p> Article 12<p></p><p></p> Les chiffres de l'apprentissage dans la profession semblent le confirmer (après un creux en 1991-1992, le nombre d'apprentis dans les industries céramiques est en passe d'atteindre, en 1994, le niveau de 1986). <p></p><p></p>Les contrats d'objectifs sont des contrats pluriannuels, d'une durée de trois à cinq ans, conclus entre la région (préfet de région, président du conseil régional) et la branche, qui fixent les orientations et les objectifs de développement de l'apprentissage et de l'enseignement professionnel en alternance sous statut scolaire, coordonnées avec les autres voies de formation professionnelle alternée. <p></p><p></p>Ils ont pour finalité de permettre à l'Etat, aux conseils régionaux et aux organisations professionnelles de mieux conjuguer leurs efforts en matière de développement de l'apprentissage et de l'enseignement professionnel et technique en alternance. <p></p><p></p>Les contrats d'objectifs tiennent compte des orientations définies dans le cadre de la négociation de branche et des conventions et accords conclus entre l'Etat et les branches professionnelles : sont notamment visés les accords-cadres relatifs à l'apprentissage signés par le ministre du travail et les branches professionnelles. En l'absence de tels accords, la CNPE est informée sur le contenu des contrats d'objectifs. <p></p><p></p>Ils peuvent donner des orientations sur les objectifs qualitatifs et quantitatifs, la localisation des formations, l'information des jeunes et des familles sur les professions, les durées prévisionnelles des formations en     CFA, les diplômes et titres pouvant être préparés, les mesures d'accompagnement matérielles des contrats d'apprentissage (formation des formateurs, par exemple), etc. <p></p><p></p>La CNPE, en l'absence de négociations de branches, est régulièrement informée de la mise en oeuvre et du résultat des actions prévues par le contrat d'objectif. <p></p><p></p>Il est très important que les entreprises ne se contentent pas de déclarations de principes mais donnent à leur branche les moyens financiers de développer l'apprentissage. Il faut peut-être introduire ici l'obligation de faire bénéficier l'I.C.F. de 75 p. 100 de la taxe, l'objectif étant de ramener des fonds à l'O.P.C.A. <p></p>Chapitre V<p></p> Actions de formation en faveur des salariés<p></p> ayant les niveaux de qualification les moins élevésChapitre<p></p> VI<p></p> Actions de formation en vue d'assurer l'égalité d'accès<p></p> des hommes et des femmes à la formation professionnelle<p></p> Article 16<p></p><p></p> Reprise de l'esprit du projet d'accord sur les nouvelles classifications, concernant les plus faibles classifications : examen au moins tous les cinq ans. <p></p>Chapitre VII<p></p> Dispositions relatives aux petites et moyennes entreprises<p></p> et en particulier celles inférieures à dix salariés<p></p> Article 17<p></p><p></p> Article particulièrement important dans notre profession, composée dans une grosse majorité de P.M.E. <p></p>Chapitre VIII<p></p> Conséquences de la construction européenne<p></p> sur les besoins et actions de formation<p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Annexe",
+                    "lstLienModification": [
+                      {
+                        "textCid": "",
+                        "textTitle": "Accord 1996-11-05 BO conventions collectives 97-6, étendu par arrêté du 7 mai 1997 JORF 17 mai 1997",
+                        "linkType": "CREATION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "",
+                        "natureText": "",
+                        "datePubliTexte": null,
+                        "dateSignaTexte": null,
+                        "dateDebutCible": null
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000005670660",
+            "title": "Accord du 5 novembre 2011 relatif à la formation professionnelle dans les industries céramiques",
+            "id": "KALITEXT000005670660",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "1999-03-30"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000005827923",
+                "intOrdre": 42949,
+                "id": "KALIARTI000005827923",
+                "content": "<p></p>   La CNPE de la céramique,<p></p><p></p>   Après avoir examiné dans son ensemble le projet de budget 1999 du CFA des industries céramiques tel que présenté au conseil d'administration de Forcemat, en justification de la demande de transfert OPCA-CFA,<p></p><p></p>   Compte tenu :<p></p><p></p>   - de la nécessité de restaurer une capacité d'accueil dans les locaux de Sèvres ;<p></p><p></p>   - de la nécessité de mettre en place un apprentissage en céramique industrielle ;<p></p><p></p>   - des perspectives d'ouverture d'antennes du CFA,<p></p> tous éléments déjà largement discutés,<p></p> donnent au directeur du CFA pour orientation impérative d'accélérer les actions d'investissements et de promotion de l'apprentissage au cours de l'année 1999 et de réajuster le montant du transfert alloué.<p></p><p></p>   Cette volonté sera à exprimer clairement lors de la dernière mise en forme du dossier de renouvellement de la convention portant création du CFA, qui, après un dernier examen par le conseil de perfectionnement du CFA, sera soumis à la commission permanente de formation professionnelle.<p></p><p></p>   Dans ce sens, les soussignés signataires, membres de la CNPE, donnent un avis favorable au transfert de 3 900 000 F des fonds de formation inutilisés par l'OPCA au CFA des industries céramiques, conformément à l'accord du 17 juin 1994.<p></p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "",
+                    "textTitle": "Accord 1999-03-30 BO conventions collectives 99-17",
+                    "linkType": "CREATION",
+                    "linkOrientation": "source",
+                    "articleNum": "",
+                    "articleId": "",
+                    "natureText": "",
+                    "datePubliTexte": null,
+                    "dateSignaTexte": null,
+                    "dateDebutCible": null
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
             "cid": "KALITEXT000017579885",
             "title": "Accord du 15 mars 2007 relatif au financement des CFA",
             "id": "KALITEXT000017579885",
@@ -8587,29 +8587,6 @@
         {
           "type": "section",
           "data": {
-            "cid": "KALITEXT000023269861",
-            "title": "Accord du 20 avril 2010 relatif à l'apprentissage",
-            "id": "KALITEXT000023269861",
-            "etat": "VIGUEUR_NON_ETEN",
-            "modifDate": "2010-04-20"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000023269864",
-                "intOrdre": 524287,
-                "id": "KALIARTI000023269864",
-                "content": "<p>Après avoir examiné dans son ensemble le projet de budget 2010 des CFA de la céramique, tel qu'il sera présenté au conseil d'administration de FORCEMAT, en justification de la demande de transfert OPCA-CFA ; </p><p>Compte tenu de la nécessité de renforcer le potentiel apprentissage en céramique industrielle et de continuer les actions de développement de l'apprentissage, tous éléments déjà largement discutés, la commission nationale paritaire de l'emploi des industries céramiques donne au directeur des CFA pour orientation impérative de continuer les actions d'investissements et de promotion de l'apprentissage au cours de l'année 2010. </p><p>Dans ce sens, les soussignés signataires, membres de la commission nationale paritaire de l'emploi des industries céramiques, donnent un avis favorable à l'affectation d'une somme de 250 000 €, recueillie au titre de la contribution de 0,15 % versée par les entreprises de moins de 20 salariés et au titre de la contribution de 0,50 % versée par les entreprises d'au moins 20 salariés, aux CFA de la céramique. La part ainsi affectée aux CFA est limitée en tout état de cause à 30 % des sommes versées par les entreprises relevant du secteur céramique, conformément à l'<a href='/affichIDCC.do?cidTexte=KALITEXT000005654124&categorieLien=cid' title='ACCORD INTERBRANCHES du 21 juin 2004 (VE)'>accord interbranches du 21 juin 2004</a> relatif au développement de la formation professionnelle tout au long de la vie. <br/>Fait à Paris, le 22 avril 2010.<br/></p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
             "cid": "KALITEXT000023269854",
             "title": "Accord du 22 avril 2010 relatif aux contrats de professionnalisation",
             "id": "KALITEXT000023269854",
@@ -8648,6 +8625,29 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000023269860",
                 "content": "<p align='left'><br/>Suite à l'avis favorable rendu par la CPNE des industries céramiques, en date du 22 avril 2010, les signataires confirment leur souhait d'affecter une somme de 250 000 € recueillie au titre de la contribution de 0,15 % versée par les entreprises de moins de 20 salariés et au titre de la contribution de 0,50 % versée par les entreprises d'au moins 20 salariés, aux CFA de la céramique.<br/>La part ainsi affectée aux CFA est limitée en tout état de cause à 30 % des sommes versées par les entreprises relevant du secteur céramique.<br/>Cela en vue de contribuer au fonctionnement des CFA des industries céramiques.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "lstLienModification": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000023269861",
+            "title": "Accord du 20 avril 2010 relatif à l'apprentissage",
+            "id": "KALITEXT000023269861",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2010-04-20"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000023269864",
+                "intOrdre": 524287,
+                "id": "KALIARTI000023269864",
+                "content": "<p>Après avoir examiné dans son ensemble le projet de budget 2010 des CFA de la céramique, tel qu'il sera présenté au conseil d'administration de FORCEMAT, en justification de la demande de transfert OPCA-CFA ; </p><p>Compte tenu de la nécessité de renforcer le potentiel apprentissage en céramique industrielle et de continuer les actions de développement de l'apprentissage, tous éléments déjà largement discutés, la commission nationale paritaire de l'emploi des industries céramiques donne au directeur des CFA pour orientation impérative de continuer les actions d'investissements et de promotion de l'apprentissage au cours de l'année 2010. </p><p>Dans ce sens, les soussignés signataires, membres de la commission nationale paritaire de l'emploi des industries céramiques, donnent un avis favorable à l'affectation d'une somme de 250 000 €, recueillie au titre de la contribution de 0,15 % versée par les entreprises de moins de 20 salariés et au titre de la contribution de 0,50 % versée par les entreprises d'au moins 20 salariés, aux CFA de la céramique. La part ainsi affectée aux CFA est limitée en tout état de cause à 30 % des sommes versées par les entreprises relevant du secteur céramique, conformément à l'<a href='/affichIDCC.do?cidTexte=KALITEXT000005654124&categorieLien=cid' title='ACCORD INTERBRANCHES du 21 juin 2004 (VE)'>accord interbranches du 21 juin 2004</a> relatif au développement de la formation professionnelle tout au long de la vie. <br/>Fait à Paris, le 22 avril 2010.<br/></p>",
                 "etat": "VIGUEUR_NON_ETEN",
                 "lstLienModification": []
               }
@@ -11236,6 +11236,52 @@
         {
           "type": "section",
           "data": {
+            "cid": "KALITEXT000031646740",
+            "title": "Adhésion par lettre du 29 septembre 2015 de la FNTVC CGT à la convention collective",
+            "id": "KALITEXT000031646740",
+            "etat": "VIGUEUR",
+            "modifDate": "2015-10-16"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000031646743",
+                "intOrdre": 524287,
+                "id": "KALIARTI000031646743",
+                "content": "<p><br/>Montreuil, le 29 septembre 2015. <br/>FNTVC CGT <br/>Case 417 <br/>263, rue de Paris, <br/>93514 Montreuil-sous-Bois Cedex <br/>Madame, Monsieur, <br/>Par le présent courrier, conformément aux dispositions légales (<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901781&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-3 (V)'>art. L. 2261-3 du code du travail</a>), nous vous faisons part de la décision prise par notre organisation, la fédération nationale des travailleurs du verre et de la céramique CGT, d'adhérer à compter de ce jour à la convention collective nationale des industries céramiques de France (idcc 1558), conclue le 6 juillet 1989 et étendue par arrêté du 11 mai 1990 publié au Journal officiel le 22 mai 1990, et à ses annexes. <br/>En vous souhaitant bonne réception, nous vous prions, Madame, Monsieur, d'agréer l'expression de nos salutations distinguées. </p><p><br/>Le secrétaire général.</p>",
+                "etat": "VIGUEUR",
+                "lstLienModification": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000031646745",
+            "title": "Adhésion par lettre du 29 septembre 2015 de la FNCB CFDT à l'avenant n° 44 du 11 juin 2015 relatif aux salaires",
+            "id": "KALITEXT000031646745",
+            "etat": "VIGUEUR",
+            "modifDate": "2015-10-16"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000031646748",
+                "intOrdre": 524287,
+                "id": "KALIARTI000031646748",
+                "content": "<p><br/>Paris, le 29 septembre 2015. <br/>FNCB CFDT <br/>47-49, avenue Simon-Bolivar <br/>75950 Paris Cedex 19 <br/>La fédération nationale de la construction et bois CFDT vous informe de la décision d'adhérer à l'<a href='/affichIDCC.do?cidTexte=KALITEXT000031493486&categorieLien=cid' title='Salaires (VE)'>avenant n° 44 du 11 juin 2015 relatif aux salaires ouvriers, ETAM et cadres des industries céramiques de France </a>(idcc 1558). <br/>Cette adhésion est faite conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901781&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-3 (V)'>article L. 2261-3 du code du travail </a>dans les conditions fixées par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-2 (M)'>article D. 2231-2 du code du travail</a>. <br/>Vous en souhaitant bonne réception, recevez nos cordiales salutations. </p><p><br/>Le secrétaire national.</p>",
+                "etat": "VIGUEUR",
+                "lstLienModification": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
             "cid": "KALITEXT000031915546",
             "title": "Avenant du 29 septembre 2015 relatif aux nouvelles classifications et aux salaires minima conventionnels au 1er janvier 2017 ",
             "id": "KALITEXT000031915546",
@@ -12534,52 +12580,6 @@
                   }
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALITEXT000031646740",
-            "title": "Adhésion par lettre du 29 septembre 2015 de la FNTVC CGT à la convention collective",
-            "id": "KALITEXT000031646740",
-            "etat": "VIGUEUR",
-            "modifDate": "2015-10-16"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000031646743",
-                "intOrdre": 524287,
-                "id": "KALIARTI000031646743",
-                "content": "<p><br/>Montreuil, le 29 septembre 2015. <br/>FNTVC CGT <br/>Case 417 <br/>263, rue de Paris, <br/>93514 Montreuil-sous-Bois Cedex <br/>Madame, Monsieur, <br/>Par le présent courrier, conformément aux dispositions légales (<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901781&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-3 (V)'>art. L. 2261-3 du code du travail</a>), nous vous faisons part de la décision prise par notre organisation, la fédération nationale des travailleurs du verre et de la céramique CGT, d'adhérer à compter de ce jour à la convention collective nationale des industries céramiques de France (idcc 1558), conclue le 6 juillet 1989 et étendue par arrêté du 11 mai 1990 publié au Journal officiel le 22 mai 1990, et à ses annexes. <br/>En vous souhaitant bonne réception, nous vous prions, Madame, Monsieur, d'agréer l'expression de nos salutations distinguées. </p><p><br/>Le secrétaire général.</p>",
-                "etat": "VIGUEUR",
-                "lstLienModification": []
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALITEXT000031646745",
-            "title": "Adhésion par lettre du 29 septembre 2015 de la FNCB CFDT à l'avenant n° 44 du 11 juin 2015 relatif aux salaires",
-            "id": "KALITEXT000031646745",
-            "etat": "VIGUEUR",
-            "modifDate": "2015-10-16"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000031646748",
-                "intOrdre": 524287,
-                "id": "KALIARTI000031646748",
-                "content": "<p><br/>Paris, le 29 septembre 2015. <br/>FNCB CFDT <br/>47-49, avenue Simon-Bolivar <br/>75950 Paris Cedex 19 <br/>La fédération nationale de la construction et bois CFDT vous informe de la décision d'adhérer à l'<a href='/affichIDCC.do?cidTexte=KALITEXT000031493486&categorieLien=cid' title='Salaires (VE)'>avenant n° 44 du 11 juin 2015 relatif aux salaires ouvriers, ETAM et cadres des industries céramiques de France </a>(idcc 1558). <br/>Cette adhésion est faite conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901781&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-3 (V)'>article L. 2261-3 du code du travail </a>dans les conditions fixées par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-2 (M)'>article D. 2231-2 du code du travail</a>. <br/>Vous en souhaitant bonne réception, recevez nos cordiales salutations. </p><p><br/>Le secrétaire national.</p>",
-                "etat": "VIGUEUR",
-                "lstLienModification": []
-              }
             }
           ]
         },

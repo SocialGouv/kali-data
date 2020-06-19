@@ -4805,80 +4805,6 @@
         {
           "type": "section",
           "data": {
-            "cid": "KALITEXT000020137742",
-            "title": "Avenant n° 32 du 26 juin 2008 relatif au CQP « Technicien sportif de basket-ball »",
-            "id": "KALITEXT000020137742",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "2015-02-01"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000020137745",
-                "num": "1",
-                "intOrdre": 524287,
-                "id": "KALIARTI000030081690",
-                "content": "<p align='left'>L'article 5 de l'annexe I de la CCN du sport du 7 juillet 2005  est complété par les  dispositions suivantes : <br/></p><div align='center'><center><table border='1'><tbody><tr><th>TITRE DU CQP </th><th>CLASSIFICATION <br/>conventionnelle </th><th>PRÉROGATIVE, LIMITE D'EXERCICE </th></tr><tr><td align='center'>Technicien sportif de basket-ball </td><td align='center'>Le titulaire du CQP Technicien sportif  de basket-ball est classé au groupe 3 </td><td align='center'>Le titulaire du CQP Technicien sportif de basket-ball entraîne un maximum de 2 équipes qu'il manage en compétition. <br/>Les prérogatives d'exercice du titulaire du CQP TSBB se limitent, au plus, à un volume horaire de 360 heures / an. <br/>Il ne peut intervenir auprès d'un public scolaire sur le temps contraint. <br/>Il encadre en toute autonomie. <br/>Il organise son activité pour répondre aux objectifs sportifs, dans le respect des règlements de la compétition et de l'intégrité des joueurs dont il a la responsabilité. <br/>Dans tous les cas, ses interventions visent à atteindre la meilleure performance possible en compétition au travers d'objectifs et de contenus de séances adaptés, dans le cadre du programme d'entraînement.</td></tr></tbody></table></center></div>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "KALITEXT000029754234",
-                    "textTitle": "CQP « Technicien sportif de basket-ball » - art. 1er (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "1er",
-                    "articleId": "KALIARTI000029754237",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2014-11-13",
-                    "dateSignaTexte": "2014-06-20",
-                    "dateDebutCible": "2015-02-01"
-                  },
-                  {
-                    "textCid": "JORFTEXT000030073826",
-                    "textTitle": "ARRÊTÉ du 5 janvier 2015 - art. 26, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "26",
-                    "articleId": "JORFARTI000030073911",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2015-01-10",
-                    "dateSignaTexte": "2015-01-05",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000020137747",
-                "num": "2",
-                "intOrdre": 1048574,
-                "id": "KALIARTI000020137747",
-                "content": "<p align='left'><br/> Le présent avenant fera l'objet d'un dépôt auprès de la direction générale du travail, ainsi que d'une demande d'extension et prendra effet au premier jour suivant la publication au Journal officiel de l'arrêté d'extension.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000020280409",
-                    "textTitle": "Arrêté du 11 février 2009, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "JORFTEXT000020280409",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2009-02-19",
-                    "dateSignaTexte": "2009-02-11",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
             "cid": "KALITEXT000019819463",
             "title": "Avenant n° 33 du 26 juin 2008 à l'annexe I relative aux CQP",
             "id": "KALITEXT000019819463",
@@ -4931,6 +4857,80 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000019819468",
                 "content": "<p align='left'><br/> Le présent avenant fera l'objet d'un dépôt auprès de la direction générale du travail ainsi que d'une demande d'extension, et prendra effet au premier jour suivant la publication au Journal officiel de l'arrêté d'extension.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000020280409",
+                    "textTitle": "Arrêté du 11 février 2009, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "JORFTEXT000020280409",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2009-02-19",
+                    "dateSignaTexte": "2009-02-11",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000020137742",
+            "title": "Avenant n° 32 du 26 juin 2008 relatif au CQP « Technicien sportif de basket-ball »",
+            "id": "KALITEXT000020137742",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2015-02-01"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000020137745",
+                "num": "1",
+                "intOrdre": 524287,
+                "id": "KALIARTI000030081690",
+                "content": "<p align='left'>L'article 5 de l'annexe I de la CCN du sport du 7 juillet 2005  est complété par les  dispositions suivantes : <br/></p><div align='center'><center><table border='1'><tbody><tr><th>TITRE DU CQP </th><th>CLASSIFICATION <br/>conventionnelle </th><th>PRÉROGATIVE, LIMITE D'EXERCICE </th></tr><tr><td align='center'>Technicien sportif de basket-ball </td><td align='center'>Le titulaire du CQP Technicien sportif  de basket-ball est classé au groupe 3 </td><td align='center'>Le titulaire du CQP Technicien sportif de basket-ball entraîne un maximum de 2 équipes qu'il manage en compétition. <br/>Les prérogatives d'exercice du titulaire du CQP TSBB se limitent, au plus, à un volume horaire de 360 heures / an. <br/>Il ne peut intervenir auprès d'un public scolaire sur le temps contraint. <br/>Il encadre en toute autonomie. <br/>Il organise son activité pour répondre aux objectifs sportifs, dans le respect des règlements de la compétition et de l'intégrité des joueurs dont il a la responsabilité. <br/>Dans tous les cas, ses interventions visent à atteindre la meilleure performance possible en compétition au travers d'objectifs et de contenus de séances adaptés, dans le cadre du programme d'entraînement.</td></tr></tbody></table></center></div>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000029754234",
+                    "textTitle": "CQP « Technicien sportif de basket-ball » - art. 1er (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "1er",
+                    "articleId": "KALIARTI000029754237",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2014-11-13",
+                    "dateSignaTexte": "2014-06-20",
+                    "dateDebutCible": "2015-02-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000030073826",
+                    "textTitle": "ARRÊTÉ du 5 janvier 2015 - art. 26, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "26",
+                    "articleId": "JORFARTI000030073911",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2015-01-10",
+                    "dateSignaTexte": "2015-01-05",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000020137747",
+                "num": "2",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000020137747",
+                "content": "<p align='left'><br/> Le présent avenant fera l'objet d'un dépôt auprès de la direction générale du travail, ainsi que d'une demande d'extension et prendra effet au premier jour suivant la publication au Journal officiel de l'arrêté d'extension.</p>",
                 "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
                   {
@@ -12793,9 +12793,9 @@
               "data": {
                 "cid": "KALISCTA000032094229",
                 "intOrdre": 3145722,
-                "title": "Titre IV Garanties collectives présentant un degré élevé de solidarité",
-                "id": "KALISCTA000041692890",
-                "etat": "VIGUEUR_ETEN"
+                "title": "Titre V Garanties collectives présentant un degré élevé de solidarité",
+                "id": "KALISCTA000032094229",
+                "etat": "REMPLACE"
               },
               "children": [
                 {
@@ -12955,9 +12955,9 @@
               "data": {
                 "cid": "KALISCTA000032094229",
                 "intOrdre": 3145722,
-                "title": "Titre V Garanties collectives présentant un degré élevé de solidarité",
-                "id": "KALISCTA000032094229",
-                "etat": "REMPLACE"
+                "title": "Titre IV Garanties collectives présentant un degré élevé de solidarité",
+                "id": "KALISCTA000041692890",
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -18664,117 +18664,6 @@
         {
           "type": "section",
           "data": {
-            "cid": "KALITEXT000023561586",
-            "title": "Avenant n° 51 du 7 juillet 2010 relatif aux salaires au 1er janvier 2011",
-            "id": "KALITEXT000023561586",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "2011-01-01"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000023561589",
-                "num": "1er",
-                "intOrdre": 524287,
-                "id": "KALIARTI000023561589",
-                "content": "<p align='left'><a href='/affichIDCCArticle.do?cidTexte=KALITEXT000017577657&idArticle=KALIARTI000017577827&categorieLien=cid'>A l'article 9.2.1</a>, les phrases « Le SMC est fixé à 1 245 € au jour de l'extension, ou au plus tard le 1er septembre 2007. Au 1er janvier 2008, le SMC est fixé à 1 261 € » sont remplacées par : « Le SMC est fixé à 1 313,47 € au 1er janvier 2011. » <br/>En outre, les 2 tableaux figurant dans l'article 9.2.1 de la convention collective sont respectivement remplacés par les 2 tableaux suivants : </p><p align='right'>(En pourcentage.) </p><p align='left'></p><div align='center'><center><table border='1'><tbody><tr><th>Groupe </th><th>Majoration </th></tr><tr><td align='center'>1 </td><td align='center'>SMC majoré de 5,21 %</td></tr><tr><td align='center'>2 </td><td align='center'>SMC majoré de 8,21 %</td></tr><tr><td align='center'>3 </td><td align='center'>SMC majoré de 17,57 %</td></tr><tr><td align='center'>4 </td><td align='center'>SMC majoré de 24,75 %</td></tr><tr><td align='center'>5 </td><td align='center'>SMC majoré de 39,72 %</td></tr><tr><td align='center'>6 </td><td align='center'>SMC majoré de 74,31 %</td></tr></tbody></table></center></div><p align='right'>(En pourcentage.) </p><p align='left'></p><div align='center'><center><table border='1'><tbody><tr><th>Groupe </th><th>Majoration </th></tr><tr><td align='center'>7 </td><td align='center'>24,88 SMC</td></tr><tr><td align='center'>8 </td><td align='center'>28,86 SMC</td></tr></tbody></table></center></div>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000023603365",
-                    "textTitle": "Arrêté du 14 février 2011 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000023603370",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2011-02-19",
-                    "dateSignaTexte": "2011-02-14",
-                    "dateDebutCible": "2999-01-01"
-                  },
-                  {
-                    "textCid": "KALITEXT000017577657",
-                    "textTitle": "Convention collective nationale du 7 juillet 2005 - art. 9.2 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "source",
-                    "articleNum": "9.2",
-                    "articleId": "KALIARTI000023568707",
-                    "natureText": "Convention collective nationale ",
-                    "datePubliTexte": "2999-01-01",
-                    "dateSignaTexte": "2005-07-07",
-                    "dateDebutCible": "2010-07-07"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000023561591",
-                "num": "2",
-                "intOrdre": 1048574,
-                "id": "KALIARTI000023561591",
-                "content": "<p align='left'>Les 2 tableaux figurant dans l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000017577657&idArticle=KALIARTI000017577827&categorieLien=cid'>article 9.2.2</a> de la convention collective sont respectivement remplacés par le tableau suivant : </p><p align='right'>(En pourcentage.) </p><p align='left'></p><div align='center'><center><table border='1'><tbody><tr><th>Groupe </th><th>Majoration </th></tr><tr><td align='center'>1 </td><td align='center'>SMC majoré de 9,21 % </td></tr><tr><td align='center'>2 </td><td align='center'>SMC majoré de 12,72 %</td></tr><tr><td align='center'>3 </td><td align='center'>SMC majoré de 22,26 %</td></tr><tr><td align='center'>4 </td><td align='center'>SMC majoré de 29,74 %</td></tr><tr><td align='center'>5 </td><td align='center'>SMC majoré de 44,71 %</td></tr><tr><td align='center'>6 </td><td align='center'>SMC majoré de 79,29 %</td></tr><tr><td align='center'>7 </td><td align='center'>SMC majoré de 26,12 %</td></tr><tr><td align='center'>8 </td><td align='center'>SMC majoré de 30,30 %</td></tr></tbody></table></center></div><p></p>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000023603365",
-                    "textTitle": "Arrêté du 14 février 2011 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000023603370",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2011-02-19",
-                    "dateSignaTexte": "2011-02-14",
-                    "dateDebutCible": "2999-01-01"
-                  },
-                  {
-                    "textCid": "KALITEXT000017577657",
-                    "textTitle": "Convention collective nationale du 7 juillet 2005 - art. 9.2 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "source",
-                    "articleNum": "9.2",
-                    "articleId": "KALIARTI000023568707",
-                    "natureText": "Convention collective nationale ",
-                    "datePubliTexte": "2999-01-01",
-                    "dateSignaTexte": "2005-07-07",
-                    "dateDebutCible": "2010-07-07"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000023561592",
-                "num": "3",
-                "intOrdre": 1572861,
-                "id": "KALIARTI000023561592",
-                "content": "<p align='left'><br/>Le présent avenant prendra effet le 1er janvier 2011.<br/>Il fera l'objet d'un dépôt auprès de la direction générale du travail ainsi que d'une demande d'extension.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000023603365",
-                    "textTitle": "Arrêté du 14 février 2011 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000023603370",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2011-02-19",
-                    "dateSignaTexte": "2011-02-14",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
             "cid": "KALITEXT000023406876",
             "title": "Avenant n° 52 du 7 juillet 2010 relatif aux salaires au 1er janvier 2011",
             "id": "KALITEXT000023406876",
@@ -18901,6 +18790,117 @@
                     "natureText": "ARRETE",
                     "datePubliTexte": "2011-10-04",
                     "dateSignaTexte": "2011-09-27",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000023561586",
+            "title": "Avenant n° 51 du 7 juillet 2010 relatif aux salaires au 1er janvier 2011",
+            "id": "KALITEXT000023561586",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2011-01-01"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000023561589",
+                "num": "1er",
+                "intOrdre": 524287,
+                "id": "KALIARTI000023561589",
+                "content": "<p align='left'><a href='/affichIDCCArticle.do?cidTexte=KALITEXT000017577657&idArticle=KALIARTI000017577827&categorieLien=cid'>A l'article 9.2.1</a>, les phrases « Le SMC est fixé à 1 245 € au jour de l'extension, ou au plus tard le 1er septembre 2007. Au 1er janvier 2008, le SMC est fixé à 1 261 € » sont remplacées par : « Le SMC est fixé à 1 313,47 € au 1er janvier 2011. » <br/>En outre, les 2 tableaux figurant dans l'article 9.2.1 de la convention collective sont respectivement remplacés par les 2 tableaux suivants : </p><p align='right'>(En pourcentage.) </p><p align='left'></p><div align='center'><center><table border='1'><tbody><tr><th>Groupe </th><th>Majoration </th></tr><tr><td align='center'>1 </td><td align='center'>SMC majoré de 5,21 %</td></tr><tr><td align='center'>2 </td><td align='center'>SMC majoré de 8,21 %</td></tr><tr><td align='center'>3 </td><td align='center'>SMC majoré de 17,57 %</td></tr><tr><td align='center'>4 </td><td align='center'>SMC majoré de 24,75 %</td></tr><tr><td align='center'>5 </td><td align='center'>SMC majoré de 39,72 %</td></tr><tr><td align='center'>6 </td><td align='center'>SMC majoré de 74,31 %</td></tr></tbody></table></center></div><p align='right'>(En pourcentage.) </p><p align='left'></p><div align='center'><center><table border='1'><tbody><tr><th>Groupe </th><th>Majoration </th></tr><tr><td align='center'>7 </td><td align='center'>24,88 SMC</td></tr><tr><td align='center'>8 </td><td align='center'>28,86 SMC</td></tr></tbody></table></center></div>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000023603365",
+                    "textTitle": "Arrêté du 14 février 2011 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000023603370",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2011-02-19",
+                    "dateSignaTexte": "2011-02-14",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000017577657",
+                    "textTitle": "Convention collective nationale du 7 juillet 2005 - art. 9.2 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "9.2",
+                    "articleId": "KALIARTI000023568707",
+                    "natureText": "Convention collective nationale ",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2005-07-07",
+                    "dateDebutCible": "2010-07-07"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000023561591",
+                "num": "2",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000023561591",
+                "content": "<p align='left'>Les 2 tableaux figurant dans l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000017577657&idArticle=KALIARTI000017577827&categorieLien=cid'>article 9.2.2</a> de la convention collective sont respectivement remplacés par le tableau suivant : </p><p align='right'>(En pourcentage.) </p><p align='left'></p><div align='center'><center><table border='1'><tbody><tr><th>Groupe </th><th>Majoration </th></tr><tr><td align='center'>1 </td><td align='center'>SMC majoré de 9,21 % </td></tr><tr><td align='center'>2 </td><td align='center'>SMC majoré de 12,72 %</td></tr><tr><td align='center'>3 </td><td align='center'>SMC majoré de 22,26 %</td></tr><tr><td align='center'>4 </td><td align='center'>SMC majoré de 29,74 %</td></tr><tr><td align='center'>5 </td><td align='center'>SMC majoré de 44,71 %</td></tr><tr><td align='center'>6 </td><td align='center'>SMC majoré de 79,29 %</td></tr><tr><td align='center'>7 </td><td align='center'>SMC majoré de 26,12 %</td></tr><tr><td align='center'>8 </td><td align='center'>SMC majoré de 30,30 %</td></tr></tbody></table></center></div><p></p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000023603365",
+                    "textTitle": "Arrêté du 14 février 2011 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000023603370",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2011-02-19",
+                    "dateSignaTexte": "2011-02-14",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000017577657",
+                    "textTitle": "Convention collective nationale du 7 juillet 2005 - art. 9.2 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "9.2",
+                    "articleId": "KALIARTI000023568707",
+                    "natureText": "Convention collective nationale ",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2005-07-07",
+                    "dateDebutCible": "2010-07-07"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000023561592",
+                "num": "3",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000023561592",
+                "content": "<p align='left'><br/>Le présent avenant prendra effet le 1er janvier 2011.<br/>Il fera l'objet d'un dépôt auprès de la direction générale du travail ainsi que d'une demande d'extension.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000023603365",
+                    "textTitle": "Arrêté du 14 février 2011 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000023603370",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2011-02-19",
+                    "dateSignaTexte": "2011-02-14",
                     "dateDebutCible": "2999-01-01"
                   }
                 ]

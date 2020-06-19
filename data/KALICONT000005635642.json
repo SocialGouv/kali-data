@@ -945,9 +945,9 @@
           "data": {
             "cid": "KALISCTA000005732150",
             "intOrdre": 987827,
-            "title": "Durée du travail  ",
-            "id": "KALISCTA000024536818",
-            "etat": "VIGUEUR_NON_ETEN"
+            "title": "Durée du travail - Repos journalier et repos hebdomadaire.",
+            "id": "KALISCTA000005732150",
+            "etat": "VIGUEUR_ETEN"
           },
           "children": [
             {
@@ -994,9 +994,9 @@
           "data": {
             "cid": "KALISCTA000005732150",
             "intOrdre": 987827,
-            "title": "Durée du travail - Repos journalier et repos hebdomadaire.",
-            "id": "KALISCTA000005732150",
-            "etat": "VIGUEUR_ETEN"
+            "title": "Durée du travail  ",
+            "id": "KALISCTA000024536818",
+            "etat": "VIGUEUR_NON_ETEN"
           },
           "children": [
             {
@@ -14113,310 +14113,6 @@
         {
           "type": "section",
           "data": {
-            "cid": "KALITEXT000029563261",
-            "title": "Avenant n° 60 du 27 novembre 2013 portant modification de l'article 21 bis relatif à la prévoyance",
-            "id": "KALITEXT000029563261",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "2014-01-01"
-          },
-          "children": [
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000029563264",
-                "intOrdre": 524287,
-                "title": "Préambule",
-                "id": "KALISCTA000029563264",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000029563280",
-                    "intOrdre": 524287,
-                    "id": "KALIARTI000029563280",
-                    "content": "<p align='left'><br/>Le présent avenant a pour objet d'intégrer à l'article 21 bis relatif au régime de prévoyance les évolutions législatives et réglementaires récentes, dont notamment la <a href='/affichTexte.do?cidTexte=JORFTEXT000027546648&categorieLien=cid'>loi n° 2013-504 du 14 juin 2013</a> relative à la sécurisation de l'emploi, le <a href='/affichTexte.do?cidTexte=JORFTEXT000025129853&categorieLien=cid'>décret n° 2012-25 du 9 janvier 2012</a> relatif au caractère collectif et obligatoire des garanties de protection sociale complémentaire, complété par la circulaire DSS/SD5B/2013/344 du 25 septembre 2013.<br/>En responsabilité, les partenaires sociaux décident de modifier et de mettre à jour comme suit les termes de l'article 21 bis de la convention collective nationale des remontées mécaniques et domaines skiables du 15 mai 1968 étendue par arrêté du 3 février 1971.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000033193353",
-                        "textTitle": "Arrêté du 29 septembre 2016 - art. 1, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "1",
-                        "articleId": "JORFARTI000033193357",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2016-10-06",
-                        "dateSignaTexte": "2016-09-29",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000029563265",
-                "num": "1er",
-                "intOrdre": 1048574,
-                "id": "KALIARTI000029563265",
-                "content": "<p align='left'><br/>Le premier paragraphe de <a href='/affichIDCCArticle.do?cidTexte=KALITEXT000005687683&idArticle=KALIARTI000005871385&categorieLien=cid'>l'article 21 bis </a>de la convention collective est désormais rédigé comme suit : <br/>« Il est institué un régime minimum obligatoire de prévoyance au plan national généralisé à l'ensemble du personnel exerçant une activité salariée dans les entreprises entrant dans le champ d'application de la convention collective nationale des remontées mécaniques et domaines skiables et inscrits à l'effectif le jour de la mise en œuvre du régime de prévoyance. »</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Ayants droit",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000033193353",
-                    "textTitle": "Arrêté du 29 septembre 2016 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000033193357",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2016-10-06",
-                    "dateSignaTexte": "2016-09-29",
-                    "dateDebutCible": "2999-01-01"
-                  },
-                  {
-                    "textCid": "KALITEXT000005687683",
-                    "textTitle": "Convention collective nationale du 15 mai 1968 - art. 21 bis (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "source",
-                    "articleNum": "21 bis",
-                    "articleId": "KALIARTI000029609667",
-                    "natureText": "Convention collective nationale ",
-                    "datePubliTexte": "2999-01-01",
-                    "dateSignaTexte": "1968-05-15",
-                    "dateDebutCible": "2014-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000029563267",
-                "num": "2",
-                "intOrdre": 1572861,
-                "id": "KALIARTI000029563267",
-                "content": "<p align='left'><br/>Le paragraphe I. 3 « Montant du capital » de l'article 21 bis de la convention collective est remplacé par : <br/>« Salarié célibataire, veuf, divorcé sans enfant à charge, quelle que soit la cause du décès : 100 % du salaire de référence, tel qu'il est défini au paragraphe V. <br/>Salarié avec enfant à charge ou salarié marié avec ou sans enfant à charge, quelle que soit la cause du décès : 125 % du salaire de référence, tel qu'il est défini au paragraphe V. »</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Capital de la garantie décès",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000033193353",
-                    "textTitle": "Arrêté du 29 septembre 2016 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000033193357",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2016-10-06",
-                    "dateSignaTexte": "2016-09-29",
-                    "dateDebutCible": "2999-01-01"
-                  },
-                  {
-                    "textCid": "KALITEXT000005687683",
-                    "textTitle": "Convention collective nationale du 15 mai 1968 - art. 21 bis (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "source",
-                    "articleNum": "21 bis",
-                    "articleId": "KALIARTI000029609667",
-                    "natureText": "Convention collective nationale ",
-                    "datePubliTexte": "2999-01-01",
-                    "dateSignaTexte": "1968-05-15",
-                    "dateDebutCible": "2014-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000029563269",
-                "num": "3",
-                "intOrdre": 2097148,
-                "id": "KALIARTI000029563269",
-                "content": "<p align='left'>Un paragraphe XII intitulé « Garanties incapacité temporaire-invalidité. – Assureur GNP » est créé à l'article 21 bis de la convention collective. Il est rédigé comme suit : </p><p align='center'>« XII. 1. Bénéficiaires </p><p align='left'>Les bénéficiaires des garanties incapacité temporaire-invalidité sont l'ensemble des salariés non affiliés à l'AGIRC. </p><p align='center'>XII. 1.1. Incapacité temporaire <br/>Définition de la garantie </p><p align='left'>En cas d'arrêt de travail pris en charge par la sécurité sociale et consécutif à une maladie ou un accident, quelle qu'en soit l'origine, l'organisme assureur verse des indemnités journalières complémentaires à celles servies par cet organisme. </p><p align='center'>XII. 1.2. Point de départ de la prestation </p><p align='left'>La garantie incapacité temporaire de travail intervient après application d'une franchise fixe et continue de 120 jours pour chaque arrêt de travail pour les salariés, et ce sans condition d'ancienneté. </p><p align='center'>XII. 1.3. Montant des prestations </p><p align='left'>Le montant des indemnités journalières complémentaires correspond à la différence entre 80 % du salaire brut de référence et le montant des indemnités journalières brutes servies par la sécurité sociale cumulées à l'éventuel salaire brut à temps partiel. <br/>En tout état de cause, les prestations versées au titre du régime de prévoyance cumulées à celles versées par la sécurité sociale et l'éventuel salaire à temps partiel ne peuvent conduire le salarié à percevoir plus que le salaire net après prélèvement des cotisations sociales qu'il aurait perçu s'il avait continué de travailler. <br/>Pour les anciens salariés bénéficiant du maintien des garanties de prévoyance après la rupture du contrat de travail, les indemnités journalières servies par l'organisme assureur cumulées aux indemnités journalières de sécurité sociale sont limitées au montant des allocations pour perte d'emploi que perçoit l'intéressé. </p><p align='center'>XII. 1.4. Cessation du versement des prestations </p><p align='left'>Les prestations cessent d'être versées : <br/>– lorsque le salarié ne perçoit plus les indemnités journalières de sécurité sociale ; <br/>– dès la reprise du travail ; <br/>– au 1 095e jour d'indemnisation ; <br/>– et, au plus tard, à la date de liquidation de la pension de vieillesse (hormis le cas des salariés en situation de cumul emploi-retraite). </p><p align='center'>XII. 2. Invalidité <br/>XII. 2.1. Définition de la garantie </p><p align='left'>Lorsque le salarié est classé par la sécurité sociale dans l'une des catégories d'invalides définies à l'article L. 341-4 (1) du code de la sécurité sociale, ou lorsque l'invalidité résulte d'un accident du travail ou d'une maladie professionnelle entraînant un taux d'incapacité permanente partielle (IPP taux compris supérieur ou égal à 33 %), il est versé au salarié une rente complémentaire à celle servie par la sécurité sociale. </p><p align='center'>XII. 2.2. Point de départ de la prestation </p><p align='left'>La prestation est versée dès la notification au salarié par la sécurité sociale soit de son classement dans l'une des catégories d'invalidité mentionnées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006742597&dateTexte=&categorieLien=cid'>article L. 341-4 du code de la sécurité sociale</a>, soit d'un taux d'incapacité permanente partielle. Cette notification doit intervenir avant la fin de la période de maintien des garanties de prévoyance pour les anciens salariés bénéficiant de la portabilité des droits et/ ou de la cessation de leurs droits au maintien des garanties dans les cas prévus au paragraphe VIII de l'article 21 bis de la présente convention collective. </p><p align='center'>XII. 2.3. Montant de la prestation </p><p align='left'>Invalidité de 2e, 3e catégorie ou incapacité permanente supérieure ou égale à 66 % : <br/>Le salarié classé par la sécurité sociale en invalidité de 2e ou de 3e catégorie ou bien bénéficiant d'une rente versée par la sécurité sociale au titre d'un accident du travail ou maladie professionnelle ayant entraîné un taux d'incapacité d'au moins 66 % reçoit une rente complémentaire. Le montant de cette dernière correspond à la différence comprise entre 75 % du salaire brut de référence et le montant des prestations brutes servies par la sécurité sociale, cumulé à l'éventuel salaire brut à temps partiel. <br/>Pour les anciens salariés bénéficiant du maintien des garanties de prévoyance au titre de la portabilité des droits, le cumul de la rente de sécurité sociale et de la rente complémentaire versée par l'organisme assureur est limité au montant des allocations pour perte d'emploi que perçoit l'intéressé. <br/>Invalidité de 1re catégorie ou incapacité permanente et partielle comprise entre 33 et 66 % : <br/>Le salarié classé par la sécurité sociale en invalidité de 1re catégorie ou bénéficiant d'une rente pour accident du travail ou maladie professionnelle ayant entraîné un taux d'incapacité compris entre 33 % et inférieure à 66 % reçoit une rente complémentaire à celle servie par la sécurité sociale. Le montant de cette rente correspond à la différence entre 45 % du salaire brut de référence et le montant des prestations brutes servies par la sécurité sociale, cumulé à l'éventuel salaire brut à temps partiel. <br/>Pour les anciens salariés bénéficiant du maintien des garanties de prévoyance au titre de la portabilité des droits, le cumul de la rente de sécurité sociale et de la rente complémentaire versée par l'organisme assureur est limité au montant des allocations pour perte d'emploi que perçoit l'intéressé. </p><p align='center'>XII. 2.4. Cessation du versement de la prestation </p><p align='left'>La rente complémentaire cesse d'être versée : <br/>– lorsque le salarié ne perçoit plus la rente de sécurité sociale ; <br/>– lors de la substitution de la rente de sécurité sociale au titre de l'invalidité par une pension de vieillesse pour inaptitude au travail ; <br/>– et, au plus tard, à la date de liquidation de la pension de vieillesse de l'intéressé. <br/>En tout état de cause, la rente versée par l'organisme assureur du régime de prévoyance cumulée à celle servie par la sécurité sociale et l'éventuel salaire à temps partiel ne peuvent conduire l'intéressé à percevoir une rémunération nette supérieure à celle qu'il aurait perçue s'il avait poursuivi son activité. </p><p align='center'>XII. 2.5. Salaire de référence des garanties incapacité temporaire, invalidité, incapacité permanente </p><p align='left'>Pour le personnel permanent, le salaire de référence servant de base au calcul de la prestation est égal au salaire brut tranches A, B perçu au cours des 12 mois précédant l'arrêt de travail, le décès ou l'événement ayant donné lieu à l'invalidité absolue et définitive. <br/>Pour le personnel saisonnier, le salaire de référence servant de base au calcul de la prestation est égal au total des rémunérations brutes perçues par le salarié durant son (ou ses) contrat (s) de travail. La période de référence à prendre en compte est celle des 12 mois précédant l'arrêt de travail, le décès ou l'événement ayant donné lieu à l'invalidité absolue et définitive, et ce dans la (ou les) entreprise (s) de la branche professionnelle. <br/>Pour les bénéficiaires du maintien des garanties au titre de la portabilité, le salaire brut servant de base au calcul des prestations est celui du mois précédant la rupture du contrat de travail, à l'exception de toutes sommes versées en raison de la rupture dudit contrat (indemnités de licenciement, de congés payés, de préavis …) et dans les mêmes conditions que ci-dessus. Par ailleurs, le montant des prestations versées par l'organisme assureur cumulées à celles versées par la sécurité sociale sera plafonné au montant des allocations pour perte d'emploi que perçoit l'intéressé. » </p><font color='#808080' size='1'><em>(1) En vue de la détermination du montant de la pension, les invalides sont classés comme suit   : <br/>1° Invalides capables d'exercer une activité rémunérée   ; <br/>2° Invalides absolument incapables d'exercer une profession quelconque   ; <br/>3° Invalides qui, étant absolument incapables d'exercer une profession, sont, en outre, dans l'obligation d'avoir recours à l'assistance d'une tierce personne pour effectuer les actes ordinaires de la vie.<br/></em></font>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Garanties incapacité temporaire-invalidité",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000033193353",
-                    "textTitle": "Arrêté du 29 septembre 2016 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000033193357",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2016-10-06",
-                    "dateSignaTexte": "2016-09-29",
-                    "dateDebutCible": "2999-01-01"
-                  },
-                  {
-                    "textCid": "KALITEXT000005687683",
-                    "textTitle": "Convention collective nationale du 15 mai 1968 - art. 21 bis (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "source",
-                    "articleNum": "21 bis",
-                    "articleId": "KALIARTI000029609667",
-                    "natureText": "Convention collective nationale ",
-                    "datePubliTexte": "2999-01-01",
-                    "dateSignaTexte": "1968-05-15",
-                    "dateDebutCible": "2014-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000029563273",
-                "num": "4",
-                "intOrdre": 2621435,
-                "id": "KALIARTI000029563273",
-                "content": "<p align='left'><br/>Le paragraphe VII « Cotisations » de l'article 21 bis de la convention collective est remplacé par : </p><p align='center'><br/>Ensemble des salariés affiliés à l'AGIRC </p><p align='right'><br/>(En pourcentage.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>Garantie </th><th colspan='2'>Taux de cotisation </th></tr><tr><td><br/></td><td align='center'>TA </td><td align='center'>TB </td><td align='center'>TC </td></tr><tr><td align='center'>Décès (assuré par le GNP) <br/>Rente éducation ou rente de conjoint (assuré par l'OCIRP) </td><td align='center'>0,24 </td><td align='center'>0,24 </td><td align='center'>0,13 </td></tr><tr><td align='center'>Cotisation totale </td><td align='center'>0,24 </td><td align='center'>0,24 </td><td align='center'>0,13 </td></tr></table></center></div></p><p align='center'><br/>Ensemble des salariés non affiliés à l'AGIRC </p><p align='right'><br/>(En pourcentage.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>Garantie </th><th colspan='2'>Taux de cotisation </th></tr><tr><td><br/></td><td align='center'>TA </td><td align='center'>TB </td></tr><tr><td align='center'>Décès, incapacité, invalidité <br/>Rente éducation ou rente de conjoint </td><td align='center'>0,75 </td><td align='center'>0,75 </td></tr><tr><td align='center'>Cotisation totale </td><td align='center'>0,75 </td><td align='center'>0,75 </td></tr></table></center></div></p><p align='left'><br/>Les taux de cotisation mentionnés ci-dessus sont répartis à hauteur de 50 % à la charge de l'employeur et de 50 % à la charge du salarié.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Cotisations",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000033193353",
-                    "textTitle": "Arrêté du 29 septembre 2016 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000033193357",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2016-10-06",
-                    "dateSignaTexte": "2016-09-29",
-                    "dateDebutCible": "2999-01-01"
-                  },
-                  {
-                    "textCid": "KALITEXT000005687683",
-                    "textTitle": "Convention collective nationale du 15 mai 1968 - art. 21 bis (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "source",
-                    "articleNum": "21 bis",
-                    "articleId": "KALIARTI000029609667",
-                    "natureText": "Convention collective nationale ",
-                    "datePubliTexte": "2999-01-01",
-                    "dateSignaTexte": "1968-05-15",
-                    "dateDebutCible": "2014-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000029563275",
-                "num": "5",
-                "intOrdre": 3145722,
-                "id": "KALIARTI000029563275",
-                "content": "<p align='left'><br/>La date d'effet du présent avenant est fixée au 1er janvier 2014.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Date d'effet",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000033193353",
-                    "textTitle": "Arrêté du 29 septembre 2016 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000033193357",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2016-10-06",
-                    "dateSignaTexte": "2016-09-29",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000029563276",
-                "num": "6",
-                "intOrdre": 3670009,
-                "id": "KALIARTI000029563276",
-                "content": "<p align='left'><br/>Le présent avenant sera diffusé à l'ensemble des partenaires sociaux représentés dans la profession au jour de sa signature.<br/>Il sera également diffusé aux entreprises adhérentes de Domaines skiables de France.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Diffusion",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000033193353",
-                    "textTitle": "Arrêté du 29 septembre 2016 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000033193357",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2016-10-06",
-                    "dateSignaTexte": "2016-09-29",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000029563277",
-                "num": "7",
-                "intOrdre": 4194296,
-                "id": "KALIARTI000029563277",
-                "content": "<p align='left'><br/>Le présent avenant sera déposé à la direction des relations du travail, auprès des services centraux du ministre chargé du travail.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Dépôt",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000033193353",
-                    "textTitle": "Arrêté du 29 septembre 2016 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000033193357",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2016-10-06",
-                    "dateSignaTexte": "2016-09-29",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000029563278",
-                "num": "8",
-                "intOrdre": 4718583,
-                "id": "KALIARTI000029563278",
-                "content": "<p align='left'><br/>Les dispositions susvisées seront également soumises à la procédure d'extension prévue par le code du travail.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Extension",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000033193353",
-                    "textTitle": "Arrêté du 29 septembre 2016 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000033193357",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2016-10-06",
-                    "dateSignaTexte": "2016-09-29",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
             "cid": "KALITEXT000029435504",
             "title": "Avenant n° 61 du 27 novembre 2013 relatif au contrat de génération",
             "id": "KALITEXT000029435504",
@@ -14883,6 +14579,310 @@
                 "num": "10",
                 "intOrdre": 9437166,
                 "id": "KALIARTI000029435529",
+                "content": "<p align='left'><br/>Les dispositions susvisées seront également soumises à la procédure d'extension prévue par le code du travail.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Extension",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000033193353",
+                    "textTitle": "Arrêté du 29 septembre 2016 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000033193357",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2016-10-06",
+                    "dateSignaTexte": "2016-09-29",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000029563261",
+            "title": "Avenant n° 60 du 27 novembre 2013 portant modification de l'article 21 bis relatif à la prévoyance",
+            "id": "KALITEXT000029563261",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2014-01-01"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000029563264",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000029563264",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000029563280",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000029563280",
+                    "content": "<p align='left'><br/>Le présent avenant a pour objet d'intégrer à l'article 21 bis relatif au régime de prévoyance les évolutions législatives et réglementaires récentes, dont notamment la <a href='/affichTexte.do?cidTexte=JORFTEXT000027546648&categorieLien=cid'>loi n° 2013-504 du 14 juin 2013</a> relative à la sécurisation de l'emploi, le <a href='/affichTexte.do?cidTexte=JORFTEXT000025129853&categorieLien=cid'>décret n° 2012-25 du 9 janvier 2012</a> relatif au caractère collectif et obligatoire des garanties de protection sociale complémentaire, complété par la circulaire DSS/SD5B/2013/344 du 25 septembre 2013.<br/>En responsabilité, les partenaires sociaux décident de modifier et de mettre à jour comme suit les termes de l'article 21 bis de la convention collective nationale des remontées mécaniques et domaines skiables du 15 mai 1968 étendue par arrêté du 3 février 1971.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000033193353",
+                        "textTitle": "Arrêté du 29 septembre 2016 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000033193357",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2016-10-06",
+                        "dateSignaTexte": "2016-09-29",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000029563265",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000029563265",
+                "content": "<p align='left'><br/>Le premier paragraphe de <a href='/affichIDCCArticle.do?cidTexte=KALITEXT000005687683&idArticle=KALIARTI000005871385&categorieLien=cid'>l'article 21 bis </a>de la convention collective est désormais rédigé comme suit : <br/>« Il est institué un régime minimum obligatoire de prévoyance au plan national généralisé à l'ensemble du personnel exerçant une activité salariée dans les entreprises entrant dans le champ d'application de la convention collective nationale des remontées mécaniques et domaines skiables et inscrits à l'effectif le jour de la mise en œuvre du régime de prévoyance. »</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Ayants droit",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000033193353",
+                    "textTitle": "Arrêté du 29 septembre 2016 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000033193357",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2016-10-06",
+                    "dateSignaTexte": "2016-09-29",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000005687683",
+                    "textTitle": "Convention collective nationale du 15 mai 1968 - art. 21 bis (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "21 bis",
+                    "articleId": "KALIARTI000029609667",
+                    "natureText": "Convention collective nationale ",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "1968-05-15",
+                    "dateDebutCible": "2014-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000029563267",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000029563267",
+                "content": "<p align='left'><br/>Le paragraphe I. 3 « Montant du capital » de l'article 21 bis de la convention collective est remplacé par : <br/>« Salarié célibataire, veuf, divorcé sans enfant à charge, quelle que soit la cause du décès : 100 % du salaire de référence, tel qu'il est défini au paragraphe V. <br/>Salarié avec enfant à charge ou salarié marié avec ou sans enfant à charge, quelle que soit la cause du décès : 125 % du salaire de référence, tel qu'il est défini au paragraphe V. »</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Capital de la garantie décès",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000033193353",
+                    "textTitle": "Arrêté du 29 septembre 2016 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000033193357",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2016-10-06",
+                    "dateSignaTexte": "2016-09-29",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000005687683",
+                    "textTitle": "Convention collective nationale du 15 mai 1968 - art. 21 bis (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "21 bis",
+                    "articleId": "KALIARTI000029609667",
+                    "natureText": "Convention collective nationale ",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "1968-05-15",
+                    "dateDebutCible": "2014-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000029563269",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000029563269",
+                "content": "<p align='left'>Un paragraphe XII intitulé « Garanties incapacité temporaire-invalidité. – Assureur GNP » est créé à l'article 21 bis de la convention collective. Il est rédigé comme suit : </p><p align='center'>« XII. 1. Bénéficiaires </p><p align='left'>Les bénéficiaires des garanties incapacité temporaire-invalidité sont l'ensemble des salariés non affiliés à l'AGIRC. </p><p align='center'>XII. 1.1. Incapacité temporaire <br/>Définition de la garantie </p><p align='left'>En cas d'arrêt de travail pris en charge par la sécurité sociale et consécutif à une maladie ou un accident, quelle qu'en soit l'origine, l'organisme assureur verse des indemnités journalières complémentaires à celles servies par cet organisme. </p><p align='center'>XII. 1.2. Point de départ de la prestation </p><p align='left'>La garantie incapacité temporaire de travail intervient après application d'une franchise fixe et continue de 120 jours pour chaque arrêt de travail pour les salariés, et ce sans condition d'ancienneté. </p><p align='center'>XII. 1.3. Montant des prestations </p><p align='left'>Le montant des indemnités journalières complémentaires correspond à la différence entre 80 % du salaire brut de référence et le montant des indemnités journalières brutes servies par la sécurité sociale cumulées à l'éventuel salaire brut à temps partiel. <br/>En tout état de cause, les prestations versées au titre du régime de prévoyance cumulées à celles versées par la sécurité sociale et l'éventuel salaire à temps partiel ne peuvent conduire le salarié à percevoir plus que le salaire net après prélèvement des cotisations sociales qu'il aurait perçu s'il avait continué de travailler. <br/>Pour les anciens salariés bénéficiant du maintien des garanties de prévoyance après la rupture du contrat de travail, les indemnités journalières servies par l'organisme assureur cumulées aux indemnités journalières de sécurité sociale sont limitées au montant des allocations pour perte d'emploi que perçoit l'intéressé. </p><p align='center'>XII. 1.4. Cessation du versement des prestations </p><p align='left'>Les prestations cessent d'être versées : <br/>– lorsque le salarié ne perçoit plus les indemnités journalières de sécurité sociale ; <br/>– dès la reprise du travail ; <br/>– au 1 095e jour d'indemnisation ; <br/>– et, au plus tard, à la date de liquidation de la pension de vieillesse (hormis le cas des salariés en situation de cumul emploi-retraite). </p><p align='center'>XII. 2. Invalidité <br/>XII. 2.1. Définition de la garantie </p><p align='left'>Lorsque le salarié est classé par la sécurité sociale dans l'une des catégories d'invalides définies à l'article L. 341-4 (1) du code de la sécurité sociale, ou lorsque l'invalidité résulte d'un accident du travail ou d'une maladie professionnelle entraînant un taux d'incapacité permanente partielle (IPP taux compris supérieur ou égal à 33 %), il est versé au salarié une rente complémentaire à celle servie par la sécurité sociale. </p><p align='center'>XII. 2.2. Point de départ de la prestation </p><p align='left'>La prestation est versée dès la notification au salarié par la sécurité sociale soit de son classement dans l'une des catégories d'invalidité mentionnées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006742597&dateTexte=&categorieLien=cid'>article L. 341-4 du code de la sécurité sociale</a>, soit d'un taux d'incapacité permanente partielle. Cette notification doit intervenir avant la fin de la période de maintien des garanties de prévoyance pour les anciens salariés bénéficiant de la portabilité des droits et/ ou de la cessation de leurs droits au maintien des garanties dans les cas prévus au paragraphe VIII de l'article 21 bis de la présente convention collective. </p><p align='center'>XII. 2.3. Montant de la prestation </p><p align='left'>Invalidité de 2e, 3e catégorie ou incapacité permanente supérieure ou égale à 66 % : <br/>Le salarié classé par la sécurité sociale en invalidité de 2e ou de 3e catégorie ou bien bénéficiant d'une rente versée par la sécurité sociale au titre d'un accident du travail ou maladie professionnelle ayant entraîné un taux d'incapacité d'au moins 66 % reçoit une rente complémentaire. Le montant de cette dernière correspond à la différence comprise entre 75 % du salaire brut de référence et le montant des prestations brutes servies par la sécurité sociale, cumulé à l'éventuel salaire brut à temps partiel. <br/>Pour les anciens salariés bénéficiant du maintien des garanties de prévoyance au titre de la portabilité des droits, le cumul de la rente de sécurité sociale et de la rente complémentaire versée par l'organisme assureur est limité au montant des allocations pour perte d'emploi que perçoit l'intéressé. <br/>Invalidité de 1re catégorie ou incapacité permanente et partielle comprise entre 33 et 66 % : <br/>Le salarié classé par la sécurité sociale en invalidité de 1re catégorie ou bénéficiant d'une rente pour accident du travail ou maladie professionnelle ayant entraîné un taux d'incapacité compris entre 33 % et inférieure à 66 % reçoit une rente complémentaire à celle servie par la sécurité sociale. Le montant de cette rente correspond à la différence entre 45 % du salaire brut de référence et le montant des prestations brutes servies par la sécurité sociale, cumulé à l'éventuel salaire brut à temps partiel. <br/>Pour les anciens salariés bénéficiant du maintien des garanties de prévoyance au titre de la portabilité des droits, le cumul de la rente de sécurité sociale et de la rente complémentaire versée par l'organisme assureur est limité au montant des allocations pour perte d'emploi que perçoit l'intéressé. </p><p align='center'>XII. 2.4. Cessation du versement de la prestation </p><p align='left'>La rente complémentaire cesse d'être versée : <br/>– lorsque le salarié ne perçoit plus la rente de sécurité sociale ; <br/>– lors de la substitution de la rente de sécurité sociale au titre de l'invalidité par une pension de vieillesse pour inaptitude au travail ; <br/>– et, au plus tard, à la date de liquidation de la pension de vieillesse de l'intéressé. <br/>En tout état de cause, la rente versée par l'organisme assureur du régime de prévoyance cumulée à celle servie par la sécurité sociale et l'éventuel salaire à temps partiel ne peuvent conduire l'intéressé à percevoir une rémunération nette supérieure à celle qu'il aurait perçue s'il avait poursuivi son activité. </p><p align='center'>XII. 2.5. Salaire de référence des garanties incapacité temporaire, invalidité, incapacité permanente </p><p align='left'>Pour le personnel permanent, le salaire de référence servant de base au calcul de la prestation est égal au salaire brut tranches A, B perçu au cours des 12 mois précédant l'arrêt de travail, le décès ou l'événement ayant donné lieu à l'invalidité absolue et définitive. <br/>Pour le personnel saisonnier, le salaire de référence servant de base au calcul de la prestation est égal au total des rémunérations brutes perçues par le salarié durant son (ou ses) contrat (s) de travail. La période de référence à prendre en compte est celle des 12 mois précédant l'arrêt de travail, le décès ou l'événement ayant donné lieu à l'invalidité absolue et définitive, et ce dans la (ou les) entreprise (s) de la branche professionnelle. <br/>Pour les bénéficiaires du maintien des garanties au titre de la portabilité, le salaire brut servant de base au calcul des prestations est celui du mois précédant la rupture du contrat de travail, à l'exception de toutes sommes versées en raison de la rupture dudit contrat (indemnités de licenciement, de congés payés, de préavis …) et dans les mêmes conditions que ci-dessus. Par ailleurs, le montant des prestations versées par l'organisme assureur cumulées à celles versées par la sécurité sociale sera plafonné au montant des allocations pour perte d'emploi que perçoit l'intéressé. » </p><font color='#808080' size='1'><em>(1) En vue de la détermination du montant de la pension, les invalides sont classés comme suit   : <br/>1° Invalides capables d'exercer une activité rémunérée   ; <br/>2° Invalides absolument incapables d'exercer une profession quelconque   ; <br/>3° Invalides qui, étant absolument incapables d'exercer une profession, sont, en outre, dans l'obligation d'avoir recours à l'assistance d'une tierce personne pour effectuer les actes ordinaires de la vie.<br/></em></font>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Garanties incapacité temporaire-invalidité",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000033193353",
+                    "textTitle": "Arrêté du 29 septembre 2016 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000033193357",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2016-10-06",
+                    "dateSignaTexte": "2016-09-29",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000005687683",
+                    "textTitle": "Convention collective nationale du 15 mai 1968 - art. 21 bis (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "21 bis",
+                    "articleId": "KALIARTI000029609667",
+                    "natureText": "Convention collective nationale ",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "1968-05-15",
+                    "dateDebutCible": "2014-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000029563273",
+                "num": "4",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000029563273",
+                "content": "<p align='left'><br/>Le paragraphe VII « Cotisations » de l'article 21 bis de la convention collective est remplacé par : </p><p align='center'><br/>Ensemble des salariés affiliés à l'AGIRC </p><p align='right'><br/>(En pourcentage.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>Garantie </th><th colspan='2'>Taux de cotisation </th></tr><tr><td><br/></td><td align='center'>TA </td><td align='center'>TB </td><td align='center'>TC </td></tr><tr><td align='center'>Décès (assuré par le GNP) <br/>Rente éducation ou rente de conjoint (assuré par l'OCIRP) </td><td align='center'>0,24 </td><td align='center'>0,24 </td><td align='center'>0,13 </td></tr><tr><td align='center'>Cotisation totale </td><td align='center'>0,24 </td><td align='center'>0,24 </td><td align='center'>0,13 </td></tr></table></center></div></p><p align='center'><br/>Ensemble des salariés non affiliés à l'AGIRC </p><p align='right'><br/>(En pourcentage.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>Garantie </th><th colspan='2'>Taux de cotisation </th></tr><tr><td><br/></td><td align='center'>TA </td><td align='center'>TB </td></tr><tr><td align='center'>Décès, incapacité, invalidité <br/>Rente éducation ou rente de conjoint </td><td align='center'>0,75 </td><td align='center'>0,75 </td></tr><tr><td align='center'>Cotisation totale </td><td align='center'>0,75 </td><td align='center'>0,75 </td></tr></table></center></div></p><p align='left'><br/>Les taux de cotisation mentionnés ci-dessus sont répartis à hauteur de 50 % à la charge de l'employeur et de 50 % à la charge du salarié.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Cotisations",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000033193353",
+                    "textTitle": "Arrêté du 29 septembre 2016 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000033193357",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2016-10-06",
+                    "dateSignaTexte": "2016-09-29",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000005687683",
+                    "textTitle": "Convention collective nationale du 15 mai 1968 - art. 21 bis (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "21 bis",
+                    "articleId": "KALIARTI000029609667",
+                    "natureText": "Convention collective nationale ",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "1968-05-15",
+                    "dateDebutCible": "2014-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000029563275",
+                "num": "5",
+                "intOrdre": 3145722,
+                "id": "KALIARTI000029563275",
+                "content": "<p align='left'><br/>La date d'effet du présent avenant est fixée au 1er janvier 2014.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Date d'effet",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000033193353",
+                    "textTitle": "Arrêté du 29 septembre 2016 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000033193357",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2016-10-06",
+                    "dateSignaTexte": "2016-09-29",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000029563276",
+                "num": "6",
+                "intOrdre": 3670009,
+                "id": "KALIARTI000029563276",
+                "content": "<p align='left'><br/>Le présent avenant sera diffusé à l'ensemble des partenaires sociaux représentés dans la profession au jour de sa signature.<br/>Il sera également diffusé aux entreprises adhérentes de Domaines skiables de France.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Diffusion",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000033193353",
+                    "textTitle": "Arrêté du 29 septembre 2016 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000033193357",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2016-10-06",
+                    "dateSignaTexte": "2016-09-29",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000029563277",
+                "num": "7",
+                "intOrdre": 4194296,
+                "id": "KALIARTI000029563277",
+                "content": "<p align='left'><br/>Le présent avenant sera déposé à la direction des relations du travail, auprès des services centraux du ministre chargé du travail.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Dépôt",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000033193353",
+                    "textTitle": "Arrêté du 29 septembre 2016 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000033193357",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2016-10-06",
+                    "dateSignaTexte": "2016-09-29",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000029563278",
+                "num": "8",
+                "intOrdre": 4718583,
+                "id": "KALIARTI000029563278",
                 "content": "<p align='left'><br/>Les dispositions susvisées seront également soumises à la procédure d'extension prévue par le code du travail.</p>",
                 "etat": "VIGUEUR_ETEN",
                 "surtitre": "Extension",
@@ -19918,178 +19918,6 @@
         {
           "type": "section",
           "data": {
-            "cid": "KALITEXT000018193088",
-            "title": "Avenant n° 69 du 25 juin 2007 à l'annexe III relatif aux rémunérations à compter du 1er juin 2007",
-            "id": "KALITEXT000018193088",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "2007-06-25"
-          },
-          "children": [
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000018193091",
-                "intOrdre": 524287,
-                "title": "Préambule",
-                "id": "KALISCTA000018193091",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000018193098",
-                    "intOrdre": 524287,
-                    "id": "KALIARTI000018193098",
-                    "content": "<p align='left'><br/> Le présent avenant définit les grilles des rémunérations minimales conventionnelles applicables au 1er juin 2007 :<br/> ― les grilles des coefficients ;<br/> ― la grille des niveaux de rémunération.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000017650069",
-                        "textTitle": "Arrêté du 7 décembre 2007, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "",
-                        "articleId": "JORFTEXT000017650069",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2007-12-15",
-                        "dateSignaTexte": "2007-12-07",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000018193092",
-                "num": "1",
-                "intOrdre": 1048574,
-                "id": "KALIARTI000018193092",
-                "content": "<p align='left'><br/> Au 1er juin 2007, les grilles des salaires mensuels minimaux professionnels garantis (en euros), pour 151,67 heures sont revalorisées de + 1 %, cette revalorisation étant linéaire du coefficient 185 au coefficient 275 inclus.<br/> Ces revalorisations au 1er juin 2007 s'appliquent sur les grilles des salaires mensuels minimaux professionnels garantis, du 1er décembre 2006.<br/> Ces revalorisations s'appliquent uniquement sur les minima conventionnels nationaux garantis.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000017650069",
-                    "textTitle": "Arrêté du 7 décembre 2007, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "JORFTEXT000017650069",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2007-12-15",
-                    "dateSignaTexte": "2007-12-07",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000018193093",
-                "num": "2",
-                "intOrdre": 1572861,
-                "id": "KALIARTI000018193093",
-                "content": "<p align='left'><br/> Au 1er juin 2007, les grilles des salaires horaires minimaux professionnels garantis (en euros) sont revalorisées de + 1 %, cette revalorisation étant linéaire du niveau de rémunération 222 au niveau de rémunération 279 inclus.<br/> Ces revalorisations au 1er juin 2007 s'appliquent sur les grilles des salaires horaires minimaux professionnels garantis, du 1er décembre 2006.<br/> Ces revalorisations s'appliquent uniquement sur les minima conventionnels nationaux garantis.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000017650069",
-                    "textTitle": "Arrêté du 7 décembre 2007, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "JORFTEXT000017650069",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2007-12-15",
-                    "dateSignaTexte": "2007-12-07",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000018193094",
-                "num": "3",
-                "intOrdre": 2097148,
-                "id": "KALIARTI000018193094",
-                "content": "<p align='left'><br/> Le présent avenant sera déposé à la direction des relations du travail, auprès des services centraux du ministre chargé du travail.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000017650069",
-                    "textTitle": "Arrêté du 7 décembre 2007, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "JORFTEXT000017650069",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2007-12-15",
-                    "dateSignaTexte": "2007-12-07",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000018193095",
-                "num": "4",
-                "intOrdre": 2621435,
-                "id": "KALIARTI000018193095",
-                "content": "<p align='left'><br/> Les dispositions susvisées seront également soumises à la procédure d'extension prévue par le code du travail.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000017650069",
-                    "textTitle": "Arrêté du 7 décembre 2007, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "JORFTEXT000017650069",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2007-12-15",
-                    "dateSignaTexte": "2007-12-07",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000018193097",
-                "intOrdre": 3145722,
-                "id": "KALIARTI000018193097",
-                "content": "<p>Salaires mensuels minimaux garantis au 1er juin 2007<br/>(Annexe III, art.7)</p><p>Base : 151,67 heures.</p><p>1. Salariés permanents</p><p>Tableau non reproduit - voir BO conventions collectives 2007-40</p><p>2. Salariés saisonniers</p><p>Tableau non reproduit - voir BO conventions collectives 2007-40</p><p>Salaires horaires minimaux professionnels garantis au 1er juin 2007</p><p>(En euros.) </p><p></p><div align='center'><center><table border='1'><tbody><tr><th>NIVEAU<br/>de rémunération</th><th>TAUX HORAIRE</th></tr><tr><td align='center'>409</td><td align='center'>25,4353</td></tr><tr><td align='center'>408</td><td align='center'>25,3530</td></tr><tr><td align='center'>407</td><td align='center'>25,2707</td></tr><tr><td align='center'>406</td><td align='center'>25,1884</td></tr><tr><td align='center'>405</td><td align='center'>25,1061</td></tr><tr><td align='center'>404</td><td align='center'>25,0238</td></tr><tr><td align='center'>403</td><td align='center'>24,9414</td></tr><tr><td align='center'>402</td><td align='center'>24,8591</td></tr><tr><td align='center'>401</td><td align='center'>24,7768</td></tr><tr><td align='center'>400</td><td align='center'>24,6945</td></tr><tr><td align='center'>399</td><td align='center'>24,6132</td></tr><tr><td align='center'>398</td><td align='center'>24,5319</td></tr><tr><td align='center'>397</td><td align='center'>24,4506</td></tr><tr><td align='center'>396</td><td align='center'>24,3693</td></tr><tr><td align='center'>395</td><td align='center'>24,2879</td></tr><tr><td align='center'>394</td><td align='center'>24,2066</td></tr><tr><td align='center'>393</td><td align='center'>24,1253</td></tr><tr><td align='center'>392</td><td align='center'>24,0439</td></tr><tr><td align='center'>391</td><td align='center'>23,9626</td></tr><tr><td align='center'>390</td><td align='center'>23,8812</td></tr><tr><td align='center'>389</td><td align='center'>23,7998</td></tr><tr><td align='center'>388</td><td align='center'>23,7185</td></tr><tr><td align='center'>387</td><td align='center'>23,6371</td></tr><tr><td align='center'>386</td><td align='center'>23,5557</td></tr><tr><td align='center'>385</td><td align='center'>23,4743</td></tr><tr><td align='center'>384</td><td align='center'>23,3929</td></tr><tr><td align='center'>383</td><td align='center'>23,3115</td></tr><tr><td align='center'>382</td><td align='center'>23,2301</td></tr><tr><td align='center'>381</td><td align='center'>23,1487</td></tr><tr><td align='center'>380</td><td align='center'>23,0672</td></tr><tr><td align='center'>379</td><td align='center'>22,9858</td></tr><tr><td align='center'>378</td><td align='center'>22,9044</td></tr><tr><td align='center'>377</td><td align='center'>22,8229</td></tr><tr><td align='center'>376</td><td align='center'>22,7415</td></tr><tr><td align='center'>375</td><td align='center'>22,6600</td></tr><tr><td align='center'>374</td><td align='center'>22,5785</td></tr><tr><td align='center'>373</td><td align='center'>22,4971</td></tr><tr><td align='center'>372</td><td align='center'>22,4156</td></tr><tr><td align='center'>371</td><td align='center'>22,3341</td></tr><tr><td align='center'>370</td><td align='center'>22,2526</td></tr><tr><td align='center'>369</td><td align='center'>22,1711</td></tr><tr><td align='center'>368</td><td align='center'>22,0896</td></tr><tr><td align='center'>367</td><td align='center'>22,0081</td></tr><tr><td align='center'>366</td><td align='center'>21,9266</td></tr><tr><td align='center'>365</td><td align='center'>21,8450</td></tr><tr><td align='center'>364</td><td align='center'>21,7635</td></tr><tr><td align='center'>363</td><td align='center'>21,6819</td></tr><tr><td align='center'>362</td><td align='center'>21,6004</td></tr><tr><td align='center'>361</td><td align='center'>21,5188</td></tr><tr><td align='center'>360</td><td align='center'>21,4373</td></tr><tr><td align='center'>359</td><td align='center'>21,3557</td></tr><tr><td align='center'>358</td><td align='center'>21,2741</td></tr><tr><td align='center'>357</td><td align='center'>21,1925</td></tr><tr><td align='center'>356</td><td align='center'>21,1110</td></tr><tr><td align='center'>355</td><td align='center'>21,0294</td></tr><tr><td align='center'>354</td><td align='center'>20,9478</td></tr><tr><td align='center'>353</td><td align='center'>20,8661</td></tr><tr><td align='center'>352</td><td align='center'>20,7845</td></tr><tr><td align='center'>351</td><td align='center'>20,7029</td></tr><tr><td align='center'>350</td><td align='center'>20,6213</td></tr><tr><td align='center'>349</td><td align='center'>20,5396</td></tr><tr><td align='center'>348</td><td align='center'>20,4580</td></tr><tr><td align='center'>347</td><td align='center'>20,3763</td></tr><tr><td align='center'>346</td><td align='center'>20,2947</td></tr><tr><td align='center'>345</td><td align='center'>20,2130</td></tr><tr><td align='center'>344</td><td align='center'>20,1313</td></tr><tr><td align='center'>343</td><td align='center'>20,0497</td></tr><tr><td align='center'>342</td><td align='center'>19,9680</td></tr><tr><td align='center'>341</td><td align='center'>19,8863</td></tr><tr><td align='center'>340</td><td align='center'>19,8046</td></tr><tr><td align='center'>339</td><td align='center'>19,7229</td></tr><tr><td align='center'>338</td><td align='center'>19,6412</td></tr><tr><td align='center'>337</td><td align='center'>19,5594</td></tr><tr><td align='center'>336</td><td align='center'>19,4777</td></tr><tr><td align='center'>335</td><td align='center'>19,3960</td></tr><tr><td align='center'>334</td><td align='center'>19,3142</td></tr><tr><td align='center'>333</td><td align='center'>19,2325</td></tr><tr><td align='center'>332</td><td align='center'>19,1507</td></tr><tr><td align='center'>331</td><td align='center'>19,0690</td></tr><tr><td align='center'>330</td><td align='center'>18,9872</td></tr><tr><td align='center'>329</td><td align='center'>18,9054</td></tr><tr><td align='center'>328</td><td align='center'>18,8237</td></tr><tr><td align='center'>327</td><td align='center'>18,7419</td></tr><tr><td align='center'>326</td><td align='center'>18,6601</td></tr><tr><td align='center'>325</td><td align='center'>18,5783</td></tr><tr><td align='center'>324</td><td align='center'>18,4965</td></tr><tr><td align='center'>323</td><td align='center'>18,4147</td></tr><tr><td align='center'>322</td><td align='center'>18,3328</td></tr><tr><td align='center'>321</td><td align='center'>18,2510</td></tr><tr><td align='center'>320</td><td align='center'>18,1692</td></tr><tr><td align='center'>319</td><td align='center'>18,0873</td></tr><tr><td align='center'>318</td><td align='center'>18,0055</td></tr><tr><td align='center'>317</td><td align='center'>17,9236</td></tr><tr><td align='center'>316</td><td align='center'>17,8418</td></tr><tr><td align='center'>315</td><td align='center'>17,7599</td></tr><tr><td align='center'>314</td><td align='center'>17,6780</td></tr><tr><td align='center'>313</td><td align='center'>17,5961</td></tr><tr><td align='center'>312</td><td align='center'>17,5142</td></tr><tr><td align='center'>311</td><td align='center'>17,4323</td></tr><tr><td align='center'>310</td><td align='center'>17,3504</td></tr><tr><td align='center'>309</td><td align='center'>17,2685</td></tr><tr><td align='center'>308</td><td align='center'>17,1866</td></tr><tr><td align='center'>307</td><td align='center'>17,1047</td></tr><tr><td align='center'>306</td><td align='center'>17,0228</td></tr><tr><td align='center'>305</td><td align='center'>16,9408</td></tr><tr><td align='center'>304</td><td align='center'>16,8589</td></tr><tr><td align='center'>303</td><td align='center'>16,7769</td></tr><tr><td align='center'>302</td><td align='center'>16,6950</td></tr><tr><td align='center'>301</td><td align='center'>16,6130</td></tr><tr><td align='center'>300</td><td align='center'>16,5310</td></tr><tr><td align='center'>299</td><td align='center'>16,4491</td></tr><tr><td align='center'>298</td><td align='center'>16,3671</td></tr><tr><td align='center'>297</td><td align='center'>16,2851</td></tr><tr><td align='center'>296</td><td align='center'>16,2031</td></tr><tr><td align='center'>295</td><td align='center'>16,1211</td></tr><tr><td align='center'>294</td><td align='center'>16,0391</td></tr><tr><td align='center'>293</td><td align='center'>15,9570</td></tr><tr><td align='center'>292</td><td align='center'>15,8750</td></tr><tr><td align='center'>291</td><td align='center'>15,7930</td></tr><tr><td align='center'>290</td><td align='center'>15,7109</td></tr><tr><td align='center'>289</td><td align='center'>15,6289</td></tr><tr><td align='center'>288</td><td align='center'>15,5468</td></tr><tr><td align='center'>287</td><td align='center'>15,4648</td></tr><tr><td align='center'>286</td><td align='center'>15,3827</td></tr><tr><td align='center'>285</td><td align='center'>15,3006</td></tr><tr><td align='center'>284</td><td align='center'>15,2186</td></tr><tr><td align='center'>283</td><td align='center'>15,1365</td></tr><tr><td align='center'>282</td><td align='center'>15,0544</td></tr><tr><td align='center'>281</td><td align='center'>14,9723</td></tr><tr><td align='center'>280</td><td align='center'>14,8902</td></tr><tr><td align='center'>279</td><td align='center'>14,8081</td></tr><tr><td align='center'>278</td><td align='center'>14,7268</td></tr><tr><td align='center'>277</td><td align='center'>14,6456</td></tr><tr><td align='center'>276</td><td align='center'>14,5644</td></tr><tr><td align='center'>275</td><td align='center'>14,4831</td></tr><tr><td align='center'>274</td><td align='center'>14,4018</td></tr><tr><td align='center'>273</td><td align='center'>14,3205</td></tr><tr><td align='center'>272</td><td align='center'>14,2392</td></tr><tr><td align='center'>271</td><td align='center'>14,1579</td></tr><tr><td align='center'>270</td><td align='center'>14,0765</td></tr><tr><td align='center'>269</td><td align='center'>13,9952</td></tr><tr><td align='center'>268</td><td align='center'>13,9138</td></tr><tr><td align='center'>267</td><td align='center'>13,8324</td></tr><tr><td align='center'>266</td><td align='center'>13,7510</td></tr><tr><td align='center'>265</td><td align='center'>13,6696</td></tr><tr><td align='center'>264</td><td align='center'>13,5881</td></tr><tr><td align='center'>263</td><td align='center'>13,5066</td></tr><tr><td align='center'>262</td><td align='center'>13,4252</td></tr><tr><td align='center'>261</td><td align='center'>13,3437</td></tr><tr><td align='center'>260</td><td align='center'>13,2621</td></tr><tr><td align='center'>259</td><td align='center'>13,1806</td></tr><tr><td align='center'>258</td><td align='center'>13,0991</td></tr><tr><td align='center'>257</td><td align='center'>13,0175</td></tr><tr><td align='center'>256</td><td align='center'>12,9359</td></tr><tr><td align='center'>255</td><td align='center'>12,8543</td></tr><tr><td align='center'>254</td><td align='center'>12,7727</td></tr><tr><td align='center'>253</td><td align='center'>12,6910</td></tr><tr><td align='center'>252</td><td align='center'>12,6094</td></tr><tr><td align='center'>251</td><td align='center'>12,5277</td></tr><tr><td align='center'>250</td><td align='center'>12,4460</td></tr><tr><td align='center'>249</td><td align='center'>12,3643</td></tr><tr><td align='center'>248</td><td align='center'>12,2826</td></tr><tr><td align='center'>247</td><td align='center'>12,2009</td></tr><tr><td align='center'>246</td><td align='center'>12,1191</td></tr><tr><td align='center'>245</td><td align='center'>12,0373</td></tr><tr><td align='center'>244</td><td align='center'>11,9555</td></tr><tr><td align='center'>243</td><td align='center'>11,8737</td></tr><tr><td align='center'>242</td><td align='center'>11,7919</td></tr><tr><td align='center'>241</td><td align='center'>11,7101</td></tr><tr><td align='center'>240</td><td align='center'>11,6282</td></tr><tr><td align='center'>239</td><td align='center'>11,5463</td></tr><tr><td align='center'>238</td><td align='center'>11,4644</td></tr><tr><td align='center'>237</td><td align='center'>11,3825</td></tr><tr><td align='center'>236</td><td align='center'>11,3006</td></tr><tr><td align='center'>235</td><td align='center'>11,2187</td></tr><tr><td align='center'>234</td><td align='center'>11,1367</td></tr><tr><td align='center'>233</td><td align='center'>11,0547</td></tr><tr><td align='center'>232</td><td align='center'>10,9727</td></tr><tr><td align='center'>231</td><td align='center'>10,8907</td></tr><tr><td align='center'>230</td><td align='center'>10,8087</td></tr><tr><td align='center'>229</td><td align='center'>10,7267</td></tr><tr><td align='center'>228</td><td align='center'>10,6446</td></tr><tr><td align='center'>227</td><td align='center'>10,5625</td></tr><tr><td align='center'>226</td><td align='center'>10,4804</td></tr><tr><td align='center'>225</td><td align='center'>10,3983</td></tr><tr><td align='center'>224</td><td align='center'>10,3162</td></tr><tr><td align='center'>223</td><td align='center'>10,2340</td></tr><tr><td align='center'>222</td><td align='center'>10,1519</td></tr><tr><td align='center'>221</td><td align='center'>10,0697</td></tr><tr><td align='center'>220</td><td align='center'>9,9883</td></tr><tr><td align='center'>219</td><td align='center'>9,9070</td></tr><tr><td align='center'>218</td><td align='center'>9,8256</td></tr><tr><td align='center'>217</td><td align='center'>9,7441</td></tr><tr><td align='center'>216</td><td align='center'>9,6627</td></tr><tr><td align='center'>215</td><td align='center'>9,5812</td></tr><tr><td align='center'>214</td><td align='center'>9,4996</td></tr><tr><td align='center'>213</td><td align='center'>9,4181</td></tr><tr><td align='center'>212</td><td align='center'>9,3365</td></tr><tr><td align='center'>211</td><td align='center'>9,2549</td></tr><tr><td align='center'>210</td><td align='center'>9,1732</td></tr><tr><td align='center'>209</td><td align='center'>9,0915</td></tr><tr><td align='center'>208</td><td align='center'>9,0098</td></tr><tr><td align='center'>207</td><td align='center'>8,9281</td></tr><tr><td align='center'>206</td><td align='center'>8,8463</td></tr><tr><td align='center'>205</td><td align='center'>8,7645</td></tr><tr><td align='center'>204</td><td align='center'>8,6826</td></tr><tr><td align='center'>203</td><td align='center'>8,6008</td></tr><tr><td align='center'>202</td><td align='center'>8,5189</td></tr><tr><td align='center'>201</td><td align='center'>8,4369</td></tr><tr><td align='center'>200</td><td align='center'>8,3550</td></tr></tbody></table></center></div>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000017650069",
-                    "textTitle": "Arrêté du 7 décembre 2007, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "JORFTEXT000017650069",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2007-12-15",
-                    "dateSignaTexte": "2007-12-07",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
             "cid": "KALITEXT000005687973",
             "title": "Avenant n° 64 annexe IV, du 15 novembre 2006 relatif aux salaires (annexe IV)",
             "id": "KALITEXT000005687973",
@@ -20522,6 +20350,178 @@
                 "intOrdre": 3145722,
                 "id": "KALIARTI000018193086",
                 "content": "<p>Salaires mensuels minimaux professionnels garantis au 1er juin 2007</p><p><br/>(Annexe IV, art.8)</p><p>Tableau non reproduit - voir BO conventions collectives 2007-40</p><p>Salaires horaires minimaux professionnels garantis au 1er juin 2007</p><p>(En euros.) </p><p></p><div align='center'><center><table border='1'><tbody><tr><th>NIVEAU<br/>de rémunération</th><th>TAUX HORAIRE</th></tr><tr><td align='center'>409</td><td align='center'>25,4353</td></tr><tr><td align='center'>408</td><td align='center'>25,3530</td></tr><tr><td align='center'>407</td><td align='center'>25,2707</td></tr><tr><td align='center'>406</td><td align='center'>25,1884</td></tr><tr><td align='center'>405</td><td align='center'>25,1061</td></tr><tr><td align='center'>404</td><td align='center'>25,0238</td></tr><tr><td align='center'>403</td><td align='center'>24,9414</td></tr><tr><td align='center'>402</td><td align='center'>24,8591</td></tr><tr><td align='center'>401</td><td align='center'>24,7768</td></tr><tr><td align='center'>400</td><td align='center'>24,6945</td></tr><tr><td align='center'>399</td><td align='center'>24,6132</td></tr><tr><td align='center'>398</td><td align='center'>24,5319</td></tr><tr><td align='center'>397</td><td align='center'>24,4506</td></tr><tr><td align='center'>396</td><td align='center'>24,3693</td></tr><tr><td align='center'>395</td><td align='center'>24.2879</td></tr><tr><td align='center'>394</td><td align='center'>24.2066</td></tr><tr><td align='center'>393</td><td align='center'>24.1253</td></tr><tr><td align='center'>392</td><td align='center'>24,0439</td></tr><tr><td align='center'>391</td><td align='center'>23,9626</td></tr><tr><td align='center'>390</td><td align='center'>23,8812</td></tr><tr><td align='center'>389</td><td align='center'>23,7998</td></tr><tr><td align='center'>388</td><td align='center'>23,7185</td></tr><tr><td align='center'>387</td><td align='center'>23,6371</td></tr><tr><td align='center'>386</td><td align='center'>23,5557</td></tr><tr><td align='center'>385</td><td align='center'>23,4743</td></tr><tr><td align='center'>384</td><td align='center'>23,3929</td></tr><tr><td align='center'>383</td><td align='center'>23,3115</td></tr><tr><td align='center'>382</td><td align='center'>23,2301</td></tr><tr><td align='center'>381</td><td align='center'>23,1487</td></tr><tr><td align='center'>380</td><td align='center'>23,0672</td></tr><tr><td align='center'>379</td><td align='center'>22,9858</td></tr><tr><td align='center'>378</td><td align='center'>22,9044</td></tr><tr><td align='center'>377</td><td align='center'>22,8229</td></tr><tr><td align='center'>376</td><td align='center'>22,7415</td></tr><tr><td align='center'>375</td><td align='center'>22,6600</td></tr><tr><td align='center'>374</td><td align='center'>22,5785</td></tr><tr><td align='center'>373</td><td align='center'>22,4971</td></tr><tr><td align='center'>372</td><td align='center'>22,4156</td></tr><tr><td align='center'>371</td><td align='center'>22,3341</td></tr><tr><td align='center'>370</td><td align='center'>22,2526</td></tr><tr><td align='center'>369</td><td align='center'>22,1711</td></tr><tr><td align='center'>368</td><td align='center'>22,0896</td></tr><tr><td align='center'>367</td><td align='center'>22,0081</td></tr><tr><td align='center'>366</td><td align='center'>21,9266</td></tr><tr><td align='center'>365</td><td align='center'>21,8450</td></tr><tr><td align='center'>364</td><td align='center'>21,7635</td></tr><tr><td align='center'>363</td><td align='center'>21,6819</td></tr><tr><td align='center'>362</td><td align='center'>21,6004</td></tr><tr><td align='center'>361</td><td align='center'>21,5188</td></tr><tr><td align='center'>360</td><td align='center'>21,4373</td></tr><tr><td align='center'>359</td><td align='center'>21,3557</td></tr><tr><td align='center'>358</td><td align='center'>21,2741</td></tr><tr><td align='center'>357</td><td align='center'>21,1925</td></tr><tr><td align='center'>356</td><td align='center'>21,1110</td></tr><tr><td align='center'>355</td><td align='center'>21,0294</td></tr><tr><td align='center'>354</td><td align='center'>20,9478</td></tr><tr><td align='center'>353</td><td align='center'>20,8661</td></tr><tr><td align='center'>352</td><td align='center'>20,7845</td></tr><tr><td align='center'>351</td><td align='center'>20,7029</td></tr><tr><td align='center'>350</td><td align='center'>20,6213</td></tr><tr><td align='center'>349</td><td align='center'>20,5396</td></tr><tr><td align='center'>348</td><td align='center'>20,4580</td></tr><tr><td align='center'>347</td><td align='center'>20,3763</td></tr><tr><td align='center'>346</td><td align='center'>20,2947</td></tr><tr><td align='center'>345</td><td align='center'>20,2130</td></tr><tr><td align='center'>344</td><td align='center'>20,1313</td></tr><tr><td align='center'>343</td><td align='center'>20,0497</td></tr><tr><td align='center'>342</td><td align='center'>19,9680</td></tr><tr><td align='center'>341</td><td align='center'>19,8863</td></tr><tr><td align='center'>340</td><td align='center'>19,8046</td></tr><tr><td align='center'>339</td><td align='center'>19,7229</td></tr><tr><td align='center'>338</td><td align='center'>19,6412</td></tr><tr><td align='center'>337</td><td align='center'>19,5594</td></tr><tr><td align='center'>336</td><td align='center'>19,4777</td></tr><tr><td align='center'>335</td><td align='center'>19,3960</td></tr><tr><td align='center'>334</td><td align='center'>19,3142</td></tr><tr><td align='center'>333</td><td align='center'>19,2325</td></tr><tr><td align='center'>332</td><td align='center'>19,1507</td></tr><tr><td align='center'>331</td><td align='center'>19,0690</td></tr><tr><td align='center'>330</td><td align='center'>18,9872</td></tr><tr><td align='center'>329</td><td align='center'>18,9054</td></tr><tr><td align='center'>328</td><td align='center'>18,8237</td></tr><tr><td align='center'>327</td><td align='center'>18,7419</td></tr><tr><td align='center'>326</td><td align='center'>18,6601</td></tr><tr><td align='center'>325</td><td align='center'>18,5783</td></tr><tr><td align='center'>324</td><td align='center'>18,4965</td></tr><tr><td align='center'>323</td><td align='center'>18,4147</td></tr><tr><td align='center'>322</td><td align='center'>18,3328</td></tr><tr><td align='center'>321</td><td align='center'>18,2510</td></tr><tr><td align='center'>320</td><td align='center'>18,1692</td></tr><tr><td align='center'>319</td><td align='center'>18,0873</td></tr><tr><td align='center'>318</td><td align='center'>18,0055</td></tr><tr><td align='center'>317</td><td align='center'>17,9236</td></tr><tr><td align='center'>316</td><td align='center'>17,8418</td></tr><tr><td align='center'>315</td><td align='center'>17,7599</td></tr><tr><td align='center'>314</td><td align='center'>17,6780</td></tr><tr><td align='center'>313</td><td align='center'>17,5961</td></tr><tr><td align='center'>312</td><td align='center'>17,5142</td></tr><tr><td align='center'>311</td><td align='center'>17,4323</td></tr><tr><td align='center'>310</td><td align='center'>17,3504</td></tr><tr><td align='center'>309</td><td align='center'>17,2685</td></tr><tr><td align='center'>308</td><td align='center'>17,1866</td></tr><tr><td align='center'>307</td><td align='center'>17,1047</td></tr><tr><td align='center'>306</td><td align='center'>17,0228</td></tr><tr><td align='center'>305</td><td align='center'>16,9408</td></tr><tr><td align='center'>304</td><td align='center'>16,8589</td></tr><tr><td align='center'>303</td><td align='center'>16,7769</td></tr><tr><td align='center'>302</td><td align='center'>16,6950</td></tr><tr><td align='center'>301</td><td align='center'>16,6130</td></tr><tr><td align='center'>300</td><td align='center'>16,5310</td></tr><tr><td align='center'>299</td><td align='center'>16,4491</td></tr><tr><td align='center'>298</td><td align='center'>16,3671</td></tr><tr><td align='center'>297</td><td align='center'>16,2851</td></tr><tr><td align='center'>296</td><td align='center'>16,2031</td></tr><tr><td align='center'>295</td><td align='center'>16,1211</td></tr><tr><td align='center'>294</td><td align='center'>16,0391</td></tr><tr><td align='center'>293</td><td align='center'>15,9570</td></tr><tr><td align='center'>292</td><td align='center'>15,8750</td></tr><tr><td align='center'>291</td><td align='center'>15,7930</td></tr><tr><td align='center'>290</td><td align='center'>15,7109</td></tr><tr><td align='center'>289</td><td align='center'>15,6289</td></tr><tr><td align='center'>288</td><td align='center'>15,5468</td></tr><tr><td align='center'>287</td><td align='center'>15,4648</td></tr><tr><td align='center'>286</td><td align='center'>15,3827</td></tr><tr><td align='center'>285</td><td align='center'>15,3006</td></tr><tr><td align='center'>284</td><td align='center'>15,2186</td></tr><tr><td align='center'>283</td><td align='center'>15,1365</td></tr><tr><td align='center'>282</td><td align='center'>15,0544</td></tr><tr><td align='center'>281</td><td align='center'>14,9723</td></tr><tr><td align='center'>280</td><td align='center'>14,8902</td></tr><tr><td align='center'>279</td><td align='center'>14,8081</td></tr><tr><td align='center'>278</td><td align='center'>14,7268</td></tr><tr><td align='center'>277</td><td align='center'>14,6456</td></tr><tr><td align='center'>276</td><td align='center'>14,5644</td></tr><tr><td align='center'>275</td><td align='center'>14,4831</td></tr><tr><td align='center'>274</td><td align='center'>14,4018</td></tr><tr><td align='center'>273</td><td align='center'>14,3205</td></tr><tr><td align='center'>272</td><td align='center'>14,2392</td></tr><tr><td align='center'>271</td><td align='center'>14,1579</td></tr><tr><td align='center'>270</td><td align='center'>14,0765</td></tr><tr><td align='center'>269</td><td align='center'>13,9952</td></tr><tr><td align='center'>268</td><td align='center'>13,9138</td></tr><tr><td align='center'>267</td><td align='center'>13,8324</td></tr><tr><td align='center'>266</td><td align='center'>13,7510</td></tr><tr><td align='center'>265</td><td align='center'>13,6696</td></tr><tr><td align='center'>264</td><td align='center'>13,5881</td></tr><tr><td align='center'>263</td><td align='center'>13,5066</td></tr><tr><td align='center'>262</td><td align='center'>13,4252</td></tr><tr><td align='center'>261</td><td align='center'>13,3437</td></tr><tr><td align='center'>260</td><td align='center'>13,2621</td></tr><tr><td align='center'>259</td><td align='center'>13,1806</td></tr><tr><td align='center'>258</td><td align='center'>13,0991</td></tr><tr><td align='center'>257</td><td align='center'>13,0175</td></tr><tr><td align='center'>256</td><td align='center'>12,9359</td></tr><tr><td align='center'>255</td><td align='center'>12,8543</td></tr><tr><td align='center'>254</td><td align='center'>12,7727</td></tr><tr><td align='center'>253</td><td align='center'>12,6910</td></tr><tr><td align='center'>252</td><td align='center'>12,6094</td></tr><tr><td align='center'>251</td><td align='center'>12,5277</td></tr><tr><td align='center'>250</td><td align='center'>12,4460</td></tr><tr><td align='center'>249</td><td align='center'>12,3643</td></tr><tr><td align='center'>248</td><td align='center'>12,2826</td></tr><tr><td align='center'>247</td><td align='center'>12,2009</td></tr><tr><td align='center'>246</td><td align='center'>12,1191</td></tr><tr><td align='center'>245</td><td align='center'>12,0373</td></tr><tr><td align='center'>244</td><td align='center'>11,9555</td></tr><tr><td align='center'>243</td><td align='center'>11,8737</td></tr><tr><td align='center'>242</td><td align='center'>11,7919</td></tr><tr><td align='center'>241</td><td align='center'>11,7101</td></tr><tr><td align='center'>240</td><td align='center'>11,6282</td></tr><tr><td align='center'>239</td><td align='center'>11,5463</td></tr><tr><td align='center'>238</td><td align='center'>11,4644</td></tr><tr><td align='center'>237</td><td align='center'>11,3825</td></tr><tr><td align='center'>236</td><td align='center'>11,3006</td></tr><tr><td align='center'>235</td><td align='center'>11,2187</td></tr><tr><td align='center'>234</td><td align='center'>11,1367</td></tr><tr><td align='center'>233</td><td align='center'>11,0547</td></tr><tr><td align='center'>232</td><td align='center'>10,9727</td></tr><tr><td align='center'>231</td><td align='center'>10,8907</td></tr><tr><td align='center'>230</td><td align='center'>10,8087</td></tr><tr><td align='center'>229</td><td align='center'>10,7267</td></tr><tr><td align='center'>228</td><td align='center'>10,6446</td></tr><tr><td align='center'>227</td><td align='center'>10,5625</td></tr><tr><td align='center'>226</td><td align='center'>10,4804</td></tr><tr><td align='center'>225</td><td align='center'>10,3983</td></tr><tr><td align='center'>224</td><td align='center'>10,3162</td></tr><tr><td align='center'>223</td><td align='center'>10,2340</td></tr><tr><td align='center'>222</td><td align='center'>10,1519</td></tr><tr><td align='center'>221</td><td align='center'>10,0697</td></tr><tr><td align='center'>220</td><td align='center'>9,9883</td></tr><tr><td align='center'>219</td><td align='center'>9,9070</td></tr><tr><td align='center'>218</td><td align='center'>9,8256</td></tr><tr><td align='center'>217</td><td align='center'>9,7441</td></tr><tr><td align='center'>216</td><td align='center'>9,6627</td></tr><tr><td align='center'>215</td><td align='center'>9,5812</td></tr><tr><td align='center'>214</td><td align='center'>9,4996</td></tr><tr><td align='center'>213</td><td align='center'>9,4181</td></tr><tr><td align='center'>212</td><td align='center'>9,3365</td></tr><tr><td align='center'>211</td><td align='center'>9.2549</td></tr><tr><td align='center'>210</td><td align='center'>9.1732</td></tr><tr><td align='center'>209</td><td align='center'>9,0915</td></tr><tr><td align='center'>208</td><td align='center'>9,0098</td></tr><tr><td align='center'>207</td><td align='center'>8,9281</td></tr><tr><td align='center'>206</td><td align='center'>8,8463</td></tr><tr><td align='center'>205</td><td align='center'>8,7645</td></tr><tr><td align='center'>204</td><td align='center'>8,6826</td></tr><tr><td align='center'>203</td><td align='center'>8,6008</td></tr><tr><td align='center'>202</td><td align='center'>8,5189</td></tr><tr><td align='center'>201</td><td align='center'>8,4369</td></tr><tr><td align='center'>200</td><td align='center'>8,3550</td></tr></tbody></table></center></div>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000017650069",
+                    "textTitle": "Arrêté du 7 décembre 2007, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "JORFTEXT000017650069",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2007-12-15",
+                    "dateSignaTexte": "2007-12-07",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000018193088",
+            "title": "Avenant n° 69 du 25 juin 2007 à l'annexe III relatif aux rémunérations à compter du 1er juin 2007",
+            "id": "KALITEXT000018193088",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2007-06-25"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000018193091",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000018193091",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000018193098",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000018193098",
+                    "content": "<p align='left'><br/> Le présent avenant définit les grilles des rémunérations minimales conventionnelles applicables au 1er juin 2007 :<br/> ― les grilles des coefficients ;<br/> ― la grille des niveaux de rémunération.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000017650069",
+                        "textTitle": "Arrêté du 7 décembre 2007, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "",
+                        "articleId": "JORFTEXT000017650069",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2007-12-15",
+                        "dateSignaTexte": "2007-12-07",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000018193092",
+                "num": "1",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000018193092",
+                "content": "<p align='left'><br/> Au 1er juin 2007, les grilles des salaires mensuels minimaux professionnels garantis (en euros), pour 151,67 heures sont revalorisées de + 1 %, cette revalorisation étant linéaire du coefficient 185 au coefficient 275 inclus.<br/> Ces revalorisations au 1er juin 2007 s'appliquent sur les grilles des salaires mensuels minimaux professionnels garantis, du 1er décembre 2006.<br/> Ces revalorisations s'appliquent uniquement sur les minima conventionnels nationaux garantis.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000017650069",
+                    "textTitle": "Arrêté du 7 décembre 2007, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "JORFTEXT000017650069",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2007-12-15",
+                    "dateSignaTexte": "2007-12-07",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000018193093",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000018193093",
+                "content": "<p align='left'><br/> Au 1er juin 2007, les grilles des salaires horaires minimaux professionnels garantis (en euros) sont revalorisées de + 1 %, cette revalorisation étant linéaire du niveau de rémunération 222 au niveau de rémunération 279 inclus.<br/> Ces revalorisations au 1er juin 2007 s'appliquent sur les grilles des salaires horaires minimaux professionnels garantis, du 1er décembre 2006.<br/> Ces revalorisations s'appliquent uniquement sur les minima conventionnels nationaux garantis.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000017650069",
+                    "textTitle": "Arrêté du 7 décembre 2007, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "JORFTEXT000017650069",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2007-12-15",
+                    "dateSignaTexte": "2007-12-07",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000018193094",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000018193094",
+                "content": "<p align='left'><br/> Le présent avenant sera déposé à la direction des relations du travail, auprès des services centraux du ministre chargé du travail.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000017650069",
+                    "textTitle": "Arrêté du 7 décembre 2007, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "JORFTEXT000017650069",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2007-12-15",
+                    "dateSignaTexte": "2007-12-07",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000018193095",
+                "num": "4",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000018193095",
+                "content": "<p align='left'><br/> Les dispositions susvisées seront également soumises à la procédure d'extension prévue par le code du travail.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000017650069",
+                    "textTitle": "Arrêté du 7 décembre 2007, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "JORFTEXT000017650069",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2007-12-15",
+                    "dateSignaTexte": "2007-12-07",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000018193097",
+                "intOrdre": 3145722,
+                "id": "KALIARTI000018193097",
+                "content": "<p>Salaires mensuels minimaux garantis au 1er juin 2007<br/>(Annexe III, art.7)</p><p>Base : 151,67 heures.</p><p>1. Salariés permanents</p><p>Tableau non reproduit - voir BO conventions collectives 2007-40</p><p>2. Salariés saisonniers</p><p>Tableau non reproduit - voir BO conventions collectives 2007-40</p><p>Salaires horaires minimaux professionnels garantis au 1er juin 2007</p><p>(En euros.) </p><p></p><div align='center'><center><table border='1'><tbody><tr><th>NIVEAU<br/>de rémunération</th><th>TAUX HORAIRE</th></tr><tr><td align='center'>409</td><td align='center'>25,4353</td></tr><tr><td align='center'>408</td><td align='center'>25,3530</td></tr><tr><td align='center'>407</td><td align='center'>25,2707</td></tr><tr><td align='center'>406</td><td align='center'>25,1884</td></tr><tr><td align='center'>405</td><td align='center'>25,1061</td></tr><tr><td align='center'>404</td><td align='center'>25,0238</td></tr><tr><td align='center'>403</td><td align='center'>24,9414</td></tr><tr><td align='center'>402</td><td align='center'>24,8591</td></tr><tr><td align='center'>401</td><td align='center'>24,7768</td></tr><tr><td align='center'>400</td><td align='center'>24,6945</td></tr><tr><td align='center'>399</td><td align='center'>24,6132</td></tr><tr><td align='center'>398</td><td align='center'>24,5319</td></tr><tr><td align='center'>397</td><td align='center'>24,4506</td></tr><tr><td align='center'>396</td><td align='center'>24,3693</td></tr><tr><td align='center'>395</td><td align='center'>24,2879</td></tr><tr><td align='center'>394</td><td align='center'>24,2066</td></tr><tr><td align='center'>393</td><td align='center'>24,1253</td></tr><tr><td align='center'>392</td><td align='center'>24,0439</td></tr><tr><td align='center'>391</td><td align='center'>23,9626</td></tr><tr><td align='center'>390</td><td align='center'>23,8812</td></tr><tr><td align='center'>389</td><td align='center'>23,7998</td></tr><tr><td align='center'>388</td><td align='center'>23,7185</td></tr><tr><td align='center'>387</td><td align='center'>23,6371</td></tr><tr><td align='center'>386</td><td align='center'>23,5557</td></tr><tr><td align='center'>385</td><td align='center'>23,4743</td></tr><tr><td align='center'>384</td><td align='center'>23,3929</td></tr><tr><td align='center'>383</td><td align='center'>23,3115</td></tr><tr><td align='center'>382</td><td align='center'>23,2301</td></tr><tr><td align='center'>381</td><td align='center'>23,1487</td></tr><tr><td align='center'>380</td><td align='center'>23,0672</td></tr><tr><td align='center'>379</td><td align='center'>22,9858</td></tr><tr><td align='center'>378</td><td align='center'>22,9044</td></tr><tr><td align='center'>377</td><td align='center'>22,8229</td></tr><tr><td align='center'>376</td><td align='center'>22,7415</td></tr><tr><td align='center'>375</td><td align='center'>22,6600</td></tr><tr><td align='center'>374</td><td align='center'>22,5785</td></tr><tr><td align='center'>373</td><td align='center'>22,4971</td></tr><tr><td align='center'>372</td><td align='center'>22,4156</td></tr><tr><td align='center'>371</td><td align='center'>22,3341</td></tr><tr><td align='center'>370</td><td align='center'>22,2526</td></tr><tr><td align='center'>369</td><td align='center'>22,1711</td></tr><tr><td align='center'>368</td><td align='center'>22,0896</td></tr><tr><td align='center'>367</td><td align='center'>22,0081</td></tr><tr><td align='center'>366</td><td align='center'>21,9266</td></tr><tr><td align='center'>365</td><td align='center'>21,8450</td></tr><tr><td align='center'>364</td><td align='center'>21,7635</td></tr><tr><td align='center'>363</td><td align='center'>21,6819</td></tr><tr><td align='center'>362</td><td align='center'>21,6004</td></tr><tr><td align='center'>361</td><td align='center'>21,5188</td></tr><tr><td align='center'>360</td><td align='center'>21,4373</td></tr><tr><td align='center'>359</td><td align='center'>21,3557</td></tr><tr><td align='center'>358</td><td align='center'>21,2741</td></tr><tr><td align='center'>357</td><td align='center'>21,1925</td></tr><tr><td align='center'>356</td><td align='center'>21,1110</td></tr><tr><td align='center'>355</td><td align='center'>21,0294</td></tr><tr><td align='center'>354</td><td align='center'>20,9478</td></tr><tr><td align='center'>353</td><td align='center'>20,8661</td></tr><tr><td align='center'>352</td><td align='center'>20,7845</td></tr><tr><td align='center'>351</td><td align='center'>20,7029</td></tr><tr><td align='center'>350</td><td align='center'>20,6213</td></tr><tr><td align='center'>349</td><td align='center'>20,5396</td></tr><tr><td align='center'>348</td><td align='center'>20,4580</td></tr><tr><td align='center'>347</td><td align='center'>20,3763</td></tr><tr><td align='center'>346</td><td align='center'>20,2947</td></tr><tr><td align='center'>345</td><td align='center'>20,2130</td></tr><tr><td align='center'>344</td><td align='center'>20,1313</td></tr><tr><td align='center'>343</td><td align='center'>20,0497</td></tr><tr><td align='center'>342</td><td align='center'>19,9680</td></tr><tr><td align='center'>341</td><td align='center'>19,8863</td></tr><tr><td align='center'>340</td><td align='center'>19,8046</td></tr><tr><td align='center'>339</td><td align='center'>19,7229</td></tr><tr><td align='center'>338</td><td align='center'>19,6412</td></tr><tr><td align='center'>337</td><td align='center'>19,5594</td></tr><tr><td align='center'>336</td><td align='center'>19,4777</td></tr><tr><td align='center'>335</td><td align='center'>19,3960</td></tr><tr><td align='center'>334</td><td align='center'>19,3142</td></tr><tr><td align='center'>333</td><td align='center'>19,2325</td></tr><tr><td align='center'>332</td><td align='center'>19,1507</td></tr><tr><td align='center'>331</td><td align='center'>19,0690</td></tr><tr><td align='center'>330</td><td align='center'>18,9872</td></tr><tr><td align='center'>329</td><td align='center'>18,9054</td></tr><tr><td align='center'>328</td><td align='center'>18,8237</td></tr><tr><td align='center'>327</td><td align='center'>18,7419</td></tr><tr><td align='center'>326</td><td align='center'>18,6601</td></tr><tr><td align='center'>325</td><td align='center'>18,5783</td></tr><tr><td align='center'>324</td><td align='center'>18,4965</td></tr><tr><td align='center'>323</td><td align='center'>18,4147</td></tr><tr><td align='center'>322</td><td align='center'>18,3328</td></tr><tr><td align='center'>321</td><td align='center'>18,2510</td></tr><tr><td align='center'>320</td><td align='center'>18,1692</td></tr><tr><td align='center'>319</td><td align='center'>18,0873</td></tr><tr><td align='center'>318</td><td align='center'>18,0055</td></tr><tr><td align='center'>317</td><td align='center'>17,9236</td></tr><tr><td align='center'>316</td><td align='center'>17,8418</td></tr><tr><td align='center'>315</td><td align='center'>17,7599</td></tr><tr><td align='center'>314</td><td align='center'>17,6780</td></tr><tr><td align='center'>313</td><td align='center'>17,5961</td></tr><tr><td align='center'>312</td><td align='center'>17,5142</td></tr><tr><td align='center'>311</td><td align='center'>17,4323</td></tr><tr><td align='center'>310</td><td align='center'>17,3504</td></tr><tr><td align='center'>309</td><td align='center'>17,2685</td></tr><tr><td align='center'>308</td><td align='center'>17,1866</td></tr><tr><td align='center'>307</td><td align='center'>17,1047</td></tr><tr><td align='center'>306</td><td align='center'>17,0228</td></tr><tr><td align='center'>305</td><td align='center'>16,9408</td></tr><tr><td align='center'>304</td><td align='center'>16,8589</td></tr><tr><td align='center'>303</td><td align='center'>16,7769</td></tr><tr><td align='center'>302</td><td align='center'>16,6950</td></tr><tr><td align='center'>301</td><td align='center'>16,6130</td></tr><tr><td align='center'>300</td><td align='center'>16,5310</td></tr><tr><td align='center'>299</td><td align='center'>16,4491</td></tr><tr><td align='center'>298</td><td align='center'>16,3671</td></tr><tr><td align='center'>297</td><td align='center'>16,2851</td></tr><tr><td align='center'>296</td><td align='center'>16,2031</td></tr><tr><td align='center'>295</td><td align='center'>16,1211</td></tr><tr><td align='center'>294</td><td align='center'>16,0391</td></tr><tr><td align='center'>293</td><td align='center'>15,9570</td></tr><tr><td align='center'>292</td><td align='center'>15,8750</td></tr><tr><td align='center'>291</td><td align='center'>15,7930</td></tr><tr><td align='center'>290</td><td align='center'>15,7109</td></tr><tr><td align='center'>289</td><td align='center'>15,6289</td></tr><tr><td align='center'>288</td><td align='center'>15,5468</td></tr><tr><td align='center'>287</td><td align='center'>15,4648</td></tr><tr><td align='center'>286</td><td align='center'>15,3827</td></tr><tr><td align='center'>285</td><td align='center'>15,3006</td></tr><tr><td align='center'>284</td><td align='center'>15,2186</td></tr><tr><td align='center'>283</td><td align='center'>15,1365</td></tr><tr><td align='center'>282</td><td align='center'>15,0544</td></tr><tr><td align='center'>281</td><td align='center'>14,9723</td></tr><tr><td align='center'>280</td><td align='center'>14,8902</td></tr><tr><td align='center'>279</td><td align='center'>14,8081</td></tr><tr><td align='center'>278</td><td align='center'>14,7268</td></tr><tr><td align='center'>277</td><td align='center'>14,6456</td></tr><tr><td align='center'>276</td><td align='center'>14,5644</td></tr><tr><td align='center'>275</td><td align='center'>14,4831</td></tr><tr><td align='center'>274</td><td align='center'>14,4018</td></tr><tr><td align='center'>273</td><td align='center'>14,3205</td></tr><tr><td align='center'>272</td><td align='center'>14,2392</td></tr><tr><td align='center'>271</td><td align='center'>14,1579</td></tr><tr><td align='center'>270</td><td align='center'>14,0765</td></tr><tr><td align='center'>269</td><td align='center'>13,9952</td></tr><tr><td align='center'>268</td><td align='center'>13,9138</td></tr><tr><td align='center'>267</td><td align='center'>13,8324</td></tr><tr><td align='center'>266</td><td align='center'>13,7510</td></tr><tr><td align='center'>265</td><td align='center'>13,6696</td></tr><tr><td align='center'>264</td><td align='center'>13,5881</td></tr><tr><td align='center'>263</td><td align='center'>13,5066</td></tr><tr><td align='center'>262</td><td align='center'>13,4252</td></tr><tr><td align='center'>261</td><td align='center'>13,3437</td></tr><tr><td align='center'>260</td><td align='center'>13,2621</td></tr><tr><td align='center'>259</td><td align='center'>13,1806</td></tr><tr><td align='center'>258</td><td align='center'>13,0991</td></tr><tr><td align='center'>257</td><td align='center'>13,0175</td></tr><tr><td align='center'>256</td><td align='center'>12,9359</td></tr><tr><td align='center'>255</td><td align='center'>12,8543</td></tr><tr><td align='center'>254</td><td align='center'>12,7727</td></tr><tr><td align='center'>253</td><td align='center'>12,6910</td></tr><tr><td align='center'>252</td><td align='center'>12,6094</td></tr><tr><td align='center'>251</td><td align='center'>12,5277</td></tr><tr><td align='center'>250</td><td align='center'>12,4460</td></tr><tr><td align='center'>249</td><td align='center'>12,3643</td></tr><tr><td align='center'>248</td><td align='center'>12,2826</td></tr><tr><td align='center'>247</td><td align='center'>12,2009</td></tr><tr><td align='center'>246</td><td align='center'>12,1191</td></tr><tr><td align='center'>245</td><td align='center'>12,0373</td></tr><tr><td align='center'>244</td><td align='center'>11,9555</td></tr><tr><td align='center'>243</td><td align='center'>11,8737</td></tr><tr><td align='center'>242</td><td align='center'>11,7919</td></tr><tr><td align='center'>241</td><td align='center'>11,7101</td></tr><tr><td align='center'>240</td><td align='center'>11,6282</td></tr><tr><td align='center'>239</td><td align='center'>11,5463</td></tr><tr><td align='center'>238</td><td align='center'>11,4644</td></tr><tr><td align='center'>237</td><td align='center'>11,3825</td></tr><tr><td align='center'>236</td><td align='center'>11,3006</td></tr><tr><td align='center'>235</td><td align='center'>11,2187</td></tr><tr><td align='center'>234</td><td align='center'>11,1367</td></tr><tr><td align='center'>233</td><td align='center'>11,0547</td></tr><tr><td align='center'>232</td><td align='center'>10,9727</td></tr><tr><td align='center'>231</td><td align='center'>10,8907</td></tr><tr><td align='center'>230</td><td align='center'>10,8087</td></tr><tr><td align='center'>229</td><td align='center'>10,7267</td></tr><tr><td align='center'>228</td><td align='center'>10,6446</td></tr><tr><td align='center'>227</td><td align='center'>10,5625</td></tr><tr><td align='center'>226</td><td align='center'>10,4804</td></tr><tr><td align='center'>225</td><td align='center'>10,3983</td></tr><tr><td align='center'>224</td><td align='center'>10,3162</td></tr><tr><td align='center'>223</td><td align='center'>10,2340</td></tr><tr><td align='center'>222</td><td align='center'>10,1519</td></tr><tr><td align='center'>221</td><td align='center'>10,0697</td></tr><tr><td align='center'>220</td><td align='center'>9,9883</td></tr><tr><td align='center'>219</td><td align='center'>9,9070</td></tr><tr><td align='center'>218</td><td align='center'>9,8256</td></tr><tr><td align='center'>217</td><td align='center'>9,7441</td></tr><tr><td align='center'>216</td><td align='center'>9,6627</td></tr><tr><td align='center'>215</td><td align='center'>9,5812</td></tr><tr><td align='center'>214</td><td align='center'>9,4996</td></tr><tr><td align='center'>213</td><td align='center'>9,4181</td></tr><tr><td align='center'>212</td><td align='center'>9,3365</td></tr><tr><td align='center'>211</td><td align='center'>9,2549</td></tr><tr><td align='center'>210</td><td align='center'>9,1732</td></tr><tr><td align='center'>209</td><td align='center'>9,0915</td></tr><tr><td align='center'>208</td><td align='center'>9,0098</td></tr><tr><td align='center'>207</td><td align='center'>8,9281</td></tr><tr><td align='center'>206</td><td align='center'>8,8463</td></tr><tr><td align='center'>205</td><td align='center'>8,7645</td></tr><tr><td align='center'>204</td><td align='center'>8,6826</td></tr><tr><td align='center'>203</td><td align='center'>8,6008</td></tr><tr><td align='center'>202</td><td align='center'>8,5189</td></tr><tr><td align='center'>201</td><td align='center'>8,4369</td></tr><tr><td align='center'>200</td><td align='center'>8,3550</td></tr></tbody></table></center></div>",
                 "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
                   {

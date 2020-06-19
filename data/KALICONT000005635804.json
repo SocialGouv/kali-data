@@ -1181,8 +1181,8 @@
           "data": {
             "cid": "KALISCTA000005716397",
             "intOrdre": 257694,
-            "title": "Titre V : Congés et absences",
-            "id": "KALISCTA000028603257",
+            "title": "Titre V : Congés",
+            "id": "KALISCTA000005716397",
             "etat": "VIGUEUR_ETEN"
           },
           "children": [
@@ -1500,8 +1500,8 @@
           "data": {
             "cid": "KALISCTA000005716397",
             "intOrdre": 257694,
-            "title": "Titre V : Congés",
-            "id": "KALISCTA000005716397",
+            "title": "Titre V : Congés et absences",
+            "id": "KALISCTA000028603257",
             "etat": "VIGUEUR_ETEN"
           },
           "children": [
@@ -9433,6 +9433,402 @@
         {
           "type": "section",
           "data": {
+            "cid": "KALITEXT000025063172",
+            "title": "Avenant du 8 septembre 2011 relatif aux régimes de prévoyance et aux frais de santé",
+            "id": "KALITEXT000025063172",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2011-10-01"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000025063175",
+                "num": "1er",
+                "intOrdre": 524287,
+                "id": "KALIARTI000025063175",
+                "content": "<p align='left'><br/>Le présent avenant a pour objet de modifier le régime prévoyance inscrit dans la convention collective nationale.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Objet",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000025669948",
+                    "textTitle": "Arrêté du 2 avril 2012 - art. 11, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "11",
+                    "articleId": "JORFARTI000025670011",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2012-04-11",
+                    "dateSignaTexte": "2012-04-02",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000025063176",
+                "num": "2",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000025063176",
+                "content": "<p align='left'><br/>Le montant de la prestation est identique à celui prévu pour la garantie décès des enfants de cadres et des non-cadres : </p><p align='left'><br/>– jusqu'à 11 ans révolus : 10 % du salaire de référence ; <br/>– de 12 ans à 17 ans révolus : 15 % du salaire de référence ; <br/>– de 18 ans à 25 ans révolus : 20 % du salaire de référence. <br/><a href='/affichIDCCArticle.do?cidTexte=KALITEXT000005672238&idArticle=KALIARTI000005833150&categorieLien=cid'>L'article 4.1.3 </a>est modifié sur le taux de la rente temporaire d'éducation (date d'application de la disposition depuis le 1er juillet 2010).</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Modification du taux de la rente temporaire d'éducation",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000025669948",
+                    "textTitle": "Arrêté du 2 avril 2012 - art. 11, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "11",
+                    "articleId": "JORFARTI000025670011",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2012-04-11",
+                    "dateSignaTexte": "2012-04-02",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000005672238",
+                    "textTitle": "Régime de prévoyance. - art. 4.1 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "4.1",
+                    "articleId": "KALIARTI000025125685",
+                    "natureText": "ACCORD",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2005-10-13",
+                    "dateDebutCible": "2011-10-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000025063177",
+                "num": "3",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000025063177",
+                "content": "<p align='left'><br/>Le salaire de référence servant au calcul des prestations incapacité temporaire est le dernier salaire total mensuel complet brut. <br/>Il sera tenu compte de la durée du travail du salarié au moment de l'arrêt ainsi que des rémunérations variables telles que les commissions, gratifications et primes versées au cours des 12 derniers mois. <br/>Le salaire de référence est limité aux tranches A et B.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Modification de l'article 4.2.2 relatif au salaire de référence servant au calcul des prestations incapacité temporaire",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000025669948",
+                    "textTitle": "Arrêté du 2 avril 2012 - art. 11, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "11",
+                    "articleId": "JORFARTI000025670011",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2012-04-11",
+                    "dateSignaTexte": "2012-04-02",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000005672238",
+                    "textTitle": "Régime de prévoyance. - art. 4.2 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "4.2",
+                    "articleId": "KALIARTI000025125688",
+                    "natureText": "ACCORD",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2005-10-13",
+                    "dateDebutCible": "2011-10-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000025063178",
+                "num": "4",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000025063178",
+                "content": "<p align='center'>Régime minimum obligatoire et Régime optionnel </p><p align='center'></p><p align='left'>(tableaux non reproduits)</p><center></center>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Modification du régime frais de santé inscrit dans la convention collective nationale",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000025669948",
+                    "textTitle": "Arrêté du 2 avril 2012 - art. 11, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "11",
+                    "articleId": "JORFARTI000025670011",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2012-04-11",
+                    "dateSignaTexte": "2012-04-02",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000025063179",
+                "num": "5",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000025063179",
+                "content": "<p align='left'><br/>Le présent avenant prend effet le 1er octobre 2011. Il sera établi en un nombre suffisant d'exemplaires pour être remis à chacune des parties signataires.<br/>Par ailleurs, les parties conviennent de demander au ministère chargé du travail l'extension du présent avenant, afin de le rendre applicable à toutes les entreprises de géomètres-experts, topographes, photogrammètres et experts fonciers.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Date d'effet, dépôt, extension",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000025669948",
+                    "textTitle": "Arrêté du 2 avril 2012 - art. 11, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "11",
+                    "articleId": "JORFARTI000025670011",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2012-04-11",
+                    "dateSignaTexte": "2012-04-02",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000026355796",
+            "title": "Avenant du 15 mars 2012 relatif au régime de prévoyance",
+            "id": "KALITEXT000026355796",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2012-04-01"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000026355799",
+                "num": "1er",
+                "intOrdre": 524287,
+                "id": "KALIARTI000026355799",
+                "content": "<p align='left'><br/>Le présent avenant a pour objet de modifier les dispositions du régime de prévoyance conventionnel afin notamment d'en assurer la conformité avec les dispositions résultant de la convention collective nationale des cadres du 14 mars 1947 qui sont du ressort de l'employeur.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Objet",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000026737764",
+                    "textTitle": "Arrêté du 27 novembre 2012 - art. 15, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "15",
+                    "articleId": "JORFARTI000026737881",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2012-12-09",
+                    "dateSignaTexte": "2012-11-27",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000026355800",
+                "num": "2",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000026355800",
+                "content": "<p align='left'>Le capital (1) versé en cas de décès, calculé en fonction de la situation familiale au jour de l'événement, est fixé à : </p><p align='left'>– célibataire, veuf, divorcé, séparé sans enfant à charge : 215 % ; <br/>– marié, pacsé ou concubin sans enfant à charge : 380 % ; <br/>– toutes situations familiales avec un enfant à charge : 450 % ; <br/>– majoration par enfant à charge supplémentaire : 95 %. <br/>Les autres dispositions de l'article 4.1.3 de <a href='/affichIDCC.do?cidTexte=KALITEXT000005672238&categorieLien=cid'>l'accord annexe I de prévoyance</a> de la convention collective susvisée sont inchangées. </p><font color='#808080' size='1'><em>(1) En pourcentage du salaire annuel de référence.<br/></em></font>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Amélioration des garanties décès des salariés cadres",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000026737764",
+                    "textTitle": "Arrêté du 27 novembre 2012 - art. 15, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "15",
+                    "articleId": "JORFARTI000026737881",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2012-12-09",
+                    "dateSignaTexte": "2012-11-27",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000005672238",
+                    "textTitle": "Régime de prévoyance. - art. 4.1 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "4.1",
+                    "articleId": "KALIARTI000026387214",
+                    "natureText": "ACCORD",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2005-10-13",
+                    "dateDebutCible": "2012-04-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000026355801",
+                "num": "3",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000026355801",
+                "content": "<p align='left'><br/>Le montant annuel brut de la rente versée, sous déduction des prestations brutes de la sécurité sociale, de toute rémunération d'activité professionnelle ou des indemnités perçues au titre de l'assurance chômage, est égal à : </p><p align='left'><br/>– 80 % du salaire de référence, tranches A et B, en cas d'invalidité classée en 2e ou 3e catégorie ; <br/>– 48 % du salaire de référence, tranches A et B, en cas d'invalidité classée en 1re catégorie. <br/>Les autres dispositions de l'article 4.3.3 de l'accord annexe I de prévoyance de la convention collective susvisée sont inchangées.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Amélioration de la garantie invalidité des salariés cadres et non cadres",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000026737764",
+                    "textTitle": "Arrêté du 27 novembre 2012 - art. 15, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "15",
+                    "articleId": "JORFARTI000026737881",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2012-12-09",
+                    "dateSignaTexte": "2012-11-27",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000005672238",
+                    "textTitle": "Régime de prévoyance. - art. 4.3 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "4.3",
+                    "articleId": "KALIARTI000026387217",
+                    "natureText": "ACCORD",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2005-10-13",
+                    "dateDebutCible": "2012-04-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000026355802",
+                "num": "4",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000026355802",
+                "content": "<p align='left'><br/>Le montant annuel brut de la rente versée en cas d'incapacité permanente d'origine professionnelle, sous déduction des prestations brutes de la sécurité sociale, de toute rémunération d'activité professionnelle ou des indemnités perçues au titre de l'assurance chômage, est égal à 80 % du salaire de référence, tranches A et B, en cas d'incapacité permanente dont le taux est au moins égal à 66 % au sens de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006743029&dateTexte=&categorieLien=cid'>article L. 432-2 du code de la sécurité sociale</a>. <br/>Les autres dispositions de l'article 4.3.3 de l'accord annexe I de prévoyance de la convention collective susvisée sont inchangées.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Amélioration de la garantie incapacité permanente des salariés cadres et non cadres",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000026737764",
+                    "textTitle": "Arrêté du 27 novembre 2012 - art. 15, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "15",
+                    "articleId": "JORFARTI000026737881",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2012-12-09",
+                    "dateSignaTexte": "2012-11-27",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000005672238",
+                    "textTitle": "Régime de prévoyance. - art. 4.3 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "4.3",
+                    "articleId": "KALIARTI000026387217",
+                    "natureText": "ACCORD",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2005-10-13",
+                    "dateDebutCible": "2012-04-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000026355804",
+                "num": "5",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000026355804",
+                "content": "<p align='right'><br/>(En pourcentage.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Garantie</th><th colspan='2'>Part<br/>employeur</th><th colspan='2'>Part<br/>salarié</th><th colspan='2'>Ensemble</th></tr><tr><td><br/></td><td>TA</td><td>TB</td><td>TA</td><td>TB</td><td>TA</td><td>TB</td></tr><tr><td align='center'>Capital décès</td><td align='center'>0,87</td><td align='center'>0,36</td><td><br/></td><td align='center'>0,31</td><td align='center'>0,87</td><td align='center'>0,67</td></tr><tr><td align='center'>Rente éducation en cas de décès</td><td align='center'>0,23</td><td align='center'>0,02</td><td><br/></td><td align='center'>0,21</td><td align='center'>0,23</td><td align='center'>0,23</td></tr><tr><td align='center'>Incapacité temporaire maintien de salaire (jusqu'au 120e jour)</td><td align='center'>0,41</td><td align='center'>0,84</td><td><br/></td><td><br/></td><td align='center'>0,41</td><td align='center'>0,84</td></tr><tr><td align='center'>Couverture des charges sociales patronales (jusqu'au 120e jour)</td><td align='center'>0,16</td><td align='center'>0,34</td><td><br/></td><td><br/></td><td align='center'>0,16</td><td align='center'>0,34</td></tr><tr><td align='center'>Incapacité temporaire longue maladie (121e au 1 095e jour)</td><td><br/></td><td><br/></td><td align='center'>0,18</td><td align='center'>0,36</td><td align='center'>0,18</td><td align='center'>0,36</td></tr><tr><td align='center'>Invalidité, incapacité permanente</td><td align='center'>0,40</td><td align='center'>0,19</td><td><br/></td><td align='center'>0,45</td><td align='center'>0,40</td><td align='center'>0,64</td></tr><tr><td align='center'>Total décès, arrêt de travail</td><td align='center'>2,07</td><td align='center'>1,75</td><td align='center'>0,18</td><td align='center'>1,33</td><td align='center'>2,25</td><td align='center'>3,08</td></tr><tr><td align='center'>Garantie frais de santé (hors Alsace-Moselle)</td><td align='center'>1,12</td><td align='center'>1,12</td><td align='center'>0,75</td><td align='center'>0,75</td><td align='center'>1,87</td><td align='center'>1,87</td></tr><tr><td align='center'>Total prévoyance et frais de santé</td><td align='center'>3,19</td><td align='center'>2,87</td><td align='center'>0,93</td><td align='center'>2,08</td><td align='center'>4,12</td><td align='center'>4,95</td></tr></table></center></div></p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Modification des cotisations des salariés cadres",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000026737764",
+                    "textTitle": "Arrêté du 27 novembre 2012 - art. 15, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "15",
+                    "articleId": "JORFARTI000026737881",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2012-12-09",
+                    "dateSignaTexte": "2012-11-27",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000026355805",
+                "num": "6",
+                "intOrdre": 3145722,
+                "id": "KALIARTI000026355805",
+                "content": "<p align='right'><br/>(En pourcentage.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Garantie</th><th colspan='2'>Part<br/>employeur</th><th colspan='2'>Part<br/>salarié</th><th colspan='2'>Ensemble</th></tr><tr><td><br/></td><td>TA</td><td>TB</td><td>TA</td><td>TB</td><td>TA</td><td>TB</td></tr><tr><td align='center'>Capital décès</td><td align='center'>0,19</td><td align='center'>0,19</td><td align='center'>0,19</td><td align='center'>0,19</td><td align='center'>0,38</td><td align='center'>0,38</td></tr><tr><td align='center'>Rente éducation en cas de décès</td><td align='center'>0,02</td><td align='center'>0,02</td><td align='center'>0,21</td><td align='center'>0,21</td><td align='center'>0,23</td><td align='center'>0,23</td></tr><tr><td align='center'>Incapacité temporaire maintien de salaire (jusqu'au 120e jour)</td><td align='center'>0,41</td><td align='center'>0,84</td><td><br/></td><td><br/></td><td align='center'>0,41</td><td align='center'>0,84</td></tr><tr><td align='center'>Couverture des charges sociales patronales (jusqu'au 120e jour)</td><td align='center'>0,16</td><td align='center'>0,34</td><td><br/></td><td><br/></td><td align='center'>0,16</td><td align='center'>0,34</td></tr><tr><td align='center'>Incapacité temporaire longue maladie (121e au 1 095e jour)</td><td><br/></td><td><br/></td><td align='center'>0,18</td><td align='center'>0,36</td><td align='center'>0,18</td><td align='center'>0,36</td></tr><tr><td align='center'>Invalidité, incapacité permanente</td><td align='center'>0,22</td><td align='center'>0,40</td><td align='center'>0,10</td><td align='center'>0,45</td><td align='center'>0,32</td><td align='center'>0,85</td></tr><tr><td align='center'>Total décès, arrêt de travail</td><td align='center'>1,00</td><td align='center'>1,79</td><td align='center'>0,68</td><td align='center'>1,21</td><td align='center'>1,68</td><td align='center'>3,00</td></tr><tr><td align='center'>Garantie frais de santé (hors Alsace-Moselle)</td><td align='center'>1,12</td><td align='center'>1,12</td><td align='center'>0,75</td><td align='center'>0,75</td><td align='center'>1,87</td><td align='center'>1,87</td></tr><tr><td align='center'>Total prévoyance et frais de santé</td><td align='center'>2,12</td><td align='center'>2,91</td><td align='center'>1,43</td><td align='center'>1,96</td><td align='center'>3,55</td><td align='center'>4,87</td></tr></table></center></div></p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Modification des cotisations des salariés non cadres",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000026737764",
+                    "textTitle": "Arrêté du 27 novembre 2012 - art. 15, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "15",
+                    "articleId": "JORFARTI000026737881",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2012-12-09",
+                    "dateSignaTexte": "2012-11-27",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000026355806",
+                "num": "7",
+                "intOrdre": 3670009,
+                "id": "KALIARTI000026355806",
+                "content": "<p align='left'><br/>Le présent avenant prend effet le 1er avril 2012. Il est établi en nombre suffisant d'exemplaires pour être remis à chacune des parties signataires.<br/>Par ailleurs, les parties conviennent de demander au ministère chargé du travail l'extension du présent avenant, afin de le rendre applicable à toutes les entreprises de géomètres-experts, topographes, photogrammètres et experts fonciers.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Date d'effet. – Dépôt. – Extension",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000026737764",
+                    "textTitle": "Arrêté du 27 novembre 2012 - art. 15, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "15",
+                    "articleId": "JORFARTI000026737881",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2012-12-09",
+                    "dateSignaTexte": "2012-11-27",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
             "cid": "KALITEXT000026955561",
             "title": "Accord du 5 mai 2011 relatif au CQP « Techniques topographiques et foncières »",
             "id": "KALITEXT000026955561",
@@ -9891,402 +10287,6 @@
         {
           "type": "section",
           "data": {
-            "cid": "KALITEXT000025063172",
-            "title": "Avenant du 8 septembre 2011 relatif aux régimes de prévoyance et aux frais de santé",
-            "id": "KALITEXT000025063172",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "2011-10-01"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000025063175",
-                "num": "1er",
-                "intOrdre": 524287,
-                "id": "KALIARTI000025063175",
-                "content": "<p align='left'><br/>Le présent avenant a pour objet de modifier le régime prévoyance inscrit dans la convention collective nationale.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Objet",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000025669948",
-                    "textTitle": "Arrêté du 2 avril 2012 - art. 11, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "11",
-                    "articleId": "JORFARTI000025670011",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2012-04-11",
-                    "dateSignaTexte": "2012-04-02",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000025063176",
-                "num": "2",
-                "intOrdre": 1048574,
-                "id": "KALIARTI000025063176",
-                "content": "<p align='left'><br/>Le montant de la prestation est identique à celui prévu pour la garantie décès des enfants de cadres et des non-cadres : </p><p align='left'><br/>– jusqu'à 11 ans révolus : 10 % du salaire de référence ; <br/>– de 12 ans à 17 ans révolus : 15 % du salaire de référence ; <br/>– de 18 ans à 25 ans révolus : 20 % du salaire de référence. <br/><a href='/affichIDCCArticle.do?cidTexte=KALITEXT000005672238&idArticle=KALIARTI000005833150&categorieLien=cid'>L'article 4.1.3 </a>est modifié sur le taux de la rente temporaire d'éducation (date d'application de la disposition depuis le 1er juillet 2010).</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Modification du taux de la rente temporaire d'éducation",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000025669948",
-                    "textTitle": "Arrêté du 2 avril 2012 - art. 11, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "11",
-                    "articleId": "JORFARTI000025670011",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2012-04-11",
-                    "dateSignaTexte": "2012-04-02",
-                    "dateDebutCible": "2999-01-01"
-                  },
-                  {
-                    "textCid": "KALITEXT000005672238",
-                    "textTitle": "Régime de prévoyance. - art. 4.1 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "source",
-                    "articleNum": "4.1",
-                    "articleId": "KALIARTI000025125685",
-                    "natureText": "ACCORD",
-                    "datePubliTexte": "2999-01-01",
-                    "dateSignaTexte": "2005-10-13",
-                    "dateDebutCible": "2011-10-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000025063177",
-                "num": "3",
-                "intOrdre": 1572861,
-                "id": "KALIARTI000025063177",
-                "content": "<p align='left'><br/>Le salaire de référence servant au calcul des prestations incapacité temporaire est le dernier salaire total mensuel complet brut. <br/>Il sera tenu compte de la durée du travail du salarié au moment de l'arrêt ainsi que des rémunérations variables telles que les commissions, gratifications et primes versées au cours des 12 derniers mois. <br/>Le salaire de référence est limité aux tranches A et B.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Modification de l'article 4.2.2 relatif au salaire de référence servant au calcul des prestations incapacité temporaire",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000025669948",
-                    "textTitle": "Arrêté du 2 avril 2012 - art. 11, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "11",
-                    "articleId": "JORFARTI000025670011",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2012-04-11",
-                    "dateSignaTexte": "2012-04-02",
-                    "dateDebutCible": "2999-01-01"
-                  },
-                  {
-                    "textCid": "KALITEXT000005672238",
-                    "textTitle": "Régime de prévoyance. - art. 4.2 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "source",
-                    "articleNum": "4.2",
-                    "articleId": "KALIARTI000025125688",
-                    "natureText": "ACCORD",
-                    "datePubliTexte": "2999-01-01",
-                    "dateSignaTexte": "2005-10-13",
-                    "dateDebutCible": "2011-10-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000025063178",
-                "num": "4",
-                "intOrdre": 2097148,
-                "id": "KALIARTI000025063178",
-                "content": "<p align='center'>Régime minimum obligatoire et Régime optionnel </p><p align='center'></p><p align='left'>(tableaux non reproduits)</p><center></center>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Modification du régime frais de santé inscrit dans la convention collective nationale",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000025669948",
-                    "textTitle": "Arrêté du 2 avril 2012 - art. 11, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "11",
-                    "articleId": "JORFARTI000025670011",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2012-04-11",
-                    "dateSignaTexte": "2012-04-02",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000025063179",
-                "num": "5",
-                "intOrdre": 2621435,
-                "id": "KALIARTI000025063179",
-                "content": "<p align='left'><br/>Le présent avenant prend effet le 1er octobre 2011. Il sera établi en un nombre suffisant d'exemplaires pour être remis à chacune des parties signataires.<br/>Par ailleurs, les parties conviennent de demander au ministère chargé du travail l'extension du présent avenant, afin de le rendre applicable à toutes les entreprises de géomètres-experts, topographes, photogrammètres et experts fonciers.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Date d'effet, dépôt, extension",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000025669948",
-                    "textTitle": "Arrêté du 2 avril 2012 - art. 11, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "11",
-                    "articleId": "JORFARTI000025670011",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2012-04-11",
-                    "dateSignaTexte": "2012-04-02",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALITEXT000026355796",
-            "title": "Avenant du 15 mars 2012 relatif au régime de prévoyance",
-            "id": "KALITEXT000026355796",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "2012-04-01"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000026355799",
-                "num": "1er",
-                "intOrdre": 524287,
-                "id": "KALIARTI000026355799",
-                "content": "<p align='left'><br/>Le présent avenant a pour objet de modifier les dispositions du régime de prévoyance conventionnel afin notamment d'en assurer la conformité avec les dispositions résultant de la convention collective nationale des cadres du 14 mars 1947 qui sont du ressort de l'employeur.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Objet",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000026737764",
-                    "textTitle": "Arrêté du 27 novembre 2012 - art. 15, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "15",
-                    "articleId": "JORFARTI000026737881",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2012-12-09",
-                    "dateSignaTexte": "2012-11-27",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000026355800",
-                "num": "2",
-                "intOrdre": 1048574,
-                "id": "KALIARTI000026355800",
-                "content": "<p align='left'>Le capital (1) versé en cas de décès, calculé en fonction de la situation familiale au jour de l'événement, est fixé à : </p><p align='left'>– célibataire, veuf, divorcé, séparé sans enfant à charge : 215 % ; <br/>– marié, pacsé ou concubin sans enfant à charge : 380 % ; <br/>– toutes situations familiales avec un enfant à charge : 450 % ; <br/>– majoration par enfant à charge supplémentaire : 95 %. <br/>Les autres dispositions de l'article 4.1.3 de <a href='/affichIDCC.do?cidTexte=KALITEXT000005672238&categorieLien=cid'>l'accord annexe I de prévoyance</a> de la convention collective susvisée sont inchangées. </p><font color='#808080' size='1'><em>(1) En pourcentage du salaire annuel de référence.<br/></em></font>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Amélioration des garanties décès des salariés cadres",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000026737764",
-                    "textTitle": "Arrêté du 27 novembre 2012 - art. 15, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "15",
-                    "articleId": "JORFARTI000026737881",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2012-12-09",
-                    "dateSignaTexte": "2012-11-27",
-                    "dateDebutCible": "2999-01-01"
-                  },
-                  {
-                    "textCid": "KALITEXT000005672238",
-                    "textTitle": "Régime de prévoyance. - art. 4.1 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "source",
-                    "articleNum": "4.1",
-                    "articleId": "KALIARTI000026387214",
-                    "natureText": "ACCORD",
-                    "datePubliTexte": "2999-01-01",
-                    "dateSignaTexte": "2005-10-13",
-                    "dateDebutCible": "2012-04-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000026355801",
-                "num": "3",
-                "intOrdre": 1572861,
-                "id": "KALIARTI000026355801",
-                "content": "<p align='left'><br/>Le montant annuel brut de la rente versée, sous déduction des prestations brutes de la sécurité sociale, de toute rémunération d'activité professionnelle ou des indemnités perçues au titre de l'assurance chômage, est égal à : </p><p align='left'><br/>– 80 % du salaire de référence, tranches A et B, en cas d'invalidité classée en 2e ou 3e catégorie ; <br/>– 48 % du salaire de référence, tranches A et B, en cas d'invalidité classée en 1re catégorie. <br/>Les autres dispositions de l'article 4.3.3 de l'accord annexe I de prévoyance de la convention collective susvisée sont inchangées.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Amélioration de la garantie invalidité des salariés cadres et non cadres",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000026737764",
-                    "textTitle": "Arrêté du 27 novembre 2012 - art. 15, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "15",
-                    "articleId": "JORFARTI000026737881",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2012-12-09",
-                    "dateSignaTexte": "2012-11-27",
-                    "dateDebutCible": "2999-01-01"
-                  },
-                  {
-                    "textCid": "KALITEXT000005672238",
-                    "textTitle": "Régime de prévoyance. - art. 4.3 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "source",
-                    "articleNum": "4.3",
-                    "articleId": "KALIARTI000026387217",
-                    "natureText": "ACCORD",
-                    "datePubliTexte": "2999-01-01",
-                    "dateSignaTexte": "2005-10-13",
-                    "dateDebutCible": "2012-04-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000026355802",
-                "num": "4",
-                "intOrdre": 2097148,
-                "id": "KALIARTI000026355802",
-                "content": "<p align='left'><br/>Le montant annuel brut de la rente versée en cas d'incapacité permanente d'origine professionnelle, sous déduction des prestations brutes de la sécurité sociale, de toute rémunération d'activité professionnelle ou des indemnités perçues au titre de l'assurance chômage, est égal à 80 % du salaire de référence, tranches A et B, en cas d'incapacité permanente dont le taux est au moins égal à 66 % au sens de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006743029&dateTexte=&categorieLien=cid'>article L. 432-2 du code de la sécurité sociale</a>. <br/>Les autres dispositions de l'article 4.3.3 de l'accord annexe I de prévoyance de la convention collective susvisée sont inchangées.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Amélioration de la garantie incapacité permanente des salariés cadres et non cadres",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000026737764",
-                    "textTitle": "Arrêté du 27 novembre 2012 - art. 15, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "15",
-                    "articleId": "JORFARTI000026737881",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2012-12-09",
-                    "dateSignaTexte": "2012-11-27",
-                    "dateDebutCible": "2999-01-01"
-                  },
-                  {
-                    "textCid": "KALITEXT000005672238",
-                    "textTitle": "Régime de prévoyance. - art. 4.3 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "source",
-                    "articleNum": "4.3",
-                    "articleId": "KALIARTI000026387217",
-                    "natureText": "ACCORD",
-                    "datePubliTexte": "2999-01-01",
-                    "dateSignaTexte": "2005-10-13",
-                    "dateDebutCible": "2012-04-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000026355804",
-                "num": "5",
-                "intOrdre": 2621435,
-                "id": "KALIARTI000026355804",
-                "content": "<p align='right'><br/>(En pourcentage.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Garantie</th><th colspan='2'>Part<br/>employeur</th><th colspan='2'>Part<br/>salarié</th><th colspan='2'>Ensemble</th></tr><tr><td><br/></td><td>TA</td><td>TB</td><td>TA</td><td>TB</td><td>TA</td><td>TB</td></tr><tr><td align='center'>Capital décès</td><td align='center'>0,87</td><td align='center'>0,36</td><td><br/></td><td align='center'>0,31</td><td align='center'>0,87</td><td align='center'>0,67</td></tr><tr><td align='center'>Rente éducation en cas de décès</td><td align='center'>0,23</td><td align='center'>0,02</td><td><br/></td><td align='center'>0,21</td><td align='center'>0,23</td><td align='center'>0,23</td></tr><tr><td align='center'>Incapacité temporaire maintien de salaire (jusqu'au 120e jour)</td><td align='center'>0,41</td><td align='center'>0,84</td><td><br/></td><td><br/></td><td align='center'>0,41</td><td align='center'>0,84</td></tr><tr><td align='center'>Couverture des charges sociales patronales (jusqu'au 120e jour)</td><td align='center'>0,16</td><td align='center'>0,34</td><td><br/></td><td><br/></td><td align='center'>0,16</td><td align='center'>0,34</td></tr><tr><td align='center'>Incapacité temporaire longue maladie (121e au 1 095e jour)</td><td><br/></td><td><br/></td><td align='center'>0,18</td><td align='center'>0,36</td><td align='center'>0,18</td><td align='center'>0,36</td></tr><tr><td align='center'>Invalidité, incapacité permanente</td><td align='center'>0,40</td><td align='center'>0,19</td><td><br/></td><td align='center'>0,45</td><td align='center'>0,40</td><td align='center'>0,64</td></tr><tr><td align='center'>Total décès, arrêt de travail</td><td align='center'>2,07</td><td align='center'>1,75</td><td align='center'>0,18</td><td align='center'>1,33</td><td align='center'>2,25</td><td align='center'>3,08</td></tr><tr><td align='center'>Garantie frais de santé (hors Alsace-Moselle)</td><td align='center'>1,12</td><td align='center'>1,12</td><td align='center'>0,75</td><td align='center'>0,75</td><td align='center'>1,87</td><td align='center'>1,87</td></tr><tr><td align='center'>Total prévoyance et frais de santé</td><td align='center'>3,19</td><td align='center'>2,87</td><td align='center'>0,93</td><td align='center'>2,08</td><td align='center'>4,12</td><td align='center'>4,95</td></tr></table></center></div></p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Modification des cotisations des salariés cadres",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000026737764",
-                    "textTitle": "Arrêté du 27 novembre 2012 - art. 15, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "15",
-                    "articleId": "JORFARTI000026737881",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2012-12-09",
-                    "dateSignaTexte": "2012-11-27",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000026355805",
-                "num": "6",
-                "intOrdre": 3145722,
-                "id": "KALIARTI000026355805",
-                "content": "<p align='right'><br/>(En pourcentage.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Garantie</th><th colspan='2'>Part<br/>employeur</th><th colspan='2'>Part<br/>salarié</th><th colspan='2'>Ensemble</th></tr><tr><td><br/></td><td>TA</td><td>TB</td><td>TA</td><td>TB</td><td>TA</td><td>TB</td></tr><tr><td align='center'>Capital décès</td><td align='center'>0,19</td><td align='center'>0,19</td><td align='center'>0,19</td><td align='center'>0,19</td><td align='center'>0,38</td><td align='center'>0,38</td></tr><tr><td align='center'>Rente éducation en cas de décès</td><td align='center'>0,02</td><td align='center'>0,02</td><td align='center'>0,21</td><td align='center'>0,21</td><td align='center'>0,23</td><td align='center'>0,23</td></tr><tr><td align='center'>Incapacité temporaire maintien de salaire (jusqu'au 120e jour)</td><td align='center'>0,41</td><td align='center'>0,84</td><td><br/></td><td><br/></td><td align='center'>0,41</td><td align='center'>0,84</td></tr><tr><td align='center'>Couverture des charges sociales patronales (jusqu'au 120e jour)</td><td align='center'>0,16</td><td align='center'>0,34</td><td><br/></td><td><br/></td><td align='center'>0,16</td><td align='center'>0,34</td></tr><tr><td align='center'>Incapacité temporaire longue maladie (121e au 1 095e jour)</td><td><br/></td><td><br/></td><td align='center'>0,18</td><td align='center'>0,36</td><td align='center'>0,18</td><td align='center'>0,36</td></tr><tr><td align='center'>Invalidité, incapacité permanente</td><td align='center'>0,22</td><td align='center'>0,40</td><td align='center'>0,10</td><td align='center'>0,45</td><td align='center'>0,32</td><td align='center'>0,85</td></tr><tr><td align='center'>Total décès, arrêt de travail</td><td align='center'>1,00</td><td align='center'>1,79</td><td align='center'>0,68</td><td align='center'>1,21</td><td align='center'>1,68</td><td align='center'>3,00</td></tr><tr><td align='center'>Garantie frais de santé (hors Alsace-Moselle)</td><td align='center'>1,12</td><td align='center'>1,12</td><td align='center'>0,75</td><td align='center'>0,75</td><td align='center'>1,87</td><td align='center'>1,87</td></tr><tr><td align='center'>Total prévoyance et frais de santé</td><td align='center'>2,12</td><td align='center'>2,91</td><td align='center'>1,43</td><td align='center'>1,96</td><td align='center'>3,55</td><td align='center'>4,87</td></tr></table></center></div></p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Modification des cotisations des salariés non cadres",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000026737764",
-                    "textTitle": "Arrêté du 27 novembre 2012 - art. 15, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "15",
-                    "articleId": "JORFARTI000026737881",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2012-12-09",
-                    "dateSignaTexte": "2012-11-27",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000026355806",
-                "num": "7",
-                "intOrdre": 3670009,
-                "id": "KALIARTI000026355806",
-                "content": "<p align='left'><br/>Le présent avenant prend effet le 1er avril 2012. Il est établi en nombre suffisant d'exemplaires pour être remis à chacune des parties signataires.<br/>Par ailleurs, les parties conviennent de demander au ministère chargé du travail l'extension du présent avenant, afin de le rendre applicable à toutes les entreprises de géomètres-experts, topographes, photogrammètres et experts fonciers.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Date d'effet. – Dépôt. – Extension",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000026737764",
-                    "textTitle": "Arrêté du 27 novembre 2012 - art. 15, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "15",
-                    "articleId": "JORFARTI000026737881",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2012-12-09",
-                    "dateSignaTexte": "2012-11-27",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
             "cid": "KALITEXT000026955583",
             "title": "Accord du 27 septembre 2012 relatif aux trajectoires professionnelles",
             "id": "KALITEXT000026955583",
@@ -10652,556 +10652,6 @@
                   }
                 ]
               }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALITEXT000028900646",
-            "title": "Accord du 4 avril 2013 relatif à la labellisation des formations d'adaptation",
-            "id": "KALITEXT000028900646",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "2014-01-31"
-          },
-          "children": [
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000028900649",
-                "intOrdre": 524287,
-                "title": "Préambule",
-                "id": "KALISCTA000028900649",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000028900653",
-                    "intOrdre": 524287,
-                    "id": "KALIARTI000028900653",
-                    "content": "<p align='left'><br/>Le présent accord a pour objet de régir et d'encadrer les rapports entre la branche professionnelle et les organismes mettant en œuvre et exploitant des formations d'adaptation au poste de travail ou liées à l'évolution dans l'emploi, les formations de développement de compétences n'étant pas diplômantes, certifiantes, qualifiantes ou donnant lieu à un titre destinées aux salariés des entreprises de géomètres experts, de géomètres-topographes, de photogrammètres et d'experts fonciers.<br/>Cet accord a également pour objet la mise en place d'un label de formation, le label « CPNEFP APGTP », suivant les critères établis ci-après.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000029066916",
-                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "12",
-                        "articleId": "JORFARTI000029066974",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2014-06-11",
-                        "dateSignaTexte": "2014-06-02",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000028900650",
-                "intOrdre": 1048574,
-                "title": "Titre Ier Champ d'application",
-                "id": "KALISCTA000028900650",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000028900654",
-                    "num": "1er",
-                    "intOrdre": 524287,
-                    "id": "KALIARTI000028900654",
-                    "content": "<p align='left'><br/>Le présent accord national s'applique à l'ensemble des salariés et des entreprises relevant de la convention collective des cabinets ou entreprises de géomètres experts, géomètres-topographes, photogrammètres et experts fonciers.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "surtitre": "Champ d'application",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000029066916",
-                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "12",
-                        "articleId": "JORFARTI000029066974",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2014-06-11",
-                        "dateSignaTexte": "2014-06-02",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000028900651",
-                "intOrdre": 1572861,
-                "title": "Titre II Labellisation",
-                "id": "KALISCTA000028900651",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000028900655",
-                    "num": "2",
-                    "intOrdre": 524287,
-                    "id": "KALIARTI000028900655",
-                    "content": "<p align='left'><br/>Sont concernées toutes les formations définies comme prioritaires par la commission paritaire nationale de l'emploi et de la formation professionnelle (CPNEFP), à l'exception des formations diplômantes, certifiantes ou qualifiantes ou donnant lieu à la délivrance d'un titre qui font l'objet d'accords de branche spécifiques.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "surtitre": "Formations labellisables",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000029066916",
-                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "12",
-                        "articleId": "JORFARTI000029066974",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2014-06-11",
-                        "dateSignaTexte": "2014-06-02",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000028900656",
-                    "num": "3",
-                    "intOrdre": 1048574,
-                    "id": "KALIARTI000028900656",
-                    "content": "<p align='left'><br/>L'organisme de formation devra analyser l'activité sur laquelle porte la formation et la définir suivant l'activité et/ou le domaine d'activités figurant dans la cartographie des métiers de la branche.<br/>De plus, il devra définir un référentiel des capacités et des compétences qui seront à acquérir par l'activité définie ci-dessus.<br/>Cette analyse devra permettre à l'organisme de fournir un programme de formation par activité et/ou domaine d'activités visé conformément aux critères définis par la branche dans le cahier des charges défini ci-après (cf. titre III).</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "surtitre": "Objectif de la labellisation",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000029066916",
-                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "12",
-                        "articleId": "JORFARTI000029066974",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2014-06-11",
-                        "dateSignaTexte": "2014-06-02",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000028900657",
-                    "num": "4",
-                    "intOrdre": 1572861,
-                    "id": "KALIARTI000028900657",
-                    "content": "<p align='left'><br/>L'organisme de formation saisira par courrier recommandé une commission paritaire régionale (CPR) intéressée de voir labelliser tout ou partie de son offre de formation.<br/>Ce document comprendra, outre le cahier des charges (cf. titre III), l'annexe I, la fiche d'identité de l'organisme de formation, la liste des documents à fournir (bilan pédagogique et financier).<br/>Ce dossier comprendra également, si elles ne sont pas fournies par la CPNEFP, une proposition de référentiel des capacités et des compétences préalable à la formation (prérequis) et une proposition de référentiel des capacités et des compétences à l'issue de la formation.<br/>La CPR analysera l'offre de formation à travers les critères du cahier des charges de la labellisation.<br/>La CPR transmettra son avis et son analyse à la CPNEFP.<br/>Après vérification de la forme de l'avis rendu, la CPNEFP entérinera ou pas l'avis de la CPR et décidera du caractère prioritaire ou non de la formation.<br/>Le délai maximum de réponse suite à la demande de l'organisme de formation sera de 6 mois.<br/>Aucune validation tacite n'est prévue à l'issue de ce délai.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "surtitre": "Processus de labellisation de la formation",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000029066916",
-                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "12",
-                        "articleId": "JORFARTI000029066974",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2014-06-11",
-                        "dateSignaTexte": "2014-06-02",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000028900658",
-                    "num": "5",
-                    "intOrdre": 2097148,
-                    "id": "KALIARTI000028900658",
-                    "content": "<p align='left'><br/>Dans le cadre de la politique de formation de la branche, les signataires souhaitent voir se développer des formations labellisées répondant au cahier des charges de labellisation établi par la branche (cf. titre III).<br/>En conséquence, les signataires considèrent que les prises en charge de ces formations labellisées (frais pédagogiques, salaires, frais annexes) devront être supérieures aux formations non labellisées.<br/>Les niveaux de prise en charge seront décidés par la CPNEFP.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "surtitre": "Financement des formations labellisées",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000029066916",
-                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "12",
-                        "articleId": "JORFARTI000029066974",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2014-06-11",
-                        "dateSignaTexte": "2014-06-02",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000028900652",
-                "intOrdre": 2097148,
-                "title": "Titre III Cahier des charges de la labellisation",
-                "id": "KALISCTA000028900652",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000028900659",
-                    "intOrdre": 524287,
-                    "id": "KALIARTI000028900659",
-                    "content": "<p align='left'><br/>L'organisme de formation devra décrire la formation qu'il propose suivant les critères ci-dessous.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000029066916",
-                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "12",
-                        "articleId": "JORFARTI000029066974",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2014-06-11",
-                        "dateSignaTexte": "2014-06-02",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000028900660",
-                    "num": "6",
-                    "intOrdre": 1048574,
-                    "id": "KALIARTI000028900660",
-                    "content": "<p align='left'><br/>L'organisme de formation devra proposer un programme de formation en adéquation avec la cartographie des métiers.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "surtitre": "Présentation générale de la formation",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000029066916",
-                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "12",
-                        "articleId": "JORFARTI000029066974",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2014-06-11",
-                        "dateSignaTexte": "2014-06-02",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000028900661",
-                    "num": "7",
-                    "intOrdre": 1572861,
-                    "id": "KALIARTI000028900661",
-                    "content": "<p align='left'><br/>Les prérequis définissant le public devront permettre la constitution de groupes homogènes à partir d'un référentiel de capacités et de compétences minimum à définir en fonction de la formation.<br/>L'organisme de formation devra indiquer les moyens qu'il emploiera pour tester le public et constituer les groupes homogènes.<br/>L'organisme de formation devra orienter le public en fonction des niveaux de maîtrise (débutant, intermédiaire) de l'activité.<br/>En outre, il devra proposer des solutions de substitution aux stagiaires dont les prérequis ne permettraient pas de les insérer dans le groupe.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "surtitre": "Prérequis définissant le public",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000029066916",
-                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "12",
-                        "articleId": "JORFARTI000029066974",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2014-06-11",
-                        "dateSignaTexte": "2014-06-02",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000028900662",
-                    "num": "8",
-                    "intOrdre": 2097148,
-                    "id": "KALIARTI000028900662",
-                    "content": "<p align='left'><br/>L'organisme de formation devra s'assurer que les compétences enseignées durant la formation seront effectivement acquises ; elles devront être évaluées individuellement.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "surtitre": "Objectif de la formation et référentiel de compétences",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000029066916",
-                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "12",
-                        "articleId": "JORFARTI000029066974",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2014-06-11",
-                        "dateSignaTexte": "2014-06-02",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000028900663",
-                    "num": "9",
-                    "intOrdre": 2621435,
-                    "id": "KALIARTI000028900663",
-                    "content": "<p align='left'><br/>L'organisme de formation devra prévoir le bordereau d'inscription du stagiaire permettant une évaluation de la maîtrise des capacités et des compétences du référentiel préalable (prérequis) de l'activité visée lors de la formation.<br/>Cette évaluation servira à l'organisme de formation dans la constitution des groupes de stagiaires homogènes.<br/>L'organisme de formation proposera dans son dossier de labellisation le descriptif précis de la gestion des inscriptions.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "surtitre": "Processus d'inscription des candidats",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000029066916",
-                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "12",
-                        "articleId": "JORFARTI000029066974",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2014-06-11",
-                        "dateSignaTexte": "2014-06-02",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000028900664",
-                    "num": "10",
-                    "intOrdre": 3145722,
-                    "id": "KALIARTI000028900664",
-                    "content": "<p align='left'><br/>Le nombre maximum de stagiaires par session ne devra pas dépasser 15 participants ou, si l'organisme a justifié d'une pédagogie adaptée (matériel technique ou informatique, modalités d'animation), ce nombre pourra être étendu à 20 participants.<br/>Au-delà de ce seuil, aucune formation ne pourra être considérée comme labellisable.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "surtitre": "Effectif de stagiaires par session",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000029066916",
-                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "12",
-                        "articleId": "JORFARTI000029066974",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2014-06-11",
-                        "dateSignaTexte": "2014-06-02",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000028900665",
-                    "num": "11",
-                    "intOrdre": 3670009,
-                    "id": "KALIARTI000028900665",
-                    "content": "<p align='left'><br/>L'organisme de formation indiquera dans son dossier de labellisation les moyens pédagogiques mis en œuvre, le profil et l'expérience pédagogique des intervenants et les modalités d'évaluation des acquisitions des capacités et des compétences.<br/>L'organisme de formation devra réaliser et éditer des supports et des contenus de formation qui seront remis aux stagiaires.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "surtitre": "Moyens pédagogiques mis à disposition par l'organisme de formation",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000029066916",
-                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "12",
-                        "articleId": "JORFARTI000029066974",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2014-06-11",
-                        "dateSignaTexte": "2014-06-02",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000028900666",
-                    "num": "12",
-                    "intOrdre": 4194296,
-                    "id": "KALIARTI000028900666",
-                    "content": "<p align='left'><br/>L'organisme de formation proposera, dans son dossier de labellisation, les moyens matériels à mettre en œuvre pour la formation en termes quantitatifs et qualitatifs pour le matériel informatique et technique et pour le lieu de déroulement de la formation.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "surtitre": "Moyens matériels : locaux d'accueil, équipements",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000029066916",
-                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "12",
-                        "articleId": "JORFARTI000029066974",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2014-06-11",
-                        "dateSignaTexte": "2014-06-02",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000028900667",
-                    "num": "13",
-                    "intOrdre": 4718583,
-                    "id": "KALIARTI000028900667",
-                    "content": "<p align='left'><br/>L'organisme de formation proposera, dans son dossier de labellisation, le référentiel pédagogique.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "surtitre": "Référentiel pédagogique",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000029066916",
-                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "12",
-                        "articleId": "JORFARTI000029066974",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2014-06-11",
-                        "dateSignaTexte": "2014-06-02",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000028900668",
-                    "num": "14",
-                    "intOrdre": 5242870,
-                    "id": "KALIARTI000028900668",
-                    "content": "<p align='left'><br/>L'Association paritaire des géomètres, topographes, photogrammètres, experts-fonciers (APGTP), sous l'égide de la CPNEFP, s'engage à assurer la promotion des formations labellisées auprès des salariés et entreprises à travers son site internet et des lettres d'information.<br/>Les syndicats signataires s'engagent à relayer la promotion desdites formations auprès de leurs adhérents.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "surtitre": "Publicité des formations labellisées auprès des professionnels de la branche",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000029066916",
-                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "12",
-                        "articleId": "JORFARTI000029066974",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2014-06-11",
-                        "dateSignaTexte": "2014-06-02",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000028900669",
-                    "num": "15",
-                    "intOrdre": 5767157,
-                    "id": "KALIARTI000028900669",
-                    "content": "<p align='left'><br/>L'organisme de formation devra mesurer l'efficacité de la formation dispensée en interrogeant les employés et les employeurs suivant un calendrier défini dans le cahier des charges et devra le transmettre à la CPNEFP.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "surtitre": "Bilan de la formation",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000029066916",
-                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "12",
-                        "articleId": "JORFARTI000029066974",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2014-06-11",
-                        "dateSignaTexte": "2014-06-02",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000028900670",
-                    "num": "16",
-                    "intOrdre": 6291444,
-                    "id": "KALIARTI000028900670",
-                    "content": "<p align='left'><br/>La labellisation sera accordée à compter de la date de validation par la CPNEFP jusqu'au mois de mai de l'année suivante.<br/>Dans la mesure où l'ensemble des pièces justificatives, conformément à l'article 4, aura été régulièrement fourni, la labellisation sera reconduite sous un délai de 1 mois par la CPNEFP.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "surtitre": "Durée et renouvellement de la labellisation",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000029066916",
-                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "12",
-                        "articleId": "JORFARTI000029066974",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2014-06-11",
-                        "dateSignaTexte": "2014-06-02",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000028900671",
-                    "num": "17",
-                    "intOrdre": 6815731,
-                    "id": "KALIARTI000028900671",
-                    "content": "<p align='left'><br/>Les cabinets et entreprises de géomètres experts, géomètres-topographes, photogrammètres et experts fonciers de la branche ne pourront déroger à aucune des dispositions du présent accord, lequel revêt un caractère impératif, sauf dans un sens plus favorable aux salariés.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "surtitre": "Caractère impératif",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000029066916",
-                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "12",
-                        "articleId": "JORFARTI000029066974",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2014-06-11",
-                        "dateSignaTexte": "2014-06-02",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                }
-              ]
             }
           ]
         },
@@ -11860,6 +11310,556 @@
                         "natureText": "ARRETE",
                         "datePubliTexte": "2015-02-07",
                         "dateSignaTexte": "2015-01-29",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000028900646",
+            "title": "Accord du 4 avril 2013 relatif à la labellisation des formations d'adaptation",
+            "id": "KALITEXT000028900646",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2014-01-31"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000028900649",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000028900649",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000028900653",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000028900653",
+                    "content": "<p align='left'><br/>Le présent accord a pour objet de régir et d'encadrer les rapports entre la branche professionnelle et les organismes mettant en œuvre et exploitant des formations d'adaptation au poste de travail ou liées à l'évolution dans l'emploi, les formations de développement de compétences n'étant pas diplômantes, certifiantes, qualifiantes ou donnant lieu à un titre destinées aux salariés des entreprises de géomètres experts, de géomètres-topographes, de photogrammètres et d'experts fonciers.<br/>Cet accord a également pour objet la mise en place d'un label de formation, le label « CPNEFP APGTP », suivant les critères établis ci-après.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000029066916",
+                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "12",
+                        "articleId": "JORFARTI000029066974",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2014-06-11",
+                        "dateSignaTexte": "2014-06-02",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000028900650",
+                "intOrdre": 1048574,
+                "title": "Titre Ier Champ d'application",
+                "id": "KALISCTA000028900650",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000028900654",
+                    "num": "1er",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000028900654",
+                    "content": "<p align='left'><br/>Le présent accord national s'applique à l'ensemble des salariés et des entreprises relevant de la convention collective des cabinets ou entreprises de géomètres experts, géomètres-topographes, photogrammètres et experts fonciers.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Champ d'application",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000029066916",
+                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "12",
+                        "articleId": "JORFARTI000029066974",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2014-06-11",
+                        "dateSignaTexte": "2014-06-02",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000028900651",
+                "intOrdre": 1572861,
+                "title": "Titre II Labellisation",
+                "id": "KALISCTA000028900651",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000028900655",
+                    "num": "2",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000028900655",
+                    "content": "<p align='left'><br/>Sont concernées toutes les formations définies comme prioritaires par la commission paritaire nationale de l'emploi et de la formation professionnelle (CPNEFP), à l'exception des formations diplômantes, certifiantes ou qualifiantes ou donnant lieu à la délivrance d'un titre qui font l'objet d'accords de branche spécifiques.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Formations labellisables",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000029066916",
+                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "12",
+                        "articleId": "JORFARTI000029066974",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2014-06-11",
+                        "dateSignaTexte": "2014-06-02",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000028900656",
+                    "num": "3",
+                    "intOrdre": 1048574,
+                    "id": "KALIARTI000028900656",
+                    "content": "<p align='left'><br/>L'organisme de formation devra analyser l'activité sur laquelle porte la formation et la définir suivant l'activité et/ou le domaine d'activités figurant dans la cartographie des métiers de la branche.<br/>De plus, il devra définir un référentiel des capacités et des compétences qui seront à acquérir par l'activité définie ci-dessus.<br/>Cette analyse devra permettre à l'organisme de fournir un programme de formation par activité et/ou domaine d'activités visé conformément aux critères définis par la branche dans le cahier des charges défini ci-après (cf. titre III).</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Objectif de la labellisation",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000029066916",
+                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "12",
+                        "articleId": "JORFARTI000029066974",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2014-06-11",
+                        "dateSignaTexte": "2014-06-02",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000028900657",
+                    "num": "4",
+                    "intOrdre": 1572861,
+                    "id": "KALIARTI000028900657",
+                    "content": "<p align='left'><br/>L'organisme de formation saisira par courrier recommandé une commission paritaire régionale (CPR) intéressée de voir labelliser tout ou partie de son offre de formation.<br/>Ce document comprendra, outre le cahier des charges (cf. titre III), l'annexe I, la fiche d'identité de l'organisme de formation, la liste des documents à fournir (bilan pédagogique et financier).<br/>Ce dossier comprendra également, si elles ne sont pas fournies par la CPNEFP, une proposition de référentiel des capacités et des compétences préalable à la formation (prérequis) et une proposition de référentiel des capacités et des compétences à l'issue de la formation.<br/>La CPR analysera l'offre de formation à travers les critères du cahier des charges de la labellisation.<br/>La CPR transmettra son avis et son analyse à la CPNEFP.<br/>Après vérification de la forme de l'avis rendu, la CPNEFP entérinera ou pas l'avis de la CPR et décidera du caractère prioritaire ou non de la formation.<br/>Le délai maximum de réponse suite à la demande de l'organisme de formation sera de 6 mois.<br/>Aucune validation tacite n'est prévue à l'issue de ce délai.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Processus de labellisation de la formation",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000029066916",
+                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "12",
+                        "articleId": "JORFARTI000029066974",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2014-06-11",
+                        "dateSignaTexte": "2014-06-02",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000028900658",
+                    "num": "5",
+                    "intOrdre": 2097148,
+                    "id": "KALIARTI000028900658",
+                    "content": "<p align='left'><br/>Dans le cadre de la politique de formation de la branche, les signataires souhaitent voir se développer des formations labellisées répondant au cahier des charges de labellisation établi par la branche (cf. titre III).<br/>En conséquence, les signataires considèrent que les prises en charge de ces formations labellisées (frais pédagogiques, salaires, frais annexes) devront être supérieures aux formations non labellisées.<br/>Les niveaux de prise en charge seront décidés par la CPNEFP.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Financement des formations labellisées",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000029066916",
+                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "12",
+                        "articleId": "JORFARTI000029066974",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2014-06-11",
+                        "dateSignaTexte": "2014-06-02",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000028900652",
+                "intOrdre": 2097148,
+                "title": "Titre III Cahier des charges de la labellisation",
+                "id": "KALISCTA000028900652",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000028900659",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000028900659",
+                    "content": "<p align='left'><br/>L'organisme de formation devra décrire la formation qu'il propose suivant les critères ci-dessous.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000029066916",
+                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "12",
+                        "articleId": "JORFARTI000029066974",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2014-06-11",
+                        "dateSignaTexte": "2014-06-02",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000028900660",
+                    "num": "6",
+                    "intOrdre": 1048574,
+                    "id": "KALIARTI000028900660",
+                    "content": "<p align='left'><br/>L'organisme de formation devra proposer un programme de formation en adéquation avec la cartographie des métiers.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Présentation générale de la formation",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000029066916",
+                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "12",
+                        "articleId": "JORFARTI000029066974",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2014-06-11",
+                        "dateSignaTexte": "2014-06-02",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000028900661",
+                    "num": "7",
+                    "intOrdre": 1572861,
+                    "id": "KALIARTI000028900661",
+                    "content": "<p align='left'><br/>Les prérequis définissant le public devront permettre la constitution de groupes homogènes à partir d'un référentiel de capacités et de compétences minimum à définir en fonction de la formation.<br/>L'organisme de formation devra indiquer les moyens qu'il emploiera pour tester le public et constituer les groupes homogènes.<br/>L'organisme de formation devra orienter le public en fonction des niveaux de maîtrise (débutant, intermédiaire) de l'activité.<br/>En outre, il devra proposer des solutions de substitution aux stagiaires dont les prérequis ne permettraient pas de les insérer dans le groupe.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Prérequis définissant le public",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000029066916",
+                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "12",
+                        "articleId": "JORFARTI000029066974",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2014-06-11",
+                        "dateSignaTexte": "2014-06-02",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000028900662",
+                    "num": "8",
+                    "intOrdre": 2097148,
+                    "id": "KALIARTI000028900662",
+                    "content": "<p align='left'><br/>L'organisme de formation devra s'assurer que les compétences enseignées durant la formation seront effectivement acquises ; elles devront être évaluées individuellement.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Objectif de la formation et référentiel de compétences",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000029066916",
+                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "12",
+                        "articleId": "JORFARTI000029066974",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2014-06-11",
+                        "dateSignaTexte": "2014-06-02",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000028900663",
+                    "num": "9",
+                    "intOrdre": 2621435,
+                    "id": "KALIARTI000028900663",
+                    "content": "<p align='left'><br/>L'organisme de formation devra prévoir le bordereau d'inscription du stagiaire permettant une évaluation de la maîtrise des capacités et des compétences du référentiel préalable (prérequis) de l'activité visée lors de la formation.<br/>Cette évaluation servira à l'organisme de formation dans la constitution des groupes de stagiaires homogènes.<br/>L'organisme de formation proposera dans son dossier de labellisation le descriptif précis de la gestion des inscriptions.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Processus d'inscription des candidats",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000029066916",
+                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "12",
+                        "articleId": "JORFARTI000029066974",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2014-06-11",
+                        "dateSignaTexte": "2014-06-02",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000028900664",
+                    "num": "10",
+                    "intOrdre": 3145722,
+                    "id": "KALIARTI000028900664",
+                    "content": "<p align='left'><br/>Le nombre maximum de stagiaires par session ne devra pas dépasser 15 participants ou, si l'organisme a justifié d'une pédagogie adaptée (matériel technique ou informatique, modalités d'animation), ce nombre pourra être étendu à 20 participants.<br/>Au-delà de ce seuil, aucune formation ne pourra être considérée comme labellisable.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Effectif de stagiaires par session",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000029066916",
+                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "12",
+                        "articleId": "JORFARTI000029066974",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2014-06-11",
+                        "dateSignaTexte": "2014-06-02",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000028900665",
+                    "num": "11",
+                    "intOrdre": 3670009,
+                    "id": "KALIARTI000028900665",
+                    "content": "<p align='left'><br/>L'organisme de formation indiquera dans son dossier de labellisation les moyens pédagogiques mis en œuvre, le profil et l'expérience pédagogique des intervenants et les modalités d'évaluation des acquisitions des capacités et des compétences.<br/>L'organisme de formation devra réaliser et éditer des supports et des contenus de formation qui seront remis aux stagiaires.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Moyens pédagogiques mis à disposition par l'organisme de formation",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000029066916",
+                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "12",
+                        "articleId": "JORFARTI000029066974",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2014-06-11",
+                        "dateSignaTexte": "2014-06-02",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000028900666",
+                    "num": "12",
+                    "intOrdre": 4194296,
+                    "id": "KALIARTI000028900666",
+                    "content": "<p align='left'><br/>L'organisme de formation proposera, dans son dossier de labellisation, les moyens matériels à mettre en œuvre pour la formation en termes quantitatifs et qualitatifs pour le matériel informatique et technique et pour le lieu de déroulement de la formation.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Moyens matériels : locaux d'accueil, équipements",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000029066916",
+                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "12",
+                        "articleId": "JORFARTI000029066974",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2014-06-11",
+                        "dateSignaTexte": "2014-06-02",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000028900667",
+                    "num": "13",
+                    "intOrdre": 4718583,
+                    "id": "KALIARTI000028900667",
+                    "content": "<p align='left'><br/>L'organisme de formation proposera, dans son dossier de labellisation, le référentiel pédagogique.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Référentiel pédagogique",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000029066916",
+                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "12",
+                        "articleId": "JORFARTI000029066974",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2014-06-11",
+                        "dateSignaTexte": "2014-06-02",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000028900668",
+                    "num": "14",
+                    "intOrdre": 5242870,
+                    "id": "KALIARTI000028900668",
+                    "content": "<p align='left'><br/>L'Association paritaire des géomètres, topographes, photogrammètres, experts-fonciers (APGTP), sous l'égide de la CPNEFP, s'engage à assurer la promotion des formations labellisées auprès des salariés et entreprises à travers son site internet et des lettres d'information.<br/>Les syndicats signataires s'engagent à relayer la promotion desdites formations auprès de leurs adhérents.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Publicité des formations labellisées auprès des professionnels de la branche",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000029066916",
+                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "12",
+                        "articleId": "JORFARTI000029066974",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2014-06-11",
+                        "dateSignaTexte": "2014-06-02",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000028900669",
+                    "num": "15",
+                    "intOrdre": 5767157,
+                    "id": "KALIARTI000028900669",
+                    "content": "<p align='left'><br/>L'organisme de formation devra mesurer l'efficacité de la formation dispensée en interrogeant les employés et les employeurs suivant un calendrier défini dans le cahier des charges et devra le transmettre à la CPNEFP.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Bilan de la formation",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000029066916",
+                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "12",
+                        "articleId": "JORFARTI000029066974",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2014-06-11",
+                        "dateSignaTexte": "2014-06-02",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000028900670",
+                    "num": "16",
+                    "intOrdre": 6291444,
+                    "id": "KALIARTI000028900670",
+                    "content": "<p align='left'><br/>La labellisation sera accordée à compter de la date de validation par la CPNEFP jusqu'au mois de mai de l'année suivante.<br/>Dans la mesure où l'ensemble des pièces justificatives, conformément à l'article 4, aura été régulièrement fourni, la labellisation sera reconduite sous un délai de 1 mois par la CPNEFP.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Durée et renouvellement de la labellisation",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000029066916",
+                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "12",
+                        "articleId": "JORFARTI000029066974",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2014-06-11",
+                        "dateSignaTexte": "2014-06-02",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000028900671",
+                    "num": "17",
+                    "intOrdre": 6815731,
+                    "id": "KALIARTI000028900671",
+                    "content": "<p align='left'><br/>Les cabinets et entreprises de géomètres experts, géomètres-topographes, photogrammètres et experts fonciers de la branche ne pourront déroger à aucune des dispositions du présent accord, lequel revêt un caractère impératif, sauf dans un sens plus favorable aux salariés.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Caractère impératif",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000029066916",
+                        "textTitle": "Arrêté du 2 juin 2014 - art. 12, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "12",
+                        "articleId": "JORFARTI000029066974",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2014-06-11",
+                        "dateSignaTexte": "2014-06-02",
                         "dateDebutCible": "2999-01-01"
                       }
                     ]

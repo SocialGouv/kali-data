@@ -3883,9 +3883,9 @@
           "data": {
             "cid": "KALISCTA000005702664",
             "intOrdre": 730133,
-            "title": "Chapitre XIV : Commission paritaire permanente de négociation et d'interprétation",
-            "id": "KALISCTA000039405987",
-            "etat": "VIGUEUR_ETEN"
+            "title": "Chapitre XIV : Commission paritaire de conciliation  ",
+            "id": "KALISCTA000005702664",
+            "etat": "REMPLACE"
           },
           "children": [
             {
@@ -4116,9 +4116,9 @@
           "data": {
             "cid": "KALISCTA000005702664",
             "intOrdre": 730133,
-            "title": "Chapitre XIV : Commission paritaire de conciliation  ",
-            "id": "KALISCTA000005702664",
-            "etat": "REMPLACE"
+            "title": "Chapitre XIV : Commission paritaire permanente de négociation et d'interprétation",
+            "id": "KALISCTA000039405987",
+            "etat": "VIGUEUR_ETEN"
           },
           "children": [
             {
@@ -7378,6 +7378,141 @@
         {
           "type": "section",
           "data": {
+            "cid": "KALITEXT000038330673",
+            "title": "Avenant du 25 octobre 2018 modifiant l'avenant du 25 janvier 2018 relatif aux salaires conventionnels minima",
+            "id": "KALITEXT000038330673",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2019-05-01"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000038330676",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000038330676",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000038330681",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000038330681",
+                    "content": "<p align='left'>L'<a href='/affichTexte.do?cidTexte=JORFTEXT000035607311&categorieLien=cid'>ordonnance n° 2017-1385 du 22 septembre 2017</a> relative au renforcement de la négociation collective a fixé une nouvelle condition à l'extension des conventions de branche ou des accords professionnels.</p><p align='left'>L'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>article L. 2261-23-1 du code du travail</a> dispose que pour pouvoir être étendus, les conventions de branche ou les accords professionnels doivent, sauf justifications, comporter des stipulations spécifiques pour les entreprises de moins de 50 salariés, ou à défaut, justifier des raisons de leur absence.</p><p align='left'>Les parties ont conclu le 25 janvier 2018 un avenant sur les salaires conventionnels minima. À ce jour, cet accord n'a pas fait l'objet d'une extension par le ministère du travail ce qui conduit les parties à s'interroger sur les raisons de cette absence de décision.</p><p align='left'>Les parties craignent que cela ne soit dû à l'absence de stipulations expresses de leur accord relativement aux entreprises de moins de 50 salariés. Souhaitant accélérer l'extension de l'accord salaires, les parties rappellent donc que l'accord conclu s'applique à toutes les entreprises, y compris les plus petites d'entre elles.<br/>\nTel est l'objet du présent avenant à l'avenant du 25 janvier 2018.</p><p align='left'>Les parties soussignées sont convenues des dispositions suivantes :</p><p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000038334821",
+                        "textTitle": "Arrêté du 27 mars 2019 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000038334825",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2019-04-04",
+                        "dateSignaTexte": "2019-03-27",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000038330677",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000038330677",
+                "content": "<p align='left'>L'article 4 de l'avenant du 25 janvier 2018 est complété par un deuxième et troisième alinéa :</p><p align='left'>« Les parties précisent qu'aucune stipulation spécifique n'est édictée concernant les entreprises de moins de 50 salariés tant au regard de la structure des entreprises de la branche comprenant majoritairement des entreprises de moins de 50 salariés (85 % d'entreprises de moins de 11 salariés selon le dernier rapport de branche) que de la thématique de l'avenant (salaires minima). » </p><p align='left'>À l'exception de cette précision, les stipulations de l'avenant du 25 janvier 2018 demeurent inchangées.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000038334821",
+                    "textTitle": "Arrêté du 27 mars 2019 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000038334825",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2019-04-04",
+                    "dateSignaTexte": "2019-03-27",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000037351707",
+                    "textTitle": "Salaires minima pour l'année 2018 - art. 4 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "4",
+                    "articleId": "KALIARTI000038375752",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2018-01-25",
+                    "dateDebutCible": "2019-05-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000038330679",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000038330679",
+                "content": "<p align='left'>À l'issue du délai d'opposition en vigueur, le présent avenant sera déposé en deux exemplaires auprès des services du ministre chargé du travail et remis au secrétariat-greffe du conseil de prud'hommes de Lyon.</p><p align='left'>Les parties signataires conviennent de demander au ministre du travail l'extension du présent avenant.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000038334821",
+                    "textTitle": "Arrêté du 27 mars 2019 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000038334825",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2019-04-04",
+                    "dateSignaTexte": "2019-03-27",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000038330680",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000038330680",
+                "content": "<p align='left'>Le présent avenant, comme l'avenant auquel il s'intègre, est conclu pour une durée indéterminée.</p><p align='left'>Les dispositions du présent avenant sont applicables à compter du premier jour du mois suivant la publication au Journal officiel de son arrêté d'extension.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000038334821",
+                    "textTitle": "Arrêté du 27 mars 2019 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000038334825",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2019-04-04",
+                    "dateSignaTexte": "2019-03-27",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
             "cid": "KALITEXT000038337626",
             "title": "Accord du 27 septembre 2018 relatif à la mise en place de la CPPNI",
             "id": "KALITEXT000038337626",
@@ -7607,141 +7742,6 @@
                   }
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALITEXT000038330673",
-            "title": "Avenant du 25 octobre 2018 modifiant l'avenant du 25 janvier 2018 relatif aux salaires conventionnels minima",
-            "id": "KALITEXT000038330673",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "2019-05-01"
-          },
-          "children": [
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000038330676",
-                "intOrdre": 524287,
-                "title": "Préambule",
-                "id": "KALISCTA000038330676",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000038330681",
-                    "intOrdre": 524287,
-                    "id": "KALIARTI000038330681",
-                    "content": "<p align='left'>L'<a href='/affichTexte.do?cidTexte=JORFTEXT000035607311&categorieLien=cid'>ordonnance n° 2017-1385 du 22 septembre 2017</a> relative au renforcement de la négociation collective a fixé une nouvelle condition à l'extension des conventions de branche ou des accords professionnels.</p><p align='left'>L'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>article L. 2261-23-1 du code du travail</a> dispose que pour pouvoir être étendus, les conventions de branche ou les accords professionnels doivent, sauf justifications, comporter des stipulations spécifiques pour les entreprises de moins de 50 salariés, ou à défaut, justifier des raisons de leur absence.</p><p align='left'>Les parties ont conclu le 25 janvier 2018 un avenant sur les salaires conventionnels minima. À ce jour, cet accord n'a pas fait l'objet d'une extension par le ministère du travail ce qui conduit les parties à s'interroger sur les raisons de cette absence de décision.</p><p align='left'>Les parties craignent que cela ne soit dû à l'absence de stipulations expresses de leur accord relativement aux entreprises de moins de 50 salariés. Souhaitant accélérer l'extension de l'accord salaires, les parties rappellent donc que l'accord conclu s'applique à toutes les entreprises, y compris les plus petites d'entre elles.<br/>\nTel est l'objet du présent avenant à l'avenant du 25 janvier 2018.</p><p align='left'>Les parties soussignées sont convenues des dispositions suivantes :</p><p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000038334821",
-                        "textTitle": "Arrêté du 27 mars 2019 - art. 1, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "1",
-                        "articleId": "JORFARTI000038334825",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2019-04-04",
-                        "dateSignaTexte": "2019-03-27",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000038330677",
-                "num": "1er",
-                "intOrdre": 1048574,
-                "id": "KALIARTI000038330677",
-                "content": "<p align='left'>L'article 4 de l'avenant du 25 janvier 2018 est complété par un deuxième et troisième alinéa :</p><p align='left'>« Les parties précisent qu'aucune stipulation spécifique n'est édictée concernant les entreprises de moins de 50 salariés tant au regard de la structure des entreprises de la branche comprenant majoritairement des entreprises de moins de 50 salariés (85 % d'entreprises de moins de 11 salariés selon le dernier rapport de branche) que de la thématique de l'avenant (salaires minima). » </p><p align='left'>À l'exception de cette précision, les stipulations de l'avenant du 25 janvier 2018 demeurent inchangées.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000038334821",
-                    "textTitle": "Arrêté du 27 mars 2019 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000038334825",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2019-04-04",
-                    "dateSignaTexte": "2019-03-27",
-                    "dateDebutCible": "2999-01-01"
-                  },
-                  {
-                    "textCid": "KALITEXT000037351707",
-                    "textTitle": "Salaires minima pour l'année 2018 - art. 4 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "source",
-                    "articleNum": "4",
-                    "articleId": "KALIARTI000038375752",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2999-01-01",
-                    "dateSignaTexte": "2018-01-25",
-                    "dateDebutCible": "2019-05-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000038330679",
-                "num": "2",
-                "intOrdre": 1572861,
-                "id": "KALIARTI000038330679",
-                "content": "<p align='left'>À l'issue du délai d'opposition en vigueur, le présent avenant sera déposé en deux exemplaires auprès des services du ministre chargé du travail et remis au secrétariat-greffe du conseil de prud'hommes de Lyon.</p><p align='left'>Les parties signataires conviennent de demander au ministre du travail l'extension du présent avenant.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000038334821",
-                    "textTitle": "Arrêté du 27 mars 2019 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000038334825",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2019-04-04",
-                    "dateSignaTexte": "2019-03-27",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000038330680",
-                "num": "3",
-                "intOrdre": 2097148,
-                "id": "KALIARTI000038330680",
-                "content": "<p align='left'>Le présent avenant, comme l'avenant auquel il s'intègre, est conclu pour une durée indéterminée.</p><p align='left'>Les dispositions du présent avenant sont applicables à compter du premier jour du mois suivant la publication au Journal officiel de son arrêté d'extension.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000038334821",
-                    "textTitle": "Arrêté du 27 mars 2019 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000038334825",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2019-04-04",
-                    "dateSignaTexte": "2019-03-27",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
             }
           ]
         },

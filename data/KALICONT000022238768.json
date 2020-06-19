@@ -2077,63 +2077,304 @@
         {
           "type": "section",
           "data": {
-            "cid": "KALITEXT000019906569",
-            "title": "Annexe I - Techniciens - Agents de maîtrise",
-            "id": "KALITEXT000019906569",
+            "cid": "KALITEXT000018828024",
+            "title": "Annexe IV - Grille d'attribution des coefficients hiérarchiques",
+            "id": "KALITEXT000018828024",
             "etat": "VIGUEUR_ETEN",
-            "modifDate": "2007-12-21"
+            "modifDate": "2005-07-08"
           },
           "children": [
             {
               "type": "article",
               "data": {
-                "cid": "KALIARTI000019906573",
+                "cid": "KALIARTI000018828037",
+                "intOrdre": 262143,
+                "id": "KALIARTI000018828037",
+                "content": "<table border='1' cellSpacing='0' cellPadding='0'><tbody><tr><td colSpan='3' width='665' vAlign='top'></td><td width='1'></td></tr><tr><td width='487'><p align='left'>Ouvriers, Employés, Techniciens et Agents de maîtrise</p><p align='left'></p></td><td width='83'><p align='center'></p><p align='center'>Coefficients</p><p align='center'>(points OE/TAM)</p></td><td colSpan='2' width='96'><p align='center'>Catégorie professionnelle</p></td></tr><tr><td width='487'><p align='left'>1- Assistant Logistique </p></td><td width='83'><p align='center'></p></td><td colSpan='2' width='96'><p align='left'></p></td></tr><tr><td width='487'><p align='left'>1.1-Type 1</p></td><td width='83'><p align='center'>116</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>1.2-Type 2</p></td><td width='83'><p align='center'>140</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>1.3-Type 3</p></td><td width='83'><p align='center'>220</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>2- Agent de Production </p></td><td width='83'><p align='center'></p></td><td colSpan='2' width='96'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>2.1-Agent de ligne de production</p></td><td width='83'><p align='center'></p></td><td colSpan='2' width='96'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>2.1.1- Type 1</p></td><td width='83'><p align='center'>100</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>2.1.2- Type 2</p></td><td width='83'><p align='center'>108</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>2.1.3- Type 3</p></td><td width='83'><p align='center'>116</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>2.2-Conducteur de ligne de production</p></td><td width='83'><p align='center'></p></td><td colSpan='2' width='96'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>2.2.1- Type 1</p></td><td width='83'><p align='center'>156</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>2.2.2- Type 2</p></td><td width='83'><p align='center'>196</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>3- Conducteur d'Équipes</p></td><td width='83'><p align='center'>300</p></td><td colSpan='2' width='96'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>4- Animateur d'Unité</p></td><td width='83'><p align='center'></p></td><td colSpan='2' width='96'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>4.1- Type 1</p></td><td width='83'><p align='center'>360</p></td><td colSpan='2' width='96'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>4.2- Type 1</p></td><td width='83'><p align='center'>464</p></td><td colSpan='2' width='96'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>5- Maintenance et Entretien</p></td><td width='83'><p align='center'></p></td><td colSpan='2' width='96'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>5.1-Agent d'entretien</p></td><td width='83'><p align='center'>100</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>5.2-Agent de Maintenance</p></td><td width='83'><p align='center'>128</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>5.3-Mécanicien</p></td><td width='83'><p align='center'>220</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>5.4-Technicien de Maintenance</p></td><td width='83'><p align='center'>328</p></td><td colSpan='2' width='96'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>5.5-Electricien</p></td><td width='83'><p align='center'>328</p></td><td colSpan='2' width='96'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>5.6-Chef d'atelier</p></td><td width='83'><p align='center'>464</p></td><td colSpan='2' width='96'><p align='center'>TAM</p></td></tr></tbody></table><table border='1' cellSpacing='0' cellPadding='0'><tbody><tr><td width='487'><p align='left'>Ouvriers, Employés, Techniciens et Agents de maîtrise (suite)</p><p align='left'></p></td><td width='83'><p align='center'>Coefficients</p><p align='center'>(points OE/TAM)</p></td><td width='83'><p align='center'>Catégorie professionnelle</p></td></tr><tr><td width='487'><p align='left'>6-Activités autres que la Production</p></td><td width='83'><p align='center'></p></td><td width='83'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>6.1-Agent de travaux de récolte</p></td><td width='83'><p align='center'>100</p></td><td width='83'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>6.2-Agent de propreté des bureaux et/ou autres locaux</p></td><td width='83'><p align='center'>100</p></td><td width='83'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>6.3-Agent Sélection et/ou laboratoire et/ou relation culture</p></td><td width='83'><p align='center'>140</p></td><td width='83'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>6.4-Assistant de Sélection et/ou de laboratoire</p></td><td width='83'><p align='center'>220</p></td><td width='83'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>6.5-Technicien de Sélection et/ou de laboratoire</p></td><td width='83'><p align='center'>328</p></td><td width='83'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>6.6-Technicien Relation Culture et adhérent</p></td><td width='83'><p align='center'>244</p></td><td width='83'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>6.7-Technicien Conseil Cultures</p></td><td width='83'><p align='center'>464</p></td><td width='83'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>7-Administratif</p></td><td width='83'><p align='center'></p></td><td width='83'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>7.1-Assistant administratif</p></td><td width='83'><p align='center'></p></td><td width='83'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>7.1.1-Type 1</p></td><td width='83'><p align='center'>108</p></td><td width='83'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>7.1.2-Type 2</p></td><td width='83'><p align='center'>140</p></td><td width='83'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>7.1.3-Type 3</p></td><td width='83'><p align='center'>244</p></td><td width='83'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>7.2-Technicien Administratif et comptable</p></td><td width='83'><p align='center'>360</p></td><td width='83'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'></p></td><td width='83'><p align='center'></p></td><td width='83'><p align='center'><i></i></p></td></tr></tbody></table><table border='1' cellSpacing='0' cellPadding='0'><tbody><tr><td width='487'><p align='left'>Cadres</p><p align='left'></p></td><td width='166'><p align='center'>coefficients</p><p align='center'>(points Cadres)</p></td></tr><tr><td width='487'><p align='left'>1-Cadres de Type 1</p></td><td width='166'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>1.1-Echelon 1</p></td><td width='166'><p align='center'>630</p></td></tr><tr><td width='487'><p align='left'>1.2-Echelon 2</p></td><td width='166'><p align='center'>700</p></td></tr><tr><td width='487'><p align='left'>1.3-Echelon 3</p></td><td width='166'><p align='center'>800</p></td></tr><tr><td width='487'><p align='left'>2-Cadres de Type 2</p></td><td width='166'><p align='center'>900</p></td></tr><tr><td width='487'><p align='left'>3- Cadres de Type 3</p></td><td width='166'><p align='center'>1 200</p></td></tr></tbody></table><p>LEGENDE : </p><p>OE : ouvriers/employés</p><p>TAM : techniciens/agents de maîtrise</p><p>C : cadres</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000018828293",
+            "title": "Annexe III - Classification des postes ouvriers,employés, techniciens, agents de maîtrise et cadres",
+            "id": "KALITEXT000018828293",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2005-07-08"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000018828295",
+                "intOrdre": 524287,
+                "title": "Ouvriers, employés, techniciens et agents de maîtrise",
+                "id": "KALISCTA000018828295",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "section",
+                  "data": {
+                    "cid": "KALISCTA000023271043",
+                    "intOrdre": 1074003967,
+                    "title": "1 - Assistant logistique",
+                    "id": "KALISCTA000023271043",
+                    "etat": "VIGUEUR_ETEN"
+                  },
+                  "children": [
+                    {
+                      "type": "article",
+                      "data": {
+                        "cid": "KALIARTI000018828334",
+                        "intOrdre": 1073741823,
+                        "id": "KALIARTI000018828334",
+                        "content": "<p align='left'></p><p>1.1-Type 1</p><p></p><p>               Manipulation des Matières.</p><p>               Conduite d'engins à moteur à l'intérieur du site : chariots élévateurs, tracteurs...</p><p>               Propreté et entretien espaces verts.</p><p>               Pesée et/ou accueil et/ou accompagnement d'adhérents</p><p></p><p>1.2-Type 2</p><p></p><p>Assistant logistique de type 1</p><p>+ conduite d'engins à moteur sur la voie publique</p><p></p><p>1.3-Type 3 (Magasinage/Stockage/Organisation appro paille)</p><p></p><p>                Gérer les flux de stocks (entrée/sortie) indépendamment de la gestion de production.</p><p>               Connaissance de la Matière et assemblage.</p><p>              Présentation de lots.</p><p>              Manipulation et/ou chargement et coordination.</p><p align='left'>Utilisation de bureautique.</p>",
+                        "etat": "VIGUEUR_ETEN",
+                        "lstLienModification": []
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "section",
+                  "data": {
+                    "cid": "KALISCTA000023271051",
+                    "intOrdre": 1610743807,
+                    "title": "2 - Les agents de production",
+                    "id": "KALISCTA000023271051",
+                    "etat": "VIGUEUR_ETEN"
+                  },
+                  "children": [
+                    {
+                      "type": "article",
+                      "data": {
+                        "cid": "KALIARTI000018828296",
+                        "intOrdre": 1073741823,
+                        "id": "KALIARTI000018828296",
+                        "content": "<p>2.1-Agent de ligne de production.</p><p>2.1.1 - Type 1</p><p>Salarié affecté à toute ligne de production, de l'amont de l'alimentation à la sortie des produits et leur conditionnement (teilleuse, peigneuse, étoupeuse,...)</p><p>2.1.2 - Type 2</p><p>Agent de Type 1, qui manifeste une maîtrise, acquise par la formation ou l'expérience, plus affirmée des savoir-faire. </p><p>2.1.3 - Type 3</p><p>Agent de Type 2 avec une capacité d'autonomie plus marquée.</p><p>2.2-Conducteur de ligne de Production.</p><p>2.2.1 -Type 1</p><p>Élément de l'équipe et remplacement</p><p>Répartir le travail entre les membres de son équipe en fonction des besoins.</p><p>Veiller à l'alimentation de la ligne</p><p>Décider du démarrage ou redémarrage</p><p>Déceler et signaler les anomalies</p><p>2.2.2-Type 2</p><p> Conducteur de ligne de production de type 1+</p><p> Interlocuteur (équipe / hiérarchie)</p><p> Contrôler les Matières et les machines et leurs réglages</p><p>Tenir les enregistrements des productions</p>",
+                        "etat": "VIGUEUR_NON_ETEN",
+                        "lstLienModification": []
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "section",
+                  "data": {
+                    "cid": "KALISCTA000023271064",
+                    "intOrdre": 1879113727,
+                    "title": "3 - Conducteur d'équipes",
+                    "id": "KALISCTA000023271064",
+                    "etat": "VIGUEUR_ETEN"
+                  },
+                  "children": [
+                    {
+                      "type": "article",
+                      "data": {
+                        "cid": "KALIARTI000018828297",
+                        "intOrdre": 1073741823,
+                        "id": "KALIARTI000018828297",
+                        "content": "<p align='left'>Ce poste non intégré directement à l'équipe reprend les fonctions d'un Conducteur  de ligne de production de type 2 mais requiert en plus des qualités affirmées en termes de :</p><p></p><p>                Initiatives</p><p>                Responsabilité</p><p>                Autonomie</p><p>                Autorité pour le respect général des consignes</p><p>               Animation d'équipes</p><p align='left'>Le « conducteur d'équipe » doit prendre des dispositions nécessaires pour assurer la continuité de l'activité.</p>",
+                        "etat": "VIGUEUR_ETEN",
+                        "lstLienModification": []
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "section",
+                  "data": {
+                    "cid": "KALISCTA000023271117",
+                    "intOrdre": 2013298687,
+                    "title": "4 - Animateur d'unité",
+                    "id": "KALISCTA000023271117",
+                    "etat": "VIGUEUR_ETEN"
+                  },
+                  "children": [
+                    {
+                      "type": "article",
+                      "data": {
+                        "cid": "KALIARTI000018828300",
+                        "intOrdre": 1073741823,
+                        "id": "KALIARTI000018828300",
+                        "content": "<p align='left'></p><p>4.1. Type 1</p><p></p><p>L'Animateur d'Unité peut être conduit à :</p><p>                Coordonner les équipes</p><p>                Participer aux recrutements</p><p>                Participer aux choix techniques pour les investissements</p><p>                Assurer l'intégration des nouveaux embauchés</p><p>                Contrôler et valider les présences du personnel</p><p>                Être en relation avec les adhérents</p><p></p><p>4.2. Type 2</p><p></p><p align='left'>Animateur d'Unité de type 1, qui met en œuvre des connaissances et une expérience professionnelle éprouvée, Il dispose d'une large autonomie.</p>",
+                        "etat": "VIGUEUR_ETEN",
+                        "lstLienModification": []
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "section",
+                  "data": {
+                    "cid": "KALISCTA000023271122",
+                    "intOrdre": 2080391167,
+                    "title": "5 - Maintenance et entretien",
+                    "id": "KALISCTA000023271122",
+                    "etat": "VIGUEUR_ETEN"
+                  },
+                  "children": [
+                    {
+                      "type": "article",
+                      "data": {
+                        "cid": "KALIARTI000018828303",
+                        "intOrdre": 1073741823,
+                        "id": "KALIARTI000018828303",
+                        "content": "<p></p><p>5.1-L'agent d'entretien</p><p></p><p>•·                Graissage matériel de teillage</p><p>•·                Niveaux huile carter et réducteur</p><p>•·                Tensions chaînes et courroies de transmissions</p><p>•·                Contrôle visuel afin de déceler une avarie</p><p>•·                Couteaux de turbines à remplacer</p><p>•·                Renfort de l'atelier maintenance pour révisions annuelles du matériel de teillage</p><p></p><p>5.2-Agent de maintenance</p><p></p><p>•·                Connaissance du teillage et fonctionnement du matériel</p><p>•·                Petits dépannages mécaniques</p><p>•·                Entretien courant du matériel roulant</p><p>•·                (vidange -graissage -niveaux)</p><p>•·                Connaissances en mécanique et soudure</p><p>•·                Habilitation électrique niveau 1</p><p>•·                Préparer et coller les courroies de transports matières</p><p></p><p>5.3-Mécanicien</p><p></p><p>Avoir une parfaite connaissance des installations et de leur fonctionnement afin de pouvoir effectuer des dépannages rapides et efficaces.</p><p>Avoir des compétences en :</p><p>•·                Électricité</p><p>•·                Mécanique</p><p>•·                Hydraulique</p><p>•·                Pneumatique</p><p>•·                Soudure</p><p>Procéder à l'entretien complet du matériel roulant (complet)</p><p>Pouvoir être intégré à un roulement d'astreinte en vue du dépannage en dehors des horaires normaux de travail.</p><p></p><p>Le Mécanicien ne peut avoir qu'une autorité fonctionnelle sur les salariés amenés, le cas échéant, à travailler avec lui, à l'exclusion de toute autorité hiérarchique.</p><p></p><p></p><p>5.4-Technicien de maintenance</p><p></p><p>Avoir une parfaite connaissance des installations et de leur fonctionnement afin de pouvoir effectuer des dépannages rapides et efficaces.</p><p>Avoir des compétences sérieuses en :</p><p>•·                Électricité</p><p>•·                Mécanique</p><p>•·                Mécanique générale (tournage, soudure, fraisage, ajustage)</p><p>•·                Hydraulique</p><p>•·                Pneumatique</p><p>Gérer son approvisionnement</p><p>Gérer un petit groupe d'hommes sur un chantier pendant les révisions</p><p>Entretien complet du matériel roulant </p><p>Avoir une réflexion sur les possibilités d'améliorer le Matériel</p><p>Pouvoir être intégré à un roulement d'astreinte en vue du dépannage en dehors des horaires  normaux de travail</p><p></p><p>5.5-Electricien</p><p></p><p>Capacité à concevoir et réaliser toute installation électrique du domaine industriel basse-tension</p><p>Pouvoir être intégré à un roulement d'astreinte en vue du dépannage en dehors des horaires  normaux de travail</p><p></p><p></p><p>5.6-Chef  d'atelier</p><p></p><p>Gérer les achats et le stock de pièces de rechange</p><p>Organiser et assurer le suivi des travaux de l'équipe de maintenance</p><p>Gérer l'entretien du matériel roulant</p><p>Gérer les travaux effectués par les entreprises extérieures (plan de prévention, contrôles)</p><p>Participer aux dossiers investissements</p><p>Faire des choix techniques pour faire progresser :</p><p>-La production</p><p>-La qualité du travail</p><p>-La sécurité</p><p>-Les conditions de travail</p><p>-L'hygiène</p><p></p><p>Avoir une parfaite connaissance des installations et de leur fonctionnement</p><p>-électricité</p><p>-hydraulique</p><p>-pneumatique</p><p>-mécanique</p><p></p><p>Pouvoir être intégré à un roulement d'astreinte en vue du dépannage en dehors des horaires  normaux de travail</p>",
+                        "etat": "VIGUEUR_ETEN",
+                        "lstLienModification": []
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "section",
+                  "data": {
+                    "cid": "KALISCTA000023271124",
+                    "intOrdre": 2113937407,
+                    "title": "6 - Activités autres que la production",
+                    "id": "KALISCTA000023271124",
+                    "etat": "VIGUEUR_ETEN"
+                  },
+                  "children": [
+                    {
+                      "type": "article",
+                      "data": {
+                        "cid": "KALIARTI000018828304",
+                        "intOrdre": 1073741823,
+                        "id": "KALIARTI000018828304",
+                        "content": "<p>6.1-Agent de travaux de récolte</p><p>La conduite de machines</p><p>Procéder aux niveaux et vérifications d'usage</p><p>Déceler des anomalies et les signaler.</p><p>6.2-Agent de propreté des bureaux et/ou locaux sociaux</p><p>Il exécute les tâches qui lui sont confiées.</p><p>6.3-Agent de Sélection et/ou de Laboratoire et/ou de relation culture</p><p>Sous la responsabilité d'un agent ou d'un technicien, il exécute les tâches qui lui sont confiées.</p><p>6.4-Assistant de Sélection et/ou de laboratoire</p><p>Les tâches confiées à l'agent de sélection et/ou de laboratoire nécessitent : une prise de responsabilités, la mise en œuvre de compétences, l'aptitude à une autonomie encadrée et l'accompagnement de stagiaires et d'assistants de sélection et/ou de laboratoire pour les tâches qui peuvent lui être confiées.</p><p>Figurent entre-autre :</p><p>•·                Préparation des essais</p><p>•·                Traitement</p><p>•·                Récolte des essais</p><p>•·                Extraction de fibres</p><p>6.5-Technicien de Sélection et/ou de laboratoire</p><p>•·                Préparation des essais</p><p>•·                Traitement</p><p>•·                Récolte des essais</p><p>•·                Extraction de fibres</p><p>•·                Conception des protocoles de sélection et d'analyse</p><p>•·                Interprète les résultats et préconises des actions à mettre en œuvre</p><p>•·                Peut se voir confier la responsabilité d'une équipe.</p><p>6.6-Technicien Relation Culture et Adhérent</p><p>•·                Communication Adhérent/Coopérative</p><p>•·                Appliquer les orientations techniques de la coopérative</p><p>•·                Suivre les résultats au teillage</p><p>•·                L'établissement du contrat de culture</p><p>•·                Participer à la coordination des chantiers</p><p>6.7-Technicien Conseil Cultures</p><p>•·                Communication Adhérent/Coopérative</p><p>•·                Appliquer les orientations techniques de la coopérative</p><p>•·                Suivre les résultats au teillage</p><p>•·                L'établissement du contrat de culture</p><p>•·                Participer à la coordination des chantiers</p><p>•·                Prescription des techniques culturales dans le respect des normes</p><p>Rôle d'organisation, notamment de la traçabilité.</p>",
+                        "etat": "VIGUEUR_ETEN",
+                        "lstLienModification": []
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "section",
+                  "data": {
+                    "cid": "KALISCTA000023271147",
+                    "intOrdre": 2130710527,
+                    "title": "7 - Administratif",
+                    "id": "KALISCTA000023271147",
+                    "etat": "VIGUEUR_ETEN"
+                  },
+                  "children": [
+                    {
+                      "type": "article",
+                      "data": {
+                        "cid": "KALIARTI000018828308",
+                        "intOrdre": 1073741823,
+                        "id": "KALIARTI000018828308",
+                        "content": "<p></p><p>7.1- Assistants  Administratifs </p><p></p><p>7.1.1-Type 1</p><p></p><p>Pesée entrée sortie</p><p>Saisie et courrier simples</p><p>Standard et accueil</p><p></p><p>7.1.2-Type 2</p><p></p><p>Assistant administratif de type 1</p><p align='center'>+</p><p>Standard et accueil bi-lingue</p><p>Courrier et saisie informatique et bureautique</p><p>Contrôle factures et rapprochement clients/fournisseurs</p><p>Administration du Personnel</p><p></p><p>7.1.3-Type 3</p><p></p><p>Assistant administratif de type 2</p><p align='center'>+</p><p>Paye</p><p>Veille juridique</p><p>Capacité à déléguer et à contrôler</p><p>Gestion Adhérent</p><p></p><p></p><p>7.2-Technicien Administratif et comptable</p><p></p><p>Pesée entrée sortie</p><p>Saisie et courrier simples</p><p>Standard et accueil</p><p>Standard et accueil bi-lingue</p><p>Courrier et saisie informatique et bureautique</p><p>Contrôle factures et rapprochement clients/fournisseurs</p><p>Saisie comptable</p><p>Établissement Bilan et CR et Gestion</p><p>Déclarations Fiscales</p><p>Administration du Personnel</p><p>Paye</p><p>Veille juridique</p><p>Capacité à déléguer et à contrôler</p><p>Gestion Adhérent</p><p>Gestion Adhérent + Organismes de tutelle et de contrôles(ONIOL...)</p><p>Gestion Commerciale</p>",
+                        "etat": "VIGUEUR_ETEN",
+                        "lstLienModification": []
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000023271026",
+                "intOrdre": 786430,
+                "title": "Cadres",
+                "id": "KALISCTA000023271026",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000018828309",
+                    "intOrdre": 1073741823,
+                    "id": "KALIARTI000018828309",
+                    "content": "<table border='1' cellSpacing='0' cellPadding='0'><tbody><tr><td width='213' vAlign='top'><p align='left'>TYPE 1 </p></td><td width='492' vAlign='top'></td></tr><tr><td width='213' vAlign='top'><p>Échelon 1 </p></td><td width='492' vAlign='top'><p align='left'>Cadre administratif, technique, industriel ou commercial débutant, occupant un emploi de ce niveau pendant la période d'intégration d'une durée maximale d'une année.</p><p align='left'>A l'issue de cette période d'intégration, le salarié cadre sera obligatoirement classifié au minimum en type 1, échelon 2.</p><p align='left'></p><p align='left'>Un salarié classifié type 1, échelon 1, ne pourra pas être qualifié de cadre autonome et, à ce titre, sa durée du travail ne pourra pas être régie par une convention de forfait-jours annuel.</p><p align='left'></p></td></tr><tr><td width='213' vAlign='top'><p>Échelon 2 </p></td><td width='492' vAlign='top'><p align='left'>Cadre administratif, technique, industriel ou commercial animant, dirigeant, coordonnant les travaux des salariés ou cadre sans responsabilité hiérarchique occupant un emploi comportant une responsabilité équivalente.</p><p align='left'></p></td></tr><tr><td width='213' vAlign='top'><p>Échelon 3 </p></td><td width='492' vAlign='top'><p align='left'>Cadre de type 1, échelon 2, confirmé.</p></td></tr><tr><td width='213' vAlign='top'><p align='left'>TYPE 2 </p><p align='left'></p></td><td width='492' vAlign='top'><p>Cadre administratif, technique, industriel ou commercial responsable de la marche optimale du service à la tête duquel il est placé ou cadre sans responsabilité hiérarchique occupant un emploi comportant une responsabilité équivalente.</p></td></tr><tr><td width='213' vAlign='top'><p align='left'>TYPE 3 </p></td><td width='492' vAlign='top'><p align='left'>Cadre administratif, technique, industriel ou commercial chargé de fonctions impliquant la direction de collaborateurs de toute(s) spécialité(s) ou chargé de la coordination de plusieurs services ou fonctions ou cadre sans responsabilité hiérarchique occupant un emploi comportant une responsabilité équivalente.</p><p align='left'></p><p align='left'>L'emploi implique de participer à la définition des objectifs de l'entreprise.</p></td></tr></tbody></table>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": []
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000019747393",
+            "title": "Avenant n° 36 du 17 juillet 2008",
+            "id": "KALITEXT000019747393",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2008-07-17"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000019747395",
                 "num": "1",
-                "intOrdre": 1048574,
-                "id": "KALIARTI000019906573",
-                "content": "<p align='left'>La présente annexe a pour objet de fixer les conditions particulières de travail des Techniciens-Agents de Maîtrise occupés dans les coopératives agricoles, les unions de coopératives et les SICA de teillage du lin.</p>",
+                "intOrdre": 524287,
+                "id": "KALIARTI000019747395",
+                "content": "<p align='left'><br/>Il est créé un article 32 bis dont la rédaction est la suivante : </p><p align='center'><br/>« Article 32 bis <br/>Astreintes <br/>1. Champ d'application </p><p align='left'><br/>Le présent article 32 bis « Astreintes » s'applique à l'ensemble des salariés relevant des catégories professionnelles « ouvriers-employés » et « techniciens-agents de maîtrise » à l'exclusion de la catégorie des cadres. </p><p align='center'><br/>2. Période d'astreinte </p><p align='left'><br/>En application des dispositions légales et réglementaires en vigueur, on entend par période d'astreinte la période pendant laquelle le salarié, sans être à disposition permanente et immédiate de l'employeur, a l'obligation de demeurer à son domicile ou à proximité afin d'être en mesure d'intervenir pour effectuer un travail au service de l'entreprise. </p><p align='center'><br/>3. Astreinte. ― Temps d'intervention. ― Temps de travail effectif </p><p align='left'><br/>a) Astreinte <br/>Dès lors que tous les critères visés à l'article précédent sont remplis, le temps passé par le salarié en astreinte ne constitue pas du temps de travail effectif. <br/>b) Temps d'intervention <br/>La durée de chaque intervention est considérée comme du temps de travail effectif. Ces heures d'intervention ouvrent le cas échéant droit au paiement des majorations légales ou conventionnelles pour heures supplémentaires, de nuit, du dimanche ou des jours fériés. <br/>Le temps de trajet durant les périodes d'astreinte n'est pas considéré comme du temps de travail effectif mais est rémunéré suivant le taux horaire du salarié. <br/>c) Temps de déplacement <br/>Le temps de trajet, tout en ne constituant pas du temps de travail effectif, est rémunéré aux conditions énoncées au paragraphe ci-dessus. <br/>Les frais kilométriques sont remboursés suivant les barèmes définis dans l'entreprise. </p><p align='center'><br/>4. Conditions et organisation des astreintes </p><p align='left'><br/>Les conditions et l'organisation des astreintes sont fixées par écrit par l'employeur, après information et consultation du comité d'entreprise, ou des délégués du personnel s'ils existent, et après information de l'inspection du travail, de l'emploi et de la politique sociale agricoles (ITEPSA). </p><p align='center'><br/>5. Les salariés d'astreinte </p><p align='left'><br/>La direction organisera des astreintes en ayant recours en priorité au personnel volontaire, c'est-à-dire les salariés désireux d'effectuer des astreintes. Cet effectif de volontaires peut être complété par le choix de la direction en fonction des besoins de l'entreprise.<br/>A défaut de volontaires, c'est l'entreprise qui fixe les astreintes et désigne les salariés concernés. </p><p align='center'><br/>6. Programmation des astreintes </p><p align='left'><br/>La programmation individuelle des périodes d'astreinte doit être portée à la connaissance de chaque salarié concerné au moins 15 jours à l'avance. En cas de circonstances exceptionnelles, ce délai peut être réduit conformément à la loi. </p><p align='center'><br/>7. Limitation des astreintes </p><p align='left'><br/>En dehors du dimanche et des jours fériés, chaque salarié peut être d'astreinte de semaine pendant 150 périodes de 12 heures au maximum durant une année. <br/>Par ailleurs, les salariés peuvent être d'astreinte 4 jours fériés par an et sur 2 périodes de 3 dimanches consécutifs. </p><p align='center'><br/>8. Récapitulatif mensuel </p><p align='left'><br/>En fin de mois, l'employeur doit remettre à chaque salarié concerné un document récapitulant le nombre d'heures d'astreinte effectuées par celui-ci au cours du mois écoulé ainsi que la compensation correspondante. Ce document, qui est tenu à la disposition des agents de contrôle de l'inspection du travail, est conservé pendant une durée de 1 an. </p><p align='center'><br/>9. Indemnisation de l'astreinte </p><p align='left'><br/>Les périodes d'astreinte ouvrent droit au versement d'une indemnité forfaitaire basée sur 100 % du taux horaire du coefficient du salarié : <br/>― 1/2 heure par jour pour les astreintes des salariés travaillant en équipe de jour ou pour des périodes d'astreintes inférieures à 12 heures ; <br/>― 1 heure par jour pour les astreintes couvrant les périodes d'astreinte de 12 heures, les plages horaires de nuit, de week-end ou des jours fériés. </p><p align='center'><br/>10. Conséquences de l'astreinte sur le temps de repos </p><p align='left'><br/>a) Astreinte en tant que telle <br/>Les périodes d'astreinte, exception faite du temps d'intervention, sont considérées comme du temps de repos et sont ainsi décomptées dans les durées minimales légales de repos hebdomadaire (repos hebdomadaire d'au moins 35 heures consécutives) et de repos journalier (repos journalier d'une durée minimale de 11 heures consécutives). <br/>Un salarié pourra donc être d'astreinte pendant ses heures de repos quotidien ou hebdomadaire. <br/>En l'absence de toute intervention, les salariés seront considérés comme ayant valablement bénéficié de leurs temps de repos légaux obligatoires. <br/>b) En cas d'intervention <br/>Lorsqu'un salarié aura effectué une intervention pendant une période d'astreinte, il devra prendre son repos intégral à compter de la fin de l'intervention. Cette règle ne s'appliquera pas si le salarié a bénéficié entièrement de sa durée minimale de repos continu avant de partir en intervention. </p><p align='center'><br/>11. Accords existants </p><p align='left'><br/>Les dispositions du présent article 32 bis ne peuvent se substituer à des accords existants plus favorables aux salariés concernés. </p><p align='center'><br/>12. Clause de non-dérogation </p><p align='left'><br/>Aucune dérogation au présent article 32 bis « Astreintes » offrant aux salariés des garanties d'un niveau inférieur ne pourra être conclue par accord d'entreprise.</p>",
                 "etat": "VIGUEUR_ETEN",
-                "surtitre": "Champ d'application",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000019831082",
+                    "textTitle": "Arrêté du 20 novembre 2008, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "JORFTEXT000019831082",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2008-11-29",
+                    "dateSignaTexte": "2008-11-20",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000018563084",
+                    "textTitle": "Convention collective nationale du 21 mars 1985 - art. 32 bis (VNE)",
+                    "linkType": "CREE",
+                    "linkOrientation": "source",
+                    "articleNum": "32 bis",
+                    "articleId": "KALIARTI000023248807",
+                    "natureText": "Convention collective",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "1985-03-21",
+                    "dateDebutCible": "2008-07-17"
+                  }
+                ]
               }
             },
             {
               "type": "article",
               "data": {
-                "cid": "KALIARTI000019906574",
+                "cid": "KALIARTI000019747397",
                 "num": "2",
-                "intOrdre": 1572861,
-                "id": "KALIARTI000019906574",
-                "content": "<p align='left'>Les dispositions légales sur la durée du travail s'appliquent aux TAM. En conséquence, la rémunération réelle de ceux-ci sera établie en fonction de l'horaire habituel de travail dans l'établissement, le service ou le bureau auxquels ils appartiennent.</p>",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000019747397",
+                "content": "<p align='left'><br/> Les parties signataires demandent l'extension du présent avenant dont l'entrée en application se fera le premier jour du mois civil suivant la signature du présent avenant.</p>",
                 "etat": "VIGUEUR_ETEN",
-                "surtitre": "Durée du travail",
-                "lstLienModification": []
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000019906576",
-                "num": "3",
-                "intOrdre": 2097148,
-                "id": "KALIARTI000019906576",
-                "content": "<p align='left'></p><p>Le régime de retraite et de prévoyance est déterminé suivant les conditions fixées conformément à la convention CFCA.</p><p>Pour les coopératives linières, le taux de cotisation est au moins égal à 6 % dont 60 % à la charge de l'employeur et 40 % à la charge du salarié.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Retraite complémentaire et prévoyance",
-                "lstLienModification": []
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000019906577",
-                "num": "4",
-                "intOrdre": 2621435,
-                "id": "KALIARTI000019906577",
-                "content": "<p align='left'>En cas de vacance ou de création de poste, l'employeur informera le comité d'entreprise et à défaut les délégués du personnel, et fera appel de préférence aux collaborateurs employés dans l'entreprise et aptes à occuper le poste. </p><p>En cas de promotion, le collaborateur pourra être soumis à la période d'essai prévue pour l'emploi qu'il est appelé à occuper. </p><p>Dans le cas où cet essai ne s'avérerait pas satisfaisant, la réintégration du salarié intéressé dans son ancien poste ou dans un emploi équivalent ne saurait être considéré comme une rétrogradation. </p><p>Les autres dispositions sont celles de la <a href='/affichIDCC.do?cidTexte=KALITEXT000018563084&categorieLien=cid' title='Convention collective nationale du 21 mars 1985 (VNE)'>convention collective</a> générale.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Priorité d'emploi",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000019831082",
+                    "textTitle": "Arrêté du 20 novembre 2008, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "JORFTEXT000019831082",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2008-11-29",
+                    "dateSignaTexte": "2008-11-20",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
@@ -2426,304 +2667,63 @@
         {
           "type": "section",
           "data": {
-            "cid": "KALITEXT000018828293",
-            "title": "Annexe III - Classification des postes ouvriers,employés, techniciens, agents de maîtrise et cadres",
-            "id": "KALITEXT000018828293",
+            "cid": "KALITEXT000019906569",
+            "title": "Annexe I - Techniciens - Agents de maîtrise",
+            "id": "KALITEXT000019906569",
             "etat": "VIGUEUR_ETEN",
-            "modifDate": "2005-07-08"
-          },
-          "children": [
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000018828295",
-                "intOrdre": 524287,
-                "title": "Ouvriers, employés, techniciens et agents de maîtrise",
-                "id": "KALISCTA000018828295",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "section",
-                  "data": {
-                    "cid": "KALISCTA000023271043",
-                    "intOrdre": 1074003967,
-                    "title": "1 - Assistant logistique",
-                    "id": "KALISCTA000023271043",
-                    "etat": "VIGUEUR_ETEN"
-                  },
-                  "children": [
-                    {
-                      "type": "article",
-                      "data": {
-                        "cid": "KALIARTI000018828334",
-                        "intOrdre": 1073741823,
-                        "id": "KALIARTI000018828334",
-                        "content": "<p align='left'></p><p>1.1-Type 1</p><p></p><p>               Manipulation des Matières.</p><p>               Conduite d'engins à moteur à l'intérieur du site : chariots élévateurs, tracteurs...</p><p>               Propreté et entretien espaces verts.</p><p>               Pesée et/ou accueil et/ou accompagnement d'adhérents</p><p></p><p>1.2-Type 2</p><p></p><p>Assistant logistique de type 1</p><p>+ conduite d'engins à moteur sur la voie publique</p><p></p><p>1.3-Type 3 (Magasinage/Stockage/Organisation appro paille)</p><p></p><p>                Gérer les flux de stocks (entrée/sortie) indépendamment de la gestion de production.</p><p>               Connaissance de la Matière et assemblage.</p><p>              Présentation de lots.</p><p>              Manipulation et/ou chargement et coordination.</p><p align='left'>Utilisation de bureautique.</p>",
-                        "etat": "VIGUEUR_ETEN",
-                        "lstLienModification": []
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "section",
-                  "data": {
-                    "cid": "KALISCTA000023271051",
-                    "intOrdre": 1610743807,
-                    "title": "2 - Les agents de production",
-                    "id": "KALISCTA000023271051",
-                    "etat": "VIGUEUR_ETEN"
-                  },
-                  "children": [
-                    {
-                      "type": "article",
-                      "data": {
-                        "cid": "KALIARTI000018828296",
-                        "intOrdre": 1073741823,
-                        "id": "KALIARTI000018828296",
-                        "content": "<p>2.1-Agent de ligne de production.</p><p>2.1.1 - Type 1</p><p>Salarié affecté à toute ligne de production, de l'amont de l'alimentation à la sortie des produits et leur conditionnement (teilleuse, peigneuse, étoupeuse,...)</p><p>2.1.2 - Type 2</p><p>Agent de Type 1, qui manifeste une maîtrise, acquise par la formation ou l'expérience, plus affirmée des savoir-faire. </p><p>2.1.3 - Type 3</p><p>Agent de Type 2 avec une capacité d'autonomie plus marquée.</p><p>2.2-Conducteur de ligne de Production.</p><p>2.2.1 -Type 1</p><p>Élément de l'équipe et remplacement</p><p>Répartir le travail entre les membres de son équipe en fonction des besoins.</p><p>Veiller à l'alimentation de la ligne</p><p>Décider du démarrage ou redémarrage</p><p>Déceler et signaler les anomalies</p><p>2.2.2-Type 2</p><p> Conducteur de ligne de production de type 1+</p><p> Interlocuteur (équipe / hiérarchie)</p><p> Contrôler les Matières et les machines et leurs réglages</p><p>Tenir les enregistrements des productions</p>",
-                        "etat": "VIGUEUR_NON_ETEN",
-                        "lstLienModification": []
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "section",
-                  "data": {
-                    "cid": "KALISCTA000023271064",
-                    "intOrdre": 1879113727,
-                    "title": "3 - Conducteur d'équipes",
-                    "id": "KALISCTA000023271064",
-                    "etat": "VIGUEUR_ETEN"
-                  },
-                  "children": [
-                    {
-                      "type": "article",
-                      "data": {
-                        "cid": "KALIARTI000018828297",
-                        "intOrdre": 1073741823,
-                        "id": "KALIARTI000018828297",
-                        "content": "<p align='left'>Ce poste non intégré directement à l'équipe reprend les fonctions d'un Conducteur  de ligne de production de type 2 mais requiert en plus des qualités affirmées en termes de :</p><p></p><p>                Initiatives</p><p>                Responsabilité</p><p>                Autonomie</p><p>                Autorité pour le respect général des consignes</p><p>               Animation d'équipes</p><p align='left'>Le « conducteur d'équipe » doit prendre des dispositions nécessaires pour assurer la continuité de l'activité.</p>",
-                        "etat": "VIGUEUR_ETEN",
-                        "lstLienModification": []
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "section",
-                  "data": {
-                    "cid": "KALISCTA000023271117",
-                    "intOrdre": 2013298687,
-                    "title": "4 - Animateur d'unité",
-                    "id": "KALISCTA000023271117",
-                    "etat": "VIGUEUR_ETEN"
-                  },
-                  "children": [
-                    {
-                      "type": "article",
-                      "data": {
-                        "cid": "KALIARTI000018828300",
-                        "intOrdre": 1073741823,
-                        "id": "KALIARTI000018828300",
-                        "content": "<p align='left'></p><p>4.1. Type 1</p><p></p><p>L'Animateur d'Unité peut être conduit à :</p><p>                Coordonner les équipes</p><p>                Participer aux recrutements</p><p>                Participer aux choix techniques pour les investissements</p><p>                Assurer l'intégration des nouveaux embauchés</p><p>                Contrôler et valider les présences du personnel</p><p>                Être en relation avec les adhérents</p><p></p><p>4.2. Type 2</p><p></p><p align='left'>Animateur d'Unité de type 1, qui met en œuvre des connaissances et une expérience professionnelle éprouvée, Il dispose d'une large autonomie.</p>",
-                        "etat": "VIGUEUR_ETEN",
-                        "lstLienModification": []
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "section",
-                  "data": {
-                    "cid": "KALISCTA000023271122",
-                    "intOrdre": 2080391167,
-                    "title": "5 - Maintenance et entretien",
-                    "id": "KALISCTA000023271122",
-                    "etat": "VIGUEUR_ETEN"
-                  },
-                  "children": [
-                    {
-                      "type": "article",
-                      "data": {
-                        "cid": "KALIARTI000018828303",
-                        "intOrdre": 1073741823,
-                        "id": "KALIARTI000018828303",
-                        "content": "<p></p><p>5.1-L'agent d'entretien</p><p></p><p>•·                Graissage matériel de teillage</p><p>•·                Niveaux huile carter et réducteur</p><p>•·                Tensions chaînes et courroies de transmissions</p><p>•·                Contrôle visuel afin de déceler une avarie</p><p>•·                Couteaux de turbines à remplacer</p><p>•·                Renfort de l'atelier maintenance pour révisions annuelles du matériel de teillage</p><p></p><p>5.2-Agent de maintenance</p><p></p><p>•·                Connaissance du teillage et fonctionnement du matériel</p><p>•·                Petits dépannages mécaniques</p><p>•·                Entretien courant du matériel roulant</p><p>•·                (vidange -graissage -niveaux)</p><p>•·                Connaissances en mécanique et soudure</p><p>•·                Habilitation électrique niveau 1</p><p>•·                Préparer et coller les courroies de transports matières</p><p></p><p>5.3-Mécanicien</p><p></p><p>Avoir une parfaite connaissance des installations et de leur fonctionnement afin de pouvoir effectuer des dépannages rapides et efficaces.</p><p>Avoir des compétences en :</p><p>•·                Électricité</p><p>•·                Mécanique</p><p>•·                Hydraulique</p><p>•·                Pneumatique</p><p>•·                Soudure</p><p>Procéder à l'entretien complet du matériel roulant (complet)</p><p>Pouvoir être intégré à un roulement d'astreinte en vue du dépannage en dehors des horaires normaux de travail.</p><p></p><p>Le Mécanicien ne peut avoir qu'une autorité fonctionnelle sur les salariés amenés, le cas échéant, à travailler avec lui, à l'exclusion de toute autorité hiérarchique.</p><p></p><p></p><p>5.4-Technicien de maintenance</p><p></p><p>Avoir une parfaite connaissance des installations et de leur fonctionnement afin de pouvoir effectuer des dépannages rapides et efficaces.</p><p>Avoir des compétences sérieuses en :</p><p>•·                Électricité</p><p>•·                Mécanique</p><p>•·                Mécanique générale (tournage, soudure, fraisage, ajustage)</p><p>•·                Hydraulique</p><p>•·                Pneumatique</p><p>Gérer son approvisionnement</p><p>Gérer un petit groupe d'hommes sur un chantier pendant les révisions</p><p>Entretien complet du matériel roulant </p><p>Avoir une réflexion sur les possibilités d'améliorer le Matériel</p><p>Pouvoir être intégré à un roulement d'astreinte en vue du dépannage en dehors des horaires  normaux de travail</p><p></p><p>5.5-Electricien</p><p></p><p>Capacité à concevoir et réaliser toute installation électrique du domaine industriel basse-tension</p><p>Pouvoir être intégré à un roulement d'astreinte en vue du dépannage en dehors des horaires  normaux de travail</p><p></p><p></p><p>5.6-Chef  d'atelier</p><p></p><p>Gérer les achats et le stock de pièces de rechange</p><p>Organiser et assurer le suivi des travaux de l'équipe de maintenance</p><p>Gérer l'entretien du matériel roulant</p><p>Gérer les travaux effectués par les entreprises extérieures (plan de prévention, contrôles)</p><p>Participer aux dossiers investissements</p><p>Faire des choix techniques pour faire progresser :</p><p>-La production</p><p>-La qualité du travail</p><p>-La sécurité</p><p>-Les conditions de travail</p><p>-L'hygiène</p><p></p><p>Avoir une parfaite connaissance des installations et de leur fonctionnement</p><p>-électricité</p><p>-hydraulique</p><p>-pneumatique</p><p>-mécanique</p><p></p><p>Pouvoir être intégré à un roulement d'astreinte en vue du dépannage en dehors des horaires  normaux de travail</p>",
-                        "etat": "VIGUEUR_ETEN",
-                        "lstLienModification": []
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "section",
-                  "data": {
-                    "cid": "KALISCTA000023271124",
-                    "intOrdre": 2113937407,
-                    "title": "6 - Activités autres que la production",
-                    "id": "KALISCTA000023271124",
-                    "etat": "VIGUEUR_ETEN"
-                  },
-                  "children": [
-                    {
-                      "type": "article",
-                      "data": {
-                        "cid": "KALIARTI000018828304",
-                        "intOrdre": 1073741823,
-                        "id": "KALIARTI000018828304",
-                        "content": "<p>6.1-Agent de travaux de récolte</p><p>La conduite de machines</p><p>Procéder aux niveaux et vérifications d'usage</p><p>Déceler des anomalies et les signaler.</p><p>6.2-Agent de propreté des bureaux et/ou locaux sociaux</p><p>Il exécute les tâches qui lui sont confiées.</p><p>6.3-Agent de Sélection et/ou de Laboratoire et/ou de relation culture</p><p>Sous la responsabilité d'un agent ou d'un technicien, il exécute les tâches qui lui sont confiées.</p><p>6.4-Assistant de Sélection et/ou de laboratoire</p><p>Les tâches confiées à l'agent de sélection et/ou de laboratoire nécessitent : une prise de responsabilités, la mise en œuvre de compétences, l'aptitude à une autonomie encadrée et l'accompagnement de stagiaires et d'assistants de sélection et/ou de laboratoire pour les tâches qui peuvent lui être confiées.</p><p>Figurent entre-autre :</p><p>•·                Préparation des essais</p><p>•·                Traitement</p><p>•·                Récolte des essais</p><p>•·                Extraction de fibres</p><p>6.5-Technicien de Sélection et/ou de laboratoire</p><p>•·                Préparation des essais</p><p>•·                Traitement</p><p>•·                Récolte des essais</p><p>•·                Extraction de fibres</p><p>•·                Conception des protocoles de sélection et d'analyse</p><p>•·                Interprète les résultats et préconises des actions à mettre en œuvre</p><p>•·                Peut se voir confier la responsabilité d'une équipe.</p><p>6.6-Technicien Relation Culture et Adhérent</p><p>•·                Communication Adhérent/Coopérative</p><p>•·                Appliquer les orientations techniques de la coopérative</p><p>•·                Suivre les résultats au teillage</p><p>•·                L'établissement du contrat de culture</p><p>•·                Participer à la coordination des chantiers</p><p>6.7-Technicien Conseil Cultures</p><p>•·                Communication Adhérent/Coopérative</p><p>•·                Appliquer les orientations techniques de la coopérative</p><p>•·                Suivre les résultats au teillage</p><p>•·                L'établissement du contrat de culture</p><p>•·                Participer à la coordination des chantiers</p><p>•·                Prescription des techniques culturales dans le respect des normes</p><p>Rôle d'organisation, notamment de la traçabilité.</p>",
-                        "etat": "VIGUEUR_ETEN",
-                        "lstLienModification": []
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "section",
-                  "data": {
-                    "cid": "KALISCTA000023271147",
-                    "intOrdre": 2130710527,
-                    "title": "7 - Administratif",
-                    "id": "KALISCTA000023271147",
-                    "etat": "VIGUEUR_ETEN"
-                  },
-                  "children": [
-                    {
-                      "type": "article",
-                      "data": {
-                        "cid": "KALIARTI000018828308",
-                        "intOrdre": 1073741823,
-                        "id": "KALIARTI000018828308",
-                        "content": "<p></p><p>7.1- Assistants  Administratifs </p><p></p><p>7.1.1-Type 1</p><p></p><p>Pesée entrée sortie</p><p>Saisie et courrier simples</p><p>Standard et accueil</p><p></p><p>7.1.2-Type 2</p><p></p><p>Assistant administratif de type 1</p><p align='center'>+</p><p>Standard et accueil bi-lingue</p><p>Courrier et saisie informatique et bureautique</p><p>Contrôle factures et rapprochement clients/fournisseurs</p><p>Administration du Personnel</p><p></p><p>7.1.3-Type 3</p><p></p><p>Assistant administratif de type 2</p><p align='center'>+</p><p>Paye</p><p>Veille juridique</p><p>Capacité à déléguer et à contrôler</p><p>Gestion Adhérent</p><p></p><p></p><p>7.2-Technicien Administratif et comptable</p><p></p><p>Pesée entrée sortie</p><p>Saisie et courrier simples</p><p>Standard et accueil</p><p>Standard et accueil bi-lingue</p><p>Courrier et saisie informatique et bureautique</p><p>Contrôle factures et rapprochement clients/fournisseurs</p><p>Saisie comptable</p><p>Établissement Bilan et CR et Gestion</p><p>Déclarations Fiscales</p><p>Administration du Personnel</p><p>Paye</p><p>Veille juridique</p><p>Capacité à déléguer et à contrôler</p><p>Gestion Adhérent</p><p>Gestion Adhérent + Organismes de tutelle et de contrôles(ONIOL...)</p><p>Gestion Commerciale</p>",
-                        "etat": "VIGUEUR_ETEN",
-                        "lstLienModification": []
-                      }
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000023271026",
-                "intOrdre": 786430,
-                "title": "Cadres",
-                "id": "KALISCTA000023271026",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000018828309",
-                    "intOrdre": 1073741823,
-                    "id": "KALIARTI000018828309",
-                    "content": "<table border='1' cellSpacing='0' cellPadding='0'><tbody><tr><td width='213' vAlign='top'><p align='left'>TYPE 1 </p></td><td width='492' vAlign='top'></td></tr><tr><td width='213' vAlign='top'><p>Échelon 1 </p></td><td width='492' vAlign='top'><p align='left'>Cadre administratif, technique, industriel ou commercial débutant, occupant un emploi de ce niveau pendant la période d'intégration d'une durée maximale d'une année.</p><p align='left'>A l'issue de cette période d'intégration, le salarié cadre sera obligatoirement classifié au minimum en type 1, échelon 2.</p><p align='left'></p><p align='left'>Un salarié classifié type 1, échelon 1, ne pourra pas être qualifié de cadre autonome et, à ce titre, sa durée du travail ne pourra pas être régie par une convention de forfait-jours annuel.</p><p align='left'></p></td></tr><tr><td width='213' vAlign='top'><p>Échelon 2 </p></td><td width='492' vAlign='top'><p align='left'>Cadre administratif, technique, industriel ou commercial animant, dirigeant, coordonnant les travaux des salariés ou cadre sans responsabilité hiérarchique occupant un emploi comportant une responsabilité équivalente.</p><p align='left'></p></td></tr><tr><td width='213' vAlign='top'><p>Échelon 3 </p></td><td width='492' vAlign='top'><p align='left'>Cadre de type 1, échelon 2, confirmé.</p></td></tr><tr><td width='213' vAlign='top'><p align='left'>TYPE 2 </p><p align='left'></p></td><td width='492' vAlign='top'><p>Cadre administratif, technique, industriel ou commercial responsable de la marche optimale du service à la tête duquel il est placé ou cadre sans responsabilité hiérarchique occupant un emploi comportant une responsabilité équivalente.</p></td></tr><tr><td width='213' vAlign='top'><p align='left'>TYPE 3 </p></td><td width='492' vAlign='top'><p align='left'>Cadre administratif, technique, industriel ou commercial chargé de fonctions impliquant la direction de collaborateurs de toute(s) spécialité(s) ou chargé de la coordination de plusieurs services ou fonctions ou cadre sans responsabilité hiérarchique occupant un emploi comportant une responsabilité équivalente.</p><p align='left'></p><p align='left'>L'emploi implique de participer à la définition des objectifs de l'entreprise.</p></td></tr></tbody></table>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": []
-                  }
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALITEXT000018828024",
-            "title": "Annexe IV - Grille d'attribution des coefficients hiérarchiques",
-            "id": "KALITEXT000018828024",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "2005-07-08"
+            "modifDate": "2007-12-21"
           },
           "children": [
             {
               "type": "article",
               "data": {
-                "cid": "KALIARTI000018828037",
-                "intOrdre": 262143,
-                "id": "KALIARTI000018828037",
-                "content": "<table border='1' cellSpacing='0' cellPadding='0'><tbody><tr><td colSpan='3' width='665' vAlign='top'></td><td width='1'></td></tr><tr><td width='487'><p align='left'>Ouvriers, Employés, Techniciens et Agents de maîtrise</p><p align='left'></p></td><td width='83'><p align='center'></p><p align='center'>Coefficients</p><p align='center'>(points OE/TAM)</p></td><td colSpan='2' width='96'><p align='center'>Catégorie professionnelle</p></td></tr><tr><td width='487'><p align='left'>1- Assistant Logistique </p></td><td width='83'><p align='center'></p></td><td colSpan='2' width='96'><p align='left'></p></td></tr><tr><td width='487'><p align='left'>1.1-Type 1</p></td><td width='83'><p align='center'>116</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>1.2-Type 2</p></td><td width='83'><p align='center'>140</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>1.3-Type 3</p></td><td width='83'><p align='center'>220</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>2- Agent de Production </p></td><td width='83'><p align='center'></p></td><td colSpan='2' width='96'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>2.1-Agent de ligne de production</p></td><td width='83'><p align='center'></p></td><td colSpan='2' width='96'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>2.1.1- Type 1</p></td><td width='83'><p align='center'>100</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>2.1.2- Type 2</p></td><td width='83'><p align='center'>108</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>2.1.3- Type 3</p></td><td width='83'><p align='center'>116</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>2.2-Conducteur de ligne de production</p></td><td width='83'><p align='center'></p></td><td colSpan='2' width='96'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>2.2.1- Type 1</p></td><td width='83'><p align='center'>156</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>2.2.2- Type 2</p></td><td width='83'><p align='center'>196</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>3- Conducteur d'Équipes</p></td><td width='83'><p align='center'>300</p></td><td colSpan='2' width='96'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>4- Animateur d'Unité</p></td><td width='83'><p align='center'></p></td><td colSpan='2' width='96'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>4.1- Type 1</p></td><td width='83'><p align='center'>360</p></td><td colSpan='2' width='96'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>4.2- Type 1</p></td><td width='83'><p align='center'>464</p></td><td colSpan='2' width='96'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>5- Maintenance et Entretien</p></td><td width='83'><p align='center'></p></td><td colSpan='2' width='96'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>5.1-Agent d'entretien</p></td><td width='83'><p align='center'>100</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>5.2-Agent de Maintenance</p></td><td width='83'><p align='center'>128</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>5.3-Mécanicien</p></td><td width='83'><p align='center'>220</p></td><td colSpan='2' width='96'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>5.4-Technicien de Maintenance</p></td><td width='83'><p align='center'>328</p></td><td colSpan='2' width='96'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>5.5-Electricien</p></td><td width='83'><p align='center'>328</p></td><td colSpan='2' width='96'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>5.6-Chef d'atelier</p></td><td width='83'><p align='center'>464</p></td><td colSpan='2' width='96'><p align='center'>TAM</p></td></tr></tbody></table><table border='1' cellSpacing='0' cellPadding='0'><tbody><tr><td width='487'><p align='left'>Ouvriers, Employés, Techniciens et Agents de maîtrise (suite)</p><p align='left'></p></td><td width='83'><p align='center'>Coefficients</p><p align='center'>(points OE/TAM)</p></td><td width='83'><p align='center'>Catégorie professionnelle</p></td></tr><tr><td width='487'><p align='left'>6-Activités autres que la Production</p></td><td width='83'><p align='center'></p></td><td width='83'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>6.1-Agent de travaux de récolte</p></td><td width='83'><p align='center'>100</p></td><td width='83'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>6.2-Agent de propreté des bureaux et/ou autres locaux</p></td><td width='83'><p align='center'>100</p></td><td width='83'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>6.3-Agent Sélection et/ou laboratoire et/ou relation culture</p></td><td width='83'><p align='center'>140</p></td><td width='83'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>6.4-Assistant de Sélection et/ou de laboratoire</p></td><td width='83'><p align='center'>220</p></td><td width='83'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>6.5-Technicien de Sélection et/ou de laboratoire</p></td><td width='83'><p align='center'>328</p></td><td width='83'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>6.6-Technicien Relation Culture et adhérent</p></td><td width='83'><p align='center'>244</p></td><td width='83'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>6.7-Technicien Conseil Cultures</p></td><td width='83'><p align='center'>464</p></td><td width='83'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>7-Administratif</p></td><td width='83'><p align='center'></p></td><td width='83'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>7.1-Assistant administratif</p></td><td width='83'><p align='center'></p></td><td width='83'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>7.1.1-Type 1</p></td><td width='83'><p align='center'>108</p></td><td width='83'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>7.1.2-Type 2</p></td><td width='83'><p align='center'>140</p></td><td width='83'><p align='center'>OE</p></td></tr><tr><td width='487'><p align='left'>7.1.3-Type 3</p></td><td width='83'><p align='center'>244</p></td><td width='83'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'>7.2-Technicien Administratif et comptable</p></td><td width='83'><p align='center'>360</p></td><td width='83'><p align='center'>TAM</p></td></tr><tr><td width='487'><p align='left'></p></td><td width='83'><p align='center'></p></td><td width='83'><p align='center'><i></i></p></td></tr></tbody></table><table border='1' cellSpacing='0' cellPadding='0'><tbody><tr><td width='487'><p align='left'>Cadres</p><p align='left'></p></td><td width='166'><p align='center'>coefficients</p><p align='center'>(points Cadres)</p></td></tr><tr><td width='487'><p align='left'>1-Cadres de Type 1</p></td><td width='166'><p align='center'></p></td></tr><tr><td width='487'><p align='left'>1.1-Echelon 1</p></td><td width='166'><p align='center'>630</p></td></tr><tr><td width='487'><p align='left'>1.2-Echelon 2</p></td><td width='166'><p align='center'>700</p></td></tr><tr><td width='487'><p align='left'>1.3-Echelon 3</p></td><td width='166'><p align='center'>800</p></td></tr><tr><td width='487'><p align='left'>2-Cadres de Type 2</p></td><td width='166'><p align='center'>900</p></td></tr><tr><td width='487'><p align='left'>3- Cadres de Type 3</p></td><td width='166'><p align='center'>1 200</p></td></tr></tbody></table><p>LEGENDE : </p><p>OE : ouvriers/employés</p><p>TAM : techniciens/agents de maîtrise</p><p>C : cadres</p>",
+                "cid": "KALIARTI000019906573",
+                "num": "1",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000019906573",
+                "content": "<p align='left'>La présente annexe a pour objet de fixer les conditions particulières de travail des Techniciens-Agents de Maîtrise occupés dans les coopératives agricoles, les unions de coopératives et les SICA de teillage du lin.</p>",
                 "etat": "VIGUEUR_ETEN",
+                "surtitre": "Champ d'application",
                 "lstLienModification": []
               }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALITEXT000019747393",
-            "title": "Avenant n° 36 du 17 juillet 2008",
-            "id": "KALITEXT000019747393",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "2008-07-17"
-          },
-          "children": [
+            },
             {
               "type": "article",
               "data": {
-                "cid": "KALIARTI000019747395",
-                "num": "1",
-                "intOrdre": 524287,
-                "id": "KALIARTI000019747395",
-                "content": "<p align='left'><br/>Il est créé un article 32 bis dont la rédaction est la suivante : </p><p align='center'><br/>« Article 32 bis <br/>Astreintes <br/>1. Champ d'application </p><p align='left'><br/>Le présent article 32 bis « Astreintes » s'applique à l'ensemble des salariés relevant des catégories professionnelles « ouvriers-employés » et « techniciens-agents de maîtrise » à l'exclusion de la catégorie des cadres. </p><p align='center'><br/>2. Période d'astreinte </p><p align='left'><br/>En application des dispositions légales et réglementaires en vigueur, on entend par période d'astreinte la période pendant laquelle le salarié, sans être à disposition permanente et immédiate de l'employeur, a l'obligation de demeurer à son domicile ou à proximité afin d'être en mesure d'intervenir pour effectuer un travail au service de l'entreprise. </p><p align='center'><br/>3. Astreinte. ― Temps d'intervention. ― Temps de travail effectif </p><p align='left'><br/>a) Astreinte <br/>Dès lors que tous les critères visés à l'article précédent sont remplis, le temps passé par le salarié en astreinte ne constitue pas du temps de travail effectif. <br/>b) Temps d'intervention <br/>La durée de chaque intervention est considérée comme du temps de travail effectif. Ces heures d'intervention ouvrent le cas échéant droit au paiement des majorations légales ou conventionnelles pour heures supplémentaires, de nuit, du dimanche ou des jours fériés. <br/>Le temps de trajet durant les périodes d'astreinte n'est pas considéré comme du temps de travail effectif mais est rémunéré suivant le taux horaire du salarié. <br/>c) Temps de déplacement <br/>Le temps de trajet, tout en ne constituant pas du temps de travail effectif, est rémunéré aux conditions énoncées au paragraphe ci-dessus. <br/>Les frais kilométriques sont remboursés suivant les barèmes définis dans l'entreprise. </p><p align='center'><br/>4. Conditions et organisation des astreintes </p><p align='left'><br/>Les conditions et l'organisation des astreintes sont fixées par écrit par l'employeur, après information et consultation du comité d'entreprise, ou des délégués du personnel s'ils existent, et après information de l'inspection du travail, de l'emploi et de la politique sociale agricoles (ITEPSA). </p><p align='center'><br/>5. Les salariés d'astreinte </p><p align='left'><br/>La direction organisera des astreintes en ayant recours en priorité au personnel volontaire, c'est-à-dire les salariés désireux d'effectuer des astreintes. Cet effectif de volontaires peut être complété par le choix de la direction en fonction des besoins de l'entreprise.<br/>A défaut de volontaires, c'est l'entreprise qui fixe les astreintes et désigne les salariés concernés. </p><p align='center'><br/>6. Programmation des astreintes </p><p align='left'><br/>La programmation individuelle des périodes d'astreinte doit être portée à la connaissance de chaque salarié concerné au moins 15 jours à l'avance. En cas de circonstances exceptionnelles, ce délai peut être réduit conformément à la loi. </p><p align='center'><br/>7. Limitation des astreintes </p><p align='left'><br/>En dehors du dimanche et des jours fériés, chaque salarié peut être d'astreinte de semaine pendant 150 périodes de 12 heures au maximum durant une année. <br/>Par ailleurs, les salariés peuvent être d'astreinte 4 jours fériés par an et sur 2 périodes de 3 dimanches consécutifs. </p><p align='center'><br/>8. Récapitulatif mensuel </p><p align='left'><br/>En fin de mois, l'employeur doit remettre à chaque salarié concerné un document récapitulant le nombre d'heures d'astreinte effectuées par celui-ci au cours du mois écoulé ainsi que la compensation correspondante. Ce document, qui est tenu à la disposition des agents de contrôle de l'inspection du travail, est conservé pendant une durée de 1 an. </p><p align='center'><br/>9. Indemnisation de l'astreinte </p><p align='left'><br/>Les périodes d'astreinte ouvrent droit au versement d'une indemnité forfaitaire basée sur 100 % du taux horaire du coefficient du salarié : <br/>― 1/2 heure par jour pour les astreintes des salariés travaillant en équipe de jour ou pour des périodes d'astreintes inférieures à 12 heures ; <br/>― 1 heure par jour pour les astreintes couvrant les périodes d'astreinte de 12 heures, les plages horaires de nuit, de week-end ou des jours fériés. </p><p align='center'><br/>10. Conséquences de l'astreinte sur le temps de repos </p><p align='left'><br/>a) Astreinte en tant que telle <br/>Les périodes d'astreinte, exception faite du temps d'intervention, sont considérées comme du temps de repos et sont ainsi décomptées dans les durées minimales légales de repos hebdomadaire (repos hebdomadaire d'au moins 35 heures consécutives) et de repos journalier (repos journalier d'une durée minimale de 11 heures consécutives). <br/>Un salarié pourra donc être d'astreinte pendant ses heures de repos quotidien ou hebdomadaire. <br/>En l'absence de toute intervention, les salariés seront considérés comme ayant valablement bénéficié de leurs temps de repos légaux obligatoires. <br/>b) En cas d'intervention <br/>Lorsqu'un salarié aura effectué une intervention pendant une période d'astreinte, il devra prendre son repos intégral à compter de la fin de l'intervention. Cette règle ne s'appliquera pas si le salarié a bénéficié entièrement de sa durée minimale de repos continu avant de partir en intervention. </p><p align='center'><br/>11. Accords existants </p><p align='left'><br/>Les dispositions du présent article 32 bis ne peuvent se substituer à des accords existants plus favorables aux salariés concernés. </p><p align='center'><br/>12. Clause de non-dérogation </p><p align='left'><br/>Aucune dérogation au présent article 32 bis « Astreintes » offrant aux salariés des garanties d'un niveau inférieur ne pourra être conclue par accord d'entreprise.</p>",
+                "cid": "KALIARTI000019906574",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000019906574",
+                "content": "<p align='left'>Les dispositions légales sur la durée du travail s'appliquent aux TAM. En conséquence, la rémunération réelle de ceux-ci sera établie en fonction de l'horaire habituel de travail dans l'établissement, le service ou le bureau auxquels ils appartiennent.</p>",
                 "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000019831082",
-                    "textTitle": "Arrêté du 20 novembre 2008, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "JORFTEXT000019831082",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2008-11-29",
-                    "dateSignaTexte": "2008-11-20",
-                    "dateDebutCible": "2999-01-01"
-                  },
-                  {
-                    "textCid": "KALITEXT000018563084",
-                    "textTitle": "Convention collective nationale du 21 mars 1985 - art. 32 bis (VNE)",
-                    "linkType": "CREE",
-                    "linkOrientation": "source",
-                    "articleNum": "32 bis",
-                    "articleId": "KALIARTI000023248807",
-                    "natureText": "Convention collective",
-                    "datePubliTexte": "2999-01-01",
-                    "dateSignaTexte": "1985-03-21",
-                    "dateDebutCible": "2008-07-17"
-                  }
-                ]
+                "surtitre": "Durée du travail",
+                "lstLienModification": []
               }
             },
             {
               "type": "article",
               "data": {
-                "cid": "KALIARTI000019747397",
-                "num": "2",
-                "intOrdre": 1048574,
-                "id": "KALIARTI000019747397",
-                "content": "<p align='left'><br/> Les parties signataires demandent l'extension du présent avenant dont l'entrée en application se fera le premier jour du mois civil suivant la signature du présent avenant.</p>",
+                "cid": "KALIARTI000019906576",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000019906576",
+                "content": "<p align='left'></p><p>Le régime de retraite et de prévoyance est déterminé suivant les conditions fixées conformément à la convention CFCA.</p><p>Pour les coopératives linières, le taux de cotisation est au moins égal à 6 % dont 60 % à la charge de l'employeur et 40 % à la charge du salarié.</p>",
                 "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000019831082",
-                    "textTitle": "Arrêté du 20 novembre 2008, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "JORFTEXT000019831082",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2008-11-29",
-                    "dateSignaTexte": "2008-11-20",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
+                "surtitre": "Retraite complémentaire et prévoyance",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000019906577",
+                "num": "4",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000019906577",
+                "content": "<p align='left'>En cas de vacance ou de création de poste, l'employeur informera le comité d'entreprise et à défaut les délégués du personnel, et fera appel de préférence aux collaborateurs employés dans l'entreprise et aptes à occuper le poste. </p><p>En cas de promotion, le collaborateur pourra être soumis à la période d'essai prévue pour l'emploi qu'il est appelé à occuper. </p><p>Dans le cas où cet essai ne s'avérerait pas satisfaisant, la réintégration du salarié intéressé dans son ancien poste ou dans un emploi équivalent ne saurait être considéré comme une rétrogradation. </p><p>Les autres dispositions sont celles de la <a href='/affichIDCC.do?cidTexte=KALITEXT000018563084&categorieLien=cid' title='Convention collective nationale du 21 mars 1985 (VNE)'>convention collective</a> générale.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Priorité d'emploi",
+                "lstLienModification": []
               }
             }
           ]

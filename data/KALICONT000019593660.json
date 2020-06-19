@@ -3034,9 +3034,9 @@
           "data": {
             "cid": "KALISCTA000019593676",
             "intOrdre": 5242870,
-            "title": "Titre XI : Dispositions diverses",
-            "id": "KALISCTA000021707406",
-            "etat": "VIGUEUR_ETEN"
+            "title": "TITRE X Dispositions diverses",
+            "id": "KALISCTA000019593676",
+            "etat": "REMPLACE"
           },
           "children": [
             {
@@ -3122,9 +3122,9 @@
           "data": {
             "cid": "KALISCTA000019593676",
             "intOrdre": 5242870,
-            "title": "TITRE X Dispositions diverses",
-            "id": "KALISCTA000019593676",
-            "etat": "REMPLACE"
+            "title": "Titre XI : Dispositions diverses",
+            "id": "KALISCTA000021707406",
+            "etat": "VIGUEUR_ETEN"
           },
           "children": [
             {
@@ -3506,6 +3506,29 @@
         {
           "type": "section",
           "data": {
+            "cid": "KALITEXT000018827472",
+            "title": "Adhésion par lettre du 4 février 2008 de la fédération nationale de l'enseignement, de la culture et de la formation professionnelle Force ouvrière à la convention collective nationale",
+            "id": "KALITEXT000018827472",
+            "etat": "VIGUEUR",
+            "modifDate": "2008-02-04"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000018827475",
+                "intOrdre": 524287,
+                "id": "KALIARTI000018827475",
+                "content": "<p><br/>Montreuil, le 4 février 2008. </p><p><br/>La fédération nationale de l'enseignement, de la culture et de la formation professionnelle Force ouvrière, 6-8, rue Gaston-Lauriau, 93513 Montreuil Cedex, à la direction générale du travail, service des dépôts, 39-43, quai André-Citroën, 75902 Paris Cedex 15. <br/>Monsieur, <br/>La fédération nationale de l'enseignement, de la culture et de la formation professionnelle Force ouvrière déclare adhérer à la convention collective nationale de l'enseignement privé hors contrat du 27 novembre 2007. <br/>Veuillez agréer, Monsieur, l'expression de mes salutations les meilleures. </p><p><br/>Le secrétaire général.</p>",
+                "etat": "VIGUEUR",
+                "lstLienModification": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
             "cid": "KALITEXT000019747459",
             "title": "Adhésion par lettre du 15 septembre 2008 du SYNEP CFE-CGC à la convention",
             "id": "KALITEXT000019747459",
@@ -3535,29 +3558,6 @@
                     "dateDebutCible": "2007-11-27"
                   }
                 ]
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALITEXT000018827472",
-            "title": "Adhésion par lettre du 4 février 2008 de la fédération nationale de l'enseignement, de la culture et de la formation professionnelle Force ouvrière à la convention collective nationale",
-            "id": "KALITEXT000018827472",
-            "etat": "VIGUEUR",
-            "modifDate": "2008-02-04"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000018827475",
-                "intOrdre": 524287,
-                "id": "KALIARTI000018827475",
-                "content": "<p><br/>Montreuil, le 4 février 2008. </p><p><br/>La fédération nationale de l'enseignement, de la culture et de la formation professionnelle Force ouvrière, 6-8, rue Gaston-Lauriau, 93513 Montreuil Cedex, à la direction générale du travail, service des dépôts, 39-43, quai André-Citroën, 75902 Paris Cedex 15. <br/>Monsieur, <br/>La fédération nationale de l'enseignement, de la culture et de la formation professionnelle Force ouvrière déclare adhérer à la convention collective nationale de l'enseignement privé hors contrat du 27 novembre 2007. <br/>Veuillez agréer, Monsieur, l'expression de mes salutations les meilleures. </p><p><br/>Le secrétaire général.</p>",
-                "etat": "VIGUEUR",
-                "lstLienModification": []
               }
             }
           ]
@@ -4116,141 +4116,6 @@
         {
           "type": "section",
           "data": {
-            "cid": "KALITEXT000022321585",
-            "title": "Avenant n° 6 du 9 décembre 2009 portant modification du titre VIII relatif à la prévoyance",
-            "id": "KALITEXT000022321585",
-            "etat": "VIGUEUR_ETEN",
-            "modifDate": "2009-07-01"
-          },
-          "children": [
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000022321588",
-                "intOrdre": 524287,
-                "title": "Préambule",
-                "id": "KALISCTA000022321588",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000022321594",
-                    "intOrdre": 524287,
-                    "id": "KALIARTI000022321594",
-                    "content": "<p></p><p align='left'> L'avenant n° 3 du 18 mai 2009 à l'accord national interprofessionnel du 11 janvier 2008 (art. 14) crée une nouvelle obligation à la charge de l'employeur en matière de prévoyance. En effet, cet article prévoit le maintien des garanties de prévoyance au profit des salariés dont le contrat de travail est rompu et qui bénéficient à ce titre d'une prise en charge par l'assurance chômage.<br/>  Les signataires du présent accord de la branche professionnelle décident, par le présent avenant, de mutualiser la couverture de cette nouvelle obligation dans le cadre du régime de prévoyance de la convention collective nationale. Les modifications suivantes sont apportées :<br/></p><p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000024310190",
-                        "textTitle": "Arrêté du 27 juin 2011 - art. 8, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "8",
-                        "articleId": "JORFARTI000024310221",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2011-07-05",
-                        "dateSignaTexte": "2011-06-27",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000022321589",
-                "num": "1",
-                "intOrdre": 1048574,
-                "id": "KALIARTI000022321589",
-                "content": "<p align='left'>A l'article 8.1.1 « Principe général » du <a href='/affichIDCC.do?cidTexte=KALITEXT000019593665&idSectionTA=KALISCTA000019593674&categorieLien=cid'>titre VIII</a> de la convention collective, il est ajouté le second alinéa suivant : <br/>« La commission paritaire nationale de prévoyance voit ses missions définies à l'article 2.3.4. »<br/></p>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000024310190",
-                    "textTitle": "Arrêté du 27 juin 2011 - art. 8, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "8",
-                    "articleId": "JORFARTI000024310221",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2011-07-05",
-                    "dateSignaTexte": "2011-06-27",
-                    "dateDebutCible": "2999-01-01"
-                  },
-                  {
-                    "textCid": "KALITEXT000019593665",
-                    "textTitle": "Convention collective nationale du 27 novembre ... - art. 8.1 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "source",
-                    "articleNum": "8.1",
-                    "articleId": "KALIARTI000022323325",
-                    "natureText": "Convention collective nationale ",
-                    "datePubliTexte": "2999-01-01",
-                    "dateSignaTexte": "2007-11-27",
-                    "dateDebutCible": "2009-12-09"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000022321591",
-                "num": "2",
-                "intOrdre": 1572861,
-                "id": "KALIARTI000022321591",
-                "content": "<p align='left'>L'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000019593665&idArticle=KALIARTI000019593795&categorieLien=cid'>article 8.1.2</a> « Bénéficiaires des garanties du régime de prévoyance » est annulé et remplacé comme suit : <br/></p><p align='center'>« Article 8.1.2 <br/>Bénéficiaires des garanties du régime de prévoyance <br/></p><p align='left'>8.1.2.1. Il s'agit de l'ensemble des salariés présents à l'effectif au jour de la mise en place du régime de prévoyance. <br/>La notion de salarié s'entend pour tous les bénéficiaires d'un contrat de travail, qu'il soit à durée déterminée ou à durée indéterminée. <br/>La notion de salarié présent à l'effectif comprend tous les salariés présents au travail ou dont la suspension du contrat de travail prévue par le code du travail donne lieu à un maintien de salaire partiel ou total par l'employeur ou au versement d'indemnités journalières complémentaires financées au moins pour partie par l'employeur. <br/>8.1.2.2. En outre, les garanties du régime de prévoyance bénéficient aux salariés dont la rupture du contrat de travail, exclusive de toute faute lourde, ouvre droit à une indemnisation par le régime d'assurance chômage tel que défini ci-dessous. <br/>a) Maintien des garanties du régime de prévoyance après la rupture du contrat de travail <br/>1. Bénéficiaires <br/>Les garanties du régime de prévoyance sont maintenues après la rupture du contrat de travail (à l'exclusion des ruptures résultant d'une faute lourde) aux salariés bénéficiaires du régime de prévoyance conventionnel dans les conditions définies ci-après.L'ancienneté retenue pour définir les droits est déterminée à la date de cessation du contrat de travail du salarié. <br/>2. Conditions de maintien <br/>Pour pouvoir bénéficier de ce maintien, les salariés dont le contrat de travail est rompu doivent : <br/>― être pris en charge par l'assurance chômage ; <br/>― justifier de cette prise en charge auprès de leur dernier employeur et de l'organisme de prévoyance assureur du régime, ci-dessous désigné l'assureur, en leur adressant le justificatif et la notification du montant des allocations qu'ils perçoivent ; <br/>― ne pas avoir renoncé expressément par écrit, par lettre recommandée ou remise en main propre contre décharge, à ce maintien, conformément à l'avenant n° 3 du 18 mai 2009 à l'accord national interprofessionnel du 11 janvier 2008 qui prévoit la possibilité pour le salarié de renoncer dans les 10 jours suivant la date de cessation de son contrat de travail. La renonciation, qui est irrévocable, vaut pour l'ensemble des garanties du régime conventionnel. <br/>Le dispositif de portabilité s'applique aux ruptures de contrat de travail intervenues à compter du 1<sup>er</sup> juillet 2009. <br/>3. Salaire de référence <br/>Le salaire de référence servant de base au calcul des prestations est tel que défini à l'article 8.1.3 du titre VIII de la convention collective nationale, étant précisé que la période prise en compte est celle précédant la date de rupture ou de fin du contrat de travail. Pour la détermination du salaire de référence, sont exclues les sommes liées à la rupture ou à la fin du contrat de travail (indemnités de licenciement, indemnités compensatrices de congés payés et toutes les autres sommes versées à titre exceptionnel). <br/>4. Information et versement des prestations par l'assureur <br/>La notice d'information, prévue par les textes en vigueur, fournie par l'organisme assureur et remise au salarié par l'employeur, mentionnera les conditions d'application de la portabilité. <br/>Le versement des prestations est fait directement au bénéficiaire par l'assureur. <br/>5. Date d'effet et durée du maintien <br/>Ce maintien prend effet au jour de la rupture du contrat de travail à condition que l'ancien salarié n'ait pas expressément refusé le maintien des garanties dans les 10 jours ouvrables suivant la date de cessation de son contrat de travail. <br/>Les garanties sont maintenues pour une durée qui correspond à celle du dernier contrat de travail, appréciée en mois entier, soit 30 jours de date à date, sans pouvoir excéder 9 mois. <br/>Exemples : <br/>― contrat de travail ayant eu une durée de 15 jours : pas de portabilité ; <br/>― contrat de travail ayant eu une durée de 2,5 mois : 2 mois de portabilité ; <br/>― contrat de travail ayant eu une durée de 36 mois : 9 mois de portabilité. <br/>Le bénéficiaire de ce maintien doit informer conjointement son ancien employeur et l'assureur de la cessation du versement des allocations du régime d'assurance chômage lorsque celle-ci intervient au cours de lapériode de maintien des garanties de prévoyance du régime conventionnel. <br/>6. Incapacité temporaire de travail <br/>Les droits garantis par le régime de prévoyance au titre de l'incapacité temporaire ne peuvent conduire l'ancien salarié à percevoir des indemnités d'un montant supérieur à celui de l'allocation nette du régime obligatoire d'assurance chômage à laquelle l'ancien salarié ouvre droit et qu'il aurait perçue au titre de la même période. <br/>Dans le cadre de la garantie incapacité temporaire de travail, le cumul des sommes versées en cas d'incapacité de travail par les différents intervenants (sécurité sociale, organismes complémentaires, Pôle emploi, etc.) ne saurait en aucun cas conduire le participant intéressé à percevoir un revenu de remplacement excédant le montant des allocations chômage qu'il aurait perçues s'il n'avait pas été en incapacité temporaire. <br/>Dans le cas contraire, l'institution de prévoyance diminuera sa prestation en conséquence. Si le participant est en incapacité de travail lors de la période de carence du régime d'assurance chômage, l'institution reconstitue le montant futur de son allocation chômage pour déterminer sa limite d'intervention. <br/>En tout état de cause, le maintien des garanties du régime de prévoyance cesse dès que le chômeur retrouve un emploi ou dès qu'il ne peut plus justifier de son statut de demandeur d'emploi indemnisé par le régime obligatoire d'assurance chômage. <br/>7. Financement <br/>Le financement du dispositif est assuré par la mutualisation des cotisations (part patronale et part salariale telles que définies au point 8. 3 du titre VIII de la convention collective nationale). <br/>Le taux global de cotisation défini à l'article 8.3 du titre VIII de la convention collective nationale reste inchangé. <br/>Une période d'observation de 18 mois à compter de la date d'effet du présent avenant (1<sup>er</sup> juillet 2009) est prévue.A l'issue de ce délai, lors de la présentation annuelle des résultats du régime, un bilan d'application du dispositif de portabilité sera établi. Si les résultats du régime le justifient, les organismes assureurs soumettront à l'approbation des signataires du présent accord le taux de cotisation nécessaire à la poursuite de cette prise en charge, afin de maintenir la pérennité du régime, qui sera formalisé par avenant et complétera en conséquence l'article 8.3 « Cotisations » de la convention collective nationale. <br/>b) Contrats à durée déterminée et indéterminée ne bénéficiant pas des dispositions prévues ci-dessus <br/>A l'issue d'un contrat à durée déterminée ou indéterminée, et au maximale dans les 10 jours ouvrables suivant la rupture du contrat, les anciens salariés peuvent demander le bénéfice des dispositions suivantes : pendant unepériode maximale de 12 mois sans reprise d'activité, à compter de la date de fin du contrat de travail, les garanties décès et la rente éducation du régime peuvent être maintenues, moyennant une cotisation personnelle de l'intéressé. Cette cotisation sera fixée selon un barème correspondant aux régimes à adhésion facultative. <br/>c) Congé parental <br/>Les salariés en congé parental bénéficient des dispositions prévues au paragraphe b du présent article. »<br/></p>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000024310190",
-                    "textTitle": "Arrêté du 27 juin 2011 - art. 8, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "8",
-                    "articleId": "JORFARTI000024310221",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2011-07-05",
-                    "dateSignaTexte": "2011-06-27",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000022321593",
-                "num": "3",
-                "intOrdre": 2097148,
-                "id": "KALIARTI000022321593",
-                "content": "<p align='left'>Le présent avenant prendra effet au 1<sup>er </sup>juillet 2009.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000024310190",
-                    "textTitle": "Arrêté du 27 juin 2011 - art. 8, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "8",
-                    "articleId": "JORFARTI000024310221",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2011-07-05",
-                    "dateSignaTexte": "2011-06-27",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
             "cid": "KALITEXT000022058522",
             "title": "Avenant n° 7 du 10 décembre 2009 relatif à l'emploi des seniors",
             "id": "KALITEXT000022058522",
@@ -4521,6 +4386,141 @@
                     "natureText": "ARRETE",
                     "datePubliTexte": "2010-04-29",
                     "dateSignaTexte": "2010-04-16",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000022321585",
+            "title": "Avenant n° 6 du 9 décembre 2009 portant modification du titre VIII relatif à la prévoyance",
+            "id": "KALITEXT000022321585",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2009-07-01"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000022321588",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000022321588",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000022321594",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000022321594",
+                    "content": "<p></p><p align='left'> L'avenant n° 3 du 18 mai 2009 à l'accord national interprofessionnel du 11 janvier 2008 (art. 14) crée une nouvelle obligation à la charge de l'employeur en matière de prévoyance. En effet, cet article prévoit le maintien des garanties de prévoyance au profit des salariés dont le contrat de travail est rompu et qui bénéficient à ce titre d'une prise en charge par l'assurance chômage.<br/>  Les signataires du présent accord de la branche professionnelle décident, par le présent avenant, de mutualiser la couverture de cette nouvelle obligation dans le cadre du régime de prévoyance de la convention collective nationale. Les modifications suivantes sont apportées :<br/></p><p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000024310190",
+                        "textTitle": "Arrêté du 27 juin 2011 - art. 8, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "8",
+                        "articleId": "JORFARTI000024310221",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2011-07-05",
+                        "dateSignaTexte": "2011-06-27",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000022321589",
+                "num": "1",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000022321589",
+                "content": "<p align='left'>A l'article 8.1.1 « Principe général » du <a href='/affichIDCC.do?cidTexte=KALITEXT000019593665&idSectionTA=KALISCTA000019593674&categorieLien=cid'>titre VIII</a> de la convention collective, il est ajouté le second alinéa suivant : <br/>« La commission paritaire nationale de prévoyance voit ses missions définies à l'article 2.3.4. »<br/></p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000024310190",
+                    "textTitle": "Arrêté du 27 juin 2011 - art. 8, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "8",
+                    "articleId": "JORFARTI000024310221",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2011-07-05",
+                    "dateSignaTexte": "2011-06-27",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000019593665",
+                    "textTitle": "Convention collective nationale du 27 novembre ... - art. 8.1 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "8.1",
+                    "articleId": "KALIARTI000022323325",
+                    "natureText": "Convention collective nationale ",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2007-11-27",
+                    "dateDebutCible": "2009-12-09"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000022321591",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000022321591",
+                "content": "<p align='left'>L'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000019593665&idArticle=KALIARTI000019593795&categorieLien=cid'>article 8.1.2</a> « Bénéficiaires des garanties du régime de prévoyance » est annulé et remplacé comme suit : <br/></p><p align='center'>« Article 8.1.2 <br/>Bénéficiaires des garanties du régime de prévoyance <br/></p><p align='left'>8.1.2.1. Il s'agit de l'ensemble des salariés présents à l'effectif au jour de la mise en place du régime de prévoyance. <br/>La notion de salarié s'entend pour tous les bénéficiaires d'un contrat de travail, qu'il soit à durée déterminée ou à durée indéterminée. <br/>La notion de salarié présent à l'effectif comprend tous les salariés présents au travail ou dont la suspension du contrat de travail prévue par le code du travail donne lieu à un maintien de salaire partiel ou total par l'employeur ou au versement d'indemnités journalières complémentaires financées au moins pour partie par l'employeur. <br/>8.1.2.2. En outre, les garanties du régime de prévoyance bénéficient aux salariés dont la rupture du contrat de travail, exclusive de toute faute lourde, ouvre droit à une indemnisation par le régime d'assurance chômage tel que défini ci-dessous. <br/>a) Maintien des garanties du régime de prévoyance après la rupture du contrat de travail <br/>1. Bénéficiaires <br/>Les garanties du régime de prévoyance sont maintenues après la rupture du contrat de travail (à l'exclusion des ruptures résultant d'une faute lourde) aux salariés bénéficiaires du régime de prévoyance conventionnel dans les conditions définies ci-après.L'ancienneté retenue pour définir les droits est déterminée à la date de cessation du contrat de travail du salarié. <br/>2. Conditions de maintien <br/>Pour pouvoir bénéficier de ce maintien, les salariés dont le contrat de travail est rompu doivent : <br/>― être pris en charge par l'assurance chômage ; <br/>― justifier de cette prise en charge auprès de leur dernier employeur et de l'organisme de prévoyance assureur du régime, ci-dessous désigné l'assureur, en leur adressant le justificatif et la notification du montant des allocations qu'ils perçoivent ; <br/>― ne pas avoir renoncé expressément par écrit, par lettre recommandée ou remise en main propre contre décharge, à ce maintien, conformément à l'avenant n° 3 du 18 mai 2009 à l'accord national interprofessionnel du 11 janvier 2008 qui prévoit la possibilité pour le salarié de renoncer dans les 10 jours suivant la date de cessation de son contrat de travail. La renonciation, qui est irrévocable, vaut pour l'ensemble des garanties du régime conventionnel. <br/>Le dispositif de portabilité s'applique aux ruptures de contrat de travail intervenues à compter du 1<sup>er</sup> juillet 2009. <br/>3. Salaire de référence <br/>Le salaire de référence servant de base au calcul des prestations est tel que défini à l'article 8.1.3 du titre VIII de la convention collective nationale, étant précisé que la période prise en compte est celle précédant la date de rupture ou de fin du contrat de travail. Pour la détermination du salaire de référence, sont exclues les sommes liées à la rupture ou à la fin du contrat de travail (indemnités de licenciement, indemnités compensatrices de congés payés et toutes les autres sommes versées à titre exceptionnel). <br/>4. Information et versement des prestations par l'assureur <br/>La notice d'information, prévue par les textes en vigueur, fournie par l'organisme assureur et remise au salarié par l'employeur, mentionnera les conditions d'application de la portabilité. <br/>Le versement des prestations est fait directement au bénéficiaire par l'assureur. <br/>5. Date d'effet et durée du maintien <br/>Ce maintien prend effet au jour de la rupture du contrat de travail à condition que l'ancien salarié n'ait pas expressément refusé le maintien des garanties dans les 10 jours ouvrables suivant la date de cessation de son contrat de travail. <br/>Les garanties sont maintenues pour une durée qui correspond à celle du dernier contrat de travail, appréciée en mois entier, soit 30 jours de date à date, sans pouvoir excéder 9 mois. <br/>Exemples : <br/>― contrat de travail ayant eu une durée de 15 jours : pas de portabilité ; <br/>― contrat de travail ayant eu une durée de 2,5 mois : 2 mois de portabilité ; <br/>― contrat de travail ayant eu une durée de 36 mois : 9 mois de portabilité. <br/>Le bénéficiaire de ce maintien doit informer conjointement son ancien employeur et l'assureur de la cessation du versement des allocations du régime d'assurance chômage lorsque celle-ci intervient au cours de lapériode de maintien des garanties de prévoyance du régime conventionnel. <br/>6. Incapacité temporaire de travail <br/>Les droits garantis par le régime de prévoyance au titre de l'incapacité temporaire ne peuvent conduire l'ancien salarié à percevoir des indemnités d'un montant supérieur à celui de l'allocation nette du régime obligatoire d'assurance chômage à laquelle l'ancien salarié ouvre droit et qu'il aurait perçue au titre de la même période. <br/>Dans le cadre de la garantie incapacité temporaire de travail, le cumul des sommes versées en cas d'incapacité de travail par les différents intervenants (sécurité sociale, organismes complémentaires, Pôle emploi, etc.) ne saurait en aucun cas conduire le participant intéressé à percevoir un revenu de remplacement excédant le montant des allocations chômage qu'il aurait perçues s'il n'avait pas été en incapacité temporaire. <br/>Dans le cas contraire, l'institution de prévoyance diminuera sa prestation en conséquence. Si le participant est en incapacité de travail lors de la période de carence du régime d'assurance chômage, l'institution reconstitue le montant futur de son allocation chômage pour déterminer sa limite d'intervention. <br/>En tout état de cause, le maintien des garanties du régime de prévoyance cesse dès que le chômeur retrouve un emploi ou dès qu'il ne peut plus justifier de son statut de demandeur d'emploi indemnisé par le régime obligatoire d'assurance chômage. <br/>7. Financement <br/>Le financement du dispositif est assuré par la mutualisation des cotisations (part patronale et part salariale telles que définies au point 8. 3 du titre VIII de la convention collective nationale). <br/>Le taux global de cotisation défini à l'article 8.3 du titre VIII de la convention collective nationale reste inchangé. <br/>Une période d'observation de 18 mois à compter de la date d'effet du présent avenant (1<sup>er</sup> juillet 2009) est prévue.A l'issue de ce délai, lors de la présentation annuelle des résultats du régime, un bilan d'application du dispositif de portabilité sera établi. Si les résultats du régime le justifient, les organismes assureurs soumettront à l'approbation des signataires du présent accord le taux de cotisation nécessaire à la poursuite de cette prise en charge, afin de maintenir la pérennité du régime, qui sera formalisé par avenant et complétera en conséquence l'article 8.3 « Cotisations » de la convention collective nationale. <br/>b) Contrats à durée déterminée et indéterminée ne bénéficiant pas des dispositions prévues ci-dessus <br/>A l'issue d'un contrat à durée déterminée ou indéterminée, et au maximale dans les 10 jours ouvrables suivant la rupture du contrat, les anciens salariés peuvent demander le bénéfice des dispositions suivantes : pendant unepériode maximale de 12 mois sans reprise d'activité, à compter de la date de fin du contrat de travail, les garanties décès et la rente éducation du régime peuvent être maintenues, moyennant une cotisation personnelle de l'intéressé. Cette cotisation sera fixée selon un barème correspondant aux régimes à adhésion facultative. <br/>c) Congé parental <br/>Les salariés en congé parental bénéficient des dispositions prévues au paragraphe b du présent article. »<br/></p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000024310190",
+                    "textTitle": "Arrêté du 27 juin 2011 - art. 8, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "8",
+                    "articleId": "JORFARTI000024310221",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2011-07-05",
+                    "dateSignaTexte": "2011-06-27",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000022321593",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000022321593",
+                "content": "<p align='left'>Le présent avenant prendra effet au 1<sup>er </sup>juillet 2009.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000024310190",
+                    "textTitle": "Arrêté du 27 juin 2011 - art. 8, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "8",
+                    "articleId": "JORFARTI000024310221",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2011-07-05",
+                    "dateSignaTexte": "2011-06-27",
                     "dateDebutCible": "2999-01-01"
                   }
                 ]
