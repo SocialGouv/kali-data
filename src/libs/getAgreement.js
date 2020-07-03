@@ -2,7 +2,7 @@
 
 const unistUtilParents = require("unist-util-parents");
 
-const getAgreementIdFromIdOrIdcc = require("../helpers/getAgreementIdFromIdOrIdcc");
+const getAgreementIdFromIdOrIdcc = require("../libs/getAgreementIdFromIdOrIdcc");
 const hasAgreement = require("./hasAgreement");
 
 /**

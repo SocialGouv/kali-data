@@ -16,6 +16,7 @@ Extracted with [dila-api-client][link-dila-api-client] from [DILA API][link-aife
     - [Data](#data)
     - [getAgreement()](#getagreement)
     - [getAgreementArticlesWithParentSections()](#getagreementarticleswithparentsections)
+    - [getAgreementIdFromIdOrIdcc()](#getagreementidfromidoridcc)
     - [getAgreements()](#getagreements)
     - [getArticles()](#getarticles)
     - [getArticleWithParentSections()](#getarticlewithparentsections)
@@ -99,6 +100,20 @@ Get a flat [unist][link-unist] array of all the articles an agreement contains.
 
 ```ts
 KaliData.AgreementArticleWithParentSections[]
+```
+
+#### getAgreementIdFromIdOrIdcc()
+
+Convert any agreement ID or IDCC into a normalized agreement IDCC.
+
+| Parameter           | Type               | Default      | Description          |
+| ------------------- | ------------------ | ------------ | -------------------- |
+| `agreementIdOrIdcc` | `number \| string` | **required** | Agreement ID or IDCC |
+
+**Return Type**
+
+```ts
+string
 ```
 
 #### getAgreements()

@@ -18,6 +18,11 @@ export function getAgreementArticlesWithParentSections(
 ): KaliData.AgreementArticleWithParentSections[];
 
 /**
+ * Convert any agreement ID or IDCC into a normalized agreement IDCC.
+ */
+export function getAgreementIdFromIdOrIdcc(agreementIdOrIdcc: number | string): string;
+
+/**
  * Get the full list of indexed agreements.
  */
 export function getAgreements(): KaliData.IndexedAgreement[];

@@ -1,6 +1,6 @@
 import getAgreementIdFromIdOrIdcc from "../getAgreementIdFromIdOrIdcc";
 
-describe(`helpers/getAgreementIdFromIdOrIdcc()`, () => {
+describe(`libs/getAgreementIdFromIdOrIdcc()`, () => {
   describe(`should return the expected ID`, () => {
     it(`with an existing agreement ID`, () => {
       expect(getAgreementIdFromIdOrIdcc("KALICONT000005635444")).toBe("KALICONT000005635444");
