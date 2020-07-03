@@ -20,7 +20,7 @@ const isAgreementIdcc = idcc =>
 const isAgreementId = id => typeof id === "string" && /^KALICONT\d{12}$/.test(id);
 
 /**
- * Convert any agreement ID or IDCC into a normalized agreement IDCC.
+ * Convert any agreement ID or IDCC into a normalized agreement ID.
  *
  * @param {number | string} agreementIdOrIdcc
  *

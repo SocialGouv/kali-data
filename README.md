@@ -104,7 +104,7 @@ KaliData.AgreementArticleWithParentSections[]
 
 #### getAgreementIdFromIdOrIdcc()
 
-Convert any agreement ID or IDCC into a normalized agreement IDCC.
+Convert any agreement ID or IDCC into a normalized agreement ID.
 
 | Parameter           | Type               | Default      | Description          |
 | ------------------- | ------------------ | ------------ | -------------------- |
