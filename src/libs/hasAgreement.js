@@ -2,7 +2,7 @@
 
 const path = require("path");
 
-const getAgreementIdFromIdOrIdcc = require("../helpers/getAgreementIdFromIdOrIdcc");
+const getAgreementIdFromIdOrIdcc = require("../libs/getAgreementIdFromIdOrIdcc");
 const getAgreements = require("./getAgreements");
 const isFile = require("../helpers/isFile");
 
