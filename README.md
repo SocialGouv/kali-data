@@ -16,10 +16,12 @@ Extracted with [dila-api-client][link-dila-api-client] from [DILA API][link-aife
     - [Data](#data)
     - [getAgreement()](#getagreement)
     - [getAgreementArticlesWithParentSections()](#getagreementarticleswithparentsections)
+    - [getAgreementArticlesWithPath()](#getagreementarticleswithpath)
     - [getAgreementIdFromIdOrIdcc()](#getagreementidfromidoridcc)
     - [getAgreements()](#getagreements)
     - [getArticles()](#getarticles)
     - [getArticleWithParentSections()](#getarticlewithparentsections)
+    - [getArticleWithPath()](#getarticlewithpath)
     - [getIndexedArticle()](#getindexedarticle)
     - [hasAgreement()](#hasagreement)
     - [hasArticle()](#hasarticle)
@@ -90,7 +92,11 @@ KaliData.Agreement
 
 #### getAgreementArticlesWithParentSections()
 
+:warning: _**Deprecated:** Use `getAgreementArticlesWithPath()` instead._
+
 Get a flat [unist][link-unist] array of all the articles an agreement contains.
+
+Each article includes a list of its parent sections.
 
 | Parameter           | Type               | Default      | Description          |
 | ------------------- | ------------------ | ------------ | -------------------- |
@@ -100,6 +106,22 @@ Get a flat [unist][link-unist] array of all the articles an agreement contains.
 
 ```ts
 KaliData.AgreementArticleWithParentSections[]
+```
+
+#### getAgreementArticlesWithPath()
+
+Get a flat [unist][link-unist] array of all the articles an agreement contains.
+
+Each article includes its parent sections path, as an ordered list of their titles.
+
+| Parameter           | Type               | Default      | Description          |
+| ------------------- | ------------------ | ------------ | -------------------- |
+| `agreementIdOrIdcc` | `number \| string` | **required** | Agreement ID or IDCC |
+
+**Return Type**
+
+```ts
+KaliData.AgreementArticleWithPath[]
 ```
 
 #### getAgreementIdFromIdOrIdcc()
@@ -138,7 +160,9 @@ KaliData.IndexedArticle[]
 
 #### getArticleWithParentSections()
 
-Get an agreement article [unist][link-unist] node.
+:warning: _**Deprecated:** Use `getArticleWithPath()` instead._
+
+Get an agreement article [unist][link-unist] node with its parent sections.
 
 | Parameter        | Type     | Default      | Description       |
 | ---------------- | -------- | ------------ | ----------------- |
@@ -148,6 +172,22 @@ Get an agreement article [unist][link-unist] node.
 
 ```ts
 KaliData.AgreementArticleWithParentSections
+```
+
+#### getArticleWithPath()
+
+Get an agreement article [unist][link-unist] node with its parent sections path.
+
+The parent sections path is represented as an ordered array of their titles.
+
+| Parameter        | Type     | Default      | Description       |
+| ---------------- | -------- | ------------ | ----------------- |
+| `articleIdOrCid` | `string` | **required** | Article ID or CID |
+
+**Return Type**
+
+```ts
+KaliData.AgreementArticleWithPath
 ```
 
 #### getIndexedArticle()

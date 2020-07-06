@@ -12,6 +12,8 @@ const getArticleWithParentSections = require("./getArticleWithParentSections");
  * @param {number | string} agreementIdOrIdcc
  *
  * @returns {KaliData.AgreementArticleWithParentSections[]}
+ *
+ * @deprecated Use `getAgreementArticlesWithPath()` instead.
  */
 function getAgreementArticlesWithParentSections(agreementIdOrIdcc) {
   const agreement = getAgreement(agreementIdOrIdcc);

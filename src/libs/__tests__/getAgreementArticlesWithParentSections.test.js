@@ -3,7 +3,7 @@ import getAgreementArticlesWithParentSections from "../getAgreementArticlesWithP
 describe(`libs/getAgreementArticlesWithParentSections()`, () => {
   describe(`should match snapshot`, () => {
     it(`with an existing agreement ID`, () => {
-      const received = getAgreementArticlesWithParentSections("KALICONT000005635444");
+      const received = getAgreementArticlesWithParentSections("KALICONT000005635221");
 
       expect(received[0].sections.length).toBeGreaterThan(1);
     });

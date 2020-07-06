@@ -10,6 +10,7 @@ import path from "path";
 import unistUtilFlatFilter from "unist-util-flat-filter";
 
 import { getAgreement, getAgreements } from "../src";
+import getArticlePath from "./helpers/getArticlePath";
 
 log.enableColor();
 
@@ -20,22 +21,20 @@ const articlesIndex = agreementsIndex.reduce((prevArticlesIndex, { id: agreement
     return prevArticlesIndex;
   }
 
-  const agreementTree = getAgreement(agreementId);
-  const agreementTreeWithFlatArticles =
+  const agreement = getAgreement(agreementId);
+  const agreementWithFlatArticles =
     /** @type {{ type: "root", children: KaliData.AgreementArticle }} */
-    (unistUtilFlatFilter(agreementTree, "article"));
-  if (
-    agreementTreeWithFlatArticles === null ||
-    !Array.isArray(agreementTreeWithFlatArticles.children)
-  ) {
+    (unistUtilFlatFilter(agreement, "article"));
+  if (agreementWithFlatArticles === null || !Array.isArray(agreementWithFlatArticles.children)) {
     return prevArticlesIndex;
   }
 
-  const newArticlesIndex = agreementTreeWithFlatArticles.children.map(
+  const newArticlesIndex = agreementWithFlatArticles.children.map(
     ({ data: { cid: articleCid, id: articleId } }) => ({
       agreementId,
       articleCid,
       articleId,
+      path: getArticlePath(agreement, articleCid),
     }),
   );
 
