@@ -54,6 +54,8 @@ const getParentSectionsFromArticle = article => {
  * @param {string} articleIdOrCid
  *
  * @returns {KaliData.AgreementArticleWithParentSections}
+ *
+ * @deprecated Use `getArticleWithPath()` instead.
  */
 function getArticleWithParentSections(articleIdOrCid) {
   const { agreementId } = getIndexedArticle(articleIdOrCid);
