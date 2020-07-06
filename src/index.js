@@ -6,6 +6,7 @@ const getAgreementArticlesWithPath = require("./libs/getAgreementArticlesWithPat
 const getAgreements = require("./libs/getAgreements");
 const getArticleWithParentSections = require("./libs/getArticleWithParentSections");
 const getArticleWithPath = require("./libs/getArticleWithPath");
+const getAgreementIdFromIdOrIdcc = require("./libs/getAgreementIdFromIdOrIdcc");
 const getArticles = require("./libs/getArticles");
 const getIndexedArticle = require("./libs/getIndexedArticle");
 const hasAgreement = require("./libs/hasAgreement");
@@ -15,6 +16,7 @@ module.exports = {
   getAgreement,
   getAgreementArticlesWithParentSections,
   getAgreementArticlesWithPath,
+  getAgreementIdFromIdOrIdcc,
   getAgreements,
   getArticleWithParentSections,
   getArticleWithPath,
