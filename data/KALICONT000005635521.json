@@ -10963,8 +10963,8 @@
                         "num": "6",
                         "intOrdre": 42949,
                         "id": "KALIARTI000041503613",
-                        "content": "<p align='center'></p><p align='left'><br/>\n Le total des frais de gestion prélevés pour couvrir les frais de gestion du régime, c'est-à-dire les frais de service des prestations et les frais d'administration, est égal à la somme de :<br/><br/>\n– prélèvement d'acquisition : 8,5 % des cotisations et contributions de l'exercice concerné, définies à l'article 4 ci-dessus ;<br/><br/>\n– prélèvement de gestion : 1 % de la PMT des encours du régime représentés par la PMT à l'ouverture de l'exercice. »</p>",
-                        "etat": "VIGUEUR_NON_ETEN",
+                        "content": "<p>Le total des frais de gestion prélevés pour couvrir les frais de gestion du régime, c'est-à-dire les frais de service des prestations et les frais d'administration, est égal à la somme de :<br/>\n– prélèvement d'acquisition : 8,5 % des cotisations et contributions de l'exercice concerné, définies à l'article 4 ci-dessus ;<br/>\n– prélèvement de gestion : 1 % de la PMT des encours du régime représentés par la PMT à l'ouverture de l'exercice.</p>",
+                        "etat": "VIGUEUR_ETEN",
                         "lstLienModification": [
                           {
                             "textCid": "KALITEXT000041459461",
@@ -10977,6 +10977,18 @@
                             "datePubliTexte": "2020-01-23",
                             "dateSignaTexte": "2019-09-10",
                             "dateDebutCible": "2019-10-17"
+                          },
+                          {
+                            "textCid": "JORFTEXT000042138705",
+                            "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                            "linkType": "ETEND",
+                            "linkOrientation": "cible",
+                            "articleNum": "1",
+                            "articleId": "JORFARTI000042138708",
+                            "natureText": "ARRETE",
+                            "datePubliTexte": "2020-07-23",
+                            "dateSignaTexte": "2020-07-10",
+                            "dateDebutCible": "2999-01-01"
                           }
                         ]
                       }
@@ -15378,7 +15390,7 @@
             "cid": "KALITEXT000041459461",
             "title": "Avenant n° 65 du 10 septembre 2019 modifiant l'article 6 de l'annexe III relatif au régime professionnel de retraite complémentaire",
             "id": "KALITEXT000041459461",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2019-10-17"
           },
           "children": [
@@ -15389,7 +15401,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000041459464",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -15398,9 +15410,22 @@
                     "cid": "KALIARTI000041459469",
                     "intOrdre": 524287,
                     "id": "KALIARTI000041459469",
-                    "content": "<p align='left'><br/>Les partenaires sociaux se sont accordés pour introduire au sein du règlement du régime de retraite supplémentaire un prélèvement de gestion fixé à 1 % de la provision mathématique théorique des encours du régime.<br/>C'est ainsi qu'il a été arrêté et convenu de modifier les dispositions de l'annexe III de la convention collective comme suit :</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "content": "<p align='left'>Les partenaires sociaux se sont accordés pour introduire au sein du règlement du régime de retraite supplémentaire un prélèvement de gestion fixé à 1 % de la provision mathématique théorique des encours du régime.</p><p align='left'>C'est ainsi qu'il a été arrêté et convenu de modifier les dispositions de l'annexe III de la convention collective comme suit :</p><p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000042138705",
+                        "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000042138708",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2020-07-23",
+                        "dateSignaTexte": "2020-07-10",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -15412,9 +15437,21 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000041459465",
-                "content": "<p align='left'><br/>Les dispositions de l'article 6 du règlement du régime de retraite en annexe III de la convention collective nationale du travail réglant les rapports entre les huissiers de justice et leur personnel sont remplacées par les dispositions suivantes : </p><p align='center'><br/>« Article 6 <br/>Prélèvement de gestion </p><p align='left'><br/>Le total des frais de gestion prélevés pour couvrir les frais de gestion du régime, c'est-à-dire les frais de service des prestations et les frais d'administration, est égal à la somme de : <br/>– prélèvement d'acquisition : 8,5 % des cotisations et contributions de l'exercice concerné, définies à l'article 4 ci-dessus ; <br/>– prélèvement de gestion : 1 % de la PMT des encours du régime représentés par la PMT à l'ouverture de l'exercice. »</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Les dispositions de l'article 6 du règlement du régime de retraite en annexe III de la convention collective nationale du travail réglant les rapports entre les huissiers de justice et leur personnel sont remplacées par les dispositions suivantes :</p><p align='center'>« Article 6<br/>\nPrélèvement de gestion</p><p align='left'>Le total des frais de gestion prélevés pour couvrir les frais de gestion du régime, c'est-à-dire les frais de service des prestations et les frais d'administration, est égal à la somme de :<br/>\n– prélèvement d'acquisition : 8,5 % des cotisations et contributions de l'exercice concerné, définies à l'article 4 ci-dessus ;<br/>\n– prélèvement de gestion : 1 % de la PMT des encours du régime représentés par la PMT à l'ouverture de l'exercice. »</p>",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042138705",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138708",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000005667974",
                     "textTitle": "Annexe III : Régime professionnel de retraite s... - art. 6 (VNE)",
@@ -15438,8 +15475,21 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000041459466",
                 "content": "<p align='left'><br/>Les dispositions du présent avenant ne justifient pas l'adoption de dispositions spécifiques concernant les entreprises de moins de 50 salariés.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042138705",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138708",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -15449,9 +15499,22 @@
                 "num": "3",
                 "intOrdre": 2097148,
                 "id": "KALIARTI000041459467",
-                "content": "<p align='left'><br/>Le présent avenant fera l'objet d'un dépôt dans les conditions prévues à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-6 (V)'>article L. 2231-6 du code du travail</a> et d'une demande d'extension dans les conditions fixées à l'article L. 2261-15 dudit code.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'><br/>Le présent avenant fera l'objet d'un dépôt dans les conditions prévues à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>article L. 2231-6 du code du travail </a>et d'une demande d'extension dans les conditions fixées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>article L. 2261-15</a> dudit code.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042138705",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138708",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]

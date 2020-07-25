@@ -10562,7 +10562,7 @@
                 "intOrdre": 85898,
                 "id": "KALIARTI000041558227",
                 "content": "<p align='center'>Cotisations du régime de prévoyance (depuis le 1er janvier 2020)</p><p align='right'>(En pourcentage.)</p><center><table border='1'><tbody><tr><th>Garanties</th><th colspan='3'>TA</th><th colspan='3'>TB</th></tr><tr><td></td><td align='center'>Employeur</td><td align='center'>Salarié</td><td align='center'>Total</td><td align='center'>Employeur</td><td align='center'>Salarié</td><td align='center'>Total</td></tr><tr><td align='center'>Décès (capitaux et rentes)</td><td align='center'>0,76</td><td align='center'>0,00</td><td align='center'>0,76</td><td align='center'>0,76</td><td align='center'>0,00</td><td align='center'>0,76</td></tr><tr><td align='center'>Incapacité</td><td align='center'>0,17</td><td align='center'>0,46</td><td align='center'>0,63</td><td align='center'>0,34</td><td align='center'>0,95</td><td align='center'>1,29</td></tr><tr><td align='center'>Invalidité</td><td align='center'>0,86</td><td align='center'>0,22</td><td align='center'>1,08</td><td align='center'>1,66</td><td align='center'>0,44</td><td align='center'>2,10</td></tr><tr><td align='center'>Total</td><td align='center'>1,79</td><td align='center'>0,68</td><td align='center'>2,47</td><td align='center'>2,76</td><td align='center'>1,39</td><td align='center'>4,15</td></tr></tbody></table></center>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
                   {
                     "textCid": "KALITEXT000041549804",
@@ -10575,6 +10575,18 @@
                     "datePubliTexte": "2020-02-10",
                     "dateSignaTexte": "2019-09-20",
                     "dateDebutCible": "2020-01-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000042138751",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138755",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -18477,7 +18489,7 @@
             "cid": "KALITEXT000041549779",
             "title": "Accord du 20 septembre 2019 relatif aux modalités de participation aux travaux de la branche en lien avec la promotion du fonds de solidarité",
             "id": "KALITEXT000041549779",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2019-09-21"
           },
           "children": [
@@ -18488,7 +18500,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000041549782",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -18498,8 +18510,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000041549802",
                     "content": "<p align='left'>Les partenaires sociaux de la branche mutualité ont convenu de la nécessité de promouvoir, notamment auprès des organismes mutualistes et de leurs salariés, le fonds de solidarité.</p><p align='left'>Pour mémoire, ce fonds, adossé au régime de prévoyance, a été créé à effet du 1er janvier 2018.</p><p align='left'>Il s'adresse d'une part, aux organismes mutualistes qui peuvent bénéficier d'un financement d'actions de prévention ou de santé publique et, d'autre part, à leurs salariés, anciens salariés ou ayants droit qui peuvent obtenir le financement d'actions sociales prenant la forme d'aides et de secours.</p><p align='left'>Partant du constat que ce dispositif est à ce jour peu connu de ses potentiels bénéficiaires, les partenaires sociaux de la branche ont pris la décision :<br/>\n– d'organiser un grand événement de communication et de promotion du fonds de solidarité, qui aura lieu le 26 novembre 2019 ;<br/>\n– et de créer un réseau dit de « Référents solidaires » au service de cet événement et du fonds. Les référents solidaires auront pour mission principale de relayer les actions de financement du fonds et ses modalités dans les organismes mutualistes.</p><p align='left'>Lors de la CPPNI du 20 septembre 2019, les partenaires sociaux ont convenu ce qui suit :</p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000042138751",
+                        "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000042138755",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2020-07-23",
+                        "dateSignaTexte": "2020-07-10",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -18512,9 +18537,22 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000041549783",
                 "content": "<p align='left'>Le présent accord a pour objet de définir les règles :<br/>\n– d'autorisation d'absence et de prise en charge de la rémunération des salariés relevant de la convention collective de la mutualité amenés à participer aux travaux de la branche définis à l'article 2 du présent accord ;<br/>\n– de prise en charge des frais engagés pour participer aux travaux susvisés par les salariés, dirigeants et administrateurs des organismes mutualistes relevant de la convention collective de la mutualité, ainsi que les administrateurs de l'ANEM.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Objet",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042138751",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138755",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18525,9 +18563,22 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000041549784",
                 "content": "<p align='left'>Sont ici visés les travaux de la branche en vue de promouvoir le fonds de solidarité. Au jour de la conclusion du présent accord, la liste non exhaustive des travaux déjà connus est la suivante :<br/>\n– une réunion de formation à destination des participants volontaires pour devenir référents solidaires, au choix le 9 ou 15 octobre 2019 ;<br/>\n– un grand événement de communication et de promotion du fonds de solidarité le 26 novembre 2019.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Travaux concernés",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042138751",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138755",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18538,9 +18589,22 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000041549785",
                 "content": "<p align='left'>Les salariés participants aux travaux définis à l'article 2 du présent accord bénéficient, sur présentation d'une convocation de l'ANEM, d'une autorisation d'absence assimilée à du travail effectif.</p><p align='left'>L'employeur maintient alors la rémunération des salariés pour toute la durée de l'absence.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Autorisation d'absence avec maintien de rémunération",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042138751",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138755",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18551,9 +18615,22 @@
                 "intOrdre": 2621435,
                 "id": "KALIARTI000041549786",
                 "content": "<p align='left'>La participation aux travaux définis à l'article 2 du présent accord fait l'objet d'un défraiement par l'ANEM, sur envoi du formulaire figurant en annexe au présent accord et production de justificatifs, dans les conditions définies à l'annexe VIII de la convention collective de la mutualité, intitulée « Procédures et barèmes de remboursements des frais dans le cadre du dialogue social de la branche ».</p><p align='left'>Pour les représentants des organisations syndicales représentatives au niveau de la branche, ces frais ne sont pas imputables sur la dotation de fonctionnement.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Règles de remboursements de frais",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042138751",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138755",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18564,9 +18641,22 @@
                 "intOrdre": 3145722,
                 "id": "KALIARTI000041549787",
                 "content": "",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dispositions diverses",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042138751",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138755",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18577,9 +18667,22 @@
                 "intOrdre": 3670009,
                 "id": "KALIARTI000041549788",
                 "content": "<p align='left'><br/>Le présent accord ne comporte pas de stipulation spécifique pour les entreprises de moins de 50 salariés. Les partenaires sociaux considèrent que la thématique de l'accord n'est pas en lien avec la taille des structures relevant de la convention collective de la mutualité.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Organismes mutualistes de moins de 50 salariés",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042138751",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138755",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18590,9 +18693,22 @@
                 "intOrdre": 4194296,
                 "id": "KALIARTI000041549789",
                 "content": "<p align='left'><br/>Cet accord fera l'objet d'une évaluation par les partenaires sociaux au gré des travaux de la branche sur la promotion du fonds de solidarité.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Suivi de l'accord",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042138751",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138755",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18603,9 +18719,22 @@
                 "intOrdre": 4718583,
                 "id": "KALIARTI000041549790",
                 "content": "<p align='left'><br/>Les parties conviennent de faire le point sur les éventuelles incidences de l'accord au plus tard au second semestre de l'année 2020.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Clause de rendez-vous",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042138751",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138755",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18616,9 +18745,22 @@
                 "intOrdre": 5242870,
                 "id": "KALIARTI000041549791",
                 "content": "<p align='left'><br/>Le présent accord entrera en vigueur au lendemain de sa signature. Il est conclu pour une durée indéterminée.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Durée. – Date d'entrée en vigueur",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042138751",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138755",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18629,9 +18771,22 @@
                 "intOrdre": 5767157,
                 "id": "KALIARTI000041549792",
                 "content": "<p align='left'><br/>Les partenaires sociaux ont retenu les règles de révision et de dénonciation qui suivent :</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Révision. – Dénonciation",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042138751",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138755",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18641,10 +18796,23 @@
                 "num": "7.1",
                 "intOrdre": 6291444,
                 "id": "KALIARTI000041549793",
-                "content": "<p align='left'><br/>Le présent accord pourra faire l'objet, à compter d'un délai d'application d'une année à compter de sa date de signature, d'une révision dans les conditions fixées à ce jour aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-7 (V)'>L. 2261-7</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901786&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-8 (V)'>L. 2261-8</a> du code du travail.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'><br/>Le présent accord pourra faire l'objet, à compter d'un délai d'application d'une année à compter de sa date de signature, d'une révision dans les conditions fixées à ce jour aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid'>L. 2261-7</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901786&dateTexte=&categorieLien=cid'>L. 2261-8</a> du code du travail.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Révision",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042138751",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138755",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18654,10 +18822,23 @@
                 "num": "7.2",
                 "intOrdre": 6815731,
                 "id": "KALIARTI000041549796",
-                "content": "<p align='left'><br/>Le présent accord pourra être dénoncé à tout moment dans les conditions fixées à ce jour aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-9 (V)'>articles L. 2261-9 et suivants du code du travail</a>.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'><br/>Le présent accord pourra être dénoncé à tout moment dans les conditions fixées à ce jour aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid'>articles L. 2261-9 et suivants du code du travail</a>.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dénonciation",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042138751",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138755",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18667,10 +18848,23 @@
                 "num": "8",
                 "intOrdre": 7340018,
                 "id": "KALIARTI000041549798",
-                "content": "<p align='left'>Conformément aux dispositions légales, le présent accord sera déposé en deux exemplaires, dont une version signée des parties sur support papier et une version sur support électronique, auprès des services centraux du ministre chargé du travail (à ce jour, articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-6 (V)'>L. 2231-6</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-2 (V)'>D. 2231-2</a> et suivants du code du travail).</p><p align='left'>Un exemplaire sera également remis au secrétariat-greffe du conseil de prud'hommes du lieu de sa conclusion.</p><p align='left'>Les parties signataires conviennent de demander l'extension du présent accord.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Conformément aux dispositions légales, le présent accord sera déposé en deux exemplaires, dont une version signée des parties sur support papier et une version sur support électronique, auprès des services centraux du ministre chargé du travail (à ce jour, articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>L. 2231-6</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid'>D. 2231-2</a> et suivants du code du travail).</p><p align='left'>Un exemplaire sera également remis au secrétariat-greffe du conseil de prud'hommes du lieu de sa conclusion.</p><p align='left'>Les parties signataires conviennent de demander l'extension du présent accord.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Formalités de dépôt. – Extension",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042138751",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138755",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18680,7 +18874,7 @@
                 "intOrdre": 7864305,
                 "title": "Annexes",
                 "id": "KALISCTA000041549801",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -18690,8 +18884,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000041549803",
                     "content": "<p>Formulaire de demande de remboursement de frais</p><p>(Formulaire non reproduit, consultable en ligne sur le site www.journal-officiel.gouv.fr, rubrique BO Convention collective.)</p><p><a shape='rect' href='https://www.journal-officiel.gouv.fr/publications/bocc/pdf/2019/0050/boc_20190050_0000_0007.pdf' target='_blank'> https://www.journal-officiel.gouv.fr/publications/bocc/pdf/2019/0050/boc_20190050_0000_0007.pdf</a></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000042138751",
+                        "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000042138755",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2020-07-23",
+                        "dateSignaTexte": "2020-07-10",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 },
                 {
@@ -18701,8 +18908,21 @@
                     "intOrdre": 1074003967,
                     "id": "KALIARTI000041558029",
                     "content": "<p>Extrait de l'annexe VIII de la convention collective de la mutualité</p><p>Procédures et barèmes de remboursements des frais dans le cadre du dialogue social de la branche</p><p>« Montants :</p><p>Sont remboursés, dans les limites fixées ci-dessous, les frais suivants :</p><p>– indemnités de petits déplacements :</p><p>Ces frais correspondent aux trajets effectués en métro, train de banlieue, RER, taxi (etc.) et sont remboursés au réel dans la limite de 31 € ;</p><p>– indemnités pour grands déplacements (train grande ligne et avion) :</p><p>Ces frais correspondent aux trajets qui ne peuvent être effectués par un autre moyen que via un train grande ligne ou par avion et sont remboursés au réel :</p><p>–– concernant le train, à hauteur du prix du billet sur la base du tarif de seconde classe ;<br/>\n–– concernant l'avion, à hauteur du prix du billet, dans la limite de 200 €. Si le coût du billet est supérieur à ce montant, le remboursement est conditionné à un accord préalable de l'ANEM ;</p><p>– indemnités kilométriques :</p><p>Ces frais, liés à l'utilisation d'un véhicule personnel, sont remboursés selon le barème fiscal en vigueur ;</p><p>– hébergement :</p><p>Ces frais sont remboursés dans la limite de 100 € par nuitée, petit-déjeuner inclus ;</p><p>– restauration :</p><p>Ces frais, correspondant à un déjeuner ou à un dîner, sont remboursés dans la limite de 28 € par repas.</p><p>Justificatifs :</p><p>Ces remboursements sont subordonnés à la fourniture des pièces justificatives correspondantes (factures, tickets de caisse…) ».</p><p>Pour toute première demande, nous vous remercions de bien vouloir joindre un RIB.</p><p>Si vous souhaitez un paiement par chèque, merci de nous indiquer :<br/>\n– l'adresse postale à laquelle le chèque doit être expédié : ......<br/>\n– L'ordre auquel le chèque doit être libellé : ......</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000042138751",
+                        "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000042138755",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2020-07-23",
+                        "dateSignaTexte": "2020-07-10",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -18715,7 +18935,7 @@
             "cid": "KALITEXT000041549804",
             "title": "Avenant n° 28 du 20 septembre 2019 relatif à la modification de l'annexe V de la convention collective",
             "id": "KALITEXT000041549804",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2020-01-01"
           },
           "children": [
@@ -18726,7 +18946,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000041549807",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -18735,9 +18955,22 @@
                     "cid": "KALIARTI000041549820",
                     "intOrdre": 524287,
                     "id": "KALIARTI000041549820",
-                    "content": "<p align='left'>En 2017, les partenaires sociaux se sont réunis afin de réexaminer les conditions dans lesquelles les salariés des organismes mutualistes relevant du champ d'application de la convention collective de la mutualité bénéficient de garanties collectives en matière notamment d'incapacité, d'invalidité et de décès.</p><p align='left'>Ils ont alors décidé de faire évoluer ces garanties, pour une plus grande justice sociale, tout en assurant la pérennité du régime.</p><p align='left'>C'est ainsi que le 8 décembre 2017, l'<a href='/affichIDCC.do?cidTexte=KALITEXT000036789609&categorieLien=cid' title='Modification de l'article 15.2 de la convention collective (VE)'>avenant n° 22</a> était conclu par la branche, modifiant ainsi les dispositions de l'article 15.2 et des annexes IV et V à la convention collective de la mutualité.</p><p align='left'>Les partenaires sociaux souhaitent aujourd'hui modifier le tableau de cotisations au régime, afin de revoir le financement du risque incapacité. Plus précisément, ils souhaitent, tout en maintenant un coût global identique à celui du régime actuel pour les salariés et leurs employeurs, prévoir une contribution patronale sur cette garantie.</p><p align='left'>C'est dans ce contexte que, lors de la CPPNI du 20 septembre 2019, il a été convenu ce qui suit :</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "content": "<p align='left'>En 2017, les partenaires sociaux se sont réunis afin de réexaminer les conditions dans lesquelles les salariés des organismes mutualistes relevant du champ d'application de la convention collective de la mutualité bénéficient de garanties collectives en matière notamment d'incapacité, d'invalidité et de décès.</p><p align='left'>Ils ont alors décidé de faire évoluer ces garanties, pour une plus grande justice sociale, tout en assurant la pérennité du régime.</p><p align='left'>C'est ainsi que le 8 décembre 2017, l'<a href='/affichIDCC.do?cidTexte=KALITEXT000036789609&categorieLien=cid'>avenant n° 22</a> était conclu par la branche, modifiant ainsi les dispositions de l'article 15.2 et des annexes IV et V à la convention collective de la mutualité.</p><p align='left'>Les partenaires sociaux souhaitent aujourd'hui modifier le tableau de cotisations au régime, afin de revoir le financement du risque incapacité. Plus précisément, ils souhaitent, tout en maintenant un coût global identique à celui du régime actuel pour les salariés et leurs employeurs, prévoir une contribution patronale sur cette garantie.</p><p align='left'>C'est dans ce contexte que, lors de la CPPNI du 20 septembre 2019, il a été convenu ce qui suit :</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000042138751",
+                        "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000042138755",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2020-07-23",
+                        "dateSignaTexte": "2020-07-10",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -18750,9 +18983,21 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000041549808",
                 "content": "<p align='left'>L'annexe V de la convention collective de la mutualité relative aux cotisations du régime de prévoyance est intégralement réécrite comme suit :</p><p align='center'>« Annexe V<br/>\nCotisations du régime de prévoyance</p><p align='center'>Cotisations du régime de prévoyance (depuis le 1er janvier 2020)</p><p align='right'>(En pourcentage.)</p><p align='left'></p><center><table border='1'><tbody><tr><th>Garanties</th><th colspan='3'>TA</th><th colspan='3'>TB</th></tr><tr><td></td><td align='center'>Employeur</td><td align='center'>Salarié</td><td align='center'>Total</td><td align='center'>Employeur</td><td align='center'>Salarié</td><td align='center'>Total</td></tr><tr><td align='center'>Décès (capitaux et rentes)</td><td align='center'>0,76</td><td align='center'>0,00</td><td align='center'>0,76</td><td align='center'>0,76</td><td align='center'>0,00</td><td align='center'>0,76</td></tr><tr><td align='center'>Incapacité</td><td align='center'>0,17</td><td align='center'>0,46</td><td align='center'>0,63</td><td align='center'>0,34</td><td align='center'>0,95</td><td align='center'>1,29</td></tr><tr><td align='center'>Invalidité</td><td align='center'>0,86</td><td align='center'>0,22</td><td align='center'>1,08</td><td align='center'>1,66</td><td align='center'>0,44</td><td align='center'>2,10</td></tr><tr><td align='center'>Total</td><td align='center'>1,79</td><td align='center'>0,68</td><td align='center'>2,47</td><td align='center'>2,76</td><td align='center'>1,39</td><td align='center'>4,15</td></tr></tbody></table></center><p></p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Modification de l'annexe V de la convention collective de la mutualité",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042138751",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138755",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000005640324",
                     "textTitle": "Annexe V - Cotisations du régime de prévoyance ... - art. (VNE)",
@@ -18776,9 +19021,22 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000041549809",
                 "content": "",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dispositions diverses",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042138751",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138755",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18789,9 +19047,22 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000041549810",
                 "content": "<p align='left'><br/>Le présent avenant ne comporte pas de stipulations spécifiques pour les organismes mutualistes de moins de 50 salariés. En effet, l'objet du présent avenant, est précisément de fixer les taux de cotisations au régime de prévoyance qui s'appliquent à l'ensemble des organismes mutualistes quelle que soit leur taille.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Organismes mutualistes de moins de 50 salariés",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042138751",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138755",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18802,9 +19073,22 @@
                 "intOrdre": 2621435,
                 "id": "KALIARTI000041549811",
                 "content": "<p align='left'><br/>Cet avenant fera l'objet d'une évaluation par les membres de la CPPNI.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Suivi de l'avenant",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042138751",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138755",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18815,9 +19099,22 @@
                 "intOrdre": 3145722,
                 "id": "KALIARTI000041549812",
                 "content": "<p align='left'><br/>Les parties conviennent de se réunir au plus tard dans les 3 ans de la signature de l'entrée en vigueur de l'avenant, pour faire le point sur les incidences de son application.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Clause de rendez-vous",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042138751",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138755",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18828,9 +19125,22 @@
                 "intOrdre": 3670009,
                 "id": "KALIARTI000041549813",
                 "content": "",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dépôt. – Extension. – Durée et date d'entrée en vigueur",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042138751",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138755",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18840,10 +19150,23 @@
                 "num": "3.1",
                 "intOrdre": 4194296,
                 "id": "KALIARTI000041549814",
-                "content": "<p align='left'>Conformément aux dispositions légales, le présent avenant sera déposé en deux exemplaires, dont une version sur support papier signée des parties et une version sur support électronique, auprès des services centraux du ministre chargé du travail (à ce jour, articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-6 (V)'>L. 2231-6</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-2 (V)'>D. 2231-2</a> et suivants du code du travail).</p><p align='left'>Un exemplaire sera également remis au secrétariat-greffe du conseil de prud'hommes du lieu de sa conclusion.</p><p align='left'>Les parties signataires conviennent de demander l'extension du présent avenant auprès du ministère du travail, en application des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901803&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-25 (M)'>dispositions de l'article L. 2261-25 du code du travail</a>.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Conformément aux dispositions légales, le présent avenant sera déposé en deux exemplaires, dont une version sur support papier signée des parties et une version sur support électronique, auprès des services centraux du ministre chargé du travail (à ce jour, articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>L. 2231-6</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid'>D. 2231-2</a> et suivants du code du travail).</p><p align='left'>Un exemplaire sera également remis au secrétariat-greffe du conseil de prud'hommes du lieu de sa conclusion.</p><p align='left'>Les parties signataires conviennent de demander l'extension du présent avenant auprès du ministère du travail, en application des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901803&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-25 du code du travail</a>.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dépôt. – Extension",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042138751",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138755",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18854,9 +19177,22 @@
                 "intOrdre": 4718583,
                 "id": "KALIARTI000041549818",
                 "content": "<p align='left'>Le présent avenant est conclu pour une durée indéterminée.</p><p align='left'>Les dispositions du présent avenant entreront en vigueur au 1er janvier 2020.</p><p align='left'>L'extension mentionnée à l'article 3.1 prendra effet au 1er janvier de l'année suivant la publication de l'arrêté au Bulletin officiel.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Durée. – Date d'entrée en vigueur",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042138751",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042138755",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-07-23",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
