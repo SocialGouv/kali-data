@@ -2,7 +2,7 @@
   "type": "convention collective",
   "data": {
     "num": 1518,
-    "title": "Convention collective nationale de l'animation du 28 juin 1988. ",
+    "title": "Convention collective nationale de l'animation du 28 juin 1988. Étendue par arrêté du 10 janvier 1989 JORF 13 janvier 1989",
     "id": "KALICONT000005635177",
     "shortTitle": "Animation",
     "categorisation": [
@@ -15,7 +15,7 @@
       "data": {
         "cid": "KALITEXT000005681198",
         "intOrdre": 0,
-        "title": "Texte de base : Convention collective nationale de l'animation du 28 juin 1988. ",
+        "title": "Texte de base : Convention collective nationale de l'animation du 28 juin 1988. Étendue par arrêté du 10 janvier 1989 JORF 13 janvier 1989",
         "id": "KALITEXT000005681198",
         "etat": "VIGUEUR_ETEN"
       },
@@ -3939,44 +3939,32 @@
                     "cid": "KALIARTI000005854467",
                     "num": "8.2",
                     "intOrdre": 42949,
-                    "id": "KALIARTI000032495033",
-                    "content": "<p>En cas de décès du salarié, quelle qu'en soit la cause, survenu avant la liquidation de sa pension de vieillesse du régime de base entraînant la rupture de son contrat de travail, ou à partir de la date à laquelle le salarié est reconnu par la sécurité sociale en état d'invalidité permanente et absolue (IPA) 3e catégorie, il est versé en une seule fois un capital décès égal à 100 % du salaire annuel de référence pour les non-cadres. Pour les salariés affiliés à l'AGIRC ce capital décès sera de 370 % du salaire annuel de référence sur la tranche A et de 100 % du salaire annuel de référence sur la tranche B.</p><p>Le salaire de référence servant de base au calcul des prestations est le salaire brut des 12 derniers mois précédant l'arrêt ou le décès, ayant donné lieu à cotisation. </p>",
+                    "id": "KALIARTI000042193728",
+                    "content": "<p>En cas de décès du salarié, quelle qu'en soit la cause, survenu avant la liquidation de sa pension de vieillesse du régime de base entraînant la rupture de son contrat de travail, ou à partir de la date à laquelle le salarié est reconnu par la sécurité sociale en état d'invalidité permanente et absolue (IPA) 3e catégorie, il est versé en une seule fois un capital décès égal à 100 % du salaire annuel de référence pour les salariés non affiliés à l'AGIRC. Pour les salariés affiliés à l'AGIRC, ce capital décès sera de 300 % du salaire annuel de référence sur la tranche A et de 100 % du salaire annuel de référence sur la tranche B.</p><p>Le salaire de référence servant de base au calcul des prestations est le salaire brut des 12 derniers mois précédant l'arrêt ou le décès, ayant donné lieu à cotisation.</p>",
                     "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
-                        "textCid": "KALITEXT000032488499",
-                        "textTitle": "Prévoyance - art. 2 (VNE)",
+                        "textCid": "KALITEXT000041686341",
+                        "textTitle": "Régimes de prévoyance et frais de santé - art. 1er (VNE)",
                         "linkType": "MODIFIE",
                         "linkOrientation": "cible",
-                        "articleNum": "2",
-                        "articleId": "KALIARTI000032488505",
+                        "articleNum": "1er",
+                        "articleId": "KALIARTI000041686345",
                         "natureText": "Avenant",
-                        "datePubliTexte": "2016-05-04",
-                        "dateSignaTexte": "2015-12-17",
-                        "dateDebutCible": "2016-01-01"
+                        "datePubliTexte": "2020-03-04",
+                        "dateSignaTexte": "2019-10-08",
+                        "dateDebutCible": "2020-09-01"
                       },
                       {
-                        "textCid": "KALITEXT000032488499",
-                        "textTitle": "Prévoyance - art. 3 (VNE)",
-                        "linkType": "MODIFIE",
-                        "linkOrientation": "cible",
-                        "articleNum": "3",
-                        "articleId": "KALIARTI000032488506",
-                        "natureText": "Avenant",
-                        "datePubliTexte": "2016-05-04",
-                        "dateSignaTexte": "2015-12-17",
-                        "dateDebutCible": "2016-01-01"
-                      },
-                      {
-                        "textCid": "JORFTEXT000033463969",
-                        "textTitle": "Arrêté du 15 novembre 2016 - art. 1, v. init.",
+                        "textCid": "JORFTEXT000042183517",
+                        "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
                         "linkType": "ETEND",
                         "linkOrientation": "cible",
                         "articleNum": "1",
-                        "articleId": "JORFARTI000033463972",
+                        "articleId": "JORFARTI000042183521",
                         "natureText": "ARRETE",
-                        "datePubliTexte": "2016-11-24",
-                        "dateSignaTexte": "2016-11-15",
+                        "datePubliTexte": "2020-08-01",
+                        "dateSignaTexte": "2020-07-10",
                         "dateDebutCible": "2999-01-01"
                       }
                     ]
@@ -4086,32 +4074,32 @@
                     "cid": "KALIARTI000005854477",
                     "num": "8.5",
                     "intOrdre": 85898,
-                    "id": "KALIARTI000032495039",
-                    "content": "<p>En cas d'arrêt de travail, pris en compte ou non par la sécurité sociale, ou pour les salariés non indemnisés par la sécurité sociale, par le médecin contrôleur de l'organisme gestionnaire du régime, sur avis du médecin traitant, il sera versé au salarié des indemnités journalières dont le montant, y compris les prestations de la sécurité sociale nettes de CSG et CRDS (reconstituées de manière théorique pour les salariés n'effectuant pas 150 heures par trimestre ou cotisant sur une base forfaitaire de sécurité sociale), est égal à 100 % du salaire net de référence. Ce salaire net de référence correspond à la moyenne des douze derniers salaires nets imposables diminués de la CSG/ CRDS non déductible. <br/><br/>Les prestations sont servies à partir du 91e jour d'arrêt de travail discontinu ou non et cessent dans les cas suivants : </p><p align='left'><br/>- lors de la reprise du travail ; <br/><br/>- lors de la mise en invalidité ; <br/><br/>- à la liquidation de la pension vieillesse. <br/><br/>En tout état de cause, les prestations ne peuvent être servies au-delà du 1 095e jour d'arrêt de travail, ni conduire le salarié à percevoir plus que son salaire net d'activité. <br/><br/>Pour les salariés en situation d'incapacité avant le 1er janvier 2016, les indemnités journalières complémentaires servies continueront à l'être sur la base du niveau de prestation en vigueur lors de la prescription de l'arrêt de travail.</p>",
+                    "id": "KALIARTI000042193730",
+                    "content": "<p>En cas d'arrêt de travail, pris en compte par la sécurité sociale, ou pour les salariés non indemnisés par la sécurité sociale, par le médecin contrôleur de l'organisme gestionnaire du régime, sur avis du médecin traitant, il sera versé au salarié des indemnités journalières dont le montant, y compris les prestations de la sécurité sociale brutes de CSG et CRDS (reconstituées de manière théorique pour les salariés n'effectuant pas 150 heures par trimestre ou cotisant sur une base forfaitaire de sécurité sociale), est égal à :<br/>\n– pour les salariés affiliés à l'AGIRC : 87 % du salaire brut de référence ;<br/>\n– pour les salariés non affiliés à l'AGIRC : 79 % du salaire brut de référence.</p><p>Le salaire de référence servant de base au calcul des prestations est le salaire brut des 12 derniers mois précédant l'arrêt de travail et ayant donné lieu à cotisation.</p><p>En tout état de cause, le cumul des sommes reçues au titre de la sécurité sociale, du régime de prévoyance ainsi que de tout autre revenu (notamment salaire temps partiel, indemnités de chômage ou un quelconque revenu de substitution), ne pourra conduire l'intéressé à percevoir une rémunération nette supérieure à celle qu'il aurait perçue s'il avait poursuivi son activité professionnelle.</p><p>Les prestations sont servies à partir du 91e jour d'arrêt de travail discontinu ou non et cessent dans les cas suivants :<br/>\n– lors de la reprise du travail ;<br/>\n– lors de la mise en invalidité ;<br/>\n– à la liquidation de la pension vieillesse.</p><p>En tout état de cause, les prestations ne peuvent être servies au-delà du 1 095e jour d'arrêt de travail.</p><p>Pour les salariés en situation d'incapacité de travail et percevant des prestations à ce titre à la date de prise d'effet du présent avenant, les indemnités journalières complémentaires servies continueront à l'être sur la base du niveau de prestation en vigueur lors de la prescription de l'arrêt de travail.</p>",
                     "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
-                        "textCid": "KALITEXT000032488499",
-                        "textTitle": "Prévoyance - art. 4 (VNE)",
+                        "textCid": "KALITEXT000041686341",
+                        "textTitle": "Régimes de prévoyance et frais de santé - art. 2 (VNE)",
                         "linkType": "MODIFIE",
                         "linkOrientation": "cible",
-                        "articleNum": "4",
-                        "articleId": "KALIARTI000032488507",
+                        "articleNum": "2",
+                        "articleId": "KALIARTI000041686346",
                         "natureText": "Avenant",
-                        "datePubliTexte": "2016-05-04",
-                        "dateSignaTexte": "2015-12-17",
-                        "dateDebutCible": "2016-01-01"
+                        "datePubliTexte": "2020-03-04",
+                        "dateSignaTexte": "2019-10-08",
+                        "dateDebutCible": "2020-09-01"
                       },
                       {
-                        "textCid": "JORFTEXT000033463969",
-                        "textTitle": "Arrêté du 15 novembre 2016 - art. 1, v. init.",
+                        "textCid": "JORFTEXT000042183517",
+                        "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
                         "linkType": "ETEND",
                         "linkOrientation": "cible",
                         "articleNum": "1",
-                        "articleId": "JORFARTI000033463972",
+                        "articleId": "JORFARTI000042183521",
                         "natureText": "ARRETE",
-                        "datePubliTexte": "2016-11-24",
-                        "dateSignaTexte": "2016-11-15",
+                        "datePubliTexte": "2020-08-01",
+                        "dateSignaTexte": "2020-07-10",
                         "dateDebutCible": "2999-01-01"
                       }
                     ]
@@ -4135,32 +4123,32 @@
                     "cid": "KALIARTI000005854479",
                     "num": "8.6",
                     "intOrdre": 85898,
-                    "id": "KALIARTI000032495041",
-                    "content": "<p>En cas d'invalidité reconnue par la sécurité sociale ou, pour les salariés non indemnisés par la sécurité sociale, par le médecin contrôleur de l'organisme gestionnaire du régime, sur avis du médecin traitant, ou en cas d'infirmité permanente professionnelle supérieure à 66 %, il sera versé une rente jusqu'au service de la pension vieillesse allouée en cas d'inaptitude au travail.</p><p>Le montant, y compris les prestations servies par la sécurité sociale nettes de CSG et de CRDS (reconstituées de manière théorique pour les salariés n'effectuant pas 150 heures), s'élève pour les 2e et 3e catégories à 100 % du salaire net à payer. Le salaire net de référence correspond à la moyenne des 12 derniers salaires nets imposables diminués de la CSG/ CRDS non déductible.</p><p>La rente servie en 1re catégorie d'invalidité est égale à 60 % de celle versée en 2e ou en 3e catégorie.</p><p>Pour les salariés en situation d'invalidité avant le 1er janvier 2003, la rente complémentaire servie continuera à l'être sur la base du niveau de prestation en vigueur lors de la mise en invalidité.</p>",
+                    "id": "KALIARTI000042193732",
+                    "content": "<p>En cas d'invalidité reconnue par la sécurité sociale ou, pour les salariés non indemnisés par la sécurité sociale, par le médecin contrôleur de l'organisme gestionnaire du régime, sur avis du médecin traitant, ou en cas d'infirmité permanente professionnelle supérieure à 66 %, il sera versé une rente jusqu'au service de la pension vieillesse de la sécurité sociale.<br/><br/>\nLe montant, y compris les prestations servies par la sécurité sociale brutes de CSG et de CRDS (reconstituées de manière théorique pour les salariés n'effectuant pas 150 heures), s'élève pour les 2e et 3e catégories à 84 % du salaire brut de référence.</p><p>Le salaire de référence servant de base au calcul des prestations est le salaire brut de référence retenu dans le cadre de la garantie incapacité.</p><p>La rente servie en 1re catégorie d'invalidité est égale à 60 % de celle versée en 2e ou en 3e catégorie.</p><p>En tout état de cause, le cumul des sommes reçues au titre de la sécurité sociale, du régime de prévoyance ainsi que de tout autre revenu (notamment salaire temps partiel, indemnités de chômage ou un quelconque revenu de substitution), ne pourra conduire l'intéressé à percevoir une rémunération nette supérieure à celle qu'il aurait perçue s'il avait poursuivi son activité professionnelle.</p><p>Pour les salariés en situation d'invalidité et percevant des prestations à ce titre à la date de prise d'effet du présent avenant, la rente complémentaire servie continuera à l'être sur la base du niveau de prestation en vigueur lors de la mise en invalidité.</p>",
                     "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
-                        "textCid": "KALITEXT000032488499",
-                        "textTitle": "Prévoyance - art. 5 (VNE)",
+                        "textCid": "KALITEXT000041686341",
+                        "textTitle": "Régimes de prévoyance et frais de santé - art. 3 (VNE)",
                         "linkType": "MODIFIE",
                         "linkOrientation": "cible",
-                        "articleNum": "5",
-                        "articleId": "KALIARTI000032488508",
+                        "articleNum": "3",
+                        "articleId": "KALIARTI000041686347",
                         "natureText": "Avenant",
-                        "datePubliTexte": "2016-05-04",
-                        "dateSignaTexte": "2015-12-17",
-                        "dateDebutCible": "2016-01-01"
+                        "datePubliTexte": "2020-03-04",
+                        "dateSignaTexte": "2019-10-08",
+                        "dateDebutCible": "2020-09-01"
                       },
                       {
-                        "textCid": "JORFTEXT000033463969",
-                        "textTitle": "Arrêté du 15 novembre 2016 - art. 1, v. init.",
+                        "textCid": "JORFTEXT000042183517",
+                        "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
                         "linkType": "ETEND",
                         "linkOrientation": "cible",
                         "articleNum": "1",
-                        "articleId": "JORFARTI000033463972",
+                        "articleId": "JORFARTI000042183521",
                         "natureText": "ARRETE",
-                        "datePubliTexte": "2016-11-24",
-                        "dateSignaTexte": "2016-11-15",
+                        "datePubliTexte": "2020-08-01",
+                        "dateSignaTexte": "2020-07-10",
                         "dateDebutCible": "2999-01-01"
                       }
                     ]
@@ -4245,32 +4233,32 @@
                     "cid": "KALIARTI000005854483",
                     "num": "8.7",
                     "intOrdre": 85898,
-                    "id": "KALIARTI000032495047",
-                    "content": "<p>Afin de pourvoir au financement des garanties exposées aux articles 8.2,8.3,8.4,8.5 et 8.6 du présent titre, les contributions sont définies ci-dessous dans le cadre des contrats souscrits avec les organismes assureurs recommandés : </p><p align='center'><br/>Article 8.7.1 <br/><br/>Salariés non affiliés à l'AGIRC </p><p align='left'><br/>a) A la charge exclusive de l'employeur : <br/><br/>- 0,021 % du salaire brut (tranches A et B), destiné au financement de la garantie maintien de salaire du personnel non indemnisé par la sécurité sociale (art. 8.4). <br/><br/>b) A la charge exclusive du salarié : <br/><br/>- 0,335 % du salaire brut (tranches A et B), destiné au financement de la garantie incapacité (art. 8.5). <br/><br/>c) A la charge de l'employeur et du salarié : <br/><br/>- 0,110 % du salaire brut (tranches A et B) pour la garantie décès (art. 8.2). La répartition de cette contribution est la suivante : 0,084 % employeur et 0,026 % salarié ; <br/><br/>- 0,090 % du salaire brut (tranches A et B) pour la garantie rente éducation (art. 8.3). La répartition de cette contribution est la suivante : 0,069 % employeur et 0,021 % salarié ; <br/><br/>- 0,400 % du salaire brut (tranches A et B) pour la garantie invalidité (art. 8.6). La répartition de cette contribution est la suivante : 0,304 % employeur et 0,096 % salarié ; <br/><br/>Soit un total de (a + b + c) de 0,956 % du salaire brut (tranches A et B) réparti à raison de 0,478 % pour l'employeur et 0,478 % pour le salarié. </p><p align='center'><br/>Article 8.7.2 <br/><br/>Salariés affiliés à l'AGIRC <br/><br/>Article 8.7.2.1 <br/><br/>Tranche A </p><br/>A la charge exclusive de l'employeur : 1,50 % TA, conformément à la convention collective nationale de retraite et de prévoyance des cadres du 14 mars 1947, réparti ainsi : <br/><br/>- 0,664 % TA destiné au financement de la garantie décès (art. 8.2) ; <br/><br/>- 0,09 % TA au titre de la rente éducation (art. 8.3) ; <br/><br/>- 0,021 % TA destiné au financement de la garantie maintien de salaire du personnel non indemnisé par la sécurité sociale (art. 8.4) ; <br/><br/>- 0,335 % TA destiné au financement de la garantie incapacité (art. 8.5) ; <br/><br/>- 0,39 % TA destiné au financement de la garantie invalidité (art. 8.6). <br/><p align='center'><br/>Article 8.7.2.2 <br/><br/>Tranches B et C </p><p align='left'><br/>a) A la charge exclusive de l'employeur : <br/><br/>- 0,021 % TB et TC, destiné au financement de la garantie maintien de salaire du personnel non indemnisé par la sécurité sociale (art. 8.4). <br/><br/>b) A la charge exclusive du salarié : <br/><br/>- 0,335 % TB et TC, destiné au financement de la garantie incapacité (art. 8.5). <br/><br/>c) A la charge de l'employeur et du salarié : <br/><br/>- 0,120 % TB et TC pour la garantie décès (art. 8.2). La répartition de cette contribution est la suivante : 0,091 % employeur et 0,029 % salarié ; <br/><br/>- 0,090 % TB et TC pour la garantie rente éducation (art. 8.3). La répartition de cette contribution est la suivante : 0,069 % employeur et 0,021 % salarié ; <br/><br/>- 0,390 % TB et TC pour la garantie invalidité (art. 8.6). La répartition de cette contribution est la suivante : 0,297 % employeur et 0,093 % salarié ; <br/><br/>Soit un total de (a + b + c) 0,956 % TB et TC réparti à raison de 0,478 % pour l'employeur et 0,478 % pour le salarié.</p>",
+                    "id": "KALIARTI000042193735",
+                    "content": "<p align='left'>Afin de pourvoir au financement des garanties exposées aux articles 8.2, 8.3, 8.4, 8.5 et 8.6 du présent titre, les contributions sont définies ci-dessous dans le cadre des contrats souscrits avec les organismes assureurs recommandés :</p><p align='center'>8.7.1. Salariés non affiliés à l'AGIRC</p><p align='left'>a) À la charge exclusive de l'employeur :<br/>\n– 0,021 % du salaire brut (tranches A et B), destiné au financement de la garantie maintien de salaire du personnel non indemnisé par la sécurité sociale (art. 8.4).</p><p align='left'>b) À la charge exclusive du salarié :<br/>\n– 0,335 % du salaire brut (tranches A et B), destiné au financement de la garantie incapacité (art. 8.5).</p><p align='left'>c) À la charge de l'employeur et du salarié :<br/>\n– 0,110 % du salaire brut (tranches A et B) pour la garantie décès (art. 8.2). La répartition de cette contribution est la suivante : 0,084 % employeur et 0,026 % salarié ;<br/>\n– 0,090 % du salaire brut (tranches A et B) pour la garantie rente éducation (art. 8.3). La répartition de cette contribution est la suivante : 0,069 % employeur et 0,021 % salarié ;<br/>\n– 0,538 % du salaire brut (tranches A et B) pour la garantie invalidité (art. 8.6). La répartition de cette contribution est la suivante : 0,373 % employeur et 0,165 % salarié ;</p><p align='left'>Soit un total de (a + b + c) de 1,094 % du salaire brut (tranches A et B) réparti à raison de 0,547 % pour l'employeur et 0,547 % pour le salarié.</p><p align='center'><br/>\n8.7.2. Salariés affiliés à l'AGIRC</p><p align='center'>8.7.2.1. Tranche A</p><p align='left'>À la charge exclusive de l'employeur : 1,50 % TA, conformément à l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres (reprenant les termes de la convention collective nationale de retraite et de prévoyance des cadres du 14 mars 1947), réparti ainsi :<br/>\n– 0,664 % TA destiné au financement de la garantie décès (art. 8.2) ;<br/>\n– 0,09 % TA au titre de la rente éducation (art. 8.3) ;<br/>\n– 0,021 % TA destiné au financement de la garantie maintien de salaire du personnel non indemnisé par la sécurité sociale (art. 8.4) ;<br/>\n– 0,335 % TA destiné au financement de la garantie incapacité (art. 8.5) ;<br/>\n– 0,39 % TA destiné au financement de la garantie invalidité (art. 8.6).</p><p align='center'>8.7.2.2. Tranches B et C</p><p align='left'>a) À la charge exclusive de l'employeur :<br/>\n– 0,021 % TB et TC, destiné au financement de la garantie maintien de salaire du personnel non indemnisé par la sécurité sociale (art. 8.4).</p><p align='left'>b) À la charge exclusive du salarié :<br/>\n– 0,335 % TB et TC, destiné au financement de la garantie incapacité (art. 8.5).</p><p align='left'>c) À la charge de l'employeur et du salarié :<br/>\n– 0,120 % TB et TC pour la garantie décès (art. 8.2). La répartition de cette contribution est la suivante : 0,091 % employeur et 0,029 % salarié ;<br/>\n– 0,090 % TB et TC pour la garantie rente éducation (art. 8.3). La répartition de cette contribution est la suivante : 0,069 % employeur et 0,021 % salarié ;<br/>\n– 0,528 % TB et TC pour la garantie invalidité (art. 8.6). La répartition de cette contribution est la suivante : 0,366 % employeur et 0,162 % salarié ;</p><p align='left'>Soit un total de (a + b + c) 1,094 % TB et TC réparti à raison de 0,547 % pour l'employeur et 0,547 % pour le salarié.</p>",
                     "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
-                        "textCid": "KALITEXT000032488499",
-                        "textTitle": "Prévoyance - art. 7 (VNE)",
+                        "textCid": "KALITEXT000041686341",
+                        "textTitle": "Régimes de prévoyance et frais de santé - art. 4 (VNE)",
                         "linkType": "MODIFIE",
                         "linkOrientation": "cible",
-                        "articleNum": "7",
-                        "articleId": "KALIARTI000032488513",
+                        "articleNum": "4",
+                        "articleId": "KALIARTI000041686348",
                         "natureText": "Avenant",
-                        "datePubliTexte": "2016-05-04",
-                        "dateSignaTexte": "2015-12-17",
-                        "dateDebutCible": "2016-01-01"
+                        "datePubliTexte": "2020-03-04",
+                        "dateSignaTexte": "2019-10-08",
+                        "dateDebutCible": "2020-09-01"
                       },
                       {
-                        "textCid": "JORFTEXT000033463969",
-                        "textTitle": "Arrêté du 15 novembre 2016 - art. 1, v. init.",
+                        "textCid": "JORFTEXT000042183517",
+                        "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
                         "linkType": "ETEND",
                         "linkOrientation": "cible",
                         "articleNum": "1",
-                        "articleId": "JORFARTI000033463972",
+                        "articleId": "JORFARTI000042183521",
                         "natureText": "ARRETE",
-                        "datePubliTexte": "2016-11-24",
-                        "dateSignaTexte": "2016-11-15",
+                        "datePubliTexte": "2020-08-01",
+                        "dateSignaTexte": "2020-07-10",
                         "dateDebutCible": "2999-01-01"
                       }
                     ]
@@ -22386,7 +22374,7 @@
             "cid": "KALITEXT000038523856",
             "title": "Avenant d'interprétation n° 172 du 5 décembre 2018 relatif à l'indemnité d'emploi à temps partiel",
             "id": "KALITEXT000038523856",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2018-12-05"
           },
           "children": [
@@ -22396,9 +22384,22 @@
                 "cid": "KALIARTI000038523859",
                 "intOrdre": 524287,
                 "id": "KALIARTI000038523859",
-                "content": "<p align='left'>Saisie aux fins de se prononcer sur l'application de l'indemnité d'emploi à temps partiel de 7 points prévue à l'article 5.9.6 de la convention collective nationale de l'animation à certaines situations, la sous-commission d'interprétation a émis le 18 juin 2018 les 3 avis suivants :</p><p align='left'>– l'esprit de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000037172829&categorieLien=cid' title='Temps partiels (VNE)'>avenant n° 163</a> mettant en place l'indemnité d'emploi à temps partiel de 7 points n'avait pas pour but de viser les salariés en CDD de remplacement et les salariés en CDD de moins de 8 jours compte tenu que ces derniers ne sont pas concernés par les dispositions légales sur la durée minimale de 24 heures par semaine. En conséquence, l'indemnité d'emploi à temps partiel de 7 points n'est pas due pour les salariés embauchés en CDD de remplacement ou en CDD de moins de 8 jours ;</p><p align='left'>– à l'embauche, lorsque l'employeur propose un contrat de travail à 24 heures par semaine ou plus, qu'il est en mesure de prouver cette proposition et qu'il a expressément informé le salarié que sa renonciation aux 24 heures entraînait la perte du bénéfice de l'indemnité d'emploi à temps partiel de 7 points, cette dernière n'est pas due.</p><p align='left'>En revanche, lorsque l'employeur propose au salarié en cours de contrat un avenant pour passer à 24 heures ou plus et que le salarié refuse, l'indemnité d'emploi à temps partiel de 7 points reste due ;</p><p align='left'>– le congé parental, le mi-temps thérapeutique et la retraite progressive étant des aménagements du temps de travail demandés par le salarié et compensés réciproquement par la caisse d'allocations familiales, l'assurance maladie ou la caisse de retraite, l'indemnité d'emploi à temps partiel de 7 points n'est pas due dans le cadre de ces réductions temporaires ou définitives du temps de travail.</p><p align='left'>Le présent avenant d'interprétation entrera en application à la date de signature par les partenaires sociaux.</p><p align='left'>Il sera déposé en deux exemplaires, dont une version en support papier signée des parties et une version sur support électronique, auprès de la direction générale du travail et il fera l'objet d'une demande d'extension.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'>Saisie aux fins de se prononcer sur l'application de l'indemnité d'emploi à temps partiel de 7 points prévue à l'article 5.9.6 de la convention collective nationale de l'animation à certaines situations, la sous-commission d'interprétation a émis le 18 juin 2018 les 3 avis suivants :</p><p align='left'>– l'esprit de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000037172829&categorieLien=cid'>avenant n° 163</a> mettant en place l'indemnité d'emploi à temps partiel de 7 points n'avait pas pour but de viser les salariés en CDD de remplacement et les salariés en CDD de moins de 8 jours compte tenu que ces derniers ne sont pas concernés par les dispositions légales sur la durée minimale de 24 heures par semaine. En conséquence, l'indemnité d'emploi à temps partiel de 7 points n'est pas due pour les salariés embauchés en CDD de remplacement ou en CDD de moins de 8 jours ;</p><p align='left'>– à l'embauche, lorsque l'employeur propose un contrat de travail à 24 heures par semaine ou plus, qu'il est en mesure de prouver cette proposition et qu'il a expressément informé le salarié que sa renonciation aux 24 heures entraînait la perte du bénéfice de l'indemnité d'emploi à temps partiel de 7 points, cette dernière n'est pas due.</p><p align='left'>En revanche, lorsque l'employeur propose au salarié en cours de contrat un avenant pour passer à 24 heures ou plus et que le salarié refuse, l'indemnité d'emploi à temps partiel de 7 points reste due ;</p><p align='left'>– le congé parental, le mi-temps thérapeutique et la retraite progressive étant des aménagements du temps de travail demandés par le salarié et compensés réciproquement par la caisse d'allocations familiales, l'assurance maladie ou la caisse de retraite, l'indemnité d'emploi à temps partiel de 7 points n'est pas due dans le cadre de ces réductions temporaires ou définitives du temps de travail.</p><p align='left'>Le présent avenant d'interprétation entrera en application à la date de signature par les partenaires sociaux.</p><p align='left'>Il sera déposé en deux exemplaires, dont une version en support papier signée des parties et une version sur support électronique, auprès de la direction générale du travail et il fera l'objet d'une demande d'extension.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042183517",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042183521",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-08-01",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
@@ -23875,6 +23876,258 @@
                 "etat": "VIGUEUR_NON_ETEN",
                 "surtitre": "Révision. – Dénonciation",
                 "lstLienModification": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000041686341",
+            "title": "Avenant n° 179 du 8 octobre 2019 relatif aux régimes de prévoyance et frais de santé",
+            "id": "KALITEXT000041686341",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2020-09-01"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000041686344",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000041686344",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000041686354",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000041686354",
+                    "content": "<p align='left'>Le présent avenant a pour objet de modifier les garanties et taux de cotisation du régime de prévoyance de la convention collective nationale du 28 juin 1988.</p><p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000042183517",
+                        "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000042183521",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2020-08-01",
+                        "dateSignaTexte": "2020-07-10",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000041686345",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000041686345",
+                "content": "<p align='left'>« L'article 8.2 du titre VIII « prévoyance » de la convention collective nationale précitée et consacré à la garantie capital décès est ainsi modifié :</p><p align='left'>En cas de décès du salarié, quelle qu'en soit la cause, survenu avant la liquidation de sa pension de vieillesse du régime de base entraînant la rupture de son contrat de travail, ou à partir de la date à laquelle le salarié est reconnu par la sécurité sociale en état d'invalidité permanente et absolue (IPA) 3e catégorie, il est versé en une seule fois un capital décès égal à 100 % du salaire annuel de référence pour les salariés non affiliés à l'AGIRC. Pour les salariés affiliés à l'AGIRC, ce capital décès sera de 300 % du salaire annuel de référence sur la tranche A et de 100 % du salaire annuel de référence sur la tranche B.</p><p align='left'>Le salaire de référence servant de base au calcul des prestations est le salaire brut des 12 derniers mois précédant l'arrêt ou le décès, ayant donné lieu à cotisation. »</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Garantie capital décès",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042183517",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042183521",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-08-01",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000005681198",
+                    "textTitle": "Convention collective nationale du 28 juin 1988 - art. 8.2 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "8.2",
+                    "articleId": "KALIARTI000042193728",
+                    "natureText": "Convention collective nationale ",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "1988-06-28",
+                    "dateDebutCible": "2020-09-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000041686346",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000041686346",
+                "content": "<p align='left'>L'article 8.5 du titre VIII « prévoyance » de la convention collective nationale précitée et consacré à la garantie incapacité est ainsi modifié :</p><p align='left'>« En cas d'arrêt de travail, pris en compte par la sécurité sociale, ou pour les salariés non indemnisés par la sécurité sociale, par le médecin contrôleur de l'organisme gestionnaire du régime, sur avis du médecin traitant, il sera versé au salarié des indemnités journalières dont le montant, y compris les prestations de la sécurité sociale brutes de CSG et CRDS (reconstituées de manière théorique pour les salariés n'effectuant pas 150 heures par trimestre ou cotisant sur une base forfaitaire de sécurité sociale), est égal à :<br/>\n– pour les salariés affiliés à l'AGIRC : 87 % du salaire brut de référence ;<br/>\n– pour les salariés non affiliés à l'AGIRC : 79 % du salaire brut de référence.</p><p align='left'>Le salaire de référence servant de base au calcul des prestations est le salaire brut des 12 derniers mois précédant l'arrêt de travail et ayant donné lieu à cotisation.</p><p align='left'>En tout état de cause, le cumul des sommes reçues au titre de la sécurité sociale, du régime de prévoyance ainsi que de tout autre revenu (notamment salaire temps partiel, indemnités de chômage ou un quelconque revenu de substitution), ne pourra conduire l'intéressé à percevoir une rémunération nette supérieure à celle qu'il aurait perçue s'il avait poursuivi son activité professionnelle.</p><p align='left'>Les prestations sont servies à partir du 91e jour d'arrêt de travail discontinu ou non et cessent dans les cas suivants :<br/>\n– lors de la reprise du travail ;<br/>\n– lors de la mise en invalidité ;<br/>\n– à la liquidation de la pension vieillesse.</p><p align='left'>En tout état de cause, les prestations ne peuvent être servies au-delà du 1 095e jour d'arrêt de travail.</p><p align='left'>Pour les salariés en situation d'incapacité de travail et percevant des prestations à ce titre à la date de prise d'effet du présent avenant, les indemnités journalières complémentaires servies continueront à l'être sur la base du niveau de prestation en vigueur lors de la prescription de l'arrêt de travail. »</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Garantie incapacité",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042183517",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042183521",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-08-01",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000005681198",
+                    "textTitle": "Convention collective nationale du 28 juin 1988 - art. 8.5 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "8.5",
+                    "articleId": "KALIARTI000042193730",
+                    "natureText": "Convention collective nationale ",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "1988-06-28",
+                    "dateDebutCible": "2020-09-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000041686347",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000041686347",
+                "content": "<p align='left'>L'article 8.6 du titre VIII « prévoyance » de la convention collective nationale précitée et consacré à la garantie invalidité est ainsi modifié :</p><p align='left'>« En cas d'invalidité reconnue par la sécurité sociale ou, pour les salariés non indemnisés par la sécurité sociale, par le médecin contrôleur de l'organisme gestionnaire du régime, sur avis du médecin traitant, ou en cas d'infirmité permanente professionnelle supérieure à 66 %, il sera versé une rente jusqu'au service de la pension vieillesse de la sécurité sociale.</p><p align='left'>Le montant, y compris les prestations servies par la sécurité sociale brutes de CSG et de CRDS (reconstituées de manière théorique pour les salariés n'effectuant pas 150 heures), s'élève pour les 2e et 3e catégories à 84 % du salaire brut de référence.</p><p align='left'>Le salaire de référence servant de base au calcul des prestations est le salaire brut de référence retenu dans le cadre de la garantie incapacité.</p><p align='left'>La rente servie en 1re catégorie d'invalidité est égale à 60 % de celle versée en 2e ou en 3e catégorie.</p><p align='left'>En tout état de cause, le cumul des sommes reçues au titre de la sécurité sociale, du régime de prévoyance ainsi que de tout autre revenu (notamment salaire temps partiel, indemnités de chômage ou un quelconque revenu de substitution), ne pourra conduire l'intéressé à percevoir une rémunération nette supérieure à celle qu'il aurait perçue s'il avait poursuivi son activité professionnelle.</p><p align='left'>Pour les salariés en situation d'invalidité et percevant des prestations à ce titre à la date de prise d'effet du présent avenant, la rente complémentaire servie continuera à l'être sur la base du niveau de prestation en vigueur lors de la mise en invalidité. »</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Garantie invalidité",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042183517",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042183521",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-08-01",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000005681198",
+                    "textTitle": "Convention collective nationale du 28 juin 1988 - art. 8.6 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "8.6",
+                    "articleId": "KALIARTI000042193732",
+                    "natureText": "Convention collective nationale ",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "1988-06-28",
+                    "dateDebutCible": "2020-09-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000041686348",
+                "num": "4",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000041686348",
+                "content": "<p align='left'>L'article 8.7 du titre VIII « prévoyance » de la convention collective nationale précitée et consacré aux taux de cotisation est ainsi modifié :</p><p align='left'>« Afin de pourvoir au financement des garanties exposées aux articles 8.2,8.3,8.4,8.5 et 8.6 du présent titre, les contributions sont définies ci-dessous dans le cadre des contrats souscrits avec les organismes assureurs recommandés :</p><p align='center'>8.7.1. Salariés non affiliés à l'AGIRC</p><p align='left'>a) À la charge exclusive de l'employeur :<br/>\n– 0,021 % du salaire brut (tranches A et B), destiné au financement de la garantie maintien de salaire du personnel non indemnisé par la sécurité sociale (art. 8.4).<br/>\nb) À la charge exclusive du salarié :<br/>\n– 0,335 % du salaire brut (tranches A et B), destiné au financement de la garantie incapacité (art. 8.5).<br/>\nc) À la charge de l'employeur et du salarié :<br/>\n– 0,110 % du salaire brut (tranches A et B) pour la garantie décès (art. 8.2). La répartition de cette contribution est la suivante : 0,084 % employeur et 0,026 % salarié ;<br/>\n– 0,090 % du salaire brut (tranches A et B) pour la garantie rente éducation (art. 8.3). La répartition de cette contribution est la suivante : 0,069 % employeur et 0,021 % salarié ;<br/>\n– 0,538 % du salaire brut (tranches A et B) pour la garantie invalidité (art. 8.6). La répartition de cette contribution est la suivante : 0,373 % employeur et 0,165 % salarié ;<br/>\nSoit un total de (a + b + c) de 1,094 % du salaire brut (tranches A et B) réparti à raison de 0,547 % pour l'employeur et 0,547 % pour le salarié.</p><p align='center'>8.7.2. Salariés affiliés à l'AGIRC<br/>\n8.7.2.1. Tranche A</p><p align='left'>À la charge exclusive de l'employeur : 1,50 % TA, conformément à l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres (reprenant les termes de la convention collective nationale de retraite et de prévoyance des cadres du 14 mars 1947), réparti ainsi :<br/>\n– 0,664 % TA destiné au financement de la garantie décès (art. 8.2) ;<br/>\n– 0,09 % TA au titre de la rente éducation (art. 8.3) ;<br/>\n– 0,021 % TA destiné au financement de la garantie maintien de salaire du personnel non indemnisé par la sécurité sociale (art. 8.4) ;<br/>\n– 0,335 % TA destiné au financement de la garantie incapacité (art. 8.5) ;<br/>\n– 0,39 % TA destiné au financement de la garantie invalidité (art. 8.6).</p><p align='center'>8.7.2.2. Tranches B et C</p><p align='left'>a) À la charge exclusive de l'employeur :<br/>\n– 0,021 % TB et TC, destiné au financement de la garantie maintien de salaire du personnel non indemnisé par la sécurité sociale (art. 8.4).<br/>\nb) À la charge exclusive du salarié :<br/>\n– 0,335 % TB et TC, destiné au financement de la garantie incapacité (art. 8.5).<br/>\nc) À la charge de l'employeur et du salarié :<br/>\n– 0,120 % TB et TC pour la garantie décès (art. 8.2). La répartition de cette contribution est la suivante : 0,091 % employeur et 0,029 % salarié ;<br/>\n– 0,090 % TB et TC pour la garantie rente éducation (art. 8.3). La répartition de cette contribution est la suivante : 0,069 % employeur et 0,021 % salarié ;<br/>\n– 0,528 % TB et TC pour la garantie invalidité (art. 8.6). La répartition de cette contribution est la suivante : 0,366 % employeur et 0,162 % salarié ;<br/>\nSoit un total de (a + b + c) 1,094 % TB et TC réparti à raison de 0,547 % pour l'employeur et 0,547 % pour le salarié. »</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Taux de cotisation",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042183517",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042183521",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-08-01",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000005681198",
+                    "textTitle": "Convention collective nationale du 28 juin 1988 - art. 8.7 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "8.7",
+                    "articleId": "KALIARTI000042193735",
+                    "natureText": "Convention collective nationale ",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "1988-06-28",
+                    "dateDebutCible": "2020-09-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000041686350",
+                "num": "5",
+                "intOrdre": 3145722,
+                "id": "KALIARTI000041686350",
+                "content": "<p align='left'><br/>Suivant les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-23-1 du code du travail</a>, les parties signataires n'ont pas retenu de dispositions spécifiques telles que visées par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid'>article L. 2232-10-1 du code du travail</a> à l'attention des entreprises de moins de 50 salariés dès lors que le présent avenant vise à modifier le régime collectif obligatoire de prévoyance dont doit bénéficier tout le personnel d'entreprise relevant de la convention collective de l'animation et ce quel que soit l'effectif de leur entreprise.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Stipulations spécifiques pour les entreprises de moins de 50 salariés",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042183517",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042183521",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-08-01",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000041686353",
+                "num": "6",
+                "intOrdre": 3670009,
+                "id": "KALIARTI000041686353",
+                "content": "<p align='left'>Le présent avenant est conclu pour une durée indéterminée. Il prend effet le 1er jour du mois suivant celui au cours duquel est publié l'arrêté d'extension au Journal officiel.</p><p align='left'>Le présent avenant pourra être révisé ou dénoncé conformément aux dispositions légales.</p><p align='left'>Il fera l'objet d'un dépôt auprès de la direction générale du travail.</p><p align='left'>Les parties au présent avenant en demandent l'extension.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Dispositions diverses",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042183517",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042183521",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-08-01",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
