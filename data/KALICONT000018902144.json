@@ -1957,8 +1957,20 @@
                     "intOrdre": 42949,
                     "id": "KALIARTI000037394634",
                     "content": "<p>Les ouvriers qui effectuent leur service d'une seule traite pendant une durée supérieure à six heures disposent d'un repos de vingt minutes consécutives.</p><p>Le temps de repos est payé au taux horaire uniquement en cas de travail en équipes successives (par exemple : 3 × 8 ou 2 × 8, etc.).</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000042183765",
+                        "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                        "linkType": "EXTENSION",
+                        "linkOrientation": "source",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000042183768",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2020-08-01",
+                        "dateSignaTexte": "2020-07-10",
+                        "dateDebutCible": "2999-01-01"
+                      },
                       {
                         "textCid": "KALITEXT000037377626",
                         "textTitle": "Modification de l'article 9 de l'annexe I de la... - art. 1er (VNE)",
@@ -8400,7 +8412,7 @@
             "cid": "KALITEXT000037377626",
             "title": "Accord du 16 mars 2018 relatif à la modification de l'article 9 de l'annexe I de la convention",
             "id": "KALITEXT000037377626",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2021-01-01"
           },
           "children": [
@@ -8411,7 +8423,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000037377629",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -8421,8 +8433,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000037377639",
                     "content": "<p align='left'><br/>La convention collective des professions regroupées du cristal, du verre et du vitrail prévoit à l'article 9 de l'annexe I « Ouvriers et employés » le paiement des temps de repos en cas de travail en équipe successive au niveau du salaire minimum professionnel de la catégorie. Les parties conviennent de revaloriser ce paiement en l'indexant non plus au salaire minimum professionnel mais au salaire de base du salarié. Compte tenu des conséquences de cette modification, il est convenu d'en acter le principe dans le présent accord mais d'en différer la date d'application au 1er janvier 2021.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000042183765",
+                        "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000042183768",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2020-08-01",
+                        "dateSignaTexte": "2020-07-10",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -8435,9 +8460,21 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000037377630",
                 "content": "<p align='left'>Le deuxième alinéa de l'article 9 de l'annexe I de la convention collective est rédigé de la manière suivante :</p><p align='left'>« Le temps de repos est payé au taux horaire uniquement en cas de travail en équipes successives (par exemple : 3 × 8 ou 2 × 8, etc.).</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Nouvelle rédaction de l'article 9 de l'annexe I de la convention collective",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042183765",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042183768",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-08-01",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000005671073",
                     "textTitle": "Annexe I - Ouvriers et employés - art. 9 (VNE)",
@@ -8461,9 +8498,22 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000037377631",
                 "content": "<p align='left'><br/>La nouvelle rédaction du deuxième alinéa de l'article 9 de l'annexe I de la convention collective prend effet au 1er janvier 2021. Entre la date de signature du présent accord et le 1er janvier 2021, la rédaction suivant s'applique : « Le temps de repos sera payé au SMP de la catégorie uniquement en cas de travail en équipes successives (par exemple : 3 × 8 ou 2 × 8).</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Entrée en vigueur",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042183765",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042183768",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-08-01",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -8474,9 +8524,22 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000037377632",
                 "content": "<p align='left'><br/>Le présent accord porte sur la révision d'un article d'application générale de la convention collective qui s'impose aux parties quelle que soit la taille des entreprises. Les dispositions relatives au paiement des temps de repos n'appellent pas l'adoption de stipulations spécifiques pour les entreprises de moins de 50 salariés.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Situation des entreprises de moins de 50 salariés",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042183765",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042183768",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-08-01",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -8487,9 +8550,22 @@
                 "intOrdre": 2621435,
                 "id": "KALIARTI000037377633",
                 "content": "<p align='left'><br/>Le présent accord est conclu pour une durée indéterminée.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Durée",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042183765",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042183768",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-08-01",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -8499,10 +8575,23 @@
                 "num": "5",
                 "intOrdre": 3145722,
                 "id": "KALIARTI000037377634",
-                "content": "<p align='left'><br/>Il ne peut être dérogé, dans un sens défavorable au salarié, à une quelconque des dispositions du présent accord.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'><br/>Il ne peut être dérogé, dans un sens défavorable au salarié, à une quelconque des dispositions du présent accord.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000037377634_1'></a>(1) Article exclu de l'extension. En effet, dès lors que les stipulations conventionnelles de branche visent des sommes rémunérant des temps de repos, et qu'elles disposent qu'on ne peut y déroger dans un sens moins favorable, ces stipulations ne peuvent avoir pour objet et légalement pour effet de faire obstacle à la conclusion d'accords d'entreprise sur le fondement des dispositions de l'article L. 2253-3 du code du travail et dans les domaines tels que définis par ces mêmes dispositifs.  <br/>(Arrêté du 10 juillet 2020 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Force obligatoire des dispositions",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042183765",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042183768",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-08-01",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -8512,10 +8601,23 @@
                 "num": "6",
                 "intOrdre": 3670009,
                 "id": "KALIARTI000037377635",
-                "content": "<p align='left'>Le présent accord fera l'objet des formalités de dépôt et de publicité prévues par les dispositions réglementaires visées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-6 (V)'>article L. 2231-6 du code du travail</a>.</p><p align='left'>Les parties signataires conviennent d'en demander l'extension.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le présent accord fera l'objet des formalités de dépôt et de publicité prévues par les dispositions réglementaires visées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>article L. 2231-6 du code du travail</a>.</p><p align='left'>Les parties signataires conviennent d'en demander l'extension.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Publication. – Extension",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042183765",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042183768",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-08-01",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -8525,10 +8627,23 @@
                 "num": "7",
                 "intOrdre": 4194296,
                 "id": "KALIARTI000037377637",
-                "content": "<p align='left'>Le présent accord peut être dénoncé dans les conditions prévues aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901788&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-10 (V)'>articles L. 2261-10 et suivants du code du travail</a>.</p><p align='left'>Il peut être révisé conformément aux dispositions de l'article L. 2261-7 dudit code.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le présent accord peut être dénoncé dans les conditions prévues aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901788&dateTexte=&categorieLien=cid'>articles L. 2261-10 et suivants du code du travail</a>.</p><p align='left'>Il peut être révisé conformément aux dispositions de l'article L. 2261-7 dudit code.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dénonciation. – Révision",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042183765",
+                    "textTitle": "Arrêté du 10 juillet 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042183768",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-08-01",
+                    "dateSignaTexte": "2020-07-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
