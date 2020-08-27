@@ -9747,7 +9747,7 @@
             "title": "Accord du 25 avril 2016 relatif à la classification des emplois",
             "id": "KALITEXT000033501829",
             "etat": "VIGUEUR_ETEN",
-            "modifDate": "2018-12-08"
+            "modifDate": "2020-05-13"
           },
           "children": [
             {
@@ -10112,34 +10112,22 @@
                     "cid": "KALIARTI000033501858",
                     "num": "3.1",
                     "intOrdre": 524287,
-                    "id": "KALIARTI000038469771",
-                    "content": "<p align='left'>Le passage d'un niveau à un autre est de la seule responsabilité de l'employeur ou de son représentant en fonction de l'emploi tenu et de l'éventuelle évolution de ce dernier. L'employeur ou son représentant tiendra compte de l'évolution des compétences (acquises par l'expérience ou la formation continue) si elle a des répercussions sur la tenue de l'emploi.</p><p>Il est prévu toutefois le passage automatique des salariés du niveau I au I bis au bout de 1 an d'ancienneté dans l'entreprise.</p>",
-                    "etat": "VIGUEUR_ETEN",
+                    "id": "KALIARTI000042264428",
+                    "content": "<p align='left'>Le passage d'un niveau à un autre est de la seule responsabilité de l'employeur ou de son représentant en fonction de l'emploi tenu et de l'éventuelle évolution de ce dernier. L'employeur ou son représentant tiendra compte de l'évolution des compétences (acquises par l'expérience ou la formation continue) si elle a des répercussions sur la tenue de l'emploi.</p><p>Il est prévu toutefois le passage automatique des salariés du niveau I au I bis au bout de 9 mois d'ancienneté dans l'entreprise.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
                     "surtitre": "Passage d'un niveau à un autre",
                     "lstLienModification": [
                       {
-                        "textCid": "KALITEXT000038435365",
-                        "textTitle": "Classification des emplois - art. (VNE)",
+                        "textCid": "KALITEXT000042258157",
+                        "textTitle": "Modification de l'accord du 25 avril 2016 (art.... - art. (VNE)",
                         "linkType": "MODIFIE",
                         "linkOrientation": "cible",
                         "articleNum": "",
-                        "articleId": "KALIARTI000038435368",
+                        "articleId": "KALIARTI000042258160",
                         "natureText": "Avenant",
-                        "datePubliTexte": "2019-05-02",
-                        "dateSignaTexte": "2018-09-21",
-                        "dateDebutCible": "2018-12-08"
-                      },
-                      {
-                        "textCid": "JORFTEXT000041616262",
-                        "textTitle": "Arrêté du 17 février 2020 - art. 1, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "1",
-                        "articleId": "JORFARTI000041616267",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2020-02-22",
-                        "dateSignaTexte": "2020-02-17",
-                        "dateDebutCible": "2999-01-01"
+                        "datePubliTexte": "2020-08-24",
+                        "dateSignaTexte": "2020-02-20",
+                        "dateDebutCible": "2020-05-13"
                       }
                     ]
                   }
@@ -11037,6 +11025,42 @@
                 "etat": "VIGUEUR_NON_ETEN",
                 "surtitre": "Dépôt et demande d'extension",
                 "lstLienModification": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000042258157",
+            "title": "Avenant n° 2 du 20 février 2020 à l'accord du 25 avril 2016 relatif à la classification des emplois",
+            "id": "KALITEXT000042258157",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2020-05-13"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000042258160",
+                "intOrdre": 524287,
+                "id": "KALIARTI000042258160",
+                "content": "<p align='left'>Les partenaires sociaux modifient la disposition à l'article 3.1, alinéa 2, du chapitre Ier de l'accord sur la classification des emplois du 25 avril 2016, qui est remplacée comme suit :</p><p align='left'>« Il est prévu toutefois le passage automatique des salariés du niveau I au I bis au bout de 9 mois d'ancienneté dans l'entreprise. »</p><p align='left'>Il n'y a pas de dispositions particulières pour les entreprises de moins de 50 salariés.</p><p align='left'>Cet avenant est adressé aux pouvoirs publics pour extension au titre de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-6 (V)'>article L. 2231-6 du code du travail</a>.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000033501829",
+                    "textTitle": "Classification des emplois - art. 3.1 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "3.1",
+                    "articleId": "KALIARTI000042264428",
+                    "natureText": "Accord",
+                    "datePubliTexte": "2016-11-30",
+                    "dateSignaTexte": "2016-04-25",
+                    "dateDebutCible": "2020-05-13"
+                  }
+                ]
               }
             }
           ]
