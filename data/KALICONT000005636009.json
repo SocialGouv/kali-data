@@ -15229,7 +15229,7 @@
             "title": "Avenant n° 56 du 6 novembre 2015 relatif au régime de frais de soins de santé",
             "id": "KALITEXT000032073801",
             "etat": "VIGUEUR_ETEN",
-            "modifDate": "2016-01-01"
+            "modifDate": "2020-01-14"
           },
           "children": [
             {
@@ -15359,21 +15359,33 @@
                     "cid": "KALIARTI000032073815",
                     "num": "I.4. Ayants droit bénéficiaires des prestations du régime frais de santé",
                     "intOrdre": 2097148,
-                    "id": "KALIARTI000032073815",
-                    "content": "<p align='left'><br/>Sont bénéficiaires du régime frais de santé à titre obligatoire au sens du présent accord :<br/>– les ayants droit à charge du salarié au sens des articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006740560&dateTexte=&categorieLien=cid'>L. 161-14</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006742453&dateTexte=&categorieLien=cid'>L. 313-3</a> du code de la sécurité sociale ;<br/>– les enfants du participant et/ou de son conjoint, concubin, partenaire de Pacs, jusqu'au 31 décembre qui suit leur 20e anniversaire ;<br/>– ou jusqu'au 28e anniversaire s'ils sont étudiants, apprentis, intérimaires, à la recherche d'un emploi, en contrat de travail à durée déterminée ou contrat d'insertion professionnelle ;<br/>– ou en situation de handicap avec un taux d'incapacité supérieur ou égal à 80 % reconnu par le régime de base d'assurance maladie.<br/>Les ayants droit bénéficiaires des prestations du présent régime au jour du décès d'un participant actif continuent d'en bénéficier pendant une durée de 12 mois sans contrepartie de cotisation.</p>",
+                    "id": "KALIARTI000042282666",
+                    "content": "<p align='left'>Sont bénéficiaires du régime frais de santé à titre obligatoire au sens du présent accord :<br/>\n– les ayants droit du salarié (autrement dénommé participant) au sens de la sécurité sociale ;<br/>\n– le conjoint, concubin ou partenaire de Pacs sans activité rémunérée et non inscrit à Pôle emploi ;<br/>\n– les enfants du salarié (autrement dénommé participant) et/ ou de son conjoint, concubin, ou partenaire de Pacs, jusqu'au 31 décembre qui suit leur 20e anniversaire :<br/>\n–– ou jusqu'au 28e anniversaire s'ils sont étudiants, apprentis, intérimaires, à la recherche d'un emploi, en contrat de travail à durée déterminée ou contrat d'insertion professionnelle ;<br/>\n–– ou en situation de handicap avec un taux d'incapacité supérieur ou égal à 80 % reconnu par le régime de base d'assurance maladie.</p>",
                     "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
-                        "textCid": "JORFTEXT000032407872",
-                        "textTitle": "Arrêté du 7 avril 2016 - art. 1, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "1",
-                        "articleId": "JORFARTI000032407875",
+                        "textCid": "JORFTEXT000037152867",
+                        "textTitle": "Arrêté du 29 juin 2018 - art. 3, v. init.",
+                        "linkType": "EXTENSION",
+                        "linkOrientation": "source",
+                        "articleNum": "3",
+                        "articleId": "JORFARTI000037152884",
                         "natureText": "ARRETE",
-                        "datePubliTexte": "2016-04-16",
-                        "dateSignaTexte": "2016-04-07",
+                        "datePubliTexte": "2018-07-05",
+                        "dateSignaTexte": "2018-06-29",
                         "dateDebutCible": "2999-01-01"
+                      },
+                      {
+                        "textCid": "KALITEXT000035318151",
+                        "textTitle": "Régime de frais de soins de santé - art. 1er (VE)",
+                        "linkType": "MODIFIE",
+                        "linkOrientation": "cible",
+                        "articleNum": "1er",
+                        "articleId": "KALIARTI000035318155",
+                        "natureText": "Avenant",
+                        "datePubliTexte": "2999-01-01",
+                        "dateSignaTexte": "2017-03-20",
+                        "dateDebutCible": "2017-03-20"
                       }
                     ]
                   }
@@ -15890,21 +15902,21 @@
                       "data": {
                         "cid": "KALIARTI000032073856",
                         "intOrdre": 1073741823,
-                        "id": "KALIARTI000032073856",
-                        "content": "<p align='center'>Tableau des garanties</p><p>Les garanties sont exprimées sous déduction des remboursements de la sécurité sociale.<br/>(Tableau non reproduit, consultable en ligne sur le site www.journal-officiel.gouv.fr, rubrique BO Convention collective.)</p><p><a shape='rect' href='http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2015/0051/boc_20150051_0000_0006.pdf' target='_blank'> http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2015/0051/boc_20150051_0000_0006.pdf</a></p><p></p>",
-                        "etat": "VIGUEUR_ETEN",
+                        "id": "KALIARTI000042282736",
+                        "content": "<p align='center'>Tableau des garanties</p><p>Les garanties sont exprimées sous déduction des remboursements de la sécurité sociale.</p><p align='left'>(Tableau non reproduit, consultable en ligne sur le site www.journal-officiel.gouv.fr, rubrique BO Convention collective.)</p><p align='left'><a shape='rect' href='https://www.journal-officiel.gouv.fr/publications/bocc/pdf/2020/0024/boc_20200024_0000_0001.pdf' target='_blank'> https :// www. journal-officiel. gouv. fr/ publications/ bocc/ pdf/2020/0024/ boc _ 20200024 _ 0000 _ 0001. pdf</a></p>",
+                        "etat": "VIGUEUR_NON_ETEN",
                         "lstLienModification": [
                           {
-                            "textCid": "JORFTEXT000032407872",
-                            "textTitle": "Arrêté du 7 avril 2016 - art. 1, v. init.",
-                            "linkType": "ETEND",
+                            "textCid": "KALITEXT000042258396",
+                            "textTitle": "Modification de l'avenant n° 56 (frais de soins... - art. 1er (VNE)",
+                            "linkType": "MODIFIE",
                             "linkOrientation": "cible",
-                            "articleNum": "1",
-                            "articleId": "JORFARTI000032407875",
-                            "natureText": "ARRETE",
-                            "datePubliTexte": "2016-04-16",
-                            "dateSignaTexte": "2016-04-07",
-                            "dateDebutCible": "2999-01-01"
+                            "articleNum": "1er",
+                            "articleId": "KALIARTI000042258400",
+                            "natureText": "Avenant",
+                            "datePubliTexte": "2020-08-24",
+                            "dateSignaTexte": "2020-01-14",
+                            "dateDebutCible": "2020-01-14"
                           }
                         ]
                       }
@@ -17054,7 +17066,7 @@
                     "cid": "KALIARTI000035318160",
                     "intOrdre": 524287,
                     "id": "KALIARTI000035318160",
-                    "content": "<p align='left'><br/>Les partenaires sociaux ont mis en place un régime de remboursement des frais de santé des salariés et de leurs ayants droit.<br/>Ils ont convenu d'améliorer le régime mis en place par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000032073801&categorieLien=cid'>avenant n° 56 du 6 novembre 2015</a>.</p>",
+                    "content": "<p align='left'>Les partenaires sociaux ont mis en place un régime de remboursement des frais de santé des salariés et de leurs ayants droit.</p><p align='left'>Ils ont convenu d'améliorer le régime mis en place par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000032073801&categorieLien=cid'>avenant n° 56 du 6 novembre 2015</a>.</p><p></p>",
                     "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
@@ -17081,10 +17093,22 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000035318155",
-                "content": "<p align='left'><br/>Sont considérés comme ayants droit à adhésion obligatoire au sens de l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000032073801&idArticle=KALIARTI000032073815&categorieLien=cid'>article I. 4 de l'accord n° 56 du 6 novembre 2015</a> : <br/>– les ayants droit du salarié (autrement dénommé participant) au sens de la sécurité sociale   ; <br/>– le conjoint, concubin ou partenaire de Pacs sans activité rémunérée et non inscrit à Pôle emploi   ; <br/>– les enfants du salarié (autrement dénommé participant) et/ ou de son conjoint, concubin, ou partenaire de Pacs, jusqu'au 31 décembre qui suit leur 20e anniversaire : <br/>– ou jusqu'au 28e anniversaire s'ils sont étudiants, apprentis, intérimaires, à la recherche d'un emploi, en contrat de travail à durée déterminée ou contrat d'insertion professionnelle   ; <br/>– ou en situation de handicap avec un taux d'incapacité supérieur ou égal à 80 % reconnu par le régime de base d'assurance maladie.</p>",
+                "content": "<p align='left'>Sont considérés comme ayants droit à adhésion obligatoire au sens de l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000032073801&idArticle=KALIARTI000032073815&categorieLien=cid'>article I.4 de l'accord n° 56 du 6 novembre 2015</a> :<br/>\n– les ayants droit du salarié (autrement dénommé participant) au sens de la sécurité sociale ;<br/>\n– le conjoint, concubin ou partenaire de Pacs sans activité rémunérée et non inscrit à Pôle emploi ;<br/>\n– les enfants du salarié (autrement dénommé participant) et/ ou de son conjoint, concubin, ou partenaire de Pacs, jusqu'au 31 décembre qui suit leur 20e anniversaire :<br/>\n–– ou jusqu'au 28e anniversaire s'ils sont étudiants, apprentis, intérimaires, à la recherche d'un emploi, en contrat de travail à durée déterminée ou contrat d'insertion professionnelle ;<br/>\n–– ou en situation de handicap avec un taux d'incapacité supérieur ou égal à 80 % reconnu par le régime de base d'assurance maladie.</p>",
                 "etat": "VIGUEUR_ETEN",
                 "surtitre": "Modification des ayants droit bénéficiaires du régime",
                 "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000032073801",
+                    "textTitle": "Régime de frais de soins de santé - art. I.4. Ayants droit bénéficiaires des prestations... (VE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "I.4. Ayants droit bénéficiaires des prestations du régime frais de santé",
+                    "articleId": "KALIARTI000042282666",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2016-02-18",
+                    "dateSignaTexte": "2015-11-06",
+                    "dateDebutCible": "2017-03-20"
+                  },
                   {
                     "textCid": "JORFTEXT000037152867",
                     "textTitle": "Arrêté du 29 juin 2018 - art. 3, v. init.",
@@ -17112,6 +17136,18 @@
                 "surtitre": "Amélioration de l'équipement optique",
                 "lstLienModification": [
                   {
+                    "textCid": "KALITEXT000032073801",
+                    "textTitle": "Régime de frais de soins de santé - art. (VE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "",
+                    "articleId": "KALIARTI000042282618",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2016-02-18",
+                    "dateSignaTexte": "2015-11-06",
+                    "dateDebutCible": "2017-03-20"
+                  },
+                  {
                     "textCid": "JORFTEXT000037152867",
                     "textTitle": "Arrêté du 29 juin 2018 - art. 3, v. init.",
                     "linkType": "ETEND",
@@ -17133,7 +17169,7 @@
                 "num": "3",
                 "intOrdre": 2097148,
                 "id": "KALIARTI000035318158",
-                "content": "<p align='left'><br/>Le présent avenant prend effet à compter de la date de sa signature, sous réserve de la mise en œuvre du droit d'opposition. Il s'incorpore à l'avenant n° 56 du 6 novembre 2015 et à la convention collective nationale des cabinets ou entreprises d'expertises en automobile du 20 novembre 1996.<br/>Il est notifié et déposé dans les conditions prévues par le code du travail. Les partenaires sociaux conviennent d'en demander l'extension auprès du ministre chargé du travail, de l'emploi, de la formation professionnelle et du dialogue social.</p>",
+                "content": "<p align='left'>Le présent avenant prend effet à compter de la date de sa signature, sous réserve de la mise en œuvre du droit d'opposition. Il s'incorpore à l'avenant n° 56 du 6 novembre 2015 et à la convention collective nationale des cabinets ou entreprises d'expertises en automobile du 20 novembre 1996.</p><p align='left'>Il est notifié et déposé dans les conditions prévues par le code du travail. Les partenaires sociaux conviennent d'en demander l'extension auprès du ministre chargé du travail, de l'emploi, de la formation professionnelle et du dialogue social.</p>",
                 "etat": "VIGUEUR_ETEN",
                 "surtitre": "Entrée en vigueur et formalités",
                 "lstLienModification": [
@@ -19949,6 +19985,93 @@
                 "content": "<p align='left'><br/>Le présent avis est déposé au conseil des prud'hommes de Paris et à la direction générale du travail.</p>",
                 "etat": "VIGUEUR_NON_ETEN",
                 "surtitre": "Formalités",
+                "lstLienModification": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000042258396",
+            "title": "Avenant n° 74 du 14 janvier 2020 à l'avenant n° 56 du 6 novembre 2015 relatif à l'instauration d'un régime de remboursement complémentaire de frais de soins de santé",
+            "id": "KALITEXT000042258396",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2020-01-14"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000042258399",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000042258399",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000042258406",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000042258406",
+                    "content": "<p align='left'>Les partenaires sociaux ont mis en place un régime de remboursement des frais de santé des salariés et de leurs ayants droit.</p><p align='left'>En raison de la mise en place du RAC 0 (ou 100 % santé), nouveau dispositif prévu par la loi de financement de la sécurité sociale pour 2019, les partenaires sociaux ont convenu de mettre en conformité le régime « frais de santé » de la branche.</p><p></p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": []
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000042258400",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000042258400",
+                "content": "<p align='left'>Le présent accord entend mettre en conformité, avec le dispositif RAC 0, le tableau des garanties prévues par l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000032073801&idArticle=KALIARTI000032073856&categorieLien=cid' title='Régime de frais de soins de santé - art. (VE)'>annexe 2 </a>de l'accord de branche n° 56 (tel que modifié par l'accord n° 60).</p><p align='left'>(Tableau non reproduit, consultable en ligne sur le site www.journal-officiel.gouv.fr, rubrique BO Convention collective.)</p><p align='left'><a shape='rect' href='https://www.journal-officiel.gouv.fr/publications/bocc/pdf/2020/0024/boc_20200024_0000_0001.pdf' target='_blank'> https :// www. journal-officiel. gouv. fr/ publications/ bocc/ pdf/2020/0024/ boc _ 20200024 _ 0000 _ 0001. pdf</a></p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Modification du tableau des garanties du régime",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000032073801",
+                    "textTitle": "Régime de frais de soins de santé - art. (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "",
+                    "articleId": "KALIARTI000042282736",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2016-02-18",
+                    "dateSignaTexte": "2015-11-06",
+                    "dateDebutCible": "2020-01-14"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000042258403",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000042258403",
+                "content": "<p align='left'><br/>Le présent avenant ne comprend pas de dispositions spécifiques aux entreprises de moins de 50 salariés. En effet, la branche de l'expertise automobile comprenant majoritairement des structures de moins de 50 salariés, les dispositions ci-dessus énoncées tiennent déjà compte des spécificités de ces entreprises.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Dispositions spécifiques aux entreprises de moins de 50 salariés",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000042258404",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000042258404",
+                "content": "<p align='left'>Le présent avenant est conclu à durée indéterminée.</p><p align='left'>Il prend effet à la date de signature, sous réserve de la mise en œuvre du droit d'opposition. Il s'incorpore à l'avenant n° 56 du 6 novembre 2015 relatif au régime de frais de soins de santé.</p><p align='left'>Il est notifié et déposé dans les conditions prévues par le code du travail. Les partenaires sociaux conviennent d'en demander l'extension auprès du ministre chargé du travail, de l'emploi, de la formation professionnelle et du dialogue social.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Durée, entrée en vigueur et formalités",
                 "lstLienModification": []
               }
             }
