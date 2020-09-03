@@ -1,4 +1,4 @@
-import astify, { isValidSection, latestArticleVersionFilter } from "../astify";
+import astify, { isValidSection, latestVersionFilter } from "../astify";
 import sampleConvention from "./fixtures/sample.json";
 
 test("should convert structure to AST tree", () => {
@@ -20,10 +20,10 @@ const sampleArticles = [
   },
 ];
 
-describe("latestArticleVersionFilter", () => {
-  test("latestArticleVersionFilter should return false if its an old version of the article", () => {
+describe("latestVersionFilter", () => {
+  test("latestVersionFilter should return false if its an old version of the article", () => {
     expect(
-      latestArticleVersionFilter(
+      latestVersionFilter(
         {
           cid: 1,
           id: "KALIARTI000001",
@@ -34,9 +34,9 @@ describe("latestArticleVersionFilter", () => {
     ).toMatchSnapshot();
   });
 
-  test("latestArticleVersionFilter should return true if its the newer version of the article", () => {
+  test("latestVersionFilter should return true if its the newer version of the article", () => {
     expect(
-      latestArticleVersionFilter(
+      latestVersionFilter(
         {
           cid: 1,
           id: "KALIARTI000003",
@@ -64,7 +64,7 @@ describe("isValidSection", () => {
   test("should include section VIGUEUR_NON_ETEN", () => {
     expect(isValidSection({ etat: "VIGUEUR_NON_ETEN" })).toEqual(true);
   });
-  test("should include section without etaet", () => {
+  test("should include section without etat", () => {
     expect(isValidSection({})).toEqual(true);
   });
 });
