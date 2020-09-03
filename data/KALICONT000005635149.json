@@ -2273,55 +2273,6 @@
               "data": {
                 "cid": "KALISCTA000005716839",
                 "intOrdre": 901929,
-                "title": "Indemnité de panier",
-                "id": "KALISCTA000005716839",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005834085",
-                    "num": "18",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000032062286",
-                    "content": "<p>Lorsque le mensuel est contraint de prendre une restauration sur son lieu effectif de travail, en raison de ses conditions particulières d'organisation ou d'horaires de travail résultant du travail en horaire décalé ou du travail de nuit, lesquelles ne lui permettent ni de rentrer chez lui, ni d'avoir accès, le cas échéant, au restaurant de l'entreprise, ni de se restaurer à l'extérieur, il lui est versé une indemnité destinée à compenser les dépenses supplémentaires de restauration générées par cette situation. <br/><br/>L'indemnité de restauration sur le lieu de travail n'est versée qu'au titre des jours où le salarié se trouve dans la situation visée au paragraphe précédent. Elle n'est pas versée au titre des jours non travaillés, qu'ils soient ou non indemnisés (congés payés, absence résultant d'une maladie ou d'un accident, etc.) ni au titre des jours travaillés où le salarié ne se trouve pas dans la situation considérée. <br/><br/>Le montant de l'indemnité de restauration sur le lieu de travail est fixé annuellement lors de la négociation des taux garantis annuels et des salaires minimaux hiérarchiques. <br/><br/>L'indemnité de restauration sur le lieu de travail dont le taux est supérieur au montant de l'allocation forfaitaire fixé au 1er janvier de chaque année par l'ACOSS reste acquise. <br/><br/>L'indemnité de restauration sur le lieu de travail est soumise au régime juridique défini par l'arrêté du 20 décembre 2002 relatif aux frais professionnels déductibles pour le calcul des cotisations de sécurité sociale. A ce titre, elle est déductible, en tant que frais professionnels, du calcul des cotisations de sécurité sociale. En conséquence, elle doit être exclue des différentes assiettes de calcul (indemnité de congés payés, heures supplémentaires, indemnité de maladie, indemnité de préavis, indemnité de licenciement, etc.) et de comparaison relatives aux garanties salariales (Smic, salaires minimaux conventionnels, etc.). </p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000032624123",
-                        "textTitle": "Arrêté du 24 mai 2016 - art. 1, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "1",
-                        "articleId": "JORFARTI000032624125",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2016-06-03",
-                        "dateSignaTexte": "2016-05-24",
-                        "dateDebutCible": "2999-01-01"
-                      },
-                      {
-                        "textCid": "KALITEXT000032048596",
-                        "textTitle": "Période d'essai et retraite (modification de l'... - art. 2 (VNE)",
-                        "linkType": "MODIFIE",
-                        "linkOrientation": "cible",
-                        "articleNum": "2",
-                        "articleId": "KALIARTI000032048612",
-                        "natureText": "Avenant",
-                        "datePubliTexte": "2999-01-01",
-                        "dateSignaTexte": "2015-09-21",
-                        "dateDebutCible": "2015-11-20"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005716839",
-                "intOrdre": 901929,
                 "title": "Indemnité de restauration sur le lieu de travail",
                 "id": "KALISCTA000032062289",
                 "etat": "VIGUEUR_NON_ETEN"
@@ -2779,43 +2730,6 @@
               "data": {
                 "cid": "KALISCTA000005716852",
                 "intOrdre": 1417317,
-                "title": "Service national",
-                "id": "KALISCTA000005716852",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005834108",
-                    "num": "29",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000036772188",
-                    "content": "<p>Pendant les périodes militaires de réserve opérationnelle obligatoires et non provoquées par l'intéressé, la rémunération sera due, déduction faite de la solde nette touchée qui devra être déclarée par l'intéressé. La rémunération à prendre en considération est celle correspondant à l'horaire pratiqué dans l'entreprise pendant la période de réserve militaire.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "KALITEXT000036747752",
-                        "textTitle": "Avenant à la convention collective - art. 28 (VNE)",
-                        "linkType": "MODIFIE",
-                        "linkOrientation": "cible",
-                        "articleNum": "28",
-                        "articleId": "KALIARTI000036747839",
-                        "natureText": "Avenant",
-                        "datePubliTexte": "2018-03-28",
-                        "dateSignaTexte": "2017-09-25",
-                        "dateDebutCible": "2018-01-05"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005716852",
-                "intOrdre": 1417317,
                 "title": "Réserve opérationnelle obligatoire",
                 "id": "KALISCTA000036772191",
                 "etat": "VIGUEUR_NON_ETEN"
@@ -3164,55 +3078,6 @@
                         "datePubliTexte": null,
                         "dateSignaTexte": null,
                         "dateDebutCible": null
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005716860",
-                "intOrdre": 1760909,
-                "title": "Départ à la retraite",
-                "id": "KALISCTA000005716860",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005834125",
-                    "num": "34",
-                    "intOrdre": 128847,
-                    "id": "KALIARTI000032062291",
-                    "content": "<p align='center'>1. Définition </p><p align='left'><br/>Constitue un départ volontaire à la retraite le fait par un salarié de résilier unilatéralement son contrat de travail à durée indéterminée pour bénéficier d'une pension de vieillesse. <br/><br/>Le départ volontaire à la retraite ne constitue pas une démission. </p><p align='center'><br/>2. Délai de prévenance </p><p align='left'><br/>En cas de départ volontaire à la retraite, le salarié respecte un délai de prévenance d'une durée de :<br/><br/>-1 mois, pour une ancienneté inférieure à 2 ans à la date de notification du départ à la retraite ;<br/><br/>-2 mois, pour une ancienneté d'au moins 2 ans à la date de notification du départ à la retraite. </p><p align='center'><br/>3. Indemnité de départ à la retraite </p><p align='left'><br/>Le départ volontaire à la retraite ouvre droit pour le salarié à une indemnité de départ à la retraite, qui ne sera pas inférieure au barème ci-après :<br/><br/>-0,5 mois après 2 ans ;<br/><br/>-1 mois après 5 ans ;<br/><br/>-2 mois après 10 ans ;<br/><br/>-3 mois après 20 ans ;<br/><br/>-4 mois après 30 ans ;<br/><br/>-5 mois après 35 ans ;<br/><br/>-6 mois après 40 ans ; <br/><br/><i>Le salaire de référence servant au calcul de l'indemnité de départ à la retraite est le même que celui servant au calcul de l'indemnité de licenciement. L'ancienneté du salarié est appréciée à la date de fin du délai de prévenance, exécuté ou non</i> <a shape='rect' href='#RENVOI_KALIARTI000005834125_1'> (1)</a>. <br/><br/>Par dérogation à l'article 14, la durée des contrats de travail antérieurs avec la même entreprise n'est pas prise en compte pour la détermination de l'ancienneté servant au calcul de l'indemnité de départ à la retraite. Toutefois, sont prises en compte, le cas échéant, pour le calcul de cette ancienneté :<br/><br/>-en application de l'article L. 1243-11, alinéa 2, du code du travail, la durée du contrat de travail à durée déterminée avec la même entreprise, lorsque la relation de travail s'est poursuivie après l'échéance du terme de ce contrat ;<br/><br/>-en application de l'article L. 1244-2, alinéa 3, du code du travail, la durée des contrats de travail à durée déterminée à caractère saisonnier successifs avec la même entreprise, lorsque la relation de travail s'est poursuivie après l'échéance du terme du dernier de ces contrats ;<br/><br/>-en application de l'article L. 1251-38, alinéa 1, du code du travail, la durée des missions de travail temporaire effectuées par le salarié, dans l'entreprise utilisatrice, au cours des 3 mois précédant son embauche par cette entreprise utilisatrice ;<br/><br/>-en application de l'article L. 1251-39, alinéa 2, du code du travail, la durée de la mission de travail temporaire effectuée dans l'entreprise utilisatrice, lorsque celle-ci a continué à faire travailler le salarié temporaire sans avoir conclu un contrat de travail ou sans nouveau contrat de mise à disposition.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000005834125_1'></a>(1) Le deuxième alinéa du 3 est étendu sous réserve du respect des dispositions de l'article D. 1237-2 du code du travail.<br/>  <br/>(Arrêté du 24 mai 2016 - art. 1)</em></font></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000032624123",
-                        "textTitle": "Arrêté du 24 mai 2016 - art. 1, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "1",
-                        "articleId": "JORFARTI000032624125",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2016-06-03",
-                        "dateSignaTexte": "2016-05-24",
-                        "dateDebutCible": "2999-01-01"
-                      },
-                      {
-                        "textCid": "KALITEXT000032048596",
-                        "textTitle": "Période d'essai et retraite (modification de l'... - art. 3 (VNE)",
-                        "linkType": "MODIFIE",
-                        "linkOrientation": "cible",
-                        "articleNum": "3",
-                        "articleId": "KALIARTI000032048613",
-                        "natureText": "Avenant",
-                        "datePubliTexte": "2999-01-01",
-                        "dateSignaTexte": "2015-09-21",
-                        "dateDebutCible": "2015-11-20"
                       }
                     ]
                   }

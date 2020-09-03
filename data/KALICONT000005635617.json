@@ -1030,55 +1030,6 @@
           "data": {
             "cid": "KALISCTA000005723950",
             "intOrdre": 1159623,
-            "title": "Contrat de travail. - Période d'essai",
-            "id": "KALISCTA000005723950",
-            "etat": "REMPLACE"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000005851065",
-                "num": "26",
-                "intOrdre": 42949,
-                "id": "KALIARTI000038260796",
-                "content": "<p>La durée de la période d'essai des employés est de 2 mois.</p><p>Elle n'est pas renouvelable.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "KALITEXT000038115882",
-                    "textTitle": "Périodes d'essai - art. 1.1 (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "1.1",
-                    "articleId": "KALIARTI000038115887",
-                    "natureText": "Accord",
-                    "datePubliTexte": "2019-02-12",
-                    "dateSignaTexte": "2018-06-15",
-                    "dateDebutCible": "2018-09-01"
-                  },
-                  {
-                    "textCid": "JORFTEXT000038948063",
-                    "textTitle": "Arrêté du 24 juillet 2019 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000038948064",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2019-08-23",
-                    "dateSignaTexte": "2019-07-24",
-                    "dateDebutCible": "2999-01-01"
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALISCTA000005723950",
-            "intOrdre": 1159623,
             "title": "Période d'essai des employés",
             "id": "KALISCTA000038260799",
             "etat": "VIGUEUR_ETEN"
@@ -1191,55 +1142,6 @@
                     "datePubliTexte": null,
                     "dateSignaTexte": null,
                     "dateDebutCible": null
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "type": "section",
-          "data": {
-            "cid": "KALISCTA000005723954",
-            "intOrdre": 1288470,
-            "title": "Mutations temporaires de service et d'emploi",
-            "id": "KALISCTA000005723954",
-            "etat": "VIGUEUR_ETEN"
-          },
-          "children": [
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000005851068",
-                "num": "29",
-                "intOrdre": 42949,
-                "id": "KALIARTI000028533052",
-                "content": "<p>Les affectations temporaires sont destinées à pourvoir au remplacement des absences autres que celles de courte durée résultant de la vie courante de l'entreprise (repos hebdomadaire, RTT, congés payés, maladies de courte durée). <br/><br/>Pour ces affectations temporaires, il est fait appel uniquement au personnel volontaire. En cas de refus, le salarié n'est pas pénalisé en termes d'exécution du contrat de travail, de formation ou d'avancement. <br/><br/>L'affectation temporaire d'une personne sur un emploi de catégorie supérieure au poste qu'elle occupe ordinairement n'est prononcée qu'en cas de nécessité de service. Elle ne peut servir à pallier de façon pérenne des insuffisances d'effectifs. <br/><br/>Les affectations temporaires concernent essentiellement : </p><p align='left'><br/>- la longue maladie ; <br/><br/>- le congé de maternité ou d'adoption ; <br/><br/>- le congé parental ; <br/><br/>- le congé parental d'éducation ; <br/><br/>- le congé de soutien familial ; <br/><br/>- la formation de longue durée ; <br/><br/>- la vacance (ou carence) de poste dans l'attente d'un recrutement ; <br/><br/>- le congé pour création d'entreprise ; <br/><br/>- le congé sabbatique. <br/><br/>Ces affectations temporaires entraînent, à compter du premier jour de ladite affectation et pour sa stricte durée, un complément de rémunération. <br/><br/>Ce complément de salaire doit être au moins égal à la différence entre le salaire fixe du salarié et la rémunération minimum en vigueur dans l'entreprise ou, à défaut, conventionnelle du poste considéré. <br/><br/>Les règles de rémunération variable liées à ce poste sont appliquées et les primes variables correspondantes versées. <br/><br/>Les compétences acquises à l'occasion d'affectations temporaires doivent permettre au salarié concerné d'accéder au niveau de classification supérieur. L'affectation devient pérenne en cas de vacance définitive du poste.</p>",
-                "etat": "VIGUEUR_ETEN",
-                "lstLienModification": [
-                  {
-                    "textCid": "KALITEXT000028532474",
-                    "textTitle": "Affectations temporaires - art. (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "KALIARTI000028532477",
-                    "natureText": "Accord",
-                    "datePubliTexte": "2014-01-29",
-                    "dateSignaTexte": "2013-11-12",
-                    "dateDebutCible": "2014-01-01"
-                  },
-                  {
-                    "textCid": "JORFTEXT000029187119",
-                    "textTitle": "ARRÊTÉ du 26 juin 2014 - art. 5, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "5",
-                    "articleId": "JORFARTI000029187129",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2014-07-04",
-                    "dateSignaTexte": "2014-06-26",
-                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -4749,67 +4651,6 @@
                       }
                     ]
                   }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005724019",
-                "intOrdre": 257694,
-                "title": "Mutation temporaire de service et d'emploi",
-                "id": "KALISCTA000005724019",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "section",
-                  "data": {
-                    "cid": "KALISCTA000005752479",
-                    "intOrdre": 42949,
-                    "title": "(Modification de l'article 29 de la convention collective nationale)",
-                    "id": "KALISCTA000005752479",
-                    "etat": "VIGUEUR_ETEN"
-                  },
-                  "children": [
-                    {
-                      "type": "article",
-                      "data": {
-                        "cid": "KALIARTI000005851136",
-                        "num": "6",
-                        "intOrdre": 42949,
-                        "id": "KALIARTI000028533057",
-                        "content": "<p>Les affectations temporaires sont destinées à pourvoir au remplacement des absences autres que celles de courte durée résultant de la vie courante de l'entreprise (repos hebdomadaire, RTT, congés payés, maladies de courte durée). <br/><br/>Pour ces affectations temporaires, il est fait appel uniquement au personnel volontaire. En cas de refus, le salarié n'est pas pénalisé en termes d'exécution du contrat de travail, de formation ou d'avancement. <br/><br/>L'affectation temporaire d'une personne sur un emploi de catégorie supérieure au poste qu'elle occupe ordinairement n'est prononcée qu'en cas de nécessité de service. Elle ne peut servir à pallier de façon pérenne des insuffisances d'effectifs. <br/><br/>Les affectations temporaires concernent essentiellement : </p><p align='left'><br/>- la longue maladie ; <br/><br/>- le congé de maternité ou d'adoption ; <br/><br/>- le congé parental ; <br/><br/>- le congé parental d'éducation ; <br/><br/>- le congé de soutien familial ; <br/><br/>- la formation de longue durée ; <br/><br/>- la vacance (ou carence) de poste dans l'attente d'un recrutement ; <br/><br/>- le congé pour création d'entreprise ; <br/><br/>- le congé sabbatique. <br/><br/>Ces affectations temporaires entraînent, à compter du premier jour de ladite affectation et pour sa stricte durée, un complément de rémunération. <br/><br/>Ce complément de salaire doit être au moins égal à la différence entre le salaire fixe du salarié et la rémunération minimum en vigueur dans l'entreprise ou, à défaut, conventionnelle du poste considéré. <br/><br/>Les règles de rémunération variable liées à ce poste sont appliquées et les primes variables correspondantes versées. <br/><br/>Les compétences acquises à l'occasion d'affectations temporaires doivent permettre au salarié concerné d'accéder au niveau de classification supérieur. L'affectation devient pérenne en cas de vacance définitive du poste.</p>",
-                        "etat": "VIGUEUR_ETEN",
-                        "lstLienModification": [
-                          {
-                            "textCid": "KALITEXT000028532474",
-                            "textTitle": "Affectations temporaires - art. (VNE)",
-                            "linkType": "MODIFIE",
-                            "linkOrientation": "cible",
-                            "articleNum": "",
-                            "articleId": "KALIARTI000028532477",
-                            "natureText": "Accord",
-                            "datePubliTexte": "2014-01-29",
-                            "dateSignaTexte": "2013-11-12",
-                            "dateDebutCible": "2014-01-01"
-                          },
-                          {
-                            "textCid": "JORFTEXT000029187119",
-                            "textTitle": "ARRÊTÉ du 26 juin 2014 - art. 5, v. init.",
-                            "linkType": "ETEND",
-                            "linkOrientation": "cible",
-                            "articleNum": "5",
-                            "articleId": "JORFARTI000029187129",
-                            "natureText": "ARRETE",
-                            "datePubliTexte": "2014-07-04",
-                            "dateSignaTexte": "2014-06-26",
-                            "dateDebutCible": "2999-01-01"
-                          }
-                        ]
-                      }
-                    }
-                  ]
                 }
               ]
             },

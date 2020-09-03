@@ -1476,55 +1476,6 @@
               "data": {
                 "cid": "KALISCTA000005748948",
                 "intOrdre": 257694,
-                "title": "Repos compensateur",
-                "id": "KALISCTA000005748948",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005831845",
-                    "num": "24",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000023584820",
-                    "content": "<p>Au lieu du paiement des heures supplémentaires et des majorations prévu à l'article 23 et par accord entre l'employeur et le salarié, les heures supplémentaires en sus de l'horaire habituel pourront être compensées par un repos spécial dit compensateur de remplacement à prendre dans le délai de 2 mois. Pour calculer la durée de ce repos, il est tenu compte d'une majoration de temps identique à celle prévue pour la rémunération des heures supplémentaires. Les heures supplémentaires donnant lieu à un repos équivalant à leur paiement et aux majorations y afférentes ne s'imputent pas sur le contingent annuel d'heures supplémentaires. Le repos compensateur de remplacement ne peut être pris que par journée entière ou demi-journée. <br/><br/>Le repos compensateur de remplacement donne lieu à une indemnisation qui ne doit entraîner aucune diminution par rapport à la rémunération que le salarié aurait perçue s'il avait accompli son travail. <br/><br/>Les heures supplémentaires qui font l'objet d'un remplacement en repos ne sont pas comptabilisées au titre du contingent annuel d'heures supplémentaires.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "KALITEXT000023561974",
-                        "textTitle": "Repos compensateur de remplacement - art. (VNE)",
-                        "linkType": "MODIFIE",
-                        "linkOrientation": "cible",
-                        "articleNum": "",
-                        "articleId": "KALIARTI000023561977",
-                        "natureText": "Avenant",
-                        "datePubliTexte": "2011-02-09",
-                        "dateSignaTexte": "2010-10-25",
-                        "dateDebutCible": "2010-10-25"
-                      },
-                      {
-                        "textCid": "JORFTEXT000024666202",
-                        "textTitle": "Arrêté du 7 octobre 2011 - art. 25, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "25",
-                        "articleId": "JORFARTI000024666305",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2011-10-14",
-                        "dateSignaTexte": "2011-10-07",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005748948",
-                "intOrdre": 257694,
                 "title": "Repos compensateur de remplacement",
                 "id": "KALISCTA000023584824",
                 "etat": "VIGUEUR_NON_ETEN"
@@ -2053,55 +2004,6 @@
               "data": {
                 "cid": "KALISCTA000005748959",
                 "intOrdre": 730133,
-                "title": "Maladie pendant les congés",
-                "id": "KALISCTA000005748959",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005831857",
-                    "num": "35",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000023586378",
-                    "content": "<p>Si un employé se trouve absent pour maladie, maternité ou présence parentale à la date fixée comme point de départ de son congé annuel, il bénéficiera de l'intégralité de ce congé dès la fin de son congé ou, si les besoins du service l'exigent, à une date ultérieure fixée par accord entre les parties dans un délai maximal de 3 mois. </p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "KALITEXT000023561996",
-                        "textTitle": "Actualisation de la convention - art. (VNE)",
-                        "linkType": "MODIFIE",
-                        "linkOrientation": "cible",
-                        "articleNum": "",
-                        "articleId": "KALIARTI000023561999",
-                        "natureText": "Avenant",
-                        "datePubliTexte": "2011-02-09",
-                        "dateSignaTexte": "2010-10-25",
-                        "dateDebutCible": "2010-10-25"
-                      },
-                      {
-                        "textCid": "JORFTEXT000026585418",
-                        "textTitle": "Arrêté du 30 octobre 2012, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "",
-                        "articleId": "JORFTEXT000026585418",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2012-11-07",
-                        "dateSignaTexte": "2012-10-30",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005748959",
-                "intOrdre": 730133,
                 "title": "Absence pendant les congés",
                 "id": "KALISCTA000023586381",
                 "etat": "VIGUEUR_NON_ETEN"
@@ -2337,55 +2239,6 @@
                         "datePubliTexte": null,
                         "dateSignaTexte": null,
                         "dateDebutCible": null
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005748965",
-                "intOrdre": 987827,
-                "title": "Congés exceptionnels",
-                "id": "KALISCTA000005748965",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005831865",
-                    "num": "41",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000023586367",
-                    "content": "<p>Tout salarié bénéficie, sur justification et à l'occasion de certains événements familiaux, d'une autorisation exceptionnelle d'absence pour :</p><p align='left'><br/>-le déménagement : 1 jour ;<br/><br/>-la naissance et l'adoption : 3 jours ;<br/><br/>-le mariage : 5 jours ;<br/><br/>-le Pacs : 1 jour ;<br/><br/>-le mariage d'un enfant : 2 jours ;<br/><br/>-le décès du père, de la mère, d'un frère ou d'une sœur : 2 jours ;<br/><br/>-le décès d'un beau-père ou d'une belle-mère, d'un grand-père, d'une grand-mère : 1 jour ;<br/><br/>-le décès d'un conjoint ou d'un concubin (certificat de concubinage), d'un enfant : 1 semaine. <br/><br/>Cette dernière disposition est applicable aux partenaires liés par un pacte civil de solidarité. <br/><br/>Un jour de plus pourra être accordé selon que les cérémonies ont lieu à plus de 300 km. <br/><br/>Ces congés ne s'imputent pas sur le congé annuel et doivent être pris au moment de l'événement ou dans un délai raisonnable, <i>moins de 30 jours</i> <a shape='rect' href='#RENVOI_KALIARTI000005831865_1'> (1)</a> suivant l'événement. Ils se décomptent en jours ouvrés consécutifs. <br/><br/>Ces jours d'absence n'entraînent pas de réduction de la rémunération. Ils sont assimilés à des jours de travail effectif pour la détermination de la durée du congé annuel.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000005831865_1'></a>(1) Au paragraphe 4 de l'article 41, les termes : « moins de trente jours » sont exclus de l'extension comme étant contraires aux dispositions de l'article L. 3142-1 du code du travail tels qu'interprétés par la jurisprudence de la Cour de cassation (Cass. soc., 16 décembre 1998, n° 96-43.323).<br/><br/>  <br/>(Arrêté du 30 octobre 2012, art. 1er)</em></font></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "KALITEXT000023561996",
-                        "textTitle": "Actualisation de la convention - art. (VNE)",
-                        "linkType": "MODIFIE",
-                        "linkOrientation": "cible",
-                        "articleNum": "",
-                        "articleId": "KALIARTI000023561999",
-                        "natureText": "Avenant",
-                        "datePubliTexte": "2011-02-09",
-                        "dateSignaTexte": "2010-10-25",
-                        "dateDebutCible": "2010-10-25"
-                      },
-                      {
-                        "textCid": "JORFTEXT000026585418",
-                        "textTitle": "Arrêté du 30 octobre 2012, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "",
-                        "articleId": "JORFTEXT000026585418",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2012-11-07",
-                        "dateSignaTexte": "2012-10-30",
-                        "dateDebutCible": "2999-01-01"
                       }
                     ]
                   }
@@ -3256,55 +3109,6 @@
               "data": {
                 "cid": "KALISCTA000005748983",
                 "intOrdre": 42949,
-                "title": "Délai-congés ou préavis",
-                "id": "KALISCTA000005748983",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005831885",
-                    "num": "59",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000023586324",
-                    "content": "<p>En cas de rupture du contrat de travail, par l'une ou l'autre des parties, après la période d'essai et hormis le cas de faute grave ou de faute lourde, la durée du préavis est déterminée comme suit : </p><p align='left'><br/>- personnel ayant moins de 6 mois d'ancienneté dans l'établissement : 15 jours ; <br/><br/>- personnel ayant au moins 6 mois et moins de 2 ans d'ancienneté dans l'établissement : 1 mois ; <br/><br/>- personnel ayant au moins 2 ans d'ancienneté dans l'établissement : 2 mois ; <br/><br/>- personnel cadre ayant moins de 1 an d'ancienneté : 1 mois ; <br/><br/>- personnel cadre ayant au moins 1 an d'ancienneté : 3 mois. </p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "KALITEXT000023561996",
-                        "textTitle": "Actualisation de la convention - art. (VNE)",
-                        "linkType": "MODIFIE",
-                        "linkOrientation": "cible",
-                        "articleNum": "",
-                        "articleId": "KALIARTI000023561999",
-                        "natureText": "Avenant",
-                        "datePubliTexte": "2011-02-09",
-                        "dateSignaTexte": "2010-10-25",
-                        "dateDebutCible": "2010-10-25"
-                      },
-                      {
-                        "textCid": "JORFTEXT000026585418",
-                        "textTitle": "Arrêté du 30 octobre 2012, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "",
-                        "articleId": "JORFTEXT000026585418",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2012-11-07",
-                        "dateSignaTexte": "2012-10-30",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005748983",
-                "intOrdre": 42949,
                 "title": "Délai, congés ou préavis",
                 "id": "KALISCTA000023586326",
                 "etat": "VIGUEUR_NON_ETEN"
@@ -3782,55 +3586,6 @@
               "data": {
                 "cid": "KALISCTA000005748993",
                 "intOrdre": 85898,
-                "title": "Nécessité de l'effort de formation",
-                "id": "KALISCTA000005748993",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005831897",
-                    "num": "68",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000041796948",
-                    "content": "<p>Les entreprises versent leurs contributions dues au titre de la formation professionnelle continue dans les conditions prévues par le code du travail.</p><p>Elles versent également une contribution conventionnelle au titre de la formation professionnelle continue à l'opérateur de compétences agréé pour la branche conformément à l'article L. 6332-1-1.</p><p>Les entreprises vétérinaires versent cette contribution conventionnelle selon le cadre défini ci-après :<br/>\n– pour les entreprises ayant un effectif de moins de 11 salariés : une contribution conventionnelle égale à 0,45 % de la masse salariale brute des personnels est versée ;<br/>\n– pour les entreprises ayant un effectif supérieur ou égal à 11 salariés : une contribution conventionnelle égale à 0,60 % de la masse salariale brute des personnels est versée.</p><p>L'employeur procède au versement de la participation avant le 1er mars de l'année suivant celle au titre de laquelle elle est due.</p><p align='center'>Fraction professionnalisation</p><p>Les ressources du fonds paritaire de sécurisation des parcours professionnels permettent :</p><p>1° De contribuer au financement d'actions de formation professionnelle concourant à la qualification et à la requalification des salariés et des demandeurs d'emploi, au bénéfice de publics dont les caractéristiques sont déterminées par la convention-cadre prévue au présent article ;</p><p>2° D'assurer la péréquation des fonds par des versements complémentaires aux organismes collecteurs paritaires agréés au titre de la professionnalisation et du congé individuel de formation pour le financement d'actions de professionnalisation et du congé individuel de formation ;</p><p>3° De contribuer au financement du service visé au premier alinéa de l'article L. 6111-4 du code du travail (disposer d'une première information et d'un premier conseil personnalisé en matière d'orientation et de formation professionnelles).</p><p>Les versements mentionnés au 2° de l'article L. 6332-21 du code du travail sont accordés à l'organisme collecteur paritaire agréé lorsque :</p><p>1° L'organisme collecteur paritaire agréé affecte au moins 50 % des fonds recueillis au titre de la professionnalisation, déduction faite de la part versée au fonds paritaire de sécurisation des parcours professionnels, aux contrats de professionnalisation et à des périodes de professionnalisation, dont la durée minimale est définie par décret, visant des qualifications mentionnées aux 1° et 3° de l'article L. 6314-1 du code du travail ;</p><p>2° Les fonds recueillis au titre de la professionnalisation par l'organisme collecteur paritaire agréé, déduction faite de la part versée au fonds paritaire de sécurisation des parcours professionnels, sont insuffisants pour assurer la prise en charge prévue à l'article L. 6332-14 du code du travail.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000041789981",
-                        "textTitle": "Arrêté du 3 avril 2020 - art. 1, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "1",
-                        "articleId": "JORFARTI000041789984",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2020-04-09",
-                        "dateSignaTexte": "2020-04-03",
-                        "dateDebutCible": "2999-01-01"
-                      },
-                      {
-                        "textCid": "KALITEXT000039479873",
-                        "textTitle": "Formation professionnelle - art. 1er (VNE)",
-                        "linkType": "MODIFIE",
-                        "linkOrientation": "cible",
-                        "articleNum": "1er",
-                        "articleId": "KALIARTI000039479876",
-                        "natureText": "Avenant",
-                        "datePubliTexte": "2999-01-01",
-                        "dateSignaTexte": "2019-06-05",
-                        "dateDebutCible": "2020-04-09"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005748993",
-                "intOrdre": 85898,
                 "title": "Versement des contributions",
                 "id": "KALISCTA000030321484",
                 "etat": "VIGUEUR_NON_ETEN"
@@ -3880,55 +3635,6 @@
               "data": {
                 "cid": "KALISCTA000005748994",
                 "intOrdre": 128847,
-                "title": "Droit individuel à la formation (DIF)",
-                "id": "KALISCTA000005748994",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005831898",
-                    "num": "69",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000030321476",
-                    "content": "<p>Développement de l'apprentissage et de la fonction tutorale </p><p><br/>1.   La commission paritaire nationale pour l'emploi et la formation professionnelle de la branche souhaite encourager le développement des formations professionnelles en direction des jeunes se préparant aux métiers et aux qualifications du secteur. De même, elle souhaite encourager le tutorat, qu'elle considère comme une fonction importante au sein des cabinets, cliniques et centres hospitaliers vétérinaires, pour organiser l'accueil, l'encadrement et accompagner la formation professionnelle d'un jeune ou d'un salarié dans l'entreprise ; <br/><br/>2.   Dans ce cadre, les organisations membres de la CPNE conviennent de la nécessité de mettre en œuvre un plan de développement de l'apprentissage et de la fonction tutorale dans les entreprises de la branche susvisée ; <br/><br/>3.   Elles décident de structurer l'ensemble des points de ce plan autour des missions suivantes : </p><p><br/>-   soutien financier aux centres de formation par l'apprentissage (CFA) santé animale ; <br/><br/>-   promotion de l'apprentissage et des métiers du secteur ; <br/><br/>-   animation dans les régions du réseau des CFA ; <br/><br/>-   accompagnement au tutorat ; <br/><br/>4.   Ainsi, au titre des articles L. 6332-1-1 et L. 6332-16 du code du travail, la CPNE demande à l'OPCA d'affecter jusqu'à 25 % des fonds destinés à financer des actions de professionnalisation visés aux articles L. 6332-2 et L. 6332-9 du code du travail à la participation financière aux dépenses de fonctionnement des CFA santé animale. </p><p><br/>CFA santé animale Aquitaine : 8, avenue de Verdun, 33200 Bordeaux-Caudéran. <br/><br/>CFA santé animale Ile-de-France : 10, place Léon-Blum, 75011 Paris. <br/><br/>CFA santé animale PACA : miniparc de l'Anjoly, bâtiment 1,6, voie d'Angleterre, BP 50034,13741 Vitrolles Cedex. <br/><br/>CFA santé animale Pays de la Loire : 87, rue de Kernevel, 44490 Le Croisic. <br/><br/>5.   La CPNE détermine chaque année, dans le cadre défini à l'alinéa 4 du présent accord, le montant effectif de l'enveloppe financière que l'OPCA affecte, au titre de l'alinéa susvisé, à la prise en charge des dépenses de fonctionnement des CFA santé animale. <br/><br/>6.   Dans le mois qui suit la réception de la contribution visée aux articles L. 6332-2 et L. 6332-9 du code du travail, le conseil de gestion de l'OPCA adresse à la CPNEFP vétérinaire un état des sommes qu'il a collectées au titre de la contribution visée aux articles L. 6332-2 et L. 6332-9 du code du travail, ainsi que le montant prévisionnel des prises en charge relatives aux contrats de professionnalisation, aux périodes de professionnalisation, au compte personnel de formation et aux dépenses relatives à la préparation et à l'exercice de la fonction tutorale et au fonctionnement de l'observatoire prospectif et analytique des métiers et des qualifications visées à l'article 1er du présent accord, en tenant compte des priorités et moyens définis par les accords de la branche vétérinaire. <br/><br/>7.   Au plus tard le 30 avril de chaque année, un bilan de l'activité se rapportant à l'année précédant celle au titre de laquelle l'affectation visée à l'article 9 intervient ainsi qu'un budget prévisionnel incluant l'ensemble des ressources susceptibles d'être affectées aux centres de formation d'apprentis sont dressés par chaque CFA santé animale et transmis à la CPNE vétérinaire. <br/><br/>Le bilan de l'activité de chaque CFA santé animale ainsi que le budget prévisionnel sont présentés pour avis, préalablement à sa transmission à la CPNE vétérinaire, au conseil paritaire de perfectionnement de chaque CFA santé animale. <br/><br/>8.   La CPNE vétérinaire est chargée d'actualiser la liste des CFA santé animale établie en application du présent article. <br/><br/>9.   La CPNE vétérinaire est chargée d'élaborer à l'intention de l'OPCA, au plus tard le 1er juin de chaque année, une recommandation lui indiquant les besoins en fonctionnement de chaque CFA santé animale ainsi que le montant affecté, au titre de la contribution visée aux articles L. 6332-2 et L. 6332-9 du code du travail, à chaque CFA santé animale. Elle détermine, à cette occasion, les priorités en matière de développement de l'apprentissage et, en particulier, les évolutions souhaitables des effectifs d'apprentis, pour tous les niveaux de formation. <br/><br/>L'affectation des fonds doit être réalisée, avant le 1er juillet de chaque année, par l'OPCA à chaque CFA santé animale. <br/><br/>Un bilan relatif aux conditions de mise en œuvre des dispositions du présent article est présenté chaque année à la CPNE vétérinaire. <br/><br/>La CPNE vétérinaire reçoit de chaque CFA santé animale un état de ses effectifs d'apprentis. <br/><br/>Les résultats du bilan sont pris en compte par la CPNE vétérinaire lors de l'établissement de la recommandation visée dans le présent article. </p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "KALITEXT000030316520",
-                        "textTitle": "Formation professionnelle - art. (VNE)",
-                        "linkType": "MODIFIE",
-                        "linkOrientation": "cible",
-                        "articleNum": "",
-                        "articleId": "KALIARTI000030316523",
-                        "natureText": "Avenant",
-                        "datePubliTexte": "2015-03-05",
-                        "dateSignaTexte": "2014-10-30",
-                        "dateDebutCible": "2014-12-14"
-                      },
-                      {
-                        "textCid": "JORFTEXT000030487628",
-                        "textTitle": "ARRÊTÉ du 9 avril 2015 - art. 1, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "1",
-                        "articleId": "JORFARTI000030487631",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2015-04-17",
-                        "dateSignaTexte": "2015-04-09",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005748994",
-                "intOrdre": 128847,
                 "title": "Développement de l'apprentissage et financement des CFA en santé animale",
                 "id": "KALISCTA000030321479",
                 "etat": "VIGUEUR_NON_ETEN"
@@ -3942,55 +3648,6 @@
                     "intOrdre": 42949,
                     "id": "KALIARTI000030321476",
                     "content": "<p>Développement de l'apprentissage et de la fonction tutorale </p><p><br/>1.   La commission paritaire nationale pour l'emploi et la formation professionnelle de la branche souhaite encourager le développement des formations professionnelles en direction des jeunes se préparant aux métiers et aux qualifications du secteur. De même, elle souhaite encourager le tutorat, qu'elle considère comme une fonction importante au sein des cabinets, cliniques et centres hospitaliers vétérinaires, pour organiser l'accueil, l'encadrement et accompagner la formation professionnelle d'un jeune ou d'un salarié dans l'entreprise ; <br/><br/>2.   Dans ce cadre, les organisations membres de la CPNE conviennent de la nécessité de mettre en œuvre un plan de développement de l'apprentissage et de la fonction tutorale dans les entreprises de la branche susvisée ; <br/><br/>3.   Elles décident de structurer l'ensemble des points de ce plan autour des missions suivantes : </p><p><br/>-   soutien financier aux centres de formation par l'apprentissage (CFA) santé animale ; <br/><br/>-   promotion de l'apprentissage et des métiers du secteur ; <br/><br/>-   animation dans les régions du réseau des CFA ; <br/><br/>-   accompagnement au tutorat ; <br/><br/>4.   Ainsi, au titre des articles L. 6332-1-1 et L. 6332-16 du code du travail, la CPNE demande à l'OPCA d'affecter jusqu'à 25 % des fonds destinés à financer des actions de professionnalisation visés aux articles L. 6332-2 et L. 6332-9 du code du travail à la participation financière aux dépenses de fonctionnement des CFA santé animale. </p><p><br/>CFA santé animale Aquitaine : 8, avenue de Verdun, 33200 Bordeaux-Caudéran. <br/><br/>CFA santé animale Ile-de-France : 10, place Léon-Blum, 75011 Paris. <br/><br/>CFA santé animale PACA : miniparc de l'Anjoly, bâtiment 1,6, voie d'Angleterre, BP 50034,13741 Vitrolles Cedex. <br/><br/>CFA santé animale Pays de la Loire : 87, rue de Kernevel, 44490 Le Croisic. <br/><br/>5.   La CPNE détermine chaque année, dans le cadre défini à l'alinéa 4 du présent accord, le montant effectif de l'enveloppe financière que l'OPCA affecte, au titre de l'alinéa susvisé, à la prise en charge des dépenses de fonctionnement des CFA santé animale. <br/><br/>6.   Dans le mois qui suit la réception de la contribution visée aux articles L. 6332-2 et L. 6332-9 du code du travail, le conseil de gestion de l'OPCA adresse à la CPNEFP vétérinaire un état des sommes qu'il a collectées au titre de la contribution visée aux articles L. 6332-2 et L. 6332-9 du code du travail, ainsi que le montant prévisionnel des prises en charge relatives aux contrats de professionnalisation, aux périodes de professionnalisation, au compte personnel de formation et aux dépenses relatives à la préparation et à l'exercice de la fonction tutorale et au fonctionnement de l'observatoire prospectif et analytique des métiers et des qualifications visées à l'article 1er du présent accord, en tenant compte des priorités et moyens définis par les accords de la branche vétérinaire. <br/><br/>7.   Au plus tard le 30 avril de chaque année, un bilan de l'activité se rapportant à l'année précédant celle au titre de laquelle l'affectation visée à l'article 9 intervient ainsi qu'un budget prévisionnel incluant l'ensemble des ressources susceptibles d'être affectées aux centres de formation d'apprentis sont dressés par chaque CFA santé animale et transmis à la CPNE vétérinaire. <br/><br/>Le bilan de l'activité de chaque CFA santé animale ainsi que le budget prévisionnel sont présentés pour avis, préalablement à sa transmission à la CPNE vétérinaire, au conseil paritaire de perfectionnement de chaque CFA santé animale. <br/><br/>8.   La CPNE vétérinaire est chargée d'actualiser la liste des CFA santé animale établie en application du présent article. <br/><br/>9.   La CPNE vétérinaire est chargée d'élaborer à l'intention de l'OPCA, au plus tard le 1er juin de chaque année, une recommandation lui indiquant les besoins en fonctionnement de chaque CFA santé animale ainsi que le montant affecté, au titre de la contribution visée aux articles L. 6332-2 et L. 6332-9 du code du travail, à chaque CFA santé animale. Elle détermine, à cette occasion, les priorités en matière de développement de l'apprentissage et, en particulier, les évolutions souhaitables des effectifs d'apprentis, pour tous les niveaux de formation. <br/><br/>L'affectation des fonds doit être réalisée, avant le 1er juillet de chaque année, par l'OPCA à chaque CFA santé animale. <br/><br/>Un bilan relatif aux conditions de mise en œuvre des dispositions du présent article est présenté chaque année à la CPNE vétérinaire. <br/><br/>La CPNE vétérinaire reçoit de chaque CFA santé animale un état de ses effectifs d'apprentis. <br/><br/>Les résultats du bilan sont pris en compte par la CPNE vétérinaire lors de l'établissement de la recommandation visée dans le présent article. </p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "KALITEXT000030316520",
-                        "textTitle": "Formation professionnelle - art. (VNE)",
-                        "linkType": "MODIFIE",
-                        "linkOrientation": "cible",
-                        "articleNum": "",
-                        "articleId": "KALIARTI000030316523",
-                        "natureText": "Avenant",
-                        "datePubliTexte": "2015-03-05",
-                        "dateSignaTexte": "2014-10-30",
-                        "dateDebutCible": "2014-12-14"
-                      },
-                      {
-                        "textCid": "JORFTEXT000030487628",
-                        "textTitle": "ARRÊTÉ du 9 avril 2015 - art. 1, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "1",
-                        "articleId": "JORFARTI000030487631",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2015-04-17",
-                        "dateSignaTexte": "2015-04-09",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005748995",
-                "intOrdre": 171796,
-                "title": "Durée",
-                "id": "KALISCTA000005748995",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005831899",
-                    "num": "70",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000030321471",
-                    "content": "<p>Les organisations membres de la CPNEFP vétérinaire rappellent aux entreprises de la branche professionnelle des vétérinaires d'exercice libéral que la profession dispose d'un organisme collecteur de la taxe d'apprentissage (OCTA), qui est le SNVEL. <br/><br/>A ce titre, elles invitent toutes les entreprises à faire converger leur contribution de taxe d'apprentissage vers cet OCTA, afin de soutenir les CFA santé animale préparant les jeunes aux métiers du secteur. <br/><br/>Au 1er janvier 2016, les organisations membres inviteront toutes les entreprises à faire converger leur contribution de taxe d'apprentissage vers l'OCTA Actalians. </p>",
                     "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
@@ -4076,55 +3733,6 @@
               "data": {
                 "cid": "KALISCTA000005748996",
                 "intOrdre": 214745,
-                "title": "Nature des formations",
-                "id": "KALISCTA000005748996",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005831900",
-                    "num": "71",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000030321466",
-                    "content": "<p>Droit au compte personnel de formation </p><p><br/>Conformément aux dispositions législatives en vigueur, un compte personnel de formation (CPF) est ouvert aux apprentis et aux salariés d'au moins 16 ans. L'alimentation du CPF se fait à hauteur de 24 heures par année de travail à temps complet jusqu'à l'acquisition d'un crédit de 120 heures, puis de 12 heures par année de travail à temps complet, dans la limite d'un plafond total de 150 heures. <br/><br/>Les heures de formation inscrites sur le CPF demeurent acquises en cas de changement de situation professionnelle ou de perte d'emploi de son titulaire, jusqu'à la fermeture du compte lorsque la personne est admise à faire valoir l'ensemble de ses droits à la retraite. </p><p><br/>Actions de formation éligibles </p><p><br/>Les actions de formation éligibles au compte personnel de formation, au titre de la liste élaborée par la CPNEFP conformément aux dispositions de l'article L. 6323-16 du code du travail, sont les formations sanctionnées par un certificat de qualification professionnelle ou par un titre enregistré au RNCP, ou permettant d'obtenir une partie identifiée de ces certifications. </p><p><br/>Mobilisation du CPF </p><p><br/>Les formations financées dans le cadre du compte personnel de formation ne sont pas soumises à l'accord de l'employeur lorsqu'elles sont suivies en dehors du temps de travail. <br/><br/>Lorsqu'elles sont suivies en tout ou partie pendant le temps de travail, le salarié doit demander l'accord préalable de l'employeur sur le contenu et le calendrier de la formation au minimum 60 jours avant le début de celle-ci en cas de durée inférieure à 6 mois et au minimum 120 jours dans les autres cas. <br/><br/>L'accord préalable de l'employeur sur le contenu de la formation n'est toutefois pas requis lorsque la formation est financée au titre des heures créditées sur le compte personnel de formation en application de l'article L. 6323-13 du code du travail ou lorsqu'elle vise les formations mentionnées aux I et III de l'article L. 6323-6 du code du travail. <br/><br/>A compter de la réception de la demande, l'employeur dispose d'un délai de 30 jours calendaires pour notifier sa réponse au salarié. L'absence de réponse de l'employeur dans ce délai vaut acceptation de la demande. </p><p><br/>Financement des actions de formation </p><p><br/>Les fonds collectés au titre du CPF sont affectés à la prise en charge des actions de formation éligibles, des coûts salariaux et des frais annexes de transport, de repas et d'hébergement, dans le cadre des dispositions législatives et réglementaires en vigueur. <br/><br/>Dans la limite du coût réel de formation, l'OPCA (Actalians) est habilité à appliquer une modulation des taux de prise en charge en fonction des priorités définies paritairement, des types d'actions considérées et des disponibilités financières. <br/><br/>En application de l'article R. 6323-2 du code du travail, le montant forfaitaire est fixé à 13 €. </p><p><br/>Abondement du compte personnel de formation </p><p><br/>Le dispositif des périodes de professionnalisation pourra compléter le compte personnel de formation lorsque la certification visée est un CQP reconnu par la convention collective nationale des vétérinaires praticiens salariés ou un titre enregistré au RNCP. </p><p><br/>Articulation du compte personnel de formation avec le congé individuel de formation </p><p><br/>Lorsque le salarié mobilise son compte personnel de formation à l'occasion d'un congé individuel de formation, le fonds paritaire de sécurisation des parcours professionnels prend en charge le financement des frais pédagogiques associés au congé individuel de formation, selon les modalités établies au 4° de l'article L. 6332-21 du code du travail. </p><p><br/>Dispositions transitoires : modalités d'utilisation du DIF dans le cadre du CPF </p><p><br/>Afin de permettre l'utilisation du droit individuel à la formation (DIF), les employeurs doivent informer par écrit, avant le 31 janvier 2015, chaque salarié du nombre total d'heures acquises et non utilisées au titre du droit individuel à la formation au 31 décembre 2014. <br/><br/>A partir du 1er janvier, le reliquat des heures DIF non utilisées au 31 décembre 2014 sera mobilisable selon les règles du dispositif CPF jusqu'au 1er janvier 2021. Lorsqu'une personne bénéficie d'une formation dans le cadre de son compte personnel de formation, les heures acquises et non utilisées au titre du DIF sont mobilisées en premier lieu et, le cas échéant, sont complétées par les heures inscrites sur le CPF, dans la limite du plafond total de 150 heures. La prise en charge de ces heures de formation est effectuée par les financements affectés au CPF.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "KALITEXT000030316520",
-                        "textTitle": "Formation professionnelle - art. (VNE)",
-                        "linkType": "MODIFIE",
-                        "linkOrientation": "cible",
-                        "articleNum": "",
-                        "articleId": "KALIARTI000030316523",
-                        "natureText": "Avenant",
-                        "datePubliTexte": "2015-03-05",
-                        "dateSignaTexte": "2014-10-30",
-                        "dateDebutCible": "2014-12-14"
-                      },
-                      {
-                        "textCid": "JORFTEXT000030487628",
-                        "textTitle": "ARRÊTÉ du 9 avril 2015 - art. 1, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "1",
-                        "articleId": "JORFARTI000030487631",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2015-04-17",
-                        "dateSignaTexte": "2015-04-09",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005748996",
-                "intOrdre": 214745,
                 "title": "Compte personnel de formation",
                 "id": "KALISCTA000030321469",
                 "etat": "VIGUEUR_NON_ETEN"
@@ -4138,55 +3746,6 @@
                     "intOrdre": 42949,
                     "id": "KALIARTI000030321466",
                     "content": "<p>Droit au compte personnel de formation </p><p><br/>Conformément aux dispositions législatives en vigueur, un compte personnel de formation (CPF) est ouvert aux apprentis et aux salariés d'au moins 16 ans. L'alimentation du CPF se fait à hauteur de 24 heures par année de travail à temps complet jusqu'à l'acquisition d'un crédit de 120 heures, puis de 12 heures par année de travail à temps complet, dans la limite d'un plafond total de 150 heures. <br/><br/>Les heures de formation inscrites sur le CPF demeurent acquises en cas de changement de situation professionnelle ou de perte d'emploi de son titulaire, jusqu'à la fermeture du compte lorsque la personne est admise à faire valoir l'ensemble de ses droits à la retraite. </p><p><br/>Actions de formation éligibles </p><p><br/>Les actions de formation éligibles au compte personnel de formation, au titre de la liste élaborée par la CPNEFP conformément aux dispositions de l'article L. 6323-16 du code du travail, sont les formations sanctionnées par un certificat de qualification professionnelle ou par un titre enregistré au RNCP, ou permettant d'obtenir une partie identifiée de ces certifications. </p><p><br/>Mobilisation du CPF </p><p><br/>Les formations financées dans le cadre du compte personnel de formation ne sont pas soumises à l'accord de l'employeur lorsqu'elles sont suivies en dehors du temps de travail. <br/><br/>Lorsqu'elles sont suivies en tout ou partie pendant le temps de travail, le salarié doit demander l'accord préalable de l'employeur sur le contenu et le calendrier de la formation au minimum 60 jours avant le début de celle-ci en cas de durée inférieure à 6 mois et au minimum 120 jours dans les autres cas. <br/><br/>L'accord préalable de l'employeur sur le contenu de la formation n'est toutefois pas requis lorsque la formation est financée au titre des heures créditées sur le compte personnel de formation en application de l'article L. 6323-13 du code du travail ou lorsqu'elle vise les formations mentionnées aux I et III de l'article L. 6323-6 du code du travail. <br/><br/>A compter de la réception de la demande, l'employeur dispose d'un délai de 30 jours calendaires pour notifier sa réponse au salarié. L'absence de réponse de l'employeur dans ce délai vaut acceptation de la demande. </p><p><br/>Financement des actions de formation </p><p><br/>Les fonds collectés au titre du CPF sont affectés à la prise en charge des actions de formation éligibles, des coûts salariaux et des frais annexes de transport, de repas et d'hébergement, dans le cadre des dispositions législatives et réglementaires en vigueur. <br/><br/>Dans la limite du coût réel de formation, l'OPCA (Actalians) est habilité à appliquer une modulation des taux de prise en charge en fonction des priorités définies paritairement, des types d'actions considérées et des disponibilités financières. <br/><br/>En application de l'article R. 6323-2 du code du travail, le montant forfaitaire est fixé à 13 €. </p><p><br/>Abondement du compte personnel de formation </p><p><br/>Le dispositif des périodes de professionnalisation pourra compléter le compte personnel de formation lorsque la certification visée est un CQP reconnu par la convention collective nationale des vétérinaires praticiens salariés ou un titre enregistré au RNCP. </p><p><br/>Articulation du compte personnel de formation avec le congé individuel de formation </p><p><br/>Lorsque le salarié mobilise son compte personnel de formation à l'occasion d'un congé individuel de formation, le fonds paritaire de sécurisation des parcours professionnels prend en charge le financement des frais pédagogiques associés au congé individuel de formation, selon les modalités établies au 4° de l'article L. 6332-21 du code du travail. </p><p><br/>Dispositions transitoires : modalités d'utilisation du DIF dans le cadre du CPF </p><p><br/>Afin de permettre l'utilisation du droit individuel à la formation (DIF), les employeurs doivent informer par écrit, avant le 31 janvier 2015, chaque salarié du nombre total d'heures acquises et non utilisées au titre du droit individuel à la formation au 31 décembre 2014. <br/><br/>A partir du 1er janvier, le reliquat des heures DIF non utilisées au 31 décembre 2014 sera mobilisable selon les règles du dispositif CPF jusqu'au 1er janvier 2021. Lorsqu'une personne bénéficie d'une formation dans le cadre de son compte personnel de formation, les heures acquises et non utilisées au titre du DIF sont mobilisées en premier lieu et, le cas échéant, sont complétées par les heures inscrites sur le CPF, dans la limite du plafond total de 150 heures. La prise en charge de ces heures de formation est effectuée par les financements affectés au CPF.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "KALITEXT000030316520",
-                        "textTitle": "Formation professionnelle - art. (VNE)",
-                        "linkType": "MODIFIE",
-                        "linkOrientation": "cible",
-                        "articleNum": "",
-                        "articleId": "KALIARTI000030316523",
-                        "natureText": "Avenant",
-                        "datePubliTexte": "2015-03-05",
-                        "dateSignaTexte": "2014-10-30",
-                        "dateDebutCible": "2014-12-14"
-                      },
-                      {
-                        "textCid": "JORFTEXT000030487628",
-                        "textTitle": "ARRÊTÉ du 9 avril 2015 - art. 1, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "1",
-                        "articleId": "JORFARTI000030487631",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2015-04-17",
-                        "dateSignaTexte": "2015-04-09",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005748997",
-                "intOrdre": 257694,
-                "title": "Allocation",
-                "id": "KALISCTA000005748997",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005831901",
-                    "num": "72",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000030321461",
-                    "content": "<p>A l'occasion de son embauche, le salarié est informé qu'il bénéficie tous les 2 ans d'un entretien professionnel avec son employeur consacré à ses perspectives d'évolution professionnelle, notamment en matière de qualifications et d'emploi. Cet entretien ne porte pas sur l'évaluation du travail du salarié. <br/><br/>Cet entretien professionnel, qui donne lieu à la rédaction d'un document dont une copie est remise au salarié, est proposé systématiquement au salarié qui reprend son activité à l'issue d'un congé de maternité, d'un congé parental d'éducation, d'un congé de soutien familial, d'un congé d'adoption, d'un congé sabbatique, d'une période de mobilité volontaire sécurisée mentionnée à l'article L. 1222-12, d'une période d'activité à temps partiel au sens de l'article L. 1225-47 du présent code, d'un arrêt longue maladie prévu à l'article L. 324-1 du code de la sécurité sociale ou à l'issue d'un mandat syndical. <br/><br/>Tous les 6 ans, l'entretien professionnel susmentionné fait un état des lieux récapitulatif du parcours professionnel du salarié. Cette durée s'apprécie par référence à l'ancienneté du salarié dans l'entreprise. <br/><br/>Cet état des lieux, qui donne lieu à la rédaction d'un document dont une copie est remise au salarié, permet de vérifier que le salarié a bénéficié au cours des 6 dernières années d'entretiens professionnels et d'apprécier s'il a : <br/><br/>1° Suivi au moins une action de formation ; <br/><br/>2° Acquis des éléments de certification par la formation ou par une validation des acquis de son expérience ; <br/><br/>  3° Bénéficié d'une progression salariale ou professionnelle.   <br/><br/>Dans les entreprises d'au moins 50 salariés, lorsque, au cours de ces 6 années, le salarié n'a pas bénéficié des entretiens prévus et d'au moins deux des trois mesures mentionnées aux 1° à 3°, son compte personnel est abondé dans les conditions définies à l'article L. 6323-13 du code du travail. <br/><br/>En cas de non-respect de ces dispositions, pour les entreprises comprenant plus de 50 salariés, sont prévus : <br/><br/>-   un abondement correctif du CPF de 100 (salariés à temps plein) ou 130 heures (salariés à temps partiel) ; <br/><br/>-   le versement à l'OPCA-PL d'un montant forfaitaire de 30 € par heure ; <br/><br/>-   le droit du salarié à suivre l'action CPF de son choix sur son temps de travail.</p>",
                     "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
@@ -4700,56 +4259,6 @@
               "data": {
                 "cid": "KALISCTA000005715798",
                 "intOrdre": 128847,
-                "title": "Relations avec l'organisme paritaire collecteur agréé des professions libérales (OPCA-PL)",
-                "id": "KALISCTA000005715798",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005831912",
-                    "num": "2",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000023584911",
-                    "content": "<p>Les priorités et orientations en matière de formation professionnelle ainsi que les études et recherches relatives aux qualifications sont adressées au conseil d'administration de l'OPCA, lequel s'efforcera d'en tenir compte dans l'établissement des règles de prise en charge des dépenses de formation. <br/><br/>La CPNE sera informée des actions menées par l'OPCA et inversement. <br/><br/>Plus particulièrement, celle-ci fera connaître à l'OPCA les besoins de la profession en matière de formation de professionnalisation au vu du bilan établi ci-dessus.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "surtitre": "Annexe III : Commission paritaire de l'emploi.",
-                    "lstLienModification": [
-                      {
-                        "textCid": "KALITEXT000023561991",
-                        "textTitle": "Commission paritaire de l'emploi - art. (VNE)",
-                        "linkType": "MODIFIE",
-                        "linkOrientation": "cible",
-                        "articleNum": "",
-                        "articleId": "KALIARTI000023561994",
-                        "natureText": "Avenant",
-                        "datePubliTexte": "2011-02-09",
-                        "dateSignaTexte": "2010-10-25",
-                        "dateDebutCible": "2010-10-25"
-                      },
-                      {
-                        "textCid": "JORFTEXT000025669948",
-                        "textTitle": "Arrêté du 2 avril 2012 - art. 32, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "32",
-                        "articleId": "JORFARTI000025670043",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2012-04-11",
-                        "dateSignaTexte": "2012-04-02",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005715798",
-                "intOrdre": 128847,
                 "title": "Relations avec l'organisme paritaire collecteur agréé",
                 "id": "KALISCTA000023584909",
                 "etat": "VIGUEUR_NON_ETEN"
@@ -5052,55 +4561,6 @@
               "data": {
                 "cid": "KALISCTA000005715804",
                 "intOrdre": 85898,
-                "title": "Champ d'application",
-                "id": "KALISCTA000005715804",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005831921",
-                    "num": "1er",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000032069885",
-                    "content": "<p align='center'>1.1. Champ d'application </p><p align='left'><br/>Le régime de prévoyance s'applique à l'ensemble des vétérinaires salariés relevant du champ d'application tel que défini à l'article 1er de la convention collective, et ce quelle que soit leur ancienneté. <br/><br/>Les activités concernées ressortissent du code NAF 75. 00Z. <br/><br/>Sont également concernés par le régime de prévoyance les élèves des écoles vétérinaires françaises titulaires d'un diplôme d'études fondamentales vétérinaires sanctionnant la formation reçue au cours du 2e cycle d'études vétérinaires et qui sont autorisés à exercer en qualité d'assistant au cours de leur dernière année d'études jusqu'au 31 décembre de l'année de fin d'études. </p><p align='center'><br/>1.2. Maintien des garanties en cas de suspension de contrat de travail </p><p align='left'><br/>Entraîne la suspension du droit à garanties et du financement correspondant la suspension du contrat de travail, notamment en cas de congés non rémunérés (congé sans solde, congé sabbatique, congé parental d'éducation, congé pour création d'entreprise ...). <br/><br/>Le bénéfice du régime de prévoyance est maintenu, moyennant paiement des cotisations, au profit du salarié dont le contrat de travail est suspendu pour congé ou absence, dès lors que pendant toute cette période il bénéficie d'un maintien total ou partiel de salaire de l'employeur ou en cas d'arrêt de travail pour maladie ou accident, tant que l'intéressé perçoit des prestations en espèces de la sécurité sociale (indemnités journalières, rentes d'invalidité ou d'incapacité permanente de travail). <br/><br/>Toutefois, dès lors que le salarié bénéficie d'indemnités journalières ou de rentes d'invalidité complémentaires versées en application du présent régime de prévoyance, les garanties sont maintenues sans contrepartie des cotisations. Cependant, lorsque le salarié perçoit un salaire réduit pendant cette période d'indemnisation complémentaire, les cotisations restent dues sur la base du salaire réduit. L'exonération de cotisation cesse dès le premier jour de reprise du travail par le salarié ou dès la cessation ou la suspension du versement des prestations par l'organisme assureur désigné. <br/><br/>Indépendamment de toute application d'un dispositif de portabilité, le droit à garantie cesse en cas de rupture du contrat de travail (sauf si le salarié bénéficie à cette date du versement de prestations complémentaires de prévoyance de l'assureur au titre du présent régime : dans ce cas, le droit à garanties est assuré jusqu'au terme du versement des prestations). </p><p align='center'><br/>1.3. Portabilité des droits </p><p align='left'><br/>Le présent article définit les modalités d'application du dispositif de portabilité prévu par l'article L. 911-8 du code de la sécurité sociale. En cas de cessation du dernier contrat de travail non consécutive à une faute lourde et ouvrant droit à indemnisation du régime obligatoire d'assurance chômage, le salarié bénéficie du maintien des garanties prévoyance dans les conditions ci-après. <br/><br/>Le présent dispositif de portabilité s'applique aux cessations de contrat de travail, telles que définies précédemment, qui interviennent à compter du 1er juin 2015. <br/><br/>En cas de modification ou de révision des garanties des salariés en activité, les garanties des assurés bénéficiant du dispositif de portabilité seront modifiées ou révisées dans les mêmes conditions. <br/><br/>Le maintien des garanties prend effet à compter de la date de cessation du contrat de travail. <br/><br/>Le maintien de garanties s'applique pour une durée maximale égale à la durée du dernier contrat de travail du salarié dans l'entreprise ou, le cas échéant, des derniers contrats de travail lorsqu'ils sont consécutifs chez le même employeur. Cette durée est appréciée en mois, le cas échéant, arrondis au nombre supérieur, dans la limite de 12 mois. <br/><br/>L'employeur signale le maintien de ces garanties dans le certificat de travail et informe l'organisme assureur de la cessation du contrat de travail. <br/><br/>L'ancien salarié justifie auprès de son organisme assureur, à l'ouverture et au cours de la période de maintien des garanties, des conditions prévues dans le présent article et conformément aux dispositions légales et réglementaires. <br/><br/>En tout état de cause, le maintien des garanties cesse : <br/><br/>- dès qu'il ne peut plus justifier auprès de l'organisme assureur de son indemnisation par le régime obligatoire d'assurance chômage ; <br/><br/>- dès qu'il ne peut plus justifier auprès de l'employeur de son statut de demandeur d'emploi ; <br/><br/>- en cas de décès. <br/><br/>La suspension des allocations du régime obligatoire d'assurance chômage, pour cause de maladie ou pour tout autre motif, n'a pas d'incidence sur le calcul de la durée du maintien des garanties, qui ne sera pas prolongée d'autant. <br/><br/>Le maintien des garanties ne peut conduire l'ancien salarié à percevoir des indemnités d'un montant supérieur à celui des allocations chômage qu'il aurait perçues au titre de la même période. <br/><br/>Le maintien des garanties est financé par les cotisations des entreprises et des salariés en activité (part patronale et part salariale) définies à l'article 10 de la présente annexe. <br/><br/>Le bénéfice du maintien de ces garanties est subordonné à la condition que les droits à couverture complémentaire aient été ouverts chez le dernier employeur. </p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000034640742",
-                        "textTitle": "Arrêté du 28 avril 2017 - art. 1, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "1",
-                        "articleId": "JORFARTI000034640745",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2017-05-10",
-                        "dateSignaTexte": "2017-04-28",
-                        "dateDebutCible": "2999-01-01"
-                      },
-                      {
-                        "textCid": "KALITEXT000032003606",
-                        "textTitle": "Annexe IV « Prévoyance » - art. 1er (VNE)",
-                        "linkType": "MODIFIE",
-                        "linkOrientation": "cible",
-                        "articleNum": "1er",
-                        "articleId": "KALIARTI000032003610",
-                        "natureText": "Avenant",
-                        "datePubliTexte": "2999-01-01",
-                        "dateSignaTexte": "2015-11-10",
-                        "dateDebutCible": "2015-10-01"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005715804",
-                "intOrdre": 85898,
                 "title": "Maintien des garanties en cas de suspension de contrat de travail - Portabilité des droits",
                 "id": "KALISCTA000032069883",
                 "etat": "VIGUEUR_ETEN"
@@ -5200,55 +4660,6 @@
                     "intOrdre": 42949,
                     "id": "KALIARTI000032069879",
                     "content": "<p>Il est versé aux vétérinaires salariés, sous réserve qu'ils bénéficient des indemnités journalières de la sécurité sociale au titre des législations maladie, accident du travail ou maladie professionnelle, une indemnité complémentaire définie ci-dessous. <br/><br/>Cette indemnisation débutera à compter du 4e jour d'arrêt de travail continu, si celui-ci est consécutif à une maladie ou à un accident de la vie privée, y compris en cas d'accident de trajet, et à compter du 1er jour en cas d'arrêt de travail consécutif à un accident du travail ou à une maladie professionnelle. <br/><br/>Le montant des indemnités journalières complémentaires sera égal à 90 % du salaire de référence (rétabli sur une base journalière). <br/><br/>Les indemnités journalières complémentaires sont calculées sous déduction des indemnités journalières brutes de la sécurité sociale, des autres ressources que le salarié perçoit (notamment salaire à temps partiel, allocation Pôle emploi). <br/><br/>Le cumul des indemnités perçues au titre du régime général de la sécurité sociale et du régime de prévoyance ainsi que tout revenu de remplacement ou éventuel salaire à temps partiel ne pourra conduire l'intéressé à percevoir une rémunération nette supérieure à celle qu'il aurait perçue s'il avait poursuivi son activité. <br/><br/>Le service des indemnités journalières complémentaires est maintenu tant qu'il y a versement des indemnités journalières de la sécurité sociale sans pouvoir dépasser le 1   095e jour d'arrêt de travail et cesse dès la survenance de l'un des événements suivants : liquidation de la pension vieillesse de la sécurité sociale du salarié ou décès du salarié. </p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000005831923_1'></a>(1) Article étendu sous réserve de l'application des dispositions des articles L. 1226-1 et D. 1226-1 et suivants du code du travail.<br/>  <br/>(Arrêté du 28 avril 2017 - art. 1)</em></font></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000034640742",
-                        "textTitle": "Arrêté du 28 avril 2017 - art. 1, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "1",
-                        "articleId": "JORFARTI000034640745",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2017-05-10",
-                        "dateSignaTexte": "2017-04-28",
-                        "dateDebutCible": "2999-01-01"
-                      },
-                      {
-                        "textCid": "KALITEXT000032003606",
-                        "textTitle": "Annexe IV « Prévoyance » - art. 1er (VNE)",
-                        "linkType": "MODIFIE",
-                        "linkOrientation": "cible",
-                        "articleNum": "1er",
-                        "articleId": "KALIARTI000032003610",
-                        "natureText": "Avenant",
-                        "datePubliTexte": "2999-01-01",
-                        "dateSignaTexte": "2015-11-10",
-                        "dateDebutCible": "2015-10-01"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005715807",
-                "intOrdre": 214745,
-                "title": "Incapacité permanente professionnelle",
-                "id": "KALISCTA000005715807",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005831924",
-                    "num": "2.2",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000032069876",
-                    "content": "<p>Pendant la totalité de la durée légale du congé de maternité prévu par l'article L. 1225-17 du code du travail, il est versé aux vétérinaires salariées, sous réserve qu'elles bénéficient des indemnités journalières de la sécurité sociale au titre des législations maladie, accident du travail ou maladie professionnelle, une indemnité complémentaire définie ci-dessous. <br/><br/>Le montant des indemnités journalières complémentaires sera égal à 80 % du salaire de référence (rétabli sur une base journalière). <br/><br/>Les indemnités journalières complémentaires sont calculées sous déduction des indemnités journalières brutes de la sécurité sociale, des autres ressources que la salariée perçoit (notamment salaire à temps partiel, allocation Pôle emploi). </p>",
                     "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
