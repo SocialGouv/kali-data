@@ -5,9 +5,11 @@
 // convert to syntax-tree format : flatten articles|sections in children
 const astify = (node, depth = 0) => ({
   children: [
-    ...((node.sections && node.sections.map(node => astify(node, depth + 1))) || []),
+    ...((node.sections &&
+      node.sections.filter(latestVersionFilter).map(node => astify(node, depth + 1))) ||
+      []),
     ...((node.articles &&
-      node.articles.filter(latestArticleVersionFilter).map(article => ({
+      node.articles.filter(latestVersionFilter).map(article => ({
         data: article,
         type: "article",
       }))) ||
@@ -35,14 +37,18 @@ const astify = (node, depth = 0) => ({
   type: depth === 0 ? "convention collective" : "section",
 });
 
-const numify = id => parseInt(id.replace(/^KALIARTI/, ""));
+const numify = id => parseInt(id.replace(/^KALI(ARTI|SCTA|TEXT)/, ""));
 
 export const isValidSection = node => !node.etat || node.etat.startsWith("VIGUEUR");
 
 // the API returns all the version of a given article. we pick the latest one
-export const latestArticleVersionFilter = (currentArticle, _, articles) => {
+export const latestVersionFilter = (currentArticle, _, articles) => {
   // dont filter out articles without cid
   if (!currentArticle.cid) {
+    return true;
+  }
+  // skip Texte de base
+  if (currentArticle.intOrdre === 0) {
     return true;
   }
   const maxVersion = Math.max(
