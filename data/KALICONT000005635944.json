@@ -14745,7 +14745,7 @@
             "cid": "KALITEXT000038550642",
             "title": "Accord du 12 décembre 2018 relatif au droit syndical dans l'entreprise",
             "id": "KALITEXT000038550642",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2018-12-12"
           },
           "children": [
@@ -14756,7 +14756,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000038550645",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -14765,9 +14765,22 @@
                     "cid": "KALIARTI000038550665",
                     "intOrdre": 524287,
                     "id": "KALIARTI000038550665",
-                    "content": "<p align='left'>Le présent accord s'inscrit dans le cadre de l'<a href='/affichTexte.do?cidTexte=JORFTEXT000035607311&categorieLien=cid' title='Ordonnance n°2017-1385 du 22 septembre 2017 (V)'>ordonnance n° 2017-1385 du 22 septembre 2017</a> relative au renforcement de la négociation collective, ratifiée par la <a href='/affichTexte.do?cidTexte=JORFTEXT000036755446&categorieLien=cid' title='LOI n°2018-217 du 29 mars 2018 (V)'>loi n° 2018-217 du 29 mars 2018</a>.</p><p align='left'>Les partenaires sociaux de la branche des industries céramiques de France considèrent que la négociation et le paritarisme sont des principes fondamentaux pour la construction d'un socle social conventionnel.</p><p align='left'>Cet accord doit permettre de renforcer le dialogue social dans les entreprises et en particulier dans les TPE et PME.</p><p align='left'>L'articulation de la négociation entre la branche et les entreprises doit être renforcée. C'est dans cette disposition que les organisations syndicales de salariés représentatives et l'organisation professionnelle représentative au sein de la branche des industries céramiques de France ont souhaité renforcer le droit syndical dans la branche et dans les entreprises.</p><p align='left'>Il traduit également la volonté partagée des partenaires sociaux de développer l'employabilité des délégués syndicaux et de favoriser l'articulation entre le parcours de représentant du personnel et le parcours professionnel en écartant toute forme de discrimination.</p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "content": "<p align='left'>Le présent accord s'inscrit dans le cadre de l'<a href='/affichTexte.do?cidTexte=JORFTEXT000035607311&categorieLien=cid'>ordonnance n° 2017-1385 du 22 septembre 2017</a> relative au renforcement de la négociation collective, ratifiée par la <a href='/affichTexte.do?cidTexte=JORFTEXT000036755446&categorieLien=cid'>loi n° 2018-217 du 29 mars 2018</a>.</p><p align='left'>Les partenaires sociaux de la branche des industries céramiques de France considèrent que la négociation et le paritarisme sont des principes fondamentaux pour la construction d'un socle social conventionnel.</p><p align='left'>Cet accord doit permettre de renforcer le dialogue social dans les entreprises et en particulier dans les TPE et PME.</p><p align='left'>L'articulation de la négociation entre la branche et les entreprises doit être renforcée. C'est dans cette disposition que les organisations syndicales de salariés représentatives et l'organisation professionnelle représentative au sein de la branche des industries céramiques de France ont souhaité renforcer le droit syndical dans la branche et dans les entreprises.</p><p align='left'>Il traduit également la volonté partagée des partenaires sociaux de développer l'employabilité des délégués syndicaux et de favoriser l'articulation entre le parcours de représentant du personnel et le parcours professionnel en écartant toute forme de discrimination.</p><p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000042357834",
+                        "textTitle": "Arrêté du 18 septembre 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000042357837",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2020-09-24",
+                        "dateSignaTexte": "2020-09-18",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -14780,9 +14793,22 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000038550646",
                 "content": "<p align='left'><br/>Le présent accord s'applique à l'ensemble des entreprises, des établissements et des salariés relevant de la convention collective des industries des céramiques de France (CCN n° 1558).</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Champ d'application",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042357834",
+                    "textTitle": "Arrêté du 18 septembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042357837",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-09-24",
+                    "dateSignaTexte": "2020-09-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14792,10 +14818,23 @@
                 "num": "2",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000038550647",
-                "content": "<p align='left'>Il est interdit de prendre en considération l'appartenance à un syndicat ou l'exercice d'une activité syndicale pour arrêter ses décisions en matière notamment de recrutement, de conduite et de répartition du travail, de formation professionnelle, d'avancement, de rémunération et d'octroi d'avantages sociaux, de mesures de discipline et de rupture du contrat de travail. </p><p align='left'>Les parties contractantes conviennent que le présent article ne remet pas en cause les stipulations de l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000005660660&idArticle=KALIARTI000005804617&categorieLien=cid' title='Convention collective nationale du 6 juillet 1989 - art. G 14 (VE)'>article G 14 de la convention</a> collective des industries des céramiques de France dans sa rédaction au jour de l'accord. </p><p align='left'>Les absences du salarié pour l'exercice de ses mandats ne doivent avoir aucune incidence lors de son entretien professionnel.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Il est interdit de prendre en considération l'appartenance à un syndicat ou l'exercice d'une activité syndicale pour arrêter ses décisions en matière notamment de recrutement, de conduite et de répartition du travail, de formation professionnelle, d'avancement, de rémunération et d'octroi d'avantages sociaux, de mesures de discipline et de rupture du contrat de travail. </p><p align='left'>Les parties contractantes conviennent que le présent article ne remet pas en cause les stipulations de l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000005660660&idArticle=KALIARTI000005804617&categorieLien=cid'>article G 14 de la convention</a> collective des industries des céramiques de France dans sa rédaction au jour de l'accord. </p><p align='left'>Les absences du salarié pour l'exercice de ses mandats ne doivent avoir aucune incidence lors de son entretien professionnel.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Principe de non-discrimination",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042357834",
+                    "textTitle": "Arrêté du 18 septembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042357837",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-09-24",
+                    "dateSignaTexte": "2020-09-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14806,9 +14845,22 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000038550648",
                 "content": "<p align='left'>Le nombre des délégués syndicaux dont dispose chaque section syndicale dépend de l'effectif de l'entreprise.</p><p align='left'>Le nombre des délégués syndicaux est fixé comme suit :<br/>\n– de 50 à 499 salariés : 1 délégué syndical ;<br/>\n– de 500 à 999 : 2 délégués syndicaux ;<br/>\n– de 1 000 à 1 999 : 3 délégués syndicaux ;<br/>\n– de 2 000 à 3 999 : 4 délégués syndicaux ;<br/>\n– de 4 000 à 9 999 : 5 délégués syndicaux ;<br/>\n– au-delà de 9 999 : 6 délégués syndicaux.</p><p align='left'>Les effectifs précités doivent être atteints pendant 12 mois consécutifs.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Le nombre de délégués syndicaux",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042357834",
+                    "textTitle": "Arrêté du 18 septembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042357837",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-09-24",
+                    "dateSignaTexte": "2020-09-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14819,9 +14871,22 @@
                 "intOrdre": 2621435,
                 "id": "KALIARTI000038550649",
                 "content": "<p align='left'>Chaque délégué syndical dispose, en fonction de la taille de l'entreprise, d'un temps nécessaire à l'exercice de ses fonctions.</p><p align='left'>Ce temps est considéré comme du temps de travail effectif et payé à échéance normale.</p><p align='left'>Le crédit d'heures du délégué syndical est égal par mois à :<br/>\n– 4 heures pour un effectif de 11 à 49 salariés ;<br/>\n– 12 heures pour un effectif de 50 à 150 salariés ;<br/>\n– 18 heures pour un effectif de 151 à 300 salariés ;<br/>\n– 20 heures pour un effectif de 301 à 499 salariés ;<br/>\n– 24 heures pour un effectif d'au-delà de 500 salariés.</p><p align='left'>Chaque section syndicale bénéficie aussi, pour son ou ses délégués syndicaux et les salariés de l'entreprise appelés à négocier une convention ou un accord d'entreprise, d'un crédit d'heures global supplémentaire, en vue de la préparation de cette négociation, dans la limite d'une durée qui ne peut excéder :</p><p align='left'>1. 2 heures par an dans les entreprises de 11 à 49 salariés ;</p><p align='left'>2. 3 heures par an dans les entreprises de 50 à 249 salariés ;</p><p align='left'>3. 4 heures par an dans les entreprises de 250 à 499 salariés.</p><p align='left'>Il convient aux membres de la délégation syndicale de déterminer comment ils entendent se répartir ce crédit d'heures.</p><p align='left'>Dans les entreprises multisites, si une négociation nécessite un déplacement de l'un des membres de la délégation syndicale sur un site de l'entreprise différent de son lieu de travail habituel, les frais de transport, de repas et éventuellement d'hébergement sont à la charge de l'employeur selon les modalités applicables dans l'entreprise.</p><p align='left'>La réunion de négociation doit être fixée dans les horaires de travail appliqués majoritairement dans l'entreprise.</p><p align='left'>Si un des membres de la délégation a une organisation du travail différente, horaire de nuit, du dimanche ou jours fériés, un aménagement doit être mis en place par l'employeur afin de permettre à ce salarié de se rendre en réunion (exemple passage en horaire journalier pour la date de la réunion) sans incidence sur sa rémunération.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Heures de délégation",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042357834",
+                    "textTitle": "Arrêté du 18 septembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042357837",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-09-24",
+                    "dateSignaTexte": "2020-09-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14832,9 +14897,22 @@
                 "intOrdre": 3145722,
                 "id": "KALIARTI000038550650",
                 "content": "<p align='left'>Les délégués syndicaux peuvent organiser des réunions d'information aux salariés pendant le temps de travail selon les modalités définies ci-dessous.</p><p align='left'>La faculté d'organiser une réunion d'information est strictement limitée à une information des salariés après la conclusion et signature d'un accord d'entreprise.</p><p align='left'>L'information des salariés s'effectue lors de réunions organisées, de façon commune, par toutes les sections syndicales et peut se dérouler, semestriellement, suivant les modalités suivantes :<br/>\n– une unique réunion semestrielle de 2 heures maximum ;<br/>\n– une réunion par trimestre de 1 heure maximum chacune.</p><p align='left'>Les heures de réunion qui n'auraient pas été utilisées ne peuvent faire l'objet d'un report.</p><p align='left'>Cette information peut se faire au niveau de l'entreprise, de l'établissement ou du site.</p><p align='left'>Un même accord d'entreprise ne peut donner lieu qu'à une seule réunion d'information par niveau.</p><p align='left'>La date des réunions trimestrielles ou semestrielles est décidée en concertation par les délégués syndicaux. Elle doit être validée par les délégués syndicaux représentant des syndicats représentatifs ayant recueilli plus de 50 % des suffrages exprimés en faveur d'organisations représentatives au premier tour des dernières élections professionnelles, à défaut la réunion d'information ne peut pas se tenir.</p><p align='left'>L'employeur est informé au minimum de cette date 15 jours calendaires avant la réunion par tout moyen conférant date certaine.</p><p align='left'>Ce temps passé en réunion d'information est considéré comme du temps de travail effectif et payé à échéance normale à la stricte condition qu'il soit effectivement pris sur le temps de travail de chacun. En cas de dépassement de l'horaire de travail du salarié, le temps passé en réunion d'information n'est pas rémunéré.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Information des salariés",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042357834",
+                    "textTitle": "Arrêté du 18 septembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042357837",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-09-24",
+                    "dateSignaTexte": "2020-09-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14845,9 +14923,22 @@
                 "intOrdre": 3670009,
                 "id": "KALIARTI000038550651",
                 "content": "<p align='left'>Dans les entreprises d'au moins 11 salariés, l'employeur accompagne les salariés représentants syndicaux et représentants du personnel tout au long de leur parcours professionnel.</p><p align='left'>Cet article détermine les mesures à mettre en œuvre pour concilier la vie personnelle, la vie professionnelle et les fonctions syndicales et électives, en veillant à favoriser l'égal accès des femmes et des hommes.</p><p align='left'>Les salariés concernés peuvent bénéficier de formations de certification en application de deux arrêtés publiés le 26 juin 2018 créant la certification relative aux compétences acquises dans l'exercice d'un mandat de représentant du personnel, ou d'un mandat syndical, en application de la loi Rebsamen, conformément à l'article 5 de la loi du 17 août 2015.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Valorisation des parcours des représentants syndicaux et des représentants du personnel",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042357834",
+                    "textTitle": "Arrêté du 18 septembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042357837",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-09-24",
+                    "dateSignaTexte": "2020-09-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14857,10 +14948,23 @@
                 "num": "6.1",
                 "intOrdre": 4194296,
                 "id": "KALIARTI000038550652",
-                "content": "<p align='left'>Lors de la prise d'un mandat électif ou désignatif, le représentant du personnel, le délégué syndical ou le titulaire d'un mandat syndical bénéficie, à sa demande, d'un entretien individuel spécifique, formalisé par écrit.</p><p align='left'>L'entretien est réalisé dès que possible et au plus tard dans les 3 mois suivant la prise de mandat.</p><p align='left'>L'entretien est réalisé par le responsable hiérarchique avec la possibilité d'un participant tiers appartenant au personnel de l'entreprise pour chaque partie à l'entretien. Cet entretien ne se substitue pas à l'entretien professionnel mentionné à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000021340649&dateTexte=&categorieLien=cid' title='Code du travail - art. L6315-1 (M)'>article L. 6315-1 du code du travail</a>.</p><p align='left'>Cet entretien porte sur les modalités pratiques d'exercice de son mandat au sein de l'entreprise ou de la branche au regard de son emploi. Il a pour objectif essentiel de mettre en œuvre l'articulation entre activité professionnelle et fonctions syndicales et électives.</p><p align='left'>Cet entretien doit impérativement porter sur l'aménagement et sur l'organisation du temps de travail du fait du mandat. Dans la mesure du possible, l'organisation du travail mise en place doit permettre à l'intéressé d'exercer son ou ses mandats pendant le temps de travail.</p><p align='left'>Lors de cet entretien, le porteur de mandat peut faire valoir ses souhaits en matière de formation liée à son activité de représentation du personnel, tout en bénéficiant a minima des formations de début de mandature prévues par les textes en vigueur.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Lors de la prise d'un mandat électif ou désignatif, le représentant du personnel, le délégué syndical ou le titulaire d'un mandat syndical bénéficie, à sa demande, d'un entretien individuel spécifique, formalisé par écrit.</p><p align='left'>L'entretien est réalisé dès que possible et au plus tard dans les 3 mois suivant la prise de mandat.</p><p align='left'>L'entretien est réalisé par le responsable hiérarchique avec la possibilité d'un participant tiers appartenant au personnel de l'entreprise pour chaque partie à l'entretien. Cet entretien ne se substitue pas à l'entretien professionnel mentionné à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000021340649&dateTexte=&categorieLien=cid'>article L. 6315-1 du code du travail</a>.</p><p align='left'>Cet entretien porte sur les modalités pratiques d'exercice de son mandat au sein de l'entreprise ou de la branche au regard de son emploi. Il a pour objectif essentiel de mettre en œuvre l'articulation entre activité professionnelle et fonctions syndicales et électives.</p><p align='left'>Cet entretien doit impérativement porter sur l'aménagement et sur l'organisation du temps de travail du fait du mandat. Dans la mesure du possible, l'organisation du travail mise en place doit permettre à l'intéressé d'exercer son ou ses mandats pendant le temps de travail.</p><p align='left'>Lors de cet entretien, le porteur de mandat peut faire valoir ses souhaits en matière de formation liée à son activité de représentation du personnel, tout en bénéficiant a minima des formations de début de mandature prévues par les textes en vigueur.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Entretien de prise de mandats",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042357834",
+                    "textTitle": "Arrêté du 18 septembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042357837",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-09-24",
+                    "dateSignaTexte": "2020-09-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14870,10 +14974,23 @@
                 "num": "6.2",
                 "intOrdre": 4718583,
                 "id": "KALIARTI000038550654",
-                "content": "<p align='left'>Dans les mêmes conditions, le représentant du personnel qui verrait son/ses mandat(s) prendre fin bénéficie d'un entretien spécifique. Le représentant du personnel ne souhaitant pas renouveler son mandat pourra demander à bénéficier de cet entretien avant même l'expiration du mandat.</p><p align='left'>Cet entretien permet d'organiser au mieux le retour du salarié à temps complet au sein de son service.</p><p align='left'>Il a pour objet de procéder au recensement des compétences acquises au cours du mandat ainsi que des formations suivies et de préciser les modalités de valorisation de l'expérience acquise.</p><p align='left'>L'employeur assure les formations d'adaptation des porteurs de mandat(s) à leur poste de travail.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Dans les mêmes conditions, le représentant du personnel qui verrait son/ses mandat(s) prendre fin bénéficie d'un entretien spécifique. Le représentant du personnel ne souhaitant pas renouveler son mandat pourra demander à bénéficier de cet entretien avant même l'expiration du mandat.</p><p align='left'>Cet entretien permet d'organiser au mieux le retour du salarié à temps complet au sein de son service.</p><p align='left'>Il a pour objet de procéder au recensement des compétences acquises au cours du mandat ainsi que des formations suivies et de préciser les modalités de valorisation de l'expérience acquise.</p><p align='left'>L'employeur assure les formations d'adaptation des porteurs de mandat(s) à leur poste de travail.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000038550654_1'></a>(1) Article étendu sous réserve de l'application du dernier alinéa de l'article L. 2141-5 du code du travail.  <br/>(Arrêté du 18 septembre 2020 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Entretien de fin de mandats",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042357834",
+                    "textTitle": "Arrêté du 18 septembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042357837",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-09-24",
+                    "dateSignaTexte": "2020-09-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14883,10 +15000,23 @@
                 "num": "7",
                 "intOrdre": 5242870,
                 "id": "KALIARTI000038550655",
-                "content": "<p align='left'>En application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000019351162&dateTexte=&categorieLien=cid' title='Code du travail - art. L2135-8 (V)'>article L. 2135-8 du code du travail</a>, un salarié peut être mis à disposition d'une organisation syndicale ou d'une association d'employeurs.<br/>\nLa mise à disposition du salarié au profit d'une organisation syndicale ou d'une association d'employeurs doit faire l'objet d'une convention tripartite conclue entre le salarié, l'employeur et l'organisation syndicale.</p><p align='left'>Les fédérations syndicales habilitées à signer les conventions tripartites sont les fédérations représentant les organisations syndicales reconnues représentatives dans la convention collective nationale relative aux conditions de travail du personnel des industries céramiques de France par arrêté en cours de validité.</p><p align='left'>Cette mise à disposition peut être conclue pour un temps partiel pour une durée ne pouvant être inférieure à 1 jour par mois ou à un temps plein.</p><p align='left'>La demande de cette mise à disposition doit émaner de l'organisation syndicale ou de l'association d'employeurs avec l'accord exprès par écrit du salarié.</p><p align='left'>La convention tripartite précise :<br/>\n– les modalités d'organisation du travail ;<br/>\n– le maintien du salaire ainsi que des avantages divers par l'employeur ;<br/>\n– les modalités de prise en charge et de financement des salaires entre l'employeur et l'organisation syndicale ou association d'employeurs ;<br/>\n– les obligations des parties ;<br/>\n– le terme de la convention.</p><p align='left'>Pendant cette mise à disposition, les obligations de l'employeur à l'égard du salarié sont maintenues.</p><p align='left'>L'entreprise garantit au salarié mis à disposition l'évolution de carrière dont il aurait bénéficié s'il avait continué à travailler dans l'entreprise d'origine.</p><p align='left'>La mise à disposition sera suspendue temporairement pour permettre à l'employeur de respecter l'obligation de formation et d'adaptation définies à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904143&dateTexte=&categorieLien=cid' title='Code du travail - art. L6321-1 (M)'>article L. 6321-1 du code du travail</a>. Cette suspension se déduit de la facturation.</p><p align='left'>Au plus tard 3 mois avant l'expiration de sa mise à disposition, le salarié en accord avec les parties décide soit de renouveler sa convention, soit de réintégrer son entreprise d'origine.</p><p align='left'>En cas de retour dans son entreprise d'origine, le salarié retrouve son précédent emploi ou un emploi similaire assorti d'une rémunération au moins équivalente.</p><p align='left'>Par ailleurs, l'employeur devra organiser, au retour du salarié, un entretien visant à faire le point sur :<br/>\n– le poste de travail retrouvé ;<br/>\n– les conditions de travail ;<br/>\n– les souhaits d'évolution ou de réorientation professionnelle ;<br/>\n– les besoins de formation, et le cas échéant de mise à niveau.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>En application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000019351162&dateTexte=&categorieLien=cid'>article L. 2135-8 du code du travail</a>, un salarié peut être mis à disposition d'une organisation syndicale ou d'une association d'employeurs.<br/>\nLa mise à disposition du salarié au profit d'une organisation syndicale ou d'une association d'employeurs doit faire l'objet d'une convention tripartite conclue entre le salarié, l'employeur et l'organisation syndicale.</p><p align='left'>Les fédérations syndicales habilitées à signer les conventions tripartites sont les fédérations représentant les organisations syndicales reconnues représentatives dans la convention collective nationale relative aux conditions de travail du personnel des industries céramiques de France par arrêté en cours de validité.</p><p align='left'>Cette mise à disposition peut être conclue pour un temps partiel pour une durée ne pouvant être inférieure à 1 jour par mois ou à un temps plein.</p><p align='left'>La demande de cette mise à disposition doit émaner de l'organisation syndicale ou de l'association d'employeurs avec l'accord exprès par écrit du salarié.</p><p align='left'>La convention tripartite précise :<br/>\n– les modalités d'organisation du travail ;<br/>\n– le maintien du salaire ainsi que des avantages divers par l'employeur ;<br/>\n– les modalités de prise en charge et de financement des salaires entre l'employeur et l'organisation syndicale ou association d'employeurs ;<br/>\n– les obligations des parties ;<br/>\n– le terme de la convention.</p><p align='left'>Pendant cette mise à disposition, les obligations de l'employeur à l'égard du salarié sont maintenues.</p><p align='left'>L'entreprise garantit au salarié mis à disposition l'évolution de carrière dont il aurait bénéficié s'il avait continué à travailler dans l'entreprise d'origine.</p><p align='left'>La mise à disposition sera suspendue temporairement pour permettre à l'employeur de respecter l'obligation de formation et d'adaptation définies à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904143&dateTexte=&categorieLien=cid'>article L. 6321-1 du code du travail</a>. Cette suspension se déduit de la facturation.</p><p align='left'>Au plus tard 3 mois avant l'expiration de sa mise à disposition, le salarié en accord avec les parties décide soit de renouveler sa convention, soit de réintégrer son entreprise d'origine.</p><p align='left'>En cas de retour dans son entreprise d'origine, le salarié retrouve son précédent emploi ou un emploi similaire assorti d'une rémunération au moins équivalente.</p><p align='left'>Par ailleurs, l'employeur devra organiser, au retour du salarié, un entretien visant à faire le point sur :<br/>\n– le poste de travail retrouvé ;<br/>\n– les conditions de travail ;<br/>\n– les souhaits d'évolution ou de réorientation professionnelle ;<br/>\n– les besoins de formation, et le cas échéant de mise à niveau.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Mise à disposition d'un salarié auprès d'une organisation syndicale",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042357834",
+                    "textTitle": "Arrêté du 18 septembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042357837",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-09-24",
+                    "dateSignaTexte": "2020-09-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14897,9 +15027,22 @@
                 "intOrdre": 5767157,
                 "id": "KALIARTI000038550658",
                 "content": "<p align='left'>Des congés statutaires pourront être accordés aux salariés devant assister aux réunions statutaires de leurs organisations syndicales professionnelles, sur présentation, dans un délai de 15 jours ouvrés, d'une convocation écrite émanant de celles-ci, pour autant qu'ils ne compromettent pas la bonne marche de l'établissement.</p><p align='left'>Ces congés statutaires sont limités à 12 jours par an et par salarié.</p><p align='left'>Les entreprises maintiendront la rémunération du salarié sur présentation d'une convocation statutaire de son organisation et d'une attestation de présence à celle-ci.</p><p align='left'>L'entreprise pourra se faire rembourser le montant de la rémunération brute chargée correspondant aux congés statutaires en adressant une facture sans TVA à l'organisation syndicale qui a convoqué le salarié.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Congés statutaires",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042357834",
+                    "textTitle": "Arrêté du 18 septembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042357837",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-09-24",
+                    "dateSignaTexte": "2020-09-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14910,9 +15053,22 @@
                 "intOrdre": 6291444,
                 "id": "KALIARTI000038550659",
                 "content": "<p align='left'>Le présent accord est conclu pour une durée indéterminée.</p><p align='left'>Le présent accord entrera en vigueur à compter de la date de signature.</p><p align='left'>Il fera l'objet des formalités d'extension prévues par les dispositions légales.</p><p align='left'>Il est établi en un nombre suffisant d'exemplaires pour être remis à chaque organisation syndicale représentative au niveau de la branche et pour le dépôt à la direction des relations du travail et au conseil de prud'hommes de Boulogne-Billancourt, dans les conditions légales et réglementaires.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Entrée en vigueur. – Dépôt. – Extension",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042357834",
+                    "textTitle": "Arrêté du 18 septembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042357837",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-09-24",
+                    "dateSignaTexte": "2020-09-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14923,9 +15079,22 @@
                 "intOrdre": 6815731,
                 "id": "KALIARTI000038550660",
                 "content": "<p align='left'>Toute organisation syndicale représentative d'employeurs ou de salariés, ainsi que toute association d'employeurs ou tout employeur pris individuellement non signataire pourra y adhérer par simple déclaration auprès de l'organisme compétent.</p><p align='left'>Elle devra également aviser, par lettre recommandée, toutes les organisations signataires représentatives au sein de la branche et l'ensemble des organisations syndicales représentatives de la branche.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Adhésion",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042357834",
+                    "textTitle": "Arrêté du 18 septembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042357837",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-09-24",
+                    "dateSignaTexte": "2020-09-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14935,10 +15104,23 @@
                 "num": "11",
                 "intOrdre": 7340018,
                 "id": "KALIARTI000038550661",
-                "content": "<p align='left'>Les parties au présent accord conviennent, en application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901775&dateTexte=&categorieLien=cid' title='Code du travail - art. L2253-2 (M)'>article L. 2253-2 du code du travail</a>, d'une clause d'impérativité des stipulations relatives à l'effectif à partir duquel les délégués syndicaux peuvent être désignés, leur nombre et la valorisation de leur parcours syndical.</p><p align='left'>Dans ces matières les accords collectifs de groupe, d'entreprise ou d'établissement, postérieurs à l'avenant ne peuvent comporter de stipulations différentes du présent accord, sauf garanties au moins équivalentes ou plus favorables.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Les parties au présent accord conviennent, en application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901775&dateTexte=&categorieLien=cid'>article L. 2253-2 du code du travail</a>, d'une clause d'impérativité des stipulations relatives à l'effectif à partir duquel les délégués syndicaux peuvent être désignés, leur nombre et la valorisation de leur parcours syndical.</p><p align='left'>Dans ces matières les accords collectifs de groupe, d'entreprise ou d'établissement, postérieurs à l'avenant ne peuvent comporter de stipulations différentes du présent accord, sauf garanties au moins équivalentes ou plus favorables.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Clause d'impérativité",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042357834",
+                    "textTitle": "Arrêté du 18 septembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042357837",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-09-24",
+                    "dateSignaTexte": "2020-09-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14949,9 +15131,22 @@
                 "intOrdre": 7864305,
                 "id": "KALIARTI000038550663",
                 "content": "<p align='left'>Le présent accord pourra être révisé conformément aux dispositions légales et réglementaires applicables. La demande de révision, accompagnée d'un projet motivé sur les points à réviser, sera notifiée à l'ensemble des organisations syndicales salariales et patronales représentatives de la branche.</p><p align='left'>La présente convention pourra être dénoncée à tout moment à la demande de l'une ou de plusieurs des parties signataires ou adhérentes dans les conditions prévues par le code du travail.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Révision. – Dénonciation",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042357834",
+                    "textTitle": "Arrêté du 18 septembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042357837",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-09-24",
+                    "dateSignaTexte": "2020-09-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
