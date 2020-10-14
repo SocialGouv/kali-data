@@ -127,9 +127,10 @@ type AgreementSection = {
 };
 
 type AgreementSectionData = {
+  cid: string;
   intOrdre: number;
-  title: string;
   id: string;
+  title: string;
   etat: State;
 };
 
