@@ -11098,7 +11098,7 @@
             "cid": "KALITEXT000042313423",
             "title": "Avenant du 1er juin 2020 relatif aux salaires minima mensuels au 1er juin 2020 (annexe VI)",
             "id": "KALITEXT000042313423",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2020-06-01"
           },
           "children": [
@@ -11109,7 +11109,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000042313426",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -11119,8 +11119,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000042313430",
                     "content": "<p align='left'>Le présent avenant est applicable aux entreprises entrant dans le champ d'application de la convention collective nationale des entreprises relevant de la navigation de plaisance.</p><p align='left'>Les parties signataires réaffirment leur attachement au principe d'égalité professionnelle entre les femmes et les hommes et la nécessité de mettre en œuvre des actions tendant à remédier aux inégalités constatées, conformément aux dispositions législatives en vigueur.</p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000042418655",
+                        "textTitle": "Arrêté du 30 septembre 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000042418658",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2020-10-13",
+                        "dateSignaTexte": "2020-09-30",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -11133,9 +11146,22 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000042313427",
                 "content": "<p align='left'>À partir du 1er juin 2020, les rémunérations minimales, base 151,67 heures, pour un horaire hebdomadaire de travail effectif de 35 heures, applicables dans les entreprises sont les suivantes :</p><p align='center'>I. Salaires minimums des ouvriers au 1er juin 2020</p><p align='left'></p><center><table border='1'><tbody><tr><th colspan='4'>Ouvrier</th></tr><tr><td>Niveau</td><td>Échelon</td><td>Coefficient</td><td>Salaire</td></tr><tr><td rowspan='2' align='center'>I</td><td align='center'>1</td><td align='center'>35</td><td align='center'>1 539,42</td></tr><tr><td align='center'>2</td><td align='center'>38</td><td align='center'>1 544,41</td></tr><tr><td rowspan='3' align='center'>II</td><td align='center'>1</td><td align='center'>42</td><td align='center'>1 551,62</td></tr><tr><td align='center'>2</td><td align='center'>47</td><td align='center'>1 568,61</td></tr><tr><td align='center'>3</td><td align='center'>53</td><td align='center'>1 589,02</td></tr><tr><td rowspan='3' align='center'>III</td><td align='center'>1</td><td align='center'>59</td><td align='center'>1 609,40</td></tr><tr><td align='center'>2</td><td align='center'>66</td><td align='center'>1 633,19</td></tr><tr><td align='center'>3</td><td align='center'>75</td><td align='center'>1 663,78</td></tr></tbody></table></center><p></p><p align='center'>II. Salaires minimums des employés au 1er juin 2020</p><p align='left'></p><center><table border='1'><tbody><tr><th colspan='4'>Employé</th></tr><tr><td>Niveau</td><td>Échelon</td><td>Coefficient</td><td>Salaire</td></tr><tr><td rowspan='2' align='center'>I</td><td align='center'>1</td><td align='center'>35</td><td align='center'>1 539,42</td></tr><tr><td align='center'>2</td><td align='center'>38</td><td align='center'>1 544,41</td></tr><tr><td rowspan='3' align='center'>II</td><td align='center'>1</td><td align='center'>42</td><td align='center'>1 551,62</td></tr><tr><td align='center'>2</td><td align='center'>47</td><td align='center'>1 568,61</td></tr><tr><td align='center'>3</td><td align='center'>53</td><td align='center'>1 589,02</td></tr><tr><td rowspan='3' align='center'>III</td><td align='center'>1</td><td align='center'>59</td><td align='center'>1 609,40</td></tr><tr><td align='center'>2</td><td align='center'>66</td><td align='center'>1 633,19</td></tr><tr><td align='center'>3</td><td align='center'>75</td><td align='center'>1 663,78</td></tr></tbody></table></center><p></p><p align='center'>III. Salaires minimums des techniciens au 1er juin 2020</p><p align='left'></p><center><table border='1'><tbody><tr><th colspan='4'>Technicien</th></tr><tr><td>Niveau</td><td>Échelon</td><td>Coefficient</td><td>Salaire</td></tr><tr><td rowspan='2' align='center'>IV</td><td align='center'>1</td><td align='center'>66</td><td align='center'>1 633,19</td></tr><tr><td align='center'>2</td><td align='center'>75</td><td align='center'>1 663,78</td></tr></tbody></table></center><p></p><p align='center'>IV. Salaires minimums des techniciens et agents de maîtrise au 1er juin 2020</p><p align='left'></p><center><table border='1'><tbody><tr><th colspan='4'>Technicien et agent de maîtrise</th></tr><tr><td>Niveau</td><td>Échelon</td><td>Coefficient</td><td>Salaire</td></tr><tr><td rowspan='2' align='center'>V</td><td align='center'>1</td><td align='center'>89</td><td align='center'>1 711,36</td></tr><tr><td align='center'>2</td><td align='center'>115</td><td align='center'>1 799,73</td></tr><tr><td rowspan='2' align='center'>VI</td><td align='center'>1</td><td align='center'>164</td><td align='center'>1 966,28</td></tr><tr><td align='center'>2</td><td align='center'>220</td><td align='center'>2 156,61</td></tr></tbody></table></center><p></p><p align='center'>V. Salaires minimums des ingénieurs et cadres au 1er juin 2020</p><p align='left'></p><center><table border='1'><tbody><tr><th colspan='3'>Ingénieur et cadre</th></tr><tr><td>Niveau</td><td>Échelon</td><td>Salaire</td></tr><tr><td rowspan='4' align='center'>VII</td><td align='center'>1</td><td align='center'>1 935,83</td></tr><tr><td align='center'>2</td><td align='center'>2 112,79</td></tr><tr><td align='center'>3</td><td align='center'>3 185,27</td></tr><tr><td align='center'>4</td><td align='center'>4 432,49</td></tr></tbody></table></center><p></p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Rémunérations minimales applicables dans les entreprises au 1er juin 2020",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042418655",
+                    "textTitle": "Arrêté du 30 septembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042418658",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-10-13",
+                    "dateSignaTexte": "2020-09-30",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -11145,10 +11171,23 @@
                 "num": "3",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000042313428",
-                "content": "<p align='left'>Le présent avenant est conclu pour une durée indéterminée.</p><p align='left'>Cet accord de branche ne contient pas de disposition spécifique pour les entreprises de moins de 50 salariés.</p><p align='left'>Le présent avenant est fait en un nombre suffisant d'exemplaires pour notification à chacune des organisations représentatives dans les conditions prévues à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901674&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-5 (V)'>article L. 2231-5 du code du travail</a> et dépôt dans les conditions prévues par l'article L. 2231-6 du même code.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le présent avenant est conclu pour une durée indéterminée.</p><p align='left'>Cet accord de branche ne contient pas de disposition spécifique pour les entreprises de moins de 50 salariés.</p><p align='left'>Le présent avenant est fait en un nombre suffisant d'exemplaires pour notification à chacune des organisations représentatives dans les conditions prévues à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901674&dateTexte=&categorieLien=cid'>article L. 2231-5 du code du travail</a> et dépôt dans les conditions prévues par l'article L. 2231-6 du même code.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dispositions finales",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042418655",
+                    "textTitle": "Arrêté du 30 septembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042418658",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-10-13",
+                    "dateSignaTexte": "2020-09-30",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
