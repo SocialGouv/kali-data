@@ -1,33 +1,6 @@
 {
   "name": "@socialgouv/kali-data",
   "version": "2.0.0",
-  "homepage": "https://github.com/SocialGouv/kali-data",
-  "repository": "https://github.com/SocialGouv/kali-data.git",
-  "main": "./src/index.js",
-  "types": "./src/index.d.ts",
-  "license": "Apache-2.0",
-  "publishConfig": {
-    "access": "public"
-  },
-  "files": [
-    "data",
-    "src"
-  ],
-  "scripts": {
-    "data:check": "node -r esm ./scripts/check.js",
-    "data:fetch": "node -r dotenv/config -r esm ./scripts/fetch.js dotenv_config_path=./.env",
-    "data:list": "node -r esm ./scripts/list.js",
-    "data:match": "node -r esm ./scripts/match.js",
-    "data:update": "yarn data:fetch && yarn data:match && yarn data:list && yarn data:check",
-    "setup": "node -r esm ./scripts/setup.js",
-    "test": "yarn test:lint && yarn test:type && yarn test:unit --silent",
-    "test:lint": "eslint .",
-    "test:type": "tsc",
-    "test:unit": "jest",
-    "test:update": "jest --updateSnapshot",
-    "test:watch": "yarn test:unit --watch",
-    "posttest": "yarn data:check"
-  },
   "dependencies": {
     "unist-util-find": "1.0.1",
     "unist-util-flat-filter": "1.0.0",
@@ -62,9 +35,36 @@
   "engines": {
     "node": ">= 10"
   },
+  "files": [
+    "data",
+    "src"
+  ],
+  "homepage": "https://github.com/SocialGouv/kali-data",
   "husky": {
     "hooks": {
       "pre-push": "yarn test"
     }
-  }
+  },
+  "license": "Apache-2.0",
+  "main": "./src/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": "https://github.com/SocialGouv/kali-data.git",
+  "scripts": {
+    "data:check": "node -r esm ./scripts/check.js",
+    "data:fetch": "node -r dotenv/config -r esm ./scripts/fetch.js dotenv_config_path=./.env",
+    "data:list": "node -r esm ./scripts/list.js",
+    "data:match": "node -r esm ./scripts/match.js",
+    "data:update": "yarn data:fetch && yarn data:match && yarn data:list && yarn data:check",
+    "posttest": "yarn data:check",
+    "setup": "node -r esm ./scripts/setup.js",
+    "test": "yarn test:lint && yarn test:type && yarn test:unit --silent",
+    "test:lint": "eslint .",
+    "test:type": "tsc",
+    "test:unit": "jest",
+    "test:update": "jest --updateSnapshot",
+    "test:watch": "yarn test:unit --watch"
+  },
+  "types": "./src/index.d.ts"
 }
