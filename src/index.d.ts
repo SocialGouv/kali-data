@@ -199,7 +199,7 @@ type IndexedAgreement = {
   texte_de_base?: string;
   title: string;
   url?: string;
-  synonymes: string[];
+  synonymes?: string[];
 };
 
 type IndexedArticle = {
