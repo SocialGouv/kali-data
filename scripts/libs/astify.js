@@ -39,7 +39,9 @@ const astify = (node, depth = 0) => ({
 
 const numify = id => parseInt(id.replace(/^KALI(ARTI|SCTA|TEXT)/, ""));
 
-export const isValidSection = node => !node.etat || node.etat.startsWith("VIGUEUR");
+export const isValidSection = node => {
+  return (node.etat || node.jurisState || "").startsWith("VIGUEUR");
+};
 
 // the API returns all the version of a given article. we pick the latest one
 export const latestVersionFilter = (currentArticle, _, articles) => {

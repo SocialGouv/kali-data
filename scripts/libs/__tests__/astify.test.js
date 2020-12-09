@@ -65,6 +65,6 @@ describe("isValidSection", () => {
     expect(isValidSection({ etat: "VIGUEUR_NON_ETEN" })).toEqual(true);
   });
   test("should include section without etat", () => {
-    expect(isValidSection({})).toEqual(true);
+    expect(isValidSection({ jurisState: "VIGUEUR" })).toEqual(true);
   });
 });

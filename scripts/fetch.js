@@ -34,7 +34,7 @@ const t0 = Date.now();
 
 function fetchKaliCont(id) {
   return queue.add(() => {
-    log.info("fetch()", `Fetching ${id}…`);
+    log.verbose("fetch()", `Fetching ${id}`);
 
     return retry(() => getKaliCont(id), { retries: 10 });
   });
@@ -54,7 +54,9 @@ async function fetchAdditionalText(container) {
         return retry(() => getKaliText(text.id), { retries: 30 });
       }),
     );
-    mainSection.sections = await Promise.all(pSections);
+    const sections = await Promise.all(pSections);
+    // prevent dila api to return corrupted text ex: KALITEXT000042085809
+    mainSection.sections = sections.filter(({ id }) => Boolean(id));
     mainSection.sections.forEach(section => {
       section.etat = section.jurisState;
     });
@@ -112,7 +114,7 @@ async function saveFile(container) {
     path.join(__dirname, "..", "data", `${container.data.id}.json`),
     JSON.stringify(container, 0, 2),
   );
-  log.info("fetch()", `Updating ${container.data.id}.json…`);
+  log.verbose("fetch()", `Updating ${container.data.id}.json`);
 }
 
 function toFix(value, nb = 2) {
@@ -125,8 +127,13 @@ async function main() {
   const pipeline = pPipe(fetchKaliCont, fetchAdditionalText, astify, cleanAst, saveFile);
 
   const ccnList = INDEXED_AGREEMENTS.filter(convention => !!convention.url);
-  const pResults = ccnList.map(({ id }) => pipeline(id));
 
+  const pResults = ccnList.map(({ id }) => {
+    return pipeline(id).catch(error => {
+      log.error("main()", `pipeline failed for ${id}`);
+      throw error;
+    });
+  });
   await Promise.all(pResults);
   log.info("fetch()", `Done in ${toFix((Date.now() - t0) / 1000)} s`);
 }
