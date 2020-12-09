@@ -1,3 +1,17 @@
+# [2.14.0](https://github.com/SocialGouv/kali-data/compare/v2.13.0...v2.14.0) (2020-12-09)
+
+
+### Bug Fixes
+
+* **scripts:** handle empty text returned by api ([#146](https://github.com/SocialGouv/kali-data/issues/146)) ([6216856](https://github.com/SocialGouv/kali-data/commit/6216856b868c78a827a7362cfd5d397dd667616f))
+* restore usage warning ([009332d](https://github.com/SocialGouv/kali-data/commit/009332d19ff3b3b9da1bdf20eb31fadbc9200168))
+
+
+### Features
+
+* **data:** 20201209_1837 update ([950ac90](https://github.com/SocialGouv/kali-data/commit/950ac90e1d12bde52ad509221eb9dfda1dfad09b))
+* **data:** add synonyms ([#145](https://github.com/SocialGouv/kali-data/issues/145)) ([41104ef](https://github.com/SocialGouv/kali-data/commit/41104ef2e6634d646cd8a679f6df3a4c462ffa11))
+
 # [2.13.0](https://github.com/SocialGouv/kali-data/compare/v2.12.0...v2.13.0) (2020-11-26)
 
 
