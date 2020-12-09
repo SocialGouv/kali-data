@@ -29,8 +29,8 @@
     "prompt": "1.0.0",
     "semantic-release": "17.1.2",
     "typescript": "3.9.7",
-    "unist-util-map": "2.0.1",
-    "unist-util-remove": "2.0.0"
+    "unist-util-filter": "^2.0.3",
+    "unist-util-map": "2.0.1"
   },
   "engines": {
     "node": ">= 10"

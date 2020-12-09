@@ -5,7 +5,7 @@ import Queue from "p-queue";
 import retry from "p-retry";
 import path from "path";
 import map from "unist-util-map";
-import remove from "unist-util-remove";
+import filter from "unist-util-filter";
 import { promisify } from "util";
 
 import { getAgreements } from "../src";
@@ -74,7 +74,13 @@ async function fetchAdditionalText(container) {
 }
 
 function cleanAst(tree) {
-  remove(tree, node => isValidSection(node.data));
+  const cleanedTree = filter(tree, node => {
+    return (
+      node.type !== "section" ||
+      (["article", "section"].includes(node.type) && (node.data.etat || "").startsWith("VIGUEUR"))
+    );
+  });
+
   const keys = [
     "cid",
     "num",
@@ -92,7 +98,7 @@ function cleanAst(tree) {
     "lstLienModification",
   ];
 
-  return map(tree, ({ type, data: rawData, children }) => {
+  return map(cleanedTree, ({ type, data: rawData, children }) => {
     const data = keys.reduce((data, key) => {
       if (rawData[key] !== null || rawData[key]) {
         data[key] = rawData[key];
