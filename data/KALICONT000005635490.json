@@ -1833,8 +1833,8 @@
                             "num": "124.4",
                             "intOrdre": 42949,
                             "id": "KALIARTI000038375601",
-                            "content": "<p>Le nombre de délégués syndicaux est fixé, par entreprise, selon deux critères, à savoir, les effectifs et le nombre des succursales et bureaux.<br/><br/>\nSelon les effectifs :<br/>\n– de 50 à 500 = 1 délégué ;<br/>\n– de 501 à 1 000 = 2 délégués ;<br/>\n– de 1 001 à 1 500 = 3 délégués ;<br/>\n– de 1 501 à 2 000 = 4 délégués ;<br/>\n– de 2 001 à 2 500 = 5 délégués ;<br/>\n– de 2 501 à 3 000 = 6 délégués ;<br/>\n– de 3 001 à 3 500 = 7 délégués ;<br/>\n– de 3 501 à 4 000 = 8 délégués ;<br/>\n– de 4 001 à 4 500 = 9 délégués ;<br/>\n– de 4 501 à 5 000 = 10 délégués ;<br/>\netc.</p><p>Et selon le nombre de succursales et bureaux :<br/>\n– de 150 à 250 = 1 délégué ;<br/>\n– de 251 à 400 = 2 délégués ;<br/>\n– au-delà de 400 = 3 délégués.</p>",
-                            "etat": "VIGUEUR_NON_ETEN",
+                            "content": "<p>Le nombre de délégués syndicaux est fixé, par entreprise, selon deux critères, à savoir, les effectifs et le nombre des succursales et bureaux.</p><p>Selon les effectifs :<br/>\n– de 50 à 500 = 1 délégué ;<br/>\n– de 501 à 1 000 = 2 délégués ;<br/>\n– de 1 001 à 1 500 = 3 délégués ;<br/>\n– de 1 501 à 2 000 = 4 délégués ;<br/>\n– de 2 001 à 2 500 = 5 délégués ;<br/>\n– de 2 501 à 3 000 = 6 délégués ;<br/>\n– de 3 001 à 3 500 = 7 délégués ;<br/>\n– de 3 501 à 4 000 = 8 délégués ;<br/>\n– de 4 001 à 4 500 = 9 délégués ;<br/>\n– de 4 501 à 5 000 = 10 délégués ;<br/>\netc.</p><p>Et selon le nombre de succursales et bureaux :<br/>\n– de 150 à 250 = 1 délégué ;<br/>\n– de 251 à 400 = 2 délégués ;<br/>\n– au-delà de 400 = 3 délégués.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000005816176_1'></a>(1) Article étendu sous réserve que le caractère impératif ne s'applique qu'aux accords d'entreprise conclus postérieurement au 15 décembre 2018 (accord du 26 novembre 2018) et à la condition que ces derniers assurent des garanties au moins équivalentes, conformément aux dispositions de l'article L. 2253-2 du code du travail. <br/>\n(Arrêté du 6 novembre 2020 - art. 1)</em></font></p>",
+                            "etat": "VIGUEUR_ETEN",
                             "lstLienModification": [
                               {
                                 "textCid": "KALITEXT000038330645",
@@ -1847,6 +1847,18 @@
                                 "datePubliTexte": "2019-04-03",
                                 "dateSignaTexte": "2018-11-26",
                                 "dateDebutCible": "2018-12-15"
+                              },
+                              {
+                                "textCid": "JORFTEXT000042539837",
+                                "textTitle": "Arrêté du 6 novembre 2020 - art. 1, v. init.",
+                                "linkType": "ETEND",
+                                "linkOrientation": "cible",
+                                "articleNum": "1",
+                                "articleId": "JORFARTI000042539841",
+                                "natureText": "ARRETE",
+                                "datePubliTexte": "2020-11-20",
+                                "dateSignaTexte": "2020-11-06",
+                                "dateDebutCible": "2999-01-01"
                               }
                             ]
                           }
@@ -2531,55 +2543,6 @@
                     "etat": "VIGUEUR_ETEN"
                   },
                   "children": [
-                    {
-                      "type": "section",
-                      "data": {
-                        "cid": "KALISCTA000005764317",
-                        "intOrdre": 42949,
-                        "title": "Période d'essai",
-                        "id": "KALISCTA000005764317",
-                        "etat": "ABROGE"
-                      },
-                      "children": [
-                        {
-                          "type": "article",
-                          "data": {
-                            "cid": "KALIARTI000005816200",
-                            "num": "222.1",
-                            "intOrdre": 42949,
-                            "id": "KALIARTI000005816200",
-                            "content": "<p></p>   Au cours de la période d'essai, fixée en principe à trois mois, le contrat de travail pourra être résilié, à la volonté de l'une ou l'autre partie, sans aucun préavis ni indemnité.<p></p><p></p>",
-                            "etat": "ABROGE",
-                            "lstLienModification": [
-                              {
-                                "textCid": "",
-                                "textTitle": "Convention collective nationale 1974-03-01 en vigueur le 2 mars 1974 étendue par arrêté du 17 décembre 1993 JORF 28 janvier 1994",
-                                "linkType": "CREATION",
-                                "linkOrientation": "source",
-                                "articleNum": "",
-                                "articleId": "",
-                                "natureText": "",
-                                "datePubliTexte": null,
-                                "dateSignaTexte": null,
-                                "dateDebutCible": null
-                              },
-                              {
-                                "textCid": "KALITEXT000020960708",
-                                "textTitle": "Période d'essai, démission et retraite - art. 3 (VNE)",
-                                "linkType": "ABROGE",
-                                "linkOrientation": "cible",
-                                "articleNum": "3",
-                                "articleId": "KALIARTI000020960715",
-                                "natureText": "Avenant",
-                                "datePubliTexte": "2009-08-06",
-                                "dateSignaTexte": "2009-01-27",
-                                "dateDebutCible": "2009-05-13"
-                              }
-                            ]
-                          }
-                        }
-                      ]
-                    },
                     {
                       "type": "section",
                       "data": {
@@ -7729,44 +7692,6 @@
                             "textCid": "",
                             "textTitle": "Avenant 1999-04-26 en vigueur à l'extension BO conventions collectives 99-24 étendu par arrêté du 19 octobre 1999 JORF 30 octobre 1999",
                             "linkType": "MODIFICATION",
-                            "linkOrientation": "source",
-                            "articleNum": "",
-                            "articleId": "",
-                            "natureText": "",
-                            "datePubliTexte": null,
-                            "dateSignaTexte": null,
-                            "dateDebutCible": null
-                          }
-                        ]
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "section",
-                  "data": {
-                    "cid": "KALISCTA000005744707",
-                    "intOrdre": 85898,
-                    "title": "Instance paritaire de la section professionnelle mise en place au sein de l'O.P.C.I.B.",
-                    "id": "KALISCTA000005744707",
-                    "etat": "ABROGE"
-                  },
-                  "children": [
-                    {
-                      "type": "article",
-                      "data": {
-                        "cid": "KALIARTI000005816368",
-                        "num": "2",
-                        "intOrdre": 128847,
-                        "id": "KALIARTI000005816370",
-                        "content": "<p>2.1. Les missions de l'instance paritaire de la section professionnelle sont de :</p><p>a) Gérer et suivre, de façon distincte, au plan comptable, l'ensemble des contributions ci-dessous :</p><p>-<em>les fonds correspondant à 0,20 p. 100 (titre apprentissage) du montant des salaires payés pendant l'année de référence (0,10 p. 100 pour les entreprises situées dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle), pour la part non versée à un ou plusieurs C.F.A.</em> (1) ;</p><p>- les fonds correspondant au 0,40 p. 100 ou 0,30 p. 100 conformément au 1-2 des contrats d'insertion en alternance pour les entreprises employant au moins dix salariés et les fonds correspondant à 0,10 p. 100 des contrats d'insertion en alternance pour les entreprises employant moins de dix salariés ;</p><p>-les fonds correspondant au 0,10 p. 100 du capital temps de formation et visés à l'article 1-4 ;</p><p>- les fonds versés par les entreprises au titre de leur plan de formation, visés à l'article 1-3.</p><p>b) Développer une politique incitative d'insertion professionnelle par les contrats d'insertion en alternance.</p><p>2.2. Le rôle de l'instance paritaire de la section professionnelle est notamment de :</p><p>a) Définir, conformément aux textes législatifs conventionnels et réglementaires en vigueur, <em>les conditions dans lesquelles les versements des entreprises en faveur de l'apprentissage (maximum 0,2 p. 100) sont affectés au centre de formation des apprentis et aux établissements visés à l'article L. 118-2-1 du code du travail</em> (1) :</p><p>-la part des dépenses de fonctionnement affectée à la formation au titre de la section concernant les contrats d'insertion en alternance ;</p><p>- les règles permettant de décider des prises en charge en matière de contrat d'insertion en alternance ;</p><p>- les modalités de versement des sommes dues aux entreprises ayant recruté des jeunes sous contrat d'insertion en alternance en application de montants forfaitaires ;</p><p>-les critères et l'échéancier au regard desquels sont examinées les demandes de financement présentées par les entreprises, au titre du capital de temps de formation et les mentionner dans un document précisant les conditions d'examen de demandes de prise en charge et tenu à la disposition des entreprises et des salariés ;</p><p>-<em>les priorités, les critères et les conditions de prise en charge des demandes présentées par les entreprises employant moins de dix salariés au titre de la participation au développement de la formation professionnelle continue</em> (1) ;</p><p>b) Prendre en charge, financer et contrôler :</p><p>- suivant les critères, les priorités et les conditions de prise en charge définies en application du point 2-2 a ci-dessus par l'instance paritaire de la section professionnelle, les dépenses exposées par les entreprises au titre des contrats d'insertion en alternance ;</p><p>-suivant les critères, les priorités et les conditions de prise en charge définies en application du point 2-2 a ci-dessus par l'instance paritaire de la section professionnelle, les dépenses liées aux actions de formation éligibles au titre du capital de temps de formation ;</p><p>- les études et recherches sur <em>les qualifications et</em> (1) la formation professionnelle décidées par l'instance paritaire de la section professionnelle ;</p><p>- les moyens nécessaires au bon fonctionnement de l'instance paritaire de la section professionnelle ;</p><p>c) Informer et sensibiliser :</p><p>- les entreprises et les salariés sur les conditions de l'intervention financière de l'instance paritaire de la section professionnelle, au titre des contrats d'insertion en alternance ;</p><p>-les entreprises et les salariés sur le capital de temps de formation, sur les formations existantes et sur les conditions d'examen des demandes de prise en charge ;</p><p>- les entreprises et les salariés sur les conditions de l'intervention financière de l'O.P.C.I.B. au titre de la contribution des entreprises employant moins de dix salariés, affectée au développement de la formation professionnelle continue ;</p><p>d) Vérifier et approuver les documents de contrôle de la gestion et de l'utilisation des fonds collectés en application de l'article 2 du présent accord.</p><p>2.3 L'instance paritaire de la section professionnelle est composée :</p><p>- de deux représentants par organisation syndicale de salariés, signataire du présent accord ;</p><p>- d'un nombre égal de représentants des fédérations patronales signataires du présent accord.</p><p>Un bureau composé : d'un président, d'un vice-président, d'un trésorier et d'un trésorier adjoint est constitué en son sein.</p><p><font color='#808080' size='1'><em>(1) Alinéas exclus de l'extension par arrêtés du 12 février 1996 et du 28 juin 1996.</em></font></p>",
-                        "etat": "ABROGE",
-                        "historique": "Modifié par Avenant du 8 décembre 1995 4. BO conventions collectives 95-51, *étendu avec exclusions par arrêté du 12 février 1996 JORF 21 février 1996 modifié par arrêté du 28 juin 1996 JORF 29 juin 1996*.",
-                        "lstLienModification": [
-                          {
-                            "textCid": "",
-                            "textTitle": "Accord 1994-12-20 BO Conventions collectives 95-19 en vigueur à la date de la publication de l'arrêté d'extension, étendu par arrêté du 12 février 1996 JORF 21 février 1996",
-                            "linkType": "CREATION",
                             "linkOrientation": "source",
                             "articleNum": "",
                             "articleId": "",
@@ -13541,7 +13466,7 @@
             "cid": "KALITEXT000038330645",
             "title": "Accord du 26 novembre 2018 modifiant l'article 124.4 de la convention (Délégués syndicaux)",
             "id": "KALITEXT000038330645",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2018-12-15"
           },
           "children": [
@@ -13552,7 +13477,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000038330648",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -13562,8 +13487,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000038330662",
                     "content": "<p align='left'>Les partenaires sociaux se sont accordés sur l'importance de la qualité des échanges dans les diverses négociations au sein des entreprises.</p><p align='left'>Avec l'objectif de poursuivre cette qualité, les fédérations patronales et les organisations syndicales se sont réunies les 11 septembre 2018, le 6 novembre 2018 et le 26 novembre 2018.</p><p align='left'>Au terme de cette négociation, l'accord suivant a été conclu.</p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000042539837",
+                        "textTitle": "Arrêté du 6 novembre 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000042539841",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2020-11-20",
+                        "dateSignaTexte": "2020-11-06",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -13575,10 +13513,22 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000038330649",
-                "content": "<p align='left'>L'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901775&dateTexte=&categorieLien=cid' title='Code du travail - art. L2253-2 (M)'>article L. 2253-2 du code du travail</a>, modifié par la <a href='/affichTexte.do?cidTexte=JORFTEXT000036755446&categorieLien=cid' title='LOI n°2018-217 du 29 mars 2018 (V)'>loi n° 2018-217 du 29 mars 2018</a>, précise :</p><p align='left'>« Dans les matières suivantes, lorsque la convention de branche ou l'accord couvrant un champ territorial ou professionnel plus large le stipule expressément, la convention d'entreprise conclue postérieurement à cette convention ou à cet accord ne peut comporter des stipulations différentes de celles qui lui sont applicables en vertu de cette convention ou de cet accord sauf lorsque la convention d'entreprise assure des garanties au moins équivalentes :</p><p align='left'>1° La prévention des effets de l'exposition aux facteurs de risques professionnels énumérés à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000028495726&dateTexte=&categorieLien=cid' title='Code du travail - art. L4161-1 (V)'>article L. 4161-1 </a>;</p><p align='left'>2° L'insertion professionnelle et le maintien dans l'emploi des travailleurs handicapés ;</p><p align='left'>3° L'effectif à partir duquel les délégués syndicaux peuvent être désignés, leur nombre et la valorisation de leur parcours syndical ;</p><p align='left'>4° Les primes pour travaux dangereux ou insalubres.</p><p align='left'>L'équivalence des garanties mentionnée au premier alinéa du présent article s'apprécie par ensemble de garanties se rapportant à la même matière.</p><p align='left'>Nota : conformément aux <a href='/affichTexteArticle.do?cidTexte=JORFTEXT000035607311&idArticle=JORFARTI000035607326&categorieLien=cid' title='Ordonnance n°2017-1385 du 22 septembre 2017 - art. 16 (M)'>I et II de l'article 16 de l'ordonnance n° 2017-1385 du 22 septembre 2017</a>, dans les matières mentionnées au présent article, les clauses des conventions et accords de branche, des accords professionnels et des accords interbranches conclues sur le fondement du deuxième alinéa de l'article L. 2253-3 dans sa rédaction antérieure à ladite ordonnance faisant obstacle à des clauses dérogatoires de conventions ou accords d'entreprise ou d'établissement continuent de produire effet si un avenant confirme, avant le 1er janvier 2019, la portée de ces clauses au regard de la convention ou de l'accord d'entreprise ou d'établissement. Les stipulations confirmant ces clauses s'appliquent aux accords étendus.</p><p align='left'>Dans les matières mentionnées au présent article, les clauses des conventions et accords de branche, des accords professionnels et des accords interbranches mentionnées par l'<a href='/affichTexteArticle.do?cidTexte=JORFTEXT000000613810&idArticle=LEGIARTI000006659065&dateTexte=&categorieLien=cid' title='Loi n° 2004-391 du 4 mai 2004 - art. 45 (Ab)'>article 45 de la loi n° 2004-391 du 4 mai 2004 </a>continuent de produire effet si un avenant confirme, avant le 1er janvier 2019, la portée de ces clauses au regard de la convention ou de l'accord d'entreprise ou d'établissement. Les stipulations confirmant ces clauses s'appliquent aux accords étendus. »</p><p align='left'>Au sens de l'article L. 2253-2 du code du travail, les parties signataires conviennent par le présent accord de donner un caractère d'impérativité à l'article 124.4 de la convention collective nationale des pompes funèbres, cet article s'appliquant à toutes les entreprises régies par ladite convention.</p><p align='left'>L'article 124.4 de la convention collective nationale des pompes funèbres fixant le nombre de délégués syndicaux est concerné par cette modification du code du travail, à savoir :</p><p align='left'>Le nombre de délégués syndicaux est fixé, par entreprise, selon deux critères, à savoir, les effectifs et le nombre des succursales et bureaux.</p><p align='left'>Selon les effectifs :<br/>\n– de 50 à 500 = 1 délégué ;<br/>\n– de 501 à 1 000 = 2 délégués ;<br/>\n– de 1 001 à 1 500 = 3 délégués ;<br/>\n– de 1 501 à 2 000 = 4 délégués ;<br/>\n– de 2 001 à 2 500 = 5 délégués ;<br/>\n– de 2 501 à 3 000 = 6 délégués ;<br/>\n– de 3 001 à 3 500 = 7 délégués ;<br/>\n– de 3 501 à 4 000 = 8 délégués ;<br/>\n– de 4 001 à 4 500 = 9 délégués ;<br/>\n– de 4 501 à 5 000 = 10 délégués ;<br/>\netc.</p><p align='left'>Et selon le nombre de succursales et bureaux :<br/>\n– de 150 à 250 = 1 délégué ;<br/>\n– de 251 à 400 = 2 délégués ;<br/>\n– au-delà de 400 = 3 délégués.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>L'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901775&dateTexte=&categorieLien=cid'>article L. 2253-2 du code du travail</a>, modifié par la <a href='/affichTexte.do?cidTexte=JORFTEXT000036755446&categorieLien=cid'>loi n° 2018-217 du 29 mars 2018</a>, précise :</p><p align='left'>« Dans les matières suivantes, lorsque la convention de branche ou l'accord couvrant un champ territorial ou professionnel plus large le stipule expressément, la convention d'entreprise conclue postérieurement à cette convention ou à cet accord ne peut comporter des stipulations différentes de celles qui lui sont applicables en vertu de cette convention ou de cet accord sauf lorsque la convention d'entreprise assure des garanties au moins équivalentes :</p><p align='left'>1° La prévention des effets de l'exposition aux facteurs de risques professionnels énumérés à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000028495726&dateTexte=&categorieLien=cid'>article L. 4161-1 </a>;</p><p align='left'>2° L'insertion professionnelle et le maintien dans l'emploi des travailleurs handicapés ;</p><p align='left'>3° L'effectif à partir duquel les délégués syndicaux peuvent être désignés, leur nombre et la valorisation de leur parcours syndical ;</p><p align='left'>4° Les primes pour travaux dangereux ou insalubres.</p><p align='left'>L'équivalence des garanties mentionnée au premier alinéa du présent article s'apprécie par ensemble de garanties se rapportant à la même matière.</p><p align='left'>Nota : conformément aux <a href='/affichTexteArticle.do?cidTexte=JORFTEXT000035607311&idArticle=JORFARTI000035607326&categorieLien=cid'>I et II de l'article 16 de l'ordonnance n° 2017-1385 du 22 septembre 2017</a>, dans les matières mentionnées au présent article, les clauses des conventions et accords de branche, des accords professionnels et des accords interbranches conclues sur le fondement du deuxième alinéa de l'article L. 2253-3 dans sa rédaction antérieure à ladite ordonnance faisant obstacle à des clauses dérogatoires de conventions ou accords d'entreprise ou d'établissement continuent de produire effet si un avenant confirme, avant le 1er janvier 2019, la portée de ces clauses au regard de la convention ou de l'accord d'entreprise ou d'établissement. Les stipulations confirmant ces clauses s'appliquent aux accords étendus.</p><p align='left'>Dans les matières mentionnées au présent article, les clauses des conventions et accords de branche, des accords professionnels et des accords interbranches mentionnées par l'<a href='/affichTexteArticle.do?cidTexte=JORFTEXT000000613810&idArticle=LEGIARTI000006659065&dateTexte=&categorieLien=cid'>article 45 de la loi n° 2004-391 du 4 mai 2004 </a>continuent de produire effet si un avenant confirme, avant le 1er janvier 2019, la portée de ces clauses au regard de la convention ou de l'accord d'entreprise ou d'établissement. Les stipulations confirmant ces clauses s'appliquent aux accords étendus. »</p><p align='left'>Au sens de l'article L. 2253-2 du code du travail, les parties signataires conviennent par le présent accord de donner un caractère d'impérativité à l'article 124.4 de la convention collective nationale des pompes funèbres, cet article s'appliquant à toutes les entreprises régies par ladite convention.</p><p align='left'>L'article 124.4 de la convention collective nationale des pompes funèbres fixant le nombre de délégués syndicaux est concerné par cette modification du code du travail, à savoir :</p><p align='left'>Le nombre de délégués syndicaux est fixé, par entreprise, selon deux critères, à savoir, les effectifs et le nombre des succursales et bureaux.</p><p align='left'>Selon les effectifs :<br/>\n– de 50 à 500 = 1 délégué ;<br/>\n– de 501 à 1 000 = 2 délégués ;<br/>\n– de 1 001 à 1 500 = 3 délégués ;<br/>\n– de 1 501 à 2 000 = 4 délégués ;<br/>\n– de 2 001 à 2 500 = 5 délégués ;<br/>\n– de 2 501 à 3 000 = 6 délégués ;<br/>\n– de 3 001 à 3 500 = 7 délégués ;<br/>\n– de 3 501 à 4 000 = 8 délégués ;<br/>\n– de 4 001 à 4 500 = 9 délégués ;<br/>\n– de 4 501 à 5 000 = 10 délégués ;<br/>\netc.</p><p align='left'>Et selon le nombre de succursales et bureaux :<br/>\n– de 150 à 250 = 1 délégué ;<br/>\n– de 251 à 400 = 2 délégués ;<br/>\n– au-delà de 400 = 3 délégués.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000038330649_1'></a>(1) Article étendu sous réserve que le caractère impératif de l'article 124.4 de la convention collective nationale des pompes funèbres ne s'applique qu'aux accords d'entreprise conclus postérieurement à la date d'entrée en vigueur de l'avenant et à la condition que ces derniers assurent des garanties au moins équivalentes, conformément aux dispositions de l'article L. 2253-2 du code du travail.  <br/>(Arrêté du 6 novembre 2020 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Champ d'application",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042539837",
+                    "textTitle": "Arrêté du 6 novembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042539841",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-11-20",
+                    "dateSignaTexte": "2020-11-06",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000005666342",
                     "textTitle": "Convention collective nationale du 1 mars 1974 - art. 124.4 (VNE)",
@@ -13602,8 +13552,21 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000038330656",
                 "content": "<p align='left'><br/>Le présent accord sera mis à l'ordre du jour d'une réunion au début du 1er trimestre 2021 en vue d'une évaluation et d'une renégociation.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042539837",
+                    "textTitle": "Arrêté du 6 novembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042539841",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-11-20",
+                    "dateSignaTexte": "2020-11-06",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -13613,10 +13576,23 @@
                 "num": "3",
                 "intOrdre": 2097148,
                 "id": "KALIARTI000038330657",
-                "content": "<p align='left'><br/>Le présent accord constituant un avenant à la convention collective nationale des pompes funèbres du 1er mars 1974, sera, en application des articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-6 (V)'>L. 2231-6</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901676&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-7 (Ab)'>L. 2231-7</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485209&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-3 (M)'>D. 2231-3</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485217&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-7 (V)'>D. 2231-7</a> du code du travail, déposé à la direction générale du travail, et au secrétariat-greffe du conseil des prud'hommes de Paris, 27, rue Louis-Blanc, 75010 Paris.<br/>Il fera l'objet d'une demande d'extension.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'><br/>Le présent accord constituant un avenant à la convention collective nationale des pompes funèbres du 1er mars 1974, sera, en application des articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>L. 2231-6</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901676&dateTexte=&categorieLien=cid'>L. 2231-7</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485209&dateTexte=&categorieLien=cid'>D. 2231-3</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485217&dateTexte=&categorieLien=cid'>D. 2231-7</a> du code du travail, déposé à la direction générale du travail, et au secrétariat-greffe du conseil des prud'hommes de Paris, 27, rue Louis-Blanc, 75010 Paris.<br/>Il fera l'objet d'une demande d'extension.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dépôt",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042539837",
+                    "textTitle": "Arrêté du 6 novembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042539841",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-11-20",
+                    "dateSignaTexte": "2020-11-06",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
