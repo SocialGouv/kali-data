@@ -4,8 +4,8 @@ import pPipe from "p-pipe";
 import Queue from "p-queue";
 import retry from "p-retry";
 import path from "path";
-import map from "unist-util-map";
 import filter from "unist-util-filter";
+import map from "unist-util-map";
 import { promisify } from "util";
 
 import { getAgreements } from "../src";
