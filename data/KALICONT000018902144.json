@@ -9812,7 +9812,7 @@
             "cid": "KALITEXT000041549864",
             "title": "Accord du 17 septembre 2019 relatif au régime de prévoyance",
             "id": "KALITEXT000041549864",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2020-01-01"
           },
           "children": [
@@ -9823,7 +9823,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000041549867",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -9832,9 +9832,22 @@
                     "cid": "KALIARTI000041549901",
                     "intOrdre": 524287,
                     "id": "KALIARTI000041549901",
-                    "content": "<p align='left'>Dans le cadre de l'amélioration de la couverture sociale collective et solidaire, le présent accord a pour but de renforcer les garanties collectives conventionnelles de prévoyance afin de permettre l'accès à une protection sociale renforcée à l'ensemble des salariés concernés.</p><p align='left'>Ce dispositif négocié avec les partenaires sociaux est assorti d'une recommandation auprès d'un organisme assureur qui sera habilité à recueillir les adhésions des entreprises de la branche.</p><p align='left'>Ces garanties « décès et annexes » s'inscrivent dans la durée et visent des risques majeurs pour les salariés et leurs familles. Elles seront cofinancées entre les employeurs et les salariés et elles constituent le socle minimal dont bénéficie obligatoirement l'ensemble des salariés de la branche.</p><p align='left'>Ayant vocation à définir les garanties minimales du régime collectif obligatoire de prévoyance, dont doivent bénéficier tous les salariés définis précédemment relevant de la convention collective et ce quelle que soit la taille de leur entreprise, il ne prévoit aucune disposition spécifique en application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-10-1 (M)'>article L. 2232-10-1 du code du travail</a> concernant les entreprises de moins de 50 salariés.</p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "content": "<p align='left'>Dans le cadre de l'amélioration de la couverture sociale collective et solidaire, le présent accord a pour but de renforcer les garanties collectives conventionnelles de prévoyance afin de permettre l'accès à une protection sociale renforcée à l'ensemble des salariés concernés.</p><p align='left'>Ce dispositif négocié avec les partenaires sociaux est assorti d'une recommandation auprès d'un organisme assureur qui sera habilité à recueillir les adhésions des entreprises de la branche.</p><p align='left'>Ces garanties « décès et annexes » s'inscrivent dans la durée et visent des risques majeurs pour les salariés et leurs familles. Elles seront cofinancées entre les employeurs et les salariés et elles constituent le socle minimal dont bénéficie obligatoirement l'ensemble des salariés de la branche.</p><p align='left'>Ayant vocation à définir les garanties minimales du régime collectif obligatoire de prévoyance, dont doivent bénéficier tous les salariés définis précédemment relevant de la convention collective et ce quelle que soit la taille de leur entreprise, il ne prévoit aucune disposition spécifique en application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid'>article L. 2232-10-1 du code du travail</a> concernant les entreprises de moins de 50 salariés.</p><p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000042732284",
+                        "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000042732287",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2020-12-24",
+                        "dateSignaTexte": "2020-12-18",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -9847,9 +9860,22 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000041549868",
                 "content": "<p align='left'>La branche des professions regroupées du cristal, du verre et du vitrail est issue de la fusion de 4 champs conventionnels le 1er janvier 2018 en vertu d'un accord signé le 30 juin 2017 (IDCC 161, IDCC 1821, IDCC 1945, IDCC 2306).</p><p align='left'>À compter du 1er janvier 2020 ce régime s'applique aux entreprises et salariés relevant du champ d'origine ante-fusion (IDCC 1821).</p><p align='left'>Ce n'est qu'au 1er janvier 2022 que l'application obligatoire du régime conventionnel concernera l'ensemble du champ nouvellement créé.</p><p align='left'>Néanmoins il est laissé la possibilité aux entreprises issues des autres champs de l'accord de fusion du 30 juin 2017 (IDCC 161, IDCC 1945, IDCC 2306) d'y cotiser avant cette date sur la base du volontariat.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Champ d'application de l'accord de branche",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -9859,10 +9885,23 @@
                 "num": "2",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000041549869",
-                "content": "<p align='left'>Les bénéficiaires de la couverture prévoyance conventionnelle sont les salariés ne relevant pas des articles 4 et 4 bis de la convention collective nationale du 14 mars 1947, inscrits aux effectifs des entreprises qui relèvent de la convention collective visée à l'article 1er du présent accord et ce, quelle que soit la nature du contrat de travail et quelle que soit leur ancienneté.</p><p align='left'>Les garanties définies dans le présent accord constituent le socle minimal de prévoyance de la branche.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Les bénéficiaires de la couverture prévoyance conventionnelle sont les salariés ne relevant pas des articles 4 et 4 bis de la convention collective nationale du 14 mars 1947, inscrits aux effectifs des entreprises qui relèvent de la convention collective visée à l'article 1er du présent accord et ce, quelle que soit la nature du contrat de travail et quelle que soit leur ancienneté.</p><p align='left'>Les garanties définies dans le présent accord constituent le socle minimal de prévoyance de la branche.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000041549869_1'></a>(1) L'article 2 est étendu sous réserve de l'application des stipulations de l'accord national interprofessionnel du 17 novembre 2017 instituant le régime AGIRC-ARRCO de retraite complémentaire et de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres.  <br/>(Arrêté du 18 décembre 2020 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Bénéficiaires de la couverture prévoyance",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -9872,10 +9911,49 @@
                 "num": "2.1",
                 "intOrdre": 2097148,
                 "id": "KALIARTI000041549870",
-                "content": "<p align='left'>Le bénéfice du régime de prévoyance conventionnelle est maintenu pour les salariés dont le contrat de travail est suspendu pour la période au titre de laquelle ils bénéficient d'un maintien de salaire, total ou partiel, ou d'indemnités journalières complémentaires financées au moins pour partie par l'employeur. Sont visées toutes les périodes de suspension du contrat de travail et notamment celles liées à une maladie, une maternité, une paternité ou à un accident, dès lors qu'elles sont indemnisées.</p><p align='left'>Dans ce cas, les cotisations resteront dues pendant cette période dans les mêmes conditions que celles prévues pour les salariés dont le contrat n'est pas suspendu : salariés et employeurs devront obligatoirement continuer à acquitter leurs parts de cotisation.</p><p align='center'>Article 2.2<br/>\nSuspensions de contrat de travail à l'initiative du salarié</p><p align='left'>L'assurance est maintenue aux membres du personnel bénéficiant d'un congé sans solde, congé parental d'éducation, congé sabbatique, congé pour création d'entreprise, congé individuel de formation, sous réserve qu'ils continuent à relever de la sécurité sociale et qu'ils en fassent la demande dans le mois précédant leur départ en congé.</p><p align='left'>Le salaire servant à l'assiette des cotisations et des prestations sera établi sur la base des 12 derniers mois de rémunération (éventuellement reconstitué) avant le début du congé ou de la suspension prolongée du contrat de travail en tenant compte des revalorisations salariales générales intervenues dans l'entreprise et pour le secteur professionnel et la catégorie de l'intéressé(e).</p><p align='left'>La cotisation sera alors en totalité à la charge des intéressés pendant toute la période dudit congé.</p><p align='left'>L'employeur se chargera simplement du paiement de la cotisation auprès de l'organisme assureur.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le bénéfice du régime de prévoyance conventionnelle est maintenu pour les salariés dont le contrat de travail est suspendu pour la période au titre de laquelle ils bénéficient d'un maintien de salaire, total ou partiel, ou d'indemnités journalières complémentaires financées au moins pour partie par l'employeur. Sont visées toutes les périodes de suspension du contrat de travail et notamment celles liées à une maladie, une maternité, une paternité ou à un accident, dès lors qu'elles sont indemnisées.</p><p align='left'>Dans ce cas, les cotisations resteront dues pendant cette période dans les mêmes conditions que celles prévues pour les salariés dont le contrat n'est pas suspendu : salariés et employeurs devront obligatoirement continuer à acquitter leurs parts de cotisation.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000041549870_1'></a>(1) L'article 2.1 est étendu sous réserve du respect des dispositions prévues à l'article 12 de la loi n° 2020-734 du 17 juin 2020 relative à diverses dispositions liées à la crise sanitaire, à d'autres mesures urgentes ainsi qu'au retrait du Royaume-Uni de l'Union européenne.</em></font></p><p><p><font color='808080'><em>(Arrêté du 18 décembre 2020 - art. 1)</em></font></p></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Suspensions de contrat de travail à l'initiative de l'employeur",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000042871274",
+                "num": "2.2",
+                "intOrdre": 2359291,
+                "id": "KALIARTI000042871274",
+                "content": "<p align='left'>L'assurance est maintenue aux membres du personnel bénéficiant d'un congé sans solde, congé parental d'éducation, congé sabbatique, congé pour création d'entreprise, congé individuel de formation, sous réserve qu'ils continuent à relever de la sécurité sociale et qu'ils en fassent la demande dans le mois précédant leur départ en congé.</p><p align='left'>Le salaire servant à l'assiette des cotisations et des prestations sera établi sur la base des 12 derniers mois de rémunération (éventuellement reconstitué) avant le début du congé ou de la suspension prolongée du contrat de travail en tenant compte des revalorisations salariales générales intervenues dans l'entreprise et pour le secteur professionnel et la catégorie de l'intéressé(e).</p><p align='left'>La cotisation sera alors en totalité à la charge des intéressés pendant toute la période dudit congé.</p><p align='left'>L'employeur se chargera simplement du paiement de la cotisation auprès de l'organisme assureur.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Suspensions de contrat de travail à l'initiative du salarié",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -9886,9 +9964,22 @@
                 "intOrdre": 2621435,
                 "id": "KALIARTI000041549871",
                 "content": "<p align='left'>Les garanties conventionnelles de prévoyance mises en place sont les suivantes :</p><p align='left'>Décès : capital décès, (garantie décès toute cause, garantie invalidité absolue et définitive garantie capital décès double effet, allocations obsèques).</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Garanties du régime conventionnel de prévoyance",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -9898,10 +9989,23 @@
                 "num": "3.1",
                 "intOrdre": 3145722,
                 "id": "KALIARTI000041549872",
-                "content": "<p align='center'>Assiette des cotisations</p><p align='left'>L'assiette des cotisations est le traitement brut annuel du salarié tel qu'il est déclaré à l'administration fiscale dans la limite des tranches 1 et 2 définies au paragraphe qui suit.</p><p align='center'>Assiette des prestations</p><p align='left'>Le salaire de référence servant au calcul des prestations est égal au salaire brut perçu au cours des 12 mois civils précédant l'événement ouvrant droit à prestations, déclaré par l'entreprise adhérente à l'administration fiscale.</p><p align='left'>Il est limité aux tranches de salaire 1 et 2 définies comme suit :<br/>\n– T1 : fraction au plus égale au salaire limité à un plafond annuel sécurité sociale ;<br/>\n– T2 : fraction de salaire supérieure à un plafond annuel sécurité sociale et limitée à 4 plafonds annuels sécurité sociale.</p><p align='left'>Toutefois, la base des prestations est reconstituée, sur la base d'un temps complet, à partir des salaires correspondant aux mois civils de présence au sein de l'entreprise adhérente lorsque :<br/>\n– la période d'assurance est inférieure à 12 mois ;<br/>\n– le traitement a été réduit ou supprimé au cours de la période de référence, en cas de congés ou d'arrêt de travail pour maladie, accident, périodes de réadaptation, rééducations et formations suite à un accident du travail ou de trajet, maladie professionnelle ou inaptitude, maternité, d'adoption, paternité.</p><p align='center'>Revalorisation</p><p align='left'>Le salaire de référence du personnel encore inscrit aux effectifs fera l'objet d'une revalorisation selon la valeur du taux technique non-vie appliqué par Malakoff Médéric Prévoyance au 31 décembre de l'année précédant le décès.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='center'>Assiette des cotisations </p><p align='left'>L'assiette des cotisations est le traitement brut annuel du salarié tel qu'il est déclaré à l'administration fiscale dans la limite des tranches 1 et 2 définies au paragraphe qui suit. </p><p align='center'>Assiette des prestations </p><p align='left'>Le salaire de référence servant au calcul des prestations est égal au salaire brut perçu au cours des 12 mois civils précédant l'événement ouvrant droit à prestations, déclaré par l'entreprise adhérente à l'administration fiscale. </p><p align='left'>Il est limité aux tranches de salaire 1 et 2 définies comme suit : <br/>– T1 : fraction au plus égale au salaire limité à un plafond annuel sécurité sociale ; <br/>– T2 : fraction de salaire supérieure à un plafond annuel sécurité sociale et limitée à 4 plafonds annuels sécurité sociale. </p><p align='left'>Toutefois, la base des prestations est reconstituée, sur la base d'un temps complet, à partir des salaires correspondant aux mois civils de présence au sein de l'entreprise adhérente lorsque : <br/>– la période d'assurance est inférieure à 12 mois ; <br/>– le traitement a été réduit ou supprimé au cours de la période de référence, en cas de congés ou d'arrêt de travail pour maladie, accident, périodes de réadaptation, rééducations et formations suite à un accident du travail ou de trajet, maladie professionnelle ou inaptitude, maternité, d'adoption, paternité. </p><p align='center'>Revalorisation </p><p align='left'>Le salaire de référence du personnel encore inscrit aux effectifs fera l'objet d'une revalorisation selon la valeur du taux technique non-vie appliqué <i>par Malakoff Médéric Prévoyance</i> <a shape='rect' href='#RENVOI_KALIARTI000041549872_1'> (1)</a> au 31 décembre de l'année précédant le décès.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000041549872_1'></a>(1) Afin de respecter le principe d'égalité, les termes « par Malakoff Médéric Prévoyance » sont exclus de l'extension.  <br/>(Arrêté du 18 décembre 2020 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Salaire de référence",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -9911,10 +10015,23 @@
                 "num": "3.2",
                 "intOrdre": 3670009,
                 "id": "KALIARTI000041549873",
-                "content": "<p align='left'>En cas de décès du salarié, il est versé aux bénéficiaires un capital dont le montant est le suivant : 100 % du salaire de référence plus 25 % par personne à charge.<br/>\nUn montant minimum a été prévu. Il s'élève à 20 000 €.</p><p align='left'>Le niveau du montant minimum du capital prévu ci-avant pourra être revalorisé à l'occasion des négociations paritaires salariales qui s'y tiendront annuellement, avec accord exprès de l'organisme assureur recommandé visé à l'article 7.2 du présent accord.</p><p align='left'>Pour les participants travaillant à temps partiel, le montant minimum du capital est proratisé.</p><p align='left'>Les travailleurs ayant été occupés à temps complet et à temps partiel dans la même entreprise voient leurs droits calculés proportionnellement aux périodes d'emploi accomplies selon l'une ou l'autre de ces modalités depuis leur entrée dans l'entreprise.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>En cas de décès du salarié, il est versé aux bénéficiaires un capital dont le montant est le suivant : 100 % du salaire de référence plus 25 % par personne à charge. <br/>Un montant minimum a été prévu. Il s'élève à 20 000 €. </p><p align='left'>Le niveau du montant minimum du capital prévu ci-avant pourra être revalorisé à l'occasion des négociations paritaires salariales qui s'y tiendront annuellement<i>, avec accord exprès de l'organisme assureur recommandé visé à l'article 7.2 du présent accord</i> <a shape='rect' href='#RENVOI_KALIARTI000041549873_1'> (1)</a>. </p><p align='left'>Pour les participants travaillant à temps partiel, le montant minimum du capital est proratisé. </p><p align='left'>Les travailleurs ayant été occupés à temps complet et à temps partiel dans la même entreprise voient leurs droits calculés proportionnellement aux périodes d'emploi accomplies selon l'une ou l'autre de ces modalités depuis leur entrée dans l'entreprise.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000041549873_1'></a>(1) Afin de respecter le principe d'égalité, les termes « , avec accord exprès de l'organisme assureur recommandé visé à l'article 7.2 du présent accord » sont exclus de l'extension.  <br/>(Arrêté du 18 décembre 2020 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Garantie décès toutes causes",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -9925,9 +10042,22 @@
                 "intOrdre": 4194296,
                 "id": "KALIARTI000041549874",
                 "content": "<p align='left'>Cette garantie s'applique en complément de la garantie capital décès décrite ci-dessus, en cas de décès du conjoint que le décès du conjoint soit simultané ou postérieur au décès du salarié, et alors qu'il reste des enfants à charge.</p><p align='left'>Les bénéficiaires sont les enfants encore à charge du conjoint, dans la mesure où ils étaient déjà à la charge du salarié lors de son décès.</p><p align='left'>Cette garantie prévoit le versement d'un capital supplémentaire égal à 100 % du capital de celui versé au moment du décès du salarié. Ce capital est réparti par parts égales entre les enfants bénéficiaires.</p><p align='left'>La base de calcul de cette garantie est revalorisée entre les deux décès.</p><p align='left'>Cette garantie cesse pour l'ensemble des enfants en cas de résiliation du régime de prévoyance entre le décès du salarié et celui du conjoint survivant. En cas de changement d'organisme assureur, des dispositions seront prises pour la continuité de la garantie.</p><p align='left'>Par décès simultané, il faut entendre le décès des deux conjoints au cours d'un même événement sans qu'il soit possible de déterminer l'ordre des décès.</p><p align='left'>Si un même événement occasionne à la fois le décès du salarié et celui d'une ou plusieurs personnes prises en compte dans le calcul du capital, sans qu'il soit possible de déterminer l'ordre des décès :<br/>\n– pour le calcul du montant du capital en cas de décès, on considère que le salarié est décédé le premier ;<br/>\n– pour le versement du capital en cas de décès, on considère que le salarié est décédé le dernier.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Garantie capital décès double effet",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -9938,9 +10068,22 @@
                 "intOrdre": 4718583,
                 "id": "KALIARTI000041549875",
                 "content": "<p align='left'>L'invalidité absolue et définitive est assimilée au décès si l'état du salarié le conduit à remplir les conditions suivantes. L'invalidité absolue et définitive doit :<br/>\n– se produire au cours de la période d'assurance ;<br/>\n– donner lieu à reconnaissance par la sécurité sociale d'une invalidité de troisième catégorie en cours de période d'assurance ou d'une pension d'incapacité permanente de 100 % au titre de la législation sur les accidents du travail et les maladies professionnelles ;<br/>\n– l'obliger à recourir sa vie durant à l'aide d'une tierce personne pour accomplir les actes ordinaires de la vie ;<br/>\n– en outre, il doit être dans l'incapacité d'exercer toute activité professionnelle lui procurant gain ou profit.</p><p align='left'>Afin que le salarié bénéficie du versement anticipé du capital décès toutes causes, son état d'invalidité absolue et définitive doit être reconnu par l'organisme assureur.</p><p align='left'>Pour déterminer le montant du capital à verser, l'organisme assureur prend en compte la situation de famille à la date à laquelle elle reconnaît l'état d'invalidité absolue et définitive.</p><p align='left'>Le capital est versé au salarié lui-même ou à son représentant légal.</p><p align='left'>Le versement du capital met fin à la garantie décès du salarié.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Garantie invalidité absolue et définitive",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -9951,9 +10094,22 @@
                 "intOrdre": 5242870,
                 "id": "KALIARTI000041549876",
                 "content": "<p align='center'>Désignation type</p><p align='left'>En cas de décès d'un salarié, et dans la mesure où il n'a fait aucune désignation particulière, le capital est versé par priorité :<br/>\n– à son conjoint non divorcé ou non séparé judiciairement ;<br/>\n– à défaut, à son partenaire avec lequel il était lié par un pacte civil de solidarité ;<br/>\n– à défaut, par parts égales, à ses enfants vivants ou représentés, et à ceux de son conjoint s'il en avait la charge au moment du décès ;<br/>\n– à défaut, à ses parents, par parts égales, et en cas de décès de l'un d'eux, au survivant pour la totalité ;<br/>\n– à défaut à ses héritiers, selon la dévolution successorale.</p><p align='left'>Cependant, lorsque le bénéficiaire du capital n'est pas le représentant légal des enfants du salarié, les majorations pour enfants seront versées à chacun des enfants ouvrant droit auxdites majorations et adressées à leurs représentants légaux.</p><p align='left'>Pour être bénéficiaire du capital décès, le concubin doit avoir fait l'objet d'une désignation particulière.</p><p align='center'>Désignation particulière</p><p align='left'>Le salarié peut désigner un ou plusieurs bénéficiaires de son choix à condition qu'une désignation particulière antérieure n'ait pas été acceptée par le(s) bénéficiaire(s) concerné(s).</p><p align='left'>Le salarié doit informer l'organisme de prévoyance de sa désignation particulière par écrit. Elle peut prendre la forme d'un acte sous seing privé ou d'un acte authentique.</p><p align='left'>Toutefois, en cas d'acceptation par le bénéficiaire de sa désignation, celle-ci devient irrévocable, sauf acceptation par ce même bénéficiaire de la substitution.</p><p align='left'>Lorsque l'organisme de prévoyance est informé du décès, elle avise le bénéficiaire si ses coordonnées ont été portées à sa connaissance lors de la désignation.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Définition des bénéficiaires",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -9963,10 +10119,49 @@
                 "num": "3.6",
                 "intOrdre": 5767157,
                 "id": "KALIARTI000041549877",
-                "content": "<p align='center'>Conjoint</p><p align='left'>Il est l'époux ou l'épouse du salarié non divorcé ni séparé judiciairement.</p><p align='left'>Le partenaire lié par un Pacs est assimilé au conjoint.</p><p align='left'>Le concubin (au sens de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006428570&dateTexte=&categorieLien=cid' title='Code civil - art. 515-8 (M)'>article 515-8 du code civil</a>) est assimilé au conjoint, à condition que l'organisme de prévoyance en ait connaissance dans les 3 mois suivant le décès. Le concubin doit prouver sa domiciliation à la même adresse que le salarié par la production notamment, d'une copie du dernier avis d'imposition. La situation de famille retenue est toujours celle constatée au jour du décès.</p><p align='left'>Dans un couple vivant en concubinage, le concubin ou la concubine doit être au regard de l'état civil, ainsi que le salarié décédé, libre de tout lien de mariage ou de contrat de Pacs.</p><p align='center'>Enfants à charge</p><p align='left'>Sont considérés comme à charge, les enfants du salarié et ceux de son conjoint, qu'ils soient légitimes, naturels, reconnus, adoptifs ou recueillis (les enfants recueillis sont définis ci-dessous).</p><p align='left'>Ils doivent, en outre, répondre aux conditions ci-dessous :</p><p align='left'>D'une part :<br/>\n– être âgés de moins de 18 ans ;<br/>\n– être âgés de plus de 18 ans et de moins de 26 ans s'ils remplissent l'une des conditions suivantes :<br/>\n– être sous contrat d'apprentissage ;<br/>\n– suivre des études secondaires ou supérieures, ou une formation en alternance ;<br/>\n– quel que soit leur âge, s'ils perçoivent une des allocations pour adultes handicapés (loi du 30 juin 1975), sous réserve que cette allocation leur ait été attribuée avant leur 21e anniversaire.</p><p align='left'>D'autre part :<br/>\n– être fiscalement à la charge du salarié, c'est-à-dire être pris en compte pour l'application du quotient familial ou percevoir une pension alimentaire que le salarié déduit fiscalement de son revenu global.</p><p align='left'>Sont également considérés comme enfants à charge :<br/>\n– les enfants qui naissent dans les 300 jours suivant le sinistre, s'ils naissent viables ;<br/>\n– les enfants légitimes, naturels, reconnus, adoptés ou recueillis par le salarié même s'ils sont fiscalement à la charge de son partenaire lié avec lui par un pacte civil de solidarité ou de son concubin ;<br/>\n– les enfants recueillis – dont ceux de l'ex-conjoint éventuel, du conjoint ou du concubin ou du partenaire lié par un Pacs – du salarié décédé sont ceux qui ont vécu au foyer jusqu'au moment du décès du salarié et dont leur autre parent n'est pas tenu au versement d'une pension alimentaire.</p><p align='center'>Autres personnes à charge</p><p align='left'>Sont considérés comme à charge, les parents ou grands-parents vivant sous le toit d'un salarié et ne bénéficiant pas de ressources suffisantes pour entraîner le payement d'impôts sur leur propre revenu et bénéficiaires de l'allocation de solidarité aux personnes âgées, à condition :<br/>\n– que le salarié ait été autorisé par l'administration fiscale à déduire de son revenu global le montant de la pension versée à ses ascendants ;<br/>\n– ou que ses ascendants donnent droit à une part supplémentaire dans le calcul du quotient familial.</p><p align='center'>Article 3.7<br/>\nAllocations d'obsèques</p><p align='left'>En cas de décès du salarié, du conjoint ou d'un enfant à charge, une allocation obsèques d'un montant égal à 100 % du plafond mensuel de sécurité sociale (PMSS), en vigueur au moment du décès, est versée.</p><p align='left'>Pour ouvrir droit à la garantie, le décès de la personne garantie, s'il s'agit d'un bénéficiaire autre que le salarié, doit intervenir avant son 65e anniversaire.<br/>\nLes prestations sont réglées :<br/>\n– à la personne qui a assumé la charge des frais d'obsèques de la personne décédée ;<br/>\n– à défaut, aux bénéficiaires du capital décès.</p><p align='left'>Si l'enfant à charge est âgé de moins de 12 ans, la prestation indiquée aux dispositions particulières du contrat d'adhésion est limitée aux frais d'obsèques réellement engagés.</p><p align='left'>Si l'enfant est mort-né, les frais d'obsèques sont pris en charge dans les conditions qui précèdent.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='center'>Conjoint</p><p align='left'>Il est l'époux ou l'épouse du salarié non divorcé ni séparé judiciairement.</p><p align='left'>Le partenaire lié par un Pacs est assimilé au conjoint.</p><p align='left'>Le concubin (au sens de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006428570&dateTexte=&categorieLien=cid'>article 515-8 du code civil</a>) est assimilé au conjoint, à condition que l'organisme de prévoyance en ait connaissance dans les 3 mois suivant le décès. Le concubin doit prouver sa domiciliation à la même adresse que le salarié par la production notamment, d'une copie du dernier avis d'imposition. La situation de famille retenue est toujours celle constatée au jour du décès.</p><p align='left'>Dans un couple vivant en concubinage, le concubin ou la concubine doit être au regard de l'état civil, ainsi que le salarié décédé, libre de tout lien de mariage ou de contrat de Pacs.</p><p align='center'>Enfants à charge</p><p align='left'>Sont considérés comme à charge, les enfants du salarié et ceux de son conjoint, qu'ils soient légitimes, naturels, reconnus, adoptifs ou recueillis (les enfants recueillis sont définis ci-dessous).</p><p align='left'>Ils doivent, en outre, répondre aux conditions ci-dessous :</p><p align='left'>D'une part :<br/>\n– être âgés de moins de 18 ans ;<br/>\n– être âgés de plus de 18 ans et de moins de 26 ans s'ils remplissent l'une des conditions suivantes :<br/>\n– être sous contrat d'apprentissage ;<br/>\n– suivre des études secondaires ou supérieures, ou une formation en alternance ;<br/>\n– quel que soit leur âge, s'ils perçoivent une des allocations pour adultes handicapés (loi du 30 juin 1975), sous réserve que cette allocation leur ait été attribuée avant leur 21e anniversaire.</p><p align='left'>D'autre part :<br/>\n– être fiscalement à la charge du salarié, c'est-à-dire être pris en compte pour l'application du quotient familial ou percevoir une pension alimentaire que le salarié déduit fiscalement de son revenu global.</p><p align='left'>Sont également considérés comme enfants à charge :<br/>\n– les enfants qui naissent dans les 300 jours suivant le sinistre, s'ils naissent viables ;<br/>\n– les enfants légitimes, naturels, reconnus, adoptés ou recueillis par le salarié même s'ils sont fiscalement à la charge de son partenaire lié avec lui par un pacte civil de solidarité ou de son concubin ;<br/>\n– les enfants recueillis – dont ceux de l'ex-conjoint éventuel, du conjoint ou du concubin ou du partenaire lié par un Pacs – du salarié décédé sont ceux qui ont vécu au foyer jusqu'au moment du décès du salarié et dont leur autre parent n'est pas tenu au versement d'une pension alimentaire.</p><p align='center'>Autres personnes à charge</p><p align='left'>Sont considérés comme à charge, les parents ou grands-parents vivant sous le toit d'un salarié et ne bénéficiant pas de ressources suffisantes pour entraîner le payement d'impôts sur leur propre revenu et bénéficiaires de l'allocation de solidarité aux personnes âgées, à condition :<br/>\n– que le salarié ait été autorisé par l'administration fiscale à déduire de son revenu global le montant de la pension versée à ses ascendants ;<br/>\n– ou que ses ascendants donnent droit à une part supplémentaire dans le calcul du quotient familial.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Situation de famille",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000042871245",
+                "num": "3.7",
+                "intOrdre": 6029300,
+                "id": "KALIARTI000042871245",
+                "content": "<p align='left'>En cas de décès du salarié, du conjoint ou d'un enfant à charge, une allocation obsèques d'un montant égal à 100 % du plafond mensuel de sécurité sociale (PMSS), en vigueur au moment du décès, est versée.</p><p align='left'>Pour ouvrir droit à la garantie, le décès de la personne garantie, s'il s'agit d'un bénéficiaire autre que le salarié, doit intervenir avant son 65e anniversaire.</p><p align='left'>Les prestations sont réglées :<br/>\n– à la personne qui a assumé la charge des frais d'obsèques de la personne décédée ;<br/>\n– à défaut, aux bénéficiaires du capital décès.</p><p align='left'>Si l'enfant à charge est âgé de moins de 12 ans, la prestation <em>indiquée aux dispositions particulières du contrat d'adhésion</em><a shape='rect' href='#RENVOI_KALIARTI000041549877_1'> (1)</a> est limitée aux frais d'obsèques réellement engagés.</p><p align='left'>Si l'enfant est mort-né, les frais d'obsèques sont pris en charge dans les conditions qui précèdent.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000041549877_1'></a>(1) Afin de respecter le principe d'égalité, les termes « indiquée aux dispositions particulières du contrat d'adhésion » sont exclus de l'extension.<br/>\n(Arrêté du 18 décembre 2020 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Allocations d'obsèques",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -9977,9 +10172,22 @@
                 "intOrdre": 6291444,
                 "id": "KALIARTI000041549879",
                 "content": "<p align='left'>La cotisation globale fixée en contrepartie des garanties fixées par le présent accord est répartie à hauteur de 55 % à la charge de l'employeur et à hauteur de 45 % à la charge du salarié.</p><p align='left'>Le taux global de cotisation est fixé et ventilé comme suit à compter de la date d'effet de l'accord jusqu'au 31 décembre 2022 :<br/>\n– cotisation au titre de la garantie décès toutes causes/double effet/IA : 0,23 % du salaire de référence défini à l'article 3.1 du présent accord ;<br/>\n– cotisation au titre de l'allocation obsèques : 0,05 % du salaire de référence défini à l'article 3.1 du présent accord.</p><p align='left'>Ces taux de cotisation sont maintenus 3 ans à compter de la date d'effet, à législation et réglementation constante. Les évolutions ultérieures seront décidées entre l'organisme de prévoyance et la commission paritaire de suivi définie à l'article 10, en fonction des résultats constatés sur le régime et feront l'objet d'un avenant au présent accord.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Taux de cotisation",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -9990,9 +10198,22 @@
                 "intOrdre": 6815731,
                 "id": "KALIARTI000041549881",
                 "content": "<p align='left'>Outre les mécanismes ou niveau de revalorisations des prestations prévues ci avant, les prestations périodiques sont revalorisées en fonction de l'évolution de la valeur du point unifié AGIRC-ARRCO entre la date du sinistre et la date d'échéance trimestrielle de la prestation correspondante.</p><p align='left'>Toutefois cette évolution devra au préalable être entérinée par le conseil d'administration de l'organisme assureur qui pourra être amené à réduire ce taux d'évolution.</p><p align='left'>En cas de résiliation du régime de prévoyance ou d'une des garanties, pour quelque cause que ce soit, le service des rentes en cours se produit sur la base de la dernière valeur atteinte de la rente et sans revalorisation ultérieure à la date de résiliation.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Revalorisation des prestations",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -10002,10 +10223,23 @@
                 "num": "6",
                 "intOrdre": 7340018,
                 "id": "KALIARTI000041549882",
-                "content": "<p align='left'>Conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000027549127&dateTexte=&categorieLien=cid' title='Code de la sécurité sociale. - art. L911-8 (V)'>article L. 911-8 du code de la sécurité sociale</a>, créé par la <a href='/affichTexte.do?cidTexte=JORFTEXT000027546648&categorieLien=cid' title='LOI n°2013-504  du 14 juin 2013 (V)'>loi n° 2013-504 du 14 juin 2013</a> relative à la sécurisation de l'emploi, les salariés garantis collectivement, dans les conditions prévues à l'article L. 911-1, contre le risque décès, les risques portant atteinte à l'intégrité physique de la personne ou liés à la maternité ou les risques d'incapacité de travail ou d'invalidité bénéficient du maintien à titre gratuit de cette couverture en cas de cessation du contrat de travail, non consécutive à une faute lourde, ouvrant droit à prise en charge par le régime d'assurance chômage, selon les conditions suivantes :<br/>\n– le maintien des garanties est applicable à compter de la date de cessation du contrat de travail et pendant une durée égale à la période d'indemnisation du chômage, dans la limite de la durée du dernier contrat de travail ou, le cas échéant, des derniers contrats de travail lorsqu'ils sont consécutifs chez le même employeur. Cette durée est appréciée en mois, le cas échéant arrondie au nombre supérieur, sans pouvoir excéder 12 mois ;<br/>\n– le bénéfice du maintien des garanties est subordonné à la condition que les droits à remboursements complémentaires aient été ouverts chez le dernier employeur ;<br/>\n– Les garanties maintenues au bénéfice de l'ancien salarié sont celles en vigueur dans l'entreprise ;<br/>\n– le maintien des garanties ne peut conduire l'ancien salarié à percevoir des indemnités d'un montant supérieur à celui des allocations-chômage qu'il aurait perçues au titre de la même période ;<br/>\n– l'ancien salarié justifie auprès de son organisme assureur, à l'ouverture et au cours de la période de maintien des garanties, des conditions prévues au présent article ;<br/>\n– l'employeur signale le maintien de ces garanties dans le certificat de travail et informe l'organisme assureur de la cessation du contrat de travail mentionnée au 1er alinéa.</p><p align='left'>Le présent article est applicable dans les mêmes conditions aux ayants droit du salarié qui bénéficient effectivement des garanties mentionnées au premier alinéa à la date de la cessation du contrat de travail.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000027549127&dateTexte=&categorieLien=cid'>article L. 911-8 du code de la sécurité sociale</a>, créé par la <a href='/affichTexte.do?cidTexte=JORFTEXT000027546648&categorieLien=cid'>loi n° 2013-504 du 14 juin 2013</a> relative à la sécurisation de l'emploi, les salariés garantis collectivement, dans les conditions prévues à l'article L. 911-1, contre le risque décès, les risques portant atteinte à l'intégrité physique de la personne ou liés à la maternité ou les risques d'incapacité de travail ou d'invalidité bénéficient du maintien à titre gratuit de cette couverture en cas de cessation du contrat de travail, non consécutive à une faute lourde, ouvrant droit à prise en charge par le régime d'assurance chômage, selon les conditions suivantes :<br/>\n– le maintien des garanties est applicable à compter de la date de cessation du contrat de travail et pendant une durée égale à la période d'indemnisation du chômage, dans la limite de la durée du dernier contrat de travail ou, le cas échéant, des derniers contrats de travail lorsqu'ils sont consécutifs chez le même employeur. Cette durée est appréciée en mois, le cas échéant arrondie au nombre supérieur, sans pouvoir excéder 12 mois ;<br/>\n– le bénéfice du maintien des garanties est subordonné à la condition que les droits à remboursements complémentaires aient été ouverts chez le dernier employeur ;<br/>\n– Les garanties maintenues au bénéfice de l'ancien salarié sont celles en vigueur dans l'entreprise ;<br/>\n– le maintien des garanties ne peut conduire l'ancien salarié à percevoir des indemnités d'un montant supérieur à celui des allocations-chômage qu'il aurait perçues au titre de la même période ;<br/>\n– l'ancien salarié justifie auprès de son organisme assureur, à l'ouverture et au cours de la période de maintien des garanties, des conditions prévues au présent article ;<br/>\n– l'employeur signale le maintien de ces garanties dans le certificat de travail et informe l'organisme assureur de la cessation du contrat de travail mentionnée au 1er alinéa.</p><p align='left'>Le présent article est applicable dans les mêmes conditions aux ayants droit du salarié qui bénéficient effectivement des garanties mentionnées au premier alinéa à la date de la cessation du contrat de travail.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Portabilité",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -10016,9 +10250,22 @@
                 "intOrdre": 7864305,
                 "id": "KALIARTI000041549885",
                 "content": "",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Organisme assureur. – Recommandation",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -10029,9 +10276,22 @@
                 "intOrdre": 8388592,
                 "id": "KALIARTI000041549886",
                 "content": "<p align='left'>Les entreprises entrant dans le champ d'application du présent accord, qui ne disposent pas, à la date d'effet du présent accord, d'un régime de prévoyance couvrant à l'identique, risque par risque, ceux prévus à l'article 3 du présent accord, devront obligatoirement couvrir leur personnel au minimum pour les risques mentionnés dans le présent accord et pour les niveaux de garanties prévus.</p><p align='left'>Les partenaires sociaux souhaitent préserver la liberté de choix de l'employeur tout en permettant aux entreprises et aux salariés de bénéficier d'une couverture de prévoyance complémentaire répondant à leurs besoins et aux conditions tarifaires définies par les partenaires sociaux.</p><p align='left'>À l'issue d'une procédure transparente de mise en concurrence prévue par les dispositions légales et réglementaires, un organisme assureur est recommandé par les partenaires sociaux dans le but de proposer un contrat de branche aux entreprises.</p><p align='left'>Ces recommandations n'ont aucune valeur contraignante ou pénalisante pour les entreprises.</p><p align='left'>Afin de garantir aux salariés et à leurs enfants à charge une couverture optimale et d'assurer la meilleure efficacité possible du régime de branche, les partenaires sociaux s'engagent à procéder à un nouvel appel d'offres tous les 5 ans, sauf si le régime présente un déséquilibre financier marqué et/ou des prestations liées aux garanties non conformes au cahier des charges, nécessitant dès lors un appel d'offres anticipé.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Choix de l'organisme assureur",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -10042,9 +10302,22 @@
                 "intOrdre": 8912879,
                 "id": "KALIARTI000041549887",
                 "content": "<p align='left'>L'organisme assureur recommandé est le suivant : Malakoff Médéric Humanis, 21, rue Laffitte, 75009 Paris.</p><p align='left'>Tél. : 01 56 03 34 56</p><p align='left'><a shape='rect' href='https://www.malakoffhumanis.com/' target='_blank'> https://www.malakoffhumanis.com/</a></p><p align='center'>Institution de prévoyance régie par le code de la sécurité sociale</p><p align='left'>Lorsqu'une entreprise entrant dans le champ d'application du régime conventionnel adhérera auprès de Malakoff Médéric Prévoyance, les salariés en arrêt de travail à la date de mise en place du régime de prévoyance conventionnel bénéficieront des garanties définies par le présent accord conformément à la loi législation applicable (loi Évin).</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Recommandation",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -10054,10 +10327,23 @@
                 "num": "7.3",
                 "intOrdre": 9437166,
                 "id": "KALIARTI000041549889",
-                "content": "<p align='left'>Les entreprises qui voudraient disposer de garanties complémentaires à celles définies par le présent accord pourront les souscrire auprès de Malakoff Médéric Prévoyance ou de l'organisme de leur choix.</p><p align='left'>À ce titre, Malakoff Médéric Prévoyance met à disposition une garantie rente éducation complémentaire optionnelle en cas de décès du salarié.</p><p align='left'>En effet en cas de décès du salarié, est prévu, à titre facultatif, le versement aux enfants à charge tels que définis à l'article 3.6 du présent accord d'une rente éducation fixe évaluée à 10 % du salaire de référence visé à l'article 3.1.</p><p align='left'>La souscription à ces garanties complémentaires est soumise à questionnaire médical.</p><p align='left'>Ces garanties complémentaires éventuellement souscrites ne bénéficieront pas de la mutualisation des risques.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Les entreprises qui voudraient disposer de garanties complémentaires à celles définies par le présent accord pourront les souscrire auprès de Malakoff Médéric Prévoyance ou de l'organisme de leur choix.</p><p align='left'>À ce titre, Malakoff Médéric Prévoyance met à disposition une garantie rente éducation complémentaire optionnelle en cas de décès du salarié.</p><p align='left'>En effet en cas de décès du salarié, est prévu, à titre facultatif, le versement aux enfants à charge tels que définis à l'article 3.6 du présent accord d'une rente éducation fixe évaluée à 10 % du salaire de référence visé à l'article 3.1.</p><p align='left'>La souscription à ces garanties complémentaires est soumise à questionnaire médical.</p><p align='left'>Ces garanties complémentaires éventuellement souscrites ne bénéficieront pas de la mutualisation des risques.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000041549889_1'></a>(1) L'article 7.3 de l'accord est exclu de l'extension, comme étant contraire aux dispositions des articles L. 911-1 et L. 911-2 du code de la sécurité sociale.  <br/>(Arrêté du 18 décembre 2020 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Garanties complémentaires optionnelles",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -10068,9 +10354,22 @@
                 "intOrdre": 9961453,
                 "id": "KALIARTI000041549890",
                 "content": "",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Degré élevé de solidarité",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -10080,10 +10379,23 @@
                 "num": "8.1",
                 "intOrdre": 10485740,
                 "id": "KALIARTI000041549891",
-                "content": "<p align='left'>Le présent accord a pour objet de renforcer un régime conventionnel de prévoyance au niveau de la branche unifiée du verre, cristal et vitrail.</p><p align='left'>La négociation a été menée avec la volonté d'instaurer un régime obligatoire, collectif et solidaire.</p><p align='left'>À ce titre, des garanties présentant un degré élevé de solidarité sont mises en place au bénéfice des salariés des entreprises relevant de la branche unifiée précitée.<br/>\nConformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000029900365&dateTexte=&categorieLien=cid' title='Code de la sécurité sociale. - art. R912-1 (V)'>dispositions de l'article R. 912-1 du code de la sécurité sociale</a>, il est convenu que 2 % des cotisations annuelles acquittées au titre du régime de prévoyance sont affectés au financement du degré élevé de solidarité.</p><p align='left'>Cette part de financement est versée par chaque entreprise à l'organisme assureur qui assure sa couverture au titre du régime de prévoyance. En contrepartie, et conformément aux orientations arrêtées par les partenaires sociaux de la branche, le contrat d'assurance de l'entreprise prévoit la mise en œuvre :<br/>\n– d'actions de prévention concernant les risques professionnels ou d'autres objectifs de la politique de santé ;<br/>\n– de prestations d'action sociale, soit à titre individuel (attribution d'aides et de secours individuels aux salariés et leurs ayants droit, lorsque la situation matérielle des intéressés le justifie), soit à titre collectif (attribution d'aides aux salariés ou leurs ayants droit leur permettant de faire face à des situations pouvant entraîner une fragilité sociale).</p><p align='left'>En tout état de cause, les entreprises non adhérentes à l'organisme assureur recommandé visé à l'article 7.2 devront permettre à leurs salariés de bénéficier d'une action sociale, à travers la mise en œuvre de mesures conformes aux garanties présentant un degré élevé de solidarité définies par une liste établie par la commission nationale paritaire de suivi.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le présent accord a pour objet de renforcer un régime conventionnel de prévoyance au niveau de la branche unifiée du verre, cristal et vitrail.</p><p align='left'>La négociation a été menée avec la volonté d'instaurer un régime obligatoire, collectif et solidaire.</p><p align='left'>À ce titre, des garanties présentant un degré élevé de solidarité sont mises en place au bénéfice des salariés des entreprises relevant de la branche unifiée précitée.<br/>\nConformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000029900365&dateTexte=&categorieLien=cid'>dispositions de l'article R. 912-1 du code de la sécurité sociale</a>, il est convenu que 2 % des cotisations annuelles acquittées au titre du régime de prévoyance sont affectés au financement du degré élevé de solidarité.</p><p align='left'>Cette part de financement est versée par chaque entreprise à l'organisme assureur qui assure sa couverture au titre du régime de prévoyance. En contrepartie, et conformément aux orientations arrêtées par les partenaires sociaux de la branche, le contrat d'assurance de l'entreprise prévoit la mise en œuvre :<br/>\n– d'actions de prévention concernant les risques professionnels ou d'autres objectifs de la politique de santé ;<br/>\n– de prestations d'action sociale, soit à titre individuel (attribution d'aides et de secours individuels aux salariés et leurs ayants droit, lorsque la situation matérielle des intéressés le justifie), soit à titre collectif (attribution d'aides aux salariés ou leurs ayants droit leur permettant de faire face à des situations pouvant entraîner une fragilité sociale).</p><p align='left'>En tout état de cause, les entreprises non adhérentes à l'organisme assureur recommandé visé à l'article 7.2 devront permettre à leurs salariés de bénéficier d'une action sociale, à travers la mise en œuvre de mesures conformes aux garanties présentant un degré élevé de solidarité définies par une liste établie par la commission nationale paritaire de suivi.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Garanties présentant un degré élevé de solidarité",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -10093,10 +10405,23 @@
                 "num": "8.2",
                 "intOrdre": 11010027,
                 "id": "KALIARTI000041549893",
-                "content": "<p align='left'>Pour les entreprises ayant fait le choix de rejoindre l'organisme assureur recommandé visé à l'article 7.2 du présent accord, il est institué un fonds d'action sociale financé et géré de façon mutualisée par cet organisme recommandé.</p><p align='left'>Ce fonds d'action sociale est exclusivement dédié aux entreprises et aux salariés de la branche ayant adhéré au régime de branche auprès de l'organisme d'assurance recommandé. Les domaines d'intervention et actions menées dans le cadre de ce fonds d'action sociale, ainsi que les modalités de sa mise en œuvre, font l'objet d'un règlement spécifique.</p><p align='left'>Une situation du fonds social au 31 décembre de chaque exercice est fournie.</p><p align='left'>Les aides sont accordées dans la limite des sommes collectées par l'organisme assureur et affectées au degré élevé de solidarité. Dans l'hypothèse d'une insuffisance du fonds social les demandes seront traitées prioritairement selon la date de réception du dossier complet.</p><p align='left'>Le degré élevé de solidarité peut être résilié par l'une ou l'autre des parties au 31 décembre de chaque année.</p><p align='left'>La résiliation doit se faire par courrier recommandé avec accusé réception et respecter un délai de préavis de 3 mois. Toutes les demandes déposées dans cet intervalle y compris celles qui n'auraient pas abouties avant ce délai seront prises en compte.</p><p align='left'>La clôture effective du DES sera considérée comme définitive lorsque toutes les aides en cours avant la période de résiliation auront été traitées.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Pour les entreprises ayant fait le choix de rejoindre l'organisme assureur recommandé visé à l'article 7.2 du présent accord, il est institué un fonds d'action sociale financé et géré de façon mutualisée par cet organisme recommandé. </p><p align='left'>Ce fonds d'action sociale est exclusivement dédié aux entreprises et aux salariés de la branche ayant adhéré au régime de branche auprès de l'organisme d'assurance recommandé. Les domaines d'intervention et actions menées dans le cadre de ce fonds d'action sociale, ainsi que les modalités de sa mise en œuvre, font l'objet d'un règlement spécifique. </p><p align='left'>Une situation du fonds social au 31 décembre de chaque exercice est fournie. </p><p align='left'>Les aides sont accordées dans la limite des sommes collectées par l'organisme assureur et affectées au degré élevé de solidarité. Dans l'hypothèse d'une insuffisance du fonds social les demandes seront traitées prioritairement selon la date de réception du dossier complet. </p><p align='left'><i>Le degré élevé de solidarité peut être résilié par l'une ou l'autre des parties au 31 décembre de chaque année.</i> <a shape='rect' href='#RENVOI_KALIARTI000041549893_1'> (1)</a></p><p align='left'>La résiliation doit se faire par courrier recommandé avec accusé réception et respecter un délai de préavis de 3 mois. Toutes les demandes déposées dans cet intervalle y compris celles qui n'auraient pas abouties avant ce délai seront prises en compte. </p><p align='left'>La clôture effective du DES sera considérée comme définitive lorsque toutes les aides en cours avant la période de résiliation auront été traitées.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000041549893_1'></a>(1) A l'article 8.2 de l'accord, les termes « Le degré élevé de solidarité peut être résilié par l'une ou l'autre des parties au 31 décembre de chaque année. La résiliation doit se faire par courrier recommandé avec accusé réception et respecter un délai de préavis de 3 mois. Toutes les demandes déposées dans cet intervalle y compris celles qui n'auraient pas abouties avant ce délai seront prises en compte. La clôture effective du DES sera considérée comme définitive lorsque toutes les aides en cours avant la période de résiliation auront été traitées » sont exclus de l'extension comme étant contraires aux dispositions des articles L. 912-1 et R. 912-1 et suivants du code de la sécurité sociale.  <br/>(Arrêté du 18 décembre 2020 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Gestion du fonds d'action sociale de la branche",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -10106,10 +10431,23 @@
                 "num": "9",
                 "intOrdre": 11534314,
                 "id": "KALIARTI000041549894",
-                "content": "<p align='left'>Une commission paritaire de suivi du régime de prévoyance sera mise en place au cours de l'année suivant la signature du présent accord.</p><p align='left'>Elle sera chargée notamment de suivre la mise en place du régime de prévoyance, de contrôler son application, d'examiner les comptes de résultat et de veiller à son bon fonctionnement.</p><p align='left'>En plus des comptes détaillés de l'exercice clos, l'organisme assureur recommandé présentera régulièrement un bilan des adhésions au régime conventionnel et des éventuelles difficultés rencontrées dans la mise en place de ce régime de prévoyance.</p><p align='left'>La commission paritaire de suivi sera composée d'un représentant de chacune des organisations syndicales représentatives au niveau de la branche professionnelle du cristal, du verre et du vitrail et d'un nombre égal de représentants des organisations professionnelles d'employeurs de cette branche. Cette commission de suivi se réunira au moins une fois par an.</p><p align='left'>Les entreprises relevant de la convention collective nationale unifiée du verre, du cristal et du vitrail de la fabrication du verre à la main semi-automatique et mixte résultant de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000035779731&categorieLien=cid' title='Fusion des branches professionnelles de la fabrication du verre à la main semi-automatique et mix... (VE)'>accord du 30 juin 2017</a> (IDCC 161, IDCC 1821, IDCC 1945, IDCC 2306) s'engagent à communiquer tous les éléments nécessaires à ladite commission pour, qu'en toute connaissance de cause, celle-ci puisse au mieux piloter le dispositif de prévoyance et l'améliorer.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Une commission paritaire de suivi du régime de prévoyance sera mise en place au cours de l'année suivant la signature du présent accord.</p><p align='left'>Elle sera chargée notamment de suivre la mise en place du régime de prévoyance, de contrôler son application, d'examiner les comptes de résultat et de veiller à son bon fonctionnement.</p><p align='left'>En plus des comptes détaillés de l'exercice clos, l'organisme assureur recommandé présentera régulièrement un bilan des adhésions au régime conventionnel et des éventuelles difficultés rencontrées dans la mise en place de ce régime de prévoyance.</p><p align='left'>La commission paritaire de suivi sera composée d'un représentant de chacune des organisations syndicales représentatives au niveau de la branche professionnelle du cristal, du verre et du vitrail et d'un nombre égal de représentants des organisations professionnelles d'employeurs de cette branche. Cette commission de suivi se réunira au moins une fois par an.</p><p align='left'>Les entreprises relevant de la convention collective nationale unifiée du verre, du cristal et du vitrail de la fabrication du verre à la main semi-automatique et mixte résultant de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000035779731&categorieLien=cid'>accord du 30 juin 2017</a> (IDCC 161, IDCC 1821, IDCC 1945, IDCC 2306) s'engagent à communiquer tous les éléments nécessaires à ladite commission pour, qu'en toute connaissance de cause, celle-ci puisse au mieux piloter le dispositif de prévoyance et l'améliorer.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Commission paritaire de suivi",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -10119,10 +10457,23 @@
                 "num": "10",
                 "intOrdre": 12058601,
                 "id": "KALIARTI000041549896",
-                "content": "<p align='left'>Le présent accord fera l'objet d'un réexamen en cas d'évolutions des contraintes réglementaires ou législatives qui nécessiteraient l'adaptation d'une ou plusieurs de ses dispositions.<br/>\nLe présent accord pourra être révisé ou dénoncé conformément aux dispositions légales en vigueur avec un préavis de 6 mois. La dénonciation sera notifiée par son auteur aux autres parties signataires et donnera lieu à un dépôt conformément aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901668&dateTexte=&categorieLien=cid' title='Code du travail - art. L2222-6 (V)'>L. 2222-6 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-9 (V)'>L.2261-9</a> du code du travail.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le présent accord fera l'objet d'un réexamen en cas d'évolutions des contraintes réglementaires ou législatives qui nécessiteraient l'adaptation d'une ou plusieurs de ses dispositions.<br/>\nLe présent accord pourra être révisé ou dénoncé conformément aux dispositions légales en vigueur avec un préavis de 6 mois. La dénonciation sera notifiée par son auteur aux autres parties signataires et donnera lieu à un dépôt conformément aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901668&dateTexte=&categorieLien=cid'>L. 2222-6 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid'>L.2261-9</a> du code du travail.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Révision et dénonciation",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -10133,9 +10484,22 @@
                 "intOrdre": 12582888,
                 "id": "KALIARTI000041549899",
                 "content": "<p align='left'>Le présent accord national est conclu pour une durée indéterminée.</p><p align='left'>Les dispositions relatives au présent accord entreront en vigueur à partir du 1er janvier 2020 aux entreprises et salariés relevant du champ d'origine ante-fusion (IDCC 1821).</p><p align='left'>Ce n'est qu'au 1er janvier 2022 que l'application obligatoire du régime conventionnel concernera l'ensemble du champ créé par l'accord de fusion absorption du 30 juin 2017, c'est-à-dire aux entreprises relevant précédemment des champs IDCC 161, 1945 et 2306 aujourd'hui dénoncés.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Durée et entrée en vigueur",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -10146,9 +10510,22 @@
                 "intOrdre": 13107175,
                 "id": "KALIARTI000041549900",
                 "content": "<p align='left'>Le présent accord national sera notifié à l'ensemble des organisations syndicales représentatives au niveau de la branche et déposé, après expiration du délai d'opposition, à la direction générale de travail et au greffe du conseil des prud'hommes dans les conditions légales en vigueur.</p><p align='left'>Son extension sera demandée auprès de la direction générale du travail par la partie la plus diligente.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dépôt et extension de l'accord",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042732284",
+                    "textTitle": "Arrêté du 18 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042732287",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2020-12-24",
+                    "dateSignaTexte": "2020-12-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
