@@ -1570,33 +1570,33 @@
                         "cid": "KALIARTI000005870290",
                         "num": "3.6",
                         "intOrdre": 42949,
-                        "id": "KALIARTI000038668144",
-                        "content": "<p>La valeur du point est fixée à 15,48 € à compter du 1er janvier 2019.</p>",
+                        "id": "KALIARTI000042983545",
+                        "content": "<p>La valeur du point est fixée à 15,68 € à compter du 1er janvier 2020.</p>",
                         "etat": "VIGUEUR_ETEN",
                         "lstLienModification": [
                           {
-                            "textCid": "JORFTEXT000038895915",
-                            "textTitle": "Arrêté du 2 août 2019 - art. 1, v. init.",
-                            "linkType": "ETEND",
-                            "linkOrientation": "cible",
+                            "textCid": "JORFTEXT000041946925",
+                            "textTitle": "Arrêté du 26 mai 2020 - art. 1, v. init.",
+                            "linkType": "EXTENSION",
+                            "linkOrientation": "source",
                             "articleNum": "1",
-                            "articleId": "JORFARTI000038895919",
+                            "articleId": "JORFARTI000041946929",
                             "natureText": "ARRETE",
-                            "datePubliTexte": "2019-08-08",
-                            "dateSignaTexte": "2019-08-02",
+                            "datePubliTexte": "2020-06-03",
+                            "dateSignaTexte": "2020-05-26",
                             "dateDebutCible": "2999-01-01"
                           },
                           {
-                            "textCid": "KALITEXT000038649770",
-                            "textTitle": "Salaires minima conventionnels pour 2019 - art. 1er (VNE)",
+                            "textCid": "KALITEXT000041973156",
+                            "textTitle": "Salaires pour l'année 2020 - art. 1er (VE)",
                             "linkType": "MODIFIE",
                             "linkOrientation": "cible",
                             "articleNum": "1er",
-                            "articleId": "KALIARTI000038649774",
+                            "articleId": "KALIARTI000041973160",
                             "natureText": "Avenant",
-                            "datePubliTexte": "2999-01-01",
-                            "dateSignaTexte": "2018-12-12",
-                            "dateDebutCible": "2019-01-01"
+                            "datePubliTexte": "2020-06-08",
+                            "dateSignaTexte": "2019-12-04",
+                            "dateDebutCible": "2020-01-01"
                           }
                         ]
                       }
@@ -17815,6 +17815,18 @@
                     "datePubliTexte": "2020-06-03",
                     "dateSignaTexte": "2020-05-26",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000005686694",
+                    "textTitle": "Convention collective nationale du 11 mai 2000 - art. 3.6 (VE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "3.6",
+                    "articleId": "KALIARTI000042983545",
+                    "natureText": "Convention collective nationale ",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2000-05-11",
+                    "dateDebutCible": "2020-01-01"
                   }
                 ]
               }
