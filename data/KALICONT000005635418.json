@@ -135,7 +135,7 @@
                     "articleNum": "1er",
                     "articleId": "KALIARTI000038632611",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2019-06-18",
+                    "datePubliTexte": "2999-01-01",
                     "dateSignaTexte": "2018-11-09",
                     "dateDebutCible": "2018-11-09"
                   }
@@ -172,7 +172,7 @@
                     "articleNum": "1er",
                     "articleId": "KALIARTI000038632611",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2019-06-18",
+                    "datePubliTexte": "2999-01-01",
                     "dateSignaTexte": "2018-11-09",
                     "dateDebutCible": "2018-11-09"
                   }
@@ -623,6 +623,18 @@
                 "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
                   {
+                    "textCid": "JORFTEXT000038895844",
+                    "textTitle": "Arrêté du 2 août 2019 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000038895847",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2019-08-08",
+                    "dateSignaTexte": "2019-08-02",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
                     "textCid": "KALITEXT000037323850",
                     "textTitle": "Temps partiel - art. 2 (VNE)",
                     "linkType": "MODIFIE",
@@ -630,7 +642,7 @@
                     "articleNum": "2",
                     "articleId": "KALIARTI000037323856",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2018-08-22",
+                    "datePubliTexte": "2999-01-01",
                     "dateSignaTexte": "2018-02-12",
                     "dateDebutCible": "2019-09-01"
                   },
@@ -642,21 +654,9 @@
                     "articleNum": "3",
                     "articleId": "KALIARTI000037323858",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2018-08-22",
+                    "datePubliTexte": "2999-01-01",
                     "dateSignaTexte": "2018-02-12",
                     "dateDebutCible": "2019-09-01"
-                  },
-                  {
-                    "textCid": "JORFTEXT000038895844",
-                    "textTitle": "Arrêté du 2 août 2019 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000038895847",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2019-08-08",
-                    "dateSignaTexte": "2019-08-02",
-                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -684,18 +684,6 @@
                 "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000032749127",
-                    "textTitle": "Avenant n° 43 relatif au 13e mois - art. (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "cible",
-                    "articleNum": "",
-                    "articleId": "KALIARTI000032749130",
-                    "natureText": "Avenant",
-                    "datePubliTexte": "2016-06-22",
-                    "dateSignaTexte": "2016-03-11",
-                    "dateDebutCible": "2017-01-01"
-                  },
-                  {
                     "textCid": "JORFTEXT000033549711",
                     "textTitle": "Arrêté du 24 novembre 2016 - art. 1, v. init.",
                     "linkType": "ETEND",
@@ -706,6 +694,18 @@
                     "datePubliTexte": "2016-12-08",
                     "dateSignaTexte": "2016-11-24",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000032749127",
+                    "textTitle": "Avenant n° 43 relatif au 13e mois - art. (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "KALIARTI000032749130",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2016-03-11",
+                    "dateDebutCible": "2017-01-01"
                   }
                 ]
               }
