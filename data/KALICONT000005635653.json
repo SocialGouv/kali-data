@@ -685,44 +685,6 @@
             {
               "type": "section",
               "data": {
-                "cid": "KALISCTA000026355912",
-                "intOrdre": 2097148,
-                "title": "Chapitre I.3. - Impérativité des clauses des accords et avenants",
-                "id": "KALISCTA000026355912",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000026355967",
-                    "num": "1.30",
-                    "intOrdre": 524287,
-                    "id": "KALIARTI000026355967",
-                    "content": "<p align='left'><br/>Les clauses des accords et avenants de la convention collective du 30 octobre 1969 modifiée conclus antérieurement à la date du 7 mai 2004 sont impératives.<br/>Les clauses des accords et avenants de la même convention collective conclus entre la date du 7 mai 2004 et celle de la publication de l'arrêté d'extension de l'avenant portant révision de cette convention au Journal officiel de la République française (JORF) sont, elles aussi par la volonté des parties signataires, impératives et d'application directe quand bien même elles ne le préciseraient pas.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "surtitre": "Principe",
-                    "lstLienModification": [
-                      {
-                        "textCid": "JORFTEXT000028143921",
-                        "textTitle": "Arrêté du 23 octobre 2013 - art. 1, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "1",
-                        "articleId": "JORFARTI000028143923",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2013-11-03",
-                        "dateSignaTexte": "2013-10-23",
-                        "dateDebutCible": "2999-01-01"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
                 "cid": "KALISCTA000026355913",
                 "intOrdre": 2621435,
                 "title": "Chapitre I.4. - Soumission de la convention collective aux normes juridiques supérieures",
@@ -1007,8 +969,8 @@
                     "num": "1.51",
                     "intOrdre": 3670009,
                     "id": "KALIARTI000026355978",
-                    "content": "<p align='left'><br/>Le rôle, l'organisation, le fonctionnement ainsi que les modalités de la saisine de la commission paritaire de validation de branche sont réglés par les clauses qui suivent.</p>",
-                    "etat": "VIGUEUR_ETEN",
+                    "content": "<p align='left'>Le rôle, l'organisation, le fonctionnement ainsi que les modalités de la saisine de la commission paritaire de validation de branche sont réglés par les clauses qui suivent.</p><p align='left'></p>",
+                    "etat": "ABROGE",
                     "surtitre": "Commission paritaire de validation de branche des accords collectifs de travail dans les entreprises dépourvues de délégué syndical",
                     "lstLienModification": [
                       {
@@ -1022,6 +984,18 @@
                         "datePubliTexte": "2013-11-03",
                         "dateSignaTexte": "2013-10-23",
                         "dateDebutCible": "2999-01-01"
+                      },
+                      {
+                        "textCid": "KALITEXT000039399646",
+                        "textTitle": "Temps choisi - art. 2 (VE)",
+                        "linkType": "ABROGATION",
+                        "linkOrientation": "source",
+                        "articleNum": "2",
+                        "articleId": "KALIARTI000039399652",
+                        "natureText": "Avenant",
+                        "datePubliTexte": "2999-01-01",
+                        "dateSignaTexte": "2019-06-04",
+                        "dateDebutCible": "2019-06-04"
                       }
                     ]
                   }
@@ -1033,8 +1007,8 @@
                     "num": "1.51.1",
                     "intOrdre": 4194296,
                     "id": "KALIARTI000026355979",
-                    "content": "<p align='left'><br/>La commission paritaire de validation de branche a pour rôle de se prononcer sur la validité des accords collectifs de travail qui lui sont transmis.<br/>Les accords collectifs de travail sont ceux conclus dans les entreprises relevant du champ professionnel de la convention collective, qui sont dépourvues de délégué syndical, lorsqu'elles comptent moins de 200 salariés ou de délégué du personnel désigné comme délégué syndical dans les entreprises de moins de 50 salariés.<br/>Du fait de l'absence de délégué syndical, ces accords sont négociés et conclus soit par les représentants élus du personnel au comité d'entreprise ou d'établissement, soit par la délégation unique du personnel, soit, à défaut, par les délégués du personnel.<br/>Les accords collectifs de travail dont est saisie la commission paritaire de branche portent sur les mesures dont la mise en œuvre est subordonnée par la loi à un tel accord collectif.<br/>Sont exceptés de ces accords collectifs de travail ceux d'entre eux qui fixent de façon dérogatoire aux dispositions législatives les modalités d'information et de consultation du comité d'entreprise applicables, lorsque l'employeur envisage de prononcer le licenciement économique de 10 salariés ou plus dans une même période de 30 jours.<br/>Figurent, à titre d'exemples non exhaustifs, au nombre des accords collectifs de travail susceptibles d'être négociés et conclus en l'absence de délégué syndical, ceux relatifs à la flexibilité du temps de travail, au recours au contrat à durée déterminée et à objet défini ou les accords dits « de substitution ».<br/>La commission valide, dans les mêmes conditions, les accords d'entreprise et les accords d'établissement ainsi que leur révision.</p>",
-                    "etat": "VIGUEUR_ETEN",
+                    "content": "<p align='left'>La commission paritaire de validation de branche a pour rôle de se prononcer sur la validité des accords collectifs de travail qui lui sont transmis.</p><p align='left'>Les accords collectifs de travail sont ceux conclus dans les entreprises relevant du champ professionnel de la convention collective, qui sont dépourvues de délégué syndical, lorsqu'elles comptent moins de 200 salariés ou de délégué du personnel désigné comme délégué syndical dans les entreprises de moins de 50 salariés.</p><p align='left'>Du fait de l'absence de délégué syndical, ces accords sont négociés et conclus soit par les représentants élus du personnel au comité d'entreprise ou d'établissement, soit par la délégation unique du personnel, soit, à défaut, par les délégués du personnel.</p><p align='left'>Les accords collectifs de travail dont est saisie la commission paritaire de branche portent sur les mesures dont la mise en œuvre est subordonnée par la loi à un tel accord collectif.</p><p align='left'>Sont exceptés de ces accords collectifs de travail ceux d'entre eux qui fixent de façon dérogatoire aux dispositions législatives les modalités d'information et de consultation du comité d'entreprise applicables, lorsque l'employeur envisage de prononcer le licenciement économique de 10 salariés ou plus dans une même période de 30 jours.</p><p align='left'>Figurent, à titre d'exemples non exhaustifs, au nombre des accords collectifs de travail susceptibles d'être négociés et conclus en l'absence de délégué syndical, ceux relatifs à la flexibilité du temps de travail, au recours au contrat à durée déterminée et à objet défini ou les accords dits « de substitution ».</p><p align='left'>La commission valide, dans les mêmes conditions, les accords d'entreprise et les accords d'établissement ainsi que leur révision.</p><p align='left'></p>",
+                    "etat": "ABROGE",
                     "surtitre": "Fonction de la commission paritaire de validation de branche",
                     "lstLienModification": [
                       {
@@ -1048,6 +1022,18 @@
                         "datePubliTexte": "2013-11-03",
                         "dateSignaTexte": "2013-10-23",
                         "dateDebutCible": "2999-01-01"
+                      },
+                      {
+                        "textCid": "KALITEXT000039399646",
+                        "textTitle": "Temps choisi - art. 2 (VE)",
+                        "linkType": "ABROGATION",
+                        "linkOrientation": "source",
+                        "articleNum": "2",
+                        "articleId": "KALIARTI000039399652",
+                        "natureText": "Avenant",
+                        "datePubliTexte": "2999-01-01",
+                        "dateSignaTexte": "2019-06-04",
+                        "dateDebutCible": "2019-06-04"
                       }
                     ]
                   }
@@ -1059,8 +1045,8 @@
                     "num": "1.51.2",
                     "intOrdre": 4718583,
                     "id": "KALIARTI000026355980",
-                    "content": "<p align='left'><br/>Tant dans sa composition que son fonctionnement, la commission de validation de branche est paritaire.<br/>Elle comprend deux collèges « employeurs » et « salariés », constitués d'un nombre égal de représentants titulaires et suppléants des organisations professionnelles d'employeurs et des organisations syndicales de salariés représentatives dans la branche.<br/>La représentativité dans la branche des organisations syndicales de salariés s'apprécie conformément aux dispositions législatives et réglementaires en vigueur. Il s'ensuit que la composition de la commission paritaire de validation de branche sera revue après la première détermination des organisations syndicales de salariés reconnues représentatives au niveau de la branche.<br/>La commission paritaire de validation de branche a l'obligation de se prononcer.<br/>Cette obligation prend la forme d'une décision écrite, générale et motivée, soit que la commission valide le projet d'accord à elle soumis, soit qu'elle estime ne pas pouvoir le valider, soit qu'elle se juge incompétente pour connaître de l'accord qui lui est proposé.<br/>Cette obligation implique plusieurs conséquences :</p><p align='left'><br/>– la décision de la commission paritaire de validation de branche engage l'ensemble de ses membres ;<br/>– la décision de refus de la commission doit être suffisamment motivée pour permettre aux parties au projet d'accord de le renégocier sur des bases juridiquement sûres, rappel fait que le projet d'accord non validé par la commission est réputé non écrit.<br/>La décision de la commission paritaire de validation est acquise dès lors que la majorité des membres présents et représentés s'est exprimée au sein du collège d'employeurs et au sein du collège des salariés.<br/>Lorsque la double majorité visée précédemment n'est pas réunie, la commission paritaire de validation de branche rejette la demande de validation.<br/>La commission paritaire de validation de branche a pour objet exclusif de contrôler que l'accord collectif soumis à elle n'enfreint pas les dispositions législatives, réglementaires ou conventionnelles en vigueur.<br/>Elle ne saurait apprécier en opportunité les stipulations de l'accord.<br/>Les dispositions au regard desquelles la commission paritaire de validation de branche opère son contrôle sont celles en vigueur lors de la dernière réunion de la commission.<br/>Ainsi, à titre d'exemples non exhaustifs :</p><p align='left'><br/>– la commission se déclare incompétente si l'accord émane d'une entreprise qui ne relève pas du champ professionnel de la convention collective ;<br/>– elle se déclare incompétente ou refuse de valider un accord qui ne satisfait pas aux obligations de lisibilité et d'intelligibilité ;<br/>– elle refuse de valider l'accord dont le contenu dépasserait le champ de la négociation fixé par le législateur ou établirait des discriminations prohibées ;<br/>– de même, un accord conclu avec les salariés de l'entreprise quand bien même ils seraient assistés du représentant de leur organisation syndicale ne saurait relever de l'appréciation de la commission de validation.<br/>Les méthodes de travail de la commission paritaire de validation de branche obéissent aux règles de la transparence et de l'impartialité.<br/>Ainsi, chacun des membres de la commission paritaire de validation de branche partage avec l'ensemble de ses membres et pas seulement avec ceux de son collège, les informations en sa possession.<br/>De même, les parties à un accord ne peuvent siéger à la commission paritaire de validation de branche appelée à connaître de sa demande de validation.<br/>Enfin, les membres de la commission paritaire de validation de branche sont tenus à une obligation de discrétion aussi longtemps que sa décision n'est pas notifiée. Il en est de même des organisations syndicales ou professionnelles qu'ils représentent.</p>",
-                    "etat": "VIGUEUR_ETEN",
+                    "content": "<p align='left'>Tant dans sa composition que son fonctionnement, la commission de validation de branche est paritaire.</p><p align='left'>Elle comprend deux collèges « employeurs » et « salariés », constitués d'un nombre égal de représentants titulaires et suppléants des organisations professionnelles d'employeurs et des organisations syndicales de salariés représentatives dans la branche.</p><p align='left'>La représentativité dans la branche des organisations syndicales de salariés s'apprécie conformément aux dispositions législatives et réglementaires en vigueur. Il s'ensuit que la composition de la commission paritaire de validation de branche sera revue après la première détermination des organisations syndicales de salariés reconnues représentatives au niveau de la branche.</p><p align='left'>La commission paritaire de validation de branche a l'obligation de se prononcer.</p><p align='left'>Cette obligation prend la forme d'une décision écrite, générale et motivée, soit que la commission valide le projet d'accord à elle soumis, soit qu'elle estime ne pas pouvoir le valider, soit qu'elle se juge incompétente pour connaître de l'accord qui lui est proposé.</p><p align='left'>Cette obligation implique plusieurs conséquences :</p><p align='left'>– la décision de la commission paritaire de validation de branche engage l'ensemble de ses membres ;<br/>\n– la décision de refus de la commission doit être suffisamment motivée pour permettre aux parties au projet d'accord de le renégocier sur des bases juridiquement sûres, rappel fait que le projet d'accord non validé par la commission est réputé non écrit.</p><p align='left'>La décision de la commission paritaire de validation est acquise dès lors que la majorité des membres présents et représentés s'est exprimée au sein du collège d'employeurs et au sein du collège des salariés.</p><p align='left'>Lorsque la double majorité visée précédemment n'est pas réunie, la commission paritaire de validation de branche rejette la demande de validation.</p><p align='left'>La commission paritaire de validation de branche a pour objet exclusif de contrôler que l'accord collectif soumis à elle n'enfreint pas les dispositions législatives, réglementaires ou conventionnelles en vigueur.</p><p align='left'>Elle ne saurait apprécier en opportunité les stipulations de l'accord.</p><p align='left'>Les dispositions au regard desquelles la commission paritaire de validation de branche opère son contrôle sont celles en vigueur lors de la dernière réunion de la commission.</p><p align='left'>Ainsi, à titre d'exemples non exhaustifs :</p><p align='left'>– la commission se déclare incompétente si l'accord émane d'une entreprise qui ne relève pas du champ professionnel de la convention collective ;<br/>\n– elle se déclare incompétente ou refuse de valider un accord qui ne satisfait pas aux obligations de lisibilité et d'intelligibilité ;<br/>\n– elle refuse de valider l'accord dont le contenu dépasserait le champ de la négociation fixé par le législateur ou établirait des discriminations prohibées ;<br/>\n– de même, un accord conclu avec les salariés de l'entreprise quand bien même ils seraient assistés du représentant de leur organisation syndicale ne saurait relever de l'appréciation de la commission de validation.</p><p align='left'>Les méthodes de travail de la commission paritaire de validation de branche obéissent aux règles de la transparence et de l'impartialité.</p><p align='left'>Ainsi, chacun des membres de la commission paritaire de validation de branche partage avec l'ensemble de ses membres et pas seulement avec ceux de son collège, les informations en sa possession.</p><p align='left'>De même, les parties à un accord ne peuvent siéger à la commission paritaire de validation de branche appelée à connaître de sa demande de validation.</p><p align='left'>Enfin, les membres de la commission paritaire de validation de branche sont tenus à une obligation de discrétion aussi longtemps que sa décision n'est pas notifiée. Il en est de même des organisations syndicales ou professionnelles qu'ils représentent.</p><p align='left'></p>",
+                    "etat": "ABROGE",
                     "surtitre": "Principes et règles relatifs à la commission paritaire de validation de branche",
                     "lstLienModification": [
                       {
@@ -1074,6 +1060,18 @@
                         "datePubliTexte": "2013-11-03",
                         "dateSignaTexte": "2013-10-23",
                         "dateDebutCible": "2999-01-01"
+                      },
+                      {
+                        "textCid": "KALITEXT000039399646",
+                        "textTitle": "Temps choisi - art. 2 (VE)",
+                        "linkType": "ABROGATION",
+                        "linkOrientation": "source",
+                        "articleNum": "2",
+                        "articleId": "KALIARTI000039399652",
+                        "natureText": "Avenant",
+                        "datePubliTexte": "2999-01-01",
+                        "dateSignaTexte": "2019-06-04",
+                        "dateDebutCible": "2019-06-04"
                       }
                     ]
                   }
@@ -1086,7 +1084,7 @@
                     "intOrdre": 5242870,
                     "id": "KALIARTI000026355981",
                     "content": "",
-                    "etat": "VIGUEUR_ETEN",
+                    "etat": "ABROGE",
                     "surtitre": "Information et saisine de la commission",
                     "lstLienModification": [
                       {
@@ -1100,6 +1098,18 @@
                         "datePubliTexte": "2013-11-03",
                         "dateSignaTexte": "2013-10-23",
                         "dateDebutCible": "2999-01-01"
+                      },
+                      {
+                        "textCid": "KALITEXT000039399646",
+                        "textTitle": "Temps choisi - art. 2 (VE)",
+                        "linkType": "ABROGATION",
+                        "linkOrientation": "source",
+                        "articleNum": "2",
+                        "articleId": "KALIARTI000039399652",
+                        "natureText": "Avenant",
+                        "datePubliTexte": "2999-01-01",
+                        "dateSignaTexte": "2019-06-04",
+                        "dateDebutCible": "2019-06-04"
                       }
                     ]
                   }
@@ -1111,8 +1121,8 @@
                     "num": "1.51.31",
                     "intOrdre": 5767157,
                     "id": "KALIARTI000026355982",
-                    "content": "<p align='left'>L'employeur qui décide d'engager les négociations en informe le secrétariat de la commission paritaire de validation de branche (1) par tout moyen utile.<br/>Le secrétariat adresse, sans délai, à l'employeur une copie de l'article 1.51 de la convention collective nationale, un formulaire de demande de validation rassemblant l'ensemble des informations exigées et les coordonnées des organisations syndicales et professionnelles représentatives dans la branche au plan national.</p><font color='#808080' size='1'><em>(1) Secrétariat CCN 3131 : SEDIMA, 6, boulevard Jourdan, 75014 Paris.<br/></em></font>",
-                    "etat": "VIGUEUR_ETEN",
+                    "content": "<p align='left'>L'employeur qui décide d'engager les négociations en informe le secrétariat de la commission paritaire de validation de branche <font color='#808080'><em>(1)</em></font> par tout moyen utile.<br/>\nLe secrétariat adresse, sans délai, à l'employeur une copie de l'article 1.51 de la convention collective nationale, un formulaire de demande de validation rassemblant l'ensemble des informations exigées et les coordonnées des organisations syndicales et professionnelles représentatives dans la branche au plan national.</p><p><font color='#808080'><em>(1) Secrétariat CCN 3131 : SEDIMA, 6, boulevard Jourdan, 75014 Paris.</em></font></p><p></p>",
+                    "etat": "ABROGE",
                     "surtitre": "Information de la commission paritaire de validation de branche",
                     "lstLienModification": [
                       {
@@ -1126,6 +1136,18 @@
                         "datePubliTexte": "2013-11-03",
                         "dateSignaTexte": "2013-10-23",
                         "dateDebutCible": "2999-01-01"
+                      },
+                      {
+                        "textCid": "KALITEXT000039399646",
+                        "textTitle": "Temps choisi - art. 2 (VE)",
+                        "linkType": "ABROGATION",
+                        "linkOrientation": "source",
+                        "articleNum": "2",
+                        "articleId": "KALIARTI000039399652",
+                        "natureText": "Avenant",
+                        "datePubliTexte": "2999-01-01",
+                        "dateSignaTexte": "2019-06-04",
+                        "dateDebutCible": "2019-06-04"
                       }
                     ]
                   }
@@ -1137,8 +1159,8 @@
                     "num": "1.51.32",
                     "intOrdre": 6291444,
                     "id": "KALIARTI000026355983",
-                    "content": "<p align='left'><br/>La demande de validation de l'accord et le formulaire prévu à l'article 1.51.31 dûment remplis sont adressés en même temps et conjointement par l'employeur, ou à défaut par toute partie à l'accord, aux membres titulaires de la commission et au secrétariat de la commission paritaire. Leurs coordonnées sont mentionnées sur le formulaire.<br/>Tout dossier incomplet sera considéré comme irrecevable par la commission de validation.<br/>Le saisissant peut joindre aux documents visés à l'alinéa précédent toute information intéressant la négociation.<br/>La transmission de la demande est assurée par courrier postal avec avis de réception (AR).<br/>La commission paritaire de validation de branche se prononce sur la validité de l'accord dans les 4 mois qui suivent la transmission du dossier complet aux membres de la commission et au secrétariat. A défaut l'accord est réputé avoir été validé.</p>",
-                    "etat": "VIGUEUR_ETEN",
+                    "content": "<p align='left'>La demande de validation de l'accord et le formulaire prévu à l'article 1.51.31 dûment remplis sont adressés en même temps et conjointement par l'employeur, ou à défaut par toute partie à l'accord, aux membres titulaires de la commission et au secrétariat de la commission paritaire. Leurs coordonnées sont mentionnées sur le formulaire.</p><p align='left'>Tout dossier incomplet sera considéré comme irrecevable par la commission de validation.</p><p align='left'>Le saisissant peut joindre aux documents visés à l'alinéa précédent toute information intéressant la négociation.</p><p align='left'>La transmission de la demande est assurée par courrier postal avec avis de réception (AR).</p><p align='left'>La commission paritaire de validation de branche se prononce sur la validité de l'accord dans les 4 mois qui suivent la transmission du dossier complet aux membres de la commission et au secrétariat. A défaut l'accord est réputé avoir été validé.</p><p align='left'></p>",
+                    "etat": "ABROGE",
                     "surtitre": "Saisine de la commission paritaire de validation de branche",
                     "lstLienModification": [
                       {
@@ -1152,6 +1174,18 @@
                         "datePubliTexte": "2013-11-03",
                         "dateSignaTexte": "2013-10-23",
                         "dateDebutCible": "2999-01-01"
+                      },
+                      {
+                        "textCid": "KALITEXT000039399646",
+                        "textTitle": "Temps choisi - art. 2 (VE)",
+                        "linkType": "ABROGATION",
+                        "linkOrientation": "source",
+                        "articleNum": "2",
+                        "articleId": "KALIARTI000039399652",
+                        "natureText": "Avenant",
+                        "datePubliTexte": "2999-01-01",
+                        "dateSignaTexte": "2019-06-04",
+                        "dateDebutCible": "2019-06-04"
                       }
                     ]
                   }
@@ -1163,8 +1197,8 @@
                     "num": "1.51.4",
                     "intOrdre": 6815731,
                     "id": "KALIARTI000026355984",
-                    "content": "<p align='left'><br/>Siègent aux réunions de la commission paritaire de validation de branche les seuls représentants titulaires des organisations syndicales représentatives dans la branche et des organisations professionnelles.<br/>Chaque membre titulaire peut se faire remplacer par son suppléant.<br/>Les membres de la commission paritaire de validation de branche ont mandat de leur organisation respective pour siéger à la commission de validation.<br/>Chaque organisation professionnelle ou syndicale peut donner mandat à une personne nommée d'une autre organisation de la commission pour la représenter lors de la réunion au cours de laquelle est examiné l'accord à valider. Les membres de la commission qui ne sont pas titulaires d'un mandat ne peuvent participer à ses travaux et les sanctionner par un vote.<br/>La commission ne peut valablement siéger que si au moins deux représentants des organisations syndicales représentatives dans la branche et deux représentants des organisations professionnelles sont physiquement présents.<br/>Les membres présents à la réunion de la commission choisissent un président de séance parmi eux.<br/>La commission instruit la demande de validation de l'accord en :</p><p align='left'><br/>– collationnant les documents relatifs à l'accord ;<br/>– s'interrogeant sur sa compétence ;<br/>– rapportant l'économie de l'accord au champ de la négociation autorisé par le législateur ;<br/>– analysant les stipulations de l'accord au regard des dispositions réglementaires et conventionnelles en vigueur.<br/>La décision de la commission est prise à la majorité simple des membres présents et représentés.<br/>Le secrétariat de la commission est assuré par le secrétariat de la convention collective nationale.</p>",
-                    "etat": "VIGUEUR_ETEN",
+                    "content": "<p align='left'>Siègent aux réunions de la commission paritaire de validation de branche les seuls représentants titulaires des organisations syndicales représentatives dans la branche et des organisations professionnelles.</p><p align='left'>Chaque membre titulaire peut se faire remplacer par son suppléant.</p><p align='left'>Les membres de la commission paritaire de validation de branche ont mandat de leur organisation respective pour siéger à la commission de validation.</p><p align='left'>Chaque organisation professionnelle ou syndicale peut donner mandat à une personne nommée d'une autre organisation de la commission pour la représenter lors de la réunion au cours de laquelle est examiné l'accord à valider. Les membres de la commission qui ne sont pas titulaires d'un mandat ne peuvent participer à ses travaux et les sanctionner par un vote.</p><p align='left'>La commission ne peut valablement siéger que si au moins deux représentants des organisations syndicales représentatives dans la branche et deux représentants des organisations professionnelles sont physiquement présents.</p><p align='left'>Les membres présents à la réunion de la commission choisissent un président de séance parmi eux.</p><p align='left'>La commission instruit la demande de validation de l'accord en :</p><p align='left'>– collationnant les documents relatifs à l'accord ;<br/>\n– s'interrogeant sur sa compétence ;<br/>\n– rapportant l'économie de l'accord au champ de la négociation autorisé par le législateur ;<br/>\n– analysant les stipulations de l'accord au regard des dispositions réglementaires et conventionnelles en vigueur.</p><p align='left'>La décision de la commission est prise à la majorité simple des membres présents et représentés.</p><p align='left'>Le secrétariat de la commission est assuré par le secrétariat de la convention collective nationale.</p><p align='left'></p>",
+                    "etat": "ABROGE",
                     "surtitre": "Organisation et fonctionnement de la commission",
                     "lstLienModification": [
                       {
@@ -1178,6 +1212,18 @@
                         "datePubliTexte": "2013-11-03",
                         "dateSignaTexte": "2013-10-23",
                         "dateDebutCible": "2999-01-01"
+                      },
+                      {
+                        "textCid": "KALITEXT000039399646",
+                        "textTitle": "Temps choisi - art. 2 (VE)",
+                        "linkType": "ABROGATION",
+                        "linkOrientation": "source",
+                        "articleNum": "2",
+                        "articleId": "KALIARTI000039399652",
+                        "natureText": "Avenant",
+                        "datePubliTexte": "2999-01-01",
+                        "dateSignaTexte": "2019-06-04",
+                        "dateDebutCible": "2019-06-04"
                       }
                     ]
                   }
@@ -1189,8 +1235,8 @@
                     "num": "1.51.5",
                     "intOrdre": 7340018,
                     "id": "KALIARTI000026355985",
-                    "content": "<p align='left'><br/>La commission paritaire de validation de branche fixe son règlement intérieur.<br/>Lorsque seront connus les résultats de la première mesure de l'audience au niveau de la branche des organisations syndicales, la composition de la commission sera, en tant que de besoin, modifiée au regard de ceux-ci.</p>",
-                    "etat": "VIGUEUR_ETEN",
+                    "content": "<p align='left'>La commission paritaire de validation de branche fixe son règlement intérieur.</p><p align='left'>Lorsque seront connus les résultats de la première mesure de l'audience au niveau de la branche des organisations syndicales, la composition de la commission sera, en tant que de besoin, modifiée au regard de ceux-ci.</p><p align='left'></p>",
+                    "etat": "ABROGE",
                     "surtitre": "Autres dispositions relatives à la commission",
                     "lstLienModification": [
                       {
@@ -1204,6 +1250,18 @@
                         "datePubliTexte": "2013-11-03",
                         "dateSignaTexte": "2013-10-23",
                         "dateDebutCible": "2999-01-01"
+                      },
+                      {
+                        "textCid": "KALITEXT000039399646",
+                        "textTitle": "Temps choisi - art. 2 (VE)",
+                        "linkType": "ABROGATION",
+                        "linkOrientation": "source",
+                        "articleNum": "2",
+                        "articleId": "KALIARTI000039399652",
+                        "natureText": "Avenant",
+                        "datePubliTexte": "2999-01-01",
+                        "dateSignaTexte": "2019-06-04",
+                        "dateDebutCible": "2019-06-04"
                       }
                     ]
                   }
@@ -1263,8 +1321,20 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000039412119",
                     "content": "<p align='left'>La mise en place du comité social et économique (CSE) s'effectue conformément aux seuils et conditions fixés par les dispositions légales et réglementaires en vigueur sauf accord d'entreprise plus favorable.</p><p align='left'>Cependant, pour la mise en place des institutions représentatives du personnel mentionnées à l'alinéa précédent, il est fait, en tant que de besoin, application de la définition de l'ancienneté prévue à l'article 0.21.</p><p align='left'>Nota : La référence au comité d'entreprise, délégués du personnel, comité d'hygiène de sécurité et des conditions de travail, délégation unique du personnel est remplacée par le comité social et économique sauf le cas échéant, stipulation contraire. (art. 3 de l'avenant n° 5 du 4 juin 2019 - BOCC 2019-38)</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000042953289",
+                        "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000042953296",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-01-13",
+                        "dateSignaTexte": "2020-12-05",
+                        "dateDebutCible": "2999-01-01"
+                      },
                       {
                         "textCid": "KALITEXT000039399646",
                         "textTitle": "Temps choisi - art. 3 (VNE)",
@@ -1470,9 +1540,21 @@
                     "intOrdre": 4718583,
                     "id": "KALIARTI000039412121",
                     "content": "<p align='left'>Un accord entre le chef d'entreprise et les délégués du personnel fixe l'emplacement et la consistance des panneaux réservés à leurs communications.</p><p align='left'>A défaut de celui-ci, les salariés doivent être à même de les consulter aisément et sans perte de temps excessive. Les panneaux sont conçus de telle façon que les textes affichés soient à l'abri des intempéries. Si ces panneaux sont fermés à clé, une au moins est à la disposition des délégués du personnel.</p><p align='left'>A peine d'abus, le droit de communication des délégués du personnel doit s'inscrire dans le cadre de la mission qui leur est impartie.</p><p align='left'>Est rattachable à l'exercice normal de ce droit, l'affichage notamment :</p><p align='left'>– des comptes rendus des réunions avec l'employeur ;<br/>\n– des comptes rendus des démarches extérieures s'inscrivant dans le cadre de leur mission auprès de l'inspecteur du travail ;<br/>\n– des enquêtes en matière d'hygiène et de sécurité ;<br/>\n– d'informations relatives au droit du travail.</p><p align='left'>Les panneaux affectés aux communications des délégués du personnel et ceux affectés aux communications du comité d'entreprise sont dévolus dorénavant aux communications du CSE. Par contre, les panneaux réservés aux communications des sections syndicales ne sont pas modifiés du fait du CSE.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "etat": "VIGUEUR_ETEN",
                     "surtitre": "Affichage des communications des délégués du personnel",
                     "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000042953289",
+                        "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000042953296",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-01-13",
+                        "dateSignaTexte": "2020-12-05",
+                        "dateDebutCible": "2999-01-01"
+                      },
                       {
                         "textCid": "KALITEXT000039399646",
                         "textTitle": "Temps choisi - art. 4 (VNE)",
@@ -2618,9 +2700,21 @@
                     "intOrdre": 4718583,
                     "id": "KALIARTI000039412123",
                     "content": "<p align='left'>Les congés exceptionnels pour événement familial (mariage, naissance, adoption …) sont régis par les dispositions légales et réglementaires en vigueur auxquelles il est ajouté pour le cas de décès d'un beau-frère ou d'une belle-sœur 2 jours avec maintien du salaire si son ancienneté est de 1 an au moins.</p><p align='left'>Les absences ainsi autorisées n'entraînent pas de réduction de la durée des congés annuels. Les journées d'absence non prises ne donnent pas droit à rémunération supplémentaire.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "etat": "VIGUEUR_ETEN",
                     "surtitre": "Congés exceptionnels pour événement familial",
                     "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000042953289",
+                        "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000042953296",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-01-13",
+                        "dateSignaTexte": "2020-12-05",
+                        "dateDebutCible": "2999-01-01"
+                      },
                       {
                         "textCid": "KALITEXT000039399646",
                         "textTitle": "Temps choisi - art. 5 (VNE)",
@@ -2812,9 +2906,21 @@
                     "intOrdre": 3670009,
                     "id": "KALIARTI000039412125",
                     "content": "<p align='left'>L'indemnité de licenciement est celle définie par les dispositions légales et réglementaires en vigueur.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "etat": "VIGUEUR_ETEN",
                     "surtitre": "Indemnité conventionnelle de licenciement",
                     "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000042953289",
+                        "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000042953296",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-01-13",
+                        "dateSignaTexte": "2020-12-05",
+                        "dateDebutCible": "2999-01-01"
+                      },
                       {
                         "textCid": "KALITEXT000039399646",
                         "textTitle": "Temps choisi - art. 6 (VNE)",
@@ -2890,9 +2996,21 @@
                     "intOrdre": 5242870,
                     "id": "KALIARTI000039412127",
                     "content": "<p align='left'>La mise à la retraite à l'initiative de l'employeur s'effectue selon les dispositions légales en vigueur. Elle est notifiée au salarié par lettre recommandée avec avis de réception.</p><p align='left'>La mise à la retraite d'office s'effectue selon les dispositions légales en vigueur.</p><p align='left'>La mise à la retraite est notifiée au salarié par lettre recommandée avec avis de réception ou par lettre remise en main propre contre décharge.</p><p align='left'>Le délai-congé afférent à cette rupture est de :</p><p align='left'>– 2 mois : pour les salariés dont les emplois sont classés aux niveaux I et II ;<br/>\n– 3 mois : pour les salariés dont les emplois sont classés aux niveaux III et IV ;<br/>\n– 4 mois : pour les salariés dont les emplois sont classés aux niveaux V et VI,<br/>\nde la classification conventionnelle des emplois prévue à l'article 4.10.</p><p>L'indemnité de mise à la retraite est celle définie par les dispositions légales et réglementaires en vigueur.</p><p>.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "etat": "VIGUEUR_ETEN",
                     "surtitre": "Mise à la retraite du salarié à l'initiative de l'employeur",
                     "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000042953289",
+                        "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000042953296",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-01-13",
+                        "dateSignaTexte": "2020-12-05",
+                        "dateDebutCible": "2999-01-01"
+                      },
                       {
                         "textCid": "KALITEXT000039399646",
                         "textTitle": "Temps choisi - art. 7 (VNE)",
@@ -3870,9 +3988,21 @@
                     "intOrdre": 1572861,
                     "id": "KALIARTI000039412129",
                     "content": "<p align='left'>L'indemnité de licenciement pour les cadres est celle définie par les dispositions légales et réglementaires en vigueur.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "etat": "VIGUEUR_ETEN",
                     "surtitre": "Indemnité conventionnelle de licenciement",
                     "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000042953289",
+                        "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000042953296",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-01-13",
+                        "dateSignaTexte": "2020-12-05",
+                        "dateDebutCible": "2999-01-01"
+                      },
                       {
                         "textCid": "KALITEXT000039399646",
                         "textTitle": "Temps choisi - art. 8 (VNE)",
@@ -5609,8 +5739,20 @@
                     "intOrdre": 1431655764,
                     "id": "KALIARTI000039412134",
                     "content": "<p align='center'>Document 1</p><p align='center'>Liste des accords et avenants de la convention collective en vigueur à la date de signature de l'avenant portant révision de la convention collective</p><p>Egalité professionnelle des hommes et des femmes :<br/>\n– accord du 4 juillet 2008 relatif à l'égalité professionnelle et mixité des emplois (impératif, étendu le 24 février 2009) ;<br/>\n– accord du 8 mars 2011 relatif à la définition et à la programmation des mesures permettant de supprimer les écarts de rémunération entre les femmes et les hommes (impératif, étendu le 11 janvier 2012).</p><p>Clause de non-concurrence :<br/>\n– accord du 17 avril 2008 relatif à la clause de non-concurrence (impératif, étendu le 24 février 2009) ;<br/>\n– avenant du 24 janvier 2012 portant révision de certains articles de l'accord du 17 avril 2008 relatif à la clause de non-concurrence qui se réfèrent à l'ancienne classification conventionnelle des emplois (impératif, non étendu par l'administration à la date de signature de l'avenant portant révision de la convention collective).</p><p>Risques liés à l'amiante :<br/>\n– accord du 18 novembre 2003 relatif à la formation à la prévention des risques liés à l'amiante (impératif, étendu le 21 juin 2004).</p><p>Emploi des handicapés :<br/>\n– accord du 4 février 2009 relatif à l'emploi des personnes handicapées (impératif, étendu le 4 novembre 2009).</p><p>Classification :<br/>\n– accord du 16 juin 2009 relatif à la mise en œuvre de la nouvelle classification (impératif, étendu le 4 novembre 2009) ;<br/>\n– avenant modifié du 16 décembre 2010 relatif à la classification conventionnelle des emplois (impératif, étendu le 9 janvier 2012) ;<br/>\n– avenant du 8 février 2013 relatif aux classifications ;<br/>\n– avenant du 20 mars 2012 portant rectification d'erreurs matérielles à l'annexe VII de l'avenant relatif à la classification conventionnelle des emplois du 16 décembre 2010 (impératif, étendu le 5 mars 2013) ;<br/>\n– avenant n° 1 du 12 juin 2018 portant modification de l'annexe VII de l'avenant du 16 décembre 2010 relatif à la classification conventionnelle des emplois (impératif, étendu le 3 janvier 2019) ;</p><p>– avenant n° 2 du 26 septembre 2018 portant modification des annexes III et IV de l'avenant du 16 décembre 2010 relatif à la classification conventionnelle des emplois (impératif, étendu le 5 juillet 2019).</p><p>Durée, aménagement et réduction du temps de travail :</p><p>– accord du 16 septembre 1997 instituant le compte épargne-temps (impératif, étendu le 5 juin 1998) ; substitué par l'accord du 26 mars 2013 relatif au compte épargne-temps ;<br/>\n– accord du 22 janvier 1999 relatif à la durée, aménagement et réduction du temps de travail (impératif, étendu le 14 avril 1999) ;<br/>\n– avenant n° 1 du 24 juin 1999 à l'accord du 22 janvier 1999 (impératif étendu le 24 mars 2000) ;<br/>\n– avenant n° 2 du 24 juin 1999 à l'accord du 22 janvier 1999 (impératif, étendu le 24 mars 2000) ;<br/>\n– avenant n° 3 du 20 décembre 2000 relatif à l'accord du 22 janvier 1999 (impératif, étendu le 18 juillet 2001) ;<br/>\n– avenant n° 4 du 25 septembre 2003 à l'accord du 22 janvier 1999 (impératif, étendu le 18 mai 2004) ;<br/>\n– avenant n° 5 du 19 janvier 2006 à l'accord du 22 janvier 1999 (impératif, étendu le 14 avril 1999) ;<br/>\n– accord modifié du 28 septembre 2006 relatif au temps choisi (impératif, étendu le 26 juillet 2007) ;<br/>\n– avenant du 24 janvier 2012 portant révision de certains articles de l'accord du 22 janvier 1999 relatif à la durée, à l'aménagement et à la réduction du temps de travail qui se réfèrent à l'ancienne classification conventionnelle des emplois (impératif, non étendu par l'administration à la date de signature de l'avenant portant révision de la convention collective) ;</p><p>– accord du 26 mars 2013 relatif au compte épargne-temps ;</p><p>– avenant n° 6 du 13 mai 2014 à l'accord du 22 janvier 1999 relatif à la durée, à l'aménagement et à la réduction du temps de travail.</p><p>– avenant n° 7 du 16 février 2016 à l'accord du 22 janvier 1999 relatif à la durée, à l'aménagement et à la réduction du temps de travail.</p><p>– avenant n° 5 du 4 juin 2019 relatif à la mise à jour de la convention collective et de l'accord du 28 septembre 2006 (temps choisi)</p><p>Formation professionnelle :</p><p>– avenant n° 44 du 30 mars 1989 relatif à la contribution FNAR au financement de la formation professionnelle continue (impératif, étendu le 18 décembre 1989) abrogé par l'avenant n° 1 du 31 octobre 2012 ;<br/>\n– avenant n° 53 du 10 juin 1992 relatif à la participation à la formation professionnelle continue des employeurs occupant moins de 10 salariés (impératif, étendu le 4 février 1993) abrogé par l'avenant n° 1 du 31 octobre 2012 ;</p><p>– accord du 29 juin 2004 relatif à la collecte et la gestion des fonds de la formation professionnelle 2005 (impératif, étendu le 22 avril 2005) ;<br/>\n– accord du 4 février 2005 relatif à la formation tout au long de la vie (impératif, étendu le 10 août 2005) ;<br/>\n– accord du 4 février 2005 relatif à la création de l'observatoire des métiers et des qualifications (impératif, étendu le 12 octobre 2005) ;<br/>\n– avenant n° 1 du 11 mai 2005 à l'accord du 29 juin 2004 relatif à la collecte et à la gestion des fonds de la formation (impératif, étendu le 20 février 2006) ;<br/>\n– avenant n° 78 du 28 septembre 2006 relatif à la formation professionnelle des salariés des entreprises de maréchalerie (impératif, étendu le 2 juillet 2007) abrogé par l'avenant n° 1 du 31 octobre 2012 ;</p><p>– avenant n° 2 du 2 octobre 2007 relatif à la gestion des fonds de la formation professionnelle (impératif, étendu le 25 juillet 2008) ;<br/>\n– accord du 20 novembre 2009 relatif à la contribution versée au fonds paritaire de sécurisation des parcours professionnels (impératif, étendu le 3 août 2010) ;<br/>\n– accord du 21 juin 2011 visant à désigner un organisme collecteur habilité à recevoir les contributions au titre de la formation continue (impératif, étendu le 26 janvier 2012) ;<br/>\n– avenant du 14 décembre 2011 portant révision de divers accords relatifs à la formation professionnelle, notamment l'accord du 4 février 2005 relatif à la formation professionnelle (impératif, non étendu par l'administration à la date de signature de l'avenant portant révision de la convention collective) ;</p><p>– avenant n° 1 du 31 octobre 2012 à l'accord du 21 juin 2011 relatif à la désignation de l'OPCA ;</p><p>– accord du 6 juin 2013 relatif à la collecte et au financement de la formation professionnelle ;</p><p>– avenant du 29 octobre 2013 à l'accord du 4 février 2005 relatif à la formation professionnelle ;</p><p>– accord du 15 janvier 2019 relatif à la prise en charge des contrats d'apprentissage ;</p><p>– accord du 6 mars 2019 relatif à la désignation de l'opérateur de compétences (OPCO) ((impératif, étendu le 14 août 2019).</p><p>Prévoyance :<br/>\n– avenant n° 40 du 10 décembre 1987 relatif à la mutualisation du risque maladie-accident (impératif, étendu le 3 juin 1988) ;<br/>\n– avenant n° 40 bis du 2 mars 1988 relatif aux dispositions complémentaires de l'avenant n° 40 (impératif, étendu le 3 juin 1988) ;<br/>\n– avenant n° 40 ter du 10 décembre 1997 relatif à la mutualisation du risque maladie (impératif, étendu le 24 avril 1998) ;<br/>\n– avenant n° 40 quater du 7 février 2001 relatif à la mutualisation du risque accident (impératif, étendu le 18 juillet 2001) ;<br/>\n– avenant n° 5 du 3 juillet 2007 à l'avenant n° 40 du 10 décembre 1987 (impératif, étendu le 25 juillet 2008) ;<br/>\n– avenant n° 6 du 15 juillet 2009 (impératif, étendu le 18 mars 2010) ;<br/>\n– avenant du 16 décembre 2010 modifiant l'article 4 de l'avenant n° 6 à l'avenant n° 40 relatif à la mutualisation du risque maladie accident du travail (impératif, étendu le 9 janvier 2012) ;</p><p>– avenant n° 7 du 26 juin 2012 à l'avenant n° 40 du 10 décembre 1987 relatif à la prévoyance ;</p><p>– avenant N° 8 du 1er juillet 2014 à l'avenant n°40 du 10 décembre 1987 relatif à la mutualisation du risque maladie-accident.</p><p>Emploi des seniors :<br/>\n– accord du 15 juillet 2009 relatif à l'emploi des seniors (impératif, étendu le 26 janvier 2010).<br/>\n– avenant du 20 novembre 2009 relatif à l'accord du 15 juillet 2009 relatif à l'emploi des seniors, (impératif, étendu le 18 mars 2010).</p><p>Dialogue social :<br/>\n– accord du 17 juin 2010 relatif au financement du dialogue social dans les entreprises artisanales (impératif, étendu le 19 septembre 2011) ;<br/>\n– accord du 14 septembre 2011 relatif au financement du dialogue social dans les entreprises autres qu'artisanales dans la branche (impératif, non étendu par l'administration à la date de signature de l'avenant portant révision de la convention collective) ;</p><p>– avenant n°1 du 13 mai 2014 à l'accord du 14 septembre 2011 relatif au dialogue social.</p><p>Contrat de génération :</p><p>– accord du 29 octobre 2013 relatif au contrat de génération.</p><p>Intéressement et plan d'épargne :</p><p>– accord collectif du 29 mars 2018 relatif à la conclusion d'un accord d'intéressement et d'un plan d'épargne.</p><p>Remboursements complémentaires de frais de santé :<br/>\n– accord du 2 juillet 2015 relatif aux remboursements complémentaires de frais de santé (impératif, étendu le 17 décembre 2015) ;<br/>\n– avenant n° 3 du 26 septembre 2018 à l'accord du 2 juillet 2015 relatif aux remboursements complémentaires de frais de santé.</p><p>L'attention du lecteur est appelée sur le point suivant :</p><p>Ces accords et avenants peuvent se référer à la numérotation d'articles de la convention collective du 30 octobre 1969 modifiée.</p><p>Il convient de leur substituer les références de la convention collective révisée, dite SDLM ayant le même objet.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000042953289",
+                        "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000042953296",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-01-13",
+                        "dateSignaTexte": "2020-12-05",
+                        "dateDebutCible": "2999-01-01"
+                      },
                       {
                         "textCid": "KALITEXT000039399646",
                         "textTitle": "Temps choisi - art. 11 (VNE)",
@@ -10381,8 +10523,20 @@
                     "intOrdre": 42949,
                     "id": "KALIARTI000039412131",
                     "content": "<p>Le présent accord est d'application directe.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000042953289",
+                        "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000042953296",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-01-13",
+                        "dateSignaTexte": "2020-12-05",
+                        "dateDebutCible": "2999-01-01"
+                      },
                       {
                         "textCid": "KALITEXT000039399646",
                         "textTitle": "Temps choisi - art. 9 (VNE)",
@@ -10391,7 +10545,7 @@
                         "articleNum": "9",
                         "articleId": "KALIARTI000039399664",
                         "natureText": "Avenant",
-                        "datePubliTexte": "2019-11-20",
+                        "datePubliTexte": "2999-01-01",
                         "dateSignaTexte": "2019-06-04",
                         "dateDebutCible": "2019-06-04"
                       }
@@ -22589,7 +22743,7 @@
             "cid": "KALITEXT000039399646",
             "title": "Avenant n° 5 du 4 juin 2019 relatif à la mise à jour de la convention collective et de l'accord du 28 septembre 2006 (Temps choisi)",
             "id": "KALITEXT000039399646",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2019-06-04"
           },
           "children": [
@@ -22600,7 +22754,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000039399649",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -22610,8 +22764,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000039399671",
                     "content": "<p align='left'><br/>Conformément au 0.1 de la convention collective nationale de la banche SDLM, les parties ont procédé à un examen de la convention collective et compte tenu des évolutions législatives et réglementaires intervenues sur ces dernières années, elles décident ce qui suit afin d'actualiser les stipulations conventionnelles sans modifier la numérotation des chapitres et articles.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000042953289",
+                        "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000042953296",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-01-13",
+                        "dateSignaTexte": "2020-12-05",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -22624,8 +22791,33 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000039399650",
                 "content": "<p align='left'><br/>L'article 1.30 est supprimé.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042953289",
+                    "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042953296",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-01-13",
+                    "dateSignaTexte": "2020-12-05",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000026355879",
+                    "textTitle": "Convention collective nationale métropolitaine ... - art. 1.30 (Ab)",
+                    "linkType": "ABROGATION",
+                    "linkOrientation": "cible",
+                    "articleNum": "1.30",
+                    "articleId": "KALIARTI000026355967",
+                    "natureText": "Convention collective nationale",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2012-04-23",
+                    "dateDebutCible": "2013-11-03"
+                  }
+                ]
               }
             },
             {
@@ -22636,8 +22828,117 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000039399652",
                 "content": "<p align='left'><br/>L'article 1.51 est supprimé.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042953289",
+                    "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042953296",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-01-13",
+                    "dateSignaTexte": "2020-12-05",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000026355879",
+                    "textTitle": "Convention collective nationale métropolitaine ... - art. 1.51 (Ab)",
+                    "linkType": "ABROGATION",
+                    "linkOrientation": "cible",
+                    "articleNum": "1.51",
+                    "articleId": "KALIARTI000026355978",
+                    "natureText": "Convention collective nationale",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2012-04-23",
+                    "dateDebutCible": "2013-11-03"
+                  },
+                  {
+                    "textCid": "KALITEXT000026355879",
+                    "textTitle": "Convention collective nationale métropolitaine ... - art. 1.51.1 (Ab)",
+                    "linkType": "ABROGATION",
+                    "linkOrientation": "cible",
+                    "articleNum": "1.51.1",
+                    "articleId": "KALIARTI000026355979",
+                    "natureText": "Convention collective nationale",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2012-04-23",
+                    "dateDebutCible": "2013-11-03"
+                  },
+                  {
+                    "textCid": "KALITEXT000026355879",
+                    "textTitle": "Convention collective nationale métropolitaine ... - art. 1.51.2 (Ab)",
+                    "linkType": "ABROGATION",
+                    "linkOrientation": "cible",
+                    "articleNum": "1.51.2",
+                    "articleId": "KALIARTI000026355980",
+                    "natureText": "Convention collective nationale",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2012-04-23",
+                    "dateDebutCible": "2013-11-03"
+                  },
+                  {
+                    "textCid": "KALITEXT000026355879",
+                    "textTitle": "Convention collective nationale métropolitaine ... - art. 1.51.3 (Ab)",
+                    "linkType": "ABROGATION",
+                    "linkOrientation": "cible",
+                    "articleNum": "1.51.3",
+                    "articleId": "KALIARTI000026355981",
+                    "natureText": "Convention collective nationale",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2012-04-23",
+                    "dateDebutCible": "2013-11-03"
+                  },
+                  {
+                    "textCid": "KALITEXT000026355879",
+                    "textTitle": "Convention collective nationale métropolitaine ... - art. 1.51.31 (Ab)",
+                    "linkType": "ABROGATION",
+                    "linkOrientation": "cible",
+                    "articleNum": "1.51.31",
+                    "articleId": "KALIARTI000026355982",
+                    "natureText": "Convention collective nationale",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2012-04-23",
+                    "dateDebutCible": "2013-11-03"
+                  },
+                  {
+                    "textCid": "KALITEXT000026355879",
+                    "textTitle": "Convention collective nationale métropolitaine ... - art. 1.51.32 (Ab)",
+                    "linkType": "ABROGATION",
+                    "linkOrientation": "cible",
+                    "articleNum": "1.51.32",
+                    "articleId": "KALIARTI000026355983",
+                    "natureText": "Convention collective nationale",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2012-04-23",
+                    "dateDebutCible": "2013-11-03"
+                  },
+                  {
+                    "textCid": "KALITEXT000026355879",
+                    "textTitle": "Convention collective nationale métropolitaine ... - art. 1.51.4 (Ab)",
+                    "linkType": "ABROGATION",
+                    "linkOrientation": "cible",
+                    "articleNum": "1.51.4",
+                    "articleId": "KALIARTI000026355984",
+                    "natureText": "Convention collective nationale",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2012-04-23",
+                    "dateDebutCible": "2013-11-03"
+                  },
+                  {
+                    "textCid": "KALITEXT000026355879",
+                    "textTitle": "Convention collective nationale métropolitaine ... - art. 1.51.5 (Ab)",
+                    "linkType": "ABROGATION",
+                    "linkOrientation": "cible",
+                    "articleNum": "1.51.5",
+                    "articleId": "KALIARTI000026355985",
+                    "natureText": "Convention collective nationale",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2012-04-23",
+                    "dateDebutCible": "2013-11-03"
+                  }
+                ]
               }
             },
             {
@@ -22648,8 +22949,20 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000039399654",
                 "content": "<p align='left'>3.1. Le 1er alinéa du chapitre II. 1 est remplacé par la rédaction suivante :<br/>\n« La mise en place du comité social et économique (CSE) s'effectue conformément aux seuils et conditions fixés par les dispositions légales et réglementaires en vigueur sauf accord d'entreprise plus favorable ».</p><p align='left'>3.2. La référence au comité d'entreprise, délégués du personnel, comité d'hygiène de sécurité et des conditions de travail, délégation unique du personnel est remplacée par le comité social et économique sauf le cas échéant, stipulation contraire.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042953289",
+                    "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042953296",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-01-13",
+                    "dateSignaTexte": "2020-12-05",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000026355879",
                     "textTitle": "Convention collective nationale métropolitaine ... - art. (VNE)",
@@ -22673,8 +22986,20 @@
                 "intOrdre": 2621435,
                 "id": "KALIARTI000039399655",
                 "content": "<p align='left'>À l'article 2.14, le dernier alinéa est remplacé par la rédaction suivante :</p><p align='left'>« Les panneaux affectés aux communications des délégués du personnel et ceux affectés aux communications du comité d'entreprise sont dévolus dorénavant aux communications du CSE. Par contre, les panneaux réservés aux communications des sections syndicales ne sont pas modifiés du fait du CSE ».</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042953289",
+                    "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042953296",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-01-13",
+                    "dateSignaTexte": "2020-12-05",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000026355879",
                     "textTitle": "Convention collective nationale métropolitaine ... - art. 2.14 (VNE)",
@@ -22698,8 +23023,20 @@
                 "intOrdre": 3145722,
                 "id": "KALIARTI000039399657",
                 "content": "<p align='left'>L'article 3.34.2 est désormais ainsi rédigé :</p><p align='left'>« Les congés exceptionnels pour événement familial (mariage, naissance, adoption …) sont régis par les dispositions légales et réglementaires en vigueur auxquelles il est ajouté pour le cas de décès d'un beau-frère ou d'une belle-sœur 2 jours avec maintien du salaire si son ancienneté est de 1 an au moins.</p><p align='left'>Les absences ainsi autorisées n'entraînent pas de réduction de la durée des congés annuels. Les journées d'absence non prises ne donnent pas droit à rémunération supplémentaire ».</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042953289",
+                    "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042953296",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-01-13",
+                    "dateSignaTexte": "2020-12-05",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000026355879",
                     "textTitle": "Convention collective nationale métropolitaine ... - art. 3.34.2 (VNE)",
@@ -22723,8 +23060,20 @@
                 "intOrdre": 3670009,
                 "id": "KALIARTI000039399658",
                 "content": "<p align='left'>L'article 3.42est remplacé par la rédaction suivante :</p><p align='left'>« L'indemnité de licenciement est celle définie par les dispositions légales et réglementaires en vigueur ».</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042953289",
+                    "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042953296",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-01-13",
+                    "dateSignaTexte": "2020-12-05",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000026355879",
                     "textTitle": "Convention collective nationale métropolitaine ... - art. 3.42 (VNE)",
@@ -22748,8 +23097,20 @@
                 "intOrdre": 4194296,
                 "id": "KALIARTI000039399660",
                 "content": "<p align='left'>À l'article 3.43.1 l'avant dernier alinéa fixant l'indemnité conventionnelle de mise à la retraite est supprimé.</p><p align='left'>Le dernier alinéa est désormais ainsi rédigé :</p><p align='left'>« L'indemnité de mise à la retraite est celle définie par les dispositions légales et réglementaires en vigueur ».</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042953289",
+                    "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042953296",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-01-13",
+                    "dateSignaTexte": "2020-12-05",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000026355879",
                     "textTitle": "Convention collective nationale métropolitaine ... - art. 3.43.1 (VNE)",
@@ -22773,8 +23134,20 @@
                 "intOrdre": 4718583,
                 "id": "KALIARTI000039399662",
                 "content": "<p align='left'>L'article 6.51est remplacé par la rédaction suivante :</p><p align='left'>« L'indemnité de licenciement pour les cadres est celle définie par les dispositions légales et réglementaires en vigueur ».</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042953289",
+                    "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042953296",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-01-13",
+                    "dateSignaTexte": "2020-12-05",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000026355879",
                     "textTitle": "Convention collective nationale métropolitaine ... - art. 6.51 (VNE)",
@@ -22798,8 +23171,20 @@
                 "intOrdre": 5242870,
                 "id": "KALIARTI000039399664",
                 "content": "<p align='left'>L'article 5 de l'accord du 28 septembre 2006 relatif au temps choisi est désormais rédigé ainsi :</p><p align='left'>« Le présent accord est d'application directe. »</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042953289",
+                    "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042953296",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-01-13",
+                    "dateSignaTexte": "2020-12-05",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000005650642",
                     "textTitle": "Organisation du temps de travail. - Temps choisi - art. 5 (VNE)",
@@ -22823,8 +23208,21 @@
                 "intOrdre": 5767157,
                 "id": "KALIARTI000039399666",
                 "content": "<p align='left'><br/>Les entreprises peuvent conclure des dispositions plus favorables aux salariés.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042953289",
+                    "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042953296",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-01-13",
+                    "dateSignaTexte": "2020-12-05",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -22835,9 +23233,21 @@
                 "intOrdre": 6291444,
                 "id": "KALIARTI000039399667",
                 "content": "<p align='left'>Cet avenant complète la liste du document n° 1 « liste des accords et avenants de la convention collective en vigueur à la date de signature de l'avenant portant révision de la convention collective » de l'avenant du 23 avril 2012 portant révision de la convention collective nationale du 30 octobre 1969 modifiée.</p><p align='left'>Toutes les références à « l'accord du 28 septembre 2006 relatif au temps choisi » de l'avenant du 23 avril 2012 portant révision de la convention collective du 30 octobre 1969 modifiée sont remplacées par la référence à « l'accord modifié du 28 septembre 2006 relatif au temps choisi ».</p><p align='left'>Le présent avenant est conclu pour une durée indéterminée sous réserve de l'exercice du droit d'opposition, il entre en application à compter de sa signature.</p><p align='left'>Il est conclu conformément aux dispositions législatives et réglementaires du code du travail relatives à la nature et à la validité des conventions et accords collectifs. Dans les conditions prévues par ces mêmes dispositions, le présent avenant a été fait en un nombre suffisant d'exemplaires pour être notifié à chacune des organisations représentatives.</p><p align='left'>Le présent avenant est déposé au ministère du travail ainsi qu'au secrétariat-greffe du conseil des prud'hommes de Paris. Il est transmis à la base nationale des accords collectifs.</p><p align='left'>Les parties signataires demandent l'extension la plus rapide possible du présent avenant au ministre en charge du travail.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dispositions transitoires et finales",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042953289",
+                    "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042953296",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-01-13",
+                    "dateSignaTexte": "2020-12-05",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000026355879",
                     "textTitle": "Convention collective nationale métropolitaine ... - art. (VNE)",
@@ -23577,7 +23987,7 @@
             "cid": "KALITEXT000042294986",
             "title": "Avenant du 28 mai 2020 à l'accord du 14 avril 2020 relatif aux mesures d'urgence prises en matière d'organisation du travail dans le cadre de la crise sanitaire du Covid-19",
             "id": "KALITEXT000042294986",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2020-06-19"
           },
           "children": [
@@ -23588,7 +23998,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000042294989",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -23598,8 +24008,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000042294992",
                     "content": "<p align='left'>Un accord relatif aux mesures d'urgence prises en matière d'organisation du travail dans le cadre de la crise sanitaire du Covid-19 a été conclu le 14 avril 2020.</p><p align='left'>Le champ d'application de cet accord est celui prévu par la convention collective qui dans son article 1.11 indique :<br/>\n« Sauf mention expresse contraire la présente convention collective nationale ne s'applique pas aux voyageurs représentants et placiers (VRP) qui bénéficient du statut particulier légal… »</p><p align='left'>Sur la question de l'acquisition et de la prise des congés payés annuels les VRP acquièrent des droits dans les mêmes conditions que les autres catégories de salariés. En conséquence il est apparu conforme à l'objectif poursuivi par l'accord collectif de conclure ce qui suit :</p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000042953289",
+                        "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000042953296",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-01-13",
+                        "dateSignaTexte": "2020-12-05",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -23612,8 +24035,21 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000042294990",
                 "content": "<p align='left'><br/>L'accord collectif relatif aux mesures d'urgence prises en matière d'organisation du travail dans le cadre de la crise sanitaire du Covid-19 conclu le 14 avril 2020 est applicable aux VRP employés par les entreprises de la branche.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042953289",
+                    "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042953296",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-01-13",
+                    "dateSignaTexte": "2020-12-05",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -23624,8 +24060,21 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000042294991",
                 "content": "<p align='left'><br/>Le présent avenant est conclu dans les mêmes conditions que l'accord qu'il complète et il fait l'objet des mêmes modalités de dépôt.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042953289",
+                    "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042953296",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-01-13",
+                    "dateSignaTexte": "2020-12-05",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
@@ -23636,7 +24085,7 @@
             "cid": "KALITEXT000042360359",
             "title": "Avenant n° 1 du 23 juin 2020 à l'avenant n° 5 du 4 juin 2019 relatif au temps choisi",
             "id": "KALITEXT000042360359",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2020-07-22"
           },
           "children": [
@@ -23647,7 +24096,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000042360362",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -23656,9 +24105,22 @@
                     "cid": "KALIARTI000042360370",
                     "intOrdre": 524287,
                     "id": "KALIARTI000042360370",
-                    "content": "<p align='left'>Par lettre datée du 10 juin 2020, la direction générale du travail a indiqué, en réponse à la demande d'extension du 9 juillet 2019 de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000039399646&categorieLien=cid' title='Temps choisi (VNE)'>avenant n° 5 conclu le 4 juin 2019</a>, que cet avenant ne comportait « ni stipulations spécifiques en faveur des entreprises de moins de 50 salariés ni justifications de leur absence ».</p><p align='left'>Le ministère du travail a demandé par cette même lettre et afin de poursuivre la procédure d'extension, qu'un « avenant ou, à défaut, une lettre paritaire justifiant de l'absence de clauses spécifiques en faveur » des entreprises de moins de 50 salariés lui soit adressé.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "content": "<p align='left'>Par lettre datée du 10 juin 2020, la direction générale du travail a indiqué, en réponse à la demande d'extension du 9 juillet 2019 de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000039399646&categorieLien=cid'>avenant n° 5 conclu le 4 juin 2019</a>, que cet avenant ne comportait « ni stipulations spécifiques en faveur des entreprises de moins de 50 salariés ni justifications de leur absence ».</p><p align='left'>Le ministère du travail a demandé par cette même lettre et afin de poursuivre la procédure d'extension, qu'un « avenant ou, à défaut, une lettre paritaire justifiant de l'absence de clauses spécifiques en faveur » des entreprises de moins de 50 salariés lui soit adressé.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000042953289",
+                        "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000042953296",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-01-13",
+                        "dateSignaTexte": "2020-12-05",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -23671,8 +24133,21 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000042360363",
                 "content": "<p align='left'><br/>Compte tenu de l'objet même de l'avenant n° 5 destiné à mettre à jour des stipulations de la convention collective et de l'accord du 28 septembre 2006 relatif au temps choisi et de ce que la convention collective s'applique sans distinction d'effectif, il n'y a pas lieu de prévoir de modalité particulière pour les entreprises de moins de 50 salariés. En conséquence, les dispositions contenues dans l'avenant n° 5 s'appliquent dans les mêmes conditions aux entreprises de moins de 50 salariés sauf pour les dispositions pour lesquelles la loi prévoit qu'elles ne sont pas concernées.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042953289",
+                    "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042953296",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-01-13",
+                    "dateSignaTexte": "2020-12-05",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -23683,8 +24158,21 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000042360367",
                 "content": "<p align='left'>Le présent avenant est conclu dans les mêmes conditions et pour la même durée que l'avenant n° 5. Il peut être révisé ou dénoncé dans les mêmes conditions.</p><p align='left'>Le présent avenant sera transmis au ministère du travail et déposé au greffe du conseil des prud'hommes de Paris.</p><p align='left'>Il a été conclu conformément aux dispositions législatives et réglementaires du code du travail relatives à la nature et à la validité des conventions et accords collectifs. Dans les conditions prévues par ces mêmes dispositions, le présent avenant a été fait en un nombre suffisant d'exemplaires pour chacune des organisations représentatives.</p><p align='left'>Les parties signataires demandent l'extension du présent avenant au ministre en charge du travail.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042953289",
+                    "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042953296",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-01-13",
+                    "dateSignaTexte": "2020-12-05",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
@@ -23695,7 +24183,7 @@
             "cid": "KALITEXT000043074931",
             "title": "Avenant n° 2 du 18 septembre 2020 à l'accord du 14 avril 2020 relatif aux mesures d'urgence prises en matière d'organisation du travail dans le cadre de la crise sanitaire du « Covid-19 »",
             "id": "KALITEXT000043074931",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2020-11-05"
           },
           "children": [
@@ -23706,7 +24194,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000043074934",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -23716,8 +24204,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000043074942",
                     "content": "<p align='left'>Par mail daté du 3 juin 2020, la direction générale du travail a indiqué que l'avenant à l'accord relatif aux mesures d'urgence prises en matière d'organisation du travail dans le cadre de la crise sanitaire ne comportait pas de stipulations relatives aux entreprises de moins de 50 salariés.</p><p align='left'>Le ministère du travail a proposé par ce même mail et afin de poursuivre la procédure d'extension, qu'un avenant ou, à défaut, une lettre paritaire justifiant de l'absence de clauses spécifiques en faveur des entreprises de moins de 50 salariés lui soit adressée.</p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000042953289",
+                        "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000042953296",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-01-13",
+                        "dateSignaTexte": "2020-12-05",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -23729,9 +24230,22 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000043074935",
-                "content": "<p align='left'><br/>L'objet de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000042294986&categorieLien=cid' title='Avenant à l'accord du 14 avril 2020 (Covid-19) (VNE)'>avenant n° 1</a> étant destiné à rendre applicable aux VRP l'<a href='/affichIDCC.do?cidTexte=KALITEXT000042111164&categorieLien=cid' title='Mesures d'urgence (Covid-19) (VE)'>accord du 14 avril 2020 </a>et la convention collective s'appliquant sans distinction d'effectif, il n'y a pas lieu de prévoir de modalité particulière pour les entreprises de moins de 50 salariés. En conséquence, les dispositions contenues dans l'avenant n° 1 s'appliquent dans les mêmes conditions aux entreprises de moins de 50 salariés.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'><br/>L'objet de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000042294986&categorieLien=cid'>avenant n° 1</a> étant destiné à rendre applicable aux VRP l'<a href='/affichIDCC.do?cidTexte=KALITEXT000042111164&categorieLien=cid'>accord du 14 avril 2020 </a>et la convention collective s'appliquant sans distinction d'effectif, il n'y a pas lieu de prévoir de modalité particulière pour les entreprises de moins de 50 salariés. En conséquence, les dispositions contenues dans l'avenant n° 1 s'appliquent dans les mêmes conditions aux entreprises de moins de 50 salariés.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042953289",
+                    "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042953296",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-01-13",
+                    "dateSignaTexte": "2020-12-05",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -23741,9 +24255,22 @@
                 "num": "2",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000043074939",
-                "content": "<p align='left'>Le présent avenant est conclu dans les mêmes conditions et pour la même durée que l'<a href='/affichIDCC.do?cidTexte=KALITEXT000042111164&categorieLien=cid' title='Mesures d'urgence (Covid-19) (VE)'>accord du 14 avril 2020</a>. Il peut être révisé ou dénoncé dans les mêmes conditions.</p><p align='left'>Le présent avenant sera transmis au ministère du travail et déposé au greffe du conseil des prud'hommes de Paris.</p><p align='left'>Il a été conclu conformément aux dispositions législatives et réglementaires du code du travail relatives à la nature et à la validité des conventions et accords collectifs. Dans les conditions prévues par ces mêmes dispositions, le présent avenant a été fait en un nombre suffisant d'exemplaires pour chacune des organisations représentatives.</p><p align='left'>Les parties signataires demandent l'extension du présent avenant au ministre en charge du travail.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'>Le présent avenant est conclu dans les mêmes conditions et pour la même durée que l'<a href='/affichIDCC.do?cidTexte=KALITEXT000042111164&categorieLien=cid'>accord du 14 avril 2020</a>. Il peut être révisé ou dénoncé dans les mêmes conditions.</p><p align='left'>Le présent avenant sera transmis au ministère du travail et déposé au greffe du conseil des prud'hommes de Paris.</p><p align='left'>Il a été conclu conformément aux dispositions législatives et réglementaires du code du travail relatives à la nature et à la validité des conventions et accords collectifs. Dans les conditions prévues par ces mêmes dispositions, le présent avenant a été fait en un nombre suffisant d'exemplaires pour chacune des organisations représentatives.</p><p align='left'>Les parties signataires demandent l'extension du présent avenant au ministre en charge du travail.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000042953289",
+                    "textTitle": "Arrêté du 5 décembre 2020 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000042953296",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-01-13",
+                    "dateSignaTexte": "2020-12-05",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
