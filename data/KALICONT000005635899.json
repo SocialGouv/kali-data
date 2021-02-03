@@ -8610,7 +8610,7 @@
                     "natureText": "Convention collective nationale ",
                     "datePubliTexte": "2999-01-01",
                     "dateSignaTexte": "1984-01-01",
-                    "dateDebutCible": "2014-01-15"
+                    "dateDebutCible": "2014-01-01"
                   }
                 ]
               }
@@ -8621,21 +8621,21 @@
                 "cid": "KALIARTI000029217599",
                 "num": "2",
                 "intOrdre": 1572861,
-                "id": "KALIARTI000038707477",
+                "id": "KALIARTI000043089137",
                 "content": "<p>Le taux de cotisation contractuel est de 0,08 % du salaire total (salaire total : masse salariale brute totale du personnel affilié).</p><p>Un taux d'appel de 0 % est appliqué pour une période de 2 ans du 1er janvier 2019 au 31 décembre 2020 sous réserve que des modifications de lois ou de règlements servant de base aux prestations garanties ne remettent pas en cause l'équilibre technique du régime.</p><p>Au vu de la présentation des comptes de résultat et de l'équilibre du régime, le taux de cotisation est examiné annuellement et peut être révisé à tout moment par accord des parties.</p>",
                 "etat": "VIGUEUR_NON_ETEN",
                 "surtitre": "Cotisations",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000038683645",
-                    "textTitle": "Départ à la retraite - art. 2 (VNE)",
+                    "textCid": "KALITEXT000043085308",
+                    "textTitle": "Avenant n° 3 à l'avenant n° 19 du 15 janvier 20... - art. 2 (VNE)",
                     "linkType": "MODIFIE",
                     "linkOrientation": "cible",
                     "articleNum": "2",
-                    "articleId": "KALIARTI000038683652",
+                    "articleId": "KALIARTI000043085315",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2019-06-26",
-                    "dateSignaTexte": "2019-01-16",
+                    "datePubliTexte": "2021-02-01",
+                    "dateSignaTexte": "2020-07-09",
                     "dateDebutCible": "2019-01-01"
                   }
                 ]
@@ -11053,6 +11053,258 @@
                     "dateDebutCible": "2999-01-01"
                   }
                 ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000043085292",
+            "title": "Avenant n° 3 du 9 juillet 2020 à l'avenant n° 18 du 16 janvier 2013 relatif au régime de prévoyance",
+            "id": "KALITEXT000043085292",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2019-01-01"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000043085295",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000043085295",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000043085307",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000043085307",
+                    "content": "<p align='left'><br/>Les partenaires sociaux ont décidé de créer un fonds de péréquation pour assurer une mutualisation des obligations mises à la charge des employeurs. Ce fonds a pour but de favoriser le respect par les employeurs des obligations mises à leur charge et d'assurer leurs salariés du service des prestations qui leur sont dues.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": []
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085296",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000043085296",
+                "content": "<p align='left'><br/>Le fonds de péréquation est créé pour assurer à l'employeur le remboursement à hauteur de 20 % des congés pour événements familiaux prévus à l'article 35 de la convention collective nationale ainsi que 50 % des indemnités légales de licenciement pour inaptitude suite à maladie professionnelle.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Objet de l'avenant",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085297",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000043085297",
+                "content": "<p align='left'>Le taux de cotisation du fonds de péréquation est fixé à 0,08 % du salaire brut tranches A + B.</p><p align='left'>Les cotisations du fonds de péréquation sont à la charge exclusive de l'employeur.</p><p align='left'>Les cotisations sont recouvrées par un organisme collecteur de prévoyance en même temps et dans les mêmes conditions que les cotisations affectées au financement de la prévoyance et de la retraite complémentaire.</p><p align='left'>Les frais de gestion de ce fonds de péréquation sont de 10 %.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Cotisations",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085298",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000043085298",
+                "content": "<p align='left'><br/>Les prestations du fonds de péréquation seront versées dans la limite des fonds disponibles.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Versement des prestations",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085299",
+                "num": "4",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000043085299",
+                "content": "<p align='left'><br/>Les modalités de fonctionnement du fonds de péréquation seront réexaminées dans le délai maximum de 3 ans à compter de la date d'effet du présent avenant, de même que le choix de l'organisme gestionnaire.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Modalités de fonctionnement",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085300",
+                "num": "5",
+                "intOrdre": 3145722,
+                "id": "KALIARTI000043085300",
+                "content": "<p align='left'><br/>Le délai de prescription est de 2 ans à compter de l'événement qui y donne naissance.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Délai de prescription",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085301",
+                "num": "6",
+                "intOrdre": 3670009,
+                "id": "KALIARTI000043085301",
+                "content": "<p align='left'><br/>Le présent avenant prend effet le 1er janvier 2019.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Date d'effet",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085302",
+                "num": "7",
+                "intOrdre": 4194296,
+                "id": "KALIARTI000043085302",
+                "content": "<p align='left'><br/>Suivant les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>dispositions de l'article L. 2261-23-1 du code du travail</a>, les parties signataires n'ont pas retenu de dispositions spécifiques telles que visées par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-10-1 (M)'>article L. 2232-10-1 du code du travail</a> à l'attention des entreprises de moins de 50 salariés dès lors que le présent avenant vise à modifier le régime collectif obligatoire de prévoyance dont doivent bénéficier les salariés relevant de la convention collective et ce quels que soient la taille de leur entreprise et l'organisme assureur de cette dernière.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Clause spécifique aux entreprises de moins de 50 salariés",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085305",
+                "num": "8",
+                "intOrdre": 4718583,
+                "id": "KALIARTI000043085305",
+                "content": "<p align='left'>Le présent avenant fera l'objet d'un dépôt auprès des services centraux du ministre chargé du travail ainsi qu'au secrétariat du greffe du conseil des prud'hommes dans les conditions requises par le code du travail.</p><p align='left'>Les parties signataires sont convenues de demander, sans délai, l'extension du présent avenant. La confédération nationale des détaillants, détaillants-fabricants de la confiserie, chocolaterie, biscuiterie, 64, rue de Caumartin, 75009 Paris est chargée des formalités nécessaires.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Dépôt. Extension",
+                "lstLienModification": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000043085308",
+            "title": "Avenant n° 3 du 9 juillet 2020 à l'avenant n° 19 du 15 janvier 2014 relatif au départ à la retraite",
+            "id": "KALITEXT000043085308",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2019-01-01"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000043085311",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000043085311",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000043085323",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000043085323",
+                    "content": "<p align='left'>La convention collective nationale des détaillants, détaillants-fabricants de la confiserie, chocolaterie, biscuiterie (brochure n° 3224) a instauré de manière mutualisée au profit des entreprises relevant de son champ d'application, un fonds provisionnant les indemnités de départ en retraite de ses salariés.</p><p align='left'>Au vu des comptes de résultat, les partenaires sociaux sont convenus :</p><p align='left'>D'appeler à 0 % le taux contractuel de 0,08 % du salaire total à compter du 1er janvier 2019 pour une période de 2 ans.</p><p></p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": []
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085312",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000043085312",
+                "content": "<p align='left'><br/>Le présent avenant a pour objet de modifier l'article 2 « Cotisations » de l'avenant n° 19 du 15 janvier 2014.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Objet de l'avenant",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085315",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000043085315",
+                "content": "<p align='left'>L'article 2 de l'avenant n° 19 du 15 janvier 2014 est modifié comme suit :</p><p align='left'>« Le taux de cotisation contractuel est de 0,08 % du salaire total (salaire total : masse salariale brute totale du personnel affilié).</p><p align='left'>Un taux d'appel de 0 % est appliqué pour une période de 2 ans du 1er janvier 2019 au 31 décembre 2020 sous réserve que des modifications de lois ou de règlements servant de base aux prestations garanties ne remettent pas en cause l'équilibre technique du régime.</p><p align='left'>Au vu de la présentation des comptes de résultat et de l'équilibre du régime, le taux de cotisation est examiné annuellement et peut être révisé à tout moment par accord des parties. »</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Cotisations",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000029217588",
+                    "textTitle": "Départ à la retraite - art. 2 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "2",
+                    "articleId": "KALIARTI000043089137",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2014-07-10",
+                    "dateSignaTexte": "2014-01-15",
+                    "dateDebutCible": "2019-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085317",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000043085317",
+                "content": "<p align='left'><br/>Le présent avenant prend effet le 1er janvier 2019.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Date d'effet",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085318",
+                "num": "4",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000043085318",
+                "content": "<p align='left'><br/>Suivant les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>dispositions de l'article L. 2261-23-1 du code du travail</a>, les parties signataires n'ont pas retenu de dispositions spécifiques telles que visées par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-10-1 (M)'>article L. 2232-10-1 du code du travail</a> à l'attention des entreprises de moins de 50 salariés dès lors que le présent avenant vise à modifier le régime collectif obligatoire de prévoyance dont doivent bénéficier les salariés relevant de la convention collective et ce quels que soient la taille de leur entreprise et l'organisme assureur de cette dernière.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Clause spécifique aux entreprises de moins de 50 salariés",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085321",
+                "num": "5",
+                "intOrdre": 3145722,
+                "id": "KALIARTI000043085321",
+                "content": "<p align='left'>Le présent avenant fera l'objet d'un dépôt auprès des services centraux du ministre chargé du travail ainsi qu'au secrétariat du greffe du conseil des prud'hommes dans les conditions requises par le code du travail.</p><p align='left'>Les parties signataires sont convenues de demander, sans délai, l'extension du présent avenant. La confédération nationale des détaillants, détaillants-fabricants de la confiserie, chocolaterie, biscuiterie, 64, rue de Caumartin, 75009 Paris est chargée des formalités nécessaires.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Dépôt. Extension",
+                "lstLienModification": []
               }
             }
           ]
