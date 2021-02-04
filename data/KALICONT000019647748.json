@@ -2417,7 +2417,7 @@
             "title": "Accord du 5 février 2009 relatif à la prévoyance",
             "id": "KALITEXT000020720065",
             "etat": "VIGUEUR_ETEN",
-            "modifDate": "2014-01-30"
+            "modifDate": "2020-01-01"
           },
           "children": [
             {
@@ -2463,7 +2463,7 @@
                     "articleNum": "1er",
                     "articleId": "KALIARTI000029176273",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2014-07-02",
+                    "datePubliTexte": "2999-01-01",
                     "dateSignaTexte": "2014-01-30",
                     "dateDebutCible": "2014-01-30"
                   }
@@ -3504,18 +3504,6 @@
                     "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
-                        "textCid": "KALITEXT000036073929",
-                        "textTitle": "Prévoyance - art. 1er (VNE)",
-                        "linkType": "CREE",
-                        "linkOrientation": "cible",
-                        "articleNum": "1er",
-                        "articleId": "KALIARTI000036073933",
-                        "natureText": "Avenant",
-                        "datePubliTexte": "2017-11-22",
-                        "dateSignaTexte": "2017-06-01",
-                        "dateDebutCible": "2017-09-13"
-                      },
-                      {
                         "textCid": "JORFTEXT000037152867",
                         "textTitle": "Arrêté du 29 juin 2018 - art. 1, v. init.",
                         "linkType": "ETEND",
@@ -3526,6 +3514,18 @@
                         "datePubliTexte": "2018-07-05",
                         "dateSignaTexte": "2018-06-29",
                         "dateDebutCible": "2999-01-01"
+                      },
+                      {
+                        "textCid": "KALITEXT000036073929",
+                        "textTitle": "Prévoyance - art. 1er (VNE)",
+                        "linkType": "CREE",
+                        "linkOrientation": "cible",
+                        "articleNum": "1er",
+                        "articleId": "KALIARTI000036073933",
+                        "natureText": "Avenant",
+                        "datePubliTexte": "2999-01-01",
+                        "dateSignaTexte": "2017-06-01",
+                        "dateDebutCible": "2017-09-13"
                       }
                     ]
                   }
@@ -4278,34 +4278,22 @@
                         "cid": "KALIARTI000020720145",
                         "num": "2",
                         "intOrdre": 1048574,
-                        "id": "KALIARTI000027033617",
-                        "content": "<p>- part employeur : 60 % ; <br/><br/>- part salarié : 40 %. </p><p align='center'><br/>Non-cadres </p><p align='right'><br/>(En pourcentage.) </p><center><table border='1'><tbody><tr><th>Garantie </th><th colSpan='2'>Cotisation <br/>globale </th><th colSpan='2'>Cotisation employeur </th><th colSpan='2'>Cotisation <br/>salarié </th></tr><tr><td><br/></td><td align='center'>TA </td><td align='center'>TB/ TC </td><td align='center'>TA </td><td align='center'>TB/ TC </td><td align='center'>TA </td><td align='center'>TB/ TC </td></tr><tr><td align='center'>Décès + RE, RC et frais d'obsèques </td><td align='center'>0,78 </td><td align='center'>0,78 </td><td align='center'>0,47 </td><td align='center'>0,47 </td><td align='center'>0,31 </td><td align='center'>0,31 </td></tr><tr><td align='center'>Incapacité </td><td align='center'>0,29 </td><td align='center'>0,29 </td><td align='center'>0,174 </td><td align='center'>0,174 </td><td align='center'>0,116 </td><td align='center'>0,116 </td></tr><tr><td align='center'>Invalidité </td><td align='center'>0,45 </td><td align='center'>0,45 </td><td align='center'>0,27 </td><td align='center'>0,27 </td><td align='center'>0,18 </td><td align='center'>0,18 </td></tr><tr><td align='center'>Total </td><td align='center'>1,52 </td><td align='center'>1,52 </td><td align='center'>0,914 </td><td align='center'>0,914 </td><td align='center'>0,606 </td><td align='center'>0,606 </td></tr></tbody></table></center><p></p><p align='center'><br/>Cadres </p><p align='right'><br/>(En pourcentage.) </p><center><table border='1'><tbody><tr><th>Garantie </th><th colSpan='2'>Cotisation <br/>globale </th><th colSpan='2'>Cotisation <br/>employeur </th><th colSpan='2'>Cotisation <br/>salarié </th></tr><tr><td><br/></td><td align='center'>TA </td><td align='center'>TB/ TC </td><td align='center'>TA </td><td align='center'>TB/ TC </td><td align='center'>TA </td><td align='center'>TB/ TC </td></tr><tr><td align='center'>Décès + RE, RC et frais d'obsèques </td><td align='center'>1,10 </td><td align='center'>0,42 </td><td align='center'>1,10 </td><td align='center'>0,25 </td><td align='center'>0 </td><td align='center'>0,17 </td></tr><tr><td align='center'>Incapacité </td><td align='center'>0,1625 </td><td align='center'>0,5125 </td><td align='center'>0,1625 </td><td align='center'>0,3075 </td><td align='center'>0 </td><td align='center'>0,205 </td></tr><tr><td align='center'>Invalidité </td><td align='center'>0,3375 </td><td align='center'>0,9875 </td><td align='center'>0,3375 </td><td align='center'>0,5925 </td><td align='center'>0 </td><td align='center'>0,395 </td></tr><tr><td align='center'>Total </td><td align='center'>1,60 </td><td align='center'>1,92 </td><td align='center'>1,60 </td><td align='center'>1,15 </td><td align='center'>0 </td><td align='center'>0,77</td></tr></tbody></table></center>",
-                        "etat": "VIGUEUR_ETEN",
+                        "id": "KALIARTI000043092257",
+                        "content": "<p>– part employeur : 60 % ;<br/><br/>\n– part salarié : 40 %.<br/><br/>\nNon-cadres : conformément à l'avenant n° 3 du 30 janvier 2014 à l'accord du 5 février 2009 relatif à la prévoyance, on entend par non-cadre le personnel :<br/><br/>\n– de niveaux A1 à A4 de la filière administrative ;<br/><br/>\n– de niveaux T2 à T4 de la filière technique ;<br/><br/>\n– de niveaux C2 à C3 de la filière collaborateurs ;<br/><br/>\n– de niveaux S2 à S3 de la filière stagiaires.<br/><br/>\nTels que définis au titre VII de la convention collective nationale du personnel des administrateurs et mandataires judiciaires.</p><p>(Tableau non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives.)</p><p><u><font color='blue'><a shape='rect' href='https://www.legifrance.gouv.fr/download/file/pdf/boc_20200046_0000_0003.pdf/BOCC' target='_blank'> https://www.legifrance.gouv.fr/download/file/pdf/boc_20200046_0000_0003.pdf/BOCC</a></font></u><br/><br/>\nCadres : conformément à l'avenant n° 3 du 30 janvier 2014 à l'accord du 5 février 2009 relatif à la prévoyance, on entend par cadre le personnel :<br/><br/>\n– de niveaux 1 et 2 des filières administratives (A) et technique (T) ;<br/><br/>\n– de niveaux C4 de la filière collaborateurs (C).<br/><br/>\nTels que définis au titre VII de la convention collective nationale du personnel des administrateurs et mandataires judiciaires.</p><p>(Tableau non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives.)</p><p><u><font color='blue'><a shape='rect' href='https://www.legifrance.gouv.fr/download/file/pdf/boc_20200046_0000_0003.pdf/BOCC' target='_blank'> https://www.legifrance.gouv.fr/download/file/pdf/boc_20200046_0000_0003.pdf/BOCC</a></font></u></p>",
+                        "etat": "VIGUEUR_NON_ETEN",
                         "surtitre": "Taux des cotisations applicables",
                         "lstLienModification": [
                           {
-                            "textCid": "KALITEXT000027012355",
-                            "textTitle": "Prévoyance - art. 1er (VNE)",
+                            "textCid": "KALITEXT000043085019",
+                            "textTitle": "Prévoyance - art. 2 (VNE)",
                             "linkType": "MODIFIE",
                             "linkOrientation": "cible",
-                            "articleNum": "1er",
-                            "articleId": "KALIARTI000027012359",
-                            "natureText": "Avenant",
-                            "datePubliTexte": "2013-01-31",
-                            "dateSignaTexte": "2012-10-04",
-                            "dateDebutCible": "2012-10-04"
-                          },
-                          {
-                            "textCid": "JORFTEXT000027385935",
-                            "textTitle": "Arrêté du 26 avril 2013 - art. 2, v. init.",
-                            "linkType": "ETEND",
-                            "linkOrientation": "cible",
                             "articleNum": "2",
-                            "articleId": "JORFARTI000027385985",
-                            "natureText": "ARRETE",
-                            "datePubliTexte": "2013-05-04",
-                            "dateSignaTexte": "2013-04-26",
-                            "dateDebutCible": "2999-01-01"
+                            "articleId": "KALIARTI000043085026",
+                            "natureText": "Avenant",
+                            "datePubliTexte": "2021-02-01",
+                            "dateSignaTexte": "2019-10-05",
+                            "dateDebutCible": "2020-01-01"
                           }
                         ]
                       }
@@ -5658,7 +5646,7 @@
             "title": "Avenant n° 8 du 4 octobre 2012 relatif au fonds d'aide au paritarisme",
             "id": "KALITEXT000027012366",
             "etat": "VIGUEUR_ETEN",
-            "modifDate": "2012-10-04"
+            "modifDate": "2020-10-23"
           },
           "children": [
             {
@@ -5703,22 +5691,22 @@
                 "cid": "KALIARTI000027012371",
                 "num": "1er",
                 "intOrdre": 1048574,
-                "id": "KALIARTI000027012371",
-                "content": "<p align='left'> \t\t\t\t\t\tToutes les études d'administrateurs et de mandataires judiciaires, quel que soit leur effectif, visées par le champ d'application de la convention collective nationale du 20 décembre 2007, contribuent au financement du paritarisme par le versement à l'association paritaire visée à l'article 2, d'une cotisation égale à 0,02 % du montant total des salaires annuels bruts pris en compte dans la limite du plafond annuel de la sécurité sociale et entrant dans la base de calcul des cotisations de sécurité sociale telle que définie par les dispositions du code de la sécurité sociale.<br/> \t\t\t\t\t\tLes parties signataires mandatent l'OPCA PL (organisme paritaire collecteur agréé des professions libérales, adresse : 52-56, rue Kleber, 92309 Levallois-Perret Cedex) pour recouvrer en son nom et pour son compte auprès des études AJ MJ la cotisation prévue à l'article 3 ci-dessus.<br/> \t\t\t\t\t\tCette cotisation est appelée annuellement, en même temps mais distinctement des cotisations de financement des contrats ou périodes de professionnalisation et du droit individuel à la formation, étant précisé que la cotisation de l'année N est appelée l'année N + 1.<br/></p>",
-                "etat": "VIGUEUR_ETEN",
+                "id": "KALIARTI000043092249",
+                "content": "<p>Toutes les études d'administrateurs et de mandataires judiciaires, quel que soit leur effectif, visés par le champ d'application de la convention collective nationale du 20 décembre 2007, contribuent au financement du paritarisme par le versement à l'association paritaire visée à l'article 4 :<br/><br/>\n– au titre de l'année 2019 : une cotisation égale à 0,02 % du montant total des salaires annuels bruts pris en compte dans la limite du plafond annuel de sécurité sociale et entrant dans la base de calcul des cotisations de sécurité sociale telle que définie par les dispositions du code de la sécurité sociale ;<br/><br/>\n– au titre de l'année 2020 : une cotisation égale à 0,05 % du montant total des salaires annuels bruts pris en compte dans la limite du plafond annuel de sécurité sociale et entrant dans la base de calcul des cotisations de sécurité sociale telle que définie par les dispositions du code de la sécurité sociale.<br/><br/>\nCes contributions sont prélevées à compter du 1er janvier de chaque année (y compris 2019) et sont versées avec la cotisation prévoyance auprès de l'opérateur choisi par l'étude. Cet opérateur reverse ensuite la somme collectée auprès de l'association de gestion visée à l'article 4 de l'avenant n° 8 du 4 octobre 2012.<br/><br/>\nCette cotisation est appelée annuellement, en même temps mais distinctement des cotisations de financement des contrats ou périodes de professionnalisation et du droit individuel à la formation, étant précisé que la cotisation de l'année N est appelée l'année N + 1.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
                 "surtitre": "Source de financement du paritarisme",
                 "lstLienModification": [
                   {
-                    "textCid": "JORFTEXT000028090567",
-                    "textTitle": "Arrêté du 8 octobre 2013 - art. 1, v. init.",
-                    "linkType": "ETEND",
+                    "textCid": "KALITEXT000043084983",
+                    "textTitle": "Fonds d'aide au paritarisme - art. 1er (VNE)",
+                    "linkType": "MODIFIE",
                     "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000028090570",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2013-10-19",
-                    "dateSignaTexte": "2013-10-08",
-                    "dateDebutCible": "2999-01-01"
+                    "articleNum": "1er",
+                    "articleId": "KALIARTI000043084987",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2021-02-01",
+                    "dateSignaTexte": "2019-11-21",
+                    "dateDebutCible": "2020-10-23"
                   }
                 ]
               }
@@ -6533,7 +6521,7 @@
             "title": "Accord du 26 février 2015 relatif au régime de frais de soins de santé",
             "id": "KALITEXT000031127160",
             "etat": "VIGUEUR_ETEN",
-            "modifDate": "2018-01-01"
+            "modifDate": "2020-01-01"
           },
           "children": [
             {
@@ -6984,21 +6972,21 @@
                     "cid": "KALIARTI000031127201",
                     "num": "II.1. Définition des garanties",
                     "intOrdre": 524287,
-                    "id": "KALIARTI000031127201",
-                    "content": "<p align='left'><br/>La couverture a pour objet d'assurer le remboursement de tout ou partie des frais médicaux, chirurgicaux ou d'hospitalisation. Les garanties sont établies sur la base de la législation et de la réglementation de l'assurance maladie en vigueur au moment de la conclusion du présent accord. Elles sont revues, le cas échéant, en cas de changement de ces textes.<br/>Sont couverts tous les actes et frais courants sur la période de garantie ayant fait l'objet d'un remboursement et d'un décompte individualisé du régime de base de sécurité sociale au titre de la législation « maladie », « accident du travail/maladie professionnelle » et « maternité », ainsi que les actes et frais non pris en charge par ce dernier, expressément mentionnés dans le tableau des garanties figurant en annexe I.<br/>Les prestations sont limitées aux frais réels dûment justifiés restant à charge du bénéficiaire après intervention du régime de base et/ou d'éventuels organismes complémentaires.<br/>Les garanties respectent en toutes circonstances les exigences du contrat « responsable » en termes d'interdictions et d'obligations minimales de prise en charge, conformément aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745370&dateTexte=&categorieLien=cid'>L. 871-1</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006754255&dateTexte=&categorieLien=cid'>R. 871-1</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006754256&dateTexte=&categorieLien=cid'>R. 871-2</a> du code de la sécurité sociale, l'exigence relative aux contrats responsables étant renforcée du fait de la politique de prévention conçue dans la perspective de l'objectif de solidarité.<br/>La grille des prestations en nature est mentionnée en annexe I.</p>",
-                    "etat": "VIGUEUR_ETEN",
+                    "id": "KALIARTI000043092279",
+                    "content": "<p></p><p align='left'><br/>\nLa couverture a pour objet d'assurer le remboursement de tout ou partie des frais médicaux, chirurgicaux ou d'hospitalisation. Les garanties sont établies sur la base de la législation et de la réglementation de l'assurance maladie en vigueur au moment de la conclusion du présent accord. Elles sont revues, le cas échéant, en cas de changement de ces textes.<br/><br/>\nSont couverts tous les actes et frais courants sur la période de garantie ayant fait l'objet d'un remboursement et d'un décompte individualisé du régime de base de sécurité sociale au titre de la législation « maladie », « accident du travail/maladie professionnelle » et « maternité », ainsi que les actes et frais non pris en charge par ce dernier, expressément mentionnés dans le tableau des garanties figurant en annexe I.<br/><br/>\nLes prestations sont limitées aux frais réels dûment justifiés restant à charge du bénéficiaire après intervention du régime de base et/ou d'éventuels organismes complémentaires.<br/><br/>\nLes garanties respectent en toutes circonstances les exigences du contrat « responsable » en termes d'interdictions et d'obligations minimales de prise en charge, conformément aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745370&dateTexte=&categorieLien=cid'>L. 871-1</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006754255&dateTexte=&categorieLien=cid'>R. 871-1</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006754256&dateTexte=&categorieLien=cid'>R. 871-2</a> du code de la sécurité sociale, l'exigence relative aux contrats responsables étant renforcée du fait de la politique de prévention conçue dans la perspective de l'objectif de solidarité.<br/><br/>\nLa grille des prestations en nature est mentionnée en annexe I.</p><p align='left'>Les présentes garanties sont considérées comme responsables et sont susceptibles d'évoluer en fonction des règles relatives aux contrats dits “ responsables ” fixées par les articles L. 871-1 et ses textes d'application. Elles sont également conformes aux dispositions de l'article L. 911-7 du code de la sécurité sociale et à ses textes d'application.<br/><br/>\nÀ ce titre, elles prennent en charge l'intégralité des frais d'acquisition des prestations et équipements du panier de soins 100 % santé.<br/><br/>\nLes remboursements interviennent sous déduction du remboursement de la sécurité sociale française, dès lors qu'elle intervient. Dans tous les cas, les prestations sont versées dans la limite des frais réels engagés.</p><p></p>",
+                    "etat": "VIGUEUR_NON_ETEN",
                     "lstLienModification": [
                       {
-                        "textCid": "JORFTEXT000031673314",
-                        "textTitle": "Arrêté du 11 décembre 2015 - art. 1, v. init.",
-                        "linkType": "ETEND",
+                        "textCid": "KALITEXT000043084999",
+                        "textTitle": "Frais de soins de santé - art. 2 (VNE)",
+                        "linkType": "MODIFIE",
                         "linkOrientation": "cible",
-                        "articleNum": "1",
-                        "articleId": "JORFARTI000031673319",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2015-12-23",
-                        "dateSignaTexte": "2015-12-11",
-                        "dateDebutCible": "2999-01-01"
+                        "articleNum": "2",
+                        "articleId": "KALIARTI000043085006",
+                        "natureText": "Avenant",
+                        "datePubliTexte": "2021-02-01",
+                        "dateSignaTexte": "2019-10-04",
+                        "dateDebutCible": "2020-01-01"
                       }
                     ]
                   }
@@ -7182,33 +7170,21 @@
                   "data": {
                     "cid": "KALIARTI000031127214",
                     "intOrdre": 524287,
-                    "id": "KALIARTI000036117659",
-                    "content": "<p>Annexe I</p><p>Tableau de garanties</p><center><table border='1'><tbody><tr><th>Garantie</th><th>Remboursement<br/>\n\t\t\ten complément de la sécurité sociale</th></tr><tr><td>Soins médicaux et paramédicaux</td><td></td></tr><tr><td align='center'>Consultation, visites généralistes et spécialistes (adhérent au CAS (1))<br/>\n\t\t\tConsultation, visites généralistes et spécialistes (non adhérent au CAS (1))<br/>\n\t\t\tAuxiliaires médicaux : infirmier(ère)s, kinésithérapeutes...<br/>\n\t\t\tAmbulances, véhicules sanitaires légers</td><td align='center'>TM + 170 % BR<br/>\n\t\t\tTM + 100 % BR<br/>\n\t\t\tTM<br/>\n\t\t\tTM</td></tr><tr><td>Pharmacie</td><td></td></tr><tr><td align='center'>Pharmacie remboursée par la sécurité sociale</td><td align='center'>TM</td></tr><tr><td>Analyses et examens</td><td></td></tr><tr><td align='center'>Actes médicaux techniques et d'échographie réalisés par un spécialiste<br/>\n\t\t\tadhérent au CAS (1)<br/>\n\t\t\tActes médicaux techniques et d'échographie réalisés par un spécialiste non adhérent au CAS (1)<br/>\n\t\t\tActes d'imagerie dont ostéodensitométrie acceptée<br/>\n\t\t\tExamens et laboratoires</td><td align='center'>TM + 170 % BR<br/>\n\t\t\tTM + 100 % BR<br/>\n\t\t\tTM<br/>\n\t\t\tTM</td></tr><tr><td colspan='2' align='center'>Hors parcours de soins coordonnés, pas de prise en charge des dépassements d'honoraires</td></tr><tr><td>Appareillages et accessoires médicaux</td><td></td></tr><tr><td align='center'>Orthopédie, appareillages et accessoires médicaux acceptés par le régime obligatoire<br/>\n\t\t\tProthèses auditives</td><td align='center'>TM + 160 % BR<br/>\n\t\t\tTM + 160 % BR</td></tr><tr><td>Cures thermales</td><td></td></tr><tr><td align='center'>Frais de cure (surveillance médicale, soins) hors milieu hospitalier + forfait supplémentaire</td><td align='center'>TM + 5 % du PMSS</td></tr><tr><td>Hospitalisation médicale</td><td></td></tr><tr><td align='center'>Frais de séjour :</td><td></td></tr><tr><td align='center'>– établissements conventionnés</td><td align='center'>100 % frais réels</td></tr><tr><td align='center'>– établissements non conventionnés</td><td align='center'>90 % des frais réels avec une prise<br/>\n\t\t\ten charge minimale du TM</td></tr><tr><td align='center'>Forfait actes lourds<br/>\n\t\t\tSoins, honoraires de médecins, actes de chirurgie, d'anesthésie et d'obstétrique (hors maternité) facturés par un médecin adhérent au CAS (1)<br/>\n\t\t\tSoins, honoraires de médecins, actes de chirurgie, d'anesthésie et d'obstétrique (hors maternité) facturés par un médecin non adhérent au CAS (1)<br/>\n\t\t\tAmbulances, véhicules sanitaires légers<br/>\n\t\t\tForfait journalier hospitalier<br/>\n\t\t\tChambre particulière<br/>\n\t\t\tFrais d'accompagnement d'un enfant de moins de 12 ans</td><td align='center'>Frais réels<br/>\n\t\t\tTM + 200 % BR<br/>\n\t\t\tTM + 100 % BR<br/>\n\t\t\tTM<br/>\n\t\t\tFrais réels<br/>\n\t\t\t2 % du PMSS par jour<br/>\n\t\t\t1,5 % du PMSS par jour</td></tr><tr><td colspan='2' align='center'>Hospitalisation<br/>\n\t\t\tSur la base des codes DMT (discipline médico-tarifaire), la prise en charge est exclue pour les séjours suivants :<br/>\n\t\t\t– cures médicales en établissements pour personnes âgées<br/>\n\t\t\t– ateliers thérapeutiques<br/>\n\t\t\t– instituts ou centres médicaux à caractère éducatif, psycho-pédagogiques et professionnels<br/>\n\t\t\t– centres de rééducation professionnelle<br/>\n\t\t\t– services de longs séjours et établissements pour personnes âgées</td></tr><tr><td>Maternité</td><td></td></tr><tr><td align='center'>Soins, honoraires de médecins, actes de chirurgie, d'anesthésie et d'obstétrique facturés par un médecin adhérent au CAS (1)<br/>\n\t\t\tSoins, honoraires de médecins, actes de chirurgie, d'anesthésie et d'obstétrique facturés par un médecin non adhérent au CAS (1)<br/>\n\t\t\tChambre particulière<br/>\n\t\t\tIndemnité de naissance<br/>\n\t\t\tIndemnité par enfant inscrit à la date de sa naissance, ou de son adoption, si déclaration dans les 3 mois suivant cette date</td><td align='center'>200 % BR<br/>\n\t\t\t100 % BR<br/>\n\t\t\t2 % du PMSS par jour<br/>\n\t\t\t5 % du PMSS</td></tr><tr><td>Optique</td><td></td></tr><tr><td align='center'>Enfant (moins de 18 ans) :<br/>\n\t\t\tForfait optique limité à un équipement par an et par bénéficiaire<br/>\n\t\t\t(2 verres + monture)<br/>\n\t\t\tAdulte (18 ans et plus) :<br/>\n\t\t\tForfait optique limité à un équipement par bénéficiaire tous les 2 ans<br/>\n\t\t\t(2 verres + monture)<br/>\n\t\t\tLe remboursement est limité à un équipement optique par an et par bénéficiaire en cas de renouvellement de l'équipement justifié par une évolution de la vue<br/>\n\t\t\tLentilles</td><td align='center'><br/>\n\t\t\t200 €<br/>\n\t\t\tdont 60 € maximum<br/>\n\t\t\tpour la monture<br/>\n\t\t\t412 €<br/>\n\t\t\tdont 150 € maximum<br/>\n\t\t\tpour la monture<br/>\n\t\t\t4 % du PMSS par an<br/>\n\t\t\tet par bénéficiaire</td></tr><tr><td align='center'>Traitements chirurgicaux des troubles visuels (myopie, hypermétropie, astigmatisme et presbytie) (2)</td><td align='center'>15 % du PMSS par œil</td></tr><tr><td>Dentaire</td><td></td></tr><tr><td align='center'>Soins<br/>\n\t\t\tProthèses remboursables par le régime obligatoire<br/>\n\t\t\tProthèses non remboursables par le régime obligatoire<br/>\n\t\t\tOrthodontie acceptée par le régime obligatoire<br/>\n\t\t\tImplant dentaire (hors pilier sur implant) (2)<br/>\n\t\t\tForfait limité à 3 implants par année civile et par bénéficiaire</td><td align='center'>TM + 70 % BR<br/>\n\t\t\tTM + 170 % BR<br/>\n\t\t\t247,25 € par acte<br/>\n\t\t\tTM + 200 % BR<br/>\n\t\t\t200 € par implant dans la limite<br/>\n\t\t\tde 3 par an et par bénéficiaire</td></tr><tr><td>Médecine douce</td><td></td></tr><tr><td align='center'>Ostéopathie, chiropractie et micro-kinésithérapie (2)</td><td align='center'>100 € par an<br/>\n\t\t\t25 € maximum par séance</td></tr><tr><td>Contraception féminine</td><td></td></tr><tr><td align='center'>Pilules, anneaux et patchs contraceptifs non remboursés par le régime obligatoire</td><td align='center'>50 € par an</td></tr><tr><td>Prévention</td><td></td></tr><tr><td align='center'>Ostéodensitométrie non remboursée par la sécurité sociale (2)<br/>\n\t\t\tEquilibre alimentaire, diététique (2) :<br/>\n\t\t\tPrise en charge de 20 € maximum par séance pour des consultations uniquement chez les diététiciens diplômés<br/>\n\t\t\tVie sans tabac, sevrage tabagique :<br/>\n\t\t\tPrise en charge des substituts nicotiniques et/ou consultation cogni-<br/>\n\t\t\ttivo-comportementale, sur prescription médicale. Après intervention du régime obligatoire<br/>\n\t\t\tVaccin antigrippal (2)<br/>\n\t\t\tAutres vaccins (2)<br/>\n\t\t\tActes de prévention établie par l'arrêté du 8 juin 2006 (3)</td><td align='center'>50 € par an<br/>\n\t\t\t60 € par an<br/>\n\t\t\t50 € par an<br/>\n\t\t\tFrais réels<br/>\n\t\t\t25 € par an<br/>\n\t\t\tTM</td></tr><tr><td>Assistance</td><td></td></tr><tr><td align='center'>Assistance santé et assistance à l'étranger</td><td align='center'>Oui</td></tr><tr><td colspan='2'>TM : ticket modérateur : différence entre la base de remboursement de la sécurité sociale (BR) et le montant remboursé par la sécurité sociale.<br/>\n\t\t\tBR : base de remboursement de la sécurité sociale (reconstituée pour les actes non remboursés par la SS).<br/>\n\t\t\tSS : sécurité sociale.<br/>\n\t\t\t(1) Contrat d'accès aux soins conclu entre l'assurance maladie et les médecins exerçant en secteur 2 ou qui sont titulaires d'un droit à dépassement permanent ainsi que certains médecins exerçant en secteur 1.<br/>\n\t\t\t(2) Non pris en charge par le régime obligatoire (sur présentation de l'originale de la facture).<br/>\n\t\t\t(3) Prévention, le scellement prophylactique des puits, sillons et fissures sur les 1re et 2e molaires permanentes des enfants avant leur 14e anniversaire, à raison d'une fois par dent, un détartrage annuel complet, effectué en 2 séances maximum, un bilan du langage oral et/ou un bilan d'aptitudes à l'acquisition du langage écrit pour les enfants de moins de 14 ans, à condition qu'il s'agisse d'un 1er bilan, le dépistage de l'hépatite B, le dépistage, une fois tous les 5 ans, des troubles de l'audition chez les personnes âgées de plus de 50 ans pour les actes d'audiométrie tonale et/ou vocale (dans le bruit ou avec tympanométrie), l'acte d'ostéodensitométrie osseuse remboursable par l'assurance maladie (pour les femmes de plus de 50 ans, une fois tous les 6 ans), les vaccins suivants : diphtérie, tétanos et poliomyélite (à tous âges) ; coqueluche (avant 14 ans) ; hépatite B (avant 14 ans) ; BCG (avant 6 ans) ; rubéole pour les adolescentes qui n'ont pas été vaccinées et pour les femmes non immunisées désirant un enfant ; Haemophilus influenzae B ; vaccination contre les infections invasives à pneumocoques pour les enfants de moins de 18 mois.</td></tr></tbody></table></center><p>Les plafonds de prise en charge prévus pour les frais engagés auprès de médecins signataires du contrat d'accès aux soins s'appliquent également lorsque les frais sont engagés auprès des médecins adhérents à l'option pratique tarifaire maîtrisée (OPTAM) et l'option pratique tarifaire maîtrisée chirurgie obstétrique (OPTAM-CO).</p><p>Les plafonds de prise en charge prévus pour les frais engagés auprès de médecins non signataires du contrat d'accès aux soins s'appliquent également lorsque les frais sont engagés auprès des médecins n'ayant pas adhéré à l'option pratique tarifaire maîtrisée (OPTAM) et l'option pratique tarifaire maîtrisée chirurgie obstétrique (OPTAM-CO).</p>",
-                    "etat": "VIGUEUR_ETEN",
+                    "id": "KALIARTI000043092284",
+                    "content": "<p>(Tableau non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives.)</p><p><u><a shape='rect' href='https://www.legifrance.gouv.fr/download/file/pdf/boc_20200046_0000_0003.pdf/BOCC' target='_blank'> https://www.legifrance.gouv.fr/download/file/pdf/boc_20200046_0000_0002.pdf/BOCC</a></u></p>",
+                    "etat": "VIGUEUR_NON_ETEN",
                     "lstLienModification": [
                       {
-                        "textCid": "JORFTEXT000036625627",
-                        "textTitle": "Arrêté du 15 février 2018 - art. 1, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "1",
-                        "articleId": "JORFARTI000036625642",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2018-02-21",
-                        "dateSignaTexte": "2018-02-15",
-                        "dateDebutCible": "2999-01-01"
-                      },
-                      {
-                        "textCid": "KALITEXT000036073941",
-                        "textTitle": "Régime de frais de santé - art. 2 (VNE)",
+                        "textCid": "KALITEXT000043084999",
+                        "textTitle": "Frais de soins de santé - art. 3 (VNE)",
                         "linkType": "MODIFIE",
                         "linkOrientation": "cible",
-                        "articleNum": "2",
-                        "articleId": "KALIARTI000036073948",
+                        "articleNum": "3",
+                        "articleId": "KALIARTI000043085008",
                         "natureText": "Avenant",
-                        "datePubliTexte": "2999-01-01",
-                        "dateSignaTexte": "2017-06-01",
-                        "dateDebutCible": "2017-09-13"
+                        "datePubliTexte": "2021-02-01",
+                        "dateSignaTexte": "2019-10-04",
+                        "dateDebutCible": "2020-01-01"
                       }
                     ]
                   }
@@ -9882,6 +9858,397 @@
                 "id": "KALIARTI000041489625",
                 "content": "<p align='center'>5. Formalités-Dépôt</p><p align='left'>Le présent avenant est ouvert à la signature à compter du 4 juillet 2019 et jusqu'au 16 juillet 2019 inclus.</p><p align='left'>Le présent avenant sera déposé dans les conditions légales et réglementaires applicables.</p>",
                 "etat": "VIGUEUR_NON_ETEN",
+                "lstLienModification": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000043084983",
+            "title": "Avenant n° 29 bis du 21 novembre 2019 à l'avenant n° 8 du 4 octobre 2012 relatif au fonds d'aide au paritarisme",
+            "id": "KALITEXT000043084983",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2020-10-23"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000043084986",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000043084986",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000043084997",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000043084997",
+                    "content": "<p align='left'><br/>Le présent avenant a vocation à modifier l'<a href='/affichIDCC.do?cidTexte=KALITEXT000027012366&categorieLien=cid' title='Fonds d'aide au paritarisme (VE)'>avenant n° 8 du 4 octobre 2012</a> concernant le fonds d'aide au paritarisme. Il vise à accroître les moyens du paritarisme à due concurrence des missions et taches nouvelles lui incombant, compte tenu des réformes et mutations profondes en cours.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": []
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043084987",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000043084987",
+                "content": "<p align='left'><br/>L'article 1er « Source de financement du paritarisme » de l'avenant n° 8 du 4 octobre 2012 est supprimé et remplacé par les dispositions suivantes : <br/>« Toutes les études d'administrateurs et de mandataires judiciaires, quel que soit leur effectif, visés par le champ d'application de la convention collective nationale du 20 décembre 2007, contribuent au financement du paritarisme par le versement à l'association paritaire visée à l'article 4 : <br/>– au titre de l'année 2019 : une cotisation égale à 0,02 % du montant total des salaires annuels bruts pris en compte dans la limite du plafond annuel de sécurité sociale et entrant dans la base de calcul des cotisations de sécurité sociale telle que définie par les dispositions du code de la sécurité sociale ; <br/>– au titre de l'année 2020 : une cotisation égale à 0,05 % du montant total des salaires annuels bruts pris en compte dans la limite du plafond annuel de sécurité sociale et entrant dans la base de calcul des cotisations de sécurité sociale telle que définie par les dispositions du code de la sécurité sociale. <br/>Ces contributions sont prélevées à compter du 1er janvier de chaque année (y compris 2019) et sont versées avec la cotisation prévoyance auprès de l'opérateur choisi par l'étude. Cet opérateur reverse ensuite la somme collectée auprès de l'association de gestion visée à l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000027012366&idArticle=KALIARTI000027012375&categorieLien=cid' title='Fonds d'aide au paritarisme - art. 4 (VE)'>article 4 de l'avenant n° 8 du 4 octobre 2012</a>. <br/>Cette cotisation est appelée annuellement, en même temps mais distinctement des cotisations de financement des contrats ou périodes de professionnalisation et du droit individuel à la formation, étant précisé que la cotisation de l'année N est appelée l'année N + 1. »</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Financement du paritarisme",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000027012366",
+                    "textTitle": "Fonds d'aide au paritarisme - art. 1er (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "1er",
+                    "articleId": "KALIARTI000043092249",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2013-01-31",
+                    "dateSignaTexte": "2012-10-04",
+                    "dateDebutCible": "2020-10-23"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043084992",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000043084992",
+                "content": "<p align='left'><br/>Pour l'application de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>L. 2261-23-1</a>, les partenaires sociaux ont considéré que l'accord répondant à la demande strictement encadrée par les textes de confirmation d'un accord précédent, n'avait pas à comporter les stipulations spécifiques mentionnées à l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-10-1 (V)'>L. 2232-10-1</a>. En effet, cet accord est limité au champ de la confirmation et ne peut moduler les effets de l'accord précédent.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Mesures spécifiques pour les entreprises de moins de 50 salariés",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043084993",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000043084993",
+                "content": "<p align='left'><br/>Le présent avenant est conclu pour une durée indéterminée.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Durée",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043084994",
+                "num": "4",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000043084994",
+                "content": "<p align='left'><br/>Le présent avenant est déposé au conseil de prud'hommes de Paris et auprès des services centraux du ministre chargé du travail en 2 exemplaires dont une version sur support papier signée des parties et une version sur support électronique.<br/>Le présent avenant entre en vigueur dès les formalités de dépôt accomplies.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Dépôt. Entrée en vigueur",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043084995",
+                "num": "5",
+                "intOrdre": 3145722,
+                "id": "KALIARTI000043084995",
+                "content": "<p align='left'><br/>L'extension de l'avenant est sollicitée conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901802&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-24 (VD)'>dispositions de l'article L. 2261-24 du code du travail</a>.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Extension",
+                "lstLienModification": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000043084999",
+            "title": "Avenant n° 30 du 4 octobre 2019 à l'accord du 26 février 2015 relatif au régime de frais de soins de santé",
+            "id": "KALITEXT000043084999",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2020-01-01"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000043085002",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000043085002",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000043085015",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000043085015",
+                    "content": "<p align='left'><br/>Le présent avenant adapte à effet du 1er janvier 2020, les dispositions relatives aux garanties frais de santé de la convention collective nationale des administrateurs et des mandataires judiciaires du 20 décembre 2007.<br/>À cet effet, il intègre notamment les dispositions du <a href='/affichTexte.do?cidTexte=JORFTEXT000038087099&categorieLien=cid' title='Décret n°2019-65 du 31 janvier 2019 (V)'>décret n° 2019-65 du 31 janvier 2019</a> adaptant les garanties d'assurance complémentaire santé des salariés mises en place en application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000027549125&dateTexte=&categorieLien=cid' title='Code de la sécurité sociale. - art. L911-7 (V)'>article L. 911-7 du code de la sécurité sociale</a> aux dispositions assurant un accès sans reste à charge à certains frais de santé et du <a href='/affichTexte.do?cidTexte=JORFTEXT000037995163&categorieLien=cid' title='Décret n°2019-21 du 11 janvier 2019 (V)'>décret n° 2019-21 du 11 janvier 2019</a> visant à garantir un accès sans reste à charge à certains équipements d'optique, aides auditives et soins prothétiques dentaires.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": []
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085003",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000043085003",
+                "content": "<p align='left'><br/>Le présent avenant s'applique à l'ensemble des entreprises relevant de la convention collective nationale des administrateurs et des mandataires judiciaires.<br/>Suivant les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>dispositions de l'article L. 2261-23-1 du code du travail</a>, les parties signataires n'ont pas retenu de dispositions spécifiques telles que visées par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-10-1 (M)'>article L. 2232-10-1 du code du travail</a> à l'attention des entreprises de moins de 50 salariés dès lors que le présent avenant vise à modifier le régime professionnel de santé dont doivent bénéficier l'ensemble des salariés relavant de la convention collective et ce quel que soit l'effectif de l'étude.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Champ d'application",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085006",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000043085006",
+                "content": "<p align='left'><br/>Les dispositions de l'article II. 1 intitulé « Définition des garanties » sont complétées comme suit. </p><p align='center'><br/>« Article II. 1 <br/>Définition des garanties </p><p align='left'><br/>Les présentes garanties sont considérées comme responsables et sont susceptibles d'évoluer en fonction des règles relatives aux contrats dits “ responsables ” fixées par les articles L. 871-1 et ses textes d'application. Elles sont également conformes aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000027549125&dateTexte=&categorieLien=cid' title='Code de la sécurité sociale. - art. L911-7 (V)'>dispositions de l'article L. 911-7 du code de la sécurité sociale </a>et à ses textes d'application. <br/>À ce titre, elles prennent en charge l'intégralité des frais d'acquisition des prestations et équipements du panier de soins 100 % santé. <br/>Les remboursements interviennent sous déduction du remboursement de la sécurité sociale française, dès lors qu'elle intervient. Dans tous les cas, les prestations sont versées dans la limite des frais réels engagés. »</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Garanties",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000031127160",
+                    "textTitle": "Régime de frais de soins de santé - art. II.1. Définition des garanties (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "II.1. Définition des garanties",
+                    "articleId": "KALIARTI000043092279",
+                    "natureText": "Accord",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2015-02-26",
+                    "dateDebutCible": "2020-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085008",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000043085008",
+                "content": "<p align='left'>Les dispositions de l'annexe I intitulé « Tableau de garanties » sont annulées et remplacées comme suit :</p><p align='center'>« Annexe I<br/>\nTableau de garanties</p><p>(Tableau non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives.)</p><p align='left'><u><a shape='rect' href='https://www.legifrance.gouv.fr/download/file/pdf/boc_20200046_0000_0003.pdf/BOCC' target='_blank'> https://www.legifrance.gouv.fr/download/file/pdf/boc_20200046_0000_0002.pdf/BOCC</a></u></p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Tableau de garanties",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000031127160",
+                    "textTitle": "Régime de frais de soins de santé - art. (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "",
+                    "articleId": "KALIARTI000043092284",
+                    "natureText": "Accord",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2015-02-26",
+                    "dateDebutCible": "2020-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085010",
+                "num": "4",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000043085010",
+                "content": "<p align='left'><br/>Les dispositions du présent avenant entrent en vigueur au 1er janvier 2020.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Date d'application",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085011",
+                "num": "5",
+                "intOrdre": 3145722,
+                "id": "KALIARTI000043085011",
+                "content": "<p align='left'><br/>Le présent avenant est conclu pour une durée indéterminée. il pourra être révisé ou dénoncé conformément aux dispositions légales.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Durée",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085012",
+                "num": "6",
+                "intOrdre": 3670009,
+                "id": "KALIARTI000043085012",
+                "content": "<p align='left'><br/>Le présent avenant est déposé au conseil de prud'hommes de Paris et auprès des services centraux du ministre chargé du travail en 2 exemplaires dont une version sur support papier signée des parties et une version sur support électronique.<br/>Le présent avenant entre en vigueur dès les formalités de dépôt accomplies.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Dépôt. Entrée en vigueur",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085013",
+                "num": "7",
+                "intOrdre": 4194296,
+                "id": "KALIARTI000043085013",
+                "content": "<p align='left'><br/>L'extension de l'avenant est sollicitée conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901802&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-24 (VD)'>dispositions de l'article L. 2261-24 du code du travail</a>.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Extension",
+                "lstLienModification": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000043085019",
+            "title": "Avenant n° 31 du 5 octobre 2019 à l'accord du 5 février 2009 relatif à la prévoyance",
+            "id": "KALITEXT000043085019",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2020-01-01"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000043085022",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000043085022",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000043085034",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000043085034",
+                    "content": "<p align='left'><br/>Le présent avenant modifie l'article 2 de l'annexe à l'accord du 5 février 2009 relatif à la prévoyance, relatif aux taux de cotisations applicables à effet du 1er janvier 2020.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": []
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085023",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000043085023",
+                "content": "<p align='left'><br/>Le présent avenant s'applique à l'ensemble des entreprises relevant de la convention collective nationale des administrateurs et des mandataires judiciaires.<br/>Suivant les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>dispositions de l'article L. 2261-23-1 du code du travail</a>, les parties signataires n'ont pas retenu de dispositions spécifiques telles que visées par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-10-1 (M)'>article L. 2232-10-1 du code du travail</a> à l'attention des entreprises de moins de 50 salariés dès lors que le présent avenant vise à modifier le régime professionnel de santé dont doivent bénéficier l'ensemble des salariés relavant de la convention collective et ce quel que soit l'effectif de l'étude.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Champ d'application",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085026",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000043085026",
+                "content": "<p></p><p align='left'><br/>\nLes dispositions de l'article 2 intitulé « Taux de cotisations applicables » à l'annexe de l'accord du 5 février 2009 relatif à la prévoyance sont modifiées comme suit :</p><p align='center'><br/>\n« Article 2<br/><br/>\nTaux de cotisations applicables</p><p><br/>\n– part employeur : 60 % ;<br/><br/>\n– part salarié : 40 %.<br/><br/>\nNon-cadres : conformément à l'avenant n° 3 du 30 janvier 2014 à l'accord du 5 février 2009 relatif à la prévoyance, on entend par non-cadre le personnel :<br/><br/>\n– de niveaux A1 à A4 de la filière administrative ;<br/><br/>\n– de niveaux T2 à T4 de la filière technique ;<br/><br/>\n– de niveaux C2 à C3 de la filière collaborateurs ;<br/><br/>\n– de niveaux S2 à S3 de la filière stagiaires.<br/><br/>\nTels que définis au titre VII de la convention collective nationale du personnel des administrateurs et mandataires judiciaires.</p><p>(Tableau non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives.)</p><p><u><a shape='rect' href='https://www.legifrance.gouv.fr/download/file/pdf/boc_20200046_0000_0003.pdf/BOCC' target='_blank'> https://www.legifrance.gouv.fr/download/file/pdf/boc_20200046_0000_0003.pdf/BOCC</a></u></p><p><br/><br/>\nCadres : conformément à l'avenant n° 3 du 30 janvier 2014 à l'accord du 5 février 2009 relatif à la prévoyance, on entend par cadre le personnel :<br/><br/>\n– de niveaux 1 et 2 des filières administratives (A) et technique (T) ;<br/><br/>\n– de niveaux C4 de la filière collaborateurs (C).<br/><br/>\nTels que définis au titre VII de la convention collective nationale du personnel des administrateurs et mandataires judiciaires.</p><p>(Tableau non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives.)</p><p><u><a shape='rect' href='https://www.legifrance.gouv.fr/download/file/pdf/boc_20200046_0000_0003.pdf/BOCC' target='_blank'> https://www.legifrance.gouv.fr/download/file/pdf/boc_20200046_0000_0003.pdf/BOCC</a></u></p><p></p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Taux de cotisations",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000020720065",
+                    "textTitle": "Prévoyance - art. 2 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "2",
+                    "articleId": "KALIARTI000043092257",
+                    "natureText": "Accord",
+                    "datePubliTexte": "2009-06-10",
+                    "dateSignaTexte": "2009-02-05",
+                    "dateDebutCible": "2020-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085029",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000043085029",
+                "content": "<p align='left'><br/>Les dispositions du présent avenant entrent en vigueur au 1er janvier 2020.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Date d'application",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085030",
+                "num": "4",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000043085030",
+                "content": "<p align='left'><br/>Le présent avenant est conclu pour une durée indéterminée. Il pourra être révisé ou dénoncé conformément aux dispositions légales.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Durée",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085031",
+                "num": "5",
+                "intOrdre": 3145722,
+                "id": "KALIARTI000043085031",
+                "content": "<p align='left'><br/>Le présent avenant est déposé au conseil de prud'hommes de Paris et auprès des services centraux du ministre chargé du travail en 2 exemplaires dont une version sur support papier signée des parties et une version sur support électronique.<br/>Le présent avenant entre en vigueur dès les formalités de dépôt accomplies.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Dépôt. Entrée en vigueur",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043085032",
+                "num": "6",
+                "intOrdre": 3670009,
+                "id": "KALIARTI000043085032",
+                "content": "<p align='left'><br/>L'extension de l'avenant est sollicitée conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901802&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-24 (VD)'>dispositions de l'article L. 2261-24 du code du travail</a>.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Extension",
                 "lstLienModification": []
               }
             }
