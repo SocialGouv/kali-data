@@ -1,5 +1,5 @@
-import sampleConvention from "./fixtures/sample.json";
 import astify, { cleanAst, isValidSection, latestVersionFilter } from "../astify";
+import sampleConvention from "./fixtures/sample.json";
 
 test("should convert structure to AST tree", () => {
   expect(astify(sampleConvention)).toMatchSnapshot();

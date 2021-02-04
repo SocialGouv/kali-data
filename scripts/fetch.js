@@ -4,7 +4,6 @@ import pPipe from "p-pipe";
 import Queue from "p-queue";
 import retry from "p-retry";
 import path from "path";
-
 import { promisify } from "util";
 
 import { getAgreements } from "../src";

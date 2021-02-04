@@ -1,5 +1,6 @@
 import filter from "unist-util-filter";
 import map from "unist-util-map";
+
 import sortByIntOrdre from "../helpers/sortByIntOrdre";
 
 /*
@@ -74,6 +75,7 @@ export function cleanAst(tree) {
     if (["article", "section"].includes(node.type)) {
       return (node.data.etat || "").startsWith("VIGUEUR");
     }
+
     return false;
   });
 
@@ -93,6 +95,7 @@ export function cleanAst(tree) {
     "modifDate",
     "lstLienModification",
   ];
+
   return map(cleanedTree, ({ type, data: rawData, children }) => {
     const data = keys.reduce((data, key) => {
       if (rawData[key] !== null || rawData[key]) {
@@ -104,6 +107,7 @@ export function cleanAst(tree) {
 
     if (children && children.length) {
       children.sort(sortByIntOrdre);
+
       // eslint-disable-next-line sort-keys-fix/sort-keys-fix
       return { type, data, children };
     } else {
