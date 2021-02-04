@@ -71,7 +71,6 @@ async function fetchAdditionalText(container) {
   return container;
 }
 
-
 async function saveFile(container) {
   await writeFile(
     path.join(__dirname, "..", "data", `${container.data.id}.json`),
