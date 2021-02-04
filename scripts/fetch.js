@@ -4,14 +4,12 @@ import pPipe from "p-pipe";
 import Queue from "p-queue";
 import retry from "p-retry";
 import path from "path";
-import filter from "unist-util-filter";
-import map from "unist-util-map";
+
 import { promisify } from "util";
 
 import { getAgreements } from "../src";
-import sortByIntOrdre from "./helpers/sortByIntOrdre";
 import { getKaliCont, getKaliText } from "./libs/api";
-import astify, { isValidSection } from "./libs/astify";
+import astify, { cleanAst, isValidSection } from "./libs/astify";
 
 log.enableColor();
 const writeFile = promisify(fs.writeFile);
@@ -73,47 +71,6 @@ async function fetchAdditionalText(container) {
   return container;
 }
 
-function cleanAst(tree) {
-  const cleanedTree = filter(tree, node => {
-    return (
-      node.type !== "section" ||
-      (["article", "section"].includes(node.type) && (node.data.etat || "").startsWith("VIGUEUR"))
-    );
-  });
-
-  const keys = [
-    "cid",
-    "num",
-    "intOrdre",
-    "title",
-    "id",
-    "content",
-    "etat",
-    "shortTitle",
-    "categorisation",
-    "dateParution",
-    "surtitre",
-    "historique",
-    "modifDate",
-    "lstLienModification",
-  ];
-
-  return map(cleanedTree, ({ type, data: rawData, children }) => {
-    const data = keys.reduce((data, key) => {
-      if (rawData[key] !== null || rawData[key]) {
-        data[key] = rawData[key];
-      }
-
-      return data;
-    }, {});
-    if (children && children.length) {
-      children.sort(sortByIntOrdre);
-    }
-
-    // eslint-disable-next-line sort-keys-fix/sort-keys-fix
-    return { type, data, children };
-  });
-}
 
 async function saveFile(container) {
   await writeFile(

@@ -1,3 +1,7 @@
+import filter from "unist-util-filter";
+import map from "unist-util-map";
+import sortByIntOrdre from "../helpers/sortByIntOrdre";
+
 /*
  * Convert a DILA API structure made of metadata and sections|articles children to a [generic AST tree](https://github.com/syntax-tree/unist#nodes)
  */
@@ -37,11 +41,9 @@ const astify = (node, depth = 0) => ({
   type: depth === 0 ? "convention collective" : "section",
 });
 
-const numify = id => parseInt(id.replace(/^KALI(ARTI|SCTA|TEXT)/, ""));
+export const numify = id => parseInt(id.replace(/^KALI(ARTI|SCTA|TEXT)/, ""));
 
-export const isValidSection = node => {
-  return (node.etat || node.jurisState || "").startsWith("VIGUEUR");
-};
+export const isValidSection = node => !node.etat || node.etat.startsWith("VIGUEUR");
 
 // the API returns all the version of a given article. we pick the latest one
 export const latestVersionFilter = (currentArticle, _, articles) => {
@@ -62,5 +64,53 @@ export const latestVersionFilter = (currentArticle, _, articles) => {
 
   return numify(currentArticle.id) > maxVersion;
 };
+
+export function cleanAst(tree) {
+  const cleanedTree = filter(tree, node => {
+    //this is root node
+    if (node.type === "convention collective") {
+      return true;
+    }
+    if (["article", "section"].includes(node.type)) {
+      return (node.data.etat || "").startsWith("VIGUEUR");
+    }
+    return false;
+  });
+
+  const keys = [
+    "cid",
+    "num",
+    "intOrdre",
+    "title",
+    "id",
+    "content",
+    "etat",
+    "shortTitle",
+    "categorisation",
+    "dateParution",
+    "surtitre",
+    "historique",
+    "modifDate",
+    "lstLienModification",
+  ];
+  return map(cleanedTree, ({ type, data: rawData, children }) => {
+    const data = keys.reduce((data, key) => {
+      if (rawData[key] !== null || rawData[key]) {
+        data[key] = rawData[key];
+      }
+
+      return data;
+    }, {});
+
+    if (children && children.length) {
+      children.sort(sortByIntOrdre);
+      // eslint-disable-next-line sort-keys-fix/sort-keys-fix
+      return { type, data, children };
+    } else {
+      // eslint-disable-next-line sort-keys-fix/sort-keys-fix
+      return { type, data };
+    }
+  });
+}
 
 export default astify;

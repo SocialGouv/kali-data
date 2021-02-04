@@ -22,15 +22,18 @@
           "articles": [
             {
               "id": "211",
-              "cid": "211"
+              "cid": "211",
+              "etat": "VIGUEUR_ETEN"
             },
             {
               "id": "212",
-              "cid": "212"
+              "cid": "212",
+              "etat": "VIGUEUR_NON_ETEN"
             },
             {
               "id": "213",
-              "cid": "213"
+              "cid": "213",
+              "etat": "MODIFIE"
             }
           ],
           "sections": [
@@ -44,17 +47,26 @@
                 {
                   "id": "2111",
                   "cid": "2111",
+                  "etat": "VIGUEUR_NON_ETEN",
                   "intOrdre": 555
                 },
                 {
                   "id": "2112",
                   "cid": "2112",
+                  "etat": "VIGUEUR_NON_ETEN",
                   "intOrdre": 55
                 },
                 {
                   "id": "2113",
                   "cid": "2113",
+                  "etat": "VIGUEUR_NON_ETEN",
                   "intOrdre": 7
+                },
+                {
+                  "id": "2114",
+                  "cid": "2114",
+                  "intOrdre": 8,
+                  "etat": "ABROGE"
                 }
               ]
             }
@@ -92,7 +104,8 @@
               "articles": [
                 {
                   "id": "311",
-                  "cid": "311"
+                  "cid": "311",
+                  "etat": "VIGUEUR"
                 }
               ]
             }
