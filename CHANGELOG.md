@@ -1,3 +1,15 @@
+# [2.48.0](https://github.com/SocialGouv/kali-data/compare/v2.47.0...v2.48.0) (2021-02-05)
+
+
+### Bug Fixes
+
+* **fetch:** remove ABROGE articles ([#151](https://github.com/SocialGouv/kali-data/issues/151)) ([8352556](https://github.com/SocialGouv/kali-data/commit/8352556a3e3c47017a50656ecce8ceddf8f75565))
+
+
+### Features
+
+* **data:** 20210205_1149 update ([4a2fb2f](https://github.com/SocialGouv/kali-data/commit/4a2fb2f572128c9156f2672940f6db1725064311))
+
 # [2.47.0](https://github.com/SocialGouv/kali-data/compare/v2.46.0...v2.47.0) (2021-02-05)
 
 
