@@ -1,8 +1,13 @@
-import astify, { isValidSection, latestVersionFilter } from "../astify";
+import astify, { cleanAst, isValidSection, latestVersionFilter } from "../astify";
 import sampleConvention from "./fixtures/sample.json";
 
 test("should convert structure to AST tree", () => {
   expect(astify(sampleConvention)).toMatchSnapshot();
+});
+
+test("should clean an AST tree", () => {
+  const ast = astify(sampleConvention);
+  expect(cleanAst(ast)).toMatchSnapshot();
 });
 
 const sampleArticles = [
