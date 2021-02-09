@@ -14691,7 +14691,7 @@
             "cid": "KALITEXT000042852616",
             "title": "Avenant n° 50 du 17 septembre 2020 relatif aux rémunérations conventionnelles pour l'année 2020",
             "id": "KALITEXT000042852616",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2020-10-01"
           },
           "children": [
@@ -14702,7 +14702,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000042852619",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -14712,8 +14712,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000042852627",
                     "content": "<p align='left'>Le contexte économique extrêmement difficile dû à la pandémie du « Covid-19 » (fermetures ou restrictions d'ouverture pendant 2 mois des entreprises ; activité et résultats en forte baisse et partiellement compensés par les ventes en ligne…), a fortement perturbé le processus de négociation des salaires conventionnels.</p><p align='left'>Les parties au présent accord ont toutefois souhaité afficher leur volonté de faire évoluer les salaires minima avant la fin de l'année 2020, considérant qu'il était important de donner un signe immédiat en faveur des salariés dans une période où la relance économique est devenue une priorité.</p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000043090995",
+                        "textTitle": "Arrêté du 26 janvier 2021 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000043090999",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-02-03",
+                        "dateSignaTexte": "2021-01-26",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -14725,10 +14738,23 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000042852620",
-                "content": "<p align='left'>Les signataires rappellent que le présent avenant s'applique à toutes les entreprises et qu'aucun salarié ne doit être rémunéré en dessous du salaire minimum correspondant à son niveau et à son échelon.</p><p align='left'>Ils entendent aussi rappeler que les politiques de rémunération doivent être guidées par les principes généraux d'égalité impliquant que les entreprises sont tenues de garantir, pour un même travail, une égalité de traitement entre femme et homme, ce principe portant tant sur les objectifs que sur les éléments composant la rémunération qui doivent être établis selon des normes identiques.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'><i>Les signataires rappellent que le présent avenant s'applique à toutes les entreprises et qu'aucun salarié ne doit être rémunéré en dessous du salaire minimum correspondant à son niveau et à son échelon.</i> <a shape='rect' href='#RENVOI_KALIARTI000042852620_1'> (1)</a></p><p align='left'>Ils entendent aussi rappeler que les politiques de rémunération doivent être guidées par les principes généraux d'égalité impliquant que les entreprises sont tenues de garantir, pour un même travail, une égalité de traitement entre femme et homme, ce principe portant tant sur les objectifs que sur les éléments composant la rémunération qui doivent être établis selon des normes identiques.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000042852620_1'></a>(1) Compte tenu du nouvel ordonnancement des niveaux de négociation issu de l'ordonnance n° 2017-1385 du 22 septembre 2017, alinéa étendu sous réserve de l'application de l'article L. 2253-3 du code du travail. En effet, dès lors que les stipulations conventionnelles de branche visent une grille salariale comportant une assiette qui intègre des compléments de salaire et qu'elle constitue un montant minimum qui s'impose, les stipulations conventionnelles de branche ne peuvent avoir pour objet et légalement pour effet de faire obstacle à la conclusion d'accords d'entreprise sur le fondement des dispositions de l'article L. 2253-3 du code du travail et dans les domaines tels que définis par ces mêmes dispositions.  <br/>(Arrêté du 26 janvier 2021 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Égalité salariale entre les femmes et les hommes",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000043090995",
+                    "textTitle": "Arrêté du 26 janvier 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000043090999",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-02-03",
+                    "dateSignaTexte": "2021-01-26",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14739,9 +14765,22 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000042852621",
                 "content": "<p align='left'>Les minima conventionnels des salariés de la branche sont revalorisés, à compter du 1er octobre 2020, dans les conditions définies ci-après :</p><p align='center'>Salaires minima conventionnels mensuels des ouvriers, employés, agents de maîtrise</p><p align='left'>Base mensuelle de 151,67 heures.</p><p align='right'>(En euros.)</p><p align='left'></p><center><table border='1'><tbody><tr><th>Niveau</th><th>Échelon</th><th colspan='2'>Salaire</th></tr><tr><td></td><td></td><td>Mensuel</td><td>Horaire</td></tr><tr><td rowspan='3' align='center'>I</td><td align='center'>1</td><td align='center'>1 539,42</td><td align='center'>10,15</td></tr><tr><td align='center'>2</td><td align='center'>1 544,12</td><td align='center'>10,18</td></tr><tr><td align='center'>3</td><td align='center'>1 554,71</td><td align='center'>10,25</td></tr><tr><td rowspan='3' align='center'>II</td><td align='center'>1</td><td align='center'>1 590,52</td><td align='center'>10,49</td></tr><tr><td align='center'>2</td><td align='center'>1 630,98</td><td align='center'>10,75</td></tr><tr><td align='center'>3</td><td align='center'>1 671,37</td><td align='center'>11,02</td></tr><tr><td rowspan='3' align='center'>III</td><td align='center'>1</td><td align='center'>1 708,45</td><td align='center'>11,26</td></tr><tr><td align='center'>2</td><td align='center'>1 748,79</td><td align='center'>11,53</td></tr><tr><td align='center'>3</td><td align='center'>1 789,12</td><td align='center'>11,80</td></tr><tr><td rowspan='3' align='center'>IV</td><td align='center'>1</td><td align='center'>1 847,02</td><td align='center'>12,18</td></tr><tr><td align='center'>2</td><td align='center'>2 068,02</td><td align='center'>13,63</td></tr><tr><td align='center'>3</td><td align='center'>2 287,28</td><td align='center'>15,08</td></tr></tbody></table></center><p></p><p align='center'>Salaires minima conventionnels des cadres</p><p align='left'>Base mensuelle de 151,67 heures.</p><p align='right'>(En euros.)</p><p align='left'></p><center><table border='1'><tbody><tr><th>Position</th><th colspan='2'>Salaire</th></tr><tr><td></td><td align='center'>Annuel</td><td align='center'>Mensuel</td></tr><tr><td align='center'>I</td><td align='center'>27 517,57</td><td align='center'>2 077,31</td></tr><tr><td align='center'>II</td><td align='center'>33 789,65</td><td align='center'>2 589,26</td></tr><tr><td align='center'>III</td><td align='center'>40 389,77</td><td align='center'>3 095,01</td></tr><tr><td align='center'>IV</td><td align='center'>46 974,91</td><td align='center'>3 599,52</td></tr></tbody></table></center><p></p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Salaires minima conventionnels",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000043090995",
+                    "textTitle": "Arrêté du 26 janvier 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000043090999",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-02-03",
+                    "dateSignaTexte": "2021-01-26",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14752,9 +14791,22 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000042852622",
                 "content": "<p align='left'>Le présent avenant est applicable aux entreprises et salariés du champ d'application de la convention collective des commerces et services de l'audiovisuel de l'électronique et de l'équipement ménager tel que défini par son article 1er.</p><p align='left'>Le présent avenant porte sur la négociation des salaires minima de branche qui s'impose aux parties quelle que soit la taille des entreprises. Les présentes dispositions s'appliquent donc aux entreprises de moins de 50 salariés dans les mêmes conditions que pour l'ensemble des entreprises.</p><p align='left'>Pour les entreprises non adhérentes aux organisations patronales signataires, le présent avenant entrera en vigueur le 1er jour du mois suivant celui au cours duquel est publié l'arrêté d'extension au Journal officiel.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Champ d'application",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000043090995",
+                    "textTitle": "Arrêté du 26 janvier 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000043090999",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-02-03",
+                    "dateSignaTexte": "2021-01-26",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14765,9 +14817,22 @@
                 "intOrdre": 2621435,
                 "id": "KALIARTI000042852623",
                 "content": "<p align='left'><br/>Dans l'esprit du préambule les parties s'engagent à rouvrir une négociation relative aux salaires minima dès le mois de janvier 2021.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Disposition spécifique",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000043090995",
+                    "textTitle": "Arrêté du 26 janvier 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000043090999",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-02-03",
+                    "dateSignaTexte": "2021-01-26",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14777,10 +14842,23 @@
                 "num": "5",
                 "intOrdre": 3145722,
                 "id": "KALIARTI000042852624",
-                "content": "<p align='left'>Le présent avenant est conclu pour une durée indéterminée. Il pourra être révisé dans les conditions de l'article 2 de la convention collective des commerces et services de l'audiovisuel, de l'électronique et de l'équipement ménager.</p><p align='left'>Le présent avenant sera déposé au secrétariat du greffe du conseil de prud'hommes de Paris et auprès de la direction générale du travail, conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-2 (V)'>dispositions des articles D. 2231-2 et suivants du code du travail</a>.</p><p align='left'>L'extension du présent avenant sera demandée, à l'expiration du délai légal d'opposition, conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-15 (VD)'>dispositions des articles L. 2261-15 et suivants du code du travail</a>.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le présent avenant est conclu pour une durée indéterminée. Il pourra être révisé dans les conditions de l'article 2 de la convention collective des commerces et services de l'audiovisuel, de l'électronique et de l'équipement ménager.</p><p align='left'>Le présent avenant sera déposé au secrétariat du greffe du conseil de prud'hommes de Paris et auprès de la direction générale du travail, conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid'>dispositions des articles D. 2231-2 et suivants du code du travail</a>.</p><p align='left'>L'extension du présent avenant sera demandée, à l'expiration du délai légal d'opposition, conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>dispositions des articles L. 2261-15 et suivants du code du travail</a>.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dispositions finales",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000043090995",
+                    "textTitle": "Arrêté du 26 janvier 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000043090999",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-02-03",
+                    "dateSignaTexte": "2021-01-26",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
