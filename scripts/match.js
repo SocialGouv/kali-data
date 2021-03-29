@@ -16,30 +16,41 @@ log.enableColor();
 
 log.info("match()", `Indexing articles…`);
 const agreementsIndex = getAgreements();
-const articlesIndex = agreementsIndex.reduce((prevArticlesIndex, { id: agreementId }) => {
-  if (/-\d+$/.test(agreementId)) {
-    return prevArticlesIndex;
-  }
 
-  const agreement = getAgreement(agreementId);
-  const agreementWithFlatArticles =
-    /** @type {{ type: "root", children: KaliData.AgreementArticle }} */
-    (unistUtilFlatFilter(agreement, "article"));
-  if (agreementWithFlatArticles === null || !Array.isArray(agreementWithFlatArticles.children)) {
-    return prevArticlesIndex;
-  }
+const flatMap = arr => arr.reduce((a, c) => [...a, ...c], []);
 
-  const newArticlesIndex = agreementWithFlatArticles.children.map(
-    ({ data: { cid: articleCid, id: articleId } }) => ({
-      agreementId,
-      articleCid,
-      articleId,
-      path: getArticlePath(agreement, articleCid),
-    }),
-  );
+const articlesIndex = flatMap(
+  agreementsIndex
+    .map(({ id: agreementId }) => {
+      if (/-\d+$/.test(agreementId)) {
+        return null;
+      }
+      console.warn("getAgreement", agreementId);
 
-  return [...prevArticlesIndex, ...newArticlesIndex];
-}, []);
+      const agreement = getAgreement(agreementId);
+      const agreementWithFlatArticles =
+        /** @type {{ type: "root", children: KaliData.AgreementArticle }} */
+        (unistUtilFlatFilter(agreement, "article"));
+      if (
+        agreementWithFlatArticles === null ||
+        !Array.isArray(agreementWithFlatArticles.children)
+      ) {
+        return null;
+      }
+
+      const agreementArticles = agreementWithFlatArticles.children.map(
+        ({ data: { cid: articleCid, id: articleId } }) => ({
+          agreementId,
+          articleCid,
+          articleId,
+          path: getArticlePath(agreement, articleCid),
+        }),
+      );
+
+      return agreementArticles;
+    }, [])
+    .filter(Boolean),
+);
 
 const articlesIndexFilePath = path.join(__dirname, "..", "data", "articles", "index.json");
 log.info("match()", `Writing ${articlesIndexFilePath}…`);
