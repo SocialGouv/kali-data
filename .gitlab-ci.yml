@@ -59,6 +59,12 @@ Data fetch:
         }
       done
 
+      # check articles index is valid
+      node "data/articles/index.json" > /dev/null || {
+        echo "Invalid JSON in data/articles/index.json"
+        exit 1
+      }
+
     - git remote set-url origin https://${GITHUB_TOKEN}@github.com/${CI_PROJECT_PATH}.git
     - |
       echo "Commit files"
