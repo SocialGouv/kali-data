@@ -1,3 +1,11 @@
+## [2.55.1](https://github.com/SocialGouv/kali-data/compare/v2.55.0...v2.55.1) (2021-03-29)
+
+
+### Bug Fixes
+
+* **data:** fix some unicode issue ([#157](https://github.com/SocialGouv/kali-data/issues/157)) ([dc156ee](https://github.com/SocialGouv/kali-data/commit/dc156ee61ebf3c2c7508fcb197082682e881c649))
+* **fetch:** prevent exception ([#158](https://github.com/SocialGouv/kali-data/issues/158)) ([948a637](https://github.com/SocialGouv/kali-data/commit/948a637a46f10a688907b488e4b52f0c6f3e9975))
+
 # [2.55.0](https://github.com/SocialGouv/kali-data/compare/v2.54.0...v2.55.0) (2021-02-18)
 
 
