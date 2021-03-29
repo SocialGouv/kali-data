@@ -1772,7 +1772,7 @@
                     "num": "59.2",
                     "intOrdre": 1572861,
                     "id": "KALIARTI000031195477",
-                    "content": "<p align='left'><br/>Pour les salariés ayant au moins 1 an d'ancienneté, la rémunération est maintenue pendant toute la durée de l'absence pour événements familiaux.<br/>Pour les salariés ayant moins de 1 an d'ancienneté, la rémunération est maintenue à concurrence des durées légales.<br/>Pour l'appréciation de l'ancienneté, outre les périodes de présence effective au travail, sont validées les périodes d'absence qui, en application des dispositions légales, sont prises en compte pour les droits à l'ancienneté ainsi que les périodes d'absence ayant donné droit à un maintien de salaire total ou partiel pour les durées prévues par la présente convention collective.</p>",
+                    "content": "<p align='left'>Pour les salariés ayant au moins 1 an d'ancienneté, la rémunération est maintenue pendant toute la durée de l'absence pour événements familiaux.</p><p align='left'>Pour les salariés ayant moins de 1 an d'ancienneté, la rémunération est maintenue à concurrence des durées légales.</p><p align='left'>Pour l'appréciation de l'ancienneté, outre les périodes de présence effective au travail, sont validées les périodes d'absence qui, en application des dispositions légales, sont prises en compte pour les droits à l'ancienneté ainsi que les périodes d'absence ayant donné droit à un maintien de salaire total ou partiel pour les durées prévues par la présente convention collective.</p>",
                     "etat": "VIGUEUR_NON_ETEN",
                     "surtitre": "Rémunération",
                     "lstLienModification": []
@@ -11186,6 +11186,29 @@
                 "surtitre": "Dépôt et publicité",
                 "lstLienModification": []
               }
+            },
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000043266288",
+                "intOrdre": 1075314684,
+                "title": "Annexe",
+                "id": "KALISCTA000043266288",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000043266300",
+                    "intOrdre": 1073741823,
+                    "id": "KALIARTI000043266300",
+                    "content": "<p align='center'>Annexe<br/>\nEntreprises branche Banque populaire</p><p>Mise à jour janvier 2019.<br/>\nBP Alsace-Lorraine-Champagne.<br/>\nBP Aquitaine Centre atlantique.<br/>\nBP Auvergne-Rhône-Alpes.<br/>\nBP Bourgogne-Franche-Comté.<br/>\nBRED.<br/>\nBP Grand Ouest.<br/>\nBP Méditerranée.<br/>\nBP Nord.<br/>\nBP Occitane.<br/>\nBP Rives Paris.<br/>\nBP Sud.<br/>\nBP Val France.<br/>\nCASDEN.<br/>\nCrédit coopératif.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": []
+                  }
+                }
+              ]
             }
           ]
         },

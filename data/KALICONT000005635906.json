@@ -8092,14 +8092,26 @@
                 "lstLienModification": [
                   {
                     "textCid": "JORFTEXT000043033331",
-                    "textTitle": "Arrêté du 11 janvier 2021 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000043033334",
+                    "textTitle": "Arrêté du 11 janvier 2021, v. init.",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
+                    "articleNum": "",
+                    "articleId": "JORFTEXT000043033331",
                     "natureText": "ARRETE",
                     "datePubliTexte": "2021-01-22",
                     "dateSignaTexte": "2021-01-11",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000043090987",
+                    "textTitle": "Arrêté du 25 janvier 2021, v. init.",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
+                    "articleNum": "",
+                    "articleId": "JORFTEXT000043090987",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-02-03",
+                    "dateSignaTexte": "2021-01-25",
                     "dateDebutCible": "2999-01-01"
                   }
                 ]

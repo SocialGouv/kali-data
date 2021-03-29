@@ -6224,7 +6224,7 @@
             "cid": "KALITEXT000041875383",
             "title": "Avenant n° 11 du 4 octobre 2019 relatif aux salaires minima au 1er octobre 2019",
             "id": "KALITEXT000041875383",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2019-10-01"
           },
           "children": [
@@ -6235,8 +6235,21 @@
                 "intOrdre": 524287,
                 "id": "KALIARTI000041875386",
                 "content": "<p align='left'><br/>La CPPNI de la branche de la production audiovisuelle s'est réunie à l'occasion de la négociation annuelle obligatoire sur les salaires.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000043227854",
+                    "textTitle": "Arrêté du 1er mars 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000043227858",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-03-09",
+                    "dateSignaTexte": "2021-03-01",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -6247,9 +6260,22 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000041875387",
                 "content": "<p align='left'><br/>La grille des salaires minima des emplois de catégorie A et la grille des salaires minima CDI des emplois de catégorie B sont revalorisées de 2,50 % au 1er octobre 2019.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Revalorisation des salaires minima",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000043227854",
+                    "textTitle": "Arrêté du 1er mars 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000043227858",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-03-09",
+                    "dateSignaTexte": "2021-03-01",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -6260,9 +6286,22 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000041875388",
                 "content": "<p align='left'>Le présent accord entre en vigueur au 1er octobre 2019.</p><p align='left'>Une demande d'extension sera réalisée par la partie la plus diligente.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dispositions finales",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000043227854",
+                    "textTitle": "Arrêté du 1er mars 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000043227858",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-03-09",
+                    "dateSignaTexte": "2021-03-01",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
