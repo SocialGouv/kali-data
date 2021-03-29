@@ -39,7 +39,7 @@ const generateParentSectionsPath = article => {
     const {
       data: { title },
     } = section;
-    path.unshift(title);
+    path.unshift(title.trim());
 
     section = section.parent;
   }
