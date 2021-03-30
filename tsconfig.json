@@ -8,7 +8,7 @@
     "resolveJsonModule": true,
     "skipLibCheck": true,
     "strictNullChecks": true,
-    "target": "ES6"
+    "target": "es2019"
   },
   "include": [
     "src/**/*.js",
