@@ -16,20 +16,22 @@ log.enableColor();
 
 log.info("match()", `Indexing articles…`);
 const agreementsIndex = getAgreements();
-const articlesIndex = agreementsIndex.reduce((prevArticlesIndex, { id: agreementId }) => {
+
+const articlesIndex = agreementsIndex.flatMap(({ id: agreementId }) => {
   if (/-\d+$/.test(agreementId)) {
-    return prevArticlesIndex;
+    return [];
   }
+  console.warn("getAgreement", agreementId);
 
   const agreement = getAgreement(agreementId);
   const agreementWithFlatArticles =
     /** @type {{ type: "root", children: KaliData.AgreementArticle }} */
     (unistUtilFlatFilter(agreement, "article"));
   if (agreementWithFlatArticles === null || !Array.isArray(agreementWithFlatArticles.children)) {
-    return prevArticlesIndex;
+    return [];
   }
 
-  const newArticlesIndex = agreementWithFlatArticles.children.map(
+  const agreementArticles = agreementWithFlatArticles.children.map(
     ({ data: { cid: articleCid, id: articleId } }) => ({
       agreementId,
       articleCid,
@@ -38,8 +40,8 @@ const articlesIndex = agreementsIndex.reduce((prevArticlesIndex, { id: agreement
     }),
   );
 
-  return [...prevArticlesIndex, ...newArticlesIndex];
-}, []);
+  return agreementArticles;
+});
 
 const articlesIndexFilePath = path.join(__dirname, "..", "data", "articles", "index.json");
 log.info("match()", `Writing ${articlesIndexFilePath}…`);

@@ -76,7 +76,7 @@ function getArticlePath(agreement, articleCid) {
     data: { num },
   } = maybeArticleWithCid;
   if (num !== undefined) {
-    path.push(`Article ${num}`);
+    path.push(`Article ${(num && num.trim()) || ""}`);
   }
 
   return path;
