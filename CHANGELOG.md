@@ -1,3 +1,15 @@
+# [2.57.0](https://github.com/SocialGouv/kali-data/compare/v2.56.0...v2.57.0) (2021-03-31)
+
+
+### Bug Fixes
+
+* articles index ([#160](https://github.com/SocialGouv/kali-data/issues/160)) ([0302f18](https://github.com/SocialGouv/kali-data/commit/0302f185cff086bf5bdefcd816f8648ff1db5c2d))
+
+
+### Features
+
+* **data:** 20210331_0531 update ([890f48a](https://github.com/SocialGouv/kali-data/commit/890f48aec9d94fc86b430c8873fc656321045e89))
+
 # [2.56.0](https://github.com/SocialGouv/kali-data/compare/v2.55.1...v2.56.0) (2021-03-29)
 
 
