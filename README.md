@@ -6,6 +6,8 @@
 
 ---
 
+Dump JSON régulier des conventions collectives publiées par l'API DILA.
+
 :warning: Experimental, for internal usage only :warning:
 
 ---
