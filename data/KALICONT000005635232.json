@@ -12450,7 +12450,7 @@
             "cid": "KALITEXT000038417882",
             "title": "Avenant du 20 novembre 2018 à l'accord du 16 janvier 2012 relatif à la sécurité et à la santé au travail",
             "id": "KALITEXT000038417882",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2018-12-18"
           },
           "children": [
@@ -12461,7 +12461,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000038417885",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -12470,9 +12470,22 @@
                     "cid": "KALIARTI000038417903",
                     "intOrdre": 524287,
                     "id": "KALIARTI000038417903",
-                    "content": "<p align='left'><br/>Le présent avenant a pour objet la confirmation de la clause de verrouillage prévue par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000025956349&categorieLien=cid' title='Santé et sécurité au travail (VE)'>accord du 16 janvier 2012</a> sur la sécurité et la santé au travail dans la branche de la répartition pharmaceutique. Il prévoit également l'adaptation du contenu de cet accord aux évolutions législatives et réglementaires.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "content": "<p align='left'><br/>Le présent avenant a pour objet la confirmation de la clause de verrouillage prévue par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000025956349&categorieLien=cid'>accord du 16 janvier 2012</a> sur la sécurité et la santé au travail dans la branche de la répartition pharmaceutique. Il prévoit également l'adaptation du contenu de cet accord aux évolutions législatives et réglementaires.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000043360410",
+                        "textTitle": "Arrêté du 2 avril 2021 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000043360413",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-04-14",
+                        "dateSignaTexte": "2021-04-02",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -12485,9 +12498,22 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000038417886",
                 "content": "<p align='left'><br/>Cet avenant est applicable aux entreprises relevant du champ d'application tel que défini par l'article A.2 de la convention collective nationale de la répartition pharmaceutique.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Champ d'application",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000043360410",
+                    "textTitle": "Arrêté du 2 avril 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000043360413",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-04-14",
+                    "dateSignaTexte": "2021-04-02",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -12497,10 +12523,23 @@
                 "num": "2",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000038417887",
-                "content": "<p align='left'>Conformément au <a href='/affichTexteArticle.do?cidTexte=JORFTEXT000035607311&idArticle=JORFARTI000035607326&categorieLien=cid' title='Ordonnance n°2017-1385 du 22 septembre 2017 - art. 16 (M)'>I de l'article 16 de l'ordonnance n° 2017-1385 du 22 septembre 2017</a>, le présent avenant vient confirmer la portée de la clause prévue à l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000025956349&idArticle=KALIARTI000025956367&categorieLien=cid' title='Santé et sécurité au travail - art. 8 (VE)'>article 8</a> de l'accord du 16 janvier 2012, qui fait obstacle à des clauses dérogatoires de conventions ou accords d'entreprise ou d'établissement, dans un sens moins favorable aux dispositions de l'accord précité.</p><p align='left'>Cette clause est donc maintenue au-delà du 31 décembre 2018.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Conformément au <a href='/affichTexteArticle.do?cidTexte=JORFTEXT000035607311&idArticle=JORFARTI000035607326&categorieLien=cid'>I de l'article 16 de l'ordonnance n° 2017-1385 du 22 septembre 2017</a>, le présent avenant vient confirmer la portée de la clause prévue à l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000025956349&idArticle=KALIARTI000025956367&categorieLien=cid'>article 8</a> de l'accord du 16 janvier 2012, qui fait obstacle à des clauses dérogatoires de conventions ou accords d'entreprise ou d'établissement, dans un sens moins favorable aux dispositions de l'accord précité.</p><p align='left'>Cette clause est donc maintenue au-delà du 31 décembre 2018.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Confirmation de la clause de verrouillage",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000043360410",
+                    "textTitle": "Arrêté du 2 avril 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000043360413",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-04-14",
+                    "dateSignaTexte": "2021-04-02",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -12511,9 +12550,22 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000038417890",
                 "content": "<p align='left'>Les termes de l'accord du 16 janvier 2012 avaient été arrêtés au regard des dispositions légales et réglementaires en vigueur applicables à la date de sa signature.</p><p align='left'>Les signataires du présent avenant conviennent que les dispositions prévues dans l'accord précité, concernant les instances représentatives du personnel, sont applicables aux nouvelles instances représentatives du personnel définies par le titre Ier et II du livre III du code de travail et qui les remplacent, à la date où elles seront mises en place dans les entreprises.</p><p align='left'>Par ailleurs, les règles d'ordre public sont appliquées à l'accord précité en cas de modification des dispositions légales ou réglementaires.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Adaptation aux dispositions légales et réglementaires en vigueur",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000043360410",
+                    "textTitle": "Arrêté du 2 avril 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000043360413",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-04-14",
+                    "dateSignaTexte": "2021-04-02",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -12524,9 +12576,22 @@
                 "intOrdre": 2621435,
                 "id": "KALIARTI000038417892",
                 "content": "<p align='left'>Le présent avenant ne comporte pas de stipulations spécifiques aux entreprises de moins de 50 salariés, son seul objet étant de confirmer la clause de verrouillage de l'accord précité, et d'en préciser l'adaptation aux évolutions législatives et réglementaires.</p><p align='left'>L'accord du 16 janvier 2012 et le présent avenant sont donc applicables à toutes les entreprises relevant du champ d'application défini ci-dessus à l'article 1er, quel que soit leur effectif.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dispositions spécifiques pour les entreprises de moins de 50 salariés",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000043360410",
+                    "textTitle": "Arrêté du 2 avril 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000043360413",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-04-14",
+                    "dateSignaTexte": "2021-04-02",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -12537,9 +12602,22 @@
                 "intOrdre": 3145722,
                 "id": "KALIARTI000038417894",
                 "content": "<p align='left'><br/>Le présent avenant est conclu pour une durée indéterminée et prendra effet dès les formalités de dépôt effectuées.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Durée de l'avenant et entrée en vigueur",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000043360410",
+                    "textTitle": "Arrêté du 2 avril 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000043360413",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-04-14",
+                    "dateSignaTexte": "2021-04-02",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -12549,10 +12627,23 @@
                 "num": "6",
                 "intOrdre": 3670009,
                 "id": "KALIARTI000038417895",
-                "content": "<p align='left'>Le présent avenant pourra être dénoncé dans les conditions prévues aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-9 (V)'>articles L. 2261-9 et suivants du code du travail</a>.</p><p align='left'>Cet avenant pourra être révisé dans les conditions prévues aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-7 (V)'>L. 2261-7</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901786&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-8 (V)'>L. 2261-8</a> du code du travail.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le présent avenant pourra être dénoncé dans les conditions prévues aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid'>articles L. 2261-9 et suivants du code du travail</a>.</p><p align='left'>Cet avenant pourra être révisé dans les conditions prévues aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid'>L. 2261-7</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901786&dateTexte=&categorieLien=cid'>L. 2261-8</a> du code du travail.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dénonciation. – Révision",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000043360410",
+                    "textTitle": "Arrêté du 2 avril 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000043360413",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-04-14",
+                    "dateSignaTexte": "2021-04-02",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -12562,10 +12653,23 @@
                 "num": "7",
                 "intOrdre": 4194296,
                 "id": "KALIARTI000038417899",
-                "content": "<p align='left'>Conformément aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-6 (V)'>L. 2231-6</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-2 (V)'>D. 2231-2</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485209&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-3 (M)'>D. 2231-3</a> du code du travail, le présent avenant sera déposé à la direction générale du travail, dépôt des accords collectifs, 39-43, quai André-Citroën, 75902 Paris Cedex 15, et remis au secrétariat-greffe du conseil de prud'hommes de Paris.</p><p align='left'>Le présent avenant sera également déposé dans la base de données nationale des accords collectifs, dans une version permettant l'anonymisation des noms et prénoms des signataires et des négociateurs.</p><p align='left'>Les parties signataires conviennent de demander au ministère du travail l'extension du présent avenant.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Conformément aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>L. 2231-6</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid'>D. 2231-2</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485209&dateTexte=&categorieLien=cid'>D. 2231-3</a> du code du travail, le présent avenant sera déposé à la direction générale du travail, dépôt des accords collectifs, 39-43, quai André-Citroën, 75902 Paris Cedex 15, et remis au secrétariat-greffe du conseil de prud'hommes de Paris.</p><p align='left'>Le présent avenant sera également déposé dans la base de données nationale des accords collectifs, dans une version permettant l'anonymisation des noms et prénoms des signataires et des négociateurs.</p><p align='left'>Les parties signataires conviennent de demander au ministère du travail l'extension du présent avenant.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Formalités de dépôt et d'extension",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000043360410",
+                    "textTitle": "Arrêté du 2 avril 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000043360413",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-04-14",
+                    "dateSignaTexte": "2021-04-02",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
