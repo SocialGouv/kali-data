@@ -1,3 +1,11 @@
+# [2.68.0](https://github.com/SocialGouv/kali-data/compare/v2.67.0...v2.68.0) (2021-04-27)
+
+
+### Features
+
+* **data:** 20210427_0519 update ([37098e2](https://github.com/SocialGouv/kali-data/commit/37098e2ca68c4419ddc5eec2f0d5094f8a05ac5c))
+* **data:** update 1518 ccn title in index ([0ffb56d](https://github.com/SocialGouv/kali-data/commit/0ffb56d92de7432c6c621d0e97f256173b6b3e00))
+
 # [2.67.0](https://github.com/SocialGouv/kali-data/compare/v2.66.0...v2.67.0) (2021-04-24)
 
 
