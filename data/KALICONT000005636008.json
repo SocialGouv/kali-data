@@ -5962,7 +5962,7 @@
             "cid": "KALITEXT000041686392",
             "title": "Avenant n° 24 du 26 avril 2019 relatif aux congés exceptionnels",
             "id": "KALITEXT000041686392",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2021-05-01"
           },
           "children": [
@@ -5973,7 +5973,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000041686395",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -5983,8 +5983,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000041686397",
                     "content": "<p></p><p align='left'>Pour faire suite à l' arrêté du 27 décembre 2018 portant extension de l'avenant n° 20 sur les congés exceptionnels, les partenaires sociaux de la branche ont décidé dans un souci d'égalité d'harmoniser leur convention collective en annulant et remplaçant l'avenant n° 20 portant sur l'article 5.2.</p><p align='left'>L'article 5.2 de la convention collective nationale du 17 janvier 1995 est ainsi rédigé :</p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000043360473",
+                        "textTitle": "Arrêté du 2 avril 2021 - art. 1, v. init.",
+                        "linkType": "EXTENSION",
+                        "linkOrientation": "source",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000043360477",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-04-14",
+                        "dateSignaTexte": "2021-04-02",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -5996,8 +6009,20 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000041686396",
                 "content": "<p align='center'>Article 5.2<br/>\nCongés exceptionnels</p><p align='left'>En dehors des congés annuels, l'avocat salarié a droit à des congés payés de courte durée pour des événements personnels dans les conditions ci-après :<br/>\n– mariage de l'avocat salarié : 5 jours ouvrés ;<br/>\n– conclusion d'un Pacs par l'avocat salarié : 5 jours ouvrés ;<br/>\n– mariage d'un enfant : 2 jours ouvrés ;<br/>\n– naissance, ou arrivée d'un enfant en vue de son adoption : 3 jours ouvrés ;</p><p align='left'>Les congés ci-dessus pourront être pris dans les 3 semaines qui précéderont ou suivront l'événement.<br/>\n– décès du conjoint, du partenaire de Pacs ou du concubin : 5 jours ouvrés ;<br/>\n– décès d'un enfant : 5 jours ouvrés ;<br/>\n– décès d'un autre descendant, d'un ascendant du salarié : 3 jours ouvrés ;<br/>\n– décès d'un ascendant ou descendant de son conjoint, de son partenaire de Pacs, ou de son concubin : 3 jours ouvrés ;<br/>\n– décès d'un frère ou d'une sœur : 3 jours ouvrés ;<br/>\n– annonce au salarié de la survenance d'un handicap chez l'enfant : 2 jours ouvrés ;<br/>\n– annonce au salarié de la survenance d'un handicap chez son conjoint, son partenaire de Pacs ou son concubin : 2 jours ouvrés.</p><p align='left'>On entend par ascendant ou descendant les ascendants ou descendants en ligne directe jusqu'au deuxième degré.</p><p align='left'>Ces dispositions ne se cumulent pas avec les avantages de même nature institués par d'autres textes.</p><p align='left'>Toutes autres absences autorisées par l'employeur si elles ne sont pas récupérées d'accord avec lui s'imputeront sur les congés annuels fixés à l'article 5.1.</p><p align='left'>Pour l'application de l'article L. 2261-23-1, les partenaires sociaux ont considéré que cet accord n'avait pas à comporter les stipulations spécifiques mentionnées à l'article L. 2232-10-1, sous réserves des situations explicitement évoqués dans l'accord. En effet, celui-ci doit s'appliquer quelle que soit la taille de l'entreprise a fortiori dans une branche composée presque exclusivement d'entreprise de moins de 50 salariés.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000043360473",
+                    "textTitle": "Arrêté du 2 avril 2021 - art. 1, v. init.",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000043360477",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-04-14",
+                    "dateSignaTexte": "2021-04-02",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000005669391",
                     "textTitle": "Convention collective nationale du 17 février 1995 - art. 5.2 (VNE)",
