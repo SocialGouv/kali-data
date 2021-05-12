@@ -107,7 +107,7 @@ type State =
   | "VIGUEUR_NON_ETEN";
 
 type Agreement = {
-  type: "section";
+  type: "convention collective";
   data: AgreementData;
   children: AgreementSection[];
 };
