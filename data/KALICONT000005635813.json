@@ -10844,8 +10844,8 @@
                     "num": "3",
                     "intOrdre": 42949,
                     "id": "KALIARTI000043514682",
-                    "content": "<p>Toutes les entreprises, quel que soit leur effectif, entrant dans le champ d'application du présent accord verseront, à compter du premier jour du mois suivant sa date d'extension, une contribution à l'association égale à 0,007 % de la masse salariale brute annuelle non chargée telle que retenue en matière de participation des employeurs à la formation professionnelle.</p><p>Cette cotisation appelée au nom et pour le compte de l'association paritaire de gestion, le FONGESMES, est recouvrée distinctement dans les mêmes conditions que la contribution unique à la formation professionnelle et à l'alternance, par l'OPCO santé, qui la reversera à l'association paritaire de gestion.</p><p>Le recouvrement par l'OPCO santé pour le compte de l'association paritaire de gestion sera réalisé au titre des années 2019 et 2020.</p><p>La cotisation due au titre de l'année N est déterminée sur la masse salariale brute, telle que définie au 1er alinéa, de l'année N − 1.</p><p>Les modalités de recouvrement seront définies par une convention établie entre l'OPCO santé et l'association paritaire de gestion.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "content": "<p>Toutes les entreprises, quel que soit leur effectif, entrant dans le champ d'application du présent accord verseront, à compter du premier jour du mois suivant sa date d'extension, une contribution à l'association égale à 0,007 % de la masse salariale brute annuelle non chargée telle que retenue en matière de participation des employeurs à la formation professionnelle.</p><p>Cette cotisation appelée au nom et pour le compte de l'association paritaire de gestion, le FONGESMES, est recouvrée distinctement dans les mêmes conditions que la contribution unique à la formation professionnelle et à l'alternance, par l'OPCO santé, qui la reversera à l'association paritaire de gestion.</p><p>Le recouvrement par l'OPCO santé pour le compte de l'association paritaire de gestion sera réalisé au titre des années 2019 et 2020.</p><p>La cotisation due au titre de l'année N est déterminée sur la masse salariale brute, telle que définie au 1er alinéa, de l'année N − 1.</p><p>Les modalités de recouvrement seront définies par une convention établie entre l'OPCO santé et l'association paritaire de gestion.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000005804682_1'></a>(1) Article étendu sous réserve de la mise en place d'une comptabilité séparée et de frais de recouvrement spécifiques, et ce à titre provisoire et dérogatoire pour les années 2020 et 2021, en ce qui concerne le recouvrement de la contribution au financement du dialogue social par un opérateur de compétence, et à condition que l'opérateur de compétence ne procède pas à la redistribution des crédits aux organisations syndicales de salariés et professionnelles d'employeurs conformément à l'article L. 6332-1-3 du code du travail.  <br/>(Arrêté du 21 mai 2021 - art. 1)</em></font></p>",
+                    "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
                         "textCid": "KALITEXT000043510750",
@@ -10858,6 +10858,18 @@
                         "datePubliTexte": "2021-05-19",
                         "dateSignaTexte": "2020-09-23",
                         "dateDebutCible": "2021-02-01"
+                      },
+                      {
+                        "textCid": "JORFTEXT000043597615",
+                        "textTitle": "Arrêté du 21 mai 2021 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000043597620",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-06-04",
+                        "dateSignaTexte": "2021-05-21",
+                        "dateDebutCible": "2999-01-01"
                       }
                     ]
                   }
@@ -26258,7 +26270,7 @@
             "cid": "KALITEXT000043510750",
             "title": "Avenant n° 6 du 23 septembre 2020 à l'accord du 26 février 2001 relatif au financement du paritarisme",
             "id": "KALITEXT000043510750",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2021-02-01"
           },
           "children": [
@@ -26269,7 +26281,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000043510752",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -26279,8 +26291,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000043510758",
                     "content": "<p align='left'>Le présent avenant a pour objet de modifier la qualité de l'organisme collecteur des cotisations recueillies par l'association de gestion des fonds du paritarisme du secteur sanitaire, social et médico-social à caractère commercial, le FONGESMES, afin de tenir compte :<br/>\n– de la mise en place des opérateurs de compétences (OPCO) en lieu et place des organismes paritaires collecteurs agréés (OPCA) ;<br/>\n– ainsi que du mandat donné par l'association de gestion à l'OPCO santé, pour la collecte de la contribution au financement du paritarisme de la branche, au titre des années 2019 et 2020.</p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000043597615",
+                        "textTitle": "Arrêté du 21 mai 2021 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000043597620",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-06-04",
+                        "dateSignaTexte": "2021-05-21",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -26292,10 +26317,22 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000043510753",
-                "content": "<p align='left'>Le 2e paragraphe de l'article 3 de l'accord du 26 février 2001 est abrogé et remplacé par les dispositions ci-après :</p><p align='left'>« Cette cotisation appelée au nom et pour le compte de l'association paritaire de gestion, le FONGESMES, est recouvrée distinctement dans les mêmes conditions que la contribution unique à la formation professionnelle et à l'alternance, par l'OPCO santé, qui la reversera à l'association paritaire de gestion.</p><p align='left'>Le recouvrement par l'OPCO santé pour le compte de l'association paritaire de gestion sera réalisé au titre des années 2019 et 2020.</p><p align='left'>La cotisation due au titre de l'année N est déterminée sur la masse salariale brute, telle que définie au 1er alinéa, de l'année N − 1.</p><p align='left'>Les modalités de recouvrement seront définies par une convention établie entre l'OPCO santé et l'association paritaire de gestion. »</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le 2e paragraphe de l'article 3 de l'accord du 26 février 2001 est abrogé et remplacé par les dispositions ci-après :</p><p align='left'>« Cette cotisation appelée au nom et pour le compte de l'association paritaire de gestion, le FONGESMES, est recouvrée distinctement dans les mêmes conditions que la contribution unique à la formation professionnelle et à l'alternance, par l'OPCO santé, qui la reversera à l'association paritaire de gestion.</p><p align='left'>Le recouvrement par l'OPCO santé pour le compte de l'association paritaire de gestion sera réalisé au titre des années 2019 et 2020.</p><p align='left'>La cotisation due au titre de l'année N est déterminée sur la masse salariale brute, telle que définie au 1er alinéa, de l'année N − 1.</p><p align='left'>Les modalités de recouvrement seront définies par une convention établie entre l'OPCO santé et l'association paritaire de gestion. »</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000043510753_1'></a>(1) Article étendu sous réserve de la mise en place d'une comptabilité séparée et de frais de recouvrement spécifiques, et ce à titre provisoire et dérogatoire pour les années 2020 et 2021, en ce qui concerne le recouvrement de la contribution au financement du dialogue social par un opérateur de compétence, et à condition que l'opérateur de compétence ne procède pas à la redistribution des crédits aux organisations syndicales de salariés et professionnelles d'employeurs conformément à l'article L. 6332-1-3 du code du travail.  <br/>(Arrêté du 21 mai 2021 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Cotisations",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000043597615",
+                    "textTitle": "Arrêté du 21 mai 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000043597620",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-06-04",
+                    "dateSignaTexte": "2021-05-21",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000005660662",
                     "textTitle": "Financement du paritarisme - art. 3 (VNE)",
@@ -26319,9 +26356,22 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000043510756",
                 "content": "<p align='left'><br/>Le présent avenant prendra effet au 1er jour du mois suivant l'accomplissement des formalités de dépôt.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Entrée en vigueur",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000043597615",
+                    "textTitle": "Arrêté du 21 mai 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000043597620",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-06-04",
+                    "dateSignaTexte": "2021-05-21",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -26332,9 +26382,22 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000043510757",
                 "content": "<p align='left'>L'extension du présent avenant sera demandée par la partie la plus diligente.</p><p align='left'>Le présent avenant sera déposé en deux exemplaires, auprès de la DGT, une version signée du présent avenant sur support papier et une version sur support électronique. Un exemplaire sera adressé au greffe du conseil de prud'hommes de Paris.</p><p align='left'>Le présent avenant est fait en nombre suffisant pour remise à chacun des signataires, plus les exemplaires destinés au dépôt légal.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Extension. Dépôt",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000043597615",
+                    "textTitle": "Arrêté du 21 mai 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000043597620",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-06-04",
+                    "dateSignaTexte": "2021-05-21",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
