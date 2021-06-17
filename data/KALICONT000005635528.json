@@ -26463,7 +26463,7 @@
             "cid": "KALITEXT000042051725",
             "title": "Avenant du 10 janvier 2020 portant révision de l'accord du 2 octobre 2017 relatif aux recommandations de l'APGIS",
             "id": "KALITEXT000042051725",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2020-01-01"
           },
           "children": [
@@ -26473,9 +26473,22 @@
                 "cid": "KALIARTI000042051728",
                 "intOrdre": 524287,
                 "id": "KALIARTI000042051728",
-                "content": "<p align='left'>Vu le code du travail,</p><p align='left'>Vu la convention collective nationale étendue de la pharmacie d'officine du 3 décembre 1997,</p><p align='left'>Vu l'<a href='/affichIDCC.do?cidTexte=KALITEXT000036543518&categorieLien=cid' title='Recommandation de l'APGIS  (VE)'>accord collectif national du 2 octobre 2017</a> étendu portant recommandation de l'APGIS pour l'assurance des régimes décès, incapacité de travail, invalidité, maternité-paternité et des régimes frais de soins de santé des salariés de la pharmacie d'officine et instituant des garanties collectives présentant un degré élevé de solidarité, modifié en dernier lieu par avenant du 5 novembre 2018 étendu,</p><p align='left'>Vu l'avenant du 20 mai 2019 portant révision de la convention collective nationale étendue de la pharmacie d'officine du 3 décembre 1997 relatif aux régimes décès, incapacité de travail, invalidité, maternité paternité et frais de soins de santé des salariés de la pharmacie d'officine.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'>Vu le code du travail,</p><p align='left'>Vu la convention collective nationale étendue de la pharmacie d'officine du 3 décembre 1997,</p><p align='left'>Vu l'<a href='/affichIDCC.do?cidTexte=KALITEXT000036543518&categorieLien=cid'>accord collectif national du 2 octobre 2017</a> étendu portant recommandation de l'APGIS pour l'assurance des régimes décès, incapacité de travail, invalidité, maternité-paternité et des régimes frais de soins de santé des salariés de la pharmacie d'officine et instituant des garanties collectives présentant un degré élevé de solidarité, modifié en dernier lieu par avenant du 5 novembre 2018 étendu,</p><p align='left'>Vu l'avenant du 20 mai 2019 portant révision de la convention collective nationale étendue de la pharmacie d'officine du 3 décembre 1997 relatif aux régimes décès, incapacité de travail, invalidité, maternité paternité et frais de soins de santé des salariés de la pharmacie d'officine.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000043623980",
+                    "textTitle": "Arrêté du 21 mai 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000043623983",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-06-09",
+                    "dateSignaTexte": "2021-05-21",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -26485,7 +26498,7 @@
                 "intOrdre": 1048574,
                 "title": "Préambule",
                 "id": "KALISCTA000042051731",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -26495,8 +26508,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000042051732",
                     "content": "<p align='left'>Afin de tenir compte des modifications apportées, à effet du 1er janvier 2020, par l'avenant du 20 mai 2019 aux taux des cotisations « frais de soins de santé » des salariés non cadres d'une part, et des salariés cadres et assimilés d'autre part, les parties signataires sont convenues d'adapter en conséquence les taux des cotisations dues au titre du fonds HDS de la pharmacie d'officine.</p><p align='left'>À cet effet, les parties signataires sont convenues de ce qui suit :</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000043623980",
+                        "textTitle": "Arrêté du 21 mai 2021 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000043623983",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-06-09",
+                        "dateSignaTexte": "2021-05-21",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -26509,8 +26535,20 @@
                 "intOrdre": 1074266110,
                 "id": "KALIARTI000042051733",
                 "content": "<p align='left'>Les deux tableaux de l'article 3 « degré élevé de solidarité » de l'accord collectif national du 2 octobre 2017 étendu susvisé sont remplacés par les deux tableaux suivants :</p><p align='center'>Cotisations « HDS » salariés non cadres – régime de base obligatoire</p><center><table border='1'><tbody><tr><th></th><th>Employeur</th><th>Salarié</th></tr><tr><td align='center'>Hors Alsace-Moselle</td><td align='center'>0,039 % du traitement de base + 0,010 % du PMSS si employeur unique (1)</td><td align='center'>0,023 % du traitement de base + 0,010 % du PMSS si employeur unique (2)</td></tr><tr><td rowspan='5' align='center'>Alsace-Moselle</td><td align='center'>0,038 % du traitement de base + 0,007 % du PMSS si employeur unique (3)</td><td align='center'>0,023 % du traitement de base + 0,007 % du PMSS si employeur unique (4)</td></tr><tr><td align='center'>(1) :</td><td align='center'>(2) :</td></tr><tr><td align='center'>0,005 % du PMSS si 2 employeurs ;</td><td align='center'>0,005 % du PMSS si 2 employeurs ;</td></tr><tr><td align='center'>0,004 % du PMSS si 3 employeurs ;</td><td align='center'>0,003 % du PMSS si 3 employeurs ;</td></tr><tr><td align='center'>0,003 % du PMSS si 4 employeurs et plus.</td><td align='center'>0,003 % du PMSS si 4 employeurs et plus.</td></tr><tr><td rowspan='4' align='center'>Salariés multi-employeurs</td><td align='center'>(3) :</td><td align='center'>(4) :</td></tr><tr><td align='center'>0,004 % du PMSS si 2 employeurs ;</td><td align='center'>0,004 % du PMSS si 2 employeurs ;</td></tr><tr><td align='center'>0,003 % si 3 employeurs et plus ;</td><td align='center'>0,002 % si 3 employeurs et plus ;</td></tr><tr><td align='center'>0,002 % du PMSS si 4 employeurs et plus.</td><td align='center'>0,002 % du PMSS si 4 employeurs et plus.</td></tr></tbody></table></center><p></p><p align='center'>Cotisations « HDS » salariés cadres et assimilés – régime de base obligatoire (RPO)</p><center><table border='1'><tbody><tr><th></th><th>Employeur</th><th>Salarié</th></tr><tr><td align='center'>Hors Alsace-Moselle</td><td align='center'>0,039 % du salaire total dans la limite de TA + TB + 0,010 % du PMSS si employeur unique (1)</td><td align='center'>0,006 % du salaire total dans la limite de TA + TB + 0,010 % du PMSS si employeur unique (2)</td></tr><tr><td rowspan='5' align='center'>Alsace-Moselle</td><td align='center'>0,037 % du salaire total dans la limite de TA + TB + 0,007 % du PMSS si employeur unique (3)</td><td align='center'>0,003 % du salaire total dans la limite de TA + TB + 0,007 % du PMSS si employeur unique (4)</td></tr><tr><td align='center'>(1) :</td><td align='center'>(2) :</td></tr><tr><td align='center'>0,005 % du PMSS si 2 employeurs ;</td><td align='center'>0,005 % du PMSS si 2 employeurs ;</td></tr><tr><td align='center'>0,004 % du PMSS si 3 employeurs ;</td><td align='center'>0,003 % du PMSS si 3 employeurs ;</td></tr><tr><td align='center'>0,003 % du PMSS si 4 employeurs et plus.</td><td align='center'>0,003 % du PMSS si 4 employeurs et plus.</td></tr><tr><td rowspan='4' align='center'>Salariés multi-employeurs</td><td align='center'>(3) :</td><td align='center'>(4) :</td></tr><tr><td align='center'>0,004 % du PMSS si 2 employeurs ;</td><td align='center'>0,004 % du PMSS si 2 employeurs ;</td></tr><tr><td align='center'>0,003 % si 3 employeurs et plus ;</td><td align='center'>0,002 % si 3 employeurs et plus ;</td></tr><tr><td align='center'>0,002 % du PMSS si 4 employeurs et plus.</td><td align='center'>0,002 % du PMSS si 4 employeurs et plus.</td></tr></tbody></table></center><p></p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000043623980",
+                    "textTitle": "Arrêté du 21 mai 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000043623983",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-06-09",
+                    "dateSignaTexte": "2021-05-21",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000036543518",
                     "textTitle": "Recommandation de l'APGIS  - art. 3 (VNE)",
@@ -26533,9 +26571,22 @@
                 "num": "2",
                 "intOrdre": 1610874878,
                 "id": "KALIARTI000042051736",
-                "content": "<p align='left'>Le présent avenant prendra effet à compter du 1er janvier 2020 et prendra fin, au plus tard, au terme de la durée maximale de 5 ans mentionnée à l'article 4 de l'accord collectif national du 2 octobre 2017 étendu susvisé.</p><p align='left'>Il sera déposé et fera l'objet d'une demande d'extension à l'initiative de la partie la plus diligente dans les conditions prévues par le code du travail.</p><p align='left'>Le présent avenant peut être révisé ou dénoncé selon les modalités prévues aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-7 (V)'>articles L. 2261-7 et suivants du code du travail</a>.</p><p align='left'>La branche professionnelle de la pharmacie d'officine étant composée à 99,90 % d'officines de pharmacie de moins de 50 salariés, les dispositions du présent avenant ont été rédigées en considération des spécificités de ces entreprises (source DARES, fiche statistique de branche 2016). Par voie de conséquence, l'adoption des stipulations mentionnées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-10-1 (M)'>article L. 2232-10-1 du code du travail</a> ne se justifie pas.</p><p align='left'>Conformément à la faculté qui leur est offerte par la circulaire ministérielle du 23 mai 2011 relative aux dates communes d'entrée en vigueur des normes concernant les entreprises, les parties signataires s'accordent pour demander l'application la plus rapide possible de l'arrêté d'extension du présent avenant.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'>Le présent avenant prendra effet à compter du 1er janvier 2020 et prendra fin, au plus tard, au terme de la durée maximale de 5 ans mentionnée à l'article 4 de l'accord collectif national du 2 octobre 2017 étendu susvisé.</p><p align='left'>Il sera déposé et fera l'objet d'une demande d'extension à l'initiative de la partie la plus diligente dans les conditions prévues par le code du travail.</p><p align='left'>Le présent avenant peut être révisé ou dénoncé selon les modalités prévues aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid'>articles L. 2261-7 et suivants du code du travail</a>.</p><p align='left'>La branche professionnelle de la pharmacie d'officine étant composée à 99,90 % d'officines de pharmacie de moins de 50 salariés, les dispositions du présent avenant ont été rédigées en considération des spécificités de ces entreprises (source DARES, fiche statistique de branche 2016). Par voie de conséquence, l'adoption des stipulations mentionnées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid'>article L. 2232-10-1 du code du travail</a> ne se justifie pas.</p><p align='left'>Conformément à la faculté qui leur est offerte par la circulaire ministérielle du 23 mai 2011 relative aux dates communes d'entrée en vigueur des normes concernant les entreprises, les parties signataires s'accordent pour demander l'application la plus rapide possible de l'arrêté d'extension du présent avenant.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000043623980",
+                    "textTitle": "Arrêté du 21 mai 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000043623983",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-06-09",
+                    "dateSignaTexte": "2021-05-21",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
