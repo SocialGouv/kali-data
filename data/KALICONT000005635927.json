@@ -3925,18 +3925,6 @@
                     "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
-                        "textCid": "KALITEXT000029256445",
-                        "textTitle": "Classifications - art. 1er (VNE)",
-                        "linkType": "MODIFIE",
-                        "linkOrientation": "cible",
-                        "articleNum": "1er",
-                        "articleId": "KALIARTI000029256448",
-                        "natureText": "Avenant",
-                        "datePubliTexte": "2014-07-17",
-                        "dateSignaTexte": "2013-10-31",
-                        "dateDebutCible": "2014-04-25"
-                      },
-                      {
                         "textCid": "JORFTEXT000032472209",
                         "textTitle": "Arrêté du 22 avril 2016 - art. 1, v. init.",
                         "linkType": "ETEND",
@@ -3947,6 +3935,18 @@
                         "datePubliTexte": "2016-04-30",
                         "dateSignaTexte": "2016-04-22",
                         "dateDebutCible": "2999-01-01"
+                      },
+                      {
+                        "textCid": "KALITEXT000029256445",
+                        "textTitle": "Classifications - art. 1er (VNE)",
+                        "linkType": "MODIFIE",
+                        "linkOrientation": "cible",
+                        "articleNum": "1er",
+                        "articleId": "KALIARTI000029256448",
+                        "natureText": "Avenant",
+                        "datePubliTexte": "2999-01-01",
+                        "dateSignaTexte": "2013-10-31",
+                        "dateDebutCible": "2014-04-25"
                       }
                     ]
                   }
