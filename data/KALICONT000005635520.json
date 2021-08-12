@@ -9804,7 +9804,7 @@
             "title": "Accord du 3 décembre 2009 portant création d'un régime conventionnel de remboursement complémentaire de frais de santé",
             "id": "KALITEXT000022672261",
             "etat": "VIGUEUR_ETEN",
-            "modifDate": "2015-05-27"
+            "modifDate": "2021-01-01"
           },
           "children": [
             {
@@ -9888,11 +9888,24 @@
                 "cid": "KALIARTI000022672269",
                 "num": "5",
                 "intOrdre": 3145722,
-                "id": "KALIARTI000022672269",
-                "content": "<p align='left'><br/>La nature et le montant des prestations du régime de couverture complémentaire frais de santé sont présentés dans le tableau annexé au présent accord.</p>",
-                "etat": "VIGUEUR_ETEN",
+                "id": "KALIARTI000043929997",
+                "content": "<p align='left'>La nature et le montant des prestations du régime de couverture complémentaire frais de santé sont présentés dans le tableau annexé au présent accord.</p><p align='left'>Les présentes garanties sont en conformité avec les règles relatives aux contrats dits “responsables” fixées par l'article L. 871-1 du code de la sécurité sociale et ses textes d'application, et ce, afin de conserver le bénéfice des avantages fiscaux et sociaux accordés à ce type de contrat. Elles respectent également la réglementation 100 % santé.<br/><p> <br/>\nConformément aux dispositions de l'article D. 911-1-1 du code de la sécurité sociale, la couverture complémentaire frais de santé, en application du présent accord, des salariés relevant du régime local d'assurance maladie complémentaire obligatoire des départements du Haut-Rhin, du Bas-Rhin et de la Moselle définis à l'article L. 325-1 du code de la sécurité sociale et à l'article L. 761-3 du code rural et de la pêche maritime, doit être adaptée par les employeurs pour tenir compte du niveau des garanties assuré par ce régime local. Les garanties mentionnées en annexe 1 devront donc être adaptées pour les salariés affiliés aux régimes précités et déterminées après déduction des prestations servies par le régime local pour conserver l'uniformité des garanties du régime.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
                 "surtitre": "Prestations",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000043925678",
+                    "textTitle": "Tableau des garanties frais de santé - art. 3 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "3",
+                    "articleId": "KALIARTI000043925685",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2021-08-10",
+                    "dateSignaTexte": "2020-10-30",
+                    "dateDebutCible": "2021-01-01"
+                  }
+                ]
               }
             },
             {
@@ -10001,33 +10014,21 @@
                   "data": {
                     "cid": "KALIARTI000022672285",
                     "intOrdre": 524287,
-                    "id": "KALIARTI000031272396",
-                    "content": "<p>Annexe I</p><p>Tableau des garantie</p><center><table border='1'><tbody><tr><th>GARANTIES</th><th><p>REMBOURSEMENTS</p><p>Garanties conventionnelles en complément <br/>de la MSA, dans la limite des frais réels engagés </p></th></tr><tr><td>Honoraires médicaux </td><td><br/><p> </td></tr><tr><td align='center'>Consultations, visites généraliste </td><td align='center'>50 % de la BR médecins CAS/30 % de la BR <br/>médecins non CAS </td></tr><tr><td align='center'>Consultations, visites spécialiste </td><td align='center'>100 % de la BR médecins CAS/80 % de la BR <br/>médecins non CAS </td></tr><tr><td align='center'>Analyses </td><td align='center'>40 % de la BR </td></tr><tr><td align='center'>Auxiliaires médicaux (kinésithérapeutes, infirmiers, orthophonistes, pédicures, orthopédistes, sages-femmes) </td><td align='center'>40 % de la BR </td></tr><tr><td align='center'>Actes de prévention </td><td><br/><p> </td></tr><tr><td align='center'>Ensemble des actes prévus par l'arrêté du 8 juin 2006 pris pour l'application de l'article L. 871-1 du code de la sécurité sociale et fixant la liste des prestations de prévention prévues à l'article R. 871-2 du même code </td><td align='center'>100 % du TM </td></tr><tr><td align='center'>Actes de chirurgie en cabinet ou en ambulatoire </td><td align='center'>170 % de la BR médecins CAS/150 % de la BR médecins non CAS (*) </td></tr><tr><td align='center'>Radiologie </td><td><br/><p> </td></tr><tr><td align='center'>Actes d'imagerie, d'échographie </td><td align='center'>50 % de la BR médecins CAS/30 % de la BR <br/>médecins non CAS </td></tr><tr><td align='center'>Actes techniques médicaux </td><td align='center'>50 % de la BR médecins CAS/30 % de la BR médecins non CAS </td></tr><tr><td align='center'>Pharmacie </td><td align='center'>100 % du TM </td></tr><tr><td align='center'>Vaccins non pris en charge par la MSA (prescrits médicalement) </td><td align='center'>100 € par an </td></tr><tr><td align='center'>Dentaire </td><td><br/><p> </td></tr><tr><td align='center'>Soins </td><td align='center'>30 % de la BR </td></tr><tr><td align='center'>Orthodontie </td><td align='center'>55 % de la BR </td></tr><tr><td align='center'>Prothèses prises en charge par la MSA </td><td align='center'>190 % de la BR + 300 € par an </td></tr><tr><td align='center'>Optique </td><td><br/><p> </td></tr><tr><td align='center'>Enfants (moins de 18 ans) </td><td><br/><p> </td></tr><tr><td align='center'>Un équipement (monture + 2 verres). Ces délais débutent à partir de la date d'achat de l'équipement. </td><td><br/><p> </td></tr><tr><td align='center'>Monture </td><td align='center'>75 € </td></tr><tr><td align='center'>2 verres simples </td><td align='center'>219 € </td></tr><tr><td align='center'>1 verre simple + 1 verre complexe ou hypercomplexe </td><td align='center'>219 € </td></tr><tr><td align='center'>2 verres complexes ou hypercomplexes </td><td align='center'>219 € </td></tr><tr><td align='center'>Lentilles prises en charge par la MSA </td><td align='center'>390 % de la BR + 125 € par année civile <br/>et par bénéficiaire </td></tr><tr><td align='center'>Lentilles non prises en charge par la MSA </td><td align='center'>100 € par année civile et par bénéficiaire </td></tr><tr><td align='center'>Adultes (18 ans et plus) </td><td><br/><p> </td></tr><tr><td align='center'>Un équipement tous les 2 ans, sauf si évolution de la vue. Ces délais débutent à partir de la date d'achat de l'équipement. </td><td><br/><p> </td></tr><tr><td align='center'>Monture </td><td align='center'>150 € </td></tr><tr><td align='center'>2 verres simples </td><td align='center'>266 € </td></tr><tr><td align='center'>1 verre simple + 1 verre complexe ou hypercomplexe </td><td align='center'>266 € </td></tr><tr><td align='center'>2 verres complexes ou hypercomplexes </td><td align='center'>266 € </td></tr><tr><td align='center'>Lentilles prises en charge par la MSA </td><td align='center'>390 % de la BR + 250 € par année civile <br/>et par bénéficiaire </td></tr><tr><td align='center'>Lentilles non prises en charge par la MSA </td><td align='center'>100 € par année civile et par bénéficiaire </td></tr><tr><td align='center'>Appareillage, prothèses médicales </td><td><br/><p> </td></tr><tr><td align='center'>Fournitures médicales, pansements, petits et gros appareillages </td><td align='center'>40 % de la BR </td></tr><tr><td align='center'>Hospitalisation médicale et chirurgicale hors ambulatoire </td><td><br/><p> </td></tr><tr><td align='center'>Frais de soins et séjour en secteur conventionné </td><td align='center'>100 % du TM </td></tr><tr><td align='center'>Frais de soins et séjour en secteur non conventionné </td><td align='center'>De 0 % à 20 % de la BR </td></tr><tr><td align='center'>Dépassements d'honoraires (en secteur conventionné ou non) </td><td align='center'>150 % de la BR </td></tr><tr><td align='center'>Forfait hospitalier </td><td align='center'>Frais réels </td></tr><tr><td align='center'>Chambre particulière </td><td align='center'>25 € par jour </td></tr><tr><td align='center'>Transport terrestre </td><td align='center'>35 % de la BR </td></tr><tr><td align='center'>Maternité </td><td><br/><p> </td></tr><tr><td align='center'>Prime de naissance </td><td align='center'>200 € </td></tr><tr><td align='center'>Garanties supplémentaires </td><td><br/><p> </td></tr><tr><td align='center'>Sevrage tabagique (médicaments, patchs) </td><td align='center'>50 € par an </td></tr><tr><td align='center'>Diététicien (consultation) </td><td align='center'>30 € dans la limite de 2 consultations par an </td></tr><tr><td align='center'>Ostéopathie (dans le cadre d'une médecine manuelle pratiquée par un médecin ou par un kinésithérapeute possédant un diplôme d'Etat) </td><td align='center'>40 € dans la limite de 2 consultations par an </td></tr><tr><td align='center'>SMI Assistance </td><td align='center'>Garanties souscrites auprès de FIDELIA </td></tr><tr><td colSpan='2' align='center'>BR : base de remboursement de la MSA. <br/>TM : ticket modérateur. <br/>Sauf indication contraire dans le tableau ci-dessus, en secteur non conventionné, les remboursements sont limités au tarif d'autorité. <br/>Médecins CAS : médecins ayant signé le contrat d'accès aux soins. <br/>Médecins non CAS : médecins n'ayant pas signé le contrat d'accès aux soins. Contrat d'accès aux soins : dispositif par lequel les médecins s'engagent à pratiquer des dépassements d'honoraires modérés. <br/>Pour savoir si votre médecin adhère au CAS ou non, rendez-vous sur http :// ameli-direct. ameli. fr/. <br/>(*) Pour les médecins non CAS, le cumul du remboursement de la sécurité sociale et de la mutuelle est plafonné à 225 % de la BR, quels que soient le régime et la situation géographique. <br/>Les présentes garanties sont considérées comme responsables et sont susceptibles d'évoluer en fonction des règles relatives aux contrats dits « responsables » fixées par l'article L. 871-1 du code de la sécurité sociale et ses textes d'application, et ce afin de conserver le bénéfice des avantages fiscaux et sociaux accordés à ce type de contrat.</td></tr></tbody></table></center><center></center><center></center><div align='left'>NOTE :\" Le présent avenant entrera en vigueur à compter du lendemain de la date de son dépôt auprès du service compétent en ce qui concerne les dispositions de l'article 1er relatives au « Tableau des garanties » de l'annexe I\".<br/>(article 4 de l'avenant n° 2 du 27 mai 2015 BO 2015/33)</div>",
-                    "etat": "VIGUEUR_ETEN",
+                    "id": "KALIARTI000043929999",
+                    "content": "<p></p><p>Annexe 1<br/><p> <br/>\nTableau des garanties<br/><p> <br/>\nBase + option 1</p><p><br/>(Tableau non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives.)</p><p><a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf/bocc?id=boc_20210014_0000_0024.pdf' target='_blank'> https://www.legifrance.gouv.fr/download/pdf/bocc?id=boc_20210014_0000_0024.pdf</a></p><p></p><p><br/>Base + option 2</p><p><br/>(Tableau non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives.)</p><p><a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf/bocc?id=boc_20210014_0000_0024.pdf' target='_blank'> https://www.legifrance.gouv.fr/download/pdf/bocc?id=boc_20210014_0000_0024.pdf</a></p>",
+                    "etat": "VIGUEUR_NON_ETEN",
                     "lstLienModification": [
                       {
-                        "textCid": "KALITEXT000031255009",
-                        "textTitle": "Avenant n° 2 du 27 mai 2015 - art. (VNE)",
+                        "textCid": "KALITEXT000043925678",
+                        "textTitle": "Tableau des garanties frais de santé - art. (VNE)",
                         "linkType": "MODIFIE",
                         "linkOrientation": "cible",
                         "articleNum": "",
-                        "articleId": "KALIARTI000031255028",
+                        "articleId": "KALIARTI000043925705",
                         "natureText": "Avenant",
-                        "datePubliTexte": "2015-10-01",
-                        "dateSignaTexte": "2015-05-27",
-                        "dateDebutCible": "2015-05-27"
-                      },
-                      {
-                        "textCid": "JORFTEXT000031485495",
-                        "textTitle": "ARRÊTÉ du 9 novembre 2015 - art. 1, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "1",
-                        "articleId": "JORFARTI000031485497",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2015-11-17",
-                        "dateSignaTexte": "2015-11-09",
-                        "dateDebutCible": "2999-01-01"
+                        "datePubliTexte": "2021-08-10",
+                        "dateSignaTexte": "2020-10-30",
+                        "dateDebutCible": "2021-01-01"
                       }
                     ]
                   }
@@ -12880,6 +12881,155 @@
                   }
                 ]
               }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000043925678",
+            "title": "Avenant n° 4 du 30 octobre 2020",
+            "id": "KALITEXT000043925678",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2021-01-01"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000043925681",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000043925681",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000043925698",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000043925698",
+                    "content": "<p align='left'><br/>Par <a href='/affichIDCC.do?cidTexte=KALITEXT000031255009&categorieLien=cid' title='Avenant n° 2 du 27 mai 2015 (VE)'>avenant n° 2 du 25 mai 2015</a>, les partenaires sociaux de la branche bétail et viande ont procédé à la mise en conformité de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000022672261&categorieLien=cid' title='Création d'un régime conventionnel de remboursement complémentaire de frais de santé (VE)'>accord du 3 décembre 2009</a> modifié relatif à la création d'un régime conventionnel de remboursement complémentaire de frais de santé dans la coopération bétail et viande au regard des dispositions du décret du 18 novembre 2014 relatif au contenu des contrats d'assurance maladie complémentaire bénéficiant d'aides fiscales et sociales dits « contrats responsables ». <br/>Par un avenant n° 3 du 19 octobre 2019, le présent régime a été adapté pour tenir compte de la loi du 22 décembre 2018 et décret du 11 janvier 2019 visant à garantir un accès sans reste à charge à certains équipements d'optique, aides auditives et soins prothétiques dentaires dit « réforme 100 % santé ». <br/>Suite aux réserves du ministère de l'agriculture pour l'extension de l'avenant n° 3, le présent avenant n° 4 annule et remplace l'avenant n° 3 et vient éclaircir les règles applicables aux entreprises employant des salariés relevant du régime local. Il rappelle notamment l'obligation d'adapter les garanties pour tenir compte du niveau de prestations du régime local.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": []
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043925682",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000043925682",
+                "content": "<p align='left'><br/>Le présent avenant est applicable aux entreprises entrant dans le champ d'application de la convention collective nationale des coopératives et SICA bétail et viande du 21 mai 1969.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Champ d'application",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043925683",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000043925683",
+                "content": "<p align='left'><br/>L'annexe 1 « Tableau des garanties » de l'accord du 3 décembre 2009 modifié relatif à la création d'un régime conventionnel de remboursement complémentaire de frais de santé dans la coopération bétail et viande est abrogée et remplacée par l'annexe 1 jointe au présent avenant applicable au 1er janvier 2021.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Tableau des garanties",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043925685",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000043925685",
+                "content": "<p align='left'><br/>L'article 5 « Prestations » de l'accord du 3 décembre 2009 est complété des paragraphes suivants : <br/>« Les présentes garanties sont en conformité avec les règles relatives aux contrats dits “ responsables ” fixées par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745370&dateTexte=&categorieLien=cid' title='Code de la sécurité sociale. - art. L871-1 (M)'>article L. 871-1 du code de la sécurité sociale </a>et ses textes d'application, et ce, afin de conserver le bénéfice des avantages fiscaux et sociaux accordés à ce type de contrat. Elles respectent également la réglementation 100 % santé. <br/>Conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000032529728&dateTexte=&categorieLien=cid' title='Code de la sécurité sociale. - art. D911-1-1 (V)'>dispositions de l'article D. 911-1-1 du code de la sécurité sociale</a>, la couverture complémentaire frais de santé, en application du présent accord, des salariés relevant du régime local d'assurance maladie complémentaire obligatoire des départements du Haut-Rhin, du Bas-Rhin et de la Moselle définis à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006742525&dateTexte=&categorieLien=cid' title='Code de la sécurité sociale. - art. L325-1 (M)'>article L. 325-1 du code de la sécurité sociale </a>et à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006071367&idArticle=LEGIARTI000006585998&dateTexte=&categorieLien=cid' title='Code rural et de la pêche maritime - art. L761-3 (V)'>article L. 761-3 du code rural et de la pêche maritime</a>, doit être adaptée par les employeurs pour tenir compte du niveau des garanties assuré par ce régime local. Les garanties mentionnées en annexe 1 devront donc être adaptées pour les salariés affiliés aux régimes précités et déterminées après déduction des prestations servies par le régime local pour conserver l'uniformité des garanties du régime. »</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Régime Alsace-Moselle",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000022672261",
+                    "textTitle": "Création d'un régime conventionnel de rembourse... - art. 5 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "5",
+                    "articleId": "KALIARTI000043929997",
+                    "natureText": "Accord",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2009-12-03",
+                    "dateDebutCible": "2021-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043925692",
+                "num": "4",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000043925692",
+                "content": "<p align='left'><br/>Le présent avenant est conclu pour une durée indéterminée. Il entrera en vigueur à l'issue du délai prévu par les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901688&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-6 (M)'>articles L. 2232-6 et suivants du code du travail</a> pour l'exercice du droit d'opposition des organisations syndicales représentatives au niveau de la branche non-signataires du présent accord et au plus tôt au 1er janvier 2021.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Durée et entrée en vigueur",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000043925694",
+                "num": "5",
+                "intOrdre": 3145722,
+                "id": "KALIARTI000043925694",
+                "content": "<p align='left'><br/>Le présent avenant est établi en vertu des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901660&dateTexte=&categorieLien=cid' title='Code du travail - art. L2221-2 (V)'>dispositions des articles L. 2221-2 et suivants du code du travail</a>.<br/>Il est établi en un nombre suffisant d'exemplaires pour notification à chacune des organisations syndicales représentatives et déposé par la partie la plus diligente auprès du service compétent, dans les conditions prévues à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-6 (V)'>article L. 2231-6 du code du travail</a>.<br/>Les parties signataires conviennent de demander l'extension du présent avenant.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Dépôt et extension",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000043925697",
+                "intOrdre": 3670009,
+                "title": "Annexe",
+                "id": "KALISCTA000043925697",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000043925705",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000043925705",
+                    "content": "<p>Annexe 1<br/>\nTableau des garanties<br/>\nBase + option 1</p><p>(Tableau non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives.)</p><p><a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf/bocc?id=boc_20210014_0000_0024.pdf' target='_blank'> https://www.legifrance.gouv.fr/download/pdf/bocc?id=boc_20210014_0000_0024.pdf</a></p><p>Base + option 2</p><p>(Tableau non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives.)</p><p><a shape='rect' href='https://www.legifrance.gouv.fr/download/pdf/bocc?id=boc_20210014_0000_0024.pdf' target='_blank'> https://www.legifrance.gouv.fr/download/pdf/bocc?id=boc_20210014_0000_0024.pdf</a></p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "KALITEXT000022672261",
+                        "textTitle": "Création d'un régime conventionnel de rembourse... - art. (VNE)",
+                        "linkType": "MODIFIE",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "KALIARTI000043929999",
+                        "natureText": "Accord",
+                        "datePubliTexte": "2999-01-01",
+                        "dateSignaTexte": "2009-12-03",
+                        "dateDebutCible": "2021-01-01"
+                      }
+                    ]
+                  }
+                }
+              ]
             }
           ]
         }
