@@ -1,30 +1,30 @@
 {
   "name": "@socialgouv/kali-data",
-  "version": "2.117.0",
+  "version": "2.124.0",
   "dependencies": {
     "unist-util-find": "1.0.2",
     "unist-util-flat-filter": "1.0.0",
     "unist-util-parents": "1.0.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.14.8",
-    "@babel/preset-env": "7.14.8",
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "7.15.0",
     "@socialgouv/dila-api-client": "1.1.8",
     "@socialgouv/eslint-config-strict": "0.35.0",
     "@types/jest": "26.0.24",
-    "@types/node": "14.17.6",
+    "@types/node": "14.17.9",
     "babel-eslint": "10.1.0",
     "babel-jest": "26.6.3",
-    "dotenv": "^8.6.0",
-    "eslint": "7.29.0",
+    "dotenv": "^10.0.0",
+    "eslint": "7.32.0",
     "eslint-plugin-sort-requires": "2.1.0",
     "esm": "3.2.25",
-    "husky": "6.0.0",
+    "husky": "7.0.1",
     "jest": "26.6.3",
     "npmlog": "5.0.0",
-    "p-pipe": "3.1.0",
+    "p-pipe": "4.0.0",
     "p-queue": "6.6.2",
-    "p-retry": "4.5.0",
+    "p-retry": "4.6.1",
     "prettier": "2.3.2",
     "prompt": "1.1.0",
     "semantic-release": "17.4.4",
@@ -33,7 +33,7 @@
     "unist-util-map": "2.0.1"
   },
   "engines": {
-    "node": ">= v14.17.3"
+    "node": ">= v14.17.5"
   },
   "files": [
     "data",
