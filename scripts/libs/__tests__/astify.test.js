@@ -1,6 +1,10 @@
 import astify, { cleanAst, isValidSection, latestVersionFilter } from "../astify";
 import sampleConvention from "./fixtures/sample.json";
 
+import pPipe from "p-pipe";
+import Queue from "p-queue";
+import retry from "p-retry";
+
 test("should convert structure to AST tree", () => {
   expect(astify(sampleConvention)).toMatchSnapshot();
 });
@@ -71,5 +75,37 @@ describe("isValidSection", () => {
   });
   test("should include section without etat", () => {
     expect(isValidSection({ jurisState: "VIGUEUR" })).toEqual(true);
+  });
+});
+
+describe("HACK(douglasduteil): Secure main script", () => {
+  test("should be pipable", async () => {
+    const pipeline = pPipe(astify);
+    await expect(pipeline(sampleConvention)).resolves.toMatchObject({
+      children: expect.any(Array),
+      data: expect.any(Object),
+      type: "convention collective",
+    });
+  });
+  test("should be queueble", async () => {
+    expect.assertions(1);
+    const queue = new Queue();
+    queue.add(() =>
+      expect(astify(sampleConvention)).toMatchObject({
+        children: expect.any(Array),
+        data: expect.any(Object),
+        type: "convention collective",
+      }),
+    );
+    await queue.onIdle();
+  });
+  test("should be retryable", async () => {
+    await retry(() =>
+      expect(astify(sampleConvention)).toMatchObject({
+        children: expect.any(Array),
+        data: expect.any(Object),
+        type: "convention collective",
+      }),
+    );
   });
 });
