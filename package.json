@@ -40,11 +40,6 @@
     "src"
   ],
   "homepage": "https://github.com/SocialGouv/kali-data",
-  "husky": {
-    "hooks": {
-      "pre-push": "yarn test"
-    }
-  },
   "license": "Apache-2.0",
   "main": "./src/index.js",
   "publishConfig": {
