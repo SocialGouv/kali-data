@@ -1,9 +1,9 @@
-import astify, { cleanAst, isValidSection, latestVersionFilter } from "../astify";
-import sampleConvention from "./fixtures/sample.json";
-
 import pPipe from "p-pipe";
 import Queue from "p-queue";
 import retry from "p-retry";
+
+import astify, { cleanAst, isValidSection, latestVersionFilter } from "../astify";
+import sampleConvention from "./fixtures/sample.json";
 
 test("should convert structure to AST tree", () => {
   expect(astify(sampleConvention)).toMatchSnapshot();
