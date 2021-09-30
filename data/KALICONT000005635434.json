@@ -11217,7 +11217,7 @@
             "cid": "KALITEXT000043226050",
             "title": "Avenant n° 7 du 13 novembre 2020 à l'accord du 10 décembre 1990 relatif à la prévoyance",
             "id": "KALITEXT000043226050",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2021-01-01"
           },
           "children": [
@@ -11228,7 +11228,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000043226053",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -11238,8 +11238,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000043226071",
                     "content": "<p align='left'><br/>Afin de consolider la pérennité du régime de prévoyance de la branche des commerces de détail de papeterie, fournitures de bureau, de bureautique et informatique, le présent avenant a pour objet de réviser les cotisations.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000044112114",
+                        "textTitle": "Arrêté du 17 septembre 2021 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000044112118",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-09-29",
+                        "dateSignaTexte": "2021-09-17",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -11251,10 +11264,23 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000043226054",
-                "content": "<p align='left'>À compter du 1er janvier 2021, les cotisations sont modifiées comme suit :</p><p align='left'></p><center><table border='1'><tbody><tr><th>Prestations</th><th colspan='2'>Salariés non affiliés à l'AGIRC</th></tr><tr><td></td><td align='center'>Tranche A</td><td align='center'>Tranche B</td></tr><tr><td align='left'>Capital décès/IAD</td><td align='center'>0,150 %</td><td align='center'>0,150 %</td></tr><tr><td align='left'>Rente éducation</td><td align='center'>0,035 %</td><td align='center'>0,035 %</td></tr><tr><td align='left'>Incapacité</td><td align='center'>0,450 %</td><td align='center'>0,450 %</td></tr><tr><td align='left'>Invalidité</td><td align='center'>0,265 %</td><td align='center'>0,265 %</td></tr><tr><td align='left'>Total</td><td align='center'>0,90 %</td><td align='center'>0,90 %</td></tr></tbody></table></center><p></p><p align='left'></p><center><table border='1'><tbody><tr><th>Prestations</th><th colspan='2'>Salariés affiliés à l'AGIRC</th></tr><tr><td></td><td align='center'>Tranche A</td><td align='center'>Tranche B</td></tr><tr><td align='left'>Capital décès/IAD</td><td align='center'>0,710 %</td><td align='center'>–</td></tr><tr><td align='left'>Rente éducation</td><td align='center'>0,190 %</td><td align='center'>–</td></tr><tr><td align='left'>Incapacité</td><td align='center'>0,630 %</td><td align='center'>0,910 %</td></tr><tr><td align='left'>Invalidité</td><td align='center'>0,320 %</td><td align='center'>0,390 %</td></tr><tr><td align='left'>Total</td><td align='center'>1,850 %</td><td align='center'>1,300 %</td></tr></tbody></table></center><p></p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>À compter du 1er janvier 2021, les cotisations sont modifiées comme suit :</p><p align='left'></p><center><table border='1'><tbody><tr><th>Prestations</th><th colspan='2'>Salariés non affiliés à l'AGIRC</th></tr><tr><td></td><td align='center'>Tranche A</td><td align='center'>Tranche B</td></tr><tr><td align='left'>Capital décès/IAD</td><td align='center'>0,150 %</td><td align='center'>0,150 %</td></tr><tr><td align='left'>Rente éducation</td><td align='center'>0,035 %</td><td align='center'>0,035 %</td></tr><tr><td align='left'>Incapacité</td><td align='center'>0,450 %</td><td align='center'>0,450 %</td></tr><tr><td align='left'>Invalidité</td><td align='center'>0,265 %</td><td align='center'>0,265 %</td></tr><tr><td align='left'>Total</td><td align='center'>0,90 %</td><td align='center'>0,90 %</td></tr></tbody></table></center><p></p><p align='left'></p><center><table border='1'><tbody><tr><th>Prestations</th><th colspan='2'>Salariés affiliés à l'AGIRC</th></tr><tr><td></td><td align='center'>Tranche A</td><td align='center'>Tranche B</td></tr><tr><td align='left'>Capital décès/IAD</td><td align='center'>0,710 %</td><td align='center'>–</td></tr><tr><td align='left'>Rente éducation</td><td align='center'>0,190 %</td><td align='center'>–</td></tr><tr><td align='left'>Incapacité</td><td align='center'>0,630 %</td><td align='center'>0,910 %</td></tr><tr><td align='left'>Invalidité</td><td align='center'>0,320 %</td><td align='center'>0,390 %</td></tr><tr><td align='left'>Total</td><td align='center'>1,850 %</td><td align='center'>1,300 %</td></tr></tbody></table></center><p></p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000043226054_1'></a>(1) Article étendu sous réserve de l'application des stipulations de l'accord national interprofessionnel du 17 novembre 2017 instituant le régime AGIRC-ARRCO de retraite complémentaire et de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres.  <br/>(Arrêté du 17 septembre 2021 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Cotisations",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044112114",
+                    "textTitle": "Arrêté du 17 septembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044112118",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-09-29",
+                    "dateSignaTexte": "2021-09-17",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -11264,10 +11290,23 @@
                 "num": "2",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000043226055",
-                "content": "<p align='left'>Ce présent avenant s'applique à toutes les entreprises entrant dans le champ d'application de la convention collective nationale des commerces de détail de papeterie, fournitures de bureau, bureautique et informatique quel que soit leur effectif.</p><p align='left'>La branche est très majoritairement composée d'entreprises dont l'effectif est inférieur à 50 salariés et le thème de négociation du présent avenant ne peut donner lieu à des stipulations différentes selon l'effectif de l'entreprise.</p><p align='left'>Aussi, dans le cadre la demande d'extension et conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>dispositions de l'article L. 2261-23-1 du code du travail</a>, les parties signataires indiquent expressément que l'objet du présent avenant ne justifie pas de mesure spécifique pour les entreprises de moins de 50 salariés.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Ce présent avenant s'applique à toutes les entreprises entrant dans le champ d'application de la convention collective nationale des commerces de détail de papeterie, fournitures de bureau, bureautique et informatique quel que soit leur effectif.</p><p align='left'>La branche est très majoritairement composée d'entreprises dont l'effectif est inférieur à 50 salariés et le thème de négociation du présent avenant ne peut donner lieu à des stipulations différentes selon l'effectif de l'entreprise.</p><p align='left'>Aussi, dans le cadre la demande d'extension et conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-23-1 du code du travail</a>, les parties signataires indiquent expressément que l'objet du présent avenant ne justifie pas de mesure spécifique pour les entreprises de moins de 50 salariés.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Entreprises de moins de 50 salariés",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044112114",
+                    "textTitle": "Arrêté du 17 septembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044112118",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-09-29",
+                    "dateSignaTexte": "2021-09-17",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -11277,10 +11316,23 @@
                 "num": "3",
                 "intOrdre": 2097148,
                 "id": "KALIARTI000043226057",
-                "content": "<p align='left'>Les parties signataires conviennent de demander, sans délai, l'extension du présent avenant.</p><p align='left'>Il sera établi un nombre suffisant d'exemplaires pour être remis à chacune des parties signataires et effectuer les formalités prévues à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-6 (V)'>article L. 2231-6 du code du travail</a>.</p><p align='left'>À l'expiration du délai d'opposition prévu à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901677&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-8 (V)'>article L. 2231-8 du code du travail</a>, le présent avenant fera l'objet d'une procédure de dépôt.</p><p align='left'>Il fera ensuite l'objet de la procédure d'extension conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-15 (VD)'>dispositions de l'article L. 2261-15 du code du travail</a>.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Les parties signataires conviennent de demander, sans délai, l'extension du présent avenant. </p><p align='left'><i>Il sera établi un nombre suffisant d'exemplaires pour être remis à chacune des parties signataires et effectuer les formalités prévues à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>article L. 2231-6 du code du travail</a>.</i> <a shape='rect' href='#RENVOI_KALIARTI000043226057_1'> (1)</a></p><p align='left'>À l'expiration du délai d'opposition prévu à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901677&dateTexte=&categorieLien=cid'>article L. 2231-8 du code du travail</a>, le présent avenant fera l'objet d'une procédure de dépôt. </p><p align='left'>Il fera ensuite l'objet de la procédure d'extension conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-15 du code du travail</a>.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000043226057_1'></a>(1) Alinéa étendu sous réserve du respect des dispositions de l'article L. 2231-5 du code du travail.  <br/>(Arrêté du 17 septembre 2021 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dépôt et extension",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044112114",
+                    "textTitle": "Arrêté du 17 septembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044112118",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-09-29",
+                    "dateSignaTexte": "2021-09-17",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -11290,10 +11342,23 @@
                 "num": "4",
                 "intOrdre": 2621435,
                 "id": "KALIARTI000043226061",
-                "content": "<p align='left'>Le présent avenant est conclu pour une durée indéterminée. Il fait partie intégrante de la convention collective ; il pourra donc faire l'objet d'une révision conformément aux dispositions de la convention collective à la demande de l'une ou de l'autre des parties signataires.</p><p align='left'>La révision pourra prendre effet dans les conditions visées aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901667&dateTexte=&categorieLien=cid' title='Code du travail - art. L2222-5 (V)'>L. 2222-5</a> ; <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-7 (V)'>L. 2261-7</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901786&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-8 (V)'>L. 2261-8</a> du code du travail.</p><p align='left'>Il pourra également être dénoncé par l'une des parties signataires moyennant le respect d'un préavis de 3 mois.</p><p align='left'>Les modalités de dénonciation sont fixées aux articles L. 2222-6, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-9 (V)'>L. 2261-9</a>, L. 2261-10, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901789&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-11 (V)'>L. 2261-11</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901791&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-13 (M)'>L. 2261-13</a>, L. 2261-14 du code du travail. Toutefois, les nouvelles négociations devront être engagées dans les 3 mois suivant la signification de la dénonciation.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'><i>Le présent avenant est conclu pour une durée indéterminée. Il fait partie intégrante de la convention collective ; il pourra donc faire l'objet d'une révision conformément aux dispositions de la convention collective à la demande de l'une ou de l'autre des parties signataires.</i> <a shape='rect' href='#RENVOI_KALIARTI000043226061_1'> (1)</a></p><p align='left'>La révision pourra prendre effet dans les conditions visées aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901667&dateTexte=&categorieLien=cid' title='Code du travail - art. L2222-5 (V)'>L. 2222-5 </a>; <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-7 (V)'>L. 2261-7 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901786&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-8 (V)'>L. 2261-8 </a>du code du travail. </p><p align='left'>Il pourra également être dénoncé par l'une des parties signataires moyennant le respect d'un préavis de 3 mois. </p><p align='left'>Les modalités de dénonciation sont fixées aux articles L. 2222-6, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-9 (V)'>L. 2261-9</a>, L. 2261-10, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901789&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-11 (V)'>L. 2261-11</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901791&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-13 (M)'>L. 2261-13</a>, L. 2261-14 du code du travail. Toutefois, les nouvelles négociations devront être engagées dans les 3 mois suivant la signification de la dénonciation.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000043226061_1'></a>(1) Alinéa étendu sous réserve du respect des dispositions de l'article L. 2261-7 du code du travail.  <br/>(Arrêté du 17 septembre 2021 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Révision et dénonciation",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044112114",
+                    "textTitle": "Arrêté du 17 septembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044112118",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-09-29",
+                    "dateSignaTexte": "2021-09-17",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
