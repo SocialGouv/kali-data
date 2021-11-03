@@ -2413,22 +2413,22 @@
                     "cid": "KALIARTI000039179319",
                     "num": "1.3",
                     "intOrdre": 1572861,
-                    "id": "KALIARTI000039179319",
-                    "content": "<p align='left'>La commission permanente paritaire nationale est composée des représentants des organisations syndicales d'employeurs et de salariés représentatives entrant dans le champ d'application de la présente convention.</p><p align='left'>La commission permanente paritaire nationale se réunit dans les conditions prévues par la loi et autant de fois que nécessaire. La date et l'ordre du jour de la réunion sont fixés d'un commun accord entre les parties.</p><p align='left'>À l'initiative de la commission permanente paritaire nationale, des groupes de travail paritaires peuvent être créés pour l'examen de problèmes particuliers. Ces groupes de travail ne disposent d'aucun pouvoir de négociation ou de décision.</p><p align='left'>La commission permanente paritaire nationale peut s'ériger en commission paritaire d'interprétation et de conciliation afin d'examiner des réclamations collectives découlant de l'application ou de l'interprétation d'une ou plusieurs dispositions de la présente convention. Cette commission est alors présidée par un représentant du ministère des transports.</p><p align='left'>Lorsqu'une ou plusieurs des parties liées par la présente convention désire soumettre une question à la commission nationale d'interprétation et de conciliation, elle en avise le représentant du ministère des transports par lettre recommandée avec avis de réception.</p><p align='left'>La commission nationale d'interprétation et de conciliation doit se réunir dans le délai de 1 mois à compter de la date de saisine. Elle a seule qualité pour préciser le sens et la portée des dispositions concernées.</p><p align='left'>Sont notamment précisées par voie d'accord de branche, les attributions, la composition, le fonctionnement de ces commissions.</p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "surtitre": "Commission permanente paritaire nationale",
+                    "id": "KALIARTI000044281463",
+                    "content": "<p align='left'>Les missions de la commission permanente paritaire sont dévolues à la CPPNI telle que définie dans le cadre de l'avenant n° 69 du 8 juillet 2021 relatif à la modernisation du dialogue social dans la branche des déchets.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "surtitre": "CPPNI",
                     "lstLienModification": [
                       {
-                        "textCid": "JORFTEXT000043115207",
-                        "textTitle": "Arrêté du 5 février 2021 - art. 1, v. init.",
-                        "linkType": "ETEND",
+                        "textCid": "KALITEXT000044253633",
+                        "textTitle": "Dialogue social et CPPNI - art. 6 (VNE)",
+                        "linkType": "MODIFIE",
                         "linkOrientation": "cible",
-                        "articleNum": "1",
-                        "articleId": "JORFARTI000043115209",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2021-02-11",
-                        "dateSignaTexte": "2021-02-05",
-                        "dateDebutCible": "2999-01-01"
+                        "articleNum": "6",
+                        "articleId": "KALIARTI000044253664",
+                        "natureText": "Avenant",
+                        "datePubliTexte": "2021-10-27",
+                        "dateSignaTexte": "2021-07-08",
+                        "dateDebutCible": "2021-09-01"
                       }
                     ]
                   }
@@ -18681,6 +18681,392 @@
                   }
                 }
               ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000044253633",
+            "title": "Avenant n° 69 du 8 juillet 2021 relatif à la modernisation du dialogue social et à la création de la CPPNI",
+            "id": "KALITEXT000044253633",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2021-09-01"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000044253636",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000044253636",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000044253677",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000044253677",
+                    "content": "<p align='left'>Les partenaires sociaux de la branche des activités du déchet se sont réunis pour réaliser un bilan de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000033625532&categorieLien=cid' title='Négociation de branche (VE)'>avenant n° 55</a> relatif à la négociation de branche dans les activités du déchet, entré en vigueur le 1er septembre 2016 pour 5 ans, et rédiger un nouvel accord adaptant les modalités du dialogue social dans la branche et créant une commission paritaire permanente de négociation et d'interprétation (CPPNI), telle que mise en place par la <a href='/affichTexte.do?cidTexte=JORFTEXT000032983213&categorieLien=cid' title='LOI n°2016-1088 du 8 août 2016 (V)'>loi n° 2016-1088 du 8 août 2016 </a>et modifiée par la <a href='/affichTexte.do?cidTexte=JORFTEXT000037367660&categorieLien=cid' title='LOI n°2018-771 du 5 septembre 2018 (V)'>loi n° 2018-771 du 5 septembre 2018</a>.</p><p align='left'>L'objectif est d'adapter les modalités de la négociation collective à l'évolution du dialogue social en faisant évoluer la CPPN en CPPNI et en conférant à la négociation collective de branche plus de souplesse en lui permettant de s'adapter aux situations particulières tout en reprenant les principes fondamentaux contenus dans l'accord initial.</p><p align='left'>L'objectif est également de réviser les dispositions de l'article 1.3 de la convention collective des activités du déchet relatif à la commission d'interprétation afin de confier cette mission à la CPPNI nouvellement créée.</p><p align='left'>La volonté des parties a également été de substituer les dispositions de ce nouvel accord à toutes les dispositions incompatibles ou contraires de la convention collective ou de ses avenants afin de régler tout conflit de normes éventuel.</p><p align='left'>Conscients des enjeux à venir pour l'ensemble des métiers du déchet, les partenaires sociaux ont souhaité discuter des conditions d'un dialogue social de qualité afin de maintenir le dynamisme de la négociation collective, garant de la pérennité de la branche.</p><p align='left'>Les métiers du déchet sont fortement porteurs de sens puisque le secteur est au cœur des enjeux de développement durable et de l'économie circulaire, faisant partie des axes du plan de relance 2020 et l'objet d'un contrat stratégique de filière.</p><p align='left'>En effet les entreprises du secteur couvrent l'ensemble de la chaîne de valeur et sont amenées à collecter et valoriser par traitement, recyclage et stockage tous les types de déchets (déchets ménagers et assimilables, biodéchets, déchets industriels et agricoles non dangereux et dangereux). Le secteur des activités du déchet est caractérisé par des contraintes réglementaires fortes en matière de droit de l'environnement et de normes techniques, et par des changements de prestataires réguliers dans le cadre des marchés publics.</p><p align='left'>La branche des activités du déchet et ses métiers, de par les évolutions réglementaires, techniques, technologiques, économiques, sociales, sociétales, énergétiques, numériques, sont en profonde évolution.</p><p align='left'>Pour anticiper tous ces enjeux et mettre tous les acteurs du secteur en mouvement, les parties signataires partagent donc la conviction que la branche constitue l'espace pertinent de coconstruction positive entre les partenaires sociaux et de négociation d'une politique sociale responsable et de régulation de la concurrence par la détermination d'un socle protecteur de garanties sociales au sein du secteur.</p><p align='left'>Elles considèrent que la négociation de branche participe à structurer le secteur des activités du déchet par la définition et la mise à jour des classifications, des salaires minimaux hiérarchiques conventionnels, la formation, la prévoyance, la politique de prévention des risques professionnels dans la branche, et assurer l'égalité professionnelle entre les femmes et les hommes.</p><p align='left'>Au regard de la complexité des thématiques abordées et des évolutions législatives et réglementaires, ces moments d'échanges sont aussi l'occasion, en amont des négociations, de se tenir au courant de l'actualité juridique, de mutualiser et partager réciproquement les bonnes pratiques et les perspectives et enjeux économiques, sociaux, sociétaux, environnementaux des entreprises du secteur pour anticiper les besoins et impulser, via la politique de branche, de nouvelles dynamiques pour construire et renforcer l'avenir de la branche.</p><p align='left'>Par le présent accord, les parties signataires souhaitent se donner les moyens de construire un dialogue social de branche responsable et permanent, fondé sur une relation de loyauté et de confiance mutuelle entre les partenaires sociaux pleinement impliqués.</p><p align='left'>Un dialogue social responsable est en effet celui où chacun des représentants, totalement investi de sa mission, est pleinement et constamment conscient des intérêts des personnes et du secteur économique qu'il représente et des enjeux de développement durable pour les générations actuelles mais également futures.</p><p align='left'>Un dialogue social permanent est également celui qui permet la poursuite des échanges formels ou informels, malgré les désaccords qui peuvent s'exprimer à l'occasion de négociations.</p><p align='left'>Afin de permettre aux partenaires sociaux de la branche de mener à bien leurs missions dans des conditions de confiance réciproque, le présent accord définit les attributions, la composition, le fonctionnement des instances paritaires sociales, et organise le maintien de rémunération des représentants syndicaux qui y participent.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": []
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253637",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000044253637",
+                "content": "<p align='left'>Les parties signataires considèrent que tous les salariés de la branche doivent être couverts par cet accord, quelle que soit la taille de leur entreprise.</p><p align='left'>Aussi, le présent accord s'applique sans réserve à l'ensemble des entreprises qui relèvent du champ d'application défini par l'article 1.1 de la convention collective nationale des activités du déchet, quelle que soit leur taille. Aussi, le présent accord ne comporte pas de disposition spécifique pour les entreprises de moins de 50 salariés.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Champ d'application et mesures spécifiques aux entreprises de moins de 50 salariés",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253638",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000044253638",
+                "content": "<p align='left'><br/>Afin d'assurer l'interface avec le secrétariat du SNAD dans le cadre de l'organisation des réunions des instances paritaires sociales, le collège salarié désigne annuellement un secrétaire, par roulement entre chaque organisation syndicale de salariés représentative au niveau de la branche.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Désignation d'un secrétaire du collège salarié",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253639",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000044253639",
+                "content": "<p align='left'>Compte tenu de l'évolution de notre environnement très rapide notamment au travers de l'essor des moyens d'information et de communication digitaux et des nouvelles méthodes de travail mises en œuvre pour permettre la poursuite du dialogue social en période de crise sanitaire depuis 1 an, les parties s'accordent pour indiquer qu'un des enjeux du dialogue social de branche est de s'adapter et d'organiser des réunions à distance afin de maintenir un dialogue social dans le cadre de situations particulières comme les crises sanitaires, les aléas climatiques – catastrophes naturelles, les grèves de transport.</p><p align='left'>Les parties rappellent la nécessité, même à distance, de garantir la confidentialité des échanges et l'identité des négociateurs.</p><p align='left'>Ainsi, les parties s'entendent sur la nécessité de privilégier les réunions en présentiel et lorsqu'elles se tiendront sous forme de visio-conférence, avec branchement de la caméra.</p><p align='left'>Dans des cas exceptionnels, et sous réserve de l'accord de l'ensemble des participants à la réunion, les membres invités pourront participer à la réunion par audioconférence.</p><p align='left'>Les réunions concernées par cette organisation à distance sont celles de la commission paritaire permanente de négociation et d'interprétation (CPPNI), ainsi que les réunions préparatoires des commissions paritaires.</p><p align='left'>Les réunions seront organisées à distance sur proposition du secrétariat de la branche en concertation avec l'ensemble des représentants du collège salarié mandatés pour signer, chaque fois que cela est nécessaire lorsque le contexte sanitaire, climatique ou social (exemple : grèves nationales limitant les déplacements pour la tenue des réunions) ne permet pas de se réunir en présentiel, sans fixer de limite annuelle.</p><p align='left'>Afin de pouvoir assurer la signature de l'ensemble des parties exprimant leur volonté de signer des accords de branche et procéder dans les plus brefs délais aux formalités de dépôt, le secrétariat de la branche se réserve la possibilité de proposer la signature électronique des accords lorsque les réunions de négociation ne sont pas en présentiel, ou en cas d'empêchement d'un des signataires.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Modalités de fonctionnement des instances paritaires de la branche lors de contextes particuliers",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253640",
+                "num": "4",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000044253640",
+                "content": "",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Commission paritaire permanente de négociation et d'interprétation (CPPNI)",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253641",
+                "num": "4.1",
+                "intOrdre": 3145722,
+                "id": "KALIARTI000044253641",
+                "content": "",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Attributions",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253642",
+                "num": "4.1.1",
+                "intOrdre": 3670009,
+                "id": "KALIARTI000044253642",
+                "content": "<p align='left'>La commission paritaire permanente de négociation et d'interprétation, telle que prévue à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901694&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-9 (M)'>article L. 2232-9 du code du travail</a>, constitue l'instance de négociation des dispositions conventionnelles applicables aux salariés de la branche, et de veille en matière d'emploi, de conditions de travail et d'activité conventionnelle dans les entreprises de la branche. La commission représente la branche, notamment vis-à-vis des pouvoirs publics.</p><p align='left'>Elle se réunit notamment pour la négociation et de la conclusion d'accords de branche soumis à l'extension sur tous les thèmes entrant dans les missions générales de la branche ou pertinents pour celle-ci (mentionnées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901665&dateTexte=&categorieLien=cid' title='Code du travail - art. L2222-3 (M)'>article L. 2222-3 du code du travail</a>).</p><p align='left'>La CPPNI a également un rôle de veille sur les conditions de travail et d'emploi.</p><p align='left'>Sur demande du secrétariat du SNAD et en fonction des sujets intéressant les deux commissions, la CPPNI peut se réunir en commission mixte avec la CPNEFP pour toutes les négociations ayant des impacts en matière de formation. Dans ce cas, les règles applicables, notamment concernant la prise en charge des frais de déplacements des négociateurs seront celles applicables à la CPPNI (et ce, même pour les membres de la CPNEFP).</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Rôle dans la négociation des dispositions conventionnelles de branche",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253645",
+                "num": "4.1.2",
+                "intOrdre": 4194296,
+                "id": "KALIARTI000044253645",
+                "content": "<p align='left'>Toute demande d'interprétation d'une disposition de la convention ou d'un accord collectif de branche relève de la compétence de la CPPNI.</p><p align='left'>La demande d'interprétation est portée à la connaissance du secrétariat du SNAD par lettre recommandée avec avis de réception.</p><p align='left'>Le secrétariat du SNAD avise l'ensemble des représentants patronaux et syndicaux siégeant à la CPPNI de cette saisine. Le secrétariat du SNAD et le secrétaire du collège salarié examinent conjointement, préalablement à toute saisine de la CPPNI, la recevabilité de la demande d'interprétation, après avoir recueilli l'avis des représentants patronaux et syndicaux de la CPPNI.</p><p align='left'>Pour être recevable, la demande doit solliciter l'interprétation d'une disposition équivoque de la convention collective ou de ses avenants. Elle ne peut, sous couvert d'interprétation, modifier, ajouter ou conduire à une révision du texte.</p><p align='left'>La décision de soumettre la demande à la CPPNI est prise conjointement par le secrétaire du SNAD et l'ensemble des représentants du collège salarié mandatés pour signer. En cas de décision conjointe favorable de recevabilité, formalisée par une réponse positive adressée au demandeur dans le délai d'1 mois à compter de sa demande, une réunion de la CPPNI est organisée dans le mois qui suit.</p><p align='left'>En cas de décision négative conjointe, la CPPNI ne sera pas réunie. La décision de refus de soumettre la demande à la CPPNI devra être motivée.</p><p align='left'>La décision de refus de soumettre la demande à la CPPNI ne pourra pas faire l'objet de recours et seuls les tribunaux seront compétents pour apprécier la demande.</p><p align='left'>Les décisions de la CPPNI donnent lieu à l'établissement d'un procès-verbal qui lie le juge en cas de contentieux.</p><p align='left'>Le procès-verbal, adopté à la majorité telle que prévue par les articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901688&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-6 (M)'>L. 2232-6</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901692&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-7 (M)'>L. 2232-7</a> du code du travail, vaut avenant interprétatif de la convention collective nationale. L'avenant interprétatif n'ajoute, ni ne retranche à la disposition litigieuse, donc ne la modifie pas. Il s'applique avec effet rétroactif à la date d'entrée en vigueur de la disposition qu'il interprète.</p><p align='left'>À défaut d'avenant interprétatif, les membres de la CPPNI peuvent émettre un avis interprétatif de la disposition litigieuse. Cet avis est adopté à la majorité simple des voix exprimées par le collège employeurs et par les organisations syndicales représentatives de salariés signataires ou adhérentes à la convention ou à l'accord comportant la disposition litigieuse.</p><p align='left'>À ce titre, chacune de ces organisations syndicales représentatives de salariés signataires ou adhérentes dispose d'une voix. Le collège employeurs dispose d'un nombre de voix égal au nombre de voix de l'ensemble de ces organisations syndicales de salariés représentatives signataires ou adhérentes.</p><p align='left'>Les parties conviennent de retenir la commune intention des parties et l'esprit du texte comme principe d'interprétation.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Rôle dans le cadre de l'interprétation des dispositions conventionnelles",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253648",
+                "num": "4.1.3",
+                "intOrdre": 4718583,
+                "id": "KALIARTI000044253648",
+                "content": "<p align='left'>En cas de litige entre un employeur et un salarié de la branche relatif à l'application de la convention collective de branche, qui n'aurait pas pu être résolu au niveau de l'entreprise, l'un ou l'autre peut saisir la CPPNI d'une demande de conciliation. Les parties conviennent que les litiges doivent concerner collectivement tout ou partie des salariés et concerner l'application d'une disposition de la convention collective.</p><p align='left'>La demande de conciliation est portée à la connaissance du secrétariat du SNAD par lettre recommandée avec avis de réception. Elle est accompagnée de l'objet de la demande, de sa justification et des pièces nécessaires à son examen.</p><p align='left'>Le secrétariat du SNAD avise l'ensemble des représentants patronaux et syndicaux siégeant à la CPPNI de cette saisine, en vue de soumettre la demande à la CPPNI.</p><p align='left'>La CPPNI fixe une date à laquelle sera assurée sa mission de conciliation, au plus tard 1 mois après sa saisine. Elle convoque par lettre recommandée avec avis de réception chacune des parties, en précisant les lieux, jour et heure de la conciliation. Une copie de la saisine de la CPPNI est transmise au défendeur en annexe de cette convocation.</p><p align='left'>Lors de la tentative de conciliation tenue devant la CPPNI, les parties peuvent être assistées de la personne de leur choix.</p><p align='left'>La non-comparution de la partie qui a saisi la CPPNI vaut renonciation à sa demande.</p><p align='left'>À l'issue de la tentative de conciliation, si une conciliation intervient, les engagements des parties sont consignés immédiatement au sein d'un procès-verbal de conciliation, qui doit être signé par chacune des parties et par les représentants de la CPPNI. Un exemplaire est remis à chacune des parties, et conservé par le secrétariat de la CPPNI afin de pouvoir être consulté par ses membres.</p><p align='left'>En cas d'échec de la conciliation, un procès-verbal de non-conciliation, reprenant les positions respectives des parties, est rédigé par la CPPNI en sa formation de conciliation. Ce procès-verbal est notifié à chacune des parties par lettre recommandée avec avis de réception, dans le mois suivant la tentative de conciliation.</p><p align='left'>Les procès-verbaux de conciliation ou de non-conciliation sont conservés par le secrétariat de la CPPNI, et demeurent à la disposition des membres de la CPPNI.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Rôle de conciliation",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253649",
+                "num": "4.1.4",
+                "intOrdre": 5242870,
+                "id": "KALIARTI000044253649",
+                "content": "<p align='left'>La CPPNI a un rôle d'observation et d'analyse des risques liés aux activités du déchet.</p><p align='left'>Dans cet objectif, elle est chargée :<br/>\n– d'obtenir des données statistiques fiables sur les accidents du travail auprès de la CNAMTS ;<br/>\n– d'analyser ces données et, sur la base de ces résultats, d'engager des actions communes dans le domaine de la sécurité auprès de tout organisme regroupant des donneurs d'ordres ou leur représentant ;<br/>\n– de rechercher la coopération avec les pouvoirs publics et avec des organismes de prévention pour obtenir leur soutien afin de mener à bien des actions spécifiques ;<br/>\n– de recueillir et de diffuser la documentation.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Rôle en tant qu'observatoire de l'article 6.13 de la CCNAD",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253650",
+                "num": "4.2",
+                "intOrdre": 5767157,
+                "id": "KALIARTI000044253650",
+                "content": "<p align='left'>Le secrétariat de la CPPNI est assuré par le secrétariat du SNAD.</p><p align='left'>La commission paritaire permanente de négociation et d'interprétation est composée de :<br/>\n– trois sièges par organisation syndicale de salariés représentative pour le collège salarié ;<br/>\n– un nombre égal de représentants pour le collège employeur désignés par les organisations patronales représentatives dans la branche.</p><p align='left'>Chaque fédération nationale des organisations syndicales de salariés représentatives au niveau de la branche désigne par lettre recommandée avec avis de réception, les représentants amenés à siéger à la commission paritaire permanente de négociation, et parmi eux, le représentant mandaté pour signer valablement les accords collectifs et les procès-verbaux. La désignation comporte, le nom, l'adresse postale et électronique de chaque représentant, la raison sociale de l'employeur et l'adresse de l'établissement où le représentant est employé. Pour mener à bien leurs missions au sein de la branche, les représentants choisis pour siéger aux réunions de la commission sont sélectionnés, dans la mesure du possible, en fonction de leurs connaissances relatives aux métiers du déchet et aux thèmes de négociation abordés.</p><p align='left'>Tout changement de désignation est porté à la connaissance du secrétariat du SNAD par lettre recommandée avec avis de réception, émanant de la fédération nationale.</p><p align='left'>Chaque collège veille à assurer une continuité dans la participation aux réunions de la commission.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Composition de la CPPNI",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253651",
+                "num": "4.3",
+                "intOrdre": 6291444,
+                "id": "KALIARTI000044253651",
+                "content": "",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Fonctionnement",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253652",
+                "num": "4.3.1",
+                "intOrdre": 6815731,
+                "id": "KALIARTI000044253652",
+                "content": "<p align='left'>La commission se réunit en fin d'année ou en début d'année suivante pour définir paritairement :<br/>\n– les thèmes de négociation qui seront abordés au cours de l'année à venir, en cohérence avec les obligations inscrites au chapitre Ier du titre IV du livre II de la 2e partie du code du travail ;<br/>\n– le nombre de réunions consacrées à chaque thème de négociation et l'opportunité de désigner un ou plusieurs groupes de travail ;<br/>\n– le calendrier prévisionnel des réunions à raison d'au moins six par an. Conformément aux articles 6.13 et 6.14 de la CCNAD, la CPPNI se réunit une fois par an pour échanger paritairement sur les sujets santé-sécurité, prévention des risques professionnels et à l'amélioration efficace et durable des conditions de travail en tant qu'observatoire.</p><p align='left'>Avant la réunion d'ouverture, le secrétaire du collège salarié adresse au secrétariat du SNAD, les thèmes de négociation que le collège salarié souhaite aborder au cours de l'année à venir.</p><p align='left'>Dans le même temps, le collège employeur adresse au secrétaire du collège salarié les thèmes de négociation qu'il souhaite aborder au cours de l'année à venir.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Calendrier prévisionnel",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253654",
+                "num": "4.3.2",
+                "intOrdre": 7340018,
+                "id": "KALIARTI000044253654",
+                "content": "<p align='left'>L'ordre du jour de chaque réunion est fixé par le secrétariat de la commission en cohérence avec le calendrier prévisionnel de l'année.</p><p align='left'>À l'initiative du secrétariat de la CPPNI, des personnes extérieures peuvent participer aux réunions, avec l'accord des représentants du collège salarié mandatés pour signer, afin d'apporter un éclairage sur les sujets en négociation.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Ordre du jour des réunions",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253655",
+                "num": "4.3.3",
+                "intOrdre": 7864305,
+                "id": "KALIARTI000044253655",
+                "content": "<p align='left'><br/>La convocation, l'ordre du jour, les documents et éléments préparatoires, et le relevé de positions de la précédente réunion sont adressés par voie électronique aux représentants dûment désignés, dans un délai d'au moins 8 jours avant chaque réunion.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Délais de convocation",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253656",
+                "num": "4.3.4",
+                "intOrdre": 8388592,
+                "id": "KALIARTI000044253656",
+                "content": "<p align='left'>Les représentants dûment désignés du collège salarié, se réunissent au besoin, en présentiel ou sous forme de visio-conférence la veille de chaque commission à laquelle ils ont été choisis pour siéger.</p><p align='left'>Lorsque les circonstances ne leur permettent pas de se réunir la veille de la commission, les représentants du collège salarié peuvent avancer la tenue de la réunion préparatoire à un autre jour.</p><p align='left'>Si la réunion est prévue en présentiel, une salle de réunion est mise à leur disposition par le SNAD, dans la mesure du possible. Dans le cas contraire, une visio-conférence est organisée par le SNAD.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Réunions préparatoires",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253657",
+                "num": "4.3.5",
+                "intOrdre": 8912879,
+                "id": "KALIARTI000044253657",
+                "content": "<p align='left'>Au terme des réunions de négociation sur un thème, un relevé résumant les positions de chaque collège est établi et validé par le secrétaire.</p><p align='left'>En cas de besoin, un relevé de position est établi à l'issue d'une réunion intermédiaire sans attendre la réunion de synthèse.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Déroulement des réunions en présentiel ou sous forme de visio-conférence.",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253658",
+                "num": "4.3.6",
+                "intOrdre": 9437166,
+                "id": "KALIARTI000044253658",
+                "content": "<p align='left'>Chaque année, la CPPNI établit un rapport d'activité retraçant :<br/>\n– les accords collectifs de branche négociés ;<br/>\n– les thèmes de négociation débattus ;<br/>\n– les accords collectifs d'entreprise sur la durée du travail, le repos quotidien, les jours fériés, les congés et le compte épargne-temps ;<br/>\n– l'analyse des accords collectifs d'entreprise susmentionnés, en particulier sur l'impact de ces accords sur les conditions de travail des salariés et sur la concurrence entre les entreprises de la branche ;<br/>\n– les procès-verbaux rendus sur saisine de la commission d'interprétation.</p><p align='left'>Le rapport annuel devra également comporter un bilan de l'action de la branche en faveur de l'égalité professionnelle entre les femmes et les hommes, notamment en matière de classifications, de promotion de la mixité des emplois et d'établissement des certificats de qualification professionnelle, des données chiffrées sur la répartition et la nature des postes entre les femmes et les hommes ainsi qu'un bilan des outils mis à disposition des entreprises pour prévenir et agir contre le harcèlement sexuel et les agissements sexistes.</p><p align='left'>Les entreprises de la branche, ayant négocié un accord en leur sein, sont invitées, en plus de leurs formalités légales de dépôt à effectuer sur la plateforme en ligne, à transmettre leurs accords signés, au secrétariat de la CPPNI, via l'adresse suivante : contact@snad.social.</p><p align='left'>Il est précisé par les parties, que ce rapport annuel ne sera effectué que si la CPPNI dispose d'un nombre significatif d'accords collectifs afin d'obtenir un panel représentatif.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Rapport annuel d'activité",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253659",
+                "num": "4.4",
+                "intOrdre": 9961453,
+                "id": "KALIARTI000044253659",
+                "content": "",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Rémunération des représentants",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253660",
+                "num": "4.4.1",
+                "intOrdre": 10485740,
+                "id": "KALIARTI000044253660",
+                "content": "<p align='left'>L'employeur du représentant de l'organisation syndicale lui accorde une autorisation d'absence pour se rendre et participer aux réunions préparatoires et à la commission paritaire permanente de négociation, sans perte de rémunération.</p><p align='left'>À l'issue de chaque réunion, le secrétariat du SNAD remet une attestation de présence au représentant pour lui permettre de bénéficier du maintien de sa rémunération.</p><p align='left'>Dans le cas où les réunions ont lieu en visio-conférence, un relevé des participants en visio-conférence est effectué par le secrétariat du SNAD et transmis à l'employeur.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Maintien de la rémunération",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253661",
+                "num": "4.4.2",
+                "intOrdre": 11010027,
+                "id": "KALIARTI000044253661",
+                "content": "<p align='left'>Les frais de transport occasionnés par la participation aux réunions de la commission sont pris en charge par le SNAD, sur la base des frais réels et sur fourniture des justificatifs, dans les conditions suivantes :<br/>\n– prise en charge du train sur la base du tarif de 2e classe ;<br/>\n– prise en charge de l'avion lorsque le trajet en train est supérieur à 3 heures sous réserve que le tarif soit moins élevé que celui d'une place de train en 2e classe ;<br/>\n– prise en charge des frais réels de véhicule sur la base du barème kilométrique lorsque le trajet ou une partie du trajet n'est pas desservi par les transports en commun.</p><p align='left'>Les frais de restauration sont pris en charge par le SNAD :<br/>\n– sur la base de l'indemnité forfaitaire de petit déplacement par déjeuner, d'une part ;<br/>\n– sur la base des frais réels et sur fourniture des justificatifs, dans la limite de 35 € par dîner, pour les frais supplémentaires nécessités par l'éloignement géographique au sens de la réglementation relative aux grands déplacements, d'autre part. La réservation et la prise en charge de l'hébergement nécessité par l'éloignement géographique (hors Île-de-France) sont assurées par le SNAD, et comprennent la chambre d'hôtel et le petit-déjeuner.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Frais de transport, de repas et d'hébergement",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253662",
+                "num": "4.4.3",
+                "intOrdre": 11534314,
+                "id": "KALIARTI000044253662",
+                "content": "<p align='left'><br/>Les salariés mis à disposition sont couverts par leur employeur en cas d'accident survenant à l'occasion de la participation à une réunion préparatoire ou à une commission paritaire permanente de négociation.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Couverture accidents de trajet",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253663",
+                "num": "5",
+                "intOrdre": 12058601,
+                "id": "KALIARTI000044253663",
+                "content": "<p align='left'>Les parties reconnaissent que l'exercice d'une responsabilité syndicale ou élective constitue pour chaque salarié une étape valorisante dans leur parcours professionnel à accompagner au moment de la prise de mandat, pendant et en fin de mandat et tiennent à réaffirmer leur volonté de combattre toute forme de discrimination à l'encontre des représentants du personnel dans leur contribution au dialogue social au sein des entreprises de la branche.</p><p align='left'>Les entreprises de la branche sont invitées à prendre en compte l'expérience des représentants syndicaux pour leur permettre, s'ils le souhaitent, de reconnaître et valoriser leurs compétences acquises en tant que négociateurs en branche.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Modalités de prise en compte du parcours syndical dans la carrière des représentants des organisations syndicales de salariés représentatives dans la branche",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253664",
+                "num": "6",
+                "intOrdre": 12582888,
+                "id": "KALIARTI000044253664",
+                "content": "<p align='left'>L'article 1.3 de la convention collective nationale des activités du déchet est modifié pour être ainsi rédigé :</p><p align='center'>« Article 1.3<br/>\nCPPNI</p><p align='left'>Les missions de la commission permanente paritaire sont dévolues à la CPPNI telle que définie dans le cadre de l'avenant n° 69 du 8 juillet 2021 relatif à la modernisation du dialogue social dans la branche des déchets. »</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Modification d'un article de la CCNAD",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000039179294",
+                    "textTitle": "Convention collective nationale des activités d... - art. 1.3 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "1.3",
+                    "articleId": "KALIARTI000044281463",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2019-04-16",
+                    "dateDebutCible": "2021-09-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253666",
+                "num": "7",
+                "intOrdre": 13107175,
+                "id": "KALIARTI000044253666",
+                "content": "<p align='left'>Le présent accord est annexé à la convention collective.</p><p align='left'>Il est conclu pour une durée indéterminée et entrera en vigueur au 1er septembre 2021.</p><p align='left'>Il donnera lieu à un bilan au terme de ses 2 premières années d'application, à l'issue duquel ses modalités pourront être adaptées.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Durée",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253667",
+                "num": "8",
+                "intOrdre": 13631462,
+                "id": "KALIARTI000044253667",
+                "content": "<p align='left'>Sans préjudice du <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901788&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-10 (V)'>dernier alinéa de l'article L. 2261-10 du code du travail</a>, le présent accord peut être dénoncé, à tout moment, par les parties signataires en respectant le délai de préavis de 3 mois visé à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-9 (V)'>article L. 2261-9 du code du travail</a>. La dénonciation se fait dans les conditions prévues par les dispositions législatives et réglementaires.</p><p align='left'>Le présent accord vaut avenant à la CCNAD et peut être révisé, à tout moment pendant sa période d'application, par accord collectif conclu sous la même forme.</p><p align='left'>Les organisations syndicales de salariés et professionnelles d'employeurs habilitées à engager la procédure de révision sont déterminées conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-7 (V)'>dispositions de l'article L. 2261-7 du code du travail</a>.</p><p align='left'>La demande de révision sera adressée par une organisation représentative de salarié dans la branche ou par les organisations patronales représentatives. À la demande d'engagement de la procédure de révision sont jointes les modifications que son auteur souhaite voir apportées au présent accord. Toute demande de révision doit être portée à la connaissance des autres parties signataires par lettre recommandée avec avis de réception et être accompagnée de propositions écrites.</p><p align='left'>Les conditions de validité de l'avenant de révision obéissent aux conditions posées par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901688&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-6 (M)'>article L. 2232-6 du code du travail</a>.</p><p align='left'>Les organisations syndicales représentatives sont réunies au plus tard, dans un délai de 3 mois après la date de réception de la demande de révision, pour débuter les négociations.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Dénonciation – Révision",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044253672",
+                "num": "9",
+                "intOrdre": 14155749,
+                "id": "KALIARTI000044253672",
+                "content": "<p align='left'>Le présent accord sera, conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901674&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-5 (V)'>dispositions de l'article L. 2231-5 du code du travail</a>, notifié aux organisations syndicales représentatives.</p><p align='left'>Il fera l'objet d'un dépôt auprès des services centraux du ministre chargé du travail et auprès du secrétariat-greffe du conseil de prud'hommes de Paris dans les conditions définies par les articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901676&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-7 (Ab)'>L. 2231-7</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-2 (V)'>D. 2231-2</a> du code du travail. Il fera également l'objet d'une demande d'extension dans les conditions fixées par les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901802&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-24 (V)'>articles L. 2261-24 et suivants du code du travail</a>.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Dépôt, publicité et extension",
+                "lstLienModification": []
+              }
             }
           ]
         }
