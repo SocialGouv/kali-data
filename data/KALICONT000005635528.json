@@ -26963,7 +26963,7 @@
             "cid": "KALITEXT000042319492",
             "title": "Accord du 5 juin 2020 relatif à la collecte des contributions au fonds HDS",
             "id": "KALITEXT000042319492",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2020-07-01"
           },
           "children": [
@@ -26973,9 +26973,22 @@
                 "cid": "KALIARTI000042319495",
                 "intOrdre": 524287,
                 "id": "KALIARTI000042319495",
-                "content": "<p align='left'>Vu le code du travail ;</p><p align='left'>Vu le code de la sécurité sociale ;</p><p align='left'>Vu la convention collective nationale étendue de la pharmacie d'officine du 3 décembre 1997 ;</p><p align='left'>Vu l'<a href='/affichIDCC.do?cidTexte=KALITEXT000036543518&categorieLien=cid' title='Recommandation de l'APGIS  (VE)'>accord collectif national du 2 octobre 2017</a> étendu portant recommandation de l'APGIS pour l'assurance des régimes décès, incapacité de travail, invalidité, maternité-paternité et des régimes frais de soins de santé des salariés de la pharmacie d'officine et instituant des garanties collectives présentant un degré élevé de solidarité, modifié en dernier lieu par avenant du 5 juin 2020,</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'>Vu le code du travail ;</p><p align='left'>Vu le code de la sécurité sociale ;</p><p align='left'>Vu la convention collective nationale étendue de la pharmacie d'officine du 3 décembre 1997 ;</p><p align='left'>Vu l'<a href='/affichIDCC.do?cidTexte=KALITEXT000036543518&categorieLien=cid'>accord collectif national du 2 octobre 2017</a> étendu portant recommandation de l'APGIS pour l'assurance des régimes décès, incapacité de travail, invalidité, maternité-paternité et des régimes frais de soins de santé des salariés de la pharmacie d'officine et instituant des garanties collectives présentant un degré élevé de solidarité, modifié en dernier lieu par avenant du 5 juin 2020,</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044327953",
+                    "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044327956",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-11-16",
+                    "dateSignaTexte": "2021-11-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -26985,7 +26998,7 @@
                 "intOrdre": 1048574,
                 "title": "Préambule",
                 "id": "KALISCTA000042319499",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -26995,8 +27008,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000042319500",
                     "content": "<p align='left'>Les partenaires sociaux de la pharmacie d'officine ont souhaité optimiser les modalités de recouvrement des contributions dues au titre du fonds HDS de la pharmacie d'officine, institué par l'accord collectif national étendu du 2 octobre 2017 susvisé, en autorisant l'APGIS, organisme gestionnaire de ce fonds, à mandater, le cas échéant, tout autre organisme pour collecter ces contributions en son nom et pour son compte.</p><p align='left'>À cet effet, les parties signataires sont convenues de ce qui suit.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000044327953",
+                        "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000044327956",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-11-16",
+                        "dateSignaTexte": "2021-11-10",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -27008,9 +27034,22 @@
                 "num": "1er",
                 "intOrdre": 1074266110,
                 "id": "KALIARTI000042319501",
-                "content": "<p align='left'>Étant rappelé qu'aux termes de l'accord collectif national susvisé, toutes les entreprises relevant du champ d'application de la convention collective nationale susvisée sont tenues de cotiser au fonds HDS de la pharmacie d'officine, les parties signataires s'accordent pour que le versement de leurs cotisations puisse s'effectuer soit directement auprès de l'APGIS, gestionnaire désigné de ce fonds par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000036543518&categorieLien=cid' title='Recommandation de l'APGIS  (VE)'>accord collectif national du 2 octobre 2017 </a>étendu précité, soit auprès de tout autre collecteur expressément mandaté à cet effet par ce gestionnaire. </p><p align='left'>Conformément à l'accord collectif national susvisé, la convention de mandat conclue à cet effet doit, sous peine de nullité, être soumise par l'organisme gestionnaire à l'accord préalable de la CPPNI de la pharmacie d'officine qui se détermine conformément aux dispositions de l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000005671152&idArticle=KALIARTI000005829430&categorieLien=cid' title='Convention collective nationale du 3 décembre 1997 - art. 30 (VE)'>article 30</a> « Commission paritaire permanente de négociation et d'interprétation » des dispositions générales de la convention collective nationale susvisée.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'>Étant rappelé qu'aux termes de l'accord collectif national susvisé, toutes les entreprises relevant du champ d'application de la convention collective nationale susvisée sont tenues de cotiser au fonds HDS de la pharmacie d'officine, les parties signataires s'accordent pour que le versement de leurs cotisations puisse s'effectuer soit directement auprès de l'APGIS, gestionnaire désigné de ce fonds par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000036543518&categorieLien=cid'>accord collectif national du 2 octobre 2017 </a>étendu précité, soit auprès de tout autre collecteur expressément mandaté à cet effet par ce gestionnaire. </p><p align='left'>Conformément à l'accord collectif national susvisé, la convention de mandat conclue à cet effet doit, sous peine de nullité, être soumise par l'organisme gestionnaire à l'accord préalable de la CPPNI de la pharmacie d'officine qui se détermine conformément aux dispositions de l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000005671152&idArticle=KALIARTI000005829430&categorieLien=cid'>article 30</a> « Commission paritaire permanente de négociation et d'interprétation » des dispositions générales de la convention collective nationale susvisée.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044327953",
+                    "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044327956",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-11-16",
+                    "dateSignaTexte": "2021-11-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -27020,9 +27059,22 @@
                 "num": "2",
                 "intOrdre": 1610874878,
                 "id": "KALIARTI000042319503",
-                "content": "<p align='left'>Le présent accord prend effet à compter du 1er juillet 2020 et prendra fin, au plus tard, au terme de la durée maximale de 5 ans mentionnée à l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000036543518&idArticle=KALIARTI000036543539&categorieLien=cid' title='Recommandation de l'APGIS  - art. 4 (VE)'>article 4</a> de l'accord collectif national du 2 octobre 2017 étendu susvisé.</p><p align='left'>Le présent accord sera déposé et fera l'objet d'une demande d'extension à l'initiative de la partie la plus diligente. Il pourra être révisé ou dénoncé selon les modalités prévues aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-7 (V)'>articles L. 2261-7 et suivants du code du travail</a>.</p><p align='left'>En application des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901774&dateTexte=&categorieLien=cid' title='Code du travail - art. L2253-1 (M)'>dispositions de l'article L. 2253-1 du code du travail</a>, les parties signataires rappellent que les accords d'entreprise ne peuvent comporter de clauses dérogeant à celles du présent accord, à moins de dispositions plus favorables ou de garanties au moins équivalentes.</p><p align='left'>La branche professionnelle de la pharmacie d'officine étant composée à 99,90 % d'officines de pharmacie de moins de 50 salariés, les dispositions du présent accord ont été rédigées en considération des spécificités de ces entreprises (source DARES, fiche statistique de branche 2016). Par voie de conséquence, l'adoption des stipulations mentionnées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-10-1 (M)'>article L. 2232-10-1 du code du travail </a>ne se justifie pas.</p><p align='left'>Conformément à la faculté qui leur est offerte par la circulaire ministérielle du 23 mai 2011 relative aux dates communes d'entrée en vigueur des normes concernant les entreprises, les parties signataires s'accordent pour demander l'application la plus rapide possible de l'arrêté d'extension du présent accord.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'>Le présent accord prend effet à compter du 1er juillet 2020 et prendra fin, au plus tard, au terme de la durée maximale de 5 ans mentionnée à l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000036543518&idArticle=KALIARTI000036543539&categorieLien=cid'>article 4</a> de l'accord collectif national du 2 octobre 2017 étendu susvisé.</p><p align='left'>Le présent accord sera déposé et fera l'objet d'une demande d'extension à l'initiative de la partie la plus diligente. Il pourra être révisé ou dénoncé selon les modalités prévues aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid'>articles L. 2261-7 et suivants du code du travail</a>.</p><p align='left'>En application des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901774&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2253-1 du code du travail</a>, les parties signataires rappellent que les accords d'entreprise ne peuvent comporter de clauses dérogeant à celles du présent accord, à moins de dispositions plus favorables ou de garanties au moins équivalentes.</p><p align='left'>La branche professionnelle de la pharmacie d'officine étant composée à 99,90 % d'officines de pharmacie de moins de 50 salariés, les dispositions du présent accord ont été rédigées en considération des spécificités de ces entreprises (source DARES, fiche statistique de branche 2016). Par voie de conséquence, l'adoption des stipulations mentionnées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid'>article L. 2232-10-1 du code du travail </a>ne se justifie pas.</p><p align='left'>Conformément à la faculté qui leur est offerte par la circulaire ministérielle du 23 mai 2011 relative aux dates communes d'entrée en vigueur des normes concernant les entreprises, les parties signataires s'accordent pour demander l'application la plus rapide possible de l'arrêté d'extension du présent accord.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044327953",
+                    "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044327956",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-11-16",
+                    "dateSignaTexte": "2021-11-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
