@@ -13189,7 +13189,7 @@
             "cid": "KALITEXT000044065617",
             "title": "Avenant n° 3 du 9 mars 2021 à l'accord du 13 novembre 1992 relatif à la classification des postes",
             "id": "KALITEXT000044065617",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2021-03-09"
           },
           "children": [
@@ -13199,9 +13199,22 @@
                 "cid": "KALIARTI000044065625",
                 "intOrdre": 524287,
                 "id": "KALIARTI000044065625",
-                "content": "<p align='left'>La grille de classification actuellement en vigueur a été mise en place par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000023561423&categorieLien=cid' title='Classifications (VE)'>avenant n° 1 du 2 novembre 2010 </a>et par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000031092066&categorieLien=cid' title='Classification des postes (VE)'>avenant n° 2 du 21 avril 2015 </a>qui portent révision de l'ensemble des dispositions de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000005657166&categorieLien=cid' title='APPLICATION DE L'ACCORD DE CLASSIFICATION SIGNE LE 19 JUIN 1991 DANS LES INDUSTRIES AGRICOLES ET ... (Ab)'>accord du 13 novembre 1992</a> et annulent et remplacent cet accord de classification des emplois du 13 novembre 1992 et ses annexes.</p><p align='left'>Après avoir analysé la grille et les pratiques au sein de la branche, les parties ont fait le constat que le nombre de coefficients prévus dans la classification est trop important et ont décidé en conséquence de supprimer un certain nombre de ces coefficients.</p><p align='left'>Cette suppression a pour objectif de mieux marquer le pas de progression entre deux coefficients.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'>La grille de classification actuellement en vigueur a été mise en place par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000023561423&categorieLien=cid'>avenant n° 1 du 2 novembre 2010 </a>et par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000031092066&categorieLien=cid'>avenant n° 2 du 21 avril 2015 </a>qui portent révision de l'ensemble des dispositions de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000005657166&categorieLien=cid'>accord du 13 novembre 1992</a> et annulent et remplacent cet accord de classification des emplois du 13 novembre 1992 et ses annexes.</p><p align='left'>Après avoir analysé la grille et les pratiques au sein de la branche, les parties ont fait le constat que le nombre de coefficients prévus dans la classification est trop important et ont décidé en conséquence de supprimer un certain nombre de ces coefficients.</p><p align='left'>Cette suppression a pour objectif de mieux marquer le pas de progression entre deux coefficients.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044345683",
+                    "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044345687",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-11-20",
+                    "dateSignaTexte": "2021-11-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -13211,10 +13224,23 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000044065630",
-                "content": "<p align='left'>Les parties ont identifié 9 coefficients au sein de la classification actuellement en vigueur à  supprimer  :</p><p align='left'></p><center><table border='1'><tbody><tr><th>Catégorie</th><th>Coefficient</th></tr><tr><td colspan='2' align='center'>Ouvrier et employé</td></tr><tr><td rowspan='2' align='center'>Ouvrier</td><td align='center'>165</td></tr><tr><td align='center'>185</td></tr><tr><td rowspan='2' align='center'>Employé</td><td align='center'>165</td></tr><tr><td align='center'>185</td></tr><tr><td colspan='2' align='center'>Technicien et agent de maîtrise</td></tr><tr><td rowspan='4' align='center'>Maîtrise</td><td align='center'>215</td></tr><tr><td align='center'>255</td></tr><tr><td align='center'>285</td></tr><tr><td align='center'>325</td></tr><tr><td colspan='2' align='center'>Cadre</td></tr><tr><td align='center'>Cadre</td><td align='center'>455</td></tr></tbody></table></center><p></p><p align='left'>Les parties conviennent donc de supprimer ces coefficients et de modifier en conséquence la grille de classification issue des <a href='/affichIDCC.do?cidTexte=KALITEXT000023561423&categorieLien=cid' title='Classifications (VE)'>avenants n° 1 du 2 novembre 2010</a> et <a href='/affichIDCC.do?cidTexte=KALITEXT000031092066&categorieLien=cid' title='Classification des postes (VE)'>n° 2 du 21 avril 2015</a>.</p><p align='left'>Les autres coefficients de la grille de classification telle qu'issue de ces avenants, non supprimés par le présent avenant, demeurent inchangés et restent applicables.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Les parties ont identifié 9 coefficients au sein de la classification actuellement en vigueur à  supprimer  :</p><p align='left'></p><center><table border='1'><tbody><tr><th>Catégorie</th><th>Coefficient</th></tr><tr><td colspan='2' align='center'>Ouvrier et employé</td></tr><tr><td rowspan='2' align='center'>Ouvrier</td><td align='center'>165</td></tr><tr><td align='center'>185</td></tr><tr><td rowspan='2' align='center'>Employé</td><td align='center'>165</td></tr><tr><td align='center'>185</td></tr><tr><td colspan='2' align='center'>Technicien et agent de maîtrise</td></tr><tr><td rowspan='4' align='center'>Maîtrise</td><td align='center'>215</td></tr><tr><td align='center'>255</td></tr><tr><td align='center'>285</td></tr><tr><td align='center'>325</td></tr><tr><td colspan='2' align='center'>Cadre</td></tr><tr><td align='center'>Cadre</td><td align='center'>455</td></tr></tbody></table></center><p></p><p align='left'>Les parties conviennent donc de supprimer ces coefficients et de modifier en conséquence la grille de classification issue des <a href='/affichIDCC.do?cidTexte=KALITEXT000023561423&categorieLien=cid'>avenants n° 1 du 2 novembre 2010</a> et <a href='/affichIDCC.do?cidTexte=KALITEXT000031092066&categorieLien=cid'>n° 2 du 21 avril 2015</a>.</p><p align='left'>Les autres coefficients de la grille de classification telle qu'issue de ces avenants, non supprimés par le présent avenant, demeurent inchangés et restent applicables.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Objet",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044345683",
+                    "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044345687",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-11-20",
+                    "dateSignaTexte": "2021-11-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -13225,9 +13251,22 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000044065634",
                 "content": "<p align='left'>Le présent avenant s'applique à l'ensemble des entreprises entrant dans le champ d'application de la convention collective de branche des exploitations frigorifiques, y compris les entreprises de moins de 50 salariés. Pour ces dernières entreprises, le présent avenant ne contient pas de dispositions spécifiques que les parties n'estiment pas nécessaires, la grille de classification étant commune à toutes les entreprises de la branche quels que soient leur effectif et les suppressions convenues n'entraînant pas de modalités de mise en œuvre propres aux entreprises de moins de 50 salariés.</p><p align='left'>Les suppressions de coefficients résultant du présent avenant et les conséquences qu'elles impliquent s'appliqueront à tous les salariés des entreprises entrant dans ce champ d'application concernés par ces suppressions, indépendamment de tout motif de discrimination (sexe, origine, âge, handicap etc.) et dans le respect du principe d'égalité de traitement et notamment d'égalité entre les femmes et les hommes.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Champ d'application",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044345683",
+                    "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044345687",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-11-20",
+                    "dateSignaTexte": "2021-11-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -13237,10 +13276,23 @@
                 "num": "3",
                 "intOrdre": 2097148,
                 "id": "KALIARTI000044065635",
-                "content": "<p align='left'>La mise en application du présent avenant sera effective au plus tard le 1er juillet 2021.</p><p align='left'>Elle sera concomitante pour les personnels en place et les nouveaux embauchés.</p><p align='left'>3.1. Les salariés actuellement classés aux coefficients supprimés seront, du fait de cette suppression, classés automatiquement au coefficient supérieur venant juste au-dessus du leur :</p><center><table border='1'><tbody><tr><th>Ancien coefficient</th><th>Nouveau coefficient</th></tr><tr><td align='center'>Ouvrier – coefficient 165</td><td align='center'>Ouvrier – coefficient 175</td></tr><tr><td align='center'>Ouvrier – coefficient 185</td><td align='center'>Ouvrier – coefficient 195</td></tr><tr><td align='center'>Employé – coefficient 165</td><td align='center'>Employé – coefficient 175</td></tr><tr><td align='center'>Employé – coefficient 185</td><td align='center'>Employé – coefficient 195</td></tr><tr><td align='center'>Maîtrise – coefficient 215</td><td align='center'>Maîtrise – coefficient 225</td></tr><tr><td align='center'>Maîtrise – coefficient 255</td><td align='center'>Maîtrise – coefficient 265</td></tr><tr><td align='center'>Maîtrise – coefficient 285</td><td align='center'>Maîtrise – coefficient 295</td></tr><tr><td align='center'>Maîtrise – coefficient 325</td><td align='center'>Maîtrise – coefficient 335</td></tr><tr><td align='center'>Cadre – coefficient 455</td><td align='center'>Cadres – coefficient 505</td></tr></tbody></table></center><p align='left'>À titre d'illustration, cela signifie qu'un salarié actuellement classé au statut ouvrier – coefficient 165 passera automatiquement, du fait de la suppression de son coefficient, au statut ouvrier – coefficient 175.</p><p align='left'>Pour les salariés à emplois multiples visés à l'article 49 de la convention collective, auquel est appliqué le coefficient d'emploi le plus élevé parmi les emplois exercés, dans l'hypothèse où ce coefficient le plus élevé est supprimé, ils seront classés au coefficient supérieur conformément à l'application de la présente règle.</p><p align='left'>3.2. La suppression des coefficients a également un impact au regard des salaires minima conventionnels qui sont déterminés par coefficient. Les employeurs de la branche devront veiller, du fait du passage automatique des salariés dont le coefficient est supprimé au coefficient supérieur, au respect du salaire minimal conventionnel correspondant à ce coefficient supérieur.</p><p align='left'>La grille des salaires minima actuellement en vigueur, définie par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000039196020&categorieLien=cid' title='Salaires pour l'année 2019 (VNE)'>avenant n° 88 du 28 mai 2019</a>, est reproduite en annexe 1 dans sa version actualisée.</p><p align='left'>3.3. De même, la prime d'ancienneté, dont le montant est fixé en fonction du coefficient, est modifiée par la suppression des coefficients. Il est expressément convenu que pour les salariés concernés par la suppression des coefficients et qui seront affectés au coefficient supérieur, il sera appliqué la valeur absolue de la prime d'ancienneté correspondant à leur nouveau coefficient, au plus tard à compter le 1er juillet 2021.</p><p align='left'>La grille des valeurs absolues de la prime d'ancienneté, définie par l'avenant n° 88 du 28 mai 2019, actualisée, est reprise en annexe 2 du présent avenant.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>La mise en application du présent avenant sera effective au plus tard le 1er juillet 2021.</p><p align='left'>Elle sera concomitante pour les personnels en place et les nouveaux embauchés.</p><p align='left'>3.1. Les salariés actuellement classés aux coefficients supprimés seront, du fait de cette suppression, classés automatiquement au coefficient supérieur venant juste au-dessus du leur :</p><center><table border='1'><tbody><tr><th>Ancien coefficient</th><th>Nouveau coefficient</th></tr><tr><td align='center'>Ouvrier – coefficient 165</td><td align='center'>Ouvrier – coefficient 175</td></tr><tr><td align='center'>Ouvrier – coefficient 185</td><td align='center'>Ouvrier – coefficient 195</td></tr><tr><td align='center'>Employé – coefficient 165</td><td align='center'>Employé – coefficient 175</td></tr><tr><td align='center'>Employé – coefficient 185</td><td align='center'>Employé – coefficient 195</td></tr><tr><td align='center'>Maîtrise – coefficient 215</td><td align='center'>Maîtrise – coefficient 225</td></tr><tr><td align='center'>Maîtrise – coefficient 255</td><td align='center'>Maîtrise – coefficient 265</td></tr><tr><td align='center'>Maîtrise – coefficient 285</td><td align='center'>Maîtrise – coefficient 295</td></tr><tr><td align='center'>Maîtrise – coefficient 325</td><td align='center'>Maîtrise – coefficient 335</td></tr><tr><td align='center'>Cadre – coefficient 455</td><td align='center'>Cadres – coefficient 505</td></tr></tbody></table></center><p align='left'>À titre d'illustration, cela signifie qu'un salarié actuellement classé au statut ouvrier – coefficient 165 passera automatiquement, du fait de la suppression de son coefficient, au statut ouvrier – coefficient 175.</p><p align='left'>Pour les salariés à emplois multiples visés à l'article 49 de la convention collective, auquel est appliqué le coefficient d'emploi le plus élevé parmi les emplois exercés, dans l'hypothèse où ce coefficient le plus élevé est supprimé, ils seront classés au coefficient supérieur conformément à l'application de la présente règle.</p><p align='left'>3.2. La suppression des coefficients a également un impact au regard des salaires minima conventionnels qui sont déterminés par coefficient. Les employeurs de la branche devront veiller, du fait du passage automatique des salariés dont le coefficient est supprimé au coefficient supérieur, au respect du salaire minimal conventionnel correspondant à ce coefficient supérieur.</p><p align='left'>La grille des salaires minima actuellement en vigueur, définie par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000039196020&categorieLien=cid'>avenant n° 88 du 28 mai 2019</a>, est reproduite en annexe 1 dans sa version actualisée.</p><p align='left'>3.3. De même, la prime d'ancienneté, dont le montant est fixé en fonction du coefficient, est modifiée par la suppression des coefficients. Il est expressément convenu que pour les salariés concernés par la suppression des coefficients et qui seront affectés au coefficient supérieur, il sera appliqué la valeur absolue de la prime d'ancienneté correspondant à leur nouveau coefficient, au plus tard à compter le 1er juillet 2021.</p><p align='left'>La grille des valeurs absolues de la prime d'ancienneté, définie par l'avenant n° 88 du 28 mai 2019, actualisée, est reprise en annexe 2 du présent avenant.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Mise en œuvre et conséquences des suppressions",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044345683",
+                    "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044345687",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-11-20",
+                    "dateSignaTexte": "2021-11-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -13251,9 +13303,22 @@
                 "intOrdre": 2621435,
                 "id": "KALIARTI000044065638",
                 "content": "<p align='left'>Dans chaque entreprise relevant du champ d'application du présent avenant dotée d'un comité économique et social, l'employeur informera cette instance de cet accord de branche.</p><p align='left'>Chaque salarié d'une entreprise entrant dans le champ d'application du présent avenant et dont le coefficient est supprimé sera informé, par écrit, du nouveau coefficient attribué.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Information du CSE et des salariés concernés",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044345683",
+                    "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044345687",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-11-20",
+                    "dateSignaTexte": "2021-11-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -13264,9 +13329,22 @@
                 "intOrdre": 3145722,
                 "id": "KALIARTI000044065639",
                 "content": "<p align='left'>Le présent avenant entre en vigueur à compter de la date de sa signature.</p><p align='left'>Les parties conviennent que chaque entreprise aura mis en œuvre le présent avenant au plus tard le 1er juillet 2021.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Entrée en vigueur",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044345683",
+                    "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044345687",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-11-20",
+                    "dateSignaTexte": "2021-11-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -13276,10 +13354,23 @@
                 "num": "6",
                 "intOrdre": 3670009,
                 "id": "KALIARTI000044065640",
-                "content": "<p align='left'><br/>Le présent avenant fera l'objet d'un dépôt et d'une demande d'extension, conformément aux dispositions légales. Il a été fait en un nombre suffisant d'exemplaires pour notification à chacune des organisations représentatives dans les conditions prévues à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901674&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-5 (V)'>article L. 2231-5 du code du travail</a>, et dépôt dans les conditions prévues par les articles L. 2231-6 et L. 2231-7 du même code.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'><br/>Le présent avenant fera l'objet d'un dépôt et d'une demande d'extension, conformément aux dispositions légales. Il a été fait en un nombre suffisant d'exemplaires pour notification à chacune des organisations représentatives dans les conditions prévues à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901674&dateTexte=&categorieLien=cid'>article L. 2231-5 du code du travail</a>, et dépôt dans les conditions prévues par les articles L. 2231-6 et L. 2231-7 du même code.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dépôt. Extension",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044345683",
+                    "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044345687",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-11-20",
+                    "dateSignaTexte": "2021-11-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -13289,7 +13380,7 @@
                 "intOrdre": 4194296,
                 "title": "Annexes",
                 "id": "KALISCTA000044065642",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -13298,9 +13389,22 @@
                     "cid": "KALIARTI000044065643",
                     "intOrdre": 524287,
                     "id": "KALIARTI000044065643",
-                    "content": "<p align='center'>Annexe 1<br/>\nGrille des salaires minima actualisée</p><p align='right'>(En euros.)</p><p></p><center><table border='1'><tbody><tr><th>Coefficient</th><th>Salaire horaire minimum</th><th>Salaire mensuel minimum (pour 151,67 heures)</th></tr><tr><td align='center'>125</td><td align='center'>10,08</td><td align='center'>1 528,83</td></tr><tr><td align='center'>135</td><td align='center'>10,12</td><td align='center'>1 535,16</td></tr><tr><td align='center'>145</td><td align='center'>10,17</td><td align='center'>1 542,98</td></tr><tr><td align='center'>155</td><td align='center'>10,22</td><td align='center'>1 550,79</td></tr><tr><td align='center'>175</td><td align='center'>10,43</td><td align='center'>1 581,92</td></tr><tr><td align='center'>195</td><td align='center'>10,84</td><td align='center'>1 644,49</td></tr><tr><td align='center'>205</td><td align='center'>10,97</td><td align='center'>1 664,18</td></tr><tr><td align='center'>225</td><td align='center'>11,08</td><td align='center'>1 680,17</td></tr><tr><td align='center'>235</td><td align='center'>11,57</td><td align='center'>1 754,92</td></tr><tr><td align='center'>245</td><td align='center'>12,05</td><td align='center'>1 828,10</td></tr><tr><td align='center'>265</td><td align='center'>13,30</td><td align='center'>2 017,21</td></tr><tr><td align='center'>275</td><td align='center'>13,51</td><td align='center'>2 049,21</td></tr><tr><td align='center'>295</td><td align='center'>14,50</td><td align='center'>2 198,71</td></tr><tr><td align='center'>305</td><td align='center'>15,02</td><td align='center'>2 278,12</td></tr><tr><td align='center'>315</td><td align='center'>15,54</td><td align='center'>2 357,54</td></tr><tr><td align='center'>335</td><td align='center'>16,50</td><td align='center'>2 502,35</td></tr><tr><td align='center'>345</td><td align='center'>16,97</td><td align='center'>2 573,84</td></tr><tr><td align='center'>355</td><td align='center'>16,99</td><td align='center'>2 576,72</td></tr><tr><td align='center'>405</td><td align='center'>19,37</td><td align='center'>2 937,62</td></tr><tr><td align='center'>505</td><td align='center'>24,23</td><td align='center'>3 674,36</td></tr><tr><td align='center'>555</td><td align='center'>26,65</td><td align='center'>4 041,95</td></tr><tr><td align='center'>605</td><td align='center'>29,06</td><td align='center'>4 407,99</td></tr><tr><td align='center'>655</td><td align='center'>31,50</td><td align='center'>4 777,13</td></tr><tr><td align='center'>705</td><td align='center'>33,92</td><td align='center'>5 144,72</td></tr></tbody></table></center><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "content": "<p align='center'><i>Annexe 1</i> <a shape='rect' href='#RENVOI_KALIARTI000044065643_1'> (1)</a><br/>Grille des salaires minima actualisée </p><p align='right'>(En euros.) </p><p></p><center><table border='1'><tbody><tr><th>Coefficient </th><th>Salaire horaire minimum </th><th>Salaire mensuel minimum (pour 151,67 heures) </th></tr><tr><td align='center'>125 </td><td align='center'>10,08 </td><td align='center'>1 528,83 </td></tr><tr><td align='center'>135 </td><td align='center'>10,12 </td><td align='center'>1 535,16 </td></tr><tr><td align='center'>145 </td><td align='center'>10,17 </td><td align='center'>1 542,98 </td></tr><tr><td align='center'>155 </td><td align='center'>10,22 </td><td align='center'>1 550,79 </td></tr><tr><td align='center'>175 </td><td align='center'>10,43 </td><td align='center'>1 581,92 </td></tr><tr><td align='center'>195 </td><td align='center'>10,84 </td><td align='center'>1 644,49 </td></tr><tr><td align='center'>205 </td><td align='center'>10,97 </td><td align='center'>1 664,18 </td></tr><tr><td align='center'>225 </td><td align='center'>11,08 </td><td align='center'>1 680,17 </td></tr><tr><td align='center'>235 </td><td align='center'>11,57 </td><td align='center'>1 754,92 </td></tr><tr><td align='center'>245 </td><td align='center'>12,05 </td><td align='center'>1 828,10 </td></tr><tr><td align='center'>265 </td><td align='center'>13,30 </td><td align='center'>2 017,21 </td></tr><tr><td align='center'>275 </td><td align='center'>13,51 </td><td align='center'>2 049,21 </td></tr><tr><td align='center'>295 </td><td align='center'>14,50 </td><td align='center'>2 198,71 </td></tr><tr><td align='center'>305 </td><td align='center'>15,02 </td><td align='center'>2 278,12 </td></tr><tr><td align='center'>315 </td><td align='center'>15,54 </td><td align='center'>2 357,54 </td></tr><tr><td align='center'>335 </td><td align='center'>16,50 </td><td align='center'>2 502,35 </td></tr><tr><td align='center'>345 </td><td align='center'>16,97 </td><td align='center'>2 573,84 </td></tr><tr><td align='center'>355 </td><td align='center'>16,99 </td><td align='center'>2 576,72 </td></tr><tr><td align='center'>405 </td><td align='center'>19,37 </td><td align='center'>2 937,62 </td></tr><tr><td align='center'>505 </td><td align='center'>24,23 </td><td align='center'>3 674,36 </td></tr><tr><td align='center'>555 </td><td align='center'>26,65 </td><td align='center'>4 041,95 </td></tr><tr><td align='center'>605 </td><td align='center'>29,06 </td><td align='center'>4 407,99 </td></tr><tr><td align='center'>655 </td><td align='center'>31,50 </td><td align='center'>4 777,13 </td></tr><tr><td align='center'>705 </td><td align='center'>33,92 </td><td align='center'>5 144,72</td></tr></tbody></table></center><p></p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000044065643_1'></a>(1) Annexe étendue sous réserve de l'application des dispositions règlementaires portant fixation du salaire minimum interprofessionnel de croissance.  <br/>(Arrêté du 10 novembre 2021 - art. 1)</em></font></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000044345683",
+                        "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000044345687",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-11-20",
+                        "dateSignaTexte": "2021-11-10",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 },
                 {
@@ -13310,8 +13414,21 @@
                     "intOrdre": 1048574,
                     "id": "KALIARTI000044065644",
                     "content": "<p align='center'>Annexe 2<br/>\nGrille des valeurs absolues de la prime d'ancienneté actualisée</p><p align='right'>(En euros.)</p><p></p><center><table border='1'><tbody><tr><th></th><th colspan='6'>VA</th></tr><tr><th align='center'>Coefficient</th><th align='center'>Après 3 ans d'ancienneté</th><th align='center'>Après 6 ans d'ancienneté</th><th align='center'>Après 9 ans d'ancienneté</th><th align='center'>Après 12 ans d'ancienneté</th><th align='center'>Après 15 ans d'ancienneté</th><th align='center'>Après 20 ans d'ancienneté</th></tr><tr><td align='center'>125</td><td align='center'>0,196</td><td align='center'>0,392</td><td align='center'>0,589</td><td align='center'>0,786</td><td align='center'>0,982</td><td rowspan='17' align='center'>+ 20 € (*)</td></tr><tr><td align='center'>135</td><td align='center'>0,198</td><td align='center'>0,397</td><td align='center'>0,596</td><td align='center'>0,793</td><td align='center'>0,991</td></tr><tr><td align='center'>145</td><td align='center'>0,200</td><td align='center'>0,401</td><td align='center'>0,601</td><td align='center'>0,801</td><td align='center'>1,003</td></tr><tr><td align='center'>155</td><td align='center'>0,202</td><td align='center'>0,406</td><td align='center'>0,608</td><td align='center'>0,812</td><td align='center'>1,014</td></tr><tr><td align='center'>175</td><td align='center'>0,211</td><td align='center'>0,419</td><td align='center'>0,630</td><td align='center'>0,841</td><td align='center'>1,049</td></tr><tr><td align='center'>195</td><td align='center'>0,221</td><td align='center'>0,442</td><td align='center'>0,665</td><td align='center'>0,886</td><td align='center'>1,107</td></tr><tr><td align='center'>205</td><td align='center'>0,226</td><td align='center'>0,453</td><td align='center'>0,682</td><td align='center'>0,908</td><td align='center'>1,133</td></tr><tr><td align='center'>225</td><td align='center'>0,244</td><td align='center'>0,488</td><td align='center'>0,732</td><td align='center'>0,978</td><td align='center'>1,222</td></tr><tr><td align='center'>235</td><td align='center'>0,260</td><td align='center'>0,519</td><td align='center'>0,781</td><td align='center'>1,040</td><td align='center'>1,300</td></tr><tr><td align='center'>245</td><td align='center'>0,272</td><td align='center'>0,542</td><td align='center'>0,814</td><td align='center'>1,085</td><td align='center'>1,355</td></tr><tr><td align='center'>265</td><td align='center'>0,294</td><td align='center'>0,587</td><td align='center'>0,881</td><td align='center'>1,174</td><td align='center'>1,467</td></tr><tr><td align='center'>275</td><td align='center'>0,305</td><td align='center'>0,608</td><td align='center'>0,913</td><td align='center'>1,216</td><td align='center'>1,522</td></tr><tr><td align='center'>295</td><td align='center'>0,326</td><td align='center'>0,653</td><td align='center'>0,980</td><td align='center'>1,306</td><td align='center'>1,633</td></tr><tr><td align='center'>305</td><td align='center'>0,337</td><td align='center'>0,676</td><td align='center'>1,013</td><td align='center'>1,350</td><td align='center'>1,688</td></tr><tr><td align='center'>315</td><td align='center'>0,348</td><td align='center'>0,697</td><td align='center'>1,045</td><td align='center'>1,395</td><td align='center'>1,743</td></tr><tr><td align='center'>335</td><td align='center'>0,372</td><td align='center'>0,740</td><td align='center'>1,113</td><td align='center'>1,484</td><td align='center'>1,854</td></tr><tr><td align='center'>345</td><td align='center'>0,382</td><td align='center'>0,764</td><td align='center'>1,145</td><td align='center'>1,527</td><td align='center'>1,909</td></tr><tr><td colspan='7'>(*) À compter de 20 ans d'ancienneté, un montant de 20 € bruts par mois (151,67 heures à proratiser le cas échéant), s'ajoute à la prime d'ancienneté calculée à l'aide du tableau ci-dessus.<br/>\n\t\t\tLe résultat de cette opération sera arrondi trois chiffres après la virgule. Si le quatrième chiffre après la virgule est supérieur ou égal à 5, il convient d'arrondir au millième supérieur. Sinon, il convient d'arrondir au millième correspondant.<br/>\n\t\t\tEx :<br/>\n\t\t\t– si PA = 27,0958455, elle sera arrondie à 27,096 ;<br/>\n\t\t\t– si PA = 27,710109, elle sera arrondie à 27,710.<br/>\n\t\t\tLa prime d'ancienneté doit figurer à part sur la feuille de paie.</td></tr></tbody></table></center><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000044345683",
+                        "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000044345687",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-11-20",
+                        "dateSignaTexte": "2021-11-10",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]

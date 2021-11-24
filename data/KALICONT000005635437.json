@@ -619,22 +619,33 @@
                 "cid": "KALIARTI000005778071",
                 "num": "14",
                 "intOrdre": 42949,
-                "id": "KALIARTI000005778072",
-                "content": "<p></p>   Les horaires de travail dépendent des modes d'organisation propres à chaque entreprise et des accords signés conformément aux dispositions légales.<p></p><p></p>   Le programme de travail des salariés itinérants est établi de telle sorte qu'il puisse être exécuté normalement en respectant la durée du travail sur laquelle est fixée leur rémunération.<p></p><p></p>   Le programme de travail des salariés itinérants devra tenir compte des aléas résultant des heures d'ouverture des entreprises clientes et de leurs impératifs de fonctionnement.<p></p>",
+                "id": "KALIARTI000044353286",
+                "content": "<p>Les horaires de travail dépendent des modes d'organisation propres à chaque entreprise et des accords signés conformément aux dispositions légales.</p><p>Le programme de travail des salariés itinérants est établi de telle sorte qu'il puisse être exécuté normalement en respectant la durée du travail sur laquelle est fixée leur rémunération.</p><p>Le programme de travail des salariés itinérants devra tenir compte des aléas résultant des heures d'ouverture des entreprises clientes et de leurs impératifs de fonctionnement.</p><p>À partir du 4e mois de leur grossesse, les femmes enceintes bénéficieront d'une réduction de leur durée journalière du travail de 30 minutes jusqu'à la fin du 6e mois et de 1 heure à compter du 7e mois.<br/><p> <br/>\nLa mise en œuvre de cette réduction du temps de travail ne sera assortie d'aucune réduction de la rémunération et sera mise en place en accord avec la hiérarchie.</p>",
                 "etat": "VIGUEUR_ETEN",
-                "historique": "Modifié par Avenant du 11 juillet 2005 art. 10 BO conventions collectives 2005-40 étendu par arrêté du 29 mars 2006 JORF 5 avril 2006.",
                 "lstLienModification": [
                   {
-                    "textCid": "",
-                    "textTitle": "Convention collective nationale 1991-09-01 en vigueur le 1er janvier 1992 étendue par arrêté du 16 janvier 1992 JORF 31 janvier 1992",
-                    "linkType": "CREATION",
-                    "linkOrientation": "source",
+                    "textCid": "KALITEXT000042313322",
+                    "textTitle": "Horaires de travail - art. (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
                     "articleNum": "",
-                    "articleId": "",
-                    "natureText": "",
-                    "datePubliTexte": null,
-                    "dateSignaTexte": null,
-                    "dateDebutCible": null
+                    "articleId": "KALIARTI000042313325",
+                    "natureText": "Accord",
+                    "datePubliTexte": "2020-09-07",
+                    "dateSignaTexte": "2020-06-23",
+                    "dateDebutCible": "2021-11-21"
+                  },
+                  {
+                    "textCid": "JORFTEXT000044345698",
+                    "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044345701",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-11-20",
+                    "dateSignaTexte": "2021-11-10",
+                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -6836,6 +6847,54 @@
                     "datePubliTexte": "2019-07-26",
                     "dateSignaTexte": "2019-07-19",
                     "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000042313322",
+            "title": "Accord du 23 juin 2020 relatif à l'article 14 « Horaires de travail » de la convention",
+            "id": "KALITEXT000042313322",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2021-11-21"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000042313325",
+                "intOrdre": 524287,
+                "id": "KALIARTI000042313325",
+                "content": "<p align='left'><br/>1. À partir du 4e mois de leur grossesse, les femmes enceintes bénéficieront d'une réduction de leur durée journalière du travail de 30 minutes jusqu'à la fin du 6e mois et de 1 heure à compter du 7e mois. <br/>La mise en œuvre de cette réduction du temps de travail ne sera assortie d'aucune réduction de la rémunération et sera mise en place en accord avec la hiérarchie. <br/>2. La date d'application sera au 1er jour suivant la date de l'arrêté d'extension. <br/>3. Les parties signataires considèrent que le contenu du présent accord est adapté aux entreprises de moins de 50 salariés. Elles rappellent à ce titre que la branche de désinfection, désinsectisation, dératisation comprend très majoritairement des entreprises de moins de 50 salariés (99 % des entreprises entre 1 et 49 salariés selon le panorama de branche).</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044345698",
+                    "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044345701",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-11-20",
+                    "dateSignaTexte": "2021-11-10",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000005647053",
+                    "textTitle": "Convention collective nationale du 1 septembre ... - art. 14 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "14",
+                    "articleId": "KALIARTI000044353286",
+                    "natureText": "Convention collective nationale ",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "1991-09-01",
+                    "dateDebutCible": "2021-11-21"
                   }
                 ]
               }
