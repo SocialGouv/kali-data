@@ -9782,7 +9782,7 @@
             "cid": "KALITEXT000044091536",
             "title": "Avenant n° 79 du 15 avril 2021 relatif à la contribution conventionnelle",
             "id": "KALITEXT000044091536",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2021-06-25"
           },
           "children": [
@@ -9793,7 +9793,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000044091539",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -9802,9 +9802,22 @@
                     "cid": "KALIARTI000044091546",
                     "intOrdre": 524287,
                     "id": "KALIARTI000044091546",
-                    "content": "<p align='left'><br/>Le présent avenant a pour objet de mettre en œuvre, pour les entreprises de la branche professionnelle du personnel des cabinets médicaux, les dispositions de la <a href='/affichTexte.do?cidTexte=JORFTEXT000037367660&categorieLien=cid' title='LOI n°2018-771 du 5 septembre 2018 (V)'>loi n° 2018-771 du 5 septembre 2018</a> pour la liberté de choisir son avenir professionnel relatives à la contribution conventionnelle.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "content": "<p align='left'><br/>Le présent avenant a pour objet de mettre en œuvre, pour les entreprises de la branche professionnelle du personnel des cabinets médicaux, les dispositions de la <a href='/affichTexte.do?cidTexte=JORFTEXT000037367660&categorieLien=cid'>loi n° 2018-771 du 5 septembre 2018</a> pour la liberté de choisir son avenir professionnel relatives à la contribution conventionnelle.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000044327847",
+                        "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000044327850",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-11-16",
+                        "dateSignaTexte": "2021-11-10",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -9816,10 +9829,23 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000044091540",
-                "content": "<p align='center'><br/>1.1. Contribution des entreprises</p><p align='left'><br/>En application des dispositions en vigueur du code du travail, les entreprises de la branche du personnel des cabinets médicaux versent, à l'opérateur de compétences désigné, une contribution conventionnelle de formation professionnelle qui est fixée en fonction de la taille de l'entreprise comme suit :<br/>– 0,05 % de la masse salariale brute pour les entreprises de moins de 11 salariés ;<br/>– 0,25 % de la masse salariale brute pour les entreprises de 11 salariés à moins de 50 salariés ;<br/>– 0,45 % de la masse salariale brute pour les entreprises de 50 salariés et plus.<br/>Toutes les entreprises de la branche du personnel des cabinets médicaux sont concernées, quel que soit leur lieu d'implantation sur le territoire national.</p><p align='center'><br/>1.2. Opérateur de compétences désigné et principes de gestion</p><p align='left'><br/>L'organisme désigné pour gérer les contributions conventionnelles des entreprises de la branche du personnel des cabinets médicaux est l'opérateur de compétences des Entreprises de Proximité.<br/>Ces contributions ont pour objet le développement de la formation professionnelle continue. Elles sont mutualisées dès réception au sein de la branche. Elles font l'objet d'un suivi comptable distinct par l'opérateur de compétences.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='center'>1.1. Contribution des entreprises</p><p align='left'>En application des dispositions en vigueur du code du travail, les entreprises de la branche du personnel des cabinets médicaux versent, à l'opérateur de compétences désigné, une contribution conventionnelle de formation professionnelle qui est fixée en fonction de la taille de l'entreprise comme suit :<br/>\n– 0,05 % de la masse salariale brute pour les entreprises de moins de 11 salariés ;<br/>\n– 0,25 % de la masse salariale brute pour les entreprises de 11 salariés à moins de 50 salariés ;<br/>\n– 0,45 % de la masse salariale brute pour les entreprises de 50 salariés et plus.</p><p align='left'>Toutes les entreprises de la branche du personnel des cabinets médicaux sont concernées, quel que soit leur lieu d'implantation sur le territoire national.</p><p align='center'>1.2. Opérateur de compétences désigné et principes de gestion</p><p align='left'>L'organisme désigné pour gérer les contributions conventionnelles des entreprises de la branche du personnel des cabinets médicaux est l'opérateur de compétences des Entreprises de Proximité.</p><p align='left'>Ces contributions ont pour objet le développement de la formation professionnelle continue. Elles sont mutualisées dès réception au sein de la branche. Elles font l'objet d'un suivi comptable distinct par l'opérateur de compétences.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Contribution conventionnelle",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044327847",
+                    "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044327850",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-11-16",
+                    "dateSignaTexte": "2021-11-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -9830,9 +9856,22 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000044091542",
                 "content": "<p align='left'><br/>La branche du personnel des cabinets médicaux étant composée majoritairement de cabinets médicaux de moins de 50 salariés, la situation de ces entreprises est nécessairement prise en compte dans la négociation du présent texte.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Entreprises de moins de 50 salariés",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044327847",
+                    "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044327850",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-11-16",
+                    "dateSignaTexte": "2021-11-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -9842,10 +9881,23 @@
                 "num": "3",
                 "intOrdre": 2097148,
                 "id": "KALIARTI000044091543",
-                "content": "<p align='left'><br/>Les dispositions du présent avenant entreront en vigueur dès lors que l'ensemble des formalités de dépôt auront été accomplies.<br/>Les dispositions relatives à la contribution conventionnelle s'appliquent pour les contributions dues au titre de la masse salariale versée en 2020 ainsi que pour les contributions de l'année 2021.<br/>Les stipulations du présent avenant annulent et remplacent toutes les stipulations précédemment négociées au sein de la branche du personnel des cabinets médicaux, en particulier l'avenant n° 77 signé le 7 juin 2019 étendu le 9 avril 2020, qui traite de la contribution conventionnelle.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Les dispositions du présent avenant entreront en vigueur dès lors que l'ensemble des formalités de dépôt auront été accomplies. </p><p align='left'>Les dispositions relatives à la contribution conventionnelle s'appliquent pour les contributions dues au titre de la masse salariale versée en 2020 ainsi que pour les contributions de l'année 2021. </p><p align='left'>Les stipulations du présent avenant annulent et remplacent toutes les stipulations précédemment négociées au sein de la branche du personnel des cabinets médicaux, en particulier l'<a href='/affichIDCC.do?cidTexte=KALITEXT000039399883&categorieLien=cid'>avenant n° 77 signé le 7 juin 2019</a> étendu le 9 avril 2020, qui traite de la contribution conventionnelle.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Entrée en vigueur. Portée de l'accord",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044327847",
+                    "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044327850",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-11-16",
+                    "dateSignaTexte": "2021-11-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -9855,10 +9907,23 @@
                 "num": "4",
                 "intOrdre": 2621435,
                 "id": "KALIARTI000044091545",
-                "content": "<p align='left'><br/>Le présent avenant sera notifié par la partie la plus diligente des signataires à l'ensemble des organisations représentatives de la branche professionnelle, signataires ou non.<br/>À l'expiration d'un délai de 15 jours suivant la notification, le présent avenant sera déposé par la partie la plus diligente auprès des services du ministre chargé du travail.<br/>Les parties signataires conviennent d'en demander l'extension. La partie la plus diligente procédera à la demande d'extension.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le présent avenant sera notifié par la partie la plus diligente des signataires à l'ensemble des organisations représentatives de la branche professionnelle, signataires ou non.</p><p align='left'>À l'expiration d'un délai de 15 jours suivant la notification, le présent avenant sera déposé par la partie la plus diligente auprès des services du ministre chargé du travail.</p><p align='left'>Les parties signataires conviennent d'en demander l'extension. La partie la plus diligente procédera à la demande d'extension.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Notification. Dépôt. Extension",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044327847",
+                    "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044327850",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-11-16",
+                    "dateSignaTexte": "2021-11-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
@@ -10440,7 +10505,7 @@
                 "num": "3",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000044091553",
-                "content": "<p align='left'><br/>Le présent avenant sera notifié par la partie la plus diligente des signataires à l'ensemble des organisations représentatives de la branche professionnelle, signataires ou non.<br/>À l'expiration d'un délai de 15 jours suivant la notification, le présent avenant sera déposé par la partie la plus diligente auprès des services du ministre chargé du travail.<br/>Les parties signataires conviennent d'en demander l'extension. La partie la plus diligente procédera à la demande d'extension.</p>",
+                "content": "<p align='left'>Le présent avenant sera notifié par la partie la plus diligente des signataires à l'ensemble des organisations représentatives de la branche professionnelle, signataires ou non.</p><p align='left'>À l'expiration d'un délai de 15 jours suivant la notification, le présent avenant sera déposé par la partie la plus diligente auprès des services du ministre chargé du travail.</p><p align='left'>Les parties signataires conviennent d'en demander l'extension. La partie la plus diligente procédera à la demande d'extension.</p>",
                 "etat": "VIGUEUR_NON_ETEN",
                 "lstLienModification": []
               }
@@ -10461,7 +10526,7 @@
                     "cid": "KALIARTI000044091555",
                     "intOrdre": 524287,
                     "id": "KALIARTI000044091555",
-                    "content": "<p><br/>Annexe 1<br/>Grille de correspondance entre les niveaux de positionnement et les salaires minimaux pour 151,67 heures mensuelles au 1er juin 2021</p><p><div align='center'><center><table border='1'><tr><th>Positionnement</th><th>Salaires minimaux mensuels pour 151,67 heures travaillées par mois</th></tr><tr><td align='center'>4</td><td align='center'>1 616 € brut</td></tr><tr><td align='center'>5</td><td align='center'>1 678 € brut</td></tr><tr><td align='center'>6</td><td align='center'>1 746 € brut</td></tr><tr><td align='center'>7</td><td align='center'>1 817 € brut</td></tr><tr><td align='center'>8</td><td align='center'>1 895 € brut</td></tr><tr><td align='center'>9</td><td align='center'>1 996 € brut</td></tr><tr><td align='center'>10</td><td align='center'>2 103 € brut</td></tr><tr><td align='center'>11</td><td align='center'>2 216 € brut</td></tr><tr><td align='center'>12</td><td align='center'>2 343 € brut</td></tr><tr><td align='center'>13</td><td align='center'>2 482 € brut</td></tr><tr><td align='center'>14</td><td align='center'>2 987 € brut</td></tr><tr><td align='center'>15</td><td align='center'>3 556 € brut</td></tr><tr><td align='center'>16</td><td align='center'>4 187 € brut</td></tr></table></center></div></p>",
+                    "content": "<p align='center'>Annexe 1<br/>\nGrille de correspondance entre les niveaux de positionnement et les salaires minimaux pour 151,67 heures mensuelles au 1er juin 2021</p><p></p><center><table border='1'><tbody><tr><th>Positionnement</th><th>Salaires minimaux mensuels pour 151,67 heures travaillées par mois</th></tr><tr><td align='center'>4</td><td align='center'>1 616 € brut</td></tr><tr><td align='center'>5</td><td align='center'>1 678 € brut</td></tr><tr><td align='center'>6</td><td align='center'>1 746 € brut</td></tr><tr><td align='center'>7</td><td align='center'>1 817 € brut</td></tr><tr><td align='center'>8</td><td align='center'>1 895 € brut</td></tr><tr><td align='center'>9</td><td align='center'>1 996 € brut</td></tr><tr><td align='center'>10</td><td align='center'>2 103 € brut</td></tr><tr><td align='center'>11</td><td align='center'>2 216 € brut</td></tr><tr><td align='center'>12</td><td align='center'>2 343 € brut</td></tr><tr><td align='center'>13</td><td align='center'>2 482 € brut</td></tr><tr><td align='center'>14</td><td align='center'>2 987 € brut</td></tr><tr><td align='center'>15</td><td align='center'>3 556 € brut</td></tr><tr><td align='center'>16</td><td align='center'>4 187 € brut</td></tr></tbody></table></center><p></p>",
                     "etat": "VIGUEUR_NON_ETEN",
                     "lstLienModification": []
                   }
