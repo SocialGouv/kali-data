@@ -1,3 +1,10 @@
+# [2.185.0](https://github.com/SocialGouv/kali-data/compare/v2.184.0...v2.185.0) (2021-12-06)
+
+
+### Features
+
+* add CC 3231 ([#221](https://github.com/SocialGouv/kali-data/issues/221)) ([5e305af](https://github.com/SocialGouv/kali-data/commit/5e305af579b0a8eec98faa6eb981932db024e242))
+
 # [2.184.0](https://github.com/SocialGouv/kali-data/compare/v2.183.0...v2.184.0) (2021-12-04)
 
 
