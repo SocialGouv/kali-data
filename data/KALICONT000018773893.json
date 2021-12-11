@@ -6838,7 +6838,7 @@
             "cid": "KALITEXT000044159215",
             "title": "Île-de-France hors Seine-et-Marne Accord du 13 avril 2021 relatif aux œuvres sociales",
             "id": "KALITEXT000044159215",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2021-04-13"
           },
           "children": [
@@ -6849,7 +6849,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000044159217",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -6859,8 +6859,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000044159230",
                     "content": "<p align='left'><br/>Soucieuses d'apporter aux salariés du bâtiment de la région Île-de-France (hors Seine-et-Marne) un service efficient et de qualité en matière d'œuvres sociales, outil fort de fidélisation des salariés et contribuant à la marque employeur de la profession, les organisations professionnelles d'employeurs et les organisations syndicales de salariés représentatives au niveau national décident de l'adosser à une cotisation financée par les employeurs.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000044447765",
+                        "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000044447767",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-12-08",
+                        "dateSignaTexte": "2021-11-10",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -6872,10 +6885,23 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000044159218",
-                "content": "<p align='left'><br/>Le présent accord s'applique en région Île-de-France (hors Seine-et-Marne) aux employeurs relevant respectivement :<br/>– de la convention collective nationale des ouvriers du bâtiment du 8 octobre 1990 applicable dans les entreprises non visées par le <a href='/affichTexte.do?cidTexte=JORFTEXT000000673538&categorieLien=cid' title='Décret n°62-235 du 1 mars 1962 (Ab)'>décret n° 62-235 du 1er mars 1962</a> modifié par le décret n° 7 6-879 du 21 décembre 1976 (c'est-à-dire occupant plus de 10 salariés code IDCC 1597) ;<br/>– de la convention collective nationale des ouvriers du bâtiment du 8 octobre 1990 applicable dans les entreprises visées par le décret n° 62-235 du 1er mars 1962 modifié par le décret n° 76-879 du 21 décembre 1976 (c'est-à-dire occupant jusqu'à 10 salariés code IDCC 1596) ;<br/>– de la convention collective nationale des ETAM du bâtiment du 12 juillet 2006 (code IDCC 2609) ;<br/>– de la convention collective nationale des cadres du bâtiment du 1er juin 2004 (code IDCC 2420),<br/>et à l'ensemble de leurs salariés (ouvriers, ETAM et cadres) dont l'activité relève de l'une des activités énumérées dans le champ d'application de ces conventions collectives.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le présent accord s'applique en région Île-de-France (hors Seine-et-Marne) aux employeurs relevant respectivement :<br/>\n– de la convention collective nationale des ouvriers du bâtiment du 8 octobre 1990 applicable dans les entreprises non visées par le <a href='/affichTexte.do?cidTexte=JORFTEXT000000673538&categorieLien=cid'>décret n° 62-235 du 1er mars 1962</a> modifié par le décret n° 76-879 du 21 décembre 1976 (c'est-à-dire occupant plus de 10 salariés code IDCC 1597) ;<br/>\n– de la convention collective nationale des ouvriers du bâtiment du 8 octobre 1990 applicable dans les entreprises visées par le décret n° 62-235 du 1er mars 1962 modifié par le décret n° 76-879 du 21 décembre 1976 (c'est-à-dire occupant jusqu'à 10 salariés code IDCC 1596) ;<br/>\n– de la convention collective nationale des ETAM du bâtiment du 12 juillet 2006 (code IDCC 2609) ;<br/>\n– de la convention collective nationale des cadres du bâtiment du 1er juin 2004 (code IDCC 2420),<br/>\net à l'ensemble de leurs salariés (ouvriers, ETAM et cadres) dont l'activité relève de l'une des activités énumérées dans le champ d'application de ces conventions collectives.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Champ d'application",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044447765",
+                    "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044447767",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-12-08",
+                    "dateSignaTexte": "2021-11-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -6885,10 +6911,23 @@
                 "num": "2",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000044159223",
-                "content": "<p align='left'><br/>Les ouvriers, les ETAM et les cadres des entreprises définies à l'article 1er du présent accord bénéficient des œuvres sociales instituées par les organisations professionnelles d'employeurs et par les organisations syndicales de salariés représentatives au niveau national.<br/>Dans ce cadre, les entreprises du bâtiment doivent obligatoirement s'affilier à l'association paritaire d'action sociale du bâtiment et des travaux publics (APAS-BTP).<br/>Les entreprises relevant du présent accord versent à l'association précitée une cotisation fixée à 0,40 % de la masse salariale brute.<br/>La gestion des œuvres sociales mentionnées ci-dessus est assurée par une association paritaire de gestion, l'association paritaire d'action sociale du bâtiment et des travaux publics (APAS-BTP).<br/>Les dispositions du présent article ne sont pas applicables aux sociétés coopératives qui adhèrent aux œuvres sociales du mouvement coopératif.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'><i>Les ouvriers, les ETAM et les cadres des entreprises définies à l'article 1er du présent accord bénéficient des œuvres sociales instituées par les organisations professionnelles d'employeurs et par les organisations syndicales de salariés représentatives au niveau national.</i> <a shape='rect' href='#RENVOI_KALIARTI000044159223_1'> (1)</a></p><p align='left'>Dans ce cadre, les entreprises du bâtiment doivent obligatoirement s'affilier à l'association paritaire d'action sociale du bâtiment et des travaux publics (APAS-BTP). </p><p align='left'>Les entreprises relevant du présent accord versent à l'association précitée une cotisation fixée à 0,40 % de la masse salariale brute. </p><p align='left'>La gestion des œuvres sociales mentionnées ci-dessus est assurée par une association paritaire de gestion, l'association paritaire d'action sociale du bâtiment et des travaux publics (APAS-BTP). </p><p align='left'>Les dispositions du présent article ne sont pas applicables aux sociétés coopératives qui adhèrent aux œuvres sociales du mouvement coopératif.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000044159223_1'></a>(1) Alinéa étendu sous réserve du respect des dispositions de la loi n° 2008-789 du 20 août 2008 portant rénovation de la démocratie sociale et réforme du temps de travail.  <br/>(Arrêté du 10 novembre 2021 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Objet de l'accord",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044447765",
+                    "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044447767",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-12-08",
+                    "dateSignaTexte": "2021-11-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -6898,10 +6937,23 @@
                 "num": "3",
                 "intOrdre": 2097148,
                 "id": "KALIARTI000044159224",
-                "content": "<p align='center'><br/>3.1. Durée</p><p align='left'><br/>Le présent accord est conclu pour une durée déterminée jusqu'au 1er décembre 2022.</p><p align='center'><br/>3.2. Révision</p><p align='left'><br/>Le présent accord pourra être révisé dans les conditions prévues aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-7 (V)'>articles L. 2261-7 et suivants du code du travail</a>.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='center'>3.1. Durée</p><p align='left'>Le présent accord est conclu pour une durée déterminée jusqu'au 1er décembre 2022.</p><p align='center'>3.2. Révision</p><p align='left'>Le présent accord pourra être révisé dans les conditions prévues aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid'>articles L. 2261-7 et suivants du code du travail</a>.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Durée. Révision",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044447765",
+                    "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044447767",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-12-08",
+                    "dateSignaTexte": "2021-11-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -6912,9 +6964,22 @@
                 "intOrdre": 2621435,
                 "id": "KALIARTI000044159226",
                 "content": "<p align='left'><br/>Les partenaires sociaux considèrent qu'il n'est pas nécessaire de prévoir de stipulation spécifique pour les entreprises employant moins de 50 salariés.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dispositions relatives aux entreprises occupant moins de 50 salariés",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044447765",
+                    "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044447767",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-12-08",
+                    "dateSignaTexte": "2021-11-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -6925,9 +6990,22 @@
                 "intOrdre": 3145722,
                 "id": "KALIARTI000044159227",
                 "content": "<p align='left'><br/>Le présent accord entrera en vigueur à sa date de signature.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Entrée en vigueur",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044447765",
+                    "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044447767",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-12-08",
+                    "dateSignaTexte": "2021-11-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -6937,10 +7015,23 @@
                 "num": "6",
                 "intOrdre": 3670009,
                 "id": "KALIARTI000044159228",
-                "content": "<p align='left'><br/>Conformément au code du travail, le présent accord sera déposé auprès de la direction générale du travail et remis au secrétariat-greffe du conseil de prud'hommes de Paris.<br/>Les parties signataires en demanderont l'extension au ministre du travail.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Conformément au code du travail, le présent accord sera déposé auprès de la direction générale du travail et remis au secrétariat-greffe du conseil de prud'hommes de Paris.</p><p align='left'>Les parties signataires en demanderont l'extension au ministre du travail.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dépôt et demande d'extension",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044447765",
+                    "textTitle": "Arrêté du 10 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044447767",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-12-08",
+                    "dateSignaTexte": "2021-11-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
@@ -29871,7 +29962,7 @@
             "cid": "KALITEXT000044043565",
             "title": "Nouvelle-Aquitaine Accord du 31 mars 2021 relatif aux salaires au 1er juin 2021",
             "id": "KALITEXT000044043565",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2021-06-01"
           },
           "children": [
@@ -29883,8 +29974,21 @@
                 "intOrdre": 524287,
                 "id": "KALIARTI000044043568",
                 "content": "<p align='left'>En application du titre III de la convention collective nationale des employés, techniciens et agents de maîtrise du bâtiment du 12 juillet 2006, étendue par arrêté ministériel du 5 juin 2007, et de l'accord collectif national du 26 septembre 2007 (IDCC 2609) relatif à la classification des emplois des ETAM du bâtiment, les organisations d'employeurs et de salariés adhérentes aux organisations représentatives au niveau national, se sont réunies afin de déterminer les salaires mensuels minimaux des ETAM du bâtiment de la région Nouvelle-Aquitaine.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044447919",
+                    "textTitle": "Arrêté du 19 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044447925",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-12-08",
+                    "dateSignaTexte": "2021-11-19",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -29895,8 +29999,21 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000044043570",
                 "content": "<p align='left'>Les parties signataires du présent accord prenant en compte l'objectif d'égalité professionnelle entre les femmes et les hommes, ont fixé le barème des salaires minimaux des ETAM du bâtiment comme indiqué dans le tableau ci-après :</p><p align='left'>Pour les entreprises dont l'horaire collectif est de 35 heures par semaine ou 35 heures en moyenne sur l'année, le barème des salaires minimaux des ETAM du bâtiment pour tous les départements de la Nouvelle-Aquitaine.</p><p align='center'>Barème applicable à compter du 1er juin 2021</p><p align='left'></p><center><table border='1'><tbody><tr><td align='center'>Niveau A</td><td align='center'>1 578,73 €</td></tr><tr><td align='center'>Niveau B</td><td align='center'>1 659,28 €</td></tr><tr><td align='center'>Niveau C</td><td align='center'>1 768,13 €</td></tr><tr><td align='center'>Niveau D</td><td align='center'>1 874,65 €</td></tr><tr><td align='center'>Niveau E</td><td align='center'>2 107,74 €</td></tr><tr><td align='center'>Niveau F</td><td align='center'>2 408,68 €</td></tr><tr><td align='center'>Niveau G</td><td align='center'>2 697,78 €</td></tr><tr><td align='center'>Niveau H</td><td align='center'>3 042,01 €</td></tr></tbody></table></center><p></p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044447919",
+                    "textTitle": "Arrêté du 19 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044447925",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-12-08",
+                    "dateSignaTexte": "2021-11-19",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -29906,9 +30023,22 @@
                 "num": "3",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000044043571",
-                "content": "<p align='left'><br/>Conformément aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-6 (V)'>L. 2231-6</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-2 (V)'>D. 2231-2</a> du code du travail, le présent accord sera adressé à la direction générale du travail (DGT), dépôt des accords collectifs à Paris 15e et un exemplaire sera remis au secrétariat-greffe du conseil de prud'hommes de Bordeaux.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'><br/>Conformément aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>L. 2231-6</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid'>D. 2231-2</a> du code du travail, le présent accord sera adressé à la direction générale du travail (DGT), dépôt des accords collectifs à Paris 15e et un exemplaire sera remis au secrétariat-greffe du conseil de prud'hommes de Bordeaux.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044447919",
+                    "textTitle": "Arrêté du 19 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044447925",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-12-08",
+                    "dateSignaTexte": "2021-11-19",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -29919,8 +30049,21 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000044043574",
                 "content": "<p align='left'><br/>Les parties signataires demandent l'extension du présent accord au ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044447919",
+                    "textTitle": "Arrêté du 19 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044447925",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-12-08",
+                    "dateSignaTexte": "2021-11-19",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
@@ -30339,7 +30482,7 @@
             "cid": "KALITEXT000044226065",
             "title": "Nouvelle-Aquitaine Avenant n° 1 du 10 juin 2021 à l'accord régional du 31 mars 2021 relatif aux salaires pour l'année 2021",
             "id": "KALITEXT000044226065",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2021-06-01"
           },
           "children": [
@@ -30351,8 +30494,21 @@
                 "intOrdre": 524287,
                 "id": "KALIARTI000044226068",
                 "content": "<p align='left'>En application du titre III de la convention collective nationale des employés, techniciens et agents de maîtrise du bâtiment du 12 juillet 2006, étendue par arrêté ministériel du 5 juin 2007, et de l'accord collectif national du 26 septembre 2007 (IDCC 2609) relatif à la classification des emplois des ETAM du bâtiment, les organisations d'employeurs et de salariés adhérentes aux organisations représentatives au niveau national, se sont réunies le 31 mars 2021 pour déterminer les salaires mensuels minimaux des ETAM du bâtiment de la région Nouvelle-Aquitaine.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044447919",
+                    "textTitle": "Arrêté du 19 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044447925",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-12-08",
+                    "dateSignaTexte": "2021-11-19",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -30362,9 +30518,22 @@
                 "num": "2",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000044226070",
-                "content": "<p align='left'><br/>Les parties signataires sont convenues du barème des salaires minimaux des ETAM du bâtiment tel que figurant dans l'<a href='/affichIDCC.do?cidTexte=KALITEXT000044043565&categorieLien=cid' title='Nouvelle-Aquitaine Salaires au 1er juin 2021 (VNE)'>accord du 31 mars 2021</a> joint au présent avenant.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'><br/>Les parties signataires sont convenues du barème des salaires minimaux des ETAM du bâtiment tel que figurant dans l'<a href='/affichIDCC.do?cidTexte=KALITEXT000044043565&categorieLien=cid'>accord du 31 mars 2021</a> joint au présent avenant.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044447919",
+                    "textTitle": "Arrêté du 19 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044447925",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-12-08",
+                    "dateSignaTexte": "2021-11-19",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -30374,9 +30543,22 @@
                 "num": "3",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000044226072",
-                "content": "<p align='left'>En complément de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000044043565&categorieLien=cid' title='Nouvelle-Aquitaine Salaires au 1er juin 2021 (VNE)'>accord du 31 mars 2021</a>, les parties signataires s'accordent que compte tenu de la structure des entreprises de la branche, il n'est pas nécessaire de prévoir de stipulation spécifique pour les entreprises de moins de 50 salariés.</p><p align='left'>En conséquence de quoi, les parties signataires réitèrent leur demande d'extension formalisée le 29 avril 2021, relatif à l'accord paritaire régional sur les salaires des ETAM du bâtiment de la région Nouvelle-Aquitaine,</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'>En complément de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000044043565&categorieLien=cid'>accord du 31 mars 2021</a>, les parties signataires s'accordent que compte tenu de la structure des entreprises de la branche, il n'est pas nécessaire de prévoir de stipulation spécifique pour les entreprises de moins de 50 salariés.</p><p align='left'>En conséquence de quoi, les parties signataires réitèrent leur demande d'extension formalisée le 29 avril 2021, relatif à l'accord paritaire régional sur les salaires des ETAM du bâtiment de la région Nouvelle-Aquitaine,</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044447919",
+                    "textTitle": "Arrêté du 19 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044447925",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-12-08",
+                    "dateSignaTexte": "2021-11-19",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -30386,7 +30568,7 @@
                 "intOrdre": 2097148,
                 "title": "Annexe",
                 "id": "KALISCTA000044226074",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -30395,9 +30577,22 @@
                     "cid": "KALIARTI000044226075",
                     "intOrdre": 524287,
                     "id": "KALIARTI000044226075",
-                    "content": "<p align='center'>Annexe<br/>\nAccord régional sur les salaires des ETAM du bâtiment de la région Nouvelle-Aquitaine</p><p>Entre l'(les) organisation(s) professionnelle(s) d'employeur(s) :</p><p>la Fédération française du bâtiment Nouvelle-Aquitaine ;<br/>\nl'Union régionale CAPEB Nouvelle-Aquitaine ;<br/>\nla Fédération régionale des SCOP BTP Nouvelle-Aquitaine,</p><p>d'une part,</p><p>et le(s) syndicat(s) de salariés :</p><p>l'Union syndicale de la CGT construction Nouvelle-Aquitaine ;<br/>\nla CFDT construction bois Nouvelle-Aquitaine ;<br/>\nle syndicat CFTC BATIMAT-TP du bâtiment Nouvelle-Aquitaine ;<br/>\nle syndicat FO construction du BTP ;<br/>\nla CFE-CGC BTP,</p><p>d'autre part,</p><p>Il a été convenu ce qui suit :</p><p align='center'>Article 1er</p><p>En application du titre III de la convention collective nationale des employés, techniciens et agents de maîtrise du bâtiment du 12 juillet 2006, étendue par arrêté ministériel du 5 juin 2007, et de l'accord collectif national du 26 septembre 2007 (IDCC 2609) relatif à la classification des emplois des ETAM du bâtiment, les organisations d'employeurs et de salariés adhérentes aux organisations représentatives au niveau national, se sont réunies afin de déterminer les salaires mensuels minimaux des ETAM du bâtiment de la région Nouvelle-Aquitaine.</p><p align='center'>Article 2</p><p>Les parties signataires du présent accord prenant en compte l'objectif d'égalité professionnelle entre les femmes et les hommes, ont fixé le barème des salaires minimaux des ETAM du bâtiment comme indiqué dans le tableau ci-après :<br/>\npour les entreprises dont l'horaire collectif est de 35 heures par semaine ou 35 heures en moyenne sur l'année, le barème des salaires minimaux des ETAM du bâtiment pour tous les départements de la Nouvelle-Aquitaine</p><p>Barème applicable à compter du 1er juin 2021</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Niveau</th><th>Salaire minimum</th></tr><tr><td align='center'>A</td><td align='center'>1 578,73</td></tr><tr><td align='center'>B</td><td align='center'>1 659,28</td></tr><tr><td align='center'>C</td><td align='center'>1 768,13</td></tr><tr><td align='center'>D</td><td align='center'>1 874,65</td></tr><tr><td align='center'>E</td><td align='center'>2 107,74</td></tr><tr><td align='center'>F</td><td align='center'>2 408,68</td></tr><tr><td align='center'>G</td><td align='center'>2 697,78</td></tr><tr><td align='center'>H</td><td align='center'>3 042,01</td></tr></tbody></table></center><p align='center'>Article 3</p><p>Conformément aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-6 (V)'>L. 2231-6</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-2 (V)'>D. 2231-2</a> du code du travail, le présent accord sera adressé à la direction générale du travail (DGT) dépôt des accords collectifs à Paris 15e et un exemplaire sera remis au secrétariat-greffe du conseil de prud'hommes de Bordeaux.</p><p align='center'>Article 4</p><p>Les parties signataires demandent l'extension du présent accord au ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social.</p><p>Fait à Bordeaux, le 31 mars 2021.</p><p align='right'>(Suivent les signatures.)</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "content": "<p align='center'>Annexe<br/>\nAccord régional sur les salaires des ETAM du bâtiment de la région Nouvelle-Aquitaine</p><p>Entre l'(les) organisation(s) professionnelle(s) d'employeur(s) :</p><p>la Fédération française du bâtiment Nouvelle-Aquitaine ;<br/>\nl'Union régionale CAPEB Nouvelle-Aquitaine ;<br/>\nla Fédération régionale des SCOP BTP Nouvelle-Aquitaine,</p><p>d'une part,</p><p>et le(s) syndicat(s) de salariés :</p><p>l'Union syndicale de la CGT construction Nouvelle-Aquitaine ;<br/>\nla CFDT construction bois Nouvelle-Aquitaine ;<br/>\nle syndicat CFTC BATIMAT-TP du bâtiment Nouvelle-Aquitaine ;<br/>\nle syndicat FO construction du BTP ;<br/>\nla CFE-CGC BTP,</p><p>d'autre part,</p><p>Il a été convenu ce qui suit :</p><p align='center'>Article 1er</p><p>En application du titre III de la convention collective nationale des employés, techniciens et agents de maîtrise du bâtiment du 12 juillet 2006, étendue par arrêté ministériel du 5 juin 2007, et de l'accord collectif national du 26 septembre 2007 (IDCC 2609) relatif à la classification des emplois des ETAM du bâtiment, les organisations d'employeurs et de salariés adhérentes aux organisations représentatives au niveau national, se sont réunies afin de déterminer les salaires mensuels minimaux des ETAM du bâtiment de la région Nouvelle-Aquitaine.</p><p align='center'>Article 2</p><p>Les parties signataires du présent accord prenant en compte l'objectif d'égalité professionnelle entre les femmes et les hommes, ont fixé le barème des salaires minimaux des ETAM du bâtiment comme indiqué dans le tableau ci-après :<br/>\npour les entreprises dont l'horaire collectif est de 35 heures par semaine ou 35 heures en moyenne sur l'année, le barème des salaires minimaux des ETAM du bâtiment pour tous les départements de la Nouvelle-Aquitaine</p><p>Barème applicable à compter du 1er juin 2021</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Niveau</th><th>Salaire minimum</th></tr><tr><td align='center'>A</td><td align='center'>1 578,73</td></tr><tr><td align='center'>B</td><td align='center'>1 659,28</td></tr><tr><td align='center'>C</td><td align='center'>1 768,13</td></tr><tr><td align='center'>D</td><td align='center'>1 874,65</td></tr><tr><td align='center'>E</td><td align='center'>2 107,74</td></tr><tr><td align='center'>F</td><td align='center'>2 408,68</td></tr><tr><td align='center'>G</td><td align='center'>2 697,78</td></tr><tr><td align='center'>H</td><td align='center'>3 042,01</td></tr></tbody></table></center><p align='center'>Article 3</p><p>Conformément aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>L. 2231-6</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid'>D. 2231-2</a> du code du travail, le présent accord sera adressé à la direction générale du travail (DGT) dépôt des accords collectifs à Paris 15e et un exemplaire sera remis au secrétariat-greffe du conseil de prud'hommes de Bordeaux.</p><p align='center'>Article 4</p><p>Les parties signataires demandent l'extension du présent accord au ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social.</p><p>Fait à Bordeaux, le 31 mars 2021.</p><p align='right'>(Suivent les signatures.)</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000044447919",
+                        "textTitle": "Arrêté du 19 novembre 2021 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000044447925",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-12-08",
+                        "dateSignaTexte": "2021-11-19",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -30410,7 +30605,7 @@
             "cid": "KALITEXT000044305337",
             "title": "Bourgogne Franche-Comté Accord paritaire du 17 juin 2021 relatif aux salaires minimaux au 1er septembre 2021",
             "id": "KALITEXT000044305337",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2021-09-01"
           },
           "children": [
@@ -30421,7 +30616,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000044305340",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -30430,9 +30625,22 @@
                     "cid": "KALIARTI000044305346",
                     "intOrdre": 524287,
                     "id": "KALIARTI000044305346",
-                    "content": "<p align='left'>En application du <a href='/affichIDCC.do?cidTexte=KALITEXT000018773681&idSectionTA=KALISCTA000018773685&categorieLien=cid' title='Convention collective nationale du 12 juillet 2006 -  Titre III : Classification et rémunération (VE)'>titre III </a>de la convention collective nationale des employés, techniciens et agents de maîtrise du bâtiment du 12 juillet 2006, étendue par arrêté ministériel du 5 juin 2007, et de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000018613461&categorieLien=cid' title='Classification des emplois (VE)'>accord collectif national du 26 septembre 2007</a> relatif à la classification des emplois des ETAM du bâtiment, étendue par un arrêté ministériel du 20 février 2008, les organisations représentatives d'employeurs et de salariés se sont réunies et ont trouvé un accord sur le barème de salaires minimaux des ETAM du bâtiment de la région Bourgogne-Franche-Comté.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "content": "<p align='left'>En application du <a href='/affichIDCC.do?cidTexte=KALITEXT000018773681&idSectionTA=KALISCTA000018773685&categorieLien=cid'>titre III </a>de la convention collective nationale des employés, techniciens et agents de maîtrise du bâtiment du 12 juillet 2006, étendue par arrêté ministériel du 5 juin 2007, et de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000018613461&categorieLien=cid'>accord collectif national du 26 septembre 2007</a> relatif à la classification des emplois des ETAM du bâtiment, étendue par un arrêté ministériel du 20 février 2008, les organisations représentatives d'employeurs et de salariés se sont réunies et ont trouvé un accord sur le barème de salaires minimaux des ETAM du bâtiment de la région Bourgogne-Franche-Comté.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000044448017",
+                        "textTitle": "Arrêté du 22 novembre 2021 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000044448021",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-12-08",
+                        "dateSignaTexte": "2021-11-22",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -30445,8 +30653,21 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000044305341",
                 "content": "<p align='left'><br/>Pour la région Bourgogne-Franche-Comté, les parties signataires du présent accord prenant en compte notamment l'objectif d'égalité professionnelle entre les femmes et les hommes, ont fixé le barème des salaires minimaux des ETAM du bâtiment comme indiqué dans le tableau ci-après, pour un horaire collectif de 35 heures par semaine ou 35 heures en moyenne sur l'année, à compter du 1er septembre 2021.</p><p align='left'><div align='center'><center><table border='1'><tr><td align='center'>Niveau A</td><td align='center'>1 575 €</td></tr><tr><td align='center'>Niveau B</td><td align='center'>1 675 €</td></tr><tr><td align='center'>Niveau C</td><td align='center'>1 765 €</td></tr><tr><td align='center'>Niveau D</td><td align='center'>1 929 €</td></tr><tr><td align='center'>Niveau E</td><td align='center'>2 158 €</td></tr><tr><td align='center'>Niveau F</td><td align='center'>2 403 €</td></tr><tr><td align='center'>Niveau G</td><td align='center'>2 710 €</td></tr><tr><td align='center'>Niveau H</td><td align='center'>2 882 €</td></tr></table></center></div></p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044448017",
+                    "textTitle": "Arrêté du 22 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044448021",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-12-08",
+                    "dateSignaTexte": "2021-11-22",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -30457,8 +30678,21 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000044305342",
                 "content": "<p align='left'><br/>Compte tenu de la structure des entreprises de la branche et de la volonté des parties signataires de maintenir un statut social homogène au bénéfice de l'ensemble des ETAM de la profession, il n'est pas nécessaire de prévoir une stipulation spécifique pour les entreprises employant moins de 50 salariés.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044448017",
+                    "textTitle": "Arrêté du 22 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044448021",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-12-08",
+                    "dateSignaTexte": "2021-11-22",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -30469,8 +30703,21 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000044305343",
                 "content": "<p align='left'><br/>Conformément aux dispositions en vigueur du code du travail, le présent accord sera déposé à la direction générale du travail et remis au secrétariat-greffe du conseil de prud'hommes de Besançon et de Dijon.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044448017",
+                    "textTitle": "Arrêté du 22 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044448021",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-12-08",
+                    "dateSignaTexte": "2021-11-22",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -30481,8 +30728,21 @@
                 "intOrdre": 2621435,
                 "id": "KALIARTI000044305345",
                 "content": "<p align='left'><br/>Les parties signataires demandent l'extension du présent accord au ministre du travail, de l'emploi et de l'insertion.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044448017",
+                    "textTitle": "Arrêté du 22 novembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044448021",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-12-08",
+                    "dateSignaTexte": "2021-11-22",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
