@@ -1,3 +1,10 @@
+# [2.196.0](https://github.com/SocialGouv/kali-data/compare/v2.195.0...v2.196.0) (2021-12-21)
+
+
+### Features
+
+* add effectif on agreement 3239 ([#225](https://github.com/SocialGouv/kali-data/issues/225)) ([f2edb0e](https://github.com/SocialGouv/kali-data/commit/f2edb0eb52c537fac5ec2ce1111a7e3021b8c821))
+
 # [2.195.0](https://github.com/SocialGouv/kali-data/compare/v2.194.0...v2.195.0) (2021-12-21)
 
 
