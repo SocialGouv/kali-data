@@ -1,3 +1,10 @@
+## [2.197.1](https://github.com/SocialGouv/kali-data/compare/v2.197.0...v2.197.1) (2021-12-22)
+
+
+### Bug Fixes
+
+* **index.json:** remove 3239 from search synonyme (until 31/12/21) ([#226](https://github.com/SocialGouv/kali-data/issues/226)) ([72c2470](https://github.com/SocialGouv/kali-data/commit/72c247046fad239fed617277b7a223a53865de45))
+
 # [2.197.0](https://github.com/SocialGouv/kali-data/compare/v2.196.0...v2.197.0) (2021-12-22)
 
 
