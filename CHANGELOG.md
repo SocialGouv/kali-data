@@ -1,3 +1,11 @@
+# [2.206.0](https://github.com/SocialGouv/kali-data/compare/v2.205.0...v2.206.0) (2022-01-03)
+
+
+### Features
+
+* **CC 3239:** add legi france id on CC ([#229](https://github.com/SocialGouv/kali-data/issues/229)) ([fbacd05](https://github.com/SocialGouv/kali-data/commit/fbacd051fd64c81561a0088fb8c10ba7424dcd4a))
+* **data:** 20220103_1330 update ([3382ff3](https://github.com/SocialGouv/kali-data/commit/3382ff3cc00f27459ea4d757fdc13987e94c3c02))
+
 # [2.205.0](https://github.com/SocialGouv/kali-data/compare/v2.204.0...v2.205.0) (2022-01-01)
 
 
