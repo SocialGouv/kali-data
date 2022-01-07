@@ -20747,7 +20747,7 @@
             "cid": "KALITEXT000044479556",
             "title": "Accord du 5 mai 2021 relatif aux taux de la contribution conventionnelle à la formation professionnelle applicables à partir du 1er janvier 2021",
             "id": "KALITEXT000044479556",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2021-01-01"
           },
           "children": [
@@ -20759,8 +20759,21 @@
                 "intOrdre": 524287,
                 "id": "KALIARTI000044479559",
                 "content": "<p align='left'>Les taux de contributions sont fixés selon le tableau suivant :</p><p align='left'></p><center><table border='1'><tbody><tr><th>Année</th><th>Entreprise de moins de 11 ­salariés</th><th>Entreprise de 11 à 49 salariés</th><th>Entreprise de 50 salariés et plus</th></tr><tr><td align='center'>2021</td><td align='center'>0,05 %</td><td align='center'>0,55 %</td><td align='center'>0,55 %</td></tr><tr><td align='center'>2022</td><td align='center'>0,28 %</td><td align='center'>0,53 %</td><td align='center'>0,53 %</td></tr><tr><td align='center'>2023</td><td align='center'>0,48 %</td><td align='center'>0,48 %</td><td align='center'>0,48 %</td></tr><tr><td colspan='4'>(Avec 1 an sans changement de taux en cas de passage du seuil de 11 salariés.)</td></tr></tbody></table></center><p></p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044833917",
+                    "textTitle": "Arrêté du 27 décembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044833920",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-01-05",
+                    "dateSignaTexte": "2021-12-27",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -20771,8 +20784,21 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000044479560",
                 "content": "<p align='left'>Ces contributions conventionnelles sont reparties dans trois enveloppes distinctes :<br/>\n– les contributions conventionnelles des entreprises de moins de 11 salariés ;<br/>\n– les contributions conventionnelles des entreprises de 11 à 49 salariés ;<br/>\n– les contributions conventionnelles des entreprises de plus de 49 salariés.</p><p align='left'>Sur décision de la CPNEFP les fonds peuvent être transférés d'une enveloppe à une autre pour optimiser la formation professionnelle des salariés des entreprises de la branche architecture. Les fonds transférés devront à moyen terme permettre à toutes les tailles d'entreprise d'optimiser la formation de leurs salariés, en adéquation avec les besoins définis par la branche.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044833917",
+                    "textTitle": "Arrêté du 27 décembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044833920",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-01-05",
+                    "dateSignaTexte": "2021-12-27",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -20782,9 +20808,22 @@
                 "num": "3",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000044479561",
-                "content": "<p align='left'><br/>En application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>article L. 2261-23-1 du code du travail</a>, et de l'article 1er du présent accord, celui-ci prend en compte les spécificités des entreprises de moins de 50 salariés.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'><br/>En application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>article L. 2261-23-1 du code du travail</a>, et de l'article 1er du présent accord, celui-ci prend en compte les spécificités des entreprises de moins de 50 salariés.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044833917",
+                    "textTitle": "Arrêté du 27 décembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044833920",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-01-05",
+                    "dateSignaTexte": "2021-12-27",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
