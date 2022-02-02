@@ -7430,7 +7430,7 @@
             "cid": "KALITEXT000043954863",
             "title": "Avenant n° 38 du 27 janvier 2021 relatif aux salaires minima au 1er février 2021",
             "id": "KALITEXT000043954863",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2021-02-01"
           },
           "children": [
@@ -7441,7 +7441,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000043954865",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -7450,9 +7450,22 @@
                     "cid": "KALIARTI000043954869",
                     "intOrdre": 524287,
                     "id": "KALIARTI000043954869",
-                    "content": "<p align='left'>La branche professionnelle de la conchyliculture regroupe 4 643 exploitants qui emploient 18 000 salariés et comptent à 97,4 % moins de 50 salariés (source : contrat d'étude prospective du secteur de la conchyliculture – oct. 2013).</p><p align='left'>L'ensemble des dispositions de la présente convention collective répond aux dispositions combinées des articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>L. 2261-23-1 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-10-1 (V)'>L. 2232-10-1</a> sans qu'il soit utile de préciser des stipulations spécifiques pour les entreprises de moins de 50 salariés.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "content": "<p align='left'>La branche professionnelle de la conchyliculture regroupe 4 643 exploitants qui emploient 18 000 salariés et comptent à 97,4 % moins de 50 salariés (source : contrat d'étude prospective du secteur de la conchyliculture – oct. 2013).</p><p align='left'>L'ensemble des dispositions de la présente convention collective répond aux dispositions combinées des articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>L. 2261-23-1 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid'>L. 2232-10-1</a> sans qu'il soit utile de préciser des stipulations spécifiques pour les entreprises de moins de 50 salariés.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000045081079",
+                        "textTitle": "Arrêté du 18 janvier 2022 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000045081088",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2022-01-28",
+                        "dateSignaTexte": "2022-01-18",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -7464,10 +7477,23 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000043954866",
-                "content": "<p align='left'><br/>À compter du 1er février 2021 les salaires minima garantis sont les suivants :</p><p align='left'><div align='center'><center><table border='1'><tr><th>Échelon</th><th>Salaire horaire minimum conventionnel exprimé en euros</th></tr><tr><td align='center'>1</td><td align='center'>10,46</td></tr><tr><td align='center'>2</td><td align='center'>10,70</td></tr><tr><td align='center'>3</td><td align='center'>10,99</td></tr><tr><td align='center'>4</td><td align='center'>11,28</td></tr><tr><td align='center'>5</td><td align='center'>12,46</td></tr><tr><td align='center'>6</td><td align='center'>16,38</td></tr></table></center></div></p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'><br/>À compter du 1er février 2021 les salaires minima garantis sont les suivants :</p><p align='left'><div align='center'><center><table border='1'><tr><th>Échelon</th><th>Salaire horaire minimum conventionnel exprimé en euros</th></tr><tr><td align='center'>1</td><td align='center'>10,46</td></tr><tr><td align='center'>2</td><td align='center'>10,70</td></tr><tr><td align='center'>3</td><td align='center'>10,99</td></tr><tr><td align='center'>4</td><td align='center'>11,28</td></tr><tr><td align='center'>5</td><td align='center'>12,46</td></tr><tr><td align='center'>6</td><td align='center'>16,38</td></tr></table></center></div></p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000043954866_1'></a>(1) Article étendu sous réserve de l'application des dispositions réglementaires portant fixation du salaire minimum interprofessionnel de croissance.  <br/>(Arrêté du 18 janvier 2022 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Salaires",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045081079",
+                    "textTitle": "Arrêté du 18 janvier 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045081088",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-01-28",
+                    "dateSignaTexte": "2022-01-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -7478,9 +7504,22 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000043954867",
                 "content": "<p align='left'><br/>Les parties signataires demandent l'extension du présent avenant.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Extension",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045081079",
+                    "textTitle": "Arrêté du 18 janvier 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045081088",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-01-28",
+                    "dateSignaTexte": "2022-01-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -7491,9 +7530,22 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000043954868",
                 "content": "<p align='left'><br/>Le présent avenant entrera en vigueur avec effet au 1er février 2021.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Entrée en vigueur",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045081079",
+                    "textTitle": "Arrêté du 18 janvier 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045081088",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-01-28",
+                    "dateSignaTexte": "2022-01-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
