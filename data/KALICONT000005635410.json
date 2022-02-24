@@ -13308,7 +13308,7 @@
             "title": "Avenant n° 62 du 22 novembre 2007 relatif à la garantie des frais de santé",
             "id": "KALITEXT000018659307",
             "etat": "VIGUEUR_ETEN",
-            "modifDate": "2020-01-01"
+            "modifDate": "2022-01-01"
           },
           "children": [
             {
@@ -13545,34 +13545,22 @@
                 "cid": "KALIARTI000018659325",
                 "num": "7",
                 "intOrdre": 3670009,
-                "id": "KALIARTI000030966993",
-                "content": "<p align='left'>La cotisation contractuelle mensuelle par salarié est égale à :</p><p>– salariés bénéficiaires relevant de l'article 4 de la convention collective nationale des cadres de 1947 :</p><p>–– régime général de la sécurité sociale : 51,30 € ;</p><p>–– régime local d'Alsace-Moselle : 40,85 € ;</p><p>– salariés ne relevant pas de l'article 4 de la convention collective nationale des cadres de 1947 :</p><p>–– régime général de la sécurité sociale : 34 € ;</p><p>–– régime local d'Alsace-Moselle : 27 €.</p>",
-                "etat": "VIGUEUR_ETEN",
+                "id": "KALIARTI000045208278",
+                "content": "<p align='left'>La cotisation contractuelle mensuelle par salarié est égale à :</p><p align='left'>– salariés bénéficiaires relevant de l'article 2.1 de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres (anciennement de l'article 4 de la convention collective nationale des cadres de 1947) :<br/>\n–– régime général de la sécurité sociale : 1,65 % plafond mensuel de la sécurité sociale ;<br/>\n–– régime local d'Alsace-Moselle : 1,31 % plafond mensuel de la sécurité sociale ;</p><p align='left'>– salariés bénéficiaires ne relevant pas de l'article 2.1 de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres (anciennement de l'article 4 de la convention collective nationale des cadres de 1947) :<br/>\n–– régime général de la sécurité sociale : 1,23 % plafond mensuel de la sécurité sociale ;<br/>\n–– régime local d'Alsace-Moselle : 0,97 % plafond mensuel de la sécurité sociale.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
                 "surtitre": "Cotisations",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000030901364",
-                    "textTitle": "Garantie frais de santé - art. 2 (VNE)",
+                    "textCid": "KALITEXT000045204458",
+                    "textTitle": "Garantie des frais de santé - art. 1er (VNE)",
                     "linkType": "MODIFIE",
                     "linkOrientation": "cible",
-                    "articleNum": "2",
-                    "articleId": "KALIARTI000030901373",
+                    "articleNum": "1er",
+                    "articleId": "KALIARTI000045204462",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2015-07-16",
-                    "dateSignaTexte": "2015-03-18",
-                    "dateDebutCible": "2015-04-01"
-                  },
-                  {
-                    "textCid": "JORFTEXT000031633419",
-                    "textTitle": "Arrêté du 11 décembre 2015 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000031633424",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2015-12-17",
-                    "dateSignaTexte": "2015-12-11",
-                    "dateDebutCible": "2999-01-01"
+                    "datePubliTexte": "2022-02-22",
+                    "dateSignaTexte": "2021-11-29",
+                    "dateDebutCible": "2022-01-01"
                   }
                 ]
               }
@@ -22460,6 +22448,132 @@
                     "dateDebutCible": "2999-01-01"
                   }
                 ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000045204458",
+            "title": "Avenant du 29 novembre 2021 à l'avenant n° 62 du 22 novembre 2007 relatif à la garantie des frais de santé",
+            "id": "KALITEXT000045204458",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2022-01-01"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000045204461",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000045204461",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000045204474",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000045204474",
+                    "content": "<p align='left'><br/>Le présent avenant constitue un avenant de révision aux dispositions de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000018659307&categorieLien=cid' title='Garantie des frais de santé (VE)'>avenant n° 62 du 22 novembre 2007</a> relatif aux garanties frais de santé.<br/>Il a pour objet d'aménager à effet du 1er janvier 2022, les niveaux de cotisations.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": []
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000045204462",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000045204462",
+                "content": "<p align='left'>La cotisation contractuelle mensuelle par salarié est égale à :<br/>\n– salariés bénéficiaires relevant de l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000036732007&idArticle=KALIARTI000036732018&categorieLien=cid' title='relatif à la prévoyance des cadres - art. 2.1 (VNE)'>article 2.1 de l'accord national interprofessionnel du 17 novembre 2017 </a>relatif à la prévoyance des cadres (anciennement de l'article 4 de la convention collective nationale des cadres de 1947) :<br/>\n–– régime général de la sécurité sociale : 1,65 % plafond mensuel de la sécurité sociale ;<br/>\n–– régime local d'Alsace-Moselle : 1,31 % plafond mensuel de la sécurité sociale ;</p><p align='left'>– salariés bénéficiaires ne relevant pas de l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000036732007&idArticle=KALIARTI000036732018&categorieLien=cid' title='relatif à la prévoyance des cadres - art. 2.1 (VNE)'>article 2.1 de l'accord national interprofessionnel du 17 novembre 2017 </a>relatif à la prévoyance des cadres (anciennement de l'article 4 de la convention collective nationale des cadres de 1947) :<br/>\n–– régime général de la sécurité sociale : 1,23 % plafond mensuel de la sécurité sociale ;<br/>\n–– régime local d'Alsace-Moselle : 0,97 % plafond mensuel de la sécurité sociale.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Montant des cotisations",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000018659307",
+                    "textTitle": "Garantie des frais de santé - art. 7 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "7",
+                    "articleId": "KALIARTI000045208278",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2007-11-22",
+                    "dateDebutCible": "2022-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000045204465",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000045204465",
+                "content": "<p align='left'><br/>Le présent avenant s'applique à toutes les entreprises qui relèvent du champ de la convention collective nationale de la poissonnerie (IDCC 1504) : entreprises de détail, de demi-gros et de gros.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Champ d'application de l'avenant",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000045204466",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000045204466",
+                "content": "<p align='left'>Cet avenant concernant une garantie applicable à l'ensemble des salariés, il n'y a pas lieu de prévoir de dispositions spécifiques pour les entreprises de moins de 50 salariés.</p><p align='left'>De même, s'appliquant de manière uniforme à l'ensemble des salariés quel que soit leur genre, il n'y a pas lieu de prévoir des dispositions spécifiques à l'égalité entre les femmes et les hommes.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Entreprise de moins de 50 salariés et égalité femmes-hommes",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000045204467",
+                "num": "4",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000045204467",
+                "content": "<p align='left'><br/>Le présent avenant est conclu pour une durée indéterminée. Il prend effet à compter du 1er janvier 2022. Il s'incorpore à convention collective nationale de la poissonnerie qu'il modifie. Il est donc régi par les mêmes modalités de suivi, révision et dénonciation.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Durée de l'avenant",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000045204468",
+                "num": "5",
+                "intOrdre": 3145722,
+                "id": "KALIARTI000045204468",
+                "content": "<p align='left'>Le présent avenant peut être révisé à tout moment en fonction des nécessités de la branche et conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-7 (V)'>dispositions des articles L. 2261-7 et suivants du code du travail</a>.</p><p align='left'>Il peut être dénoncé dans les conditions prévues aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-9 (V)'>articles L. 2261-9 et suivants du code du travail</a>.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Révision et dénonciation de l'avenant",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000045204471",
+                "num": "6",
+                "intOrdre": 3670009,
+                "id": "KALIARTI000045204471",
+                "content": "<p align='left'><br/>Le présent avenant sera établi en nombre suffisant d'exemplaires pour être remis à chacune des parties signataires. Il sera, conformément aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-6 (V)'>L. 2231-6</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-2 (V)'>D. 2231-2</a> et suivants du code du travail, notifié aux organisations syndicales représentatives et au terme d'un délai de 15 jours à compter de cette notification et à défaut d'opposition, il sera procédé dans les meilleurs délais aux formalités légales en vue de son dépôt et de son extension.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Formalités",
+                "lstLienModification": []
               }
             }
           ]
