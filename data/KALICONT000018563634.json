@@ -6192,7 +6192,7 @@
             "cid": "KALITEXT000043954851",
             "title": "Accord du 27 janvier 2021 à l'accord du 22 septembre 2003 relatif au régime de prévoyance",
             "id": "KALITEXT000043954851",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2021-04-01"
           },
           "children": [
@@ -6203,7 +6203,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000043954853",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -6213,8 +6213,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000043954862",
                     "content": "<p align='left'><br/>Le présent accord a pour objet de réviser, par son allongement, le délai de carence applicable par le régime de prévoyance de la conchyliculture en matière d'incapacité de travail en vue du rétablissement de l'équilibre du régime.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000045332858",
+                        "textTitle": "Arrêté du 24 février 2022 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000045332868",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2022-03-11",
+                        "dateSignaTexte": "2022-02-24",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -6226,9 +6239,21 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000043954854",
-                "content": "<p align='left'>L'article 4.2 « Délais de carence » de l'accord du 22 septembre 2003 modifié par <a href='/affichIDCC.do?cidTexte=KALITEXT000030785932&categorieLien=cid' title='Prévoyance (VNE)'>avenant du 11 décembre 2014</a> puis par avenant du 26 janvier 2017, est modifié comme suit. </p><p align='left'>« Lors de chaque arrêt de travail d'un salarié justifiant de plus d'1 an d'ancienneté dans l'entreprise, en cas de maladie, d'accident, d'accident du travail ou de maladie professionnelle, l'indemnisation commencera à courir au lendemain d'une franchise de 30 jours continus. </p><p align='left'>Pour les salariés justifiant de moins de 1 an d'ancienneté au sein de l'entreprise, la franchise est inchangée à 180 jours continus. »</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>L'article 4.2 « Délais de carence » de l'accord du 22 septembre 2003 modifié par <a href='/affichIDCC.do?cidTexte=KALITEXT000030785932&categorieLien=cid'>avenant du 11 décembre 2014</a> puis par avenant du 26 janvier 2017, est modifié comme suit. </p><p align='left'>« Lors de chaque arrêt de travail d'un salarié justifiant de plus d'1 an d'ancienneté dans l'entreprise, en cas de maladie, d'accident, d'accident du travail ou de maladie professionnelle, l'indemnisation commencera à courir au lendemain d'une franchise de 30 jours continus. </p><p align='left'>Pour les salariés justifiant de moins de 1 an d'ancienneté au sein de l'entreprise, la franchise est inchangée à 180 jours continus. »</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000043954854_1'></a>(1) Article étendu sous réserve de l'application de l'article D. 1226-3 du code du travail.  <br/>(Arrêté du 24 février 2022 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045332858",
+                    "textTitle": "Arrêté du 24 février 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045332868",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-03-11",
+                    "dateSignaTexte": "2022-02-24",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000022198897",
                     "textTitle": "Création d'un régime de prévoyance du personnel... - art. 4 (VNE)",
@@ -6252,8 +6277,21 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000043954858",
                 "content": "<p align='left'><br/>Les dispositions du présent accord entreront en vigueur au 1er avril 2021.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045332858",
+                    "textTitle": "Arrêté du 24 février 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045332868",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-03-11",
+                    "dateSignaTexte": "2022-02-24",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -6263,9 +6301,22 @@
                 "num": "3",
                 "intOrdre": 2097148,
                 "id": "KALIARTI000043954859",
-                "content": "<p align='left'>Le présent accord sera, conformément aux dispositions du code du travail, notifié aux organisations syndicales représentatives et, au terme d'un délai de 15 jours à compter de cette notification et à défaut d'opposition, il sera procédé dans les meilleurs délais aux formalités légales en vue du dépôt, puis de l'extension du présent accord.</p><p align='left'>Les partenaires sociaux rappellent que le présent accord ayant vocation à définir le régime professionnel de prévoyance dont doivent bénéficier tous les salariés relevant de la convention collective, celui-ci ne prévoit aucune disposition spécifique pour les entreprises de moins de 50 salariés (<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>art. L. 2261-23-1 du code du travail</a>).</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'>Le présent accord sera, conformément aux dispositions du code du travail, notifié aux organisations syndicales représentatives et, au terme d'un délai de 15 jours à compter de cette notification et à défaut d'opposition, il sera procédé dans les meilleurs délais aux formalités légales en vue du dépôt, puis de l'extension du présent accord.</p><p align='left'>Les partenaires sociaux rappellent que le présent accord ayant vocation à définir le régime professionnel de prévoyance dont doivent bénéficier tous les salariés relevant de la convention collective, celui-ci ne prévoit aucune disposition spécifique pour les entreprises de moins de 50 salariés (<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>art. L. 2261-23-1 du code du travail</a>).</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045332858",
+                    "textTitle": "Arrêté du 24 février 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045332868",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-03-11",
+                    "dateSignaTexte": "2022-02-24",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
