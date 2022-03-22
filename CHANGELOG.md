@@ -1,3 +1,11 @@
+# [2.260.0](https://github.com/SocialGouv/kali-data/compare/v2.259.1...v2.260.0) (2022-03-22)
+
+
+### Features
+
+* **data:** 20220322_1706 update ([3142a28](https://github.com/SocialGouv/kali-data/commit/3142a28b861732b6a962cc3f38cc209363cbe483))
+* add new IDCC 3233 and 3242 ([#235](https://github.com/SocialGouv/kali-data/issues/235)) ([8a40c7d](https://github.com/SocialGouv/kali-data/commit/8a40c7da9f37cd4a7557e1894b616c9affcd50c5))
+
 ## [2.259.1](https://github.com/SocialGouv/kali-data/compare/v2.259.0...v2.259.1) (2022-03-22)
 
 
