@@ -8,6 +8,11 @@ describe(`libs/getAgreementArticlesWithPath()`, () => {
       expect(received[0].path.length).toBeGreaterThan(1);
     });
 
+    it("with an existing agreement ID (empty children)", () => {
+      const received = getAgreementArticlesWithPath("KALICONT000005635259");
+      expect(received).toHaveLength(0);
+    });
+
     it(`with an existing agreement IDCC (string)`, () => {
       const received = getAgreementArticlesWithPath("1480");
 
