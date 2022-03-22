@@ -1,3 +1,10 @@
+## [2.259.1](https://github.com/SocialGouv/kali-data/compare/v2.259.0...v2.259.1) (2022-03-22)
+
+
+### Bug Fixes
+
+* return an empty array if agreement has no children ([#234](https://github.com/SocialGouv/kali-data/issues/234)) ([79a634d](https://github.com/SocialGouv/kali-data/commit/79a634d0ea0b2094a00930d8f48058502cbfa854))
+
 # [2.259.0](https://github.com/SocialGouv/kali-data/compare/v2.258.0...v2.259.0) (2022-03-22)
 
 
