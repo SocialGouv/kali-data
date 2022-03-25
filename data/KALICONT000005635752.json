@@ -8770,7 +8770,7 @@
             "cid": "KALITEXT000045373207",
             "title": "Avenant n° 93 du 21 octobre 2021",
             "id": "KALITEXT000045373207",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2021-11-01"
           },
           "children": [
@@ -8782,8 +8782,21 @@
                 "intOrdre": 524287,
                 "id": "KALIARTI000045373210",
                 "content": "<p align='center'><br/>Salaires au 1er novembre 2021</p><p align='left'><br/>À partir du 1er novembre 2021, les salaires horaires minimaux sont fixés à :</p><p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Coefficient</th><th>Salaire horaire minimum</th></tr><tr><td align='center'>200</td><td align='center'>Smic = 10,48</td></tr><tr><td align='center'>210</td><td align='center'>10,55</td></tr><tr><td align='center'>220</td><td align='center'>10,63</td></tr><tr><td align='center'>250</td><td align='center'>10,74</td></tr><tr><td align='center'>270</td><td align='center'>10,86</td></tr><tr><td align='center'>290</td><td align='center'>11,00</td></tr><tr><td align='center'>320</td><td align='center'>11,16</td></tr><tr><td align='center'>350</td><td align='center'>11,56</td></tr><tr><td align='center'>380</td><td align='center'>11,92</td></tr><tr><td align='center'>410</td><td align='center'>12,35</td></tr><tr><td align='center'>440</td><td align='center'>12,82</td></tr><tr><td align='center'>470</td><td align='center'>13,24</td></tr><tr><td align='center'>500</td><td align='center'>13,74</td></tr><tr><td align='center'>550</td><td align='center'>14,47</td></tr><tr><td align='center'>610</td><td align='center'>15,27</td></tr><tr><td align='center'>720</td><td align='center'>16,91</td></tr><tr><td align='center'>840</td><td align='center'>18,69</td></tr></table></center></div></p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045155914",
+                    "textTitle": "Arrêté du 2 février 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045155916",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-02-11",
+                    "dateSignaTexte": "2022-02-02",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -8794,8 +8807,21 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000045373211",
                 "content": "<p align='left'><br/>Les parties signataires demandent l'extension du présent avenant.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045155914",
+                    "textTitle": "Arrêté du 2 février 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045155916",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-02-11",
+                    "dateSignaTexte": "2022-02-02",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
