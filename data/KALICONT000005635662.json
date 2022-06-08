@@ -13261,7 +13261,7 @@
             "cid": "KALITEXT000045829086",
             "title": "Avenant du 17 janvier 2022 relatif aux salaires pour l'année 2022",
             "id": "KALITEXT000045829086",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2022-01-01"
           },
           "children": [
@@ -13271,9 +13271,22 @@
                 "cid": "KALIARTI000045829089",
                 "intOrdre": 524287,
                 "id": "KALIARTI000045829089",
-                "content": "<p align='left'>Dans le cadre de l'arrêté du 23 janvier 2019 portant fusion et élargissement des champs conventionnels des conventions collectives IDCC 207, 1561 et 2528 ci-dessus désignées ;<br/><p> <br/>\net suite à la convocation relative à la négociation annuelle sur les salaires adressée à l'ensemble des organisations représentatives au sein des branches concernées par cet arrêté ;</p><p>le secteur cordonnerie multiservice suite à la CPPNI du 17 janvier 2022 a convenu ce qui suit :</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'>Dans le cadre de l'arrêté du 23 janvier 2019 portant fusion et élargissement des champs conventionnels des conventions collectives IDCC 207, 1561 et 2528 ci-dessus désignées ;</p><p align='left'>et suite à la convocation relative à la négociation annuelle sur les salaires adressée à l'ensemble des organisations représentatives au sein des branches concernées par cet arrêté ;</p><p>le secteur cordonnerie multiservice suite à la CPPNI du 17 janvier 2022 a convenu ce qui suit :</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045862824",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045862827",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-04",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -13284,8 +13297,21 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000045829090",
                 "content": "<p align='left'>Les salaires minima bruts mensuels sont fixés pour une durée mensuelle de travail de 151,667 heures pour 35 heures hebdomadaires effectivement travaillées et sont établis comme suit à compter du 1er janvier 2022.</p><p align='right'>(En euros.)</p><p align='left'></p><center><table border='1'><tbody><tr><th colspan='5'>Ouvriers. Employés</th></tr><tr><td><strong>Catégorie</strong></td><td><strong>Échelon</strong></td><td><strong>Coefficient</strong></td><td><strong>Taux horaire</strong></td><td><strong>Salaire brut mensuel</strong></td></tr><tr><td rowspan='2' align='center'>I</td><td align='center'>1</td><td align='center'>140</td><td align='center'>10,68</td><td align='center'>1 619,80</td></tr><tr><td align='center'>2</td><td align='center'>145</td><td align='center'>10,74</td><td align='center'>1 628,90</td></tr><tr><td rowspan='2' align='center'>II</td><td align='center'>1</td><td align='center'>150</td><td align='center'>10,79</td><td align='center'>1 636,49</td></tr><tr><td align='center'>2</td><td align='center'>155</td><td align='center'>10,83</td><td align='center'>1 642,55</td></tr><tr><td align='center'>III</td><td align='center'>1</td><td align='center'>165</td><td align='center'>11,49</td><td align='center'>1 742,65</td></tr></tbody></table></center><p></p><p align='right'>(En euros.)</p><p align='left'></p><center><table border='1'><tbody><tr><th colspan='5'>Employés. Techniciens. Agents de maîtrise</th></tr><tr><td><strong>Catégorie</strong></td><td><strong>Échelon</strong></td><td><strong>Coefficient</strong></td><td><strong>Taux horaire</strong></td><td><strong>Salaire brut mensuel</strong></td></tr><tr><td rowspan='2' align='center'>IV</td><td align='center'>1</td><td align='center'>180</td><td align='center'>12,04</td><td align='center'>1 826,07</td></tr><tr><td align='center'>2</td><td align='center'>200</td><td align='center'>13,33</td><td align='center'>2021,72</td></tr><tr><td align='center'>V</td><td align='center'>1</td><td align='center'>220</td><td align='center'>14,67</td><td align='center'>2 224,95</td></tr><tr><td align='center'>VI</td><td align='center'>1</td><td align='center'>240</td><td align='center'>15,96</td><td align='center'>2 420,61</td></tr></tbody></table></center><p></p><p align='right'>(En euros.)</p><p align='left'></p><center><table border='1'><tbody><tr><th colspan='5'>Cadres</th></tr><tr><td><strong>Catégorie</strong></td><td><strong>Échelon</strong></td><td><strong>Coefficient</strong></td><td><strong>Taux horaire</strong></td><td><strong>Salaire brut mensuel</strong></td></tr><tr><td align='center'>VII</td><td align='center'>1</td><td align='center'>270</td><td align='center'>17,94</td><td align='center'>2 720,91</td></tr><tr><td rowspan='2' align='center'>VIII</td><td align='center'>1</td><td align='center'>300</td><td align='center'>19,90</td><td align='center'>3 018,17</td></tr><tr><td align='center'>2</td><td align='center'>320</td><td align='center'>21,21</td><td align='center'>3 216,86</td></tr></tbody></table></center><p></p><p align='left'>Ces salaires sont des bases nationales et les salaires réels peuvent se déterminer au niveau de chaque entreprise.<br/><p> <br/>\nLa commission nationale se réunira une fois par an, pour examiner et appliquer le salaire de base national professionnel.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045862824",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045862827",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-04",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -13295,9 +13321,22 @@
                 "num": "2",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000045829091",
-                "content": "<p align='center'>2.1.   Égalité professionnelle </p><p align='left'>En application de la <a href='/affichTexte.do?cidTexte=JORFTEXT000000816849&categorieLien=cid' title='Loi n° 2006-340 du 23 mars 2006 (V)'>loi n° 2006-340 du 23 mars 2006 </a>relative à l'égalité salariale entre les hommes et les femmes, et conformément aux accords de branche (art. <a href='/affichIDCCArticle.do?cidTexte=KALITEXT000005649434&idArticle=KALIARTI000005780155&categorieLien=cid' title='Convention collective nationale du 7 août 1989 - art. 8 (VE)'>8.1</a> du 8 décembre 2009 de la convention collective cordonnerie multiservice et ses avenants), tous les salariés, femmes ou hommes à compétences et qualifications égales, doivent avoir les mêmes droits d'accès dans leur parcours professionnel et les mêmes possibilités d'évolution de carrière, y compris en ce qui concerne l'accès aux postes à responsabilités. Les critères de promotion sont les mêmes pour l'ensemble des salariés et ne doivent pas être discriminants. <br/><p> <br/>Les absences parentales ne devront avoir aucune incidence sur l'évolution de carrière et la rémunération des intéressés. </p><p align='center'>2.2.   Non-discrimination </p><p align='left'>Conformément à l'article 8.2 de la convention collective nationale cordonnerie multiservice sont garantis les droits des salariés à la non-discrimination et à l'égalité de traitement en matière de recrutement, d'affectation, de rémunération, de formation et de déroulement de carrière sans distinction de sexe, d'origine ou d'appartenance à une ethnie, nation ou race, de religion, ni selon le patronyme, l'apparence physique ou le lieu de résidence. <br/><p> <br/>L'employeur prendra les mesures appropriées pour intégrer et maintenir dans l'emploi le personnel handicapé, en se faisant accompagner, le cas échéant, par la médecine du travail, les organismes techniques ou spécialisés en la matière. <br/><p> <br/>Les dispositions de la présente convention s'appliquent dans leur intégralité indistinctement aux travailleurs handicapés et non handicapés.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='center'>2.1.   Égalité professionnelle </p><p align='left'>En application de la <a href='/affichTexte.do?cidTexte=JORFTEXT000000816849&categorieLien=cid'>loi n° 2006-340 du 23 mars 2006 </a>relative à l'égalité salariale entre les hommes et les femmes, et conformément aux accords de branche (art. <a href='/affichIDCCArticle.do?cidTexte=KALITEXT000005649434&idArticle=KALIARTI000005780155&categorieLien=cid'>8.1</a> du 8 décembre 2009 de la convention collective cordonnerie multiservice et ses avenants), tous les salariés, femmes ou hommes à compétences et qualifications égales, doivent avoir les mêmes droits d'accès dans leur parcours professionnel et les mêmes possibilités d'évolution de carrière, y compris en ce qui concerne l'accès aux postes à responsabilités. Les critères de promotion sont les mêmes pour l'ensemble des salariés et ne doivent pas être discriminants. <br/><p> <br/>Les absences parentales ne devront avoir aucune incidence sur l'évolution de carrière et la rémunération des intéressés. </p><p align='center'>2.2.   Non-discrimination </p><p align='left'>Conformément à l'article 8.2 de la convention collective nationale cordonnerie multiservice sont garantis les droits des salariés à la non-discrimination et à l'égalité de traitement en matière de recrutement, d'affectation, de rémunération, de formation et de déroulement de carrière sans distinction de sexe, d'origine ou d'appartenance à une ethnie, nation ou race, de religion, ni selon le patronyme, l'apparence physique ou le lieu de résidence. <br/><p> <br/>L'employeur prendra les mesures appropriées pour intégrer et maintenir dans l'emploi le personnel handicapé, en se faisant accompagner, le cas échéant, par la médecine du travail, les organismes techniques ou spécialisés en la matière. <br/><p> <br/>Les dispositions de la présente convention s'appliquent dans leur intégralité indistinctement aux travailleurs handicapés et non handicapés.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045862824",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045862827",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-04",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -13308,8 +13347,21 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000045829093",
                 "content": "<p align='left'><br/>Cet avenant vaut pour toutes les entreprises y compris celles de moins de 50 salariés.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045862824",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045862827",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-04",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -13320,8 +13372,21 @@
                 "intOrdre": 2621435,
                 "id": "KALIARTI000045829094",
                 "content": "<p align='left'><br/>Le présent avenant est applicable à partir du 1er janvier 2022.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045862824",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045862827",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-04",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -13331,9 +13396,22 @@
                 "num": "5",
                 "intOrdre": 3145722,
                 "id": "KALIARTI000045829095",
-                "content": "<p align='left'>Le texte du présent avenant sera déposé à la direction générale du travail et au secrétariat du greffe du conseil de prud'hommes conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901674&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-5 (V)'>articles L. 2231-5 et suivants du code du travail</a>.<br/><p> <br/>\nLes parties signataires demandent au ministère du travail l'extension de cet avenant.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'>Le texte du présent avenant sera déposé à la direction générale du travail et au secrétariat du greffe du conseil de prud'hommes conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901674&dateTexte=&categorieLien=cid'>articles L. 2231-5 et suivants du code du travail</a>.</p><p align='left'>Les parties signataires demandent au ministère du travail l'extension de cet avenant.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045862824",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045862827",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-04",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
