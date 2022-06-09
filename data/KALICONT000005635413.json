@@ -1487,7 +1487,7 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000045466249",
                 "content": "<p align='left'>Pour tenir compte de l'expérience acquise dans l'entreprise, le salaire global brut mensuel contractuel défini à l'article 37.3.1 est majoré de 30 euros tous les 3 ans, au 1er janvier suivant la date d'anniversaire.</p><p align='left'>Le décompte de l'ancienneté pour déterminer le versement de la prime d'ancienneté se fait à compter de la dernière période de 3 ans calculée depuis la date de l'embauche. Le premier versement interviendra le 1er janvier suivant le terme de cette période.</p><p align='left'><font color='808080'><em>(1) Pour le versement de la prime d'ancienneté des négociateurs, se référer à l'annexe IV « statut du négociateur immobilier ». </em></font></p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Ancienneté (1)",
                 "lstLienModification": [
                   {
@@ -1501,6 +1501,18 @@
                     "datePubliTexte": "2022-03-31",
                     "dateSignaTexte": "2022-01-05",
                     "dateDebutCible": "2022-01-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000045862786",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045862791",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-04",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -12397,7 +12409,7 @@
             "cid": "KALITEXT000045457325",
             "title": "Avenant n° 90 du 5 janvier 2022 modifiant l'annexe II de la convention collective « prime d'ancienneté »",
             "id": "KALITEXT000045457325",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2022-01-01"
           },
           "children": [
@@ -12409,9 +12421,21 @@
                 "intOrdre": 524287,
                 "id": "KALIARTI000045457328",
                 "content": "<p align='left'>À compter du présent avenant, il n'y aura plus qu'un seul forfait de prime d'ancienneté pour l'ensemble des niveaux de la grille de classification. Le montant de prime d'ancienneté des 4 premiers niveaux est donc harmonisé avec celui des niveaux suivants, pour que le même forfait s'applique à tous les salariés de la branche.</p><p align='left'>Ainsi, l'article 36 de la CCN de l'immobilier relatif à la prime d'ancienneté est modifié au 1er janvier 2022 comme suit :</p><p align='left'>« Pour tenir compte de l'expérience acquise dans l'entreprise, le salaire global brut mensuel contractuel défini à l'article 37.3.1 est majoré de 30 euros tous les 3 ans, au 1er janvier suivant la date d'anniversaire.</p><p align='left'>Le décompte de l'ancienneté pour déterminer le versement de la prime d'ancienneté se fait à compter de la dernière période de 3 ans calculée depuis la date de l'embauche. Le premier versement interviendra le 1er janvier suivant le terme de cette période. »</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Prime d'ancienneté",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045862786",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045862791",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-04",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000023759095",
                     "textTitle": "Convention collective nationale de l'immobilier... - art. 36 (VNE)",
@@ -12434,9 +12458,22 @@
                 "num": "2",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000045457329",
-                "content": "<p align='left'>Le présent avenant est partie intégrante de l'annexe II « Salaires et primes d'ancienneté » de la CCNI.</p><p align='left'>De plus, conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>article L. 2261-23-1 du code du travail</a>, les partenaires sociaux précisent que cet avenant s'applique de la même manière aux entreprises de moins de 50 salariés et aux entreprises de 50 salariés et plus.</p><p align='left'>Par ailleurs, les parties rappellent que tout employeur est tenu d'assurer, pour un même travail ou pour un travail de valeur égale, l'égalité de rémunération entre les hommes et les femmes.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'>Le présent avenant est partie intégrante de l'annexe II « Salaires et primes d'ancienneté » de la CCNI.</p><p align='left'>De plus, conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>article L. 2261-23-1 du code du travail</a>, les partenaires sociaux précisent que cet avenant s'applique de la même manière aux entreprises de moins de 50 salariés et aux entreprises de 50 salariés et plus.</p><p align='left'>Par ailleurs, les parties rappellent que tout employeur est tenu d'assurer, pour un même travail ou pour un travail de valeur égale, l'égalité de rémunération entre les hommes et les femmes.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045862786",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045862791",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-04",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -12447,8 +12484,21 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000045457331",
                 "content": "<p align='left'><br/>Les parties conviennent de demander l'extension du présent avenant dans les meilleurs délais.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045862786",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045862791",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-04",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
@@ -14834,7 +14884,7 @@
             "cid": "KALITEXT000045457317",
             "title": "Avenant n° 89 du 5 janvier 2022 modifiant l'annexe II de la convention collective « Salaires »",
             "id": "KALITEXT000045457317",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2022-01-01"
           },
           "children": [
@@ -14846,9 +14896,22 @@
                 "intOrdre": 524287,
                 "id": "KALIARTI000045457320",
                 "content": "<p align='left'>Le présent avenant a pour objet de fixer, à compter du 1er janvier 2022, les salaires minima bruts annuels pour l'ensemble des salariés classés des entreprises de la branche de l'immobilier.</p><p align='left'>Comme les organisations professionnelles patronales s'y étaient engagées, cette grille est à présent unifiée et s'applique également aux résidences de tourisme.</p><p align='left'>En conséquence, le salaire minima brut annuel sera fixé comme suit pour chaque niveau :</p><p align='left'></p><center><table border='1'><tbody><tr><th>Niveau</th><th>Salaire minimum brut annuel [1]</th></tr><tr><td align='center'>E1</td><td align='center'>20 841 €</td></tr><tr><td align='center'>E2</td><td align='center'>21 315 €</td></tr><tr><td align='center'>E3</td><td align='center'>21 686 €</td></tr><tr><td align='center'>AM1</td><td align='center'>22 001 €</td></tr><tr><td align='center'>AM2</td><td align='center'>23 744 €</td></tr><tr><td align='center'>C1</td><td align='center'>25 292 €</td></tr><tr><td align='center'>C2</td><td align='center'>33 458 €</td></tr><tr><td align='center'>C3</td><td align='center'>39 866 €</td></tr><tr><td align='center'>C4</td><td align='center'>44 897 €</td></tr><tr><td colspan='2'>[1] Sur 13 mois, hors prime d'ancienneté.<br/>\n\t\t\tE = employé.<br/>\n\t\t\tAM = agent de maîtrise.<br/>\n\t\t\tC = cadre.</td></tr></tbody></table></center>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Salaires",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045862770",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045862775",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-04",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14859,8 +14922,21 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000045457321",
                 "content": "<p align='left'><br/>Il est rappelé que l'évolution des minima n'a pas vocation à se substituer aux négociations dans les entreprises.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045862770",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045862775",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-04",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14870,9 +14946,22 @@
                 "num": "3",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000045457322",
-                "content": "<p align='left'>Le présent avenant est partie intégrante de l'annexe II « Salaires et primes d'ancienneté » de la CCNI.</p><p align='left'>De plus, conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>article L. 2261-23-1 du code du travail</a>, les partenaires sociaux précisent que cet avenant s'applique de la même manière aux entreprises de moins de 50 salariés et aux entreprises de 50 salariés et plus.</p><p align='left'>Par ailleurs, les parties rappellent que tout employeur est tenu d'assurer, pour un même travail ou pour un travail de valeur égale, l'égalité de rémunération entre les hommes et les femmes.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'>Le présent avenant est partie intégrante de l'annexe II « Salaires et primes d'ancienneté » de la CCNI.</p><p align='left'>De plus, conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>article L. 2261-23-1 du code du travail</a>, les partenaires sociaux précisent que cet avenant s'applique de la même manière aux entreprises de moins de 50 salariés et aux entreprises de 50 salariés et plus.</p><p align='left'>Par ailleurs, les parties rappellent que tout employeur est tenu d'assurer, pour un même travail ou pour un travail de valeur égale, l'égalité de rémunération entre les hommes et les femmes.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045862770",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045862775",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-04",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14883,8 +14972,21 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000045457324",
                 "content": "<p align='left'>Les parties conviennent de demander l'extension du présent avenant dans les meilleurs délais.</p><p align='left'>Le présent avenant est susceptible d'être modifié, par un nouvel avenant, notamment en cas d'évolution des dispositions législatives, réglementaires ou conventionnelles qui nécessiteraient l'adaptation de l'une ou de plusieurs de ses dispositions.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045862770",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045862775",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-04",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]

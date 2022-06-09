@@ -12260,7 +12260,7 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000045855523",
                 "content": "<p align='center'>Grille des salaires minimaux</p><p align='left'>Les salaires contenus dans cette grille sont des salaires bruts établis sur la base d'une durée du travail de 35 heures hebdomadaires. Ils seront réduits proportionnellement pour les durées de travail inférieures. Il en sera de même pour toute suspension du contrat de travail ayant entraîné le non-paiement du salaire.</p><p align='center'>Employés</p><center><table border='1'><tbody><tr><th>Niveau</th><th>Degré</th><th>Coefficient</th><th>Salaire mensuel minimum hiérarchique conventionnel</th></tr><tr><td align='center'>1</td><td align='center'>B</td><td align='center'>120</td><td align='center'>1 605 €</td></tr><tr><td rowspan='3' align='center'>2</td><td align='center'>C</td><td align='center'>140</td><td align='center'>1 615 €</td></tr><tr><td align='center'>D</td><td align='center'>150</td><td align='center'>1 625 €</td></tr><tr><td align='center'>E</td><td align='center'>160</td><td align='center'>1 630 €</td></tr><tr><td rowspan='2' align='center'>3</td><td align='center'>F</td><td align='center'>190</td><td align='center'>1 655 €</td></tr><tr><td align='center'>G</td><td align='center'>200</td><td align='center'>1 720 €</td></tr></tbody></table></center><p></p><p align='center'>Agents de maîtrise</p><p align='left'></p><center><table border='1'><tbody><tr><th>Niveau</th><th>Degré</th><th>Coefficient</th><th>Salaire mensuel minimum hiérarchique conventionnel</th></tr><tr><td rowspan='3' align='center'>4</td><td align='center'>H</td><td align='center'>220</td><td align='center'>1 820 €</td></tr><tr><td align='center'>I</td><td align='center'>250</td><td align='center'>1 900 €</td></tr><tr><td align='center'>J</td><td align='center'>280</td><td align='center'>2 005 €</td></tr></tbody></table></center><p></p><p align='center'>Cadres</p><p align='left'></p><center><table border='1'><tbody><tr><th>Niveau</th><th>Degré</th><th>Coefficient</th><th>Salaire mensuel minimum hiérarchique conventionnel, par l'application d'une garantie mensuelle de 8,1 %</th><th>Salaire annuel minimum hiérarchique conventionnel</th></tr><tr><td rowspan='4' align='center'>5</td><td align='center'>K</td><td align='center'>320</td><td align='center'>2 535 €</td><td align='center'>31 296 €</td></tr><tr><td align='center'>L</td><td align='center'>400</td><td align='center'>2 665 €</td><td align='center'>32 901 €</td></tr><tr><td align='center'>M</td><td align='center'>500</td><td align='center'>2 990 €</td><td align='center'>36 914 €</td></tr><tr><td align='center'>N</td><td align='center'>600</td><td align='center'>3 230 €</td><td align='center'>39 877 €</td></tr></tbody></table></center>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Grille des salaires minimaux",
                 "lstLienModification": [
                   {
@@ -12274,6 +12274,18 @@
                     "datePubliTexte": "2022-05-25",
                     "dateSignaTexte": "2022-01-31",
                     "dateDebutCible": "2022-03-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000045864236",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045864241",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-05",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -12442,7 +12454,7 @@
             "cid": "KALITEXT000045829109",
             "title": "Avenant n° 1 du 31 janvier 2022 à l'accord du 7 décembre 2021 relatif aux salaires minima conventionnels au 1er mars 2022",
             "id": "KALITEXT000045829109",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2022-03-01"
           },
           "children": [
@@ -12453,10 +12465,23 @@
                 "num": "1er",
                 "intOrdre": 524287,
                 "id": "KALIARTI000045829112",
-                "content": "<p align='left'>Le présent accord est un avenant de révision à l'<a href='/affichIDCC.do?cidTexte=KALITEXT000045396510&categorieLien=cid' title='Salaires minima conventionnels (VE)'>accord de branche du 7 décembre 2021</a> relatif aux salaires minima conventionnels et a pour objet de modifier l'article 3 relatif à la grille des salaires minimaux suite à une nouvelle réunion de négociation de la CPPNI le 7 janvier 2022.<br/><p> <br/>\nLe champ d'application du présent avenant est celui de la convention collective nationale du bricolage défini à l'article 1er de ladite convention.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le présent accord est un avenant de révision à l'<a href='/affichIDCC.do?cidTexte=KALITEXT000045396510&categorieLien=cid'>accord de branche du 7 décembre 2021</a> relatif aux salaires minima conventionnels et a pour objet de modifier l'article 3 relatif à la grille des salaires minimaux suite à une nouvelle réunion de négociation de la CPPNI le 7 janvier 2022.<br/><p> <br/>\nLe champ d'application du présent avenant est celui de la convention collective nationale du bricolage défini à l'article 1er de ladite convention.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Objet et champ d'application de l'avenant",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045864236",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045864241",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-05",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -12467,7 +12492,7 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000045829114",
                 "content": "<p align='left'>L'article 3 de l'accord du 7 décembre 2021 relatif aux salaires minima conventionnels est remplacé par les dispositions ci-après et est désormais rédigé comme suit : </p><p align='center'>« Article 3 <br/>Grille des salaires minimaux </p><p align='left'>Les salaires contenus dans cette grille sont des salaires bruts établis sur la base d'une durée du travail de 35 heures hebdomadaires. Ils seront réduits proportionnellement pour les durées de travail inférieures. Il en sera de même pour toute suspension du contrat de travail ayant entraîné le non-paiement du salaire. </p><p align='center'>Employés </p><p align='left'></p><center><table border='1'><tbody><tr><th>Niveau </th><th>Degré </th><th>Coefficient </th><th>Salaire mensuel minimum hiérarchique conventionnel </th></tr><tr><td align='center'>1 </td><td align='center'>B </td><td align='center'>120 </td><td align='center'>1 605 € </td></tr><tr><td rowspan='3' align='center'>2 </td><td align='center'>C </td><td align='center'>140 </td><td align='center'>1 615 € </td></tr><tr><td align='center'>D </td><td align='center'>150 </td><td align='center'>1 625 € </td></tr><tr><td align='center'>E </td><td align='center'>160 </td><td align='center'>1 630 € </td></tr><tr><td rowspan='2' align='center'>3 </td><td align='center'>F </td><td align='center'>190 </td><td align='center'>1 655 € </td></tr><tr><td align='center'>G </td><td align='center'>200 </td><td align='center'>1 720 € </td></tr></tbody></table></center><p></p><p align='center'>Agents de maîtrise </p><p align='left'></p><center><table border='1'><tbody><tr><th>Niveau </th><th>Degré </th><th>Coefficient </th><th>Salaire mensuel minimum hiérarchique conventionnel </th></tr><tr><td rowspan='3' align='center'>4 </td><td align='center'>H </td><td align='center'>220 </td><td align='center'>1 820 € </td></tr><tr><td align='center'>I </td><td align='center'>250 </td><td align='center'>1 900 € </td></tr><tr><td align='center'>J </td><td align='center'>280 </td><td align='center'>2 005 € </td></tr></tbody></table></center><p></p><p align='center'>Cadres </p><p align='left'></p><center><table border='1'><tbody><tr><th>Niveau </th><th>Degré </th><th>Coefficient </th><th>Salaire mensuel minimum hiérarchique conventionnel, par l'application d'une garantie mensuelle de 8,1 % </th><th>Salaire annuel minimum hiérarchique conventionnel </th></tr><tr><td rowspan='4' align='center'>5 </td><td align='center'>K </td><td align='center'>320 </td><td align='center'>2 535 € </td><td align='center'>31 296 € </td></tr><tr><td align='center'>L </td><td align='center'>400 </td><td align='center'>2 665 € </td><td align='center'>32 901 € </td></tr><tr><td align='center'>M </td><td align='center'>500 </td><td align='center'>2 990 € </td><td align='center'>36 914 € </td></tr><tr><td align='center'>N </td><td align='center'>600 </td><td align='center'>3 230 € </td><td align='center'>39 877 €</td></tr></tbody></table></center><p></p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Modification de l'article 3 « Grille des salaires minimaux »",
                 "lstLienModification": [
                   {
@@ -12481,6 +12506,18 @@
                     "datePubliTexte": "2022-03-23",
                     "dateSignaTexte": "2021-12-07",
                     "dateDebutCible": "2022-03-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000045864236",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045864241",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-05",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -12492,10 +12529,23 @@
                 "num": "3",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000045829116",
-                "content": "<p align='left'>Le présent avenant est conclu pour une durée indéterminée.<br/><p> <br/>\nEn application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901786&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-8 (V)'>article L. 2261-8 du code du travail</a>, il est rappelé que les dispositions du présent avenant remplace de plein droit l'article 3 de l'accord de branche du 7 décembre 2021.<br/><p> <br/>\nLes autres dispositions de cet accord de branche demeurent inchangées.<br/><p> <br/>\nIl prend effet dans les mêmes conditions que l'accord de branche du 7 décembre 2021, et s'applique à partir du 1er mars 2022, sous réserve de l'exercice du droit d'opposition.<br/><p> <br/>\nChaque partie légalement habilitée à engager la procédure de révision et introduisant une demande devra l'accompagner d'un projet sur les points à réviser. Les discussions devront s'engager dans les 30 jours suivant la date de la demande de révision.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le présent avenant est conclu pour une durée indéterminée.<br/><p> <br/>\nEn application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901786&dateTexte=&categorieLien=cid'>article L. 2261-8 du code du travail</a>, il est rappelé que les dispositions du présent avenant remplace de plein droit l'article 3 de l'accord de branche du 7 décembre 2021.<br/><p> <br/>\nLes autres dispositions de cet accord de branche demeurent inchangées.<br/><p> <br/>\nIl prend effet dans les mêmes conditions que l'accord de branche du 7 décembre 2021, et s'applique à partir du 1er mars 2022, sous réserve de l'exercice du droit d'opposition.<br/><p> <br/>\nChaque partie légalement habilitée à engager la procédure de révision et introduisant une demande devra l'accompagner d'un projet sur les points à réviser. Les discussions devront s'engager dans les 30 jours suivant la date de la demande de révision.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Durée, effet, entrée en vigueur et révision",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045864236",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045864241",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-05",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -12506,9 +12556,22 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000045829120",
                 "content": "<p align='left'>Le présent avenant est établi en vertu des dispositions du code du travail relatives à « la négociation collective – les conventions et accords collectifs du travail » (livre deuxième de la partie II). Compte tenu de son objet, le présent avenant ne nécessite pas de dispositions particulières pour les entreprises de moins de 50 salariés.<br/><p> <br/>\nIl est fait en nombre suffisant d'exemplaires pour être remis à chacune des organisations signataires et être déposé en deux exemplaires dont un sur support électronique.<br/><p> <br/>\nLes parties signataires conviennent de demander l'extension du présent avenant. Le secrétariat de la commission paritaire est mandaté à cet effet (secrétariat CCPNI bricolage, C/O FMB, 5, rue de Maubeuge, 75009 Paris et adresse mail : <a shape='rect' href='mailto:cppni@fmbricolage.org' target='_blank'> cppni@fmbricolage.org</a>).</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dépôt et extension",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045864236",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045864241",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-05",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
