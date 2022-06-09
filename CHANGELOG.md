@@ -1,3 +1,10 @@
+# [2.309.0](https://github.com/SocialGouv/kali-data/compare/v2.308.0...v2.309.0) (2022-06-09)
+
+
+### Features
+
+* update name of agreement 1505 ([82f0b6a](https://github.com/SocialGouv/kali-data/commit/82f0b6ad12c79a3e06fa7e71161fde56aaeaaa19))
+
 # [2.308.0](https://github.com/SocialGouv/kali-data/compare/v2.307.0...v2.308.0) (2022-06-09)
 
 
