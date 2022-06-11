@@ -12676,7 +12676,7 @@
             "cid": "KALITEXT000044029684",
             "title": "Avenant n° 4 du 19 janvier 2021 à l'avenant n° 18 du 16 janvier 2013 relatif au régime de prévoyance",
             "id": "KALITEXT000044029684",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2021-01-01"
           },
           "children": [
@@ -12687,7 +12687,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000044029687",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -12697,8 +12697,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000044029698",
                     "content": "<p align='left'><br/>Les partenaires sociaux ont décidé de créer un fonds de péréquation pour assurer une mutualisation des obligations mises à la charge des employeurs. Ce fonds a pour but de favoriser le respect par les employeurs des obligations mises à leur charge et d'assurer leurs salariés du service des prestations qui leur sont dues.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000045887533",
+                        "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000045887536",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2022-06-09",
+                        "dateSignaTexte": "2022-05-23",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -12711,9 +12724,22 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000044029688",
                 "content": "<p align='left'>Le fonds de péréquation a été créé pour assurer à l'employeur le remboursement des congés pour événements familiaux et l'indemnité de licenciement pour inaptitude suite à maladie professionnelle.</p><p align='left'>Cet article modifie la prise en charge à hauteur de 50 % des congés pour événements familiaux prévus à l'article 35 de la convention collective nationale ainsi que 80 % des indemnités légales de licenciement pour inaptitude suite à maladie professionnelle.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Modification de l'objet de l'avenant",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045887533",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045887536",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-09",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -12723,10 +12749,23 @@
                 "num": "2",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000044029689",
-                "content": "<p align='left'>Le taux de cotisation du fonds de péréquation est fixé à 0,08 % du salaire brut tranches A + B.</p><p align='left'>Les cotisations du fonds de péréquation sont à la charge exclusive de l'employeur.</p><p align='left'>Les cotisations sont recouvrées par un organisme collecteur de prévoyance en même temps et dans les mêmes conditions que les cotisations affectées au financement de la prévoyance et de la retraite complémentaire.</p><p align='left'>Les frais de gestion de ce fonds de péréquation sont de 10 %.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le taux de cotisation du fonds de péréquation est fixé à 0,08 % du salaire brut tranches A + B.</p><p align='left'>Les cotisations du fonds de péréquation sont à la charge exclusive de l'employeur.</p><p align='left'>Les cotisations sont recouvrées par un organisme collecteur de prévoyance en même temps et dans les mêmes conditions que les cotisations affectées au financement de la prévoyance et de la retraite complémentaire.</p><p align='left'>Les frais de gestion de ce fonds de péréquation sont de 10 %.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000044029689_1'></a>(1) Article étendu sous réserve de l'application de l'article R. 242-1-1 du code de la sécurité sociale, dans sa rédaction en vigueur à compter du 1er janvier 2022, et des stipulations de l'accord national interprofessionnel du 17 novembre 2017 instituant le régime AGIRC-ARRCO de retraite complémentaire et de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres, en matière de définition des catégories objectives de salariés.  <br/>(Arrêté du 23 mai 2022 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Cotisations",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045887533",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045887536",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-09",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -12737,9 +12776,22 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000044029690",
                 "content": "<p align='left'><br/>Les prestations du fonds de péréquation seront versées dans la limite des fonds disponibles.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Versement des prestations",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045887533",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045887536",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-09",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -12750,9 +12802,22 @@
                 "intOrdre": 2621435,
                 "id": "KALIARTI000044029691",
                 "content": "<p align='left'><br/>Les modalités de fonctionnement du fonds de péréquation seront réexaminées dans le délai maximum de 3 ans à compter de la date d'effet du présent avenant, de même que le choix de l'organisme gestionnaire.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Modalités de fonctionnement",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045887533",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045887536",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-09",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -12763,9 +12828,22 @@
                 "intOrdre": 3145722,
                 "id": "KALIARTI000044029692",
                 "content": "<p align='left'><br/>Le délai de prescription est de 2 ans à compter de l'événement qui y donne naissance.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Délai de prescription",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045887533",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045887536",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-09",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -12776,9 +12854,22 @@
                 "intOrdre": 3670009,
                 "id": "KALIARTI000044029693",
                 "content": "<p align='left'><br/>Le présent avenant prend effet le 1er janvier 2021.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Date d'effet",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045887533",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045887536",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-09",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -12788,10 +12879,23 @@
                 "num": "7",
                 "intOrdre": 4194296,
                 "id": "KALIARTI000044029694",
-                "content": "<p align='left'>Le présent avenant fera l'objet d'un dépôt auprès des services centraux du ministre chargé du travail ainsi qu'au secrétariat du greffe du conseil des prud'hommes dans les conditions requises par le code du travail.</p><p align='left'>Les parties signataires sont convenues de demander, sans délai, l'extension du présent avenant.</p><p align='left'>La confédération nationale des détaillants, détaillants-fabricants de la confiserie, chocolaterie, biscuiterie, 64, rue de Caumartin, 75009 Paris, est chargée des formalités nécessaires.</p><p align='left'>Suivant les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>dispositions de l'article L. 2261-23-1 du code du travail</a>, les parties signataires n'ont pas retenu de dispositions spécifiques telles que visées par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-10-1 (M)'>article L. 2232-10-1 du code du travail</a> à l'attention des entreprises de moins de 50 salariés dès lors que le présent avenant vise à modifier le régime collectif obligatoire de prévoyance dont doivent bénéficier les salariés relevant de la convention collective et ce quel que soit l'effectif de l'entreprise.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le présent avenant fera l'objet d'un dépôt auprès des services centraux du ministre chargé du travail ainsi qu'au secrétariat du greffe du conseil des prud'hommes dans les conditions requises par le code du travail.</p><p align='left'>Les parties signataires sont convenues de demander, sans délai, l'extension du présent avenant.</p><p align='left'>La confédération nationale des détaillants, détaillants-fabricants de la confiserie, chocolaterie, biscuiterie, 64, rue de Caumartin, 75009 Paris, est chargée des formalités nécessaires.</p><p align='left'>Suivant les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-23-1 du code du travail</a>, les parties signataires n'ont pas retenu de dispositions spécifiques telles que visées par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid'>article L. 2232-10-1 du code du travail</a> à l'attention des entreprises de moins de 50 salariés dès lors que le présent avenant vise à modifier le régime collectif obligatoire de prévoyance dont doivent bénéficier les salariés relevant de la convention collective et ce quel que soit l'effectif de l'entreprise.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dépôt. Extension",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045887533",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045887536",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-09",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
