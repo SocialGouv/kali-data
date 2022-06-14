@@ -3347,34 +3347,22 @@
                 "cid": "KALIARTI000025127517",
                 "num": "92",
                 "intOrdre": 2147221503,
-                "id": "KALIARTI000039497291",
-                "content": "<p align='left'>Les cotisations sont calculées sur les salaires bruts (tranches A et B) des salariés non cadres.</p><p align='right'>(En pourcentage.)</p><center><table border='1'><tbody><tr><th>Garantie</th><th>Taux contractuel<br/>\n\t\t\tdes cotisations (*)</th><th>Part salarié</th><th>Part employeur</th></tr><tr><td align='center'>Décès/ IAD – obsèques</td><td align='center'>0,35</td><td align='center'>0,175</td><td align='center'>0,175</td></tr><tr><td align='center'>Invalidité</td><td align='center'>0,20</td><td align='center'>0,10</td><td align='center'>0,10</td></tr><tr><td align='center'>Incapacité de travail</td><td align='center'>0,15</td><td align='center'>0,075</td><td align='center'>0,075</td></tr><tr><td align='center'>Rente éducation</td><td align='center'>0,11</td><td align='center'>0,055</td><td align='center'>0,055</td></tr><tr><td align='center'>Rente handicap</td><td align='center'>0,02</td><td align='center'>0,01</td><td align='center'>0,01</td></tr><tr><td align='center'>Portabilité</td><td align='center'>0,01</td><td align='center'>0,005</td><td align='center'>0,005</td></tr><tr><td align='center'>Total</td><td align='center'>0,84</td><td align='center'>0,42</td><td align='center'>0,42</td></tr><tr><td colspan='4' align='center'>(*) La répartition du total des cotisations est établie sur la base de 50 % à la charge de l'employeur et 50 % à la charge du salarié.</td></tr></tbody></table></center><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000025127517_1'></a>(1) Article étendu sous réserve de l'application des stipulations de l'accord national interprofessionnel du 17 novembre 2017 instituant le régime AGIRC-ARRCO de retraite complémentaire et de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres.  <br/>(Arrêté du 20 mai 2020 - art. 1)</em></font></p>",
-                "etat": "VIGUEUR_ETEN",
+                "id": "KALIARTI000044938173",
+                "content": "<p align='left'>Les cotisations sont calculées sur les salaires bruts (tranches A et B) des salariés non-cadres.</p><center><table border='1'><tbody><tr><th>Garantie</th><th>Taux contractuel des cotisations [*]</th><th>Part salarié</th><th>Part employeur</th></tr><tr><td align='center'>Décès/ IAD – obsèques</td><td align='center'>0,35 %</td><td align='center'>0,175 %</td><td align='center'>0,175 %</td></tr><tr><td align='center'>Invalidité</td><td align='center'>0,26 %</td><td align='center'>0,13 %</td><td align='center'>0,13 %</td></tr><tr><td align='center'>Incapacité de travail</td><td align='center'>0,19 %</td><td align='center'>0,095 %</td><td align='center'>0,095 %</td></tr><tr><td align='center'>Rente éducation</td><td align='center'>0,11 %</td><td align='center'>0,055 %</td><td align='center'>0,055 %</td></tr><tr><td align='center'>Rente handicap</td><td align='center'>0,02 %</td><td align='center'>0,01 %</td><td align='center'>0,01 %</td></tr><tr><td align='center'>Portabilité</td><td align='center'>0,01 %</td><td align='center'>0,005 %</td><td align='center'>0,005 %</td></tr><tr><td align='center'>Total</td><td align='center'>0,94 %</td><td align='center'>0,47 %</td><td align='center'>0,47 %</td></tr><tr><td colspan='4' align='center'>[*] La répartition du total des cotisations est établie sur la base de 50 % à la charge de l'employeur et 50 % à la charge</td></tr></tbody></table></center>",
+                "etat": "VIGUEUR_NON_ETEN",
                 "surtitre": "Cotisations",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000039479559",
+                    "textCid": "KALITEXT000044925174",
                     "textTitle": "Régime de prévoyance - art. 1er (VNE)",
                     "linkType": "MODIFIE",
                     "linkOrientation": "cible",
                     "articleNum": "1er",
-                    "articleId": "KALIARTI000039479563",
+                    "articleId": "KALIARTI000044925178",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2019-12-11",
-                    "dateSignaTexte": "2019-07-16",
-                    "dateDebutCible": "2019-07-01"
-                  },
-                  {
-                    "textCid": "JORFTEXT000041937544",
-                    "textTitle": "Arrêté du 20 mai 2020 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000041937547",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2020-05-30",
-                    "dateSignaTexte": "2020-05-20",
-                    "dateDebutCible": "2999-01-01"
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2021-10-27",
+                    "dateDebutCible": "2022-01-01"
                   }
                 ]
               }
@@ -3588,7 +3576,7 @@
             "title": "Annexe I Convention collective nationale du 10 juillet 1956",
             "id": "KALITEXT000005657154",
             "etat": "VIGUEUR_ETEN",
-            "modifDate": "2017-05-01"
+            "modifDate": "2022-01-01"
           },
           "children": [
             {
@@ -3805,33 +3793,33 @@
                         "cid": "KALIARTI000005797502",
                         "num": "5",
                         "intOrdre": 42949,
-                        "id": "KALIARTI000034863716",
-                        "content": "<p>Une prime de treizième mois payable en 1 ou 2 fois est accordée à tout salarié ayant au moins 1 an d'ancienneté continue.</p><p>Le montant de cette prime est de 100 % du salaire mensuel de l'intéressé, correspondant à l'horaire normalement pratiqué dans l'entreprise. Les primes ayant le caractère de salaire (prime de froid, prime d'ancienneté) doivent être comprises dans le calcul concernant cette prime de treizième mois.</p><p></p><p></p>",
+                        "id": "KALIARTI000045728592",
+                        "content": "<p>Les salariés bénéficient, sous condition d'ancienneté, d'une prime annuelle dite de 13e mois.</p><p>Le montant de cette prime, pour une année civile complète d'activité, est de 100 % du salaire mensuel de l'intéressé, correspondant à l'horaire normalement pratiqué dans l'entreprise. Les primes ayant le caractère de salaire (prime de froid, prime d'ancienneté) sont comprises dans le calcul de cette prime annuelle dite de treizième mois.</p><p>Elle est versée au mois de décembre de l'année d'embauche, et, au choix de l'entreprise en 1 ou 2 fois – sous forme d'un acompte au mois de juin, le cas échéant –, les années civiles suivantes.</p><p>La condition d'ancienneté au 31 décembre de l'année d'embauche est de 9 mois continus.</p><p>Sous condition de cette ancienneté, la prime annuelle dite 13e mois est versée pro rata temporis de l'année civile d'embauche.</p><p>Tout départ de l'entreprise en cours d'une année civile postérieure à l'année civile d'embauche donne lieu au versement de la prime annuelle dite de 13e mois au pro rata temporis de la présence dans l'entreprise au cours de cette année civile, sous condition de l'ancienneté de 9 mois continus.</p>",
                         "etat": "VIGUEUR_ETEN",
                         "lstLienModification": [
                           {
-                            "textCid": "KALITEXT000034032559",
-                            "textTitle": "Prime de treizième mois - art. (VNE)",
-                            "linkType": "MODIFIE",
-                            "linkOrientation": "cible",
-                            "articleNum": "",
-                            "articleId": "KALIARTI000034032562",
-                            "natureText": "Avenant",
-                            "datePubliTexte": "2017-02-14",
-                            "dateSignaTexte": "2016-09-15",
-                            "dateDebutCible": "2017-05-01"
-                          },
-                          {
-                            "textCid": "JORFTEXT000034518848",
-                            "textTitle": "Arrêté du 28 avril 2017 - art. 11, v. init.",
+                            "textCid": "JORFTEXT000045546131",
+                            "textTitle": "Arrêté du 31 mars 2022 - art. 1, v. init.",
                             "linkType": "ETEND",
                             "linkOrientation": "cible",
-                            "articleNum": "11",
-                            "articleId": "JORFARTI000034518912",
+                            "articleNum": "1",
+                            "articleId": "JORFARTI000045546135",
                             "natureText": "ARRETE",
-                            "datePubliTexte": "2017-04-30",
-                            "dateSignaTexte": "2017-04-28",
+                            "datePubliTexte": "2022-04-12",
+                            "dateSignaTexte": "2022-03-31",
                             "dateDebutCible": "2999-01-01"
+                          },
+                          {
+                            "textCid": "KALITEXT000045694455",
+                            "textTitle": "Salaires au 1er janvier 2022 - art. 3 (VNE)",
+                            "linkType": "MODIFIE",
+                            "linkOrientation": "cible",
+                            "articleNum": "3",
+                            "articleId": "KALIARTI000045694463",
+                            "natureText": "Avenant",
+                            "datePubliTexte": "2022-04-28",
+                            "dateSignaTexte": "2021-12-15",
+                            "dateDebutCible": "2022-01-01"
                           }
                         ]
                       }
@@ -13592,6 +13580,93 @@
               ]
             }
           ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000044925174",
+            "title": "Avenant n° 92 du 27 octobre 2021 relatif au régime de prévoyance",
+            "id": "KALITEXT000044925174",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2022-01-01"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000044925177",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000044925177",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000044925186",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000044925186",
+                    "content": "<p align='left'>Afin de prévenir un déséquilibre financier du régime de prévoyance conventionnel dans la branche d'activité des exploitations frigorifiques, les partenaires sociaux conviennent d'une révision à la hausse des taux de cotisation des garanties prenant effet le 1er janvier 2022.</p><p align='left'>Il est convenu ce qui suit :</p><p></p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": []
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044925178",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000044925178",
+                "content": "<p align='left'>L'article 92 du régime de prévoyance de la convention collective nationale des exploitations frigorifiques, tel que modifié par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000028967578&categorieLien=cid' title='Prévoyance (VE)'>avenant n° 81 du 16 décembre 2013 </a>et l'<a href='/affichIDCC.do?cidTexte=KALITEXT000039479559&categorieLien=cid' title='Régime de prévoyance (VE)'>avenant n° 89 du 16 juillet 2019</a>, est modifié comme suit :</p><p align='center'>« Article 92 </p><p align='left'>Les cotisations sont calculées sur les salaires bruts (tranches A et B) des salariés non-cadres.</p><p align='left'></p><center><table border='1'><tbody><tr><th>Garantie</th><th>Taux contractuel des cotisations [*]</th><th>Part salarié</th><th>Part employeur</th></tr><tr><td align='center'>Décès/ IAD – obsèques</td><td align='center'>0,35 %</td><td align='center'>0,175 %</td><td align='center'>0,175 %</td></tr><tr><td align='center'>Invalidité</td><td align='center'>0,26 %</td><td align='center'>0,13 %</td><td align='center'>0,13 %</td></tr><tr><td align='center'>Incapacité de travail</td><td align='center'>0,19 %</td><td align='center'>0,095 %</td><td align='center'>0,095 %</td></tr><tr><td align='center'>Rente éducation</td><td align='center'>0,11 %</td><td align='center'>0,055 %</td><td align='center'>0,055 %</td></tr><tr><td align='center'>Rente handicap</td><td align='center'>0,02 %</td><td align='center'>0,01 %</td><td align='center'>0,01 %</td></tr><tr><td align='center'>Portabilité</td><td align='center'>0,01 %</td><td align='center'>0,005 %</td><td align='center'>0,005 %</td></tr><tr><td align='center'>Total</td><td align='center'>0,94 %</td><td align='center'>0,47 %</td><td align='center'>0,47 %</td></tr><tr><td colspan='4'>[*] La répartition du total des cotisations est établie sur la base de 50 % à la charge de l'employeur et 50 % à la charge du salarié.</td></tr></tbody></table></center><p></p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Modification de l'article 1er de l'avenant n° 89 du 16 juillet 2019",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000005657149",
+                    "textTitle": "Convention collective nationale du 10 juillet 1956 - art. 92 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "92",
+                    "articleId": "KALIARTI000044938173",
+                    "natureText": "Convention collective nationale ",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "1956-07-10",
+                    "dateDebutCible": "2022-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044925180",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000044925180",
+                "content": "<p align='left'><br/>Le présent avenant prend effet au 1er janvier 2022.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Date d'effet",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000044925181",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000044925181",
+                "content": "<p align='left'><br/>Le présent avenant est fait en nombre suffisant d'exemplaires pour remise à chacune des organisations signataires et dépôt dans les conditions prévues par le code du travail.<br/>Les parties signataires conviennent de demander au ministère du travail, de la solidarité et de la fonction publique, l'extension du présent avenant en application des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-15 (V)'>articles L. 2261-15 et suivants du code du travail</a>.<br/>L'union syndicale nationale des exploitations frigorifiques, 5, rue Kepler, 75116 Paris se charge des formalités nécessaires.<br/>Suivant les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>dispositions de l'article L. 2261-23-1 du code du travail</a>, les parties signataires n'ont pas retenu de dispositions spécifiques telles que visées par l'art. L. 2231-10-1 du code du travail à l'attention des entreprises de moins de 50 salariés, dès lors que le présent avenant vise à modifier le régime collectif obligatoire de prévoyance dont doivent bénéficier les salariés relevant de la convention collective et ce, quel que soit l'effectif de leur entreprise.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Dépôt. Extension",
+                "lstLienModification": []
+              }
+            }
+          ]
         }
       ]
     },
@@ -14914,7 +14989,7 @@
                 "num": "1er",
                 "intOrdre": 524287,
                 "id": "KALIARTI000044159821",
-                "content": "<p align='left'>L'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000005657154&idArticle=KALIARTI000005797498&categorieLien=cid'>article 2</a> de l'annexe I de la convention collective nationale tel que modifié par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000039196020&categorieLien=cid'>avenant n° 88 du 28 mai 2019 </a>est supprimé et remplacé par les dispositions suivantes :</p><p align='left'>« À compter du 1er avril 2021, les salaires minima garantis sont les suivants, sous réserve du respect des dispositions réglementaires portant fixation du salaire minimum interprofessionnel de croissance :</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Coefficient</th><th>Salaire horaire minimum</th><th>Salaire mensuel minimum pour 151,67 heures</th></tr><tr><td align='center'>125</td><td align='center'>10,27</td><td align='center'>1 557,65</td></tr><tr><td align='center'>135</td><td align='center'>10,31</td><td align='center'>1 563,72</td></tr><tr><td align='center'>145</td><td align='center'>10,35</td><td align='center'>1 569,78</td></tr><tr><td align='center'>155</td><td align='center'>10,39</td><td align='center'>1 575,85</td></tr><tr><td align='center'>175</td><td align='center'>10,60</td><td align='center'>1 607,70</td></tr><tr><td align='center'>195</td><td align='center'>11,03</td><td align='center'>1 672,92</td></tr><tr><td align='center'>205</td><td align='center'>11,16</td><td align='center'>1 692,64</td></tr><tr><td align='center'>225</td><td align='center'>11,27</td><td align='center'>1 709,32</td></tr><tr><td align='center'>235</td><td align='center'>11,77</td><td align='center'>1 785,16</td></tr><tr><td align='center'>245</td><td align='center'>12,26</td><td align='center'>1 859,47</td></tr><tr><td align='center'>265</td><td align='center'>13,52</td><td align='center'>2 050,58</td></tr><tr><td align='center'>275</td><td align='center'>13,75</td><td align='center'>2 085,46</td></tr><tr><td align='center'>285</td><td align='center'>14,44</td><td align='center'>2 190,11</td></tr><tr><td align='center'>295</td><td align='center'>14,75</td><td align='center'>2 237,13</td></tr><tr><td align='center'>305</td><td align='center'>15,28</td><td align='center'>2 317,52</td></tr><tr><td align='center'>315</td><td align='center'>15,81</td><td align='center'>2 397,90</td></tr><tr><td align='center'>335</td><td align='center'>16,79</td><td align='center'>2 546,54</td></tr><tr><td align='center'>345</td><td align='center'>17,26</td><td align='center'>2 617,82</td></tr><tr><td align='center'>355</td><td align='center'>17,28</td><td align='center'>2 620,86</td></tr><tr><td align='center'>405</td><td align='center'>19,70</td><td align='center'>2 987,90</td></tr><tr><td align='center'>505</td><td align='center'>24,64</td><td align='center'>3 737,15</td></tr><tr><td align='center'>555</td><td align='center'>27,11</td><td align='center'>4 111,77</td></tr><tr><td align='center'>605</td><td align='center'>29,56</td><td align='center'>4 483,37</td></tr><tr><td align='center'>655</td><td align='center'>32,03</td><td align='center'>4 857,99</td></tr><tr><td align='center'>705</td><td align='center'>34,50</td><td align='center'>5 232,62</td></tr></tbody></table></center><p align='left'>Il est rappelé que :<br/>\n– le calcul des primes panier et des frais de déplacement prévus par la convention collective nationale, sont calculés sur la base du minimum garanti fixé par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000005657216&categorieLien=cid'>avenant n° 65 du 31 mai 2003</a>. »</p><p align='left'>Conformément à l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000044065617&idArticle=KALIARTI000044065635&categorieLien=cid'>article 3.1 </a>de l'avenant n° 3 à l'accord sur la classification des postes dans les exploitations frigorifiques, du 9 mars 2021, qui a supprimé les coefficients 165,185,215,255,285,325,455, il est rappelé que les salariés actuellement classés aux coefficients supprimés seront, du fait de cette suppression, classés automatiquement au coefficient immédiatement supérieur.</p><p align='left'>Eu égard à ce changement automatique de coefficient, les employeurs de la branche devront veiller au respect du salaire minimal conventionnel correspondant à ce coefficient supérieur en application de la grille de salaires telle que figurant dans le présent article.</p>",
+                "content": "<p align='left'>L'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000005657154&idArticle=KALIARTI000005797498&categorieLien=cid'>article 2</a> de l'annexe I de la convention collective nationale tel que modifié par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000039196020&categorieLien=cid'>avenant n° 88 du 28 mai 2019 </a>est supprimé et remplacé par les dispositions suivantes :</p><p align='left'>« À compter du 1er avril 2021, les salaires minima garantis sont les suivants, sous réserve du respect des dispositions réglementaires portant fixation du salaire minimum interprofessionnel de croissance :</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Coefficient</th><th>Salaire horaire minimum</th><th>Salaire mensuel minimum pour 151,67 heures</th></tr><tr><td align='center'>125</td><td align='center'>10,27</td><td align='center'>1 557,65</td></tr><tr><td align='center'>135</td><td align='center'>10,31</td><td align='center'>1 563,72</td></tr><tr><td align='center'>145</td><td align='center'>10,35</td><td align='center'>1 569,78</td></tr><tr><td align='center'>155</td><td align='center'>10,39</td><td align='center'>1 575,85</td></tr><tr><td align='center'>175</td><td align='center'>10,60</td><td align='center'>1 607,70</td></tr><tr><td align='center'>195</td><td align='center'>11,03</td><td align='center'>1 672,92</td></tr><tr><td align='center'>205</td><td align='center'>11,16</td><td align='center'>1 692,64</td></tr><tr><td align='center'>225</td><td align='center'>11,27</td><td align='center'>1 709,32</td></tr><tr><td align='center'>235</td><td align='center'>11,77</td><td align='center'>1 785,16</td></tr><tr><td align='center'>245</td><td align='center'>12,26</td><td align='center'>1 859,47</td></tr><tr><td align='center'>265</td><td align='center'>13,52</td><td align='center'>2 050,58</td></tr><tr><td align='center'>275</td><td align='center'>13,75</td><td align='center'>2 085,46</td></tr><tr><td align='center'>285</td><td align='center'>14,44</td><td align='center'>2 190,11</td></tr><tr><td align='center'>295</td><td align='center'>14,75</td><td align='center'>2 237,13</td></tr><tr><td align='center'>305</td><td align='center'>15,28</td><td align='center'>2 317,52</td></tr><tr><td align='center'>315</td><td align='center'>15,81</td><td align='center'>2 397,90</td></tr><tr><td align='center'>335</td><td align='center'>16,79</td><td align='center'>2 546,54</td></tr><tr><td align='center'>345</td><td align='center'>17,26</td><td align='center'>2 617,82</td></tr><tr><td align='center'>355</td><td align='center'>17,28</td><td align='center'>2 620,86</td></tr><tr><td align='center'>405</td><td align='center'>19,70</td><td align='center'>2 987,90</td></tr><tr><td align='center'>505</td><td align='center'>24,64</td><td align='center'>3 737,15</td></tr><tr><td align='center'>555</td><td align='center'>27,11</td><td align='center'>4 111,77</td></tr><tr><td align='center'>605</td><td align='center'>29,56</td><td align='center'>4 483,37</td></tr><tr><td align='center'>655</td><td align='center'>32,03</td><td align='center'>4 857,99</td></tr><tr><td align='center'>705</td><td align='center'>34,50</td><td align='center'>5 232,62</td></tr></tbody></table></center><p align='left'>Il est rappelé que :<br/>\n– le calcul des primes panier et des frais de déplacement prévus par la convention collective nationale, sont calculés sur la base du minimum garanti fixé par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000005657216&categorieLien=cid'>avenant n° 65 du 31 mai 2003</a>. »</p><p align='left'>Conformément à l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000044065617&idArticle=KALIARTI000044065635&categorieLien=cid'>article 3.1 </a>de l'avenant n° 3 à l'accord sur la classification des postes dans les exploitations frigorifiques, du 9 mars 2021, qui a supprimé les coefficients 165,185, 215, 255, 285, 325, 455, il est rappelé que les salariés actuellement classés aux coefficients supprimés seront, du fait de cette suppression, classés automatiquement au coefficient immédiatement supérieur.</p><p align='left'>Eu égard à ce changement automatique de coefficient, les employeurs de la branche devront veiller au respect du salaire minimal conventionnel correspondant à ce coefficient supérieur en application de la grille de salaires telle que figurant dans le présent article.</p>",
                 "etat": "VIGUEUR_ETEN",
                 "surtitre": "Salaires minima",
                 "lstLienModification": [
@@ -15032,6 +15107,276 @@
                     "natureText": "ARRETE",
                     "datePubliTexte": "2021-09-29",
                     "dateSignaTexte": "2021-09-17",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000045694455",
+            "title": "Avenant n° 93 du 15 décembre 2021 relatif aux salaires au 1er janvier 2022",
+            "id": "KALITEXT000045694455",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2022-01-01"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000045694458",
+                "num": "1er",
+                "intOrdre": 524287,
+                "id": "KALIARTI000045694458",
+                "content": "<p align='left'>L'article 2 de l'annexe I de la convention collective nationale tel que modifié par l'avenant n° 90 du 1er avril 2021 est supprimé et remplacé par les dispositions suivantes :</p><p align='left'>« À compter du 1er janvier 2022, les salaires minima garantis sont les suivants, sous réserve du respect des dispositions réglementaires portant fixation du salaire minimum interprofessionnel de croissance :</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Coefficient</th><th>Salaire horaire minimum</th><th>Salaire mensuel minimum 151,67 heures</th></tr><tr><td align='center'>125</td><td align='center'>10,58</td><td align='center'>1 604,38</td></tr><tr><td align='center'>135</td><td align='center'>10,62</td><td align='center'>1 610,63</td></tr><tr><td align='center'>145</td><td align='center'>10,66</td><td align='center'>1 616,88</td></tr><tr><td align='center'>155</td><td align='center'>10,70</td><td align='center'>1 623,13</td></tr><tr><td align='center'>175</td><td align='center'>10,92</td><td align='center'>1 655,93</td></tr><tr><td align='center'>195</td><td align='center'>11,36</td><td align='center'>1 723,11</td></tr><tr><td align='center'>205</td><td align='center'>11,49</td><td align='center'>1 743,42</td></tr><tr><td align='center'>225</td><td align='center'>11,61</td><td align='center'>1 760,60</td></tr><tr><td align='center'>235</td><td align='center'>12,12</td><td align='center'>1 838,71</td></tr><tr><td align='center'>245</td><td align='center'>12,63</td><td align='center'>1 915,26</td></tr><tr><td align='center'>265</td><td align='center'>13,93</td><td align='center'>2 112,10</td></tr><tr><td align='center'>275</td><td align='center'>14,16</td><td align='center'>2 148,03</td></tr><tr><td align='center'>295</td><td align='center'>15,19</td><td align='center'>2 304,25</td></tr><tr><td align='center'>305</td><td align='center'>15,74</td><td align='center'>2 387,04</td></tr><tr><td align='center'>315</td><td align='center'>16,28</td><td align='center'>2 469,84</td></tr><tr><td align='center'>335</td><td align='center'>17,29</td><td align='center'>2 622,94</td></tr><tr><td align='center'>345</td><td align='center'>17,78</td><td align='center'>2 696,36</td></tr><tr><td align='center'>355</td><td align='center'>17,80</td><td align='center'>2 699,48</td></tr><tr><td align='center'>405</td><td align='center'>20,29</td><td align='center'>3 077,54</td></tr><tr><td align='center'>505</td><td align='center'>25,38</td><td align='center'>3 849,26</td></tr><tr><td align='center'>555</td><td align='center'>27,92</td><td align='center'>4 235,13</td></tr><tr><td align='center'>605</td><td align='center'>30,45</td><td align='center'>4 617,87</td></tr><tr><td align='center'>655</td><td align='center'>32,99</td><td align='center'>5 003,73</td></tr><tr><td align='center'>705</td><td align='center'>35,54</td><td align='center'>5 389,59</td></tr></tbody></table></center><p align='left'>Il est rappelé que :</p><p align='left'>Le calcul des primes panier et des frais de déplacement prévus par la convention collective nationale, sont calculés sur la base du minimum garanti fixé par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000005657216&categorieLien=cid'>avenant n° 65 du 31 mai 2003</a>. »</p><p align='left'>Conformément à l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000044065617&idArticle=KALIARTI000044065635&categorieLien=cid'>article 3.1 de l'avenant n° 3</a> à l'accord sur la classification des postes dans les exploitations frigorifiques, du 9 mars 2021, qui a supprimé les coefficients 165,185,215,255,285,325 et 455, il est rappelé que les salariés actuellement classés aux coefficients supprimés seront, du fait de cette suppression, classés automatiquement au coefficient immédiatement supérieur.</p><p align='left'>Eu égard à ce changement automatique de coefficient, les employeurs de la branche veillent au respect du salaire minimal conventionnel correspondant à ce coefficient supérieur en application de la grille de salaires telle que figurant dans le présent article.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Salaires minima",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045546131",
+                    "textTitle": "Arrêté du 31 mars 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045546135",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-04-12",
+                    "dateSignaTexte": "2022-03-31",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000045694462",
+                "num": "2",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000045694462",
+                "content": "<p align='left'><br/>Les partenaires sociaux conviennent que, si, en 2022 le salaire minimum interprofessionnel de croissance venait à être revalorisé et ainsi dépasser le montant fixé pour le salaire minimum du coefficient 125 dans la grille des salaires minima présentée à l'article 1er du présent avenant, de nouvelles négociations seraient ouvertes dans le mois qui suit la hausse du Smic.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Clause de révision",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045546131",
+                    "textTitle": "Arrêté du 31 mars 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045546135",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-04-12",
+                    "dateSignaTexte": "2022-03-31",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000045694463",
+                "num": "3",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000045694463",
+                "content": "<p align='left'>À compter du 1er janvier 2022, l'article 5 de l'annexe I de la convention collective est ainsi modifié :</p><p align='left'>« Les salariés bénéficient, sous condition d'ancienneté, d'une prime annuelle dite de 13e mois.</p><p align='left'>Le montant de cette prime, pour une année civile complète d'activité, est de 100 % du salaire mensuel de l'intéressé, correspondant à l'horaire normalement pratiqué dans l'entreprise. Les primes ayant le caractère de salaire (prime de froid, prime d'ancienneté) sont comprises dans le calcul de cette prime annuelle dite de treizième mois.</p><p align='left'>Elle est versée au mois de décembre de l'année d'embauche, et, au choix de l'entreprise en 1 ou 2 fois – sous forme d'un acompte au mois de juin, le cas échéant –, les années civiles suivantes.</p><p align='left'>La condition d'ancienneté au 31 décembre de l'année d'embauche est de 9 mois continus.</p><p align='left'>Sous condition de cette ancienneté, la prime annuelle dite 13e mois est versée pro rata temporis de l'année civile d'embauche.</p><p align='left'>Tout départ de l'entreprise en cours d'une année civile postérieure à l'année civile d'embauche donne lieu au versement de la prime annuelle dite de 13e mois au pro rata temporis de la présence dans l'entreprise au cours de cette année civile, sous condition de l'ancienneté de 9 mois continus ».</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Prime annuelle (ou prime de 13e mois conformément à l'avenant n° 84 du 15 septembre 2016)",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045546131",
+                    "textTitle": "Arrêté du 31 mars 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045546135",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-04-12",
+                    "dateSignaTexte": "2022-03-31",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000005657154",
+                    "textTitle": "Annexe I - art. 5 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "5",
+                    "articleId": "KALIARTI000045728592",
+                    "natureText": "Annexe",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "1956-07-10",
+                    "dateDebutCible": "2022-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000045694465",
+                "num": "4",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000045694465",
+                "content": "<p align='left'><br/>Les signataires du présent avenant entendent rappeler aux entreprises couvertes par la présente convention collective les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901747&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2241-9 du code du travail</a> qui prévoient que la négociation annuelle sur les salaires vise également à définir et programmer les mesures permettant de supprimer les écarts de rémunération entre les femmes et les hommes.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Égalité professionnelle",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045546131",
+                    "textTitle": "Arrêté du 31 mars 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045546135",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-04-12",
+                    "dateSignaTexte": "2022-03-31",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000045694467",
+                "num": "5",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000045694467",
+                "content": "<p align='left'>La nature et les dispositions du présent avenant ne nécessitent pas d'aménagements spécifiques pour les entreprises employant moins de 50 salariés, conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>article L. 2261-23-1 du code du travail</a>.</p><p align='left'>Le présent accord a été fait en un nombre suffisant d'exemplaires pour notification à chacune des organisations représentatives dans les conditions prévues à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901674&dateTexte=&categorieLien=cid'>article L. 2231-5 du code du travail</a>, et dépôt dans les conditions prévues par les articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>L. 2231-6</a> et L. 2231-7 du même code.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Dépôt. Extension",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045546131",
+                    "textTitle": "Arrêté du 31 mars 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045546135",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-04-12",
+                    "dateSignaTexte": "2022-03-31",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000045829429",
+            "title": "Avenant n° 94 du 15 février 2022 relatif aux salaires minima garantis",
+            "id": "KALITEXT000045829429",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2022-03-01"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000045829432",
+                "num": "1er",
+                "intOrdre": 524287,
+                "id": "KALIARTI000045829432",
+                "content": "<p align='left'>L'article 2 de l'annexe I de la convention collective nationale tel que modifié par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000045694455&categorieLien=cid'>avenant n° 93 du 15 décembre 2021 </a>est supprimé et remplacé par les dispositions suivantes :</p><p>« À compter du 1er mars 2022, les salaires minima garantis sont les suivants, sous réserve du respect des dispositions réglementaires portant fixation du salaire minimum interprofessionnel de croissance :</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Coefficient</th><th>Salaire horaire minimum</th><th>Salaire mensuel 151,67 heures</th></tr><tr><td align='center'>125</td><td align='center'>10,62</td><td align='center'>1 610,74</td></tr><tr><td align='center'>135</td><td align='center'>10,66</td><td align='center'>1 616,80</td></tr><tr><td align='center'>145</td><td align='center'>10,70</td><td align='center'>1 622,87</td></tr><tr><td align='center'>155</td><td align='center'>10,74</td><td align='center'>1 628,94</td></tr><tr><td align='center'>175</td><td align='center'>10,92</td><td align='center'>1 655,93</td></tr><tr><td align='center'>195</td><td align='center'>11,36</td><td align='center'>1 723,11</td></tr><tr><td align='center'>205</td><td align='center'>11,49</td><td align='center'>1 743,42</td></tr><tr><td align='center'>225</td><td align='center'>11,61</td><td align='center'>1 760,60</td></tr><tr><td align='center'>235</td><td align='center'>12,12</td><td align='center'>1 838,71</td></tr><tr><td align='center'>245</td><td align='center'>12,63</td><td align='center'>1 915,26</td></tr><tr><td align='center'>265</td><td align='center'>13,93</td><td align='center'>2 112,10</td></tr><tr><td align='center'>275</td><td align='center'>14,16</td><td align='center'>2 148,03</td></tr><tr><td align='center'>295</td><td align='center'>15,19</td><td align='center'>2 304,25</td></tr><tr><td align='center'>305</td><td align='center'>15,74</td><td align='center'>2 387,04</td></tr><tr><td align='center'>315</td><td align='center'>16,28</td><td align='center'>2 469,84</td></tr><tr><td align='center'>335</td><td align='center'>17,29</td><td align='center'>2 622,94</td></tr><tr><td align='center'>345</td><td align='center'>17,78</td><td align='center'>2 696,36</td></tr><tr><td align='center'>355</td><td align='center'>17,80</td><td align='center'>2 699,48</td></tr><tr><td align='center'>405</td><td align='center'>20,29</td><td align='center'>3 077,54</td></tr><tr><td align='center'>505</td><td align='center'>25,38</td><td align='center'>3 849,26</td></tr><tr><td align='center'>555</td><td align='center'>27,92</td><td align='center'>4 235,13</td></tr><tr><td align='center'>605</td><td align='center'>30,45</td><td align='center'>4 617,87</td></tr><tr><td align='center'>655</td><td align='center'>32,99</td><td align='center'>5 003,73</td></tr><tr><td align='center'>705</td><td align='center'>35,54</td><td align='center'>5 389,59</td></tr></tbody></table></center><p align='left'>Il est rappelé que :<br/>\n– « le calcul des primes panier et des frais de déplacement prévus par la convention collective nationale, sont calculés sur la base du minimum garanti fixé par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000005657216&categorieLien=cid'>avenant n° 65 du 31 mai 2003</a>. »</p><p>Conformément à l'article 3.1 de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000044065617&categorieLien=cid'>avenant n° 3</a> à l'accord sur la classification des postes dans les exploitations frigorifiques, du 9 mars 2021, qui a supprimé les coefficients 165 – 185 – 215 – 255 – 285 – 325 – 455, il est rappelé que les salariés actuellement classés aux coefficients supprimés seront, du fait de cette suppression, classés automatiquement au coefficient immédiatement supérieur.</p><p>Eu égard à ce changement automatique de coefficient, les employeurs de la branche veillent au respect du salaire minimal conventionnel correspondant à ce coefficient supérieur en application de la grille de salaires telle que figurant dans le présent article.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Salaires minima",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045864054",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045864058",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-05",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000045829442",
+                "num": "2",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000045829442",
+                "content": "<p align='left'><br/>Les partenaires sociaux conviennent que, si le salaire minimum interprofessionnel de croissance venait à être à nouveau revalorisé au cours de l'année 2022, de nouvelles négociations seraient ouvertes dans le mois qui suit la hausse du Smic.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Clause de révision",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045864054",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045864058",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-05",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000045829443",
+                "num": "3",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000045829443",
+                "content": "<p align='left'><br/>Les signataires du présent avenant entendent rappeler aux entreprises couvertes par la présente convention collective les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901747&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2241-9 du code du travail</a> qui prévoient que la négociation annuelle sur les salaires vise également à définir et programmer les mesures permettant de supprimer les écarts de rémunération entre les femmes et les hommes.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Égalité professionnelle",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045864054",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045864058",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-05",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000045829445",
+                "num": "4",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000045829445",
+                "content": "<p align='left'>La nature et les dispositions du présent avenant ne nécessitent pas d'aménagements spécifiques pour les entreprises employant moins de 50 salariés, conformément à l'article ­L. ­2261-23-1 du code du travail.</p><p align='left'>Le présent accord a été́ fait en un nombre suffisant d'exemplaires pour notification à chacune des organisations représentatives dans les conditions prévues à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901674&dateTexte=&categorieLien=cid'>article L. 2231-5 du code du travail</a>, et dépôt dans les conditions prévues par les articles L. 2231-6 et L. 2231-7 du même code.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Dépôt. Extension",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045864054",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045864058",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-05",
+                    "dateSignaTexte": "2022-05-23",
                     "dateDebutCible": "2999-01-01"
                   }
                 ]

@@ -20,12 +20,14 @@ function getAgreementArticlesWithPath(agreementIdOrIdcc) {
     /** @type {{ children: KaliData.AgreementArticle[], type: "root" }} */
     (/** @type {*} */ (unistUtilFlatFilter(agreement, { type: "article" })));
 
-  const articlesWithPath = rootedArticles.children.map(article => ({
+  if (!rootedArticles) {
+    return [];
+  }
+
+  return rootedArticles.children.map(article => ({
     ...article,
     path: getIndexedArticle(article.data.cid).path,
   }));
-
-  return articlesWithPath;
 }
 
 module.exports = getAgreementArticlesWithPath;

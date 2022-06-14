@@ -1518,12 +1518,17 @@
     {
       "active": true,
       "effectif": 1173,
-      "id": "KALICONT000005635807-3239",
+      "etat": "VIGUEUR_ETEN",
+      "date_publi": "2022-01-01T00:00:00.000Z",
+      "mtime": 1641210224,
+      "id": "KALICONT000044594539",
       "nature": "IDCC",
       "num": 3239,
-      "shortTitle": "Secteur des particuliers employeurs et de l'emploi à domicile",
-      "title": "Convention collective de la branche du secteur des particuliers employeurs et de l’emploi à domicile résultant de la convergence des branches des assistants maternels et des salariés du particulier employeur",
-      "synonymes": ["nounou", "nourrice", "2111", "2395", "assistants maternels", "particulier employeur", "assistantes maternelles"]
+      "shortTitle": "Particuliers employeurs et emploi à domicile",
+      "texte_de_base": "KALITEXT000043941642",
+      "title": "Convention collective nationale des particuliers employeurs et de l'emploi à domicile du 15 mars 2021 - Étendue par arrêté du 6 octobre 2021 JORF 16 octobre 2021",
+      "synonymes": ["nounou", "nourrice", "2111", "2395", "assistants maternels", "particulier employeur", "assistantes maternelles"],
+      "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000044594539"
     },
     {
         "active": true,
@@ -2254,20 +2259,6 @@
     },
     {
         "active": true,
-        "date_publi": "1995-12-12T00:00:00.000Z",
-        "effectif": 3085,
-        "etat": "VIGUEUR_NON_ETEN",
-        "id": "KALICONT000005635259",
-        "mtime": 1528395873,
-        "nature": "IDCC",
-        "num": 1895,
-        "shortTitle": "Presse quotidienne régionale et départementale : cadres",
-        "texte_de_base": "KALITEXT000005658004",
-        "title": "Convention collective de travail de l'encadrement de la presse quotidienne régionale du 12 décembre 1995",
-        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635259"
-    },
-    {
-        "active": true,
         "date_publi": "1995-05-31T00:00:00.000Z",
         "effectif": 60832,
         "etat": "VIGUEUR_ETEN",
@@ -2688,20 +2679,6 @@
     },
     {
         "active": true,
-        "date_publi": "1989-10-15T00:00:00.000Z",
-        "effectif": 247,
-        "etat": "VIGUEUR_NON_ETEN",
-        "id": "KALICONT000005635486",
-        "mtime": 1532456334,
-        "nature": "IDCC",
-        "num": 1563,
-        "shortTitle": "Presse périodique régionale",
-        "texte_de_base": "KALITEXT000005666874",
-        "title": "Convention collective nationale des cadres de la presse hebdomadaire régionale d'information du 15 octobre 1989.",
-        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635486"
-    },
-    {
-        "active": true,
         "date_publi": "1989-09-01T00:00:00.000Z",
         "effectif": 2774,
         "etat": "VIGUEUR_ETEN",
@@ -2863,9 +2840,9 @@
         "mtime": 1558553477,
         "nature": "IDCC",
         "num": 1505,
-        "shortTitle": "Commerce de détail des fruits et légumes, épicerie et produits laitiers",
+        "shortTitle": "Commerce de détail alimentaire non spécialisé",
         "texte_de_base": "KALITEXT000005689370",
-        "title": "Convention collective nationale du commerce de détail des fruits et légumes, épicerie et produits laitiers du 15 avril 1988.  Etendue par arrêté du 20 juin 1988, JORF 25 juin 1988.",
+        "title": "Convention collective nationale du commerce de détail alimentaire non spécialisé du 12 janvier 2021 (Avenant n° 138 du 12 janvier 2021) - Étendue par arrêté du 17 décembre 2021 JORF 23 décembre 2021",
         "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635421"
     },
     {
@@ -3205,20 +3182,6 @@
     {
         "active": true,
         "date_publi": "1984-01-01T00:00:00.000Z",
-        "effectif": 1793,
-        "etat": "VIGUEUR_NON_ETEN",
-        "id": "KALICONT000005635615",
-        "mtime": 1517942241,
-        "nature": "IDCC",
-        "num": 1281,
-        "shortTitle": "Presse périodique régionale",
-        "texte_de_base": "KALITEXT000005680837",
-        "title": "Convention collective nationale de travail des employés de presse hebdomadaire régionale (SNPNRI) du 8 décembre 1983",
-        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635615"
-    },
-    {
-        "active": true,
-        "date_publi": "1984-01-01T00:00:00.000Z",
         "effectif": 11060,
         "etat": "VIGUEUR_ETEN",
         "id": "KALICONT000005635899",
@@ -3372,20 +3335,6 @@
     },
     {
         "active": true,
-        "date_publi": "1980-10-31T00:00:00.000Z",
-        "effectif": 243,
-        "etat": "VIGUEUR_NON_ETEN",
-        "id": "KALICONT000005635245",
-        "mtime": 1528222620,
-        "nature": "IDCC",
-        "num": 1083,
-        "shortTitle": "Presse quotidienne régionale et départementale : ouvriers et employés",
-        "texte_de_base": "KALITEXT000005658900",
-        "title": "Convention collective de travail des ouvriers de la presse quotidienne départementale du 25 octobre 1980",
-        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635245"
-    },
-    {
-        "active": true,
         "date_publi": "1980-07-01T00:00:00.000Z",
         "effectif": 19174,
         "etat": "VIGUEUR_ETEN",
@@ -3425,20 +3374,6 @@
         "texte_de_base": "KALITEXT000005655427",
         "title": "Convention collective nationale des cadres et agents de maîtrise de l'édition de musique du 14 juin 1979.  Etendue par arrêté du 27 juin 1985 JONC 5 juillet 1985",
         "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635947"
-    },
-    {
-        "active": true,
-        "date_publi": "1979-06-12T00:00:00.000Z",
-        "effectif": 72,
-        "etat": "VIGUEUR_NON_ETEN",
-        "id": "KALICONT000005635952",
-        "mtime": 1528222620,
-        "nature": "IDCC",
-        "num": 1018,
-        "shortTitle": "Presse quotidienne régionale et départementale : cadres",
-        "texte_de_base": "KALITEXT000005656745",
-        "title": "Convention collective des cadres techniques de la presse quotidienne départementale du 12 juin 1979.",
-        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635952"
     },
     {
         "active": true,
@@ -3582,34 +3517,6 @@
     },
     {
         "active": true,
-        "date_publi": "1976-02-02T00:00:00.000Z",
-        "effectif": 3846,
-        "etat": "VIGUEUR_ETEN",
-        "id": "KALICONT000005635676",
-        "mtime": 1542914331,
-        "nature": "IDCC",
-        "num": 833,
-        "shortTitle": "Ciment : industrie de la fabrication des ciments",
-        "texte_de_base": "KALITEXT000005658010",
-        "title": "Convention collective nationale du personnel employés, techniciens, dessinateurs et agents de maîtrise de l'industrie de la fabrication des ciments du 2 février 1976. Etendue par arrêté du 29 juin 1994 JORF 13 juillet 1994",
-        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635676"
-    },
-    {
-        "active": true,
-        "date_publi": "1976-02-02T00:00:00.000Z",
-        "effectif": 1358,
-        "etat": "VIGUEUR_ETEN",
-        "id": "KALICONT000005635684",
-        "mtime": 1542914331,
-        "nature": "IDCC",
-        "num": 832,
-        "shortTitle": "Ciment : industrie de la fabrication des ciments",
-        "texte_de_base": "KALITEXT000005658558",
-        "title": "Convention collective nationale du personnel ouvrier de l'industrie de la fabrication des ciments du 2 février 1976. Etendue par arrêté du 29 juin 1994 JORF 13 juillet 1994.",
-        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635684"
-    },
-    {
-        "active": true,
         "date_publi": "1975-07-01T00:00:00.000Z",
         "etat": "VIGUEUR_ETEN",
         "id": "KALICONT000005635936",
@@ -3678,20 +3585,6 @@
     },
     {
         "active": true,
-        "date_publi": "1974-01-01T00:00:00.000Z",
-        "effectif": 149,
-        "etat": "VIGUEUR_NON_ETEN",
-        "id": "KALICONT000005635951",
-        "mtime": 1528222620,
-        "nature": "IDCC",
-        "num": 781,
-        "shortTitle": "Presse quotidienne régionale et départementale : cadres",
-        "texte_de_base": "KALITEXT000005656731",
-        "title": "Convention collective des cadres administratifs de la presse quotidienne départementale du 1er octobre 1974",
-        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635951"
-    },
-    {
-        "active": true,
         "date_publi": "1973-03-20T00:00:00.000Z",
         "effectif": 17617,
         "etat": "VIGUEUR_ETEN",
@@ -3748,20 +3641,6 @@
     },
     {
         "active": true,
-        "date_publi": "1973-01-01T00:00:00.000Z",
-        "effectif": 2599,
-        "etat": "VIGUEUR_NON_ETEN",
-        "id": "KALICONT000005635465",
-        "mtime": 1528395873,
-        "nature": "IDCC",
-        "num": 698,
-        "shortTitle": "Presse quotidienne régionale et départementale : ouvriers et employés",
-        "texte_de_base": "KALITEXT000005658860",
-        "title": "Convention collective de travail des employés de la presse quotidienne régionale du 28 novembre 1972",
-        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635465"
-    },
-    {
-        "active": true,
         "date_publi": "1972-12-18T00:00:00.000Z",
         "effectif": 3619,
         "etat": "VIGUEUR_ETEN",
@@ -3787,20 +3666,6 @@
         "texte_de_base": "KALITEXT000005651216",
         "title": "Convention collective nationale des ingénieurs et cadres de la production des papiers, cartons et celluloses du 4 décembre 1972.",
         "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635440"
-    },
-    {
-        "active": true,
-        "date_publi": "1972-11-01T00:00:00.000Z",
-        "effectif": 677,
-        "etat": "VIGUEUR_NON_ETEN",
-        "id": "KALICONT000005635680",
-        "mtime": 1528222620,
-        "nature": "IDCC",
-        "num": 693,
-        "shortTitle": "Presse quotidienne régionale et départementale : ouvriers et employés",
-        "texte_de_base": "KALITEXT000005658925",
-        "title": "Convention collective de travail des employés de la presse quotidienne départementale du 11 octobre 1972",
-        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635680"
     },
     {
         "active": true,
@@ -3899,20 +3764,6 @@
         "texte_de_base": "KALITEXT000005676481",
         "title": "Convention collective nationale du commerce succursaliste de la chaussure du 2 juillet 1968, mise à jour le 18 novembre 1971 (1) ",
         "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635394"
-    },
-    {
-        "active": true,
-        "date_publi": "1971-01-01T00:00:00.000Z",
-        "effectif": 2955,
-        "etat": "VIGUEUR_NON_ETEN",
-        "id": "KALICONT000019459287",
-        "mtime": 1528222620,
-        "nature": "IDCC",
-        "num": 598,
-        "shortTitle": "Presse quotidienne régionale et départementale : ouvriers et employés",
-        "texte_de_base": "KALITEXT000005658812",
-        "title": "Convention collective de travail des ouvriers de la presse quotidienne régionale du 2 décembre 1970",
-        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000019459287"
     },
     {
         "active": true,
@@ -4025,20 +3876,6 @@
         "texte_de_base": "KALITEXT000005655548",
         "title": "Convention collective nationale de l'industrie textile du 1er  février 1951.  Etendue par arrêté du 17 décembre 1951, rectificatif du 13 janvier 1952, mise à jour le 29 mai 1979, en vigueur le 1er octobre 1979. Etendue par arrêté du 23 octobre 1979. JONC 12 janvier 1980 ",
         "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635689"
-    },
-    {
-        "active": true,
-        "date_publi": "1963-07-05T00:00:00.000Z",
-        "effectif": 2887,
-        "etat": "VIGUEUR_ETEN",
-        "id": "KALICONT000005635462",
-        "mtime": 1542914331,
-        "nature": "IDCC",
-        "num": 363,
-        "shortTitle": "Ciment : industrie de la fabrication des ciments",
-        "texte_de_base": "KALITEXT000005659886",
-        "title": "Convention collective nationale de travail des ingénieurs et cadres de l'industrie de la fabrication des ciments du 5 juillet 1963. Etendue par arrêté du 16 avril 1968 JONC 10 mai 1968.",
-        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635462"
     },
     {
         "active": true,
@@ -4890,5 +4727,33 @@
         "num": 1626,
         "shortTitle": "Convention collective départementale des industries métallurgiques, mécaniques, électriques, électrocéramiques et connexes des Hautes-Pyrénées",
         "title": "Convention collective départementale des industries métallurgiques, mécaniques, électriques, électrocéramiques et connexes des Hautes-Pyrénées"
+    },
+    {
+        "active": true,
+        "date_publi": "2021-08-09T00:00:00.000Z",
+        "effectif": 11820,
+        "etat": "VIGUEUR_ETEN",
+        "id": "KALICONT000044349436",
+        "mtime": 1647958041,
+        "nature": "IDCC",
+        "num": 3242,
+        "shortTitle": "Presse quotidienne et hebdomadaire en régions",
+        "texte_de_base": "KALITEXT000044339983",
+        "title": "Convention collective nationale de la presse quotidienne et hebdomadaire en régions du 9 août 2021.",
+        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000044349436"
+    },
+    {
+        "active": true,
+        "date_publi": "2019-10-02T00:00:00.000Z",
+        "effectif": 8091,
+        "etat": "VIGUEUR_ETEN",
+        "id": "KALICONT000043996969",
+        "mtime": 1647958041,
+        "nature": "IDCC",
+        "num": 3233,
+        "shortTitle": "Ciment : industrie de la fabrication des ciments",
+        "texte_de_base": "KALITEXT000041685691",
+        "title": "Convention collective nationale de l'industrie de la fabrication des ciments du 2 octobre 2019 - Etendue par arrêté du 30 juillet 2021 JORF 17 août 2021, modifié par arrêté du 17 sept. 2021 JORF 28 sept. 2021.",
+        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000043996969"
     }
 ]

@@ -9,10 +9,10 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Set up Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
           node-version: lts/*
           cache: yarn
@@ -55,7 +55,7 @@ jobs:
             exit 1
           }
 
-      - uses: EndBug/add-and-commit@v7
+      - uses: EndBug/add-and-commit@v9
         if: ${{ steps.metadata.outputs.data_status }}
         env:
           HUSKY: "0"
