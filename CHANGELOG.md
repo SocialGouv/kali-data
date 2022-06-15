@@ -1,3 +1,16 @@
+# [2.313.0](https://github.com/SocialGouv/kali-data/compare/v2.312.0...v2.313.0) (2022-06-15)
+
+
+### Bug Fixes
+
+* **synonymes:** too much synoyme for certain agreements ([#249](https://github.com/SocialGouv/kali-data/issues/249)) ([6bce10c](https://github.com/SocialGouv/kali-data/commit/6bce10c660f03e683ef73f0f767a77e828ea0bb2))
+
+
+### Features
+
+* **alert:** notify on mattermost when action failed ([#248](https://github.com/SocialGouv/kali-data/issues/248)) ([c71d483](https://github.com/SocialGouv/kali-data/commit/c71d483e2c76aa1a4de26412dfc6279640a1de90))
+* **data:** 20220615_0520 update ([9c318a0](https://github.com/SocialGouv/kali-data/commit/9c318a0be29fc80222a152153ee7590c47afd9cf))
+
 # [2.312.0](https://github.com/SocialGouv/kali-data/compare/v2.311.0...v2.312.0) (2022-06-14)
 
 
