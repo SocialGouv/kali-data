@@ -17557,7 +17557,7 @@
             "cid": "KALITEXT000045828934",
             "title": "Avenant n° 96 du 25 janvier 2022 relatif aux salaires pour l'année 2022",
             "id": "KALITEXT000045828934",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2022-01-01"
           },
           "children": [
@@ -17568,7 +17568,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000045828937",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -17578,8 +17578,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000045828954",
                     "content": "<p></p><p align='left'>Dans le cadre de l'augmentation du salaire minimum interprofessionnel de croissance du 1er octobre 2021 et de début 2022, les organisations syndicales représentatives des employeurs et des salariés se sont réunies en commission paritaire permanente de négociation et d'interprétation (CPPNI) les 16 novembre, 21 décembre 2021 et 18 janvier 2022 afin de négocier sur les salaires minimums conventionnels.<br/><p> <br/>\nLa pandémie liée à la Covid 19 a engendré une crise économique, sociale et sociétale impactant l'ensemble du secteur de l'aérien qui connaît la crise la plus importante de son histoire. Ainsi, le secteur se trouve dans une situation très fragilisée et le contexte actuel avec les nouveaux variants (Delta et Omicron) l'impacte de nouveau fortement.<br/><p> <br/>\nLa situation sanitaire qui se dégrade et les nouvelles restrictions, mesures prises par les différents États, conduisent à un trafic au premier trimestre 2022 toujours en baisse continuant à créer de l'incertitude quant à la reprise d'activité.<br/><p> <br/>\nCette crise a contribué à considérablement fragiliser le secteur du transport aérien dont la compétitivité souffrait déjà avant crise. Dans ce contexte, le transport aérien français, outre les dettes contractées, va être confronté dans les prochaines années au remboursement de la dette « régalienne » créée pendant la crise du Covid.<br/><p> <br/>\nL'enjeu principal reste la protection des entreprises du secteur et leurs emplois. Les entreprises du secteur ont recours au dispositif d'activité partielle de droit commun, certaines ont mis en place des accords d'activité partielle de longue durée (APLD), d'autres des accords de performance collective (APC) et elles ont aussi sollicité des aides de l'État.<br/><p> <br/>\nAu vu de la situation économique du transport aérien actuelle très incertaine encore, des paramètres économiques connus à ce jour, les parties signataires conviennent de ce qui suit :</p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000045946864",
+                        "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000045946868",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2022-06-22",
+                        "dateSignaTexte": "2022-05-23",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -17592,9 +17605,22 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000045828938",
                 "content": "<p align='left'><br/>Tenant compte de la situation économique très préoccupante des entreprises de l'aérien, les salaires minima conventionnels bruts, pour un horaire hebdomadaire de 35 heures, applicables pour chacun des coefficients hiérarchiques, s'établissent comme suit à compter 1er janvier 2022 :</p><p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th colspan='2'>1er janvier 2022</th></tr><tr><td align='center'>Coefficient</td><td><br/><p> </td></tr><tr><td align='center'>160</td><td align='center'>1 605</td></tr><tr><td align='center'>165</td><td align='center'>1 608</td></tr><tr><td align='center'>170</td><td align='center'>1 610</td></tr><tr><td align='center'>175</td><td align='center'>1 613</td></tr><tr><td align='center'>180</td><td align='center'>1 623</td></tr><tr><td align='center'>185</td><td align='center'>1 633</td></tr><tr><td align='center'>190</td><td align='center'>1 643</td></tr><tr><td align='center'>195</td><td align='center'>1 656</td></tr><tr><td align='center'>200</td><td align='center'>1 666</td></tr><tr><td align='center'>210</td><td align='center'>1 681</td></tr><tr><td align='center'>215</td><td align='center'>1 698</td></tr><tr><td align='center'>220</td><td align='center'>1 719</td></tr><tr><td align='center'>235</td><td align='center'>1 836</td></tr><tr><td align='center'>245</td><td align='center'>1 888</td></tr><tr><td align='center'>260</td><td align='center'>2 001</td></tr><tr><td align='center'>270</td><td align='center'>2 077</td></tr><tr><td align='center'>290</td><td align='center'>2 226</td></tr><tr><td align='center'>295</td><td align='center'>2 263</td></tr><tr><td align='center'>300</td><td align='center'>2 373</td></tr><tr><td align='center'>360</td><td align='center'>2 749</td></tr><tr><td align='center'>420</td><td align='center'>3 197</td></tr><tr><td align='center'>510</td><td align='center'>3 870</td></tr><tr><td align='center'>600</td><td align='center'>4 543</td></tr><tr><td align='center'>750</td><td align='center'>5 666</td></tr></table></center></div></p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Salaires minima conventionnels au 1er janvier 2022",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045946864",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045946868",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-22",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -17605,9 +17631,22 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000045828939",
                 "content": "<p align='left'><br/>Les parties signataires conviennent de porter l'indemnité de panier de 6,50 € à 6,70 €.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Indemnité de panier",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045946864",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045946868",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-22",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -17618,9 +17657,22 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000045828940",
                 "content": "<p align='left'>Les parties signataires s'engagent, dans le cadre du travail de fusion des conventions collectives induite par l'arrêté ministériel du 23 janvier 2019 portant fusion et élargissement des branches professionnelles, à ouvrir des discussions sur les classifications à compter du printemps 2022.<br/><p> <br/>\nEn outre, les parties conviennent d'inscrire dans l'agenda social 2022 le thème de la prévoyance santé.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Engagement de négociation",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045946864",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045946868",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-22",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -17631,9 +17683,22 @@
                 "intOrdre": 2621435,
                 "id": "KALIARTI000045828941",
                 "content": "<p align='left'><br/>À défaut d'aboutir à la conclusion d'un accord portant sur les classifications dans le cadre de l'engagement pris à l'article 3 du présent accord, les parties conviennent de se revoir à compter du mois de septembre 2022 afin de faire le point sur la situation économique du secteur et de réengager les discussions sur les minimas conventionnels.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Clause de revoyure",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045946864",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045946868",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-22",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -17643,10 +17708,23 @@
                 "num": "5",
                 "intOrdre": 3145722,
                 "id": "KALIARTI000045828942",
-                "content": "<p align='left'>Les parties signataires réaffirment leur volonté de voir s'appliquer effectivement le principe de l'égalité de rémunération entre les femmes et les hommes conformément aux dispositions des articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902818&dateTexte=&categorieLien=cid' title='Code du travail - art. L3221-2 (V)'>L. 3221- 2</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000037379275&dateTexte=&categorieLien=cid' title='Code du travail - art. L1142-7 (V)'>L. 1142-7</a> du code du travail.<br/><p> <br/>\nLes parties signataires rappellent que le respect de ce principe constitue un élément essentiel de la dynamique de l'égalité professionnelle et contribue largement à favoriser la mixité des emplois.<br/><p> <br/>\nÀ ce titre, elles encouragent les entreprises de la branche à poursuivre leurs actions afin de parvenir à une égalité professionnelle effective conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000038024424&dateTexte=&categorieLien=cid' title='Code du travail - art. D1142-2 (V)'>articles D. 1142-2 à D. 1142-14 du code du travail</a> et aux annexes I et II du décret n° 2019-15 du 8 janvier 2019 portant application des dispositions visant à supprimer les écarts de rémunération entre les femmes et les hommes dans l'entreprise.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Les parties signataires réaffirment leur volonté de voir s'appliquer effectivement le principe de l'égalité de rémunération entre les femmes et les hommes conformément aux dispositions des articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902818&dateTexte=&categorieLien=cid'>L. 3221- 2</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000037379275&dateTexte=&categorieLien=cid'>L. 1142-7</a> du code du travail.<br/><p> <br/>\nLes parties signataires rappellent que le respect de ce principe constitue un élément essentiel de la dynamique de l'égalité professionnelle et contribue largement à favoriser la mixité des emplois.<br/><p> <br/>\nÀ ce titre, elles encouragent les entreprises de la branche à poursuivre leurs actions afin de parvenir à une égalité professionnelle effective conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000038024424&dateTexte=&categorieLien=cid'>articles D. 1142-2 à D. 1142-14 du code du travail</a> et aux annexes I et II du décret n° 2019-15 du 8 janvier 2019 portant application des dispositions visant à supprimer les écarts de rémunération entre les femmes et les hommes dans l'entreprise.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Égalité professionnelle entre les femmes et les hommes",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045946864",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045946868",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-22",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -17656,10 +17734,23 @@
                 "num": "6",
                 "intOrdre": 3670009,
                 "id": "KALIARTI000045828947",
-                "content": "<p align='left'>Le champ d'application du présent avenant est la branche du transport aérien personnel au sol. Le présent avenant est rattaché à la convention collective nationale du transport aérien – personnel au sol (IDCC : 275).<br/><p> <br/>\nSont exclues du champ d'application du présent avenant, les entreprises qui relevaient du champ d'application de la convention collective régionale concernant le personnel de l'industrie, de la manutention et du nettoyage sur les aéroports ouverts à la circulation publique du 1er octobre 1985 (CCR MNA RP) antérieurement à son rattachement à la CCN TA PS (arrêté du 23 janvier 2019) et qui bénéficient à ce titre de l'application de dispositions conventionnelles spécifiques.<br/><p> <br/>\nCet avenant est conclu pour une durée indéterminée.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le champ d'application du présent avenant est la branche du transport aérien personnel au sol. Le présent avenant est rattaché à la convention collective nationale du transport aérien – personnel au sol (IDCC : 275).<br/><p> <br/>\nSont exclues du champ d'application du présent avenant, les entreprises qui relevaient du champ d'application de la convention collective régionale concernant le personnel de l'industrie, de la manutention et du nettoyage sur les aéroports ouverts à la circulation publique du 1er octobre 1985 (CCR MNA RP) antérieurement à son rattachement à la CCN TA PS (arrêté du 23 janvier 2019) et qui bénéficient à ce titre de l'application de dispositions conventionnelles spécifiques.<br/><p> <br/>\nCet avenant est conclu pour une durée indéterminée.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000045828947_1'></a>(1) Article étendu sous réserve du respect des dispositions du dernier alinéa de l'article L. 2253-1 du code du travail.  <br/>(Arrêté du 23 mai 2022 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Champ et durée d'application",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045946864",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045946868",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-22",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -17669,10 +17760,23 @@
                 "num": "7",
                 "intOrdre": 4194296,
                 "id": "KALIARTI000045828948",
-                "content": "<p align='left'>Pour l'application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>article L. 2261-23-1 du code du travail</a>, les partenaires sociaux rappellent qu'un avenant portant sur les minima conventionnels applicables aux salariés de la branche n'a pas à comporter les stipulations spécifiques mentionnées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-10-1 (M)'>article L. 2232-10-1 du code du travail</a>.<br/><p> <br/>\nEn effet, ceux-ci doivent s'appliquer quelle que soit la taille de l'entreprise.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Pour l'application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>article L. 2261-23-1 du code du travail</a>, les partenaires sociaux rappellent qu'un avenant portant sur les minima conventionnels applicables aux salariés de la branche n'a pas à comporter les stipulations spécifiques mentionnées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid'>article L. 2232-10-1 du code du travail</a>.<br/><p> <br/>\nEn effet, ceux-ci doivent s'appliquer quelle que soit la taille de l'entreprise.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Modalités pour les entreprises de moins de 50 salariés",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045946864",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045946868",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-22",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -17683,9 +17787,22 @@
                 "intOrdre": 4718583,
                 "id": "KALIARTI000045828951",
                 "content": "<p align='left'><br/>Les accords d'entreprise ou d'établissement conclus dans les entreprises et établissements entrant dans le champ d'application du présent avenant ne peuvent pas y déroger, sauf s'ils prévoient des dispositions plus favorables.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Clause de non-dérogation",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045946864",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045946868",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-22",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -17696,9 +17813,22 @@
                 "intOrdre": 5242870,
                 "id": "KALIARTI000045828952",
                 "content": "<p align='left'>Conformément à la législation en vigueur, dès lors qu'il n'aurait pas fait l'objet d'une opposition régulièrement exercée par les organisations syndicales représentatives, le présent avenant fera l'objet d'un dépôt et d'une demande d'extension.<br/><p> <br/>\nLe présent avenant fera également l'objet d'une publication sur la base de donnée nationale, dans une version ne comportant pas les noms et prénoms des négociateurs et des signataires.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dépôt, extension et publicité",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045946864",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045946868",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-22",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -17709,9 +17839,22 @@
                 "intOrdre": 5767157,
                 "id": "KALIARTI000045828953",
                 "content": "<p align='left'>Les dispositions du présent avenant sont applicables aux entreprises adhérentes à l'organisation professionnelle d'employeurs signataire dès le lendemain du dépôt de l'avenant, conformément aux dispositions légales et réglementaires, auprès des services centraux du ministre chargé du travail et du greffe du conseil de prud'hommes de Paris.<br/><p> <br/>\nLes dispositions du présent avenant seront également applicables aux entreprises couvertes par la CCN TA-PS et non adhérentes à l'organisation professionnelle d'employeurs signataire un jour franc suivant la publication de l'arrêté d'extension au Journal officiel.<br/><p> <br/>\nIl est rappelé que ces dispositions seront applicables rétroactivement au 1er janvier 2022.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Modalités d'application",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045946864",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045946868",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-22",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
