@@ -1764,8 +1764,20 @@
                     "intOrdre": 1073741823,
                     "id": "KALIARTI000045962310",
                     "content": "<p>1.   Les salariés ont droit, dans les conditions précisées ci-après, au versement à leur profit d'une prime intitulée « prime de fin d'année » d'un montant de 2 % de leur rémunération brute annuelle calculée sur la période du 1er décembre de l'année N – 1 au 30 novembre de l'année N.<br/><p> <br/>\nLa rémunération brute annuelle comprend l'ensemble des sommes et avantages accordés par l'employeur revêtant le caractère de salaire et assujettis à cotisations de sécurité sociale : salaire de base, congés payés, avantages en nature, prime d'ancienneté, prime pour événements familiaux, salaire variable, complément de salaire et indemnités journalières complémentaires financées par l'employeur en cas d'arrêt de travail pour maladie professionnelle et non professionnelle ou accident ainsi que les majorations prévues par la loi ou les accords collectifs (majorations pour heures supplémentaires, travail de nuit...).<br/><p> <br/>\nLa rémunération brute annuelle ne comprend donc pas :<br/><p> <br/>\n– les remboursements de frais professionnels et de frais de transport ;<br/><p> <br/>\n– les tickets restaurants ;<br/><p> <br/>\n– les indemnités présentant le caractère de dommages et intérêts (telle l'indemnité de licenciement ou l'indemnité de départ en retraite) ;<br/><p> <br/>\n– les sommes versées au titre de l'intéressement ou de la participation.<br/><p> <br/>\n2.   La prime est versée, sans condition d'ancienneté, à l'ensemble des salariés employés à temps complet ou à temps partiel, en CDI ou en CDD, y compris les apprentis et les travailleurs saisonniers.<br/><p> <br/>\n3.   La prime pourra être versée en deux fois :<br/><p> <br/>\n– 50 % au mois de juin de l'année N ;<br/><p> <br/>\n– le solde au mois de décembre de l'année N calculé comme indiqué à l'article 1.1.<br/><p> <br/>\nLe salarié quittant l'entreprise en cours de période, a droit à une prime calculée au prorata de son temps de présence lors de l'établissement de son solde de tout compte.<br/><p> <br/>\n4.   La prime de fin d'année ne s'ajoute pas aux primes versées dans certaines entreprises en une ou plusieurs fois dans l'année, quelle que soit l'appellation de ces primes (par exemple : prime de fin d'année, gratification, prime de bilan, prime de vacances, 13e mois (à l'exclusion de la prime d'ancienneté lorsqu'elle existe, des primes de rendement et des primes de productivité) dans la mesure où le total des primes versées est d'un montant au moins égal à celui fixé au point 1.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000045905838",
+                        "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000045905843",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2022-06-14",
+                        "dateSignaTexte": "2022-05-23",
+                        "dateDebutCible": "2999-01-01"
+                      },
                       {
                         "textCid": "KALITEXT000045953623",
                         "textTitle": "Prime de fin d'année - art. 1er (VNE)",
@@ -14651,7 +14663,7 @@
             "cid": "KALITEXT000045953623",
             "title": "Avenant n° 66 du 20 janvier 2022 relatif à la prime de fin d'année",
             "id": "KALITEXT000045953623",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2022-01-01"
           },
           "children": [
@@ -14662,7 +14674,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000045953626",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -14671,9 +14683,22 @@
                     "cid": "KALIARTI000045953638",
                     "intOrdre": 524287,
                     "id": "KALIARTI000045953638",
-                    "content": "<p align='left'><br/>Par <a href='/affichIDCC.do?cidTexte=KALITEXT000037482497&categorieLien=cid' title='Salaires conventionnels au 1er juin 2018 et prime de fin d'année (création art. 31 bis) (VE)'>avenant n° 58</a> à la convention collective nationale de la boucherie, boucherie-charcuterie, boucherie hippophagique, triperie, commerces de volailles et gibiers (IDCC 992) en date du 17 mai 2018 étendu par arrêté du 5 juin 2019 publié au JO du 13 juin 2019, il a été instauré une prime intitulée » prime de fin d'année » au profit des salariés de la branche, qui a donné lieu à la création d'un article 31 bis de ladite convention. <br/>Les partenaires sociaux ci-dessous signataires ont convenu de remplacer les dispositions de l'article 31 bis de la convention collective précitée par les dispositions qui suivent.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "content": "<p align='left'><br/>Par <a href='/affichIDCC.do?cidTexte=KALITEXT000037482497&categorieLien=cid'>avenant n° 58</a> à la convention collective nationale de la boucherie, boucherie-charcuterie, boucherie hippophagique, triperie, commerces de volailles et gibiers (IDCC 992) en date du 17 mai 2018 étendu par arrêté du 5 juin 2019 publié au JO du 13 juin 2019, il a été instauré une prime intitulée » prime de fin d'année » au profit des salariés de la branche, qui a donné lieu à la création d'un article 31 bis de ladite convention. <br/>Les partenaires sociaux ci-dessous signataires ont convenu de remplacer les dispositions de l'article 31 bis de la convention collective précitée par les dispositions qui suivent.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000045905838",
+                        "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000045905843",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2022-06-14",
+                        "dateSignaTexte": "2022-05-23",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -14685,9 +14710,21 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000045953627",
-                "content": "<p align='left'><br/>L'article 31 bis « Prime de fin d'année » est ainsi rédigé : <br/>« 1.   Les salariés ont droit, dans les conditions précisées ci-après, au versement à leur profit d'une prime intitulée « prime de fin d'année » d'un montant de 2 % de leur rémunération brute annuelle calculée sur la période du 1er décembre de l'année N – 1 au 30 novembre de l'année N. <br/>La rémunération brute annuelle comprend l'ensemble des sommes et avantages accordés par l'employeur revêtant le caractère de salaire et assujettis à cotisations de sécurité sociale : salaire de base, congés payés, avantages en nature, prime d'ancienneté, prime pour événements familiaux, salaire variable, complément de salaire et indemnités journalières complémentaires financées par l'employeur en cas d'arrêt de travail pour maladie professionnelle et non professionnelle ou accident ainsi que les majorations prévues par la loi ou les accords collectifs (majorations pour heures supplémentaires, travail de nuit...). <br/>La rémunération brute annuelle ne comprend donc pas : <br/>– les remboursements de frais professionnels et de frais de transport ; <br/>– les tickets restaurants ; <br/>– les indemnités présentant le caractère de dommages et intérêts (telle l'indemnité de licenciement ou l'indemnité de départ en retraite) ; <br/>– les sommes versées au titre de l'intéressement ou de la participation. <br/>2.   La prime est versée, sans condition d'ancienneté, à l'ensemble des salariés employés à temps complet ou à temps partiel, en CDI ou en CDD, y compris les apprentis et les travailleurs saisonniers. <br/>3.   La prime pourra être versée en deux fois : <br/>– 50 % au mois de juin de l'année N ; <br/>– le solde au mois de décembre de l'année N calculé comme indiqué à l'article 1.1. <br/>Le salarié quittant l'entreprise en cours de période, a droit à une prime calculée au prorata de son temps de présence lors de l'établissement de son solde de tout compte. <br/>4.   La prime de fin d'année ne s'ajoute pas aux primes versées dans certaines entreprises en une ou plusieurs fois dans l'année, quelle que soit l'appellation de ces primes (par exemple : prime de fin d'année, gratification, prime de bilan, prime de vacances, 13e mois (à l'exclusion de la prime d'ancienneté lorsqu'elle existe, des primes de rendement et des primes de productivité) dans la mesure où le total des primes versées est d'un montant au moins égal à celui fixé au point 1.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'><br/>L'article 31 bis « Prime de fin d'année » est ainsi rédigé : <br/>« 1.   Les salariés ont droit, dans les conditions précisées ci-après, au versement à leur profit d'une prime intitulée « prime de fin d'année » d'un montant de 2 % de leur rémunération brute annuelle calculée sur la période du 1er décembre de l'année N – 1 au 30 novembre de l'année N. <br/>La rémunération brute annuelle comprend l'ensemble des sommes et avantages accordés par l'employeur revêtant le caractère de salaire et assujettis à cotisations de sécurité sociale : salaire de base, congés payés, avantages en nature, prime d'ancienneté, prime pour événements familiaux, salaire variable, complément de salaire et indemnités journalières complémentaires financées par l'employeur en cas d'arrêt de travail pour maladie professionnelle et non professionnelle ou accident ainsi que les majorations prévues par la loi ou les accords collectifs (majorations pour heures supplémentaires, travail de nuit...). <br/>La rémunération brute annuelle ne comprend donc pas : <br/>– les remboursements de frais professionnels et de frais de transport ; <br/>– les tickets restaurants ; <br/>– les indemnités présentant le caractère de dommages et intérêts (telle l'indemnité de licenciement ou l'indemnité de départ en retraite) ; <br/>– les sommes versées au titre de l'intéressement ou de la participation. <br/>2.   La prime est versée, sans condition d'ancienneté, à l'ensemble des salariés employés à temps complet ou à temps partiel, en CDI ou en CDD, y compris les apprentis et les travailleurs saisonniers. <br/>3.   La prime pourra être versée en deux fois : <br/>– 50 % au mois de juin de l'année N ; <br/>– le solde au mois de décembre de l'année N calculé comme indiqué à l'article 1.1. <br/>Le salarié quittant l'entreprise en cours de période, a droit à une prime calculée au prorata de son temps de présence lors de l'établissement de son solde de tout compte. <br/>4.   La prime de fin d'année ne s'ajoute pas aux primes versées dans certaines entreprises en une ou plusieurs fois dans l'année, quelle que soit l'appellation de ces primes (par exemple : prime de fin d'année, gratification, prime de bilan, prime de vacances, 13e mois (à l'exclusion de la prime d'ancienneté lorsqu'elle existe, des primes de rendement et des primes de productivité) dans la mesure où le total des primes versées est d'un montant au moins égal à celui fixé au point 1.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000045953627_1'></a>(1) Compte tenu du nouvel ordonnancement des niveaux de négociation issu de l'ordonnance n° 2017-1385 du 22 septembre 2017, article étendu sous réserve de l'application des articles L. 2253-1 à L. 2253-3 du code du travail tels qu'interprétés par la décision du 13 décembre 2021 n° 433232 dont il ressort que « si la convention de branche peut retenir que les salaires minima hiérarchiques s'appliquent aux rémunérations effectives des salariés résultant de leurs salaires de base et de certains compléments de salaire, elle ne peut, lorsqu'elle prévoit l'existence de primes, ainsi que leur montant, indépendamment (…) de la définition des garanties applicables en matière de salaires minima hiérarchiques, faire obstacle à ce que les stipulations d'un accord d'entreprise en cette matière prévalent sur celles de la convention de branche, y compris si elles y sont moins favorables ».  <br/>(Arrêté du 23 mai 2022 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045905838",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045905843",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-14",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000005674098",
                     "textTitle": "Convention collective nationale du 12 décembre ... - art. 31 bis (VNE)",
@@ -14710,9 +14747,22 @@
                 "num": "2",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000045953628",
-                "content": "<p align='left'><br/>Les entreprises doivent garantir un salaire équivalent entre tous les salariés pour un même niveau de responsabilité, de formation et d'expérience.<br/>Les partenaires sociaux réaffirment le principe de l'égalité de rémunération entre les femmes et les hommes, conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902818&dateTexte=&categorieLien=cid' title='Code du travail - art. L3221-2 (V)'>dispositions de l'article L. 3221- 2 du code du travail</a>.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'><br/>Les entreprises doivent garantir un salaire équivalent entre tous les salariés pour un même niveau de responsabilité, de formation et d'expérience.<br/>Les partenaires sociaux réaffirment le principe de l'égalité de rémunération entre les femmes et les hommes, conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902818&dateTexte=&categorieLien=cid'>dispositions de l'article L. 3221- 2 du code du travail</a>.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045905838",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045905843",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-14",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14723,8 +14773,21 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000045953630",
                 "content": "<p align='left'><br/>La branche professionnelle étant composée très majoritairement d'entreprises de moins de 50 salariés, il n'y a pas lieu de prévoir de dispositions spécifiques pour les entreprises de moins de 50 salariés.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045905838",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045905843",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-14",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14735,8 +14798,21 @@
                 "intOrdre": 2621435,
                 "id": "KALIARTI000045953631",
                 "content": "<p align='left'><br/>Les dispositions du présent avenant prendront effet rétroactivement à la date du 1er janvier 2022 pour une durée indéterminée.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045905838",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045905843",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-14",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14746,9 +14822,22 @@
                 "num": "5",
                 "intOrdre": 3145722,
                 "id": "KALIARTI000045953632",
-                "content": "<p align='left'><br/>Le présent avenant fera l'objet d'un dépôt dans les conditions prévues aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-6 (V)'>L. 2231-6</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901804&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-26 (V)'>L. 2261-26</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-2 (V)'>D. 2231-2</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485209&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-3 (M)'>D. 2231-3</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485217&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-7 (V)'>D. 2231-7</a> du code du travail et d'une demande d'extension dans les conditions fixées à l'article L. 2261-15 dudit code.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'><br/>Le présent avenant fera l'objet d'un dépôt dans les conditions prévues aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>L. 2231-6</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901804&dateTexte=&categorieLien=cid'>L. 2261-26</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid'>D. 2231-2</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485209&dateTexte=&categorieLien=cid'>D. 2231-3</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485217&dateTexte=&categorieLien=cid'>D. 2231-7</a> du code du travail et d'une demande d'extension dans les conditions fixées à l'article L. 2261-15 dudit code.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045905838",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045905843",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-14",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
