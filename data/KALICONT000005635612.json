@@ -20891,7 +20891,7 @@
             "cid": "KALITEXT000043792739",
             "title": "Avenant du 14 janvier 2021 à l'accord de branche du 19 janvier 2004 relatif à l'instauration d'un régime de prévoyance collective",
             "id": "KALITEXT000043792739",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2021-07-01"
           },
           "children": [
@@ -20902,7 +20902,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000043792743",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -20912,8 +20912,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000043792758",
                     "content": "<p align='left'>Réunis en commission paritaire du 14 décembre 2020, les signataires ont décidé de modifier les dispositions de l'accord collectif du 19 janvier 2004 et les différents avenants qui s'y rapportent concernant le taux de cotisation du régime de prévoyance des personnels cadre et non-cadre.</p><p align='left'>Ainsi, à compter du 1er juillet 2021, le taux contractuel applicable au régime de prévoyance est rétabli, et remplace donc le taux d'appel précédemment mis en place depuis le 1er janvier 2017.</p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000045925370",
+                        "textTitle": "Arrêté du 3 juin 2022 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000045925373",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2022-06-17",
+                        "dateSignaTexte": "2022-06-03",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -20926,9 +20939,21 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000043792744",
                 "content": "<p align='left'>L'article 5 « Cotisations » est modifié comme suit :</p><p align='left'>« Le taux global de cotisation est fixé à :<br/>\n– personnel non-cadre : 0,78 % de la tranche A et 0,78 % de la tranche B ;<br/>\n– personnel cadre : 1,50 % de la tranche A et 1,50 % de la tranche B.</p><p align='left'>Il est réparti de la façon suivante :</p><p align='center'>Personnel non-cadre</p><p align='left'></p><center><table border='1'><tbody><tr><th></th><th>Cotisation totale</th><th>À la charge de l'employeur</th><th>À la charge du salarié</th></tr><tr><td></td><td align='center'>TA – TB</td><td align='center'>TA – TB</td><td align='center'>TA – TB</td></tr><tr><td align='center'>Décès</td><td align='center'>0,08 %</td><td align='center'>0,07 %</td><td align='center'>0,01 %</td></tr><tr><td align='center'>Rente éducation</td><td align='center'>0,07 %</td><td align='center'>0,06 %</td><td align='center'>0,01 %</td></tr><tr><td align='center'>Obsèques</td><td align='center'>0,02 %</td><td align='center'>0,02 %</td><td align='center'>0 %</td></tr><tr><td align='center'>Maintien de salaire au 31e jour</td><td align='center'>0,07 %</td><td align='center'>0,07 %</td><td align='center'>0 %</td></tr><tr><td align='center'>Incapacité de travail en relais</td><td align='center'>0,33 %</td><td align='center'>0 %</td><td align='center'>0,33 %</td></tr><tr><td align='center'>Invalidité</td><td align='center'>0,21 %</td><td align='center'>0,20 %</td><td align='center'>0,01 %</td></tr><tr><td align='center'>Total</td><td align='center'>0,78 %</td><td align='center'>0,42 %</td><td align='center'>0,36 %</td></tr></tbody></table></center><p align='center'>Personnel cadre</p><p align='left'></p><center><table border='1'><tbody><tr><th></th><th>Cotisation totale</th><th>À la charge de l'employeur</th><th>À la charge du salarié</th></tr><tr><td></td><td align='center'>TA</td><td align='center'>TA</td><td align='center'>TA</td></tr><tr><td align='center'>Décès</td><td align='center'>0,49 %</td><td align='center'>0,49 %</td><td align='center'>0 %</td></tr><tr><td align='center'>Rente éducation</td><td align='center'>0,16 %</td><td align='center'>0,16 %</td><td align='center'>0 %</td></tr><tr><td align='center'>Rente de conjoint</td><td align='center'>0,11 %</td><td align='center'>0,11 %</td><td align='center'>0 %</td></tr><tr><td align='center'>Maintien de salaire au 31e jour</td><td align='center'>0,10 %</td><td align='center'>0,10 %</td><td align='center'>0 %</td></tr><tr><td align='center'>Incapacité de travail en relais</td><td align='center'>0,30 %</td><td align='center'>0,30 %</td><td align='center'>0 %</td></tr><tr><td align='center'>Invalidité</td><td align='center'>0,34 %</td><td align='center'>0,34 %</td><td align='center'>0 %</td></tr><tr><td align='center'>Total</td><td align='center'>1,50 %</td><td align='center'>1,50 %</td><td align='center'>0 %</td></tr></tbody></table></center><center><table border='1'><tbody><tr><th></th><th>Cotisation totale</th><th>À la charge de l'employeur</th><th>À la charge du salarié</th></tr><tr><td></td><td align='center'>TB</td><td align='center'></td><td align='center'>TB</td></tr><tr><td align='center'>Décès</td><td align='center'>0,42 %</td><td align='center'>0,32 %</td><td align='center'>0,10 %</td></tr><tr><td align='center'>Rente éducation</td><td align='center'>0,16 %</td><td align='center'>0,11 %</td><td align='center'>0,05 %</td></tr><tr><td align='center'>Rente de conjoint</td><td align='center'>0,11 %</td><td align='center'>0,08 %</td><td align='center'>0,03 %</td></tr><tr><td align='center'>Mensualisation au 31e jour</td><td align='center'>0,10 %</td><td align='center'>0,10 %</td><td align='center'>0 %</td></tr><tr><td align='center'>Incapacité de travail en relais</td><td align='center'>0,34 %</td><td align='center'>0 %</td><td align='center'>0,34 %</td></tr><tr><td align='center'>Invalidité</td><td align='center'>0,37 %</td><td align='center'>0,22 %</td><td align='center'>0,15 %</td></tr><tr><td align='center'>Total</td><td align='center'>1,50 %</td><td align='center'>0,83 %</td><td align='center'>0,67 %</td></tr></tbody></table></center>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Modification du taux de cotisations",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045925370",
+                    "textTitle": "Arrêté du 3 juin 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045925373",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-17",
+                    "dateSignaTexte": "2022-06-03",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000005677121",
                     "textTitle": "Régime de prévoyance - art. 5 (VNE)",
@@ -20952,9 +20977,22 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000043792746",
                 "content": "<p align='left'><br/>Le présent avenant est conclu pour une durée indéterminée et entrera en vigueur le 1er juillet 2021.<br/>En tout état de cause, l'ensemble des dispositions prévues par le présent avenant se substituent aux avenants précédemment signés ayant le même objet.<br/>Il peut être modifié ou dénoncé conformément aux dispositions légales en vigueur, à charge pour ses parties de respecter un préavis dont la durée est fixée à 3 mois.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Entrée en vigueur",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045925370",
+                    "textTitle": "Arrêté du 3 juin 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045925373",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-17",
+                    "dateSignaTexte": "2022-06-03",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -20964,10 +21002,23 @@
                 "num": "3",
                 "intOrdre": 2097148,
                 "id": "KALIARTI000043792747",
-                "content": "<p align='left'><br/>Le présent avenant est fait en nombre suffisant d'exemplaires originaux pour remise à chacune des parties signataires et dépôt dans les conditions prévues aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-6 (V)'>L. 2231-6</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901779&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-1 (V)'>L. 2261-1</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901817&dateTexte=&categorieLien=cid' title='Code du travail - art. L2262-8 (V)'>L. 2262-8</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-2 (V)'>D. 2231-2</a> du code du travail.<br/>L'extension du présent avenant sera demandée en application des articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-15 (V)'>L. 2261-15</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901802&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-24 (V)'>L. 2261-24</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901803&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-25 (M)'>L. 2261-25</a> du code du travail.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'><br/>Le présent avenant est fait en nombre suffisant d'exemplaires originaux pour remise à chacune des parties signataires et dépôt dans les conditions prévues aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>L. 2231-6</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901779&dateTexte=&categorieLien=cid'>L. 2261-1</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901817&dateTexte=&categorieLien=cid'>L. 2262-8</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid'>D. 2231-2</a> du code du travail.<br/>L'extension du présent avenant sera demandée en application des articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>L. 2261-15</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901802&dateTexte=&categorieLien=cid'>L. 2261-24</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901803&dateTexte=&categorieLien=cid'>L. 2261-25</a> du code du travail.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Extension du présent avenant. Publicité",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045925370",
+                    "textTitle": "Arrêté du 3 juin 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045925373",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-17",
+                    "dateSignaTexte": "2022-06-03",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -20977,9 +21028,22 @@
                 "num": "4",
                 "intOrdre": 2621435,
                 "id": "KALIARTI000043792755",
-                "content": "<p align='left'><br/>Suivant les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>dispositions de l'article L. 2261-23-1 du code du travail</a>, les parties signataires n'ont pas retenu de dispositions spécifiques telles que visées par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-10-1 (M)'>article L. 2232-10-1 du code du travail</a> à l'attention des entreprises de moins de 50 salariés dès lors que le présent avenant vise à modifier le régime collectif obligatoire de prévoyance dont doivent bénéficier les salariés relevant de la convention collective et ce quel que soit l'effectif de leur entreprise.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'><br/>Suivant les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-23-1 du code du travail</a>, les parties signataires n'ont pas retenu de dispositions spécifiques telles que visées par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid'>article L. 2232-10-1 du code du travail</a> à l'attention des entreprises de moins de 50 salariés dès lors que le présent avenant vise à modifier le régime collectif obligatoire de prévoyance dont doivent bénéficier les salariés relevant de la convention collective et ce quel que soit l'effectif de leur entreprise.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045925370",
+                    "textTitle": "Arrêté du 3 juin 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045925373",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-17",
+                    "dateSignaTexte": "2022-06-03",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
