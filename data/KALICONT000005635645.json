@@ -22673,7 +22673,7 @@
             "cid": "KALITEXT000045953750",
             "title": "Accord du 27 janvier 2022 relatif aux salaires minima conventionnels pour l'année 2022",
             "id": "KALITEXT000045953750",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2022-03-01"
           },
           "children": [
@@ -22684,8 +22684,21 @@
                 "intOrdre": 524287,
                 "id": "KALIARTI000045953753",
                 "content": "<p align='left'><br/>Le présent accord a pour objet de fixer les salaires minima conventionnels applicables aux salariés des entreprises relevant de la convention collective des entreprises de la filière sports-loisirs.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045925126",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045925131",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-17",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -22695,10 +22708,23 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000045953754",
-                "content": "<p align='left'>Les salaires minima conventionnels de la branche, définis pour un temps de travail égal à la durée légale du travail sont augmentés conformément au tableau ci-dessous :</p><p align='right'>(En euros.)</p><p align='left'></p><center><table border='1'><tbody><tr><th>Coefficient et statut</th><th>Minima conventionnels mensuels</th><th>Pourcentage d'augmentation par rapport à l'accord de 2021</th></tr><tr><td rowspan='4'>Employés</td><td>130</td><td>1 603,12</td><td>Smic</td></tr><tr><td>140</td><td>1 606,16</td><td rowspan='3'>3,12 %</td></tr><tr><td>150</td><td>1 611,43</td></tr><tr><td>160</td><td>1 618,80</td></tr><tr><td rowspan='4'>Employés</td><td>170</td><td>1 654,40</td><td rowspan='4'>3,40 %</td></tr><tr><td>180</td><td>1 656,40</td></tr><tr><td>190</td><td>1 661,26</td></tr><tr><td>200</td><td>1 672,89</td></tr><tr><td rowspan='4'>Agents de maîtrise</td><td>220</td><td>1 778,34</td><td rowspan='4'>2,90 %</td></tr><tr><td>240</td><td>1 825,38</td></tr><tr><td>250</td><td>1 886,01</td></tr><tr><td>280</td><td>1 999,97</td></tr><tr><td rowspan='8'>Cadres</td><td>320</td><td>2 271,80</td><td rowspan='8'>2,90 %</td></tr><tr><td>350</td><td>2 386,80</td></tr><tr><td>380</td><td>2 539,43</td></tr><tr><td>390</td><td>2 643,97</td></tr><tr><td>420</td><td>2 810,21</td></tr><tr><td>450</td><td>3 063,21</td></tr><tr><td>500</td><td>3 279,62</td></tr><tr><td>550</td><td>3 520,08</td></tr></tbody></table></center><p></p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Les salaires minima conventionnels de la branche, définis pour un temps de travail égal à la durée légale du travail sont augmentés conformément au tableau ci-dessous :</p><p align='right'>(En euros.)</p><p align='left'></p><center><table border='1'><tbody><tr><th>Coefficient et statut</th><th>Minima conventionnels mensuels</th><th colspan='2'>Pourcentage d'augmentation par rapport à l'accord de 2021</th></tr><tr><td rowspan='4' align='center'>Employés</td><td align='center'>130</td><td align='center'>1 603,12</td><td align='center'>Smic</td></tr><tr><td align='center'>140</td><td align='center'>1 606,16</td><td rowspan='3' align='center'>3,12 %</td></tr><tr><td align='center'>150</td><td align='center'>1 611,43</td></tr><tr><td align='center'>160</td><td align='center'>1 618,80</td></tr><tr><td rowspan='4' align='center'>Employés</td><td align='center'>170</td><td align='center'>1 654,40</td><td rowspan='4' align='center'>3,40 %</td></tr><tr><td align='center'>180</td><td align='center'>1 656,40</td></tr><tr><td align='center'>190</td><td align='center'>1 661,26</td></tr><tr><td align='center'>200</td><td align='center'>1 672,89</td></tr><tr><td rowspan='4' align='center'>Agents de maîtrise</td><td align='center'>220</td><td align='center'>1 778,34</td><td rowspan='4' align='center'>2,90 %</td></tr><tr><td align='center'>240</td><td align='center'>1 825,38</td></tr><tr><td align='center'>250</td><td align='center'>1 886,01</td></tr><tr><td align='center'>280</td><td align='center'>1 999,97</td></tr><tr><td rowspan='8' align='center'>Cadres</td><td align='center'>320</td><td align='center'>2 271,80</td><td rowspan='8' align='center'>2,90 %</td></tr><tr><td align='center'>350</td><td align='center'>2 386,80</td></tr><tr><td align='center'>380</td><td align='center'>2 539,43</td></tr><tr><td align='center'>390</td><td align='center'>2 643,97</td></tr><tr><td align='center'>420</td><td align='center'>2 810,21</td></tr><tr><td align='center'>450</td><td align='center'>3 063,21</td></tr><tr><td align='center'>500</td><td align='center'>3 279,62</td></tr><tr><td align='center'>550</td><td align='center'>3 520,08</td></tr></tbody></table></center>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Salaires mensuels minima conventionnels",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045925126",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045925131",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-17",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -22709,9 +22735,22 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000045953755",
                 "content": "<p align='left'><br/>L'examen du rapport de branche et des données portant sur la situation des femmes et des hommes par coefficient ne révèle pas d'écart de rémunération entre les femmes et les hommes.<br/>Les signataires conviennent néanmoins de rappeler aux entreprises qu'il leur appartient de corriger les écarts de rémunération qu'elles pourraient éventuellement constater entre leurs salariés femmes et hommes.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Égalité de rémunération entre les femmes et les hommes",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045925126",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045925131",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-17",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -22722,9 +22761,22 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000045953756",
                 "content": "<p align='left'><br/>Il n'est pas prévu de disposition spécifique pour les entreprises de moins de 50 salariés.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dispositions spécifiques aux entreprises de moins de 50 salariés",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045925126",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045925131",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-17",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -22735,9 +22787,22 @@
                 "intOrdre": 2621435,
                 "id": "KALIARTI000045953757",
                 "content": "<p align='left'><br/>Le présent accord entrera en vigueur le 1er mars 2022 pour toutes les entreprises de la branche.<br/>Il sera déposé auprès des services du ministre chargé du travail et remis au secrétariat du greffe du conseil de prud'hommes de Paris.<br/>Les parties signataires conviennent de demander au ministère chargé du travail l'extension du présent accord.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dispositions finales",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000045925126",
+                    "textTitle": "Arrêté du 23 mai 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000045925131",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-06-17",
+                    "dateSignaTexte": "2022-05-23",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
