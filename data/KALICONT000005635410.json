@@ -9526,8 +9526,8 @@
                 "num": "NOTA 2",
                 "intOrdre": 10737,
                 "id": "KALIARTI000045249798",
-                "content": "<p align='center'><strong>Suppression de la garantie dépendance </strong>(à compter du 1er janvier 2022)</p><p>Les parties conviennent de ne pas reconduire à compter du 1er janvier 2022, la garantie dépendance définie par l'avenant n° 48 à la convention collective nationale de la poissonnerie, étendu par arrêté du 1er février 2006.</p><p><font color='#808080'><em>(<a href='/affichIDCC.do?cidTexte=KALITEXT000045204476&categorieLien=cid' title='Suppression de la garantie dépendance (VNE)'>Avenant du 29 novembre 2021</a>, art. 1er - BOCC 2021-52)</em></font></p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='center'><strong>Suppression de la garantie dépendance </strong>(à compter du 1er janvier 2022)</p><p>Les parties conviennent de ne pas reconduire à compter du 1er janvier 2022, la garantie dépendance définie par l'avenant n° 48 à la convention collective nationale de la poissonnerie, étendu par arrêté du 1er février 2006.</p><p><font color='#808080'><em>(<a href='/affichIDCC.do?cidTexte=KALITEXT000045204476&categorieLien=cid'>Avenant du 29 novembre 2021</a>, art. 1er - BOCC 2021-52)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
                   {
                     "textCid": "KALITEXT000045204476",
@@ -9540,6 +9540,18 @@
                     "datePubliTexte": "2022-02-22",
                     "dateSignaTexte": "2021-11-29",
                     "dateDebutCible": "2022-01-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000046026711",
+                    "textTitle": "Arrêté du 27 juin 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046026714",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-07-08",
+                    "dateSignaTexte": "2022-06-27",
+                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -13546,7 +13558,7 @@
                 "intOrdre": 3670009,
                 "id": "KALIARTI000045208278",
                 "content": "<p align='left'>La cotisation contractuelle mensuelle par salarié est égale à :</p><p align='left'>– salariés bénéficiaires relevant de l'article 2.1 de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres (anciennement de l'article 4 de la convention collective nationale des cadres de 1947) :<br/>\n–– régime général de la sécurité sociale : 1,65 % plafond mensuel de la sécurité sociale ;<br/>\n–– régime local d'Alsace-Moselle : 1,31 % plafond mensuel de la sécurité sociale ;</p><p align='left'>– salariés bénéficiaires ne relevant pas de l'article 2.1 de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres (anciennement de l'article 4 de la convention collective nationale des cadres de 1947) :<br/>\n–– régime général de la sécurité sociale : 1,23 % plafond mensuel de la sécurité sociale ;<br/>\n–– régime local d'Alsace-Moselle : 0,97 % plafond mensuel de la sécurité sociale.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Cotisations",
                 "lstLienModification": [
                   {
@@ -13560,6 +13572,18 @@
                     "datePubliTexte": "2022-02-22",
                     "dateSignaTexte": "2021-11-29",
                     "dateDebutCible": "2022-01-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000046024732",
+                    "textTitle": "Arrêté du 27 juin 2022 - art. 1, v. init.",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046024736",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-07-07",
+                    "dateSignaTexte": "2022-06-27",
+                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -22457,7 +22481,7 @@
             "cid": "KALITEXT000045204458",
             "title": "Avenant du 29 novembre 2021 à l'avenant n° 62 du 22 novembre 2007 relatif à la garantie des frais de santé",
             "id": "KALITEXT000045204458",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2022-01-01"
           },
           "children": [
@@ -22468,7 +22492,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000045204461",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -22477,9 +22501,22 @@
                     "cid": "KALIARTI000045204474",
                     "intOrdre": 524287,
                     "id": "KALIARTI000045204474",
-                    "content": "<p></p><p align='left'>Le présent avenant constitue un avenant de révision aux dispositions de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000018659307&categorieLien=cid' title='Garantie des frais de santé (VE)'>avenant n° 62 du 22 novembre 2007</a> relatif aux garanties frais de santé.</p><p align='left'>Il a pour objet d'aménager à effet du 1er janvier 2022, les niveaux de cotisations.</p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "content": "<p></p><p align='left'>Le présent avenant constitue un avenant de révision aux dispositions de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000018659307&categorieLien=cid'>avenant n° 62 du 22 novembre 2007</a> relatif aux garanties frais de santé.</p><p align='left'>Il a pour objet d'aménager à effet du 1er janvier 2022, les niveaux de cotisations.</p><p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000046024732",
+                        "textTitle": "Arrêté du 27 juin 2022 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000046024736",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2022-07-07",
+                        "dateSignaTexte": "2022-06-27",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -22492,9 +22529,21 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000045204462",
                 "content": "<p align='left'>La cotisation contractuelle mensuelle par salarié est égale à :<br/>\n– salariés bénéficiaires relevant de l'article 2.1 de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres (anciennement de l'article 4 de la convention collective nationale des cadres de 1947) :<br/>\n–– régime général de la sécurité sociale : 1,65 % plafond mensuel de la sécurité sociale ;<br/>\n–– régime local d'Alsace-Moselle : 1,31 % plafond mensuel de la sécurité sociale ;</p><p align='left'>– salariés bénéficiaires ne relevant pas de l'article 2.1 de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres (anciennement de l'article 4 de la convention collective nationale des cadres de 1947) :<br/>\n–– régime général de la sécurité sociale : 1,23 % plafond mensuel de la sécurité sociale ;<br/>\n–– régime local d'Alsace-Moselle : 0,97 % plafond mensuel de la sécurité sociale.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Montant des cotisations",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046024732",
+                    "textTitle": "Arrêté du 27 juin 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046024736",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-07-07",
+                    "dateSignaTexte": "2022-06-27",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000018659307",
                     "textTitle": "Garantie des frais de santé - art. 7 (VNE)",
@@ -22518,9 +22567,22 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000045204465",
                 "content": "<p align='left'><br/>Le présent avenant s'applique à toutes les entreprises qui relèvent du champ de la convention collective nationale de la poissonnerie (IDCC 1504) : entreprises de détail, de demi-gros et de gros.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Champ d'application de l'avenant",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046024732",
+                    "textTitle": "Arrêté du 27 juin 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046024736",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-07-07",
+                    "dateSignaTexte": "2022-06-27",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -22531,9 +22593,22 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000045204466",
                 "content": "<p align='left'>Cet avenant concernant une garantie applicable à l'ensemble des salariés, il n'y a pas lieu de prévoir de dispositions spécifiques pour les entreprises de moins de 50 salariés.</p><p align='left'>De même, s'appliquant de manière uniforme à l'ensemble des salariés quel que soit leur genre, il n'y a pas lieu de prévoir des dispositions spécifiques à l'égalité entre les femmes et les hommes.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Entreprise de moins de 50 salariés et égalité femmes-hommes",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046024732",
+                    "textTitle": "Arrêté du 27 juin 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046024736",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-07-07",
+                    "dateSignaTexte": "2022-06-27",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -22544,9 +22619,22 @@
                 "intOrdre": 2621435,
                 "id": "KALIARTI000045204467",
                 "content": "<p align='left'><br/>Le présent avenant est conclu pour une durée indéterminée. Il prend effet à compter du 1er janvier 2022. Il s'incorpore à convention collective nationale de la poissonnerie qu'il modifie. Il est donc régi par les mêmes modalités de suivi, révision et dénonciation.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Durée de l'avenant",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046024732",
+                    "textTitle": "Arrêté du 27 juin 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046024736",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-07-07",
+                    "dateSignaTexte": "2022-06-27",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -22556,10 +22644,23 @@
                 "num": "5",
                 "intOrdre": 3145722,
                 "id": "KALIARTI000045204468",
-                "content": "<p align='left'>Le présent avenant peut être révisé à tout moment en fonction des nécessités de la branche et conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-7 (V)'>dispositions des articles L. 2261-7 et suivants du code du travail</a>.</p><p align='left'>Il peut être dénoncé dans les conditions prévues aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-9 (V)'>articles L. 2261-9 et suivants du code du travail</a>.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le présent avenant peut être révisé à tout moment en fonction des nécessités de la branche et conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid'>dispositions des articles L. 2261-7 et suivants du code du travail</a>.</p><p align='left'>Il peut être dénoncé dans les conditions prévues aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid'>articles L. 2261-9 et suivants du code du travail</a>.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Révision et dénonciation de l'avenant",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046024732",
+                    "textTitle": "Arrêté du 27 juin 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046024736",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-07-07",
+                    "dateSignaTexte": "2022-06-27",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -22569,10 +22670,23 @@
                 "num": "6",
                 "intOrdre": 3670009,
                 "id": "KALIARTI000045204471",
-                "content": "<p align='left'><br/>Le présent avenant sera établi en nombre suffisant d'exemplaires pour être remis à chacune des parties signataires. Il sera, conformément aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-6 (V)'>L. 2231-6</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-2 (V)'>D. 2231-2</a> et suivants du code du travail, notifié aux organisations syndicales représentatives et au terme d'un délai de 15 jours à compter de cette notification et à défaut d'opposition, il sera procédé dans les meilleurs délais aux formalités légales en vue de son dépôt et de son extension.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'><br/>Le présent avenant sera établi en nombre suffisant d'exemplaires pour être remis à chacune des parties signataires. Il sera, conformément aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>L. 2231-6</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid'>D. 2231-2</a> et suivants du code du travail, notifié aux organisations syndicales représentatives et au terme d'un délai de 15 jours à compter de cette notification et à défaut d'opposition, il sera procédé dans les meilleurs délais aux formalités légales en vue de son dépôt et de son extension.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Formalités",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046024732",
+                    "textTitle": "Arrêté du 27 juin 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046024736",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-07-07",
+                    "dateSignaTexte": "2022-06-27",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
@@ -22583,7 +22697,7 @@
             "cid": "KALITEXT000045204476",
             "title": "Avenant du 29 novembre 2021 relatif à la suppression de la garantie dépendance à compter du 1er janvier 2022",
             "id": "KALITEXT000045204476",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2022-01-01"
           },
           "children": [
@@ -22594,7 +22708,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000045204479",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -22603,9 +22717,22 @@
                     "cid": "KALIARTI000045204493",
                     "intOrdre": 524287,
                     "id": "KALIARTI000045204493",
-                    "content": "<p align='left'>Par avenants <a href='/affichIDCC.do?cidTexte=KALITEXT000005682978&categorieLien=cid' title='Régime de prévoyance (VE)'>n° 41</a>, <a href='/affichIDCC.do?cidTexte=KALITEXT000005682980&categorieLien=cid' title='Avenant complémentaire à l'avenant n° 41 relatif à la prévoyance (VE)'>41 bis </a>et <a href='/affichIDCC.do?cidTexte=KALITEXT000005682986&categorieLien=cid' title='Modificatif et complétif des avenants n°s 41 et 41 bis (prévoyance) (VE)'>n° 44 </a>à la convention collective nationale de la poissonnerie, étendus par arrêté du 26 octobre 2004, les partenaires sociaux ont convenu de la mise en place d'un régime de prévoyance, au niveau de la branche professionnelle de la poissonnerie.</p><p align='left'>Par <a href='/affichIDCC.do?cidTexte=KALITEXT000005682994&categorieLien=cid' title='Prévoyance garantie dépendance collective (VE)'>avenant n° 48 </a>à la convention collective nationale de la poissonnerie, étendu par arrêté du 1er février 2006, les partenaires sociaux ont complété le régime de prévoyance existant avec une garantie dépendance.</p><p align='left'>L'ensemble des entreprises qui relèvent de la convention collective nationale de la poissonnerie étaient tenues d'affilier l'ensemble de leurs salariés.</p><p align='left'>Conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745472&dateTexte=&categorieLien=cid' title='Code de la sécurité sociale. - art. L912-1 (M)'>article L. 912-1 du code de la sécurité sociale</a>, les parties ont réexaminé les conditions d'application de la garantie dépendance et ont relevé une inadéquation des garanties définies par l'avenant n° 48 au regard des besoins des salariés de la branche.</p><p align='left'>Par avenant du 23 octobre 2020, étendu par arrêté du 21 mai 2021, les parties ont convenu de suspendre la garantie dépendance définie par l'avenant n° 48 à la convention collective nationale de la poissonnerie, étendu par arrêté du 1er février 2006 à compter du 1er janvier 2021 et jusqu'au 31 décembre 2021 inclus au plus tard, sans préjudice des droits acquis avant cette suspension et de réexaminer, pendant la période de suspension, les conditions d'application de la garantie dépendance, de rechercher les moyens de faire évoluer les garanties prévues au titre VIII de la convention collective, au bénéfice des salariés de la branche et en adéquation avec leurs besoins.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "content": "<p align='left'>Par avenants <a href='/affichIDCC.do?cidTexte=KALITEXT000005682978&categorieLien=cid'>n° 41</a>, <a href='/affichIDCC.do?cidTexte=KALITEXT000005682980&categorieLien=cid'>41 bis </a>et <a href='/affichIDCC.do?cidTexte=KALITEXT000005682986&categorieLien=cid'>n° 44 </a>à la convention collective nationale de la poissonnerie, étendus par arrêté du 26 octobre 2004, les partenaires sociaux ont convenu de la mise en place d'un régime de prévoyance, au niveau de la branche professionnelle de la poissonnerie.</p><p align='left'>Par <a href='/affichIDCC.do?cidTexte=KALITEXT000005682994&categorieLien=cid'>avenant n° 48 </a>à la convention collective nationale de la poissonnerie, étendu par arrêté du 1er février 2006, les partenaires sociaux ont complété le régime de prévoyance existant avec une garantie dépendance.</p><p align='left'>L'ensemble des entreprises qui relèvent de la convention collective nationale de la poissonnerie étaient tenues d'affilier l'ensemble de leurs salariés.</p><p align='left'>Conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745472&dateTexte=&categorieLien=cid'>article L. 912-1 du code de la sécurité sociale</a>, les parties ont réexaminé les conditions d'application de la garantie dépendance et ont relevé une inadéquation des garanties définies par l'avenant n° 48 au regard des besoins des salariés de la branche.</p><p align='left'>Par avenant du 23 octobre 2020, étendu par arrêté du 21 mai 2021, les parties ont convenu de suspendre la garantie dépendance définie par l'avenant n° 48 à la convention collective nationale de la poissonnerie, étendu par arrêté du 1er février 2006 à compter du 1er janvier 2021 et jusqu'au 31 décembre 2021 inclus au plus tard, sans préjudice des droits acquis avant cette suspension et de réexaminer, pendant la période de suspension, les conditions d'application de la garantie dépendance, de rechercher les moyens de faire évoluer les garanties prévues au titre VIII de la convention collective, au bénéfice des salariés de la branche et en adéquation avec leurs besoins.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000046026711",
+                        "textTitle": "Arrêté du 27 juin 2022 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000046026714",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2022-07-08",
+                        "dateSignaTexte": "2022-06-27",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -22617,10 +22744,22 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000045204480",
-                "content": "<p align='left'>Les parties conviennent de ne pas reconduire à compter du 1er janvier 2022, la garantie dépendance définie par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000005682994&categorieLien=cid' title='Prévoyance garantie dépendance collective (VE)'>avenant n° 48 </a>à la convention collective nationale de la poissonnerie, étendu par arrêté du 1er février 2006.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Les parties conviennent de ne pas reconduire à compter du 1er janvier 2022, la garantie dépendance définie par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000005682994&categorieLien=cid'>avenant n° 48 </a>à la convention collective nationale de la poissonnerie, étendu par arrêté du 1er février 2006.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Suppression de la garantie dépendance à compter du 1er janvier 2022",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046026711",
+                    "textTitle": "Arrêté du 27 juin 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046026714",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-07-08",
+                    "dateSignaTexte": "2022-06-27",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000005682994",
                     "textTitle": "Prévoyance garantie dépendance collective - art. NOTA 2 (VNE)",
@@ -22643,10 +22782,23 @@
                 "num": "2",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000045204482",
-                "content": "<p align='left'>Les salariés de la branche conserveront les unités dépendances acquises antérieurement au 1er janvier 2021, au titre de la garantie dépendance définie par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000005682994&categorieLien=cid' title='Prévoyance garantie dépendance collective (VE)'>avenant n° 48</a> à la convention collective nationale de la poissonnerie en application de l'article 6 de l'avenant susmentionné.</p><p align='left'>Le régime de couverture dépendance, pour les unités acquises antérieurement au 1er janvier 2021 au bénéfice de l'ensemble de ses bénéficiaires cotisants et ex-cotisants, est géré par un fonds collectif constitué à cette fin auprès de l'organisme assureur, lequel assurera la garantie de bonne fin des rentes dépendance mises en service suite à reconnaissance par l'organisme assureur d'un état de dépendance. La branche est responsable du pilotage du fonds collectif et l'engagement de l'organisme assureur est limité au montant atteint par le fonds collectif.</p><p align='left'>Une convention de gestion, conclue entre la branche et l'organisme assureur, déterminera les modalités de fonctionnement et d'administration de ce fonds collectif, et procédera à la désignation conjointe d'un conseil actuariel indépendant chargé de l'évaluation des engagements du régime. Un compte est soumis, annuellement à la branche, qui précise le montant du fonds ainsi que la valeur liquidative des unités dépendance de la branche.</p><p align='left'>L'association pour le développement du paritarisme dans le secteur de la poissonnerie (ADPSP) est mandatée par la branche pour veiller au suivi et au pilotage des engagements passés.</p><p align='left'>Afin de garantir la juste couverture des engagements ainsi que l'équilibre économique du fonds, l'association ADPSP propose à la branche, dans les conditions prévues par la convention de gestion du fonds et sur la base du compte transmis et des évaluations effectuées par l'actuaire conseil indépendant :<br/>\n– les affectations d'une partie des sommes du fonds à un dispositif d'action sociale répondant à l'intérêt des entreprises et des salariés du secteur, qui seront décidées par la branche et s'effectueront selon le mécanisme prévu dans la convention de gestion ;<br/>\n– les révisions de la valeur de liquidation de l'unité dépendance de la poissonnerie qui seront décidées par la branche au regard de la situation du fonds collectif, en fonction d'une étude préalable établie par le conseil actuariel désigné conjointement par la branche et l'organisme assureur.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Les salariés de la branche conserveront les unités dépendances acquises antérieurement au 1er janvier 2021, au titre de la garantie dépendance définie par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000005682994&categorieLien=cid'>avenant n° 48</a> à la convention collective nationale de la poissonnerie en application de l'article 6 de l'avenant susmentionné.</p><p align='left'>Le régime de couverture dépendance, pour les unités acquises antérieurement au 1er janvier 2021 au bénéfice de l'ensemble de ses bénéficiaires cotisants et ex-cotisants, est géré par un fonds collectif constitué à cette fin auprès de l'organisme assureur, lequel assurera la garantie de bonne fin des rentes dépendance mises en service suite à reconnaissance par l'organisme assureur d'un état de dépendance. La branche est responsable du pilotage du fonds collectif et l'engagement de l'organisme assureur est limité au montant atteint par le fonds collectif.</p><p align='left'>Une convention de gestion, conclue entre la branche et l'organisme assureur, déterminera les modalités de fonctionnement et d'administration de ce fonds collectif, et procédera à la désignation conjointe d'un conseil actuariel indépendant chargé de l'évaluation des engagements du régime. Un compte est soumis, annuellement à la branche, qui précise le montant du fonds ainsi que la valeur liquidative des unités dépendance de la branche.</p><p align='left'>L'association pour le développement du paritarisme dans le secteur de la poissonnerie (ADPSP) est mandatée par la branche pour veiller au suivi et au pilotage des engagements passés.</p><p align='left'>Afin de garantir la juste couverture des engagements ainsi que l'équilibre économique du fonds, l'association ADPSP propose à la branche, dans les conditions prévues par la convention de gestion du fonds et sur la base du compte transmis et des évaluations effectuées par l'actuaire conseil indépendant :<br/>\n– les affectations d'une partie des sommes du fonds à un dispositif d'action sociale répondant à l'intérêt des entreprises et des salariés du secteur, qui seront décidées par la branche et s'effectueront selon le mécanisme prévu dans la convention de gestion ;<br/>\n– les révisions de la valeur de liquidation de l'unité dépendance de la poissonnerie qui seront décidées par la branche au regard de la situation du fonds collectif, en fonction d'une étude préalable établie par le conseil actuariel désigné conjointement par la branche et l'organisme assureur.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Maintien des garanties acquises au 1er janvier 2021",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046026711",
+                    "textTitle": "Arrêté du 27 juin 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046026714",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-07-08",
+                    "dateSignaTexte": "2022-06-27",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -22657,9 +22809,22 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000045204484",
                 "content": "<p align='left'><br/>Le présent accord s'applique à toutes les entreprises qui relèvent du champ de la convention collective nationale de la poissonnerie (IDCC 1504) : entreprises de détail, de demi-gros et de gros.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Champ d'application de l'accord",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046026711",
+                    "textTitle": "Arrêté du 27 juin 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046026714",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-07-08",
+                    "dateSignaTexte": "2022-06-27",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -22670,9 +22835,22 @@
                 "intOrdre": 2621435,
                 "id": "KALIARTI000045204485",
                 "content": "<p align='left'><br/>Cet accord concernant une garantie applicable à l'ensemble des salariés, il n'y a pas lieu de prévoir de dispositions spécifiques pour les entreprises de moins de 50 salariés.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Entreprise de moins de 50 salariés",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046026711",
+                    "textTitle": "Arrêté du 27 juin 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046026714",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-07-08",
+                    "dateSignaTexte": "2022-06-27",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -22683,9 +22861,22 @@
                 "intOrdre": 3145722,
                 "id": "KALIARTI000045204486",
                 "content": "<p align='left'><br/>Le présent accord est conclu pour une durée indéterminée. Le présent avenant est conclu pour une durée indéterminée. Il prend effet à compter du 1er janvier 2022. Il s'incorpore à convention collective nationale de la poissonnerie qu'il modifie. Il est donc régi par les mêmes modalités de suivi, révision et dénonciation.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Durée de l'accord",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046026711",
+                    "textTitle": "Arrêté du 27 juin 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046026714",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-07-08",
+                    "dateSignaTexte": "2022-06-27",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -22695,10 +22886,23 @@
                 "num": "6",
                 "intOrdre": 3670009,
                 "id": "KALIARTI000045204487",
-                "content": "<p align='left'>Le présent accord peut être révisé à tout moment en fonction des nécessités de la branche et conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-7 (V)'>dispositions des articles L. 2261-7 et suivants du code du travail</a>.</p><p align='left'>Il peut être dénoncé dans les conditions prévues aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-9 (V)'>articles L. 2261-9 et suivants du code du travail</a>.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le présent accord peut être révisé à tout moment en fonction des nécessités de la branche et conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid'>dispositions des articles L. 2261-7 et suivants du code du travail</a>.</p><p align='left'>Il peut être dénoncé dans les conditions prévues aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid'>articles L. 2261-9 et suivants du code du travail</a>.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Révision et dénonciation de l'accord",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046026711",
+                    "textTitle": "Arrêté du 27 juin 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046026714",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-07-08",
+                    "dateSignaTexte": "2022-06-27",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -22708,10 +22912,23 @@
                 "num": "7",
                 "intOrdre": 4194296,
                 "id": "KALIARTI000045204490",
-                "content": "<p align='left'><br/>Le présent accord sera établi en nombre suffisant d'exemplaires pour être remis à chacune des parties signataires. Il sera, conformément aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-6 (V)'>L. 2231-6</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-2 (V)'>D. 2231-2</a> et suivants du code du travail, notifié aux organisations syndicales représentatives et au terme d'un délai de 15 jours à compter de cette notification et à défaut d'opposition, il sera procédé dans les meilleurs délais aux formalités légales en vue de son dépôt.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'><br/>Le présent accord sera établi en nombre suffisant d'exemplaires pour être remis à chacune des parties signataires. Il sera, conformément aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>L. 2231-6</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid'>D. 2231-2</a> et suivants du code du travail, notifié aux organisations syndicales représentatives et au terme d'un délai de 15 jours à compter de cette notification et à défaut d'opposition, il sera procédé dans les meilleurs délais aux formalités légales en vue de son dépôt.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Formalités",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046026711",
+                    "textTitle": "Arrêté du 27 juin 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046026714",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-07-08",
+                    "dateSignaTexte": "2022-06-27",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
