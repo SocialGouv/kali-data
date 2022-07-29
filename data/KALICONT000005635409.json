@@ -46,34 +46,21 @@
                     "cid": "KALIARTI000005856055",
                     "num": "1er",
                     "intOrdre": 85898,
-                    "id": "KALIARTI000005856056",
-                    "content": "<p></p>   La présente convention collective règle les rapports entre les employeurs et salariés travaillant dans les cabinets médicaux à titre professionnel uniquement, à l'exclusion du personnel travaillant également au domicile du médecin.<p></p><p></p>   La présente convention s'applique à tous les employeurs qui exercent la médecine libérale sous quelque forme que ce soit, et notamment dans le cadre des activités reprises sous le numéro 85.1 C de la nomenclature NAF.<p></p><p></p>   La présente convention s'applique sur l'ensemble du territoire national à l'exception des départements d'outre-mer.<p></p><p></p>   Tout médecin embauchant dans le cadre de son exercice libéral un ou plusieurs salariés est tenu par les dispositions de la présente convention, quel que soit le lieu de son exercice, cabinet de ville, clinique, hôpital, établissement de soins, etc.<p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "historique": "Modifié par avenant n° 28 du 13 novembre 1996 BO conventions collectives 97-9, étendu par arrêté du 25 juin 1997 JORF 4 juillet 1997.",
+                    "id": "KALIARTI000046105820",
+                    "content": "<p>La présente convention collective règle les obligations réciproques et les rapports entre :<br/>\n– les employeurs exerçant la médecine libérale, sous quelque forme que ce soit et quel que soit le lieu de leur exercice (cabinet de ville, clinique, hôpital, établissement de soins, etc.), et leurs salariés ;<br/>\n– les sociétés interprofessionnelles de soins ambulatoire et leurs salariés, et ;<br/>\n– les maisons de santé pluridisciplinaires au sein desquelles au moins un médecin exerce à titre libéral, et leurs salariés.</p><p>La présente convention collective ne s'applique toutefois pas au personnel qui, embauché par un médecin dans le cadre de son exercice libéral, travaille également au domicile de ce médecin. La présente convention s'applique sur l'ensemble du territoire national, à l'exception des départements d'outre-mer.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
                     "lstLienModification": [
                       {
-                        "textCid": "",
-                        "textTitle": "Avenant 1983-01-21 étendu par arrêté du 2 septembre 1983 JORF 17 septembre 1983",
-                        "linkType": "MODIFICATION",
-                        "linkOrientation": "source",
+                        "textCid": "KALITEXT000046098915",
+                        "textTitle": "Extension du périmètre de la branche - art. (VNE)",
+                        "linkType": "MODIFIE",
+                        "linkOrientation": "cible",
                         "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      },
-                      {
-                        "textCid": "",
-                        "textTitle": "Convention collective nationale 1981-10-14 étendue par arrêté du 15 janvier 1982 JONC 12 février 1982",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
+                        "articleId": "KALIARTI000046098918",
+                        "natureText": "Avenant",
+                        "datePubliTexte": "2022-07-27",
+                        "dateSignaTexte": "2022-02-17",
+                        "dateDebutCible": "2022-05-04"
                       }
                     ]
                   }
@@ -10876,6 +10863,42 @@
                     "datePubliTexte": "2022-06-11",
                     "dateSignaTexte": "2022-05-23",
                     "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000046098915",
+            "title": "Avenant n° 86 du 17 février 2022 relatif à l'extension du périmètre de la branche",
+            "id": "KALITEXT000046098915",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2022-05-04"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046098918",
+                "intOrdre": 524287,
+                "id": "KALIARTI000046098918",
+                "content": "<p align='left'>L'article 1er de la convention collective est remplacé par l'article suivant :</p><p align='center'>« Article 1er </p><p align='left'>La présente convention collective règle les obligations réciproques et les rapports entre :<br/>\n– les employeurs exerçant la médecine libérale, sous quelque forme que ce soit et quel que soit le lieu de leur exercice (cabinet de ville, clinique, hôpital, établissement de soins, etc.), et leurs salariés ;<br/>\n– les sociétés interprofessionnelles de soins ambulatoire et leurs salariés, et ;<br/>\n– les maisons de santé pluridisciplinaires au sein desquelles au moins un médecin exerce à titre libéral, et leurs salariés.</p><p align='left'>La présente convention collective ne s'applique toutefois pas au personnel qui, embauché par un médecin dans le cadre de son exercice libéral, travaille également au domicile de ce médecin. La présente convention s'applique sur l'ensemble du territoire national, à l'exception des départements d'outre-mer. »</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000005681857",
+                    "textTitle": "Convention collective nationale du 14 octobre 1981 - art. 1er (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "1er",
+                    "articleId": "KALIARTI000046105820",
+                    "natureText": "Convention collective nationale ",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "1981-10-14",
+                    "dateDebutCible": "2022-05-04"
                   }
                 ]
               }
