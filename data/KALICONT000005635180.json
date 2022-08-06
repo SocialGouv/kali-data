@@ -10725,7 +10725,7 @@
             "cid": "KALITEXT000046098983",
             "title": "Accord du 24 février 2022 relatif aux salaires minimaux professionnels au 1er mai 2022",
             "id": "KALITEXT000046098983",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2022-05-03"
           },
           "children": [
@@ -10736,7 +10736,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000046098986",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -10746,8 +10746,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000046098995",
                     "content": "<p align='left'>Dans le cadre de la négociation annuelle obligatoire de branche et de l'examen de la situation comparée des femmes et des hommes au sein des sociétés dépendant de la convention collective nationale de la miroiterie, de la transformation et du négoce de verre, les parties signataires ont exprimé leur volonté, comme lors des précédents accords SMP à ce qu'aucun coefficient de la grille ne soit associé à un SMP dont la valeur serait en-dessous de celle du Smic en vigueur.</p><p align='left'>Les parties signataires entendent augmenter tous les coefficients pour cette année 2022.</p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000046096299",
+                        "textTitle": "Arrêté du 18 juillet 2022 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000046096303",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2022-07-27",
+                        "dateSignaTexte": "2022-07-18",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -10760,9 +10773,22 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000046098987",
                 "content": "<p align='left'>Au 1er mai 2022, les salaires minimaux, horaires et mensualisés, ainsi que le montant des primes d'ancienneté correspondantes, sont définis comme suit :</p><p align='left'></p><center><table border='1'><tbody><tr><th colspan='3'>Revalorisation selon AG</th><th colspan='5'>Prime d'ancienneté horaire</th><th rowspan='3'>Pourcentage révision</th></tr><tr><th rowspan='2'>Coefficient</th><th rowspan='2'>Salaire minimum conventionnel mensualisé</th><th rowspan='2'>SMP horaire</th><th>3 à 5 ans</th><th>6 à 8 ans</th><th>9 à 11 ans</th><th>12 à 14 ans</th><th>> 15 ans</th></tr><tr><th>3,00 %</th><th>6,00 %</th><th>9,00 %</th><th>12,00 %</th><th>15,00 %</th></tr><tr><td align='center'>140</td><td align='center'>1 603,12</td><td align='center'>10,57</td><td align='center'>0,3171</td><td align='center'>0,6342</td><td align='center'>0,9513</td><td align='center'>1,2684</td><td align='center'>1,5855</td><td align='center'>3,12 %</td></tr><tr><td align='center'>150</td><td align='center'>1 607,80</td><td align='center'>10,60</td><td align='center'>0,3180</td><td align='center'>0,6361</td><td align='center'>0,9541</td><td align='center'>1,2721</td><td align='center'>1,5901</td><td align='center'>2,70 %</td></tr><tr><td align='center'>160</td><td align='center'>1 613,22</td><td align='center'>10,64</td><td align='center'>0,3191</td><td align='center'>0,6382</td><td align='center'>0,9573</td><td align='center'>1,2764</td><td align='center'>1,5955</td><td align='center'>2,70 %</td></tr><tr><td align='center'>170</td><td align='center'>1 618,63</td><td align='center'>10,67</td><td align='center'>0,3202</td><td align='center'>0,6403</td><td align='center'>0,9605</td><td align='center'>1,2807</td><td align='center'>1,6008</td><td align='center'>2,70 %</td></tr><tr><td align='center'>180</td><td align='center'>1 624,04</td><td align='center'>10,71</td><td align='center'>0,3212</td><td align='center'>0,6425</td><td align='center'>0,9637</td><td align='center'>1,2850</td><td align='center'>1,6062</td><td align='center'>2,70 %</td></tr><tr><td align='center'>200</td><td align='center'>1 662,50</td><td align='center'>10,96</td><td align='center'>0,3288</td><td align='center'>0,6577</td><td align='center'>0,9865</td><td align='center'>1,3154</td><td align='center'>1,6442</td><td align='center'>2,70 %</td></tr><tr><td align='center'>225</td><td align='center'>1 716,45</td><td align='center'>11,32</td><td align='center'>0,3395</td><td align='center'>0,6790</td><td align='center'>1,0186</td><td align='center'>1,3581</td><td align='center'>1,6976</td><td align='center'>2,40 %</td></tr><tr><td align='center'>250</td><td align='center'>1 780,41</td><td align='center'>11,74</td><td align='center'>0,3522</td><td align='center'>0,7043</td><td align='center'>1,0565</td><td align='center'>1,4087</td><td align='center'>1,7608</td><td align='center'>2,40 %</td></tr><tr><td align='center'>275</td><td align='center'>1 846,20</td><td align='center'>12,17</td><td align='center'>0,3652</td><td align='center'>0,7304</td><td align='center'>1,0955</td><td align='center'>1,4607</td><td align='center'>1,8259</td><td align='center'>2,40 %</td></tr><tr><td align='center'>300</td><td align='center'>1 971,05</td><td align='center'>13,00</td><td align='center'>0,3899</td><td align='center'>0,7798</td><td align='center'>1,1696</td><td align='center'>1,5595</td><td align='center'>1,9494</td><td align='center'>2,40 %</td></tr><tr><td align='center'>330</td><td align='center'>2 116,61</td><td align='center'>13,96</td><td align='center'>0,4187</td><td align='center'>0,8373</td><td align='center'>1,2560</td><td align='center'>1,6747</td><td align='center'>2,0934</td><td align='center'>2,40 %</td></tr><tr><td align='center'>370</td><td align='center'>2 312,40</td><td align='center'>15,25</td><td></td><td></td><td></td><td></td><td></td><td align='center'>2,40 %</td></tr><tr><td align='center'>410</td><td align='center'>2 511,68</td><td align='center'>16,56</td><td></td><td></td><td></td><td></td><td></td><td align='center'>2,40 %</td></tr><tr><td align='center'>460</td><td align='center'>2 761,12</td><td align='center'>18,21</td><td></td><td></td><td></td><td></td><td></td><td align='center'>2,40 %</td></tr><tr><td align='center'>550</td><td align='center'>3 213,29</td><td align='center'>21,19</td><td></td><td></td><td></td><td></td><td></td><td align='center'>2,40 %</td></tr><tr><td align='center'>660</td><td align='center'>3 769,47</td><td align='center'>24,85</td><td></td><td></td><td></td><td></td><td></td><td align='center'>2,40 %</td></tr><tr><td align='center'>880</td><td align='center'>4 888,68</td><td align='center'>32,23</td><td></td><td></td><td></td><td></td><td></td><td align='center'>2,40 %</td></tr></tbody></table></center>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Nouvelle grille",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046096299",
+                    "textTitle": "Arrêté du 18 juillet 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046096303",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-07-27",
+                    "dateSignaTexte": "2022-07-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -10772,10 +10798,23 @@
                 "num": "2",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000046098988",
-                "content": "<p align='left'>Le présent accord est conclu pour une durée indéterminée.</p><p align='left'>Le présent accord entrera en vigueur au jour suivant le dépôt de celui-ci.</p><p align='left'>Il fera l'objet des formalités d'extension prévues par les dispositions légales.</p><p align='left'>Le présent accord, conclu en application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901738&dateTexte=&categorieLien=cid' title='Code du travail - art. L2241-1 (M)'>article L. 2241-1 du code du travail</a> s'applique à l'ensemble des personnels couverts par la convention collective nationale (IDCC 1499). Les partenaires sociaux signataires du présent accord n'ont pas prévu de clauses relatives aux TPE dans cet accord et s'accordent sur le fait qu'il n'y a pas lieu d'en prévoir, l'accord devant s'appliquer dans toutes les entreprises de la branche quel que soit leur effectif.</p><p align='left'>Il est établi en un nombre suffisant d'exemplaires pour être remis à chaque organisation syndicale représentative au niveau de la branche et pour le dépôt auprès des services centraux du ministre chargé du travail, à la direction générale du travail et au conseil de prud'hommes de Paris, dans les conditions légales et réglementaires.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le présent accord est conclu pour une durée indéterminée.</p><p align='left'>Le présent accord entrera en vigueur au jour suivant le dépôt de celui-ci.</p><p align='left'>Il fera l'objet des formalités d'extension prévues par les dispositions légales.</p><p align='left'>Le présent accord, conclu en application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901738&dateTexte=&categorieLien=cid'>article L. 2241-1 du code du travail</a> s'applique à l'ensemble des personnels couverts par la convention collective nationale (IDCC 1499). Les partenaires sociaux signataires du présent accord n'ont pas prévu de clauses relatives aux TPE dans cet accord et s'accordent sur le fait qu'il n'y a pas lieu d'en prévoir, l'accord devant s'appliquer dans toutes les entreprises de la branche quel que soit leur effectif.</p><p align='left'>Il est établi en un nombre suffisant d'exemplaires pour être remis à chaque organisation syndicale représentative au niveau de la branche et pour le dépôt auprès des services centraux du ministre chargé du travail, à la direction générale du travail et au conseil de prud'hommes de Paris, dans les conditions légales et réglementaires.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Entrée en vigueur. Dépôt. Extension",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046096299",
+                    "textTitle": "Arrêté du 18 juillet 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046096303",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-07-27",
+                    "dateSignaTexte": "2022-07-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -10786,9 +10825,22 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000046098990",
                 "content": "<p align='left'>Toute organisation syndicale représentative d'employeurs ou de salariés, ainsi que toute association d'employeurs ou tout employeur pris individuellement non signataire pourra y adhérer en application des dispositions du code du travail.</p><p align='left'>Elle devra également aviser, par lettre recommandée, toutes les organisations signataires représentatives au sein de la branche et l'ensemble des organisations syndicales représentatives de la branche.</p><p align='left'>Cette adhésion ne pourra être partielle et concernera nécessairement l'ensemble des termes de l'accord.</p><p align='left'>Elle fera l'objet d'un dépôt dans les conditions prévues par voie règlementaire, à la diligence de son ou de ses auteurs.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Adhésion",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046096299",
+                    "textTitle": "Arrêté du 18 juillet 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046096303",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-07-27",
+                    "dateSignaTexte": "2022-07-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -10798,10 +10850,23 @@
                 "num": "4",
                 "intOrdre": 2621435,
                 "id": "KALIARTI000046098992",
-                "content": "<p align='left'><br/>Aucun accord d'entreprise ou d'établissement ne pourra déroger aux clauses du présent accord de branche dans un sens moins favorable aux salariés.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'><br/>Aucun accord d'entreprise ou d'établissement ne pourra déroger aux clauses du présent accord de branche dans un sens moins favorable aux salariés.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000046098992_1'></a>(1) Compte tenu du nouvel ordonnancement des niveaux de négociation issu de l'ordonnance n° 2017-1385 du 22 septembre 2017, article étendu sous réserve de l'application des articles L. 2253-1 à L. 2253-3 du code du travail tels qu'interprétés par le Conseil d'Etat dans sa décision du 13 décembre 2021, n° 433232, dont il ressort que « si la convention de branche peut retenir que les salaires minima hiérarchiques s'appliquent aux rémunérations effectives des salariés résultant de leurs salaires de base et de certains compléments de salaire, elle ne peut, lorsqu'elle prévoit l'existence de primes, ainsi que leur montant, indépendamment (…) de la définition des garanties applicables en matière de salaires minima hiérarchiques, faire obstacle à ce que les stipulations d'un accord d'entreprise en cette matière prévalent sur celles de la convention de branche, y compris si elles y sont moins favorables ».  <br/>(Arrêté du 18 juillet 2022 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Valeur normative de l'accord",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046096299",
+                    "textTitle": "Arrêté du 18 juillet 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046096303",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-07-27",
+                    "dateSignaTexte": "2022-07-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -10812,9 +10877,22 @@
                 "intOrdre": 3145722,
                 "id": "KALIARTI000046098993",
                 "content": "<p align='left'>Le présent accord pourra être révisé conformément aux dispositions légales et réglementaires applicables.</p><p align='left'>La demande de révision, accompagnée d'un projet motivé sur les points à réviser, sera notifiée à l'ensemble des organisations syndicales salariales et patronales représentatives de la branche.</p><p align='left'>La présente convention pourra être dénoncée à tout moment à la demande de l'une ou de plusieurs des parties signataires ou adhérentes dans les conditions prévues par le code du travail.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Révision. Dénonciation",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046096299",
+                    "textTitle": "Arrêté du 18 juillet 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046096303",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-07-27",
+                    "dateSignaTexte": "2022-07-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
