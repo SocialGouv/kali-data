@@ -5155,7 +5155,7 @@
                     "intOrdre": 2080374783,
                     "title": "3.4. Maintien des garanties en cas de suspension du contrat de travail",
                     "id": "KALISCTA000045395327",
-                    "etat": "VIGUEUR_NON_ETEN"
+                    "etat": "VIGUEUR_ETEN"
                   },
                   "children": [
                     {
@@ -5671,7 +5671,7 @@
                     "intOrdre": 2134900735,
                     "title": "4.5. Taux d'appel du régime de prévoyance",
                     "id": "KALISCTA000045387793",
-                    "etat": "VIGUEUR_NON_ETEN"
+                    "etat": "VIGUEUR_ETEN"
                   },
                   "children": [
                     {
@@ -5773,44 +5773,8 @@
                     {
                       "type": "section",
                       "data": {
-                        "cid": "KALISCTA000026664892",
-                        "intOrdre": 536870911,
-                        "title": "5.1.2. Revalorisation des prestations",
-                        "id": "KALISCTA000026664892",
-                        "etat": "VIGUEUR_ETEN"
-                      },
-                      "children": [
-                        {
-                          "type": "article",
-                          "data": {
-                            "cid": "KALIARTI000026665251",
-                            "intOrdre": 1073741823,
-                            "id": "KALIARTI000026665251",
-                            "content": "Les prestations incapacité temporaire de travail et invalidité sont  revalorisées selon la périodicité et le taux fixés par le conseil  d'administration de Malakoff Médéric Prévoyance.<br/>Les  prestations rente éducation, assurées par l'OCIRP, sont revalorisées  selon le taux et la périodicité décidés par le conseil d'administration  de cette union.",
-                            "etat": "VIGUEUR_ETEN",
-                            "lstLienModification": [
-                              {
-                                "textCid": "JORFTEXT000026872450",
-                                "textTitle": "Arrêté du 21 décembre 2012, v. init.",
-                                "linkType": "ETEND",
-                                "linkOrientation": "cible",
-                                "articleNum": "",
-                                "articleId": "JORFTEXT000026872450",
-                                "natureText": "ARRETE",
-                                "datePubliTexte": "2013-01-01",
-                                "dateSignaTexte": "2012-12-21",
-                                "dateDebutCible": "2999-01-01"
-                              }
-                            ]
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "type": "section",
-                      "data": {
                         "cid": "KALISCTA000026664891",
-                        "intOrdre": 1073741823,
+                        "intOrdre": 268435455,
                         "title": "5.1.1. Salaire de référence",
                         "id": "KALISCTA000026664891",
                         "etat": "VIGUEUR_ETEN"
@@ -5847,6 +5811,42 @@
                                 "natureText": "ARRETE",
                                 "datePubliTexte": "2022-06-17",
                                 "dateSignaTexte": "2022-06-03",
+                                "dateDebutCible": "2999-01-01"
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "section",
+                      "data": {
+                        "cid": "KALISCTA000026664892",
+                        "intOrdre": 536870911,
+                        "title": "5.1.2. Revalorisation des prestations",
+                        "id": "KALISCTA000026664892",
+                        "etat": "VIGUEUR_ETEN"
+                      },
+                      "children": [
+                        {
+                          "type": "article",
+                          "data": {
+                            "cid": "KALIARTI000026665251",
+                            "intOrdre": 1073741823,
+                            "id": "KALIARTI000026665251",
+                            "content": "<p>Les prestations incapacité temporaire de travail et invalidité sont revalorisées selon la périodicité et le taux fixés par le conseil d'administration de Malakoff Médéric Prévoyance.</p><p>Les prestations rente éducation, assurées par l'OCIRP, sont revalorisées selon le taux et la périodicité décidés par le conseil d'administration de cette union.</p>",
+                            "etat": "VIGUEUR_ETEN",
+                            "lstLienModification": [
+                              {
+                                "textCid": "JORFTEXT000026872450",
+                                "textTitle": "Arrêté du 21 décembre 2012, v. init.",
+                                "linkType": "ETEND",
+                                "linkOrientation": "cible",
+                                "articleNum": "",
+                                "articleId": "JORFTEXT000026872450",
+                                "natureText": "ARRETE",
+                                "datePubliTexte": "2013-01-01",
+                                "dateSignaTexte": "2012-12-21",
                                 "dateDebutCible": "2999-01-01"
                               }
                             ]
@@ -11347,7 +11347,7 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000045372975",
-                "content": "<p align='left'>Le présent avenant reconduit à l'identique l'application des taux d'appel de cotisations tels que définis à l'article 4.5 « Taux d'appel » de l'accord de branche du 19 octobre 2011 pour une année.</p><p align='left'>Les taux d'appel maintenus sont ceux qui ont été fixés par l'avenant n° 4 du 9 juillet 2018. Ils étaient applicables jusqu'au 31 décembre 2019, puis reconduits par l'avenant n° 5 du 22 novembre 2019 jusqu'au 31 décembre 2020 et enfin, reconduits par l'avenant n° 6 du 22 décembre 2020, jusqu'au 31 décembre 2021.</p><p align='left'>Ils sont donc reconduits pour une année supplémentaire soit pour la période du 1er janvier 2022 au 31 décembre 2022.</p><p align='left'>Au-delà de cette période, soit à compter du 1er janvier 2023, à défaut de signature d'un nouvel avenant, les cotisations prévoyance et santé seront appelées sur la base de 100 % des taux contractuels.</p><p align='left'>Les autres dispositions de l'article 4.5, restent inchangées.</p>",
+                "content": "<p align='left'>Le présent avenant reconduit à l'identique l'application des taux d'appel de cotisations tels que définis à l'article 4.5 « Taux d'appel » de l'accord de branche du 19 octobre 2011 pour une année.</p><p align='left'>Les taux d'appel maintenus sont ceux qui ont été fixés par l'avenant n° 4 du 9 juillet 2018. Ils étaient applicables jusqu'au 31 décembre 2019, puis reconduits par l'avenant n° 5 du 22 novembre 2019 jusqu'au 31 décembre 2020 et enfin, reconduits par l'avenant n° 6 du 22 décembre 2020, jusqu'au 31 décembre 2021.</p><p align='left'>Ils sont donc reconduits pour une année supplémentaire soit pour la période du 1er janvier 2022 au 31 décembre 2022.</p><p align='left'>Au-delà de cette période, soit à compter du 1er janvier 2023, à défaut de signature d'un nouvel avenant, les cotisations prévoyance et santé seront appelées sur la base de 100 % des taux contractuels.</p><p align='left'>Les autres dispositions de l'article 4.5 restent inchangées.</p>",
                 "etat": "VIGUEUR_ETEN",
                 "surtitre": "Prolongation des taux d'appel de cotisations santé et prévoyance",
                 "lstLienModification": [
