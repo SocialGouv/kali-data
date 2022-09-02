@@ -3152,6 +3152,52 @@
       "type": "section",
       "data": {
         "intOrdre": 2,
+        "title": "Textes Attachés",
+        "etat": "VIGUEUR"
+      },
+      "children": [
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000046226083",
+            "title": "Avenant du 7 juin 2022 relatif aux salaires de base 1re embauche",
+            "id": "KALITEXT000046226083",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2022-06-24"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046226086",
+                "intOrdre": 524287,
+                "id": "KALIARTI000046226086",
+                "content": "<p align='left'><br/>En complément de l'accord paritaire régional de la Guadeloupe, relatif aux salaires des ETAM du BTP en date du 12 mai 2022, les parties signataires précisent : que compte tenu de la structure des entreprises de la branche, il n'est pas nécessaire de prévoir de stipulation spécifique pour les entreprises de moins de 50 salariés, conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>article L. 2261-23-1 du code du travail</a>. <br/>En conséquence de quoi, les parties signataires réitèrent leur demande d'extension formalisée le 16 mai 2022, relatif à l'<a href='/affichIDCC.do?cidTexte=KALITEXT000046106886&categorieLien=cid' title='Salaires de base 1re embauche (VNE)'>accord paritaire régional du 12 mai 2022 </a>concernant les salaires des ETAM du BTP de la Guadeloupe.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000046106886",
+                    "textTitle": "Salaires de base 1re embauche - art. (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "",
+                    "articleId": "KALIARTI000046246420",
+                    "natureText": "Accord",
+                    "datePubliTexte": "2022-07-28",
+                    "dateSignaTexte": "2022-05-12",
+                    "dateDebutCible": "2022-06-24"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "data": {
+        "intOrdre": 3,
         "title": "Textes Salaires",
         "etat": "VIGUEUR"
       },
@@ -3403,7 +3449,7 @@
             "title": "Accord du 12 mai 2022 relatif aux salaires de base 1re embauche",
             "id": "KALITEXT000046106886",
             "etat": "VIGUEUR_NON_ETEN",
-            "modifDate": "2022-06-02"
+            "modifDate": "2022-06-24"
           },
           "children": [
             {
@@ -3411,10 +3457,23 @@
               "data": {
                 "cid": "KALIARTI000046106889",
                 "intOrdre": 524287,
-                "id": "KALIARTI000046106889",
-                "content": "<p align='left'>Suite à la commission paritaire du 12 mai 2022, les organisations syndicales et les représentants de la FRBTPG se sont mis d'accord sur une augmentation des salaires des ETAM du BTP de la Guadeloupe et ses dépendances.</p><p align='left'>Cet accord est étendu à l'ensemble des entreprises du BTP de la Guadeloupe et dépendances, de moins 10 et de plus 10 salariés.</p><p align='left'>Pour un horaire hebdomadaire de 35 heures la grille de rémunération de base pour les ETAM du bâtiment et des travaux publics de la Guadeloupe et dépendances est la suivante :</p><p align='left'></p><center><table border='1'><tbody><tr><th></th><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th><th>F</th><th>G</th><th>H</th></tr><tr><td align='center'>Au 01/01/22</td><td align='center'>1 619,15</td><td align='center'>1 688,77</td><td align='center'>1 760,98</td><td align='center'>1 918,38</td><td align='center'>2 004,17</td><td align='center'>2 277,23</td><td align='center'>2 519,30</td><td align='center'>2 766,07</td></tr><tr><td align='center'>Au 01/05/22</td><td align='center'>1 645,58</td><td align='center'>1 717,18</td><td align='center'>1 789,33</td><td align='center'>1 946,08</td><td align='center'>2 031,35</td><td align='center'>2 305,22</td><td align='center'>2 547,07</td><td align='center'>2 793,06</td></tr></tbody></table></center>",
+                "id": "KALIARTI000046246420",
+                "content": "<p align='left'>Suite à la commission paritaire du 12 mai 2022, les organisations syndicales et les représentants de la FRBTPG se sont mis d'accord sur une augmentation des salaires des ETAM du BTP de la Guadeloupe et ses dépendances.</p><p align='left'>Cet accord est étendu à l'ensemble des entreprises du BTP de la Guadeloupe et dépendances, de moins 10 et de plus 10 salariés.</p><p align='left'>Pour un horaire hebdomadaire de 35 heures la grille de rémunération de base pour les ETAM du bâtiment et des travaux publics de la Guadeloupe et dépendances est la suivante :</p><center><table border='1'><tbody><tr><th></th><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th><th>F</th><th>G</th><th>H</th></tr><tr><td align='center'>Au 01/01/22</td><td align='center'>1 619,15</td><td align='center'>1 688,77</td><td align='center'>1 760,98</td><td align='center'>1 918,38</td><td align='center'>2 004,17</td><td align='center'>2 277,23</td><td align='center'>2 519,30</td><td align='center'>2 766,07</td></tr><tr><td align='center'>Au 01/05/22</td><td align='center'>1 645,58</td><td align='center'>1 717,18</td><td align='center'>1 789,33</td><td align='center'>1 946,08</td><td align='center'>2 031,35</td><td align='center'>2 305,22</td><td align='center'>2 547,07</td><td align='center'>2 793,06</td></tr></tbody></table></center><p>Les parties signataires précisent que compte tenu de la structure des entreprises de la branche, il n'est pas nécessaire de prévoir de stipulation spécifique pour les entreprises de moins de 50 salariés, conformément à l'article L. 2261-23-1 du code du travail.</p>",
                 "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000046226083",
+                    "textTitle": "Salaires de base 1re embauche - art. (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "KALIARTI000046226086",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2022-06-07",
+                    "dateDebutCible": "2022-06-24"
+                  }
+                ]
               }
             }
           ]
