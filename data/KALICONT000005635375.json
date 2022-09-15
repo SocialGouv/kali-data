@@ -1955,7 +1955,7 @@
                     "intOrdre": 1073741823,
                     "id": "KALIARTI000045526104",
                     "content": "<p align='left'>Les taux de cotisation sont fixés et répartis comme suit :</p><p align='center'>Non-cadres :</p><p align='left'></p><center><table border='1'><tbody><tr><th>Garanties</th><th>Taux et assiette de cotisation</th></tr><tr><td align='center'>Décès-IAD</td><td align='center'>0,12 % tranches A et B</td></tr><tr><td align='center'>Rente éducation OCIRP</td><td align='center'>0,07 % tranches A et B</td></tr><tr><td align='center'>Incapacité de travail</td><td align='center'>0,79 % tranches A et B</td></tr><tr><td align='center'>Taux global</td><td align='center'>0,98 % tranches A et B</td></tr><tr><td colspan='2' align='center'>La participation minimale de l'employeur s'élève à 69 % tranches A et B.</td></tr></tbody></table></center><p align='center'>Cadres :</p><p align='left'></p><center><table border='1'><tbody><tr><th>Garanties</th><th>Taux et assiette de cotisation</th></tr><tr><td align='center'>Décès-IAD</td><td align='center'>0,69 % tranche A + 0,69 % tranche B</td></tr><tr><td align='center'>Rente éducation OCIRP</td><td align='center'>0,07 % tranche A + 0,07 % tranche B</td></tr><tr><td align='center'>Incapacité de travail</td><td align='center'>0,94 % tranche A + 1,50 % tranche B</td></tr><tr><td align='center'>Taux global</td><td align='center'>1,70 % tranche A + 2,26 % tranche B</td></tr></tbody></table></center><p align='left'>La participation minimale de l'employeur s'élève à 97 % de la tranche A et 53,5 % de la tranche B.</p><p align='left'>Dans le cadre de sa quote-part, l'employeur finance les obligations légales de maintien de salaire mises à sa charge exclusive.</p><p align='left'>Assiette de cotisations :<br/>\nest soumise à cotisation au régime de prévoyance la totalité des salaires bruts de l'ensemble du personnel concerné. Le salaire soumis à cotisation se décompose comme suit :<br/>\n– tranche A (TA) : partie du salaire dans la limite du plafond mensuel de la sécurité sociale ;<br/>\n– tranche B (TB) : partie du salaire comprise entre le plafond mensuel de la sécurité sociale et quatre fois son montant.</p><p align='left'>Aucune cotisation de prévoyance n'est due sur les prestations versées par l'organisme assureur.</p><p align='left'>En application de la loi <a href='/affichTexte.do?cidTexte=JORFTEXT000000709057&categorieLien=cid'>n° 89-1009 </a>du 31 décembre 1989 et de la loi <a href='/affichTexte.do?cidTexte=JORFTEXT000000530328&categorieLien=cid'>n° 94-678</a> du 8 août 1994, les entreprises qui rejoindront le régime de prévoyance alors qu'un ou plusieurs de leurs salariés ou anciens salariés sont en arrêt de travail à la date d'effet de leur adhésion devront en faire la déclaration auprès de l'organisme assureur. »</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
                         "textCid": "KALITEXT000045518013",
@@ -1968,6 +1968,18 @@
                         "datePubliTexte": "2022-04-06",
                         "dateSignaTexte": "2022-01-19",
                         "dateDebutCible": "2022-04-01"
+                      },
+                      {
+                        "textCid": "JORFTEXT000046270197",
+                        "textTitle": "Arrêté du 29 août 2022 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000046270200",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2022-09-09",
+                        "dateSignaTexte": "2022-08-29",
+                        "dateDebutCible": "2999-01-01"
                       }
                     ]
                   }
@@ -21845,7 +21857,7 @@
             "cid": "KALITEXT000045518013",
             "title": "Avenant n° 44 du 19 janvier 2022 relatif à la prévoyance",
             "id": "KALITEXT000045518013",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2022-04-01"
           },
           "children": [
@@ -21856,7 +21868,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000045518016",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -21866,8 +21878,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000045518026",
                     "content": "<p align='left'><br/>Afin de maintenir un régime de prévoyance conventionnel de qualité au profit des entreprises et salariés de la branche d'activité des charcutiers-traiteurs et traiteurs, les partenaires sociaux conviennent des modifications suivantes :</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000046270197",
+                        "textTitle": "Arrêté du 29 août 2022 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000046270200",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2022-09-09",
+                        "dateSignaTexte": "2022-08-29",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -21879,10 +21904,22 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000045518017",
-                "content": "<p align='left'>L'article 20.2. C – Montant et assiette des cotisations du régime de prévoyance de la convention collective nationale de la charcuterie de détail, est remplacé par :</p><p align='center'>« Article 20.2. C  Montant et assiette des cotisations</p><p align='left'>Les taux de cotisation sont fixés et répartis comme suit :</p><p align='center'>Non-cadres :</p><center><table border='1'><tbody><tr><th>Garanties</th><th>Taux et assiette de cotisation</th></tr><tr><td align='center'>Décès-IAD</td><td align='center'>0,12 % tranches A et B</td></tr><tr><td align='center'>Rente éducation OCIRP</td><td align='center'>0,07 % tranches A et B</td></tr><tr><td align='center'>Incapacité de travail</td><td align='center'>0,79 % tranches A et B</td></tr><tr><td align='center'>Taux global</td><td align='center'>0,98 % tranches A et B</td></tr><tr><td colspan='2' align='center'>La participation minimale de l'employeur s'élève à 69 % tranches A et B.</td></tr></tbody></table></center><p align='center'>Cadres :</p><center><table border='1'><tbody><tr><th>Garanties</th><th>Taux et assiette de cotisation</th></tr><tr><td align='center'>Décès-IAD</td><td align='center'>0,69 % tranche A + 0,69 % tranche B</td></tr><tr><td align='center'>Rente éducation OCIRP</td><td align='center'>0,07 % tranche A + 0,07 % tranche B</td></tr><tr><td align='center'>Incapacité de travail</td><td align='center'>0,94 % tranche A + 1,50 % tranche B</td></tr><tr><td align='center'>Taux global</td><td align='center'>1,70 % tranche A + 2,26 % tranche B</td></tr></tbody></table></center><p align='left'>La participation minimale de l'employeur s'élève à 97 % de la tranche A et 53,5 % de la tranche B.</p><p align='left'>Dans le cadre de sa quote-part, l'employeur finance les obligations légales de maintien de salaire mises à sa charge exclusive.</p><p align='left'>Assiette de cotisations :<br/>\nest soumise à cotisation au régime de prévoyance la totalité des salaires bruts de l'ensemble du personnel concerné. Le salaire soumis à cotisation se décompose comme suit :<br/>\n– tranche A (TA) : partie du salaire dans la limite du plafond mensuel de la sécurité sociale ;<br/>\n– tranche B (TB) : partie du salaire comprise entre le plafond mensuel de la sécurité sociale et quatre fois son montant.</p><p align='left'>Aucune cotisation de prévoyance n'est due sur les prestations versées par l'organisme assureur.</p><p align='left'>En application de la <a href='/affichTexte.do?cidTexte=JORFTEXT000000709057&categorieLien=cid' title='Loi n° 89-1009 du 31 décembre 1989 (V)'>loi n° 89-1009 du 31 décembre 1989 </a>et de la <a href='/affichTexte.do?cidTexte=JORFTEXT000000530328&categorieLien=cid' title='Loi n° 94-678 du 8 août 1994 (V)'>loi n° 94-678 du 8 août 1994</a>, les entreprises qui rejoindront le régime de prévoyance alors qu'un ou plusieurs de leurs salariés ou anciens salariés sont en arrêt de travail à la date d'effet de leur adhésion devront en faire la déclaration auprès de l'organisme assureur. »</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>L'article 20.2. C – Montant et assiette des cotisations du régime de prévoyance de la convention collective nationale de la charcuterie de détail, est remplacé par :</p><p align='center'>« Article 20.2. C  Montant et assiette des cotisations</p><p align='left'>Les taux de cotisation sont fixés et répartis comme suit :</p><p align='center'>Non-cadres :</p><center><table border='1'><tbody><tr><th>Garanties</th><th>Taux et assiette de cotisation</th></tr><tr><td align='center'>Décès-IAD</td><td align='center'>0,12 % tranches A et B</td></tr><tr><td align='center'>Rente éducation OCIRP</td><td align='center'>0,07 % tranches A et B</td></tr><tr><td align='center'>Incapacité de travail</td><td align='center'>0,79 % tranches A et B</td></tr><tr><td align='center'>Taux global</td><td align='center'>0,98 % tranches A et B</td></tr><tr><td colspan='2' align='center'>La participation minimale de l'employeur s'élève à 69 % tranches A et B.</td></tr></tbody></table></center><p align='center'>Cadres :</p><center><table border='1'><tbody><tr><th>Garanties</th><th>Taux et assiette de cotisation</th></tr><tr><td align='center'>Décès-IAD</td><td align='center'>0,69 % tranche A + 0,69 % tranche B</td></tr><tr><td align='center'>Rente éducation OCIRP</td><td align='center'>0,07 % tranche A + 0,07 % tranche B</td></tr><tr><td align='center'>Incapacité de travail</td><td align='center'>0,94 % tranche A + 1,50 % tranche B</td></tr><tr><td align='center'>Taux global</td><td align='center'>1,70 % tranche A + 2,26 % tranche B</td></tr></tbody></table></center><p align='left'>La participation minimale de l'employeur s'élève à 97 % de la tranche A et 53,5 % de la tranche B.</p><p align='left'>Dans le cadre de sa quote-part, l'employeur finance les obligations légales de maintien de salaire mises à sa charge exclusive.</p><p align='left'>Assiette de cotisations :<br/>\nest soumise à cotisation au régime de prévoyance la totalité des salaires bruts de l'ensemble du personnel concerné. Le salaire soumis à cotisation se décompose comme suit :<br/>\n– tranche A (TA) : partie du salaire dans la limite du plafond mensuel de la sécurité sociale ;<br/>\n– tranche B (TB) : partie du salaire comprise entre le plafond mensuel de la sécurité sociale et quatre fois son montant.</p><p align='left'>Aucune cotisation de prévoyance n'est due sur les prestations versées par l'organisme assureur.</p><p align='left'>En application de la <a href='/affichTexte.do?cidTexte=JORFTEXT000000709057&categorieLien=cid'>loi n° 89-1009 du 31 décembre 1989 </a>et de la <a href='/affichTexte.do?cidTexte=JORFTEXT000000530328&categorieLien=cid'>loi n° 94-678 du 8 août 1994</a>, les entreprises qui rejoindront le régime de prévoyance alors qu'un ou plusieurs de leurs salariés ou anciens salariés sont en arrêt de travail à la date d'effet de leur adhésion devront en faire la déclaration auprès de l'organisme assureur. »</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Modification de l'article 20.2.C de la convention collective nationale de la charcuterie de détail du 1er décembre 1977 réécrite par l'avenant n° 113 du 4 avril 2007 et l'avenant n° 1 du 06/11/2008 qui modifie l'article 20 de ladite CCN ainsi que ses avenants successifs",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046270197",
+                    "textTitle": "Arrêté du 29 août 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046270200",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-09-09",
+                    "dateSignaTexte": "2022-08-29",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000017842201",
                     "textTitle": "Convention collective nationale de la charcuter... - art. 20.2.C (VNE)",
@@ -21906,9 +21943,22 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000045518020",
                 "content": "<p align='left'><br/>Le présent avenant prend effet au 1er avril 2022.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Date d'effet",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046270197",
+                    "textTitle": "Arrêté du 29 août 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046270200",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-09-09",
+                    "dateSignaTexte": "2022-08-29",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -21918,10 +21968,23 @@
                 "num": "3",
                 "intOrdre": 2097148,
                 "id": "KALIARTI000045518021",
-                "content": "<p align='left'>Le présent avenant est fait en nombre suffisant d'exemplaires pour remise à chacune des organisations signataires et dépôt dans les conditions prévues par le code du travail. </p><p align='left'>Les parties signataires conviennent de demander au ministère du travail, de la solidarité et de la fonction publique, l'extension du présent avenant en application des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-15 (V)'>articles L. 2261-15 et suivants du code du travail</a>. </p><p align='left'>La confédération nationale des charcutiers-traiteurs et traiteurs, 15, rue Jacques Bingen, 75017 Paris, se charge des formalités nécessaires. </p><p align='left'>Suivant les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>dispositions de l'article L. 2261-23-1 du code du travail</a>, les parties signataires n'ont pas retenu de dispositions spécifiques telles que visées par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-10-1 (V)'>article L. 2231-10-1 du code du travail</a> à l'attention des entreprises de moins de 50 salariés, dès lors que le présent avenant vise à modifier le régime collectif obligatoire de prévoyance dont doivent bénéficier les salariés relevant de la convention collective et ce, quel que soit l'effectif de leur entreprise.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'><i>Le présent avenant est fait en nombre suffisant d'exemplaires pour remise à chacune des organisations signataires et dépôt dans les conditions prévues par le code du travail.</i> <a shape='rect' href='#RENVOI_KALIARTI000045518021_1'> (1)</a></p><p align='left'>Les parties signataires conviennent de demander au ministère du travail, de la solidarité et de la fonction publique, l'extension du présent avenant en application des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>articles L. 2261-15 et suivants du code du travail</a>. </p><p align='left'>La confédération nationale des charcutiers-traiteurs et traiteurs, 15, rue Jacques Bingen, 75017 Paris, se charge des formalités nécessaires. </p><p align='left'>Suivant les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-23-1 du code du travail</a>, les parties signataires n'ont pas retenu de dispositions spécifiques telles que visées par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid'>article L. 2231-10-1 du code du travail </a>à l'attention des entreprises de moins de 50 salariés, dès lors que le présent avenant vise à modifier le régime collectif obligatoire de prévoyance dont doivent bénéficier les salariés relevant de la convention collective et ce, quel que soit l'effectif de leur entreprise.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000045518021_1'></a>(1) Alinéa étendu sous réserve du respect des dispositions de l'article L. 2231-5 du code du travail.  <br/>(Arrêté du 29 août 2022 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dépôt. – Extension",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046270197",
+                    "textTitle": "Arrêté du 29 août 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046270200",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-09-09",
+                    "dateSignaTexte": "2022-08-29",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
