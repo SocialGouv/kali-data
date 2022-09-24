@@ -1254,20 +1254,32 @@
                     "cid": "KALIARTI000005803728",
                     "num": "5.7",
                     "intOrdre": 42949,
-                    "id": "KALIARTI000043797442",
+                    "id": "KALIARTI000046324646",
                     "content": "<p>Le travail du dimanche s'organise conformément aux dispositions prévues à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006647841&dateTexte=&categorieLien=cid'>article L. 221-9 du code du travail</a>.</p><p>Le repos hebdomadaire est pris par roulement en vertu des dispositions législatives ou réglementaires en vigueur. Les heures effectuées le dimanche bénéficient d'une majoration de 50 % du taux horaire de base du salarié concerné.</p><p>Les modalités pratiques d'application de cette majoration sont définies dans chaque établissement après consultation des institutions représentatives du personnel lorsqu'elles existent. Son paiement sous forme de repos compensateur ne peut se faire sans l'accord du salarié.</p><p>Chaque salarié bénéficie du repos du dimanche, au moins 1 dimanche sur 2 en moyenne sur l'année.</p><p><font color='#808080'><em>Article étendu sous réserve de l'application de l'article L. 221-9 (4°) du code du travail et de l'article 997 du code rural (arrêté du 6 juillet 1994, art. 1er).</em></font></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
-                        "textCid": "KALITEXT000043792783",
-                        "textTitle": "Salaires au 1er janvier 2021 - art. 3 (VNE)",
+                        "textCid": "JORFTEXT000044127234",
+                        "textTitle": "Arrêté du 17 septembre 2021 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000044127238",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-09-30",
+                        "dateSignaTexte": "2021-09-17",
+                        "dateDebutCible": "2999-01-01"
+                      },
+                      {
+                        "textCid": "KALITEXT000044091524",
+                        "textTitle": "Salaires pour l'année 2021 (mise en conformité ... - art. 3 (VNE)",
                         "linkType": "MODIFIE",
                         "linkOrientation": "cible",
                         "articleNum": "3",
-                        "articleId": "KALIARTI000043792788",
+                        "articleId": "KALIARTI000044091530",
                         "natureText": "Accord",
-                        "datePubliTexte": "2021-07-15",
-                        "dateSignaTexte": "2021-01-20",
+                        "datePubliTexte": "2999-01-01",
+                        "dateSignaTexte": "2021-06-04",
                         "dateDebutCible": "2021-01-01"
                       }
                     ]
@@ -13581,7 +13593,7 @@
             "cid": "KALITEXT000044091524",
             "title": "Accord du 4 juin 2021 relatif aux salaires pour l'année 2021 (mise en conformité de l'accord du 20 janvier 2021)",
             "id": "KALITEXT000044091524",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2021-01-01"
           },
           "children": [
@@ -13592,7 +13604,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000044091527",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -13601,9 +13613,22 @@
                     "cid": "KALIARTI000044091535",
                     "intOrdre": 524287,
                     "id": "KALIARTI000044091535",
-                    "content": "<p align='left'><br/>Le présent accord a pour finalité de permettre l'extension de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000043792783&categorieLien=cid' title='Salaires au 1er janvier 2021 (VNE)'>accord de salaires du 20 janvier 2021</a> en intégrant les dispositions relatives aux entreprises de moins de 50 salariés. Il ne remet pas en cause sa date d'effet, qui demeure au 1er janvier 2021 pour les entreprises adhérentes à l'organisation patronale signataire.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "content": "<p align='left'><br/>Le présent accord a pour finalité de permettre l'extension de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000043792783&categorieLien=cid'>accord de salaires du 20 janvier 2021</a> en intégrant les dispositions relatives aux entreprises de moins de 50 salariés. Il ne remet pas en cause sa date d'effet, qui demeure au 1er janvier 2021 pour les entreprises adhérentes à l'organisation patronale signataire.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000044127234",
+                        "textTitle": "Arrêté du 17 septembre 2021 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000044127238",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2021-09-30",
+                        "dateSignaTexte": "2021-09-17",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -13616,9 +13641,22 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000044091528",
                 "content": "<p align='center'><br/>Grille des salaires applicable au 1er janvier 2021 base 151,67 heures</p><p align='left'><div align='center'><center><table border='1'><tr><th>Coefficient hiérarchique</th><th>Poste</th><th>Taux horaire</th><th>Salaire mensuel</th><th>Valeur du point</th></tr><tr><td align='center'>155</td><td align='center'>Manutentionnaire en jardinerie/graineterie Agent administratif 1er échelon</td><td align='center'>10,25</td><td align='center'>1 554,58</td><td align='center'>10,03</td></tr><tr><td align='center'>160</td><td align='center'>Employé(e) de jardinerie Vendeur(se) 1er échelon Hôte-hôtesse de caisse 1er échelon et/ou hôte-hôtesse d'accueil 1er échelon Réceptionnaire</td><td align='center'>10,25</td><td align='center'>1 554,58</td><td align='center'>9,72</td></tr><tr><td align='center'>165</td><td align='center'>Agent administratif 2e échelon</td><td align='center'>10,27</td><td align='center'>1 557,60</td><td align='center'>9,44</td></tr><tr><td align='center'>170</td><td align='center'>Vendeur(se) 2e échelon Hôte-hôtesse de caisse 2e échelon et/ou hôte-hôtesse d'accueil 2e échelon</td><td align='center'>10,29</td><td align='center'>1 560,60</td><td align='center'>9,18</td></tr><tr><td align='center'>175</td><td align='center'>Secrétaire</td><td align='center'>10,31</td><td align='center'>1 564,50</td><td align='center'>8,94</td></tr><tr><td align='center'>180</td><td align='center'>Vendeur confirmé Comptable</td><td align='center'>10,43</td><td align='center'>1 582,20</td><td align='center'>8,79</td></tr><tr><td align='center'>185</td><td align='center'>Gestionnaire de rayon</td><td align='center'>10,63</td><td align='center'>1 613,20</td><td align='center'>8,72</td></tr><tr><td align='center'>190</td><td align='center'>Responsable de rayons</td><td align='center'>10,94</td><td align='center'>1 660,60</td><td align='center'>8,74</td></tr><tr><td align='center'>200</td><td align='center'>Responsable de secteur</td><td align='center'>11,43</td><td align='center'>1 734,00</td><td align='center'>8,67</td></tr><tr><td align='center'>220</td><td align='center'>Adjoint de direction</td><td align='center'>12,54</td><td align='center'>1 903,00</td><td align='center'>8,65</td></tr><tr><td align='center'>260</td><td align='center'>Responsable de point de vente</td><td align='center'>14,94</td><td align='center'>2 267,20</td><td align='center'>8,72</td></tr><tr><td align='center'>350</td><td align='center'>Directeur</td><td align='center'>20,21</td><td align='center'>3 066,00</td><td align='center'>8,76</td></tr><tr><td align='center'>400</td><td align='center'>Directeur régional</td><td align='center'>23,09</td><td align='center'>3 504,00</td><td align='center'>8,76</td></tr></table></center></div></p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Grille des salaires",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044127234",
+                    "textTitle": "Arrêté du 17 septembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044127238",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-09-30",
+                    "dateSignaTexte": "2021-09-17",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -13629,9 +13667,22 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000044091529",
                 "content": "<p align='left'>Les signataires constatent que la définition des différents niveaux de classification telle qu'elle figure dans l'accord respecte le principe d'égalité salariale dans la mesure où elle ne contient pas de critères susceptibles d'induire une différence de rémunération entre les hommes et les femmes mais repose sur des critères liés, d'une part, aux connaissances professionnelles consacrées par un titre, un diplôme ou une pratique professionnelle et d'autre part, aux capacités professionnelles découlant de l'expérience acquise, de l'autonomie, de la capacité d'initiative, de la technicité, du type d'activité exercé et des responsabilités exercées.</p><p align='left'>Il est rappelé aux entreprises de la branche qu'une différence de rémunération entre les salariés occupant un emploi similaire doit être justifiée par des raisons objectives et matériellement vérifiables.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Définition",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044127234",
+                    "textTitle": "Arrêté du 17 septembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044127238",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-09-30",
+                    "dateSignaTexte": "2021-09-17",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -13642,9 +13693,34 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000044091530",
                 "content": "<p align='left'>Dans l'article 5.7 de la convention collective, la 2e phrase du 2e alinéa est abrogée et remplacée par la phrase suivante :</p><p align='left'>« Les heures effectuées le dimanche bénéficient d'une majoration de 50 % du taux horaire de base du salarié concerné. »</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Majoration du dimanche",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044127234",
+                    "textTitle": "Arrêté du 17 septembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044127238",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-09-30",
+                    "dateSignaTexte": "2021-09-17",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000005660279",
+                    "textTitle": "Convention collective nationale du 3 décembre 1993 - art. 5.7 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "5.7",
+                    "articleId": "KALIARTI000046324646",
+                    "natureText": "Convention collective nationale ",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "1993-12-03",
+                    "dateDebutCible": "2021-01-01"
+                  }
+                ]
               }
             },
             {
@@ -13655,9 +13731,22 @@
                 "intOrdre": 2621435,
                 "id": "KALIARTI000044091532",
                 "content": "<p align='left'>Suite aux demandes des organisations syndicales relatives à une labellisation des frais de santé, les signataires entendent ouvrir des négociations portant sur la mise en place d'un régime frais de santé et ainsi trouver une solution d'assurance pour les entreprises de la branche.</p><p align='left'>Suite aux échanges entre les organisations syndicales et la commission patronale, il est convenu qu'une étude sera menée concernant la grille de classification aux fins notamment de l'ajuster aux évolutions des métiers des jardineries et animaleries.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Sujets annexes",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000044127234",
+                    "textTitle": "Arrêté du 17 septembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044127238",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-09-30",
+                    "dateSignaTexte": "2021-09-17",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -13668,7 +13757,7 @@
                 "intOrdre": 3145722,
                 "id": "KALIARTI000044091533",
                 "content": "<p align='left'><br/>Le présent accord s'applique également aux entreprises de moins de 50 salariés.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Entreprises de moins de 50 salariés",
                 "lstLienModification": [
                   {
@@ -13682,6 +13771,18 @@
                     "datePubliTexte": "2021-07-15",
                     "dateSignaTexte": "2021-01-20",
                     "dateDebutCible": "2021-01-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000044127234",
+                    "textTitle": "Arrêté du 17 septembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044127238",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-09-30",
+                    "dateSignaTexte": "2021-09-17",
+                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -13694,7 +13795,7 @@
                 "intOrdre": 3670009,
                 "id": "KALIARTI000044091534",
                 "content": "<p align='left'>Le présent accord sera adressé, à l'issue du délai d'opposition de 15 jours, par la partie la plus diligente au ministère, en deux exemplaires dont un sur support papier et l'autre sur support électronique, ainsi qu'au conseil de prud'hommes de Paris.</p><p align='left'>Les parties signataires demanderont l'extension du présent accord. Il entre en vigueur au 1er janvier 2021 pour les entreprises adhérentes à l'organisation patronale signataire et au 1er jour du mois suivant son extension pour les autres.</p><p align='left'>Le présent accord pourra être dénoncé ou révisé dans les conditions des articles 1.3 et 1.5 de la convention collective nationale.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
                   {
                     "textCid": "KALITEXT000043792783",
@@ -13707,6 +13808,18 @@
                     "datePubliTexte": "2021-07-15",
                     "dateSignaTexte": "2021-01-20",
                     "dateDebutCible": "2021-01-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000044127234",
+                    "textTitle": "Arrêté du 17 septembre 2021 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000044127238",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2021-09-30",
+                    "dateSignaTexte": "2021-09-17",
+                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
