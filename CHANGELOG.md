@@ -1,3 +1,11 @@
+# [2.413.0](https://github.com/SocialGouv/kali-data/compare/v2.412.0...v2.413.0) (2022-11-04)
+
+
+### Features
+
+* **cc 1517:** rename CC ([#252](https://github.com/SocialGouv/kali-data/issues/252)) ([abf930b](https://github.com/SocialGouv/kali-data/commit/abf930bc3249b7de09a23e6b24714679b2840294))
+* **data:** 20221104_0505 update ([0aaae69](https://github.com/SocialGouv/kali-data/commit/0aaae699e9a2da0792cd7a3f5c133307e183c66c))
+
 # [2.412.0](https://github.com/SocialGouv/kali-data/compare/v2.411.0...v2.412.0) (2022-11-03)
 
 
