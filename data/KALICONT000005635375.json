@@ -21605,7 +21605,7 @@
             "cid": "KALITEXT000045429807",
             "title": "Avenant n° 41 du 27 janvier 2021 relatif à la rente éducation conventionnelle",
             "id": "KALITEXT000045429807",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2021-01-01"
           },
           "children": [
@@ -21616,7 +21616,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000045429810",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -21625,9 +21625,22 @@
                     "cid": "KALIARTI000045429822",
                     "intOrdre": 524287,
                     "id": "KALIARTI000045429822",
-                    "content": "<p align='left'><br/>La branche de la charcuterie de détail a mis en place une garantie rente éducation par le biais de l'OCIRP en 2013. Au vu des résultats satisfaisants du régime, les partenaires sociaux ont souhaité améliorer les garanties mises en place. Par ailleurs, s'agissant des bénéficiaires en apprentissage, il est apparu nécessaire de mettre en conformité la durée de versement de la rente avec les dispositions de la loi pour la liberté de choisir son avenir professionnel en date du 5 septembre 2018.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "content": "<p align='left'><br/>La branche de la charcuterie de détail a mis en place une garantie rente éducation <i>par le biais de l'OCIRP</i> <a shape='rect' href='#RENVOI_KALIARTI000045429822_1'> (1)</a> en 2013. Au vu des résultats satisfaisants du régime, les partenaires sociaux ont souhaité améliorer les garanties mises en place. Par ailleurs, s'agissant des bénéficiaires en apprentissage, il est apparu nécessaire de mettre en conformité la durée de versement de la rente avec les dispositions de la loi pour la liberté de choisir son avenir professionnel en date du 5 septembre 2018.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000045429822_1'></a>(1) Dans le préambule, les mots « par le biais de l'OCIRP » sont exclus de l'extension en ce qu'ils contreviennent aux dispositions de l'article L. 912-1 du code de la sécurité sociale tel que modifié suite à la décision du Conseil constitutionnel n° 2013-672 DC du 13 juin 2013.  <br/>(Arrêté du 24 octobre 2022 - art. 1)</em></font></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000046520937",
+                        "textTitle": "Arrêté du 24 octobre 2022 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000046520940",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2022-11-04",
+                        "dateSignaTexte": "2022-10-24",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -21639,10 +21652,23 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000045429811",
-                "content": "<p align='left'>Le champ d'application du présent accord est celui défini à l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000017842201&idArticle=KALIARTI000017852101&categorieLien=cid' title='Convention collective nationale de la charcuter... - art. 1 (VE)'>article 1er</a> de la convention collective nationale de la charcuterie de détail du 1er décembre 1977 réécrite par avenant n° 113 en date du 4 avril 2007 (IDCC 953). En application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>article L. 2261-23-1 du code du travail</a>, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de stipulations spécifiques aux entreprises de moins de cinquante salariés, visées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-10-1 (M)'>article L. 2232-10-1 du code du travail</a>, dans la mesure où la branche est majoritairement composée de TPE avec un effectif moyen de 5 salariés.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le champ d'application du présent accord est celui défini à l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000017842201&idArticle=KALIARTI000017852101&categorieLien=cid'>article 1er</a> de la convention collective nationale de la charcuterie de détail du 1er décembre 1977 réécrite par avenant n° 113 en date du 4 avril 2007 (IDCC 953). En application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>article L. 2261-23-1 du code du travail</a>, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de stipulations spécifiques aux entreprises de moins de cinquante salariés, visées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid'>article L. 2232-10-1 du code du travail</a>, dans la mesure où la branche est majoritairement composée de TPE avec un effectif moyen de 5 salariés.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Champ d'application du présent accord",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046520937",
+                    "textTitle": "Arrêté du 24 octobre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046520940",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-11-04",
+                    "dateSignaTexte": "2022-10-24",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -21653,9 +21679,22 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000045429815",
                 "content": "<p align='left'>Il est décidé de relever le niveau des rentes éducation de la façon suivante à compter du 1er janvier 2021 :</p><p align='right'>(En euros.)</p><p align='left'></p><center><table border='1'><tbody><tr><th>Rente éducation</th><th>En pourcentage du salaire</th><th>Rente minimale</th></tr><tr><td align='center'>Jusqu'au 12e anniversaire</td><td align='center'>8 %</td><td align='center'>1 400</td></tr><tr><td align='center'>Du 12e au 16e anniversaire</td><td align='center'>10 %</td><td align='center'>1 700</td></tr><tr><td align='center'>Du 16e au 26e anniversaire</td><td align='center'>12 %</td><td align='center'>2 000</td></tr></tbody></table></center><p></p><p align='left'>Il est précisé que :<br/>\n– le taux contractuel de cotisation (0,07 % TA – TB) reste inchangé ;<br/>\n– cette modification ne s'applique pas aux rentes en cours de versement ;<br/>\n– comme tel est le cas déjà actuellement, le montant de la rente est doublé en cas de décès des deux parents ;<br/>\n– la rente est viagère pour les enfants reconnus invalides.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Relèvement de la rente d'éducation minimale",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046520937",
+                    "textTitle": "Arrêté du 24 octobre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046520940",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-11-04",
+                    "dateSignaTexte": "2022-10-24",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -21665,10 +21704,23 @@
                 "num": "3",
                 "intOrdre": 2097148,
                 "id": "KALIARTI000045429816",
-                "content": "<p align='left'><br/>Par dérogation, la rente éducation conventionnelle pourra être désormais versée aux bénéficiaires en apprentissage jusqu'à l'âge de 30 ans (au lieu de 26 ans jusqu'à présent) pour tenir compte des dispositions de la <a href='/affichTexte.do?cidTexte=JORFTEXT000037367660&categorieLien=cid' title='LOI n°2018-771 du 5 septembre 2018 (V)'>loi n° 2018-771 du 5 septembre 2018</a> « pour la liberté de choisir son avenir professionnel » et de ses décrets d'application. Cette modification ne concerne pas les rentes en cours de versement.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'><br/>Par dérogation, la rente éducation conventionnelle pourra être désormais versée aux bénéficiaires en apprentissage jusqu'à l'âge de 30 ans (au lieu de 26 ans jusqu'à présent) pour tenir compte des dispositions de la <a href='/affichTexte.do?cidTexte=JORFTEXT000037367660&categorieLien=cid'>loi n° 2018-771 du 5 septembre 2018</a> « pour la liberté de choisir son avenir professionnel » et de ses décrets d'application. Cette modification ne concerne pas les rentes en cours de versement.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Allongement de la durée du versement de la rente. Bénéficiaires en apprentissage",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046520937",
+                    "textTitle": "Arrêté du 24 octobre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046520940",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-11-04",
+                    "dateSignaTexte": "2022-10-24",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -21679,9 +21731,22 @@
                 "intOrdre": 2621435,
                 "id": "KALIARTI000045429818",
                 "content": "<p align='left'><br/>Le présent accord prend effet à compter du 1er janvier 2021.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Entrée en vigueur",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046520937",
+                    "textTitle": "Arrêté du 24 octobre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046520940",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-11-04",
+                    "dateSignaTexte": "2022-10-24",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -21691,10 +21756,23 @@
                 "num": "5",
                 "intOrdre": 3145722,
                 "id": "KALIARTI000045429819",
-                "content": "<p align='left'>Le présent avenant est établi en vertu des dispositions du code du travail relatives à « la négociation collective – les conventions et accords collectifs du travail » (Livre deuxième de la partie II). Le présent avenant est fait en nombre suffisant d'exemplaires pour remise à chacune des organisations signataires et dépôt.</p><p align='left'>Les parties signataires conviennent de demander au ministère du travail, de l'emploi et de l'insertion, l'extension du présent avenant en application des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-15 (V)'>articles L. 2261-15 et suivants du code du travail</a>.</p><p align='left'>La confédération nationale de la charcuterie de détail, 15, rue Jacques-Bingen, 75017 Paris se charge des formalités nécessaires.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le présent avenant est établi en vertu des dispositions du code du travail relatives à « la négociation collective – les conventions et accords collectifs du travail » (Livre deuxième de la partie II). Le présent avenant est fait en nombre suffisant d'exemplaires pour remise à chacune des organisations signataires et dépôt.</p><p align='left'>Les parties signataires conviennent de demander au ministère du travail, de l'emploi et de l'insertion, l'extension du présent avenant en application des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>articles L. 2261-15 et suivants du code du travail</a>.</p><p align='left'>La confédération nationale de la charcuterie de détail, 15, rue Jacques-Bingen, 75017 Paris se charge des formalités nécessaires.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dépôt et extension",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046520937",
+                    "textTitle": "Arrêté du 24 octobre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046520940",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-11-04",
+                    "dateSignaTexte": "2022-10-24",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
