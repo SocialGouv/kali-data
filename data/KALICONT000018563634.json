@@ -2297,25 +2297,13 @@
                   {
                     "textCid": "JORFTEXT000026737764",
                     "textTitle": "Arrêté du 27 novembre 2012 - art. 11, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
                     "articleNum": "11",
                     "articleId": "JORFARTI000026737873",
                     "natureText": "ARRETE",
                     "datePubliTexte": "2012-12-09",
                     "dateSignaTexte": "2012-11-27",
-                    "dateDebutCible": "2999-01-01"
-                  },
-                  {
-                    "textCid": "JORFTEXT000027514302",
-                    "textTitle": "Arrêté du 29 mai 2013 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000027514305",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2013-06-07",
-                    "dateSignaTexte": "2013-05-29",
                     "dateDebutCible": "2999-01-01"
                   },
                   {
@@ -2400,52 +2388,76 @@
           ]
         },
         {
-          "type": "article",
+          "type": "section",
           "data": {
-            "cid": "KALIARTI000026277428",
-            "intOrdre": 3139578,
-            "id": "KALIARTI000026295354",
-            "content": "<p>Annexe I</p><p>Grille de salaires minima applicable au 1er janvier 2012 </p><p align='center'><br/>Ouvriers, employés </p><p align='right'><br/>(En euros.) </p><center><table border='1'><tbody><tr><th>Niveau </th><th>Echelon </th><th>Salaire </th></tr><tr><td align='center'>I </td><td align='center'>1 </td><td align='center'>16 781 </td></tr><tr><td align='center'><br/><p> </td><td align='center'>2 </td><td align='center'>17 005 </td></tr><tr><td align='center'>II </td><td align='center'>1 </td><td align='center'>17 836 </td></tr><tr><td align='center'><br/><p> </td><td align='center'>2 </td><td align='center'>18 966 </td></tr><tr><td align='center'>III </td><td align='center'>1 </td><td align='center'>19 651 </td></tr><tr><td align='center'><br/><p> </td><td align='center'>2 </td><td align='center'>20 889 </td></tr><tr><td align='center'><br/><p> </td><td align='center'>3 </td><td align='center'>21 666 </td></tr></tbody></table></center><p></p><p align='center'><br/>Agents de maîtrise </p><p align='right'><br/>(En euros.) </p><center><table border='1'><tbody><tr><th>Niveau </th><th>Salaire </th></tr><tr><td align='center'>IV </td><td align='center'>22 443 </td></tr><tr><td align='center'>V </td><td align='center'>26 309 </td></tr></tbody></table></center><p></p><p align='center'><br/>Cadres </p><p align='right'><br/>(En euros.) </p><center><table border='1'><tbody><tr><th>Niveau </th><th>Coefficient </th><th>Salaire </th></tr><tr><td align='center'>VI </td><td align='center'>A (moins de 3 ans dans la fonction) </td><td align='center'>27 370 </td></tr><tr><td align='center'><br/><p> </td><td align='center'>B (plus de 3 ans dans la fonction) </td><td align='center'>30 791 </td></tr><tr><td align='center'>VII </td><td align='center'>A (moins de 3 ans dans la fonction) </td><td align='center'>29 650 </td></tr><tr><td align='center'><br/><p> </td><td align='center'>B (plus de 3 ans dans la fonction) </td><td align='center'>33 868 </td></tr><tr><td align='center'>VIII </td><td align='center'><br/><p> </td><td align='center'>37 632 </td></tr><tr><td align='center'>IX </td><td align='center'><br/><p> </td><td align='center'>42 764</td></tr></tbody></table></center>",
-            "etat": "VIGUEUR_ETEN",
-            "lstLienModification": [
-              {
-                "textCid": "JORFTEXT000026737764",
-                "textTitle": "Arrêté du 27 novembre 2012 - art. 11, v. init.",
-                "linkType": "ETEND",
-                "linkOrientation": "cible",
-                "articleNum": "11",
-                "articleId": "JORFARTI000026737873",
-                "natureText": "ARRETE",
-                "datePubliTexte": "2012-12-09",
-                "dateSignaTexte": "2012-11-27",
-                "dateDebutCible": "2999-01-01"
+            "cid": "KALISCTA000046564245",
+            "intOrdre": 3136506,
+            "title": "Annexe",
+            "id": "KALISCTA000046564245",
+            "etat": "VIGUEUR_ETEN"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000046564262",
+                "intOrdre": 1073741823,
+                "title": "Annexe I",
+                "id": "KALISCTA000046564262",
+                "etat": "VIGUEUR_ETEN"
               },
-              {
-                "textCid": "JORFTEXT000027514302",
-                "textTitle": "Arrêté du 29 mai 2013 - art. 1, v. init.",
-                "linkType": "ETEND",
-                "linkOrientation": "cible",
-                "articleNum": "1",
-                "articleId": "JORFARTI000027514305",
-                "natureText": "ARRETE",
-                "datePubliTexte": "2013-06-07",
-                "dateSignaTexte": "2013-05-29",
-                "dateDebutCible": "2999-01-01"
-              },
-              {
-                "textCid": "KALITEXT000026277513",
-                "textTitle": "Classifications et salaires au 1er janvier 2012 - art. 2 (VNE)",
-                "linkType": "MODIFIE",
-                "linkOrientation": "cible",
-                "articleNum": "2",
-                "articleId": "KALIARTI000026277518",
-                "natureText": "Avenant",
-                "datePubliTexte": "2999-01-01",
-                "dateSignaTexte": "2012-01-24",
-                "dateDebutCible": "2012-01-01"
-              }
-            ]
-          }
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000026277428",
+                    "intOrdre": 1073741823,
+                    "id": "KALIARTI000026295354",
+                    "content": "<p align='center'>Annexe I</p><p align='center'>Grille de salaires minima applicable au 1er janvier 2012</p><p align='center'><br/>\nOuvriers, employés</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Niveau</th><th>Echelon</th><th>Salaire</th></tr><tr><td rowspan='2' align='center'>I</td><td align='center'>1</td><td align='center'>16 781</td></tr><tr><td align='center'>2</td><td align='center'>17 005</td></tr><tr><td rowspan='2' align='center'>II</td><td align='center'>1</td><td align='center'>17 836</td></tr><tr><td align='center'>2</td><td align='center'>18 966</td></tr><tr><td rowspan='3' align='center'>III</td><td align='center'>1</td><td align='center'>19 651</td></tr><tr><td align='center'>2</td><td align='center'>20 889</td></tr><tr><td align='center'>3</td><td align='center'>21 666</td></tr></tbody></table></center><p align='center'>Agents de maîtrise</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Niveau</th><th>Salaire</th></tr><tr><td align='center'>IV</td><td align='center'>22 443</td></tr><tr><td align='center'>V</td><td align='center'>26 309</td></tr></tbody></table></center><p align='center'>Cadres</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Niveau</th><th>Coefficient</th><th>Salaire</th></tr><tr><td align='center'>VI</td><td align='center'>A (moins de 3 ans dans la fonction)</td><td align='center'>27 370</td></tr><tr><td align='center'></td><td align='center'>B (plus de 3 ans dans la fonction)</td><td align='center'>30 791</td></tr><tr><td align='center'>VII</td><td align='center'>A (moins de 3 ans dans la fonction)</td><td align='center'>29 650</td></tr><tr><td align='center'></td><td align='center'>B (plus de 3 ans dans la fonction)</td><td align='center'>33 868</td></tr><tr><td align='center'>VIII</td><td align='center'></td><td align='center'>37 632</td></tr><tr><td align='center'>IX</td><td align='center'></td><td align='center'>42 764</td></tr></tbody></table></center>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000026737764",
+                        "textTitle": "Arrêté du 27 novembre 2012 - art. 11, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "11",
+                        "articleId": "JORFARTI000026737873",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2012-12-09",
+                        "dateSignaTexte": "2012-11-27",
+                        "dateDebutCible": "2999-01-01"
+                      },
+                      {
+                        "textCid": "JORFTEXT000027514302",
+                        "textTitle": "Arrêté du 29 mai 2013 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000027514305",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2013-06-07",
+                        "dateSignaTexte": "2013-05-29",
+                        "dateDebutCible": "2999-01-01"
+                      },
+                      {
+                        "textCid": "KALITEXT000026277513",
+                        "textTitle": "Classifications et salaires au 1er janvier 2012 - art. 2 (VNE)",
+                        "linkType": "MODIFIE",
+                        "linkOrientation": "cible",
+                        "articleNum": "2",
+                        "articleId": "KALIARTI000026277518",
+                        "natureText": "Avenant",
+                        "datePubliTexte": "2999-01-01",
+                        "dateSignaTexte": "2012-01-24",
+                        "dateDebutCible": "2012-01-01"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -3694,7 +3706,7 @@
                 "num": "2",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000026277518",
-                "content": "<p align='left'><br/>La grille des salaires minima figurant à l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000026277387&idArticle=KALIARTI000026277428&categorieLien=cid'>annexe I </a>et applicable au 1er janvier 2012 est définie comme suit : </p><p align='center'><br/>« Annexe I <br/>Grille de salaires minima applicable au 1er janvier 2012 </p><p align='center'><br/>Ouvriers, employés </p><p align='right'><br/>(En euros.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>Niveau </th><th>Echelon </th><th>Salaire </th></tr><tr><td align='center'>I </td><td align='center'>1 </td><td align='center'>16 781 </td></tr><tr><td align='center'><br/><p> </td><td align='center'>2 </td><td align='center'>17 005 </td></tr><tr><td align='center'>II </td><td align='center'>1 </td><td align='center'>17 836 </td></tr><tr><td align='center'><br/><p> </td><td align='center'>2 </td><td align='center'>18 966 </td></tr><tr><td align='center'>III </td><td align='center'>1 </td><td align='center'>19 651 </td></tr><tr><td align='center'><br/><p> </td><td align='center'>2 </td><td align='center'>20 889 </td></tr><tr><td align='center'><br/><p> </td><td align='center'>3 </td><td align='center'>21 666 </td></tr></table></center></div></p><p align='center'><br/>Agents de maîtrise </p><p align='right'><br/>(En euros.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>Niveau </th><th>Salaire </th></tr><tr><td align='center'>IV </td><td align='center'>22 443 </td></tr><tr><td align='center'>V </td><td align='center'>26 309 </td></tr></table></center></div></p><p align='center'><br/>Cadres </p><p align='right'><br/>(En euros.) </p><p align='left'><div align='center'><center><table border='1'><tr><th>Niveau </th><th>Coefficient </th><th>Salaire </th></tr><tr><td align='center'>VI </td><td align='center'>A (moins de 3 ans dans la fonction) </td><td align='center'>27 370 </td></tr><tr><td align='center'><br/><p> </td><td align='center'>B (plus de 3 ans dans la fonction) </td><td align='center'>30 791 </td></tr><tr><td align='center'>VII </td><td align='center'>A (moins de 3 ans dans la fonction) </td><td align='center'>29 650 </td></tr><tr><td align='center'><br/><p> </td><td align='center'>B (plus de 3 ans dans la fonction) </td><td align='center'>33 868 </td></tr><tr><td align='center'>VIII </td><td align='center'><br/><p> </td><td align='center'>37 632 </td></tr><tr><td align='center'>IX </td><td align='center'><br/><p> </td><td align='center'>42 764</td></tr></table></center></div></p>",
+                "content": "<p align='left'>La grille des salaires minima figurant à l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000026277387&idArticle=KALIARTI000026277428&categorieLien=cid'>annexe I </a>et applicable au 1er janvier 2012 est définie comme suit :</p><p align='center'>« Annexe I<br/>\nGrille de salaires minima applicable au 1er janvier 2012</p><p align='center'>Ouvriers, employés</p><p align='right'>(En euros.)</p><p align='left'></p><center><table border='1'><tbody><tr><th>Niveau</th><th>Echelon</th><th>Salaire</th></tr><tr><td rowspan='2' align='center'>I</td><td align='center'>1</td><td align='center'>16 781</td></tr><tr><td align='center'>2</td><td align='center'>17 005</td></tr><tr><td rowspan='2' align='center'>II</td><td align='center'>1</td><td align='center'>17 836</td></tr><tr><td align='center'>2</td><td align='center'>18 966</td></tr><tr><td rowspan='3' align='center'>III</td><td align='center'>1</td><td align='center'>19 651</td></tr><tr><td align='center'>2</td><td align='center'>20 889</td></tr><tr><td align='center'>3</td><td align='center'>21 666</td></tr></tbody></table></center><p></p><p align='center'>Agents de maîtrise</p><p align='right'>(En euros.)</p><p align='left'></p><center><table border='1'><tbody><tr><th>Niveau</th><th>Salaire</th></tr><tr><td align='center'>IV</td><td align='center'>22 443</td></tr><tr><td align='center'>V</td><td align='center'>26 309</td></tr></tbody></table></center><p></p><p align='center'>Cadres</p><p align='right'>(En euros.)</p><p align='left'></p><center><table border='1'><tbody><tr><th>Niveau</th><th>Coefficient</th><th>Salaire</th></tr><tr><td align='center'>VI</td><td align='center'>A (moins de 3 ans dans la fonction)</td><td align='center'>27 370</td></tr><tr><td align='center'></td><td align='center'>B (plus de 3 ans dans la fonction)</td><td align='center'>30 791</td></tr><tr><td align='center'>VII</td><td align='center'>A (moins de 3 ans dans la fonction)</td><td align='center'>29 650</td></tr><tr><td align='center'></td><td align='center'>B (plus de 3 ans dans la fonction)</td><td align='center'>33 868</td></tr><tr><td align='center'>VIII</td><td align='center'></td><td align='center'>37 632</td></tr><tr><td align='center'>IX</td><td align='center'></td><td align='center'>42 764</td></tr></tbody></table></center><p></p>",
                 "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
                   {
@@ -4524,7 +4536,7 @@
                     "cid": "KALIARTI000032489204",
                     "intOrdre": 524287,
                     "id": "KALIARTI000032489204",
-                    "content": "<p><br/>Annexe<br/>(Annexe non reproduite, consultable en ligne sur le site www.journal-officiel.gouv.fr, rubrique BO Convention collective.)</p>",
+                    "content": "<p>Annexe<br/>\n(Annexe non reproduite, consultable en ligne sur le site www.journal-officiel.gouv.fr, rubrique BO Convention collective.)</p><p><a shape='rect' href='https://www.legifrance.gouv.fr/download/file/pdf/boc_20160007_0000_0018.pdf/BOCC' target='_blank'> https://www.legifrance.gouv.fr/download/file/pdf/boc_20160007_0000_0018.pdf/BOCC</a></p>",
                     "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
@@ -6754,6 +6766,119 @@
               }
             }
           ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000046559716",
+            "title": "Accord du 31 mai 2022 relatif à la prévoyance",
+            "id": "KALITEXT000046559716",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2022-08-05"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000046559719",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000046559719",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000046559731",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000046559731",
+                    "content": "<p align='left'>Les signataires de la convention collective nationale de la coopération maritime se sont réunis en vue de modifier les dispositions relatives à la prévoyance.</p><p align='left'>En conséquence, les parties sont convenues, par le présent accord, de modifier l'annexe II relative aux garanties de prévoyance, régime prévu par l'article 36 de la convention collective nationale de la coopération maritime du 7 décembre 2004.</p><p align='left'>Elles ont ainsi décidé ce qui suit :</p><p></p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": []
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046559720",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000046559720",
+                "content": "<p align='left'>Il est rappelé que les structures relevant du champ d'application de la présente convention ont l'obligation de souscrire un régime de prévoyance pour garantir leurs salariés, cadres et non cadres, contre les risques décès, incapacité, invalidité et maladie.</p><p align='left'>Il est convenu entre les parties de supprimer la rente de veuve autrement appelée la rente versée au conjoint.</p><p align='center'>Annexe II Prévoyance<br/>\nRégime des salariés cadres</p><p align='left'></p><center><table border='1'><tbody><tr><th>Garanties</th><th colspan='2'>Capital variable suivant la situation familiale en pourcentage du traitement annuel brut TA – TB</th></tr><tr><td align='center'>Décès toutes causes</td><td align='center'>Célibataire, Veuf, Divorcé</td><td align='center'>200 %</td></tr><tr><td rowspan='2' align='center'>Invalidité absolue et définitive</td><td align='center'>Marié</td><td align='center'>300 %</td></tr><tr><td align='center'>Par personne supplémentaire</td><td align='center'>100 %</td></tr><tr><td rowspan='4' align='center'>Rente éducation</td><td align='center'>Rente annuelle garantie par enfant :</td><td></td></tr><tr><td align='center'>- 0 à 10 ans ;</td><td align='center'>5 %</td></tr><tr><td align='center'>- 11 à 17 ans ;</td><td align='center'>10 %</td></tr><tr><td align='center'>- 18 à 25 ans.</td><td align='center'>15 %</td></tr><tr><td align='center'>Frais d'obsèques</td><td colspan='2' align='center'>Garantie familiale : 100 % du plafond de la sécurité sociale</td></tr><tr><td align='center'>Incapacité de travail</td><td colspan='2' align='center'>Versement d'une indemnité quotidienne égale à 90 % du salaire annuel brut,</td></tr><tr><td rowspan='2' align='center'>Invalidité</td><td colspan='2' align='center'>Suivie si nécessaire d'une rente invalidité égale à 100 % du salaire net (2e et 3e catégorie) 60 % pour la 1re catégorie.</td></tr><tr><td colspan='2' align='center'>Ces indemnités sont versées à compter du 90e jour</td></tr></tbody></table></center><p align='center'>Régime des salariés non cadres</p><p align='left'></p><center><table border='1'><tbody><tr><th>Garanties</th><th colspan='2'>Capital variable suivant la situation familiale en pourcentage du traitement annuel brut TA – TB</th></tr><tr><td align='center'>Décès toutes causes</td><td align='center'>Célibataire, veuf, divorcé</td><td align='center'>200 %</td></tr><tr><td rowspan='2' align='center'>Invalidité absolue et définitive</td><td align='center'>Marié</td><td align='center'>300 %</td></tr><tr><td align='center'>Par personne supplémentaire</td><td align='center'>100 %</td></tr><tr><td align='center'>Incapacité de travail</td><td colspan='2' align='center'>Versement d'une indemnité quotidienne égale à 80 % du salaire annuel brut,</td></tr><tr><td rowspan='2' align='center'>Invalidité</td><td colspan='2' align='center'>Suivie si nécessaire d'une rente invalidité égale à 100 % du salaire net (2e et 3e catégorie) (60 % pour la 1re catégorie).</td></tr><tr><td colspan='2' align='center'>Ces indemnités sont versées à compter du 90e jour</td></tr></tbody></table></center><p></p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Modification de l'annexe II relative aux garanties de prévoyance",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046559725",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000046559725",
+                "content": "<p align='left'><br/>Les partenaires sociaux ont considéré qu'un accord portant sur la prévoyance n'avait pas à comporter les stipulations spécifiques mentionnées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-10-1 (M)'>article L. 2232-10-1 du code du travail</a>. En effet, la prévoyance, quand bien même une différence est faite entre les cadres et les non cadres, n'a pas lieu de faire de différence dans les entreprises selon qu'elles comportent plus ou moins de 50 salariés.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Entreprises de moins de 50 salariés",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046559727",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000046559727",
+                "content": "<p align='left'><br/>Les parties signataires décident de faire un point tous les 5 ans sur la mise en œuvre de cet avenant.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Suivi de l'accord",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046559728",
+                "num": "4",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000046559728",
+                "content": "<p align='left'><br/>Les parties signataires décident de demander l'extension du présent avenant.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Extension",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046559729",
+                "num": "5",
+                "intOrdre": 3145722,
+                "id": "KALIARTI000046559729",
+                "content": "<p align='left'><br/>Le présent avenant, conclu pour une durée indéterminée, entrera en vigueur le lendemain de son dépôt.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Entrée en vigueur",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046559730",
+                "num": "6",
+                "intOrdre": 3670009,
+                "id": "KALIARTI000046559730",
+                "content": "<p align='left'><br/>Le présent avenant sera déposé par la partie diligente conformément aux dispositions légales.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Dépôt",
+                "lstLienModification": []
+              }
+            }
+          ]
         }
       ]
     },
@@ -8026,6 +8151,236 @@
                     "natureText": "ARRETE",
                     "datePubliTexte": "2021-12-22",
                     "dateSignaTexte": "2021-12-10",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000046559732",
+            "title": "Accord du 31 mai 2022 relatif aux salaires minimums conventionnels",
+            "id": "KALITEXT000046559732",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2022-12-01"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000046559735",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000046559735",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000046559743",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000046559743",
+                    "content": "<p align='left'>Les parties se sont réunies en commission nationale paritaire de négociation afin d'évoquer les salaires.</p><p align='left'>Face au constat de l'évolution des prix, et eu égard à la dernière hausse du Smic de 2,65 % au 1er mai 2022, les parties conviennent d'appliquer une hausse salariale bien plus conséquente que d'habitude à savoir 5 % pour le niveau 1 échelon 2 et 4,5 % pour les niveaux suivants tout en conservant un 1er niveau, échelon 1 au Smic.</p><p align='left'>En conséquence de quoi, les parties conviennent de ce qui suit :</p><p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000046520730",
+                        "textTitle": "Arrêté du 17 octobre 2022 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000046520734",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2022-11-04",
+                        "dateSignaTexte": "2022-10-17",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046559736",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000046559736",
+                "content": "<p align='left'><br/>Le présent avenant a pour objet de fixer les garanties minimales de salaire applicables aux salariés des entreprises relevant de la convention collective nationale de la coopération maritime.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Objet de l'avenant",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046520730",
+                    "textTitle": "Arrêté du 17 octobre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046520734",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-11-04",
+                    "dateSignaTexte": "2022-10-17",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046559737",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000046559737",
+                "content": "<p align='left'>Le salaire minimum conventionnel annuel hiérarchique, obéissant aux règles de calcul fixées par la convention collective de la coopération maritime est ainsi fixé :<br/>\nGrille de salaires annuels (base 35 heures hebdomadaires) à compter du 1er janvier 2022 :</p><p align='center'>Ouvriers employés</p><p align='left'>Niveau 1</p><p align='left'></p><center><table border='1'><tbody><tr><td align='center'>Échelon 1</td><td align='center'>19 747 €</td></tr><tr><td align='center'>Échelon 2</td><td align='center'>19 970 €</td></tr></tbody></table></center><p align='left'>Niveau 2</p><p align='left'></p><center><table border='1'><tbody><tr><td align='center'>Échelon 1</td><td align='center'>20 741 €</td></tr><tr><td align='center'>Échelon 2</td><td align='center'>22 055 €</td></tr></tbody></table></center><p align='left'>Niveau 3</p><p align='left'></p><center><table border='1'><tbody><tr><td align='center'>Échelon 1</td><td align='center'>22 972 €</td></tr><tr><td align='center'>Échelon 2</td><td align='center'>24 179 €</td></tr><tr><td align='center'>Échelon 3</td><td align='center'>25 079 €</td></tr></tbody></table></center><p align='center'>Agents de maîtrise</p><p align='left'></p><center><table border='1'><tbody><tr><td align='center'>Niveau 4</td><td align='center'>26 055 €</td></tr><tr><td align='center'>Niveau 5</td><td align='center'>30 244 €</td></tr></tbody></table></center><p align='center'>Cadres</p><p align='left'></p><center><table border='1'><tbody><tr><td align='center'></td><td align='center'>A (– 3 ans d'ancienneté)</td><td align='center'>B (+ 3 ans d'ancienneté)</td></tr><tr><td align='center'>Niveau 6</td><td align='center'>31 774 €</td><td align='center'>35 397 €</td></tr><tr><td align='center'>Niveau 7</td><td align='center'>34 421 €</td><td align='center'>38 934 €</td></tr></tbody></table></center><center><table border='1'><tbody><tr><td align='center'>Niveau 8</td><td align='center'>43 260 €</td></tr><tr><td align='center'>Niveau 9</td><td align='center'>49 162 €</td></tr></tbody></table></center><p></p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Salaire minimum conventionnel annuel",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046520730",
+                    "textTitle": "Arrêté du 17 octobre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046520734",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-11-04",
+                    "dateSignaTexte": "2022-10-17",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046559738",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000046559738",
+                "content": "<p align='left'><br/>Si, à compétences et ancienneté égales et pour des salariés effectuant les mêmes tâches, des écarts de rémunération entre les femmes et les hommes sont objectivement constatés, l'entreprise doit analyser les causes de ces écarts. Dans l'hypothèse où aucun élément objectif ne les justifie, l'entreprise met en œuvre un plan de suppression de ceux-ci, le cas échéant dans le cadre d'un échéancier. Ce plan pourra, par exemple, définir une enveloppe dédiée à la suppression des écarts constatés.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Égalité professionnelle",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046520730",
+                    "textTitle": "Arrêté du 17 octobre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046520734",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-11-04",
+                    "dateSignaTexte": "2022-10-17",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046559739",
+                "num": "4",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000046559739",
+                "content": "<p align='left'><br/>Les partenaires sociaux ont considéré qu'un accord portant sur les minima conventionnels applicables aux salariés de la branche de la coopération maritime n'avait pas à comporter les stipulations spécifiques mentionnées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid'>article L. 2232-10-1</a>. En effet, les salaires minimaux doivent s'appliquer quel que soit la taille de l'entreprise a fortiori dans une branche composée presque exclusivement d'entreprises de moins de 50 salariés.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Entreprises de moins de 50 salariés",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046520730",
+                    "textTitle": "Arrêté du 17 octobre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046520734",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-11-04",
+                    "dateSignaTexte": "2022-10-17",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046559740",
+                "num": "5",
+                "intOrdre": 3145722,
+                "id": "KALIARTI000046559740",
+                "content": "<p align='left'>Le barème fixé par le présent accord est applicable à compter du 1er jour du mois suivant la publication de son arrêté d'extension au Journal officiel, et sous réserve des exclusions éventuelles.</p><p align='left'>Il est conclu pour une durée indéterminée.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Entrée en vigueur. Durée",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046520730",
+                    "textTitle": "Arrêté du 17 octobre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046520734",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-11-04",
+                    "dateSignaTexte": "2022-10-17",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046559741",
+                "num": "6",
+                "intOrdre": 3670009,
+                "id": "KALIARTI000046559741",
+                "content": "<p align='left'><br/>Le présent avenant sera déposé en un exemplaire original signé des parties, à la direction générale du travail, dépôt des accords, 39 / 43, quai André-Citroën, 75902 Paris Cedex 15, ainsi que par voie électronique à l'adresse de messagerie : depot.accord@travail.gouv.fr.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Publicité",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046520730",
+                    "textTitle": "Arrêté du 17 octobre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046520734",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-11-04",
+                    "dateSignaTexte": "2022-10-17",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046559742",
+                "num": "7",
+                "intOrdre": 4194296,
+                "id": "KALIARTI000046559742",
+                "content": "<p align='left'><br/>Les parties signataires conviennent de demander sans délai l'extension du présent avenant, la Fédération nationale syndicale de la coopération et du Crédit maritime étant chargée des formalités à accomplir à cette fin.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Extension",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046520730",
+                    "textTitle": "Arrêté du 17 octobre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046520734",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-11-04",
+                    "dateSignaTexte": "2022-10-17",
                     "dateDebutCible": "2999-01-01"
                   }
                 ]
