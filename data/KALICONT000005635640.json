@@ -1945,11 +1945,24 @@
             "cid": "KALIARTI000046265685",
             "num": "29",
             "intOrdre": 15728610,
-            "id": "KALIARTI000046265685",
-            "content": "<p align='left'>Tout salarié ayant atteint l'âge de la retraite bénéficiera d'une indemnité de départ en retraite égale à la moitié de l'indemnité de licenciement prévue à l'article 32. Toutefois, le plafond de l'indemnité de départ en retraite est porté à deux fois le salaire mensuel moyen des douze derniers mois d'activité.</p><p align='left'>En tout état de cause, cette indemnité ne pourra être inférieure à l'indemnité légale de licenciement si c'est l'employeur qui prend l'initiative de la rupture du contrat de travail, dans les conditions prévues par la loi.</p>",
+            "id": "KALIARTI000046655201",
+            "content": "<p align='left'>Tout salarié ayant atteint l'âge de la retraite bénéficiera d'une indemnité de départ en retraite égale à la moitié de l'indemnité de licenciement prévue à l'article 27. Toutefois, le plafond de l'indemnité de départ en retraite est porté à deux fois le salaire mensuel moyen des douze derniers mois d'activité.</p><p align='left'>En tout état de cause, cette indemnité ne pourra être inférieure à l'indemnité légale de licenciement si c'est l'employeur qui prend l'initiative de la rupture du contrat de travail, dans les conditions prévues par la loi.</p>",
             "etat": "VIGUEUR_NON_ETEN",
             "surtitre": "Indemnité de départ en retraite",
-            "lstLienModification": []
+            "lstLienModification": [
+              {
+                "textCid": "KALITEXT000046599324",
+                "textTitle": "Rectification de l'accord du 11 avril 2022 (CCN) - art. 1er (VNE)",
+                "linkType": "MODIFIE",
+                "linkOrientation": "cible",
+                "articleNum": "1er",
+                "articleId": "KALIARTI000046599328",
+                "natureText": "Avenant",
+                "datePubliTexte": "2022-11-24",
+                "dateSignaTexte": "2022-09-06",
+                "dateDebutCible": "2022-10-06"
+              }
+            ]
           }
         },
         {
@@ -2010,11 +2023,24 @@
             "cid": "KALIARTI000046265691",
             "num": "34",
             "intOrdre": 18350045,
-            "id": "KALIARTI000046265691",
-            "content": "<p align='left'>Les dispositions de l'article 38 de la convention, relatives à la maladie sont applicables en cas d'accident du travail.</p><p align='left'>Toutefois, d'une part, l'indemnité prévue sera versée à partir du deuxième jour de l'arrêté de travail, le premier jour étant intégralement à la charge de l'employeur en vertu de l'article L. 448 du code de la sécurité sociale, d'autre part, cette indemnité sera versée en cours de préavis.</p>",
+            "id": "KALIARTI000046655203",
+            "content": "<p align='left'>Les dispositions de l'article 33 de la convention, relatives à la maladie sont applicables en cas d'accident du travail.</p><p align='left'>Toutefois, d'une part, l'indemnité prévue sera versée à partir du deuxième jour de l'arrêté de travail, le premier jour étant intégralement à la charge de l'employeur en vertu de l'article L. 448 du code de la sécurité sociale, d'autre part, cette indemnité sera versée en cours de préavis.</p>",
             "etat": "VIGUEUR_NON_ETEN",
             "surtitre": "Accidents du travail",
-            "lstLienModification": []
+            "lstLienModification": [
+              {
+                "textCid": "KALITEXT000046599324",
+                "textTitle": "Rectification de l'accord du 11 avril 2022 (CCN) - art. 2 (VNE)",
+                "linkType": "MODIFIE",
+                "linkOrientation": "cible",
+                "articleNum": "2",
+                "articleId": "KALIARTI000046599329",
+                "natureText": "Avenant",
+                "datePubliTexte": "2022-11-24",
+                "dateSignaTexte": "2022-09-06",
+                "dateDebutCible": "2022-10-06"
+              }
+            ]
           }
         },
         {
@@ -10322,6 +10348,143 @@
                 "id": "KALIARTI000046054721",
                 "content": "<p>Paris, le 4 janvier 2022.</p><p>FEC FO, 54, rue d'Hauteville, 75010 Paris, à, la direction générale du travail, dépôt des accords collectifs, 39-43, Quai André-Citroën, 75902 Paris Cedex 15.<br/>\nMadame, Monsieur,</p><p>Par la présente, en notre qualité d'organisation syndicale représentative dans la branche des commerces de gros de l'habillement, de la mercerie, de la chaussure et du jouet du 13 mars 1969, IDCC 500, nous déclarons dénoncer :<br/>\n– l'<a href='/affichIDCC.do?cidTexte=KALITEXT000023363304&categorieLien=cid' title='Mise en place du forfait annuel en jours (VE)'>accord du 6 juillet 2010 </a>relatif à la mise en place du forfait annuel en jours.</p><p>Cette dénonciation fait suite au refus pur et simple de la partie patronale d'agréer à la demande de l'ensemble des organisations syndicales représentatives de salariés d'exclure du champ d'application de cet accord les salariés non-cadres.</p><p>Le préavis de 3 mois court à compter de la réception de cette déclaration.</p><p>Je vous prie d'agréer, Madame, Monsieur, nos salutations distinguées.</p><p>Le secrétaire général.</p>",
                 "etat": "VIGUEUR",
+                "lstLienModification": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000046599324",
+            "title": "Avenant du 6 septembre 2022 à l'accord du 11 avril 2022 relatif à l'actualisation de la convention collective",
+            "id": "KALITEXT000046599324",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2022-10-06"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000046599327",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000046599327",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000046599347",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000046599347",
+                    "content": "<p align='left'>Le 11 avril 2022 un accord d'actualisation de la convention collective des commerces de gros de l'habillement, de la mercerie, de la chaussure et du jouet a été signé entre la fédération française des entreprises de distribution, importation, exportation en chaussures, jouets, textiles (FCJT), la fédération des services CFDT et la fédération nationale des cadres CFE-CGC.</p><p align='left'>Postérieurement à sa conclusion, les parties ont unanimement constaté qu'une erreur matérielle s'était glissée dans deux articles de l'accord.</p><p align='left'>Le présent avenant a pour objet de confirmer qu'il s'agit d'une erreur matérielle et de la corriger formellement afin de donner à cet accord le sens que les parties ont voulu lui donner.</p><p align='left'>Il est ainsi pris les mesures qui suivent :</p><p></p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": []
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046599328",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000046599328",
+                "content": "<p align='left'>À l'article 29 le renvoi à l'article 32 est remplacé par le renvoi à l'article 27.</p><p align='left'>« Tout salarié ayant atteint l'âge de la retraite bénéficiera d'une indemnité de départ en retraite égale à la moitié de l'indemnité de licenciement prévue à l'article 27. »</p><p align='left'>Les autres dispositions de l'article 29 ne sont pas modifiées.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000046265637",
+                    "textTitle": "Convention collective nationale du 11 avril 2022 - art. 29 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "29",
+                    "articleId": "KALIARTI000046655201",
+                    "natureText": "Convention collective nationale",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2022-04-11",
+                    "dateDebutCible": "2022-10-06"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046599329",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000046599329",
+                "content": "<p align='left'>À l'article 34 le renvoi à l'article 38 est remplacé par le renvoi à l'article 33.</p><p align='left'>« Les dispositions de l'article 33 de la convention, relatives à la maladie sont applicables en cas d'accident du travail. »</p><p align='left'>Les autres dispositions de l'article 34 ne sont pas modifiées.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000046265637",
+                    "textTitle": "Convention collective nationale du 11 avril 2022 - art. 34 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "34",
+                    "articleId": "KALIARTI000046655203",
+                    "natureText": "Convention collective nationale",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2022-04-11",
+                    "dateDebutCible": "2022-10-06"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046599330",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000046599330",
+                "content": "<p align='left'><br/>Suivant les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>dispositions de l'article L. 2261-23-1 du code du travail</a>, les parties signataires n'ont pas retenu de dispositions spécifiques telles que visées par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-10-1 (M)'>article L. 2232-10-1 du code du travail</a> à l'attention des entreprises de moins de 50 salariés dès lors que le présent avenant a vocation à corriger une erreur matérielle présente dans l'accord du 11 avril 2022, qui a lui-même vocation à régir les rapports de travail entre les employeurs et les salariés des commerces de gros de l'habillement, de la mercerie, de la chaussure et du jouet relevant des codes APE 46.41Z, 46.42Z, 46.49Z, quelques soit leur effectif.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Entreprises de moins de 50 salariés",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046599334",
+                "num": "4",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000046599334",
+                "content": "<p align='left'>Les parties signataires conviennent de demander, sans délai, l'extension du présent avenant.</p><p align='left'>Il sera établi un nombre suffisant d'exemplaires pour être remis à chacune des parties signataires et effectuer les formalités prévues aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901674&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-5 (V)'>L. 2231-5</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-6 (V)'>L. 2231-6</a> du code du travail.</p><p align='left'>A l'expiration du délai d'opposition prévu à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901677&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-8 (V)'>article L. 2231-8 du code du travail</a>, le présent avenant fera l'objet d'une procédure de dépôt.</p><p align='left'>Il fera ensuite l'objet de la procédure d'extension conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-15 (V)'>dispositions de l'article L. 2261-15 du code du travail</a>.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Dépôt. Extension",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046599339",
+                "num": "5",
+                "intOrdre": 3145722,
+                "id": "KALIARTI000046599339",
+                "content": "<p align='left'><br/>Conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901781&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-3 (V)'>article L. 2261-3 du code du travail</a>, toute organisation syndicale ou tout employeur qui n'est pas partie au présent avenant pourra y adhérer ultérieurement. Cette adhésion sera valable à partir du jour qui suivra celui de la notification de l'adhésion au secrétariat du conseil des prud'hommes où le dépôt de l'avenant aura été effectué.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Adhésion",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046599341",
+                "num": "6",
+                "intOrdre": 3670009,
+                "id": "KALIARTI000046599341",
+                "content": "<p align='left'>Le présent avenant pourra faire l'objet d'une révision conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-7 (V)'>dispositions de l'article L. 2261-7 du code du travail</a> à la demande de l'une ou de l'autre des parties signataires.</p><p align='left'>La révision pourra prendre effet dans les conditions visées aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901667&dateTexte=&categorieLien=cid' title='Code du travail - art. L2222-5 (V)'>L. 2222-5</a>, L. 2261-7 et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901786&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-8 (V)'>L. 2261-8</a> du code du travail.</p><p align='left'>Il pourra également être dénoncé par l'une des parties signataires dans le respect des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901787&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-9 (V)'>dispositions de l'article L. 2261-9 du code du travail</a>.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Révision et dénonciation",
                 "lstLienModification": []
               }
             }
