@@ -13705,7 +13705,7 @@
             "title": "Nouvelle annexe IV : Classifications professionnelles (accord du 19 juillet 2022)",
             "id": "KALITEXT000046581862",
             "etat": "VIGUEUR_NON_ETEN",
-            "modifDate": "2022-07-01"
+            "modifDate": "2022-10-22"
           },
           "children": [
             {
@@ -13952,8 +13952,70 @@
                     "surtitre": "Modalités d'application de l'accord",
                     "lstLienModification": []
                   }
+                },
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000046739901",
+                    "num": "5",
+                    "intOrdre": 1074790397,
+                    "id": "KALIARTI000046739926",
+                    "content": "<p>Les parties signataires conviennent que le contenu de l'accord ne justifie pas de prendre des dispositions spécifiques pour les entreprises de moins de cinquante salariés.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "surtitre": "Modalités pour les entreprises de moins de 50 salariés",
+                    "lstLienModification": [
+                      {
+                        "textCid": "KALITEXT000046737384",
+                        "textTitle": "Classifications professionnelles (annexe IV de ... - art. (VNE)",
+                        "linkType": "CREE",
+                        "linkOrientation": "cible",
+                        "articleNum": "",
+                        "articleId": "KALIARTI000046737387",
+                        "natureText": "Avenant",
+                        "datePubliTexte": "2022-12-14",
+                        "dateSignaTexte": "2022-09-30",
+                        "dateDebutCible": "2022-10-22"
+                      }
+                    ]
+                  }
                 }
               ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000046737384",
+            "title": "Avenant du 30 septembre 2022 relatif aux classifications professionnelles (annexe IV de la convention)",
+            "id": "KALITEXT000046737384",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2022-10-22"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046737387",
+                "intOrdre": 524287,
+                "id": "KALIARTI000046737387",
+                "content": "<p align='left'>Les partenaires sociaux de la branche révisent les clauses générales de l'accord portant sur l'annexe IV relative aux classifications professionnelles de la convention collective nationale du transport aérien – personnel au sol (IDCC 275), en y en insérant un article 5 relatif aux modalités pour les entreprises de moins de cinquante salariés.</p><p align='center'>Partie IV – Clauses générales</p><p align='left'>Les parties signataires conviennent d'intégrer un article 5 dans la partie IV relatives aux clauses générales rédigé comme suit :</p><p align='center'>« Article 5<br/>\nModalités pour les entreprises de moins de 50 salariés</p><p align='left'>Les parties signataires conviennent que le contenu de l'accord ne justifie pas de prendre des dispositions spécifiques pour les entreprises de moins de cinquante salariés. »</p><p align='left'>Le présent avenant est conclu pour une durée indéterminée.</p><p align='left'>Conformément à la législation en vigueur, dès lors qu'il n'aurait pas fait l'objet d'une opposition régulièrement exercée par les organisations syndicales représentatives, le présent avenant fera l'objet d'un dépôt et d'une demande d'extension.</p><p align='left'>Le présent avenant fera également l'objet d'une publication sur la base de données nationale, dans une version ne comportant pas les noms et prénoms des négociateurs et des signataires.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000046581862",
+                    "textTitle": "Annexe IV : classifications professionnelles - art. 5 (VNE)",
+                    "linkType": "CREE",
+                    "linkOrientation": "source",
+                    "articleNum": "5",
+                    "articleId": "KALIARTI000046739926",
+                    "natureText": "Accord",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2022-07-19",
+                    "dateDebutCible": "2022-10-22"
+                  }
+                ]
+              }
             }
           ]
         }
