@@ -7590,22 +7590,34 @@
                             "cid": "KALIARTI000045396850",
                             "num": "12",
                             "intOrdre": 3145722,
-                            "id": "KALIARTI000045396850",
-                            "content": "<p align='left'><div align='center'><center><table border='1'><tr><th>Classes</th><th>Seuil 1 : à l'embauche</th><th>Seuil 2 : 3 ans d'ancienneté</th><th>Seuil 3 : 6 ans d'ancienneté</th><th>Seuil 4 : 9 ans d'ancienneté</th><th>Seuil 5 : 12 ans d'ancienneté</th><th>Seuil 6 : 15 ans d'ancienneté</th><th>Seuil 7 : 18 ans d'ancienneté</th><th>Seuil 8 : 21 ans d'ancienneté</th><th>Seuil 9 : 24 ans d'ancienneté</th><th>Seuil 10 : 27 ans d'ancienneté</th><th>Seuil 11 : 30 ans d'ancienneté</th></tr><tr><td align='center'>Classe 1 (6 à 8 points)</td><td align='center'>19 520 €</td><td align='center'>19 813 €</td><td align='center'>20 110 €</td><td align='center'>20 412 €</td><td align='center'>20 718 €</td><td align='center'>21 029 €</td><td align='center'>21 344 €</td><td align='center'>21 664 €</td><td align='center'>21 989 €</td><td align='center'>22 319 €</td><td align='center'>22 654 €</td></tr><tr><td align='center'>Classe 2 (9 à 11 points)</td><td align='center'>20 030 €</td><td align='center'>20 330 €</td><td align='center'>20 635 €</td><td align='center'>20 945 €</td><td align='center'>21 259 €</td><td align='center'>21 578 €</td><td align='center'>21 902 €</td><td align='center'>22 230 €</td><td align='center'>22 564 €</td><td align='center'>22 902 €</td><td align='center'>23 246 €</td></tr><tr><td align='center'>Classe 3 (12 à 14 points)</td><td align='center'>21 630 €</td><td align='center'>21 954 €</td><td align='center'>22 284 €</td><td align='center'>22 618 €</td><td align='center'>22 957 €</td><td align='center'>23 302 €</td><td align='center'>23 651 €</td><td align='center'>24 006 €</td><td align='center'>24 366 €</td><td align='center'>24 732 €</td><td align='center'>25 102 €</td></tr><tr><td align='center'>Classe 4 (15 à 17 points)</td><td align='center'>23 250 €</td><td align='center'>23 599 €</td><td align='center'>23 953 €</td><td align='center'>24 312 €</td><td align='center'>24 677 €</td><td align='center'>25 047 €</td><td align='center'>25 423 €</td><td align='center'>25 804 €</td><td align='center'>26 191 €</td><td align='center'>26 584 €</td><td align='center'>26 983 €</td></tr><tr><td align='center'>Classe 5 (18 à 20 points)</td><td align='center'>25 490 €</td><td align='center'>25 872 €</td><td align='center'>26 260 €</td><td align='center'>26 654 €</td><td align='center'>27 054 €</td><td align='center'>27 460 €</td><td align='center'>27 872 €</td><td align='center'>28 290 €</td><td align='center'>28 714 €</td><td align='center'>29 145 €</td><td align='center'>29 582 €</td></tr><tr><td align='center'>Classe 6 (21 à 24 points)</td><td align='center'>30 280 €</td><td align='center'>30 734 €</td><td align='center'>31 195 €</td><td align='center'>31 663 €</td><td align='center'>32 138 €</td><td align='center'>32 620 €</td><td align='center'>33 109 €</td><td align='center'>33 606 €</td><td align='center'>34 110 €</td><td align='center'>34 622 €</td><td align='center'>35 141 €</td></tr><tr><td align='center'>Classe 7 (25 à 28 points)</td><td align='center'>36 460 €</td><td align='center'>37 007 €</td><td align='center'>37 562 €</td><td align='center'>38 125 €</td><td align='center'>38 697 €</td><td align='center'>39 278 €</td><td align='center'>39 867 €</td><td align='center'>40 465 €</td><td align='center'>41 072 €</td><td align='center'>41 688 €</td><td align='center'>42 313 €</td></tr><tr><td align='center'>Classe 8 (29 à 32 points)</td><td align='center'>45 420 €</td><td align='center'>46 101 €</td><td align='center'>46 793 €</td><td align='center'>47 495 €</td><td align='center'>48 207 €</td><td align='center'>48 930 €</td><td align='center'>49 664 €</td><td align='center'>50 409 €</td><td align='center'>51 165 €</td><td align='center'>51 933 €</td><td align='center'>52 712 €</td></tr><tr><td align='center'>Classe 9 (33 à 36 points)</td><td align='center'>58 970 €</td><td align='center'>59 855 €</td><td align='center'>60 752 €</td><td align='center'>61 664 €</td><td align='center'>62 589 €</td><td align='center'>63 527 €</td><td align='center'>64 480 €</td><td align='center'>65 448 €</td><td align='center'>66 429 €</td><td align='center'>67 426 €</td><td align='center'>68 437 €</td></tr></table></center></div></p>",
+                            "id": "KALIARTI000046980666",
+                            "content": "<center><table border='1'><tbody><tr><th></th><th>Seuil 1 :<br/>\n\t\t\tà l'embauche</th><th>Seuil 2 :<br/>\n\t\t\t3 ans d'ancienneté</th><th>Seuil 3 :<br/>\n\t\t\t6 ans d'ancienneté</th><th>Seuil 4 :<br/>\n\t\t\t9 ans d'ancienneté</th><th>Seuil 5 :<br/>\n\t\t\t12 ans d'ancienneté</th><th>Seuil 6 :<br/>\n\t\t\t15 ans d'ancienneté</th><th>Seuil 7 :<br/>\n\t\t\t18 ans d'ancienneté</th><th>Seuil 8 :<br/>\n\t\t\t21 ans d'ancienneté</th><th>Seuil 9 :<br/>\n\t\t\t24 ans d'ancienneté</th><th>Seuil 10 :<br/>\n\t\t\t27 ans d'ancienneté</th><th>Seuil 11 :<br/>\n\t\t\t30 ans d'ancienneté</th></tr><tr><td align='center'>Classe 1</td><td align='center'>20 320 €</td><td align='center'>20 625 €</td><td align='center'>20 934 €</td><td align='center'>21 248 €</td><td align='center'>21 567 €</td><td align='center'>21 890 €</td><td align='center'>22 219 €</td><td align='center'>22 552 €</td><td align='center'>22 890 €</td><td align='center'>23 234 €</td><td align='center'>23 582 €</td></tr><tr><td align='center'>Classe 2</td><td align='center'>20 830 €</td><td align='center'>21 142 €</td><td align='center'>21 460 €</td><td align='center'>21 781 €</td><td align='center'>22 108 €</td><td align='center'>22 440 €</td><td align='center'>22 776 €</td><td align='center'>23 118 €</td><td align='center'>23 465 €</td><td align='center'>23 817 €</td><td align='center'>24 174 €</td></tr><tr><td align='center'>Classe 3</td><td align='center'>22 430 €</td><td align='center'>22 766 €</td><td align='center'>23 108 €</td><td align='center'>23 455 €</td><td align='center'>23 806 €</td><td align='center'>24 163 €</td><td align='center'>24 526 €</td><td align='center'>24 894 €</td><td align='center'>25 267 €</td><td align='center'>25 646 €</td><td align='center'>26 031 €</td></tr><tr><td align='center'>Classe 4</td><td align='center'>24 050 €</td><td align='center'>24 411 €</td><td align='center'>24 777 €</td><td align='center'>25 149 €</td><td align='center'>25 526 €</td><td align='center'>25 909 €</td><td align='center'>26 297 €</td><td align='center'>26 692 €</td><td align='center'>27 092 €</td><td align='center'>27 499 €</td><td align='center'>27 911 €</td></tr><tr><td align='center'>Classe 5</td><td align='center'>26 290 €</td><td align='center'>26 684 €</td><td align='center'>27 085 €</td><td align='center'>27 491 €</td><td align='center'>27 903 €</td><td align='center'>28 322 €</td><td align='center'>28 747 €</td><td align='center'>29 178 €</td><td align='center'>29 615 €</td><td align='center'>30 060 €</td><td align='center'>30 511 €</td></tr><tr><td align='center'>Classe 6</td><td align='center'>31 082 €</td><td align='center'>31 549 €</td><td align='center'>32 022 €</td><td align='center'>32 502 €</td><td align='center'>32 990 €</td><td align='center'>33 485 €</td><td align='center'>33 987 €</td><td align='center'>34 497 €</td><td align='center'>35 014 €</td><td align='center'>35 539 €</td><td align='center'>36 072 €</td></tr><tr><td align='center'>Classe 7</td><td align='center'>37 426 €</td><td align='center'>37 988 €</td><td align='center'>38 557 €</td><td align='center'>39 136 €</td><td align='center'>39 723 €</td><td align='center'>40 319 €</td><td align='center'>40 923 €</td><td align='center'>41 537 €</td><td align='center'>42 160 €</td><td align='center'>42 793 €</td><td align='center'>43 435 €</td></tr><tr><td align='center'>Classe 8</td><td align='center'>46 624 €</td><td align='center'>47 323 €</td><td align='center'>48 033 €</td><td align='center'>48 753 €</td><td align='center'>49 485 €</td><td align='center'>50 227 €</td><td align='center'>50 980 €</td><td align='center'>51 745 €</td><td align='center'>52 521 €</td><td align='center'>53 309 €</td><td align='center'>54 109 €</td></tr><tr><td align='center'>Classe 9</td><td align='center'>60 533 €</td><td align='center'>61 441 €</td><td align='center'>62 362 €</td><td align='center'>63 298 €</td><td align='center'>64 247 €</td><td align='center'>65 211 €</td><td align='center'>66 189 €</td><td align='center'>67 182 €</td><td align='center'>68 190 €</td><td align='center'>69 212 €</td><td align='center'>70 251 €</td></tr></tbody></table></center>",
                             "etat": "VIGUEUR_ETEN",
                             "surtitre": "Montants des rémunérations minimales brutes de branche",
                             "lstLienModification": [
                               {
-                                "textCid": "JORFTEXT000045669392",
-                                "textTitle": "Arrêté du 22 avril 2022 - art. 1, v. init.",
-                                "linkType": "ETEND",
-                                "linkOrientation": "cible",
+                                "textCid": "JORFTEXT000046727893",
+                                "textTitle": "Arrêté du 29 novembre 2022 - art. 1, v. init.",
+                                "linkType": "EXTENSION",
+                                "linkOrientation": "source",
                                 "articleNum": "1",
-                                "articleId": "JORFARTI000045669396",
+                                "articleId": "JORFARTI000046727897",
                                 "natureText": "ARRETE",
-                                "datePubliTexte": "2022-04-27",
-                                "dateSignaTexte": "2022-04-22",
+                                "datePubliTexte": "2022-12-13",
+                                "dateSignaTexte": "2022-11-29",
                                 "dateDebutCible": "2999-01-01"
+                              },
+                              {
+                                "textCid": "KALITEXT000046956261",
+                                "textTitle": "Avenant à l'accord du 6 décembre 2021 (classifi... - art. 2 (VNE)",
+                                "linkType": "MODIFIE",
+                                "linkOrientation": "cible",
+                                "articleNum": "2",
+                                "articleId": "KALIARTI000046956269",
+                                "natureText": "Avenant",
+                                "datePubliTexte": "2023-01-09",
+                                "dateSignaTexte": "2022-09-15",
+                                "dateDebutCible": "2022-09-01"
                               }
                             ]
                           }
@@ -10965,6 +10977,236 @@
                   }
                 }
               ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000046956261",
+            "title": "Avenant du 15 septembre 2022 à l'accord du 6 décembre 2021 relatif aux classifications et aux rémunérations",
+            "id": "KALITEXT000046956261",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2022-09-01"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046956265",
+                "intOrdre": 524287,
+                "id": "KALIARTI000046956265",
+                "content": "<p align='left'><br/>Réunis en commission paritaire permanente de négociation et d'interprétation, les partenaires sociaux décident de revaloriser les montants des rémunérations minimales dans la branche ferroviaire dans les conditions fixées par le présent avenant, afin de prendre en compte notamment l'évolution du salaire minimum interprofessionnel de croissance et l'inflation.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046727893",
+                    "textTitle": "Arrêté du 29 novembre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046727897",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-12-13",
+                    "dateSignaTexte": "2022-11-29",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046956268",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000046956268",
+                "content": "<p align='left'><br/>Les dispositions du présent accord s'appliquent aux entreprises relevant du champ d'application de la convention collective nationale de la branche ferroviaire.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Champ d'application",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046727893",
+                    "textTitle": "Arrêté du 29 novembre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046727897",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-12-13",
+                    "dateSignaTexte": "2022-11-29",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046956269",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000046956269",
+                "content": "<p align='left'><br/>Le présent article modifie l'article 12 de l'accord relatif aux classifications et aux rémunérations dans la branche ferroviaire du 6 décembre 2021 à compter de la date précisée à l'article 5 du présent accord. </p><p align='left'><div align='center'><center><table border='1'><tr><th><br/><p> </th><th>Seuil 1 : <br/>à l'embauche </th><th>Seuil 2 : <br/>3 ans d'ancienneté </th><th>Seuil 3 : <br/>6 ans d'ancienneté </th><th>Seuil 4 : <br/>9 ans d'ancienneté </th><th>Seuil 5 : <br/>12 ans d'ancienneté </th><th>Seuil 6 : <br/>15 ans d'ancienneté </th><th>Seuil 7 : <br/>18 ans d'ancienneté </th><th>Seuil 8 : <br/>21 ans d'ancienneté </th><th>Seuil 9 : <br/>24 ans d'ancienneté </th><th>Seuil 10 : <br/>27 ans d'ancienneté </th><th>Seuil 11 : <br/>30 ans d'ancienneté </th></tr><tr><td align='center'>Classe 1 </td><td align='center'>20 320 € </td><td align='center'>20 625 € </td><td align='center'>20 934 € </td><td align='center'>21 248 € </td><td align='center'>21 567 € </td><td align='center'>21 890 € </td><td align='center'>22 219 € </td><td align='center'>22 552 € </td><td align='center'>22 890 € </td><td align='center'>23 234 € </td><td align='center'>23 582 € </td></tr><tr><td align='center'>Classe 2 </td><td align='center'>20 830 € </td><td align='center'>21 142 € </td><td align='center'>21 460 € </td><td align='center'>21 781 € </td><td align='center'>22 108 € </td><td align='center'>22 440 € </td><td align='center'>22 776 € </td><td align='center'>23 118 € </td><td align='center'>23 465 € </td><td align='center'>23 817 € </td><td align='center'>24 174 € </td></tr><tr><td align='center'>Classe 3 </td><td align='center'>22 430 € </td><td align='center'>22 766 € </td><td align='center'>23 108 € </td><td align='center'>23 455 € </td><td align='center'>23 806 € </td><td align='center'>24 163 € </td><td align='center'>24 526 € </td><td align='center'>24 894 € </td><td align='center'>25 267 € </td><td align='center'>25 646 € </td><td align='center'>26 031 € </td></tr><tr><td align='center'>Classe 4 </td><td align='center'>24 050 € </td><td align='center'>24 411 € </td><td align='center'>24 777 € </td><td align='center'>25 149 € </td><td align='center'>25 526 € </td><td align='center'>25 909 € </td><td align='center'>26 297 € </td><td align='center'>26 692 € </td><td align='center'>27 092 € </td><td align='center'>27 499 € </td><td align='center'>27 911 € </td></tr><tr><td align='center'>Classe 5 </td><td align='center'>26 290 € </td><td align='center'>26 684 € </td><td align='center'>27 085 € </td><td align='center'>27 491 € </td><td align='center'>27 903 € </td><td align='center'>28 322 € </td><td align='center'>28 747 € </td><td align='center'>29 178 € </td><td align='center'>29 615 € </td><td align='center'>30 060 € </td><td align='center'>30 511 € </td></tr><tr><td align='center'>Classe 6 </td><td align='center'>31 082 € </td><td align='center'>31 549 € </td><td align='center'>32 022 € </td><td align='center'>32 502 € </td><td align='center'>32 990 € </td><td align='center'>33 485 € </td><td align='center'>33 987 € </td><td align='center'>34 497 € </td><td align='center'>35 014 € </td><td align='center'>35 539 € </td><td align='center'>36 072 € </td></tr><tr><td align='center'>Classe 7 </td><td align='center'>37 426 € </td><td align='center'>37 988 € </td><td align='center'>38 557 € </td><td align='center'>39 136 € </td><td align='center'>39 723 € </td><td align='center'>40 319 € </td><td align='center'>40 923 € </td><td align='center'>41 537 € </td><td align='center'>42 160 € </td><td align='center'>42 793 € </td><td align='center'>43 435 € </td></tr><tr><td align='center'>Classe 8 </td><td align='center'>46 624 € </td><td align='center'>47 323 € </td><td align='center'>48 033 € </td><td align='center'>48 753 € </td><td align='center'>49 485 € </td><td align='center'>50 227 € </td><td align='center'>50 980 € </td><td align='center'>51 745 € </td><td align='center'>52 521 € </td><td align='center'>53 309 € </td><td align='center'>54 109 € </td></tr><tr><td align='center'>Classe 9 </td><td align='center'>60 533 € </td><td align='center'>61 441 € </td><td align='center'>62 362 € </td><td align='center'>63 298 € </td><td align='center'>64 247 € </td><td align='center'>65 211 € </td><td align='center'>66 189 € </td><td align='center'>67 182 € </td><td align='center'>68 190 € </td><td align='center'>69 212 € </td><td align='center'>70 251 €</td></tr></table></center></div></p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Montant des rémunérations minimales brutes de branche",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046727893",
+                    "textTitle": "Arrêté du 29 novembre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046727897",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-12-13",
+                    "dateSignaTexte": "2022-11-29",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000045396776",
+                    "textTitle": "Classifications et rémunérations - art. 12 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "12",
+                    "articleId": "KALIARTI000046980666",
+                    "natureText": "Convention collective nationale",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2021-12-06",
+                    "dateDebutCible": "2022-09-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046956275",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000046956275",
+                "content": "<p align='left'>Les parties signataires rappellent les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902818&dateTexte=&categorieLien=cid'>dispositions de l'article L. 3221-2 du code du travail</a> selon lesquelles « tout employeur assure, pour un même travail ou un travail de valeur égale, l'égalité de rémunération entre les femmes et les hommes ».<br/><p> <br/>\nLe montant des rémunérations minimales brutes de branche par classe et ancienneté visé à l'article 2 du présent accord est conforme à ce principe et ne peut conduire à des différences de traitement entre les femmes et les hommes.<br/><p> <br/>\nLes entreprises s'attacheront à vérifier qu'il n'existe pas d'écarts de rémunération non justifiés par des raisons objectives entre les femmes et les hommes. Si tel n'est pas le cas, elles mettront en œuvre toutes les mesures utiles pour remédier à ces disparités salariales.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Égalité de rémunération femmes/hommes",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046727893",
+                    "textTitle": "Arrêté du 29 novembre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046727897",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-12-13",
+                    "dateSignaTexte": "2022-11-29",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046956278",
+                "num": "4",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000046956278",
+                "content": "<p align='left'>Les parties signataires soulignent que moins de 2 % des salariés de la branche appartiennent à une entreprise de moins de 50 salariés.<br/><p> <br/>\nLes parties signataires estiment que les dispositions du présent accord sont pleinement justifiées et applicables pour l'ensemble des entreprises qui relèvent de la branche ferroviaire. À ce titre, elles indiquent expressément que, conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-23-1 du code du travail</a>, l'objet du présent accord ne justifie pas la mise en place de mesures spécifiques pour les entreprises de moins de 50 salariés.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Précisions sur les entreprises de moins de 50 salariés",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046727893",
+                    "textTitle": "Arrêté du 29 novembre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046727897",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-12-13",
+                    "dateSignaTexte": "2022-11-29",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046956280",
+                "num": "5",
+                "intOrdre": 3145722,
+                "id": "KALIARTI000046956280",
+                "content": "<p align='left'>Le présent accord est applicable à compter du 1er septembre 2022.<br/><p> <br/>\nAinsi pour l'année 2022, pour comparer la rémunération réelle brute perçue par le salarié sur les 12 mois de l'année civile considérée aux valeurs de rémunération annuelle garantie, les montants des RAG en vigueur par classe et ancienneté avant le 1er septembre 2022 s'appliqueront – de manière proratisée – pour les mois de janvier à août 2022. Les montants des RAG arrêtés par classe et ancienneté par le présent accord s'appliqueront – de manière proratisée – pour les mois de septembre, octobre, novembre et décembre 2022.<br/><p> <br/>\nUne négociation annuelle obligatoire sera ouverte en décembre 2022 à la suite de la présentation des chiffres de l'INSEE mi-décembre 2022.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Entrée en vigueur de l'accord",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046727893",
+                    "textTitle": "Arrêté du 29 novembre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046727897",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-12-13",
+                    "dateSignaTexte": "2022-11-29",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046956281",
+                "num": "6",
+                "intOrdre": 3670009,
+                "id": "KALIARTI000046956281",
+                "content": "<p align='left'><br/>Le présent accord est conclu pour une durée indéterminée.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Durée de l'accord",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046727893",
+                    "textTitle": "Arrêté du 29 novembre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046727897",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-12-13",
+                    "dateSignaTexte": "2022-11-29",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046956282",
+                "num": "7",
+                "intOrdre": 4194296,
+                "id": "KALIARTI000046956282",
+                "content": "<p align='left'><br/>Le présent accord fera l'objet d'un dépôt à la direction générale du travail et au secrétariat-greffe du conseil de prud'hommes de Paris et d'une demande d'extension dans les conditions fixées par les articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>L. 2231-6</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid'>D. 2231-2</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>L. 2261-15</a> et suivants du code du travail.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Publicité et dépôt",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046727893",
+                    "textTitle": "Arrêté du 29 novembre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046727897",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-12-13",
+                    "dateSignaTexte": "2022-11-29",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
             }
           ]
         }
