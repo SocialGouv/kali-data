@@ -8884,7 +8884,7 @@
             "cid": "KALITEXT000046970990",
             "title": "Avenant n° 27 du 14 octobre 2022 relatif aux salaires minima des avocats salariés",
             "id": "KALITEXT000046970990",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2023-01-01"
           },
           "children": [
@@ -8895,8 +8895,21 @@
                 "intOrdre": 524287,
                 "id": "KALIARTI000046970993",
                 "content": "<p align='left'><br/>Les partenaires sociaux ont décidé de fixer comme suit les salaires minima annuels des avocats salariés, sur la base d'une augmentation de 4 %.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046830256",
+                    "textTitle": "Arrêté du 26 décembre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046830261",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-12-29",
+                    "dateSignaTexte": "2022-12-26",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -8907,9 +8920,22 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000046970994",
                 "content": "<p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Avocat salarié</th><th>Salaire minimum annuel</th></tr><tr><td align='center'>1re année</td><td align='center'>27 868</td></tr><tr><td align='center'>2e année</td><td align='center'>30 181</td></tr><tr><td align='center'>3e année</td><td align='center'>33 484</td></tr><tr><td align='center'>Après la 3e année</td><td align='center'>37 603</td></tr><tr><td>Avocat ayant 5 années d'expérience dans la profession ou titulaire d'une mention de spécialisation</td><td align='center'>46 945</td></tr></table></center></div></p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Minima conventionnels pour l'ensemble des barreaux français hors Paris et Île-de-France",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046830256",
+                    "textTitle": "Arrêté du 26 décembre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046830261",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-12-29",
+                    "dateSignaTexte": "2022-12-26",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -8920,9 +8946,22 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000046970995",
                 "content": "<p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Avocat salarié</th><th>Salaire minimum annuel</th></tr><tr><td align='center'>1re année</td><td align='center'>30 125</td></tr><tr><td align='center'>2e année</td><td align='center'>32 989</td></tr><tr><td align='center'>3e année</td><td align='center'>37 770</td></tr><tr><td align='center'>Après la 3e année</td><td align='center'>42 383</td></tr><tr><td>Avocat ayant 5 années d'expérience dans la profession ou titulaire d'une mention de spécialisation</td><td align='center'>50 613</td></tr></table></center></div></p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Minima conventionnels pour les barreaux de Paris et d'Île-de-France",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046830256",
+                    "textTitle": "Arrêté du 26 décembre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046830261",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-12-29",
+                    "dateSignaTexte": "2022-12-26",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -8932,10 +8971,23 @@
                 "num": "3",
                 "intOrdre": 2097148,
                 "id": "KALIARTI000046970996",
-                "content": "<p align='left'><br/>Pour les personnes morales membres d'une organisation patronale signataire du présent avenant, la date d'application est fixée au 1er janvier 2023.<br/>Pour les personnes morales non-membres d'une organisation patronale signataire du présent avenant, ce dernier sera applicable à compter du premier jour du mois civil suivant la publication de l'arrêté d'extension au Journal officiel de la République Française.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Pour les personnes morales membres d'une organisation patronale signataire du présent avenant, la date d'application est fixée au 1er janvier 2023.</p><p align='left'>Pour les personnes morales non-membres d'une organisation patronale signataire du présent avenant, ce dernier sera applicable à compter du premier jour du mois civil suivant la publication de l'arrêté d'extension au Journal officiel de la République Française.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Date d'application du présent avenant",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046830256",
+                    "textTitle": "Arrêté du 26 décembre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046830261",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-12-29",
+                    "dateSignaTexte": "2022-12-26",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -8945,10 +8997,23 @@
                 "num": "4",
                 "intOrdre": 2621435,
                 "id": "KALIARTI000046970997",
-                "content": "<p align='left'><br/>Les parties signataires conviennent qu'il sera demandé l'extension du présent avenant. </p><p align='center'><br/>Mesures spécifiques pour les entreprises de moins de 50 salariés </p><p align='left'><br/>Pour l'application de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>L. 2261-23-1</a>, les partenaires sociaux ont considéré qu'un accord portant sur les minima conventionnels applicables aux salariés de la branche n'avait pas à comporter les stipulations spécifiques mentionnées à l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-10-1 (V)'>L. 2232-10-1</a>. En effet, ceux-ci doivent s'appliquer quelle que soit la taille de l'entreprise a fortiori dans une branche composée presque exclusivement d'entreprises de moins de 50 salariés.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'><br/>Les parties signataires conviennent qu'il sera demandé l'extension du présent avenant. </p><p align='center'><br/>Mesures spécifiques pour les entreprises de moins de 50 salariés </p><p align='left'><br/>Pour l'application de l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>L. 2261-23-1</a>, les partenaires sociaux ont considéré qu'un accord portant sur les minima conventionnels applicables aux salariés de la branche n'avait pas à comporter les stipulations spécifiques mentionnées à l'article <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid'>L. 2232-10-1</a>. En effet, ceux-ci doivent s'appliquer quelle que soit la taille de l'entreprise a fortiori dans une branche composée presque exclusivement d'entreprises de moins de 50 salariés.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Demande d'extension",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000046830256",
+                    "textTitle": "Arrêté du 26 décembre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000046830261",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2022-12-29",
+                    "dateSignaTexte": "2022-12-26",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
