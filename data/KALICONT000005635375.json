@@ -2247,7 +2247,7 @@
                         "intOrdre": 1073741823,
                         "id": "KALIARTI000045460033",
                         "content": "<p>En vue de simplifier le processus d'affiliation des salariés de la charcuterie de détail et de permettre une meilleure couverture de leurs ayants-droits, les partenaires sociaux ont validé à l'unanimité la création d'une nouvelle garantie facultative à destination de cette population.</p><p>Ainsi, chaque salarié inscrit au régime de remboursement de frais de soins de santé professionnel conventionnel aura également la possibilité d'affilier ses ayants-droits en vue de pouvoir les faire bénéficier des mêmes prestations que lui-même.</p><p>Ont la qualité d'ayant-droit au titre des présentes dispositions, le conjoint ou le concubin du bénéficiaire lié ou non par un pacte civil de solidarité (Pacs) et les enfants à charge répondant à la définition suivante : enfants de moins de 18 ans à charge, au sens de la législation de la sécurité sociale, du salarié ou de son conjoint ou de son concubin, et par extension :<br/>\n– enfants de moins de 26 ans à charge fiscale du salarié, du conjoint ou du concubin au sens de la législation fiscale, à savoir :<br/>\n– enfants du salarié, de son conjoint ou de son concubin pris en compte dans le calcul du quotient familial ou ouvrant droit à un abattement applicable au revenu imposable ;<br/>\n– enfants du salarié, de son conjoint ou de son concubin auxquels celui-ci sert une pension alimentaire (y compris en application d'un jugement de divorce) retenue sur son avis d'imposition à titre de charge déductible du revenu global ;<br/>\n– quel que soit leur âge, et sauf déclaration personnelle de revenus, les enfants infirmes (c'est-à-dire hors d'état de subvenir à leurs besoins en raison notamment de leur invalidité) au sens de la législation fiscale définie ci-après :<br/>\n– pris en compte dans le calcul du quotient familial ;<br/>\n– ou ouvrant droit à un abattement applicable au revenu imposable ;<br/>\n– ou bénéficiaires d'une pension alimentaire que le salarié est autorisé à déduire de son revenu imposable.</p>",
-                        "etat": "VIGUEUR_NON_ETEN",
+                        "etat": "VIGUEUR_ETEN",
                         "lstLienModification": [
                           {
                             "textCid": "KALITEXT000045429823",
@@ -2260,6 +2260,18 @@
                             "datePubliTexte": "2022-03-29",
                             "dateSignaTexte": "2021-04-28",
                             "dateDebutCible": "2021-07-01"
+                          },
+                          {
+                            "textCid": "JORFTEXT000047008307",
+                            "textTitle": "Arrêté du 13 décembre 2022 - art. 1, v. init.",
+                            "linkType": "ETEND",
+                            "linkOrientation": "cible",
+                            "articleNum": "1",
+                            "articleId": "JORFARTI000047008310",
+                            "natureText": "ARRETE",
+                            "datePubliTexte": "2023-01-19",
+                            "dateSignaTexte": "2022-12-13",
+                            "dateDebutCible": "2999-01-01"
                           }
                         ]
                       }
@@ -2382,7 +2394,7 @@
                         "intOrdre": 1073741823,
                         "id": "KALIARTI000045460035",
                         "content": "<p align='left'>Le conjoint et/ou les enfants d'un salarié affilié au régime de base du dispositif complémentaire frais de santé professionnel conventionnel moyennant le tarif mensuel de 48 euros pourront bénéficier des mêmes prestations que l'assuré principal selon la tarification suivante :</p><center><table border='1'><tbody><tr><th></th><th>Base régime général</th><th>Base régime local</th></tr><tr><td align='center'>Adulte</td><td align='center'>59 €</td><td align='center'>38 €</td></tr><tr><td align='center'>Enfant</td><td align='center'>27 €</td><td align='center'>20 €</td></tr></tbody></table></center><p>La gratuité étant acquise à compter du 3e enfant.</p>",
-                        "etat": "VIGUEUR_NON_ETEN",
+                        "etat": "VIGUEUR_ETEN",
                         "lstLienModification": [
                           {
                             "textCid": "KALITEXT000045429823",
@@ -2395,6 +2407,18 @@
                             "datePubliTexte": "2022-03-29",
                             "dateSignaTexte": "2021-04-28",
                             "dateDebutCible": "2021-07-01"
+                          },
+                          {
+                            "textCid": "JORFTEXT000047008307",
+                            "textTitle": "Arrêté du 13 décembre 2022 - art. 1, v. init.",
+                            "linkType": "ETEND",
+                            "linkOrientation": "cible",
+                            "articleNum": "1",
+                            "articleId": "JORFARTI000047008310",
+                            "natureText": "ARRETE",
+                            "datePubliTexte": "2023-01-19",
+                            "dateSignaTexte": "2022-12-13",
+                            "dateDebutCible": "2999-01-01"
                           }
                         ]
                       }
@@ -21746,7 +21770,7 @@
             "cid": "KALITEXT000045429823",
             "title": "Avenant n° 42 du 28 avril 2021 relatif au régime de remboursement de frais de soins de santé",
             "id": "KALITEXT000045429823",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2021-07-01"
           },
           "children": [
@@ -21757,7 +21781,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000045429826",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -21766,9 +21790,22 @@
                     "cid": "KALIARTI000045429840",
                     "intOrdre": 524287,
                     "id": "KALIARTI000045429840",
-                    "content": "<p></p><p align='left'>Le présent avenant a pour effet de compléter les avenants n° 8,26 et 32 de la convention collective nationale de la charcuterie de détail. Les partenaires sociaux souhaitent en effet faire évoluer le régime de frais de santé professionnel conventionnel et l'étendre aux ayants-droits des salariés en vue d'une mutualisation élargie. Ils entendent également compléter les dispositions relatives à la tarification applicable aux personnes mentionnées à l<a href='/affichTexteArticle.do?cidTexte=JORFTEXT000000709057&idArticle=LEGIARTI000006756598&dateTexte=&categorieLien=cid' title='LOI n° 89-1009 du 31 décembre 1989 - art. 4 (V)'>'article 4</a> de la loi du 31 décembre 1989 dite « Loi Évin ». </p><p align='left'>Il est convenu ce qui suit :</p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "content": "<p></p><p align='left'>Le présent avenant a pour effet de compléter les avenants n° 8,26 et 32 de la convention collective nationale de la charcuterie de détail. Les partenaires sociaux souhaitent en effet faire évoluer le régime de frais de santé professionnel conventionnel et l'étendre aux ayants-droits des salariés en vue d'une mutualisation élargie. Ils entendent également compléter les dispositions relatives à la tarification applicable aux personnes mentionnées à l<a href='/affichTexteArticle.do?cidTexte=JORFTEXT000000709057&idArticle=LEGIARTI000006756598&dateTexte=&categorieLien=cid'>'article 4</a> de la loi du 31 décembre 1989 dite « Loi Évin ». </p><p align='left'>Il est convenu ce qui suit :</p><p></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000047008307",
+                        "textTitle": "Arrêté du 13 décembre 2022 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047008310",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-01-19",
+                        "dateSignaTexte": "2022-12-13",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -21780,10 +21817,23 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000045429827",
-                "content": "<p align='left'>Le champ d'application du présent accord est celui défini à l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000017842201&idArticle=KALIARTI000017852101&categorieLien=cid' title='Convention collective nationale de la charcuter... - art. 1 (VE)'>article 1er</a> de la convention collective nationale de la charcuterie de détail du 1er décembre 1977 réécrite par avenant n° 113 en date du 4 avril 2007 (IDCC 953). En application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>article L. 2261-23-1 du code du travail</a>, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de stipulations spécifiques aux entreprises de moins de 50 salariés, visées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-10-1 (M)'>article L. 2232-10-1 du code du travail</a>, dans la mesure où la branche est majoritairement composée de TPE avec un effectif moyen de 5 salariés.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le champ d'application du présent accord est celui défini à l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000017842201&idArticle=KALIARTI000017852101&categorieLien=cid'>article 1er</a> de la convention collective nationale de la charcuterie de détail du 1er décembre 1977 réécrite par avenant n° 113 en date du 4 avril 2007 (IDCC 953). En application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>article L. 2261-23-1 du code du travail</a>, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de stipulations spécifiques aux entreprises de moins de 50 salariés, visées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid'>article L. 2232-10-1 du code du travail</a>, dans la mesure où la branche est majoritairement composée de TPE avec un effectif moyen de 5 salariés.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Champ d'application",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047008307",
+                    "textTitle": "Arrêté du 13 décembre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047008310",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-01-19",
+                    "dateSignaTexte": "2022-12-13",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -21793,10 +21843,22 @@
                 "num": "2",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000045429831",
-                "content": "<p align='left'>L'article 20-3-F « Cessation des garanties » de l'avenant n° 8 en date du 26 avril 2020 modifié par l'avenant n° 32 en date du 11 octobre 2017 est modifié et complété comme suit : </p><p align='left'>« Afin de garantir un haut degré de solidarité du régime professionnel conventionnel de remboursement de frais de soins de santé, et notamment de solidarité intergénérationnelle par le principe de la mutualisation des cotisations des anciens salariés avec celles des salariés actifs, et en application du <a href='/affichTexte.do?cidTexte=JORFTEXT000034258687&categorieLien=cid' title='Décret n°2017-372 du 21 mars 2017 (V)'>décret n° 2017-372 du 21 mars 2017</a>, il a été convenu des évolutions suivantes concernant la cotisation allouée aux anciens salariés : </p><p align='left'>Les tarifs applicables aux personnes mentionnées à l'<a href='/affichTexteArticle.do?cidTexte=JORFTEXT000000709057&idArticle=LEGIARTI000006756598&dateTexte=&categorieLien=cid' title='LOI n° 89-1009 du 31 décembre 1989 - art. 4 (V)'>article 4</a> de la loi du 31 décembre 1989 “ Loi Évin ” sont plafonnés à compter de la date d'effet du contrat ou de l'adhésion, selon les modalités suivantes : <br/>– la première année, les tarifs ne peuvent être supérieurs aux tarifs globaux applicables aux salariés actifs prévus à l'article 20-3-G du présent régime ; <br/>– à compter de la deuxième année, les tarifs ne peuvent être supérieurs de plus de 25 % aux tarifs globaux applicables aux salariés actifs prévus à l'article 20-3-G du présent régime ; <br/>– à compter de la troisième année, les tarifs ne peuvent être supérieurs de plus de 50 % aux tarifs globaux applicables aux salariés actifs prévus à l'article 20-3-G du présent régime. »</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>L'article 20-3-F « Cessation des garanties » de l'avenant n° 8 en date du 26 avril 2020 modifié par l'avenant n° 32 en date du 11 octobre 2017 est modifié et complété comme suit : </p><p align='left'>« Afin de garantir un haut degré de solidarité du régime professionnel conventionnel de remboursement de frais de soins de santé, et notamment de solidarité intergénérationnelle par le principe de la mutualisation des cotisations des anciens salariés avec celles des salariés actifs, et en application du <a href='/affichTexte.do?cidTexte=JORFTEXT000034258687&categorieLien=cid'>décret n° 2017-372 du 21 mars 2017</a>, il a été convenu des évolutions suivantes concernant la cotisation allouée aux anciens salariés : </p><p align='left'>Les tarifs applicables aux personnes mentionnées à l'<a href='/affichTexteArticle.do?cidTexte=JORFTEXT000000709057&idArticle=LEGIARTI000006756598&dateTexte=&categorieLien=cid'>article 4</a> de la loi du 31 décembre 1989 “ Loi Évin ” sont plafonnés à compter de la date d'effet du contrat ou de l'adhésion, selon les modalités suivantes : <br/>– la première année, les tarifs ne peuvent être supérieurs aux tarifs globaux applicables aux salariés actifs prévus à l'article 20-3-G du présent régime ; <br/>– à compter de la deuxième année, les tarifs ne peuvent être supérieurs de plus de 25 % aux tarifs globaux applicables aux salariés actifs prévus à l'article 20-3-G du présent régime ; <br/>– à compter de la troisième année, les tarifs ne peuvent être supérieurs de plus de 50 % aux tarifs globaux applicables aux salariés actifs prévus à l'article 20-3-G du présent régime. »</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Modification de l'article 20-3-F de l'avenant n° 8 du 26 avril 2010",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047008307",
+                    "textTitle": "Arrêté du 13 décembre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047008310",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-01-19",
+                    "dateSignaTexte": "2022-12-13",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000017842201",
                     "textTitle": "Convention collective nationale de la charcuter... - art. 20-3-F (VNE)",
@@ -21820,9 +21882,21 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000045429834",
                 "content": "<p align='left'>« En vue de simplifier le processus d'affiliation des salariés de la charcuterie de détail et de permettre une meilleure couverture de leurs ayants-droits, les partenaires sociaux ont validé à l'unanimité la création d'une nouvelle garantie facultative à destination de cette population.</p><p align='left'>Ainsi, chaque salarié inscrit au régime de remboursement de frais de soins de santé professionnel conventionnel aura également la possibilité d'affilier ses ayants-droits en vue de pouvoir les faire bénéficier des mêmes prestations que lui-même.</p><p align='left'>Ont la qualité d'ayant-droit au titre des présentes dispositions, le conjoint ou le concubin du bénéficiaire lié ou non par un pacte civil de solidarité (Pacs) et les enfants à charge répondant à la définition suivante : enfants de moins de 18 ans à charge, au sens de la législation de la sécurité sociale, du salarié ou de son conjoint ou de son concubin, et par extension :<br/>\n– enfants de moins de 26 ans à charge fiscale du salarié, du conjoint ou du concubin au sens de la législation fiscale, à savoir :<br/>\n–– enfants du salarié, de son conjoint ou de son concubin pris en compte dans le calcul du quotient familial ou ouvrant droit à un abattement applicable au revenu imposable ;<br/>\n–– enfants du salarié, de son conjoint ou de son concubin auxquels celui-ci sert une pension alimentaire (y compris en application d'un jugement de divorce) retenue sur son avis d'imposition à titre de charge déductible du revenu global ;<br/>\n– quel que soit leur âge, et sauf déclaration personnelle de revenus, les enfants infirmes (c'est-à-dire hors d'état de subvenir à leurs besoins en raison notamment de leur invalidité) au sens de la législation fiscale définie ci-après :<br/>\n–– pris en compte dans le calcul du quotient familial ;<br/>\n–– ou ouvrant droit à un abattement applicable au revenu imposable ;<br/>\n–– ou bénéficiaires d'une pension alimentaire que le salarié est autorisé à déduire de son revenu imposable. »</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Modification de l'article 20-3-C « Bénéficiaires » de l'avenant n° 8 en date du 26 avril 2010",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047008307",
+                    "textTitle": "Arrêté du 13 décembre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047008310",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-01-19",
+                    "dateSignaTexte": "2022-12-13",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000017842201",
                     "textTitle": "Convention collective nationale de la charcuter... - art. 20-3-C (VNE)",
@@ -21846,9 +21920,21 @@
                 "intOrdre": 2621435,
                 "id": "KALIARTI000045429835",
                 "content": "<p align='left'>« Le conjoint et/ou les enfants d'un salarié affilié au régime de base du dispositif complémentaire frais de santé professionnel conventionnel moyennant le tarif mensuel de 48 euros pourront bénéficier des mêmes prestations que l'assuré principal selon la tarification suivante :</p><center><table border='1'><tbody><tr><th></th><th>Base régime général</th><th>Base régime local</th></tr><tr><td align='center'>Adulte</td><td align='center'>59 €</td><td align='center'>38 €</td></tr><tr><td align='center'>Enfant</td><td align='center'>27 €</td><td align='center'>20 €</td></tr></tbody></table></center><p align='left'>La gratuité étant acquise à compter du 3e enfant. »</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Modification de l'article 20-3-G « Cotisations » de l'avenant n° 8 du 26 avril 2010",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047008307",
+                    "textTitle": "Arrêté du 13 décembre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047008310",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-01-19",
+                    "dateSignaTexte": "2022-12-13",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000017842201",
                     "textTitle": "Convention collective nationale de la charcuter... - art. 20-3-G (VNE)",
@@ -21872,9 +21958,22 @@
                 "intOrdre": 3145722,
                 "id": "KALIARTI000045429836",
                 "content": "<p align='left'><br/>L'article 1er du présent avenant prend effet rétroactivement à compter du 1er avril 2021. L'article 2 et l'article 3 du présent avenant prennent effet à compter du 1er juillet 2021.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Date d'effet",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047008307",
+                    "textTitle": "Arrêté du 13 décembre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047008310",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-01-19",
+                    "dateSignaTexte": "2022-12-13",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -21884,10 +21983,23 @@
                 "num": "6",
                 "intOrdre": 3670009,
                 "id": "KALIARTI000045429837",
-                "content": "<p align='left'>Le présent avenant est établi en vertu des dispositions du code du travail relatives à « la négociation collective – les conventions et accords collectifs du travail » (livre deuxième de la partie II). Le présent avenant est fait en nombre suffisant d'exemplaires pour remise à chacune des organisations signataires et dépôt.</p><p align='left'>Les parties signataires conviennent de demander au ministère du travail, de l'emploi et de l'insertion, l'extension du présent avenant en application des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-15 (V)'>articles L. 2261-15 et suivants du code du travail</a>.</p><p align='left'>La confédération nationale de la charcuterie de détail, 15, rue Jacques-Bingen, 75017 Paris se charge des formalités nécessaires.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le présent avenant est établi en vertu des dispositions du code du travail relatives à « la négociation collective – les conventions et accords collectifs du travail » (livre deuxième de la partie II). Le présent avenant est fait en nombre suffisant d'exemplaires pour remise à chacune des organisations signataires et dépôt.</p><p align='left'>Les parties signataires conviennent de demander au ministère du travail, de l'emploi et de l'insertion, l'extension du présent avenant en application des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>articles L. 2261-15 et suivants du code du travail</a>.</p><p align='left'>La confédération nationale de la charcuterie de détail, 15, rue Jacques-Bingen, 75017 Paris se charge des formalités nécessaires.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dépôt et extension. Publicité",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047008307",
+                    "textTitle": "Arrêté du 13 décembre 2022 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047008310",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-01-19",
+                    "dateSignaTexte": "2022-12-13",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
@@ -22037,7 +22149,7 @@
             "title": "Avenant n° 32 du 11 octobre 2017 relatif au régime de remboursement de frais de soins de santé",
             "id": "KALITEXT000046581919",
             "etat": "VIGUEUR_ETEN",
-            "modifDate": "2018-01-01"
+            "modifDate": "2021-04-01"
           },
           "children": [
             {
@@ -22075,44 +22187,6 @@
                   }
                 }
               ]
-            },
-            {
-              "type": "article",
-              "data": {
-                "cid": "KALIARTI000046581923",
-                "num": "1er",
-                "intOrdre": 1048574,
-                "id": "KALIARTI000046581923",
-                "content": "<p align='left'>L'article 20-3-F « Cessation des garanties » est complété comme suit :<br/><p> <br/>\n« Afin de garantir un haut degré de solidarité du régime professionnel conventionnel de remboursement de frais de soins de santé, et notamment de solidarité intergénérationnelle par le principe de la mutualisation des cotisations des anciens salariés avec celles des salariés actifs, et en application du <a href='/affichTexte.do?cidTexte=JORFTEXT000034258687&categorieLien=cid'>décret n° 2017-372 du 21 mars 2017</a>, il a été convenu des évolutions suivantes concernant la cotisation allouée aux anciens salariés :<br/><p> <br/>\nLes tarifs applicables aux personnes mentionnées à l'article 4 de la loi du 31 décembre 1989 “ Loi Évin ” sont plafonnés à compter de la date d'effet du contrat ou de l'adhésion, selon les modalités suivantes :<br/>\n– la première année, les tarifs ne peuvent être supérieurs aux tarifs globaux applicables aux salariés actifs prévus à l'article 20-3-G du présent régime ;<br/>\n– à compter de la deuxième année, les tarifs ne peuvent être supérieurs de plus de 25 % aux tarifs globaux applicables aux salariés actifs prévus à l'article 20-3-G du présent régime. »</p>",
-                "etat": "VIGUEUR_ETEN",
-                "surtitre": "Modification de l'article 20-3-F de l'avenant n° 8 du 26 avril 2010",
-                "lstLienModification": [
-                  {
-                    "textCid": "JORFTEXT000046931997",
-                    "textTitle": "Arrêté du 13 décembre 2022 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000046932000",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2023-01-06",
-                    "dateSignaTexte": "2022-12-13",
-                    "dateDebutCible": "2999-01-01"
-                  },
-                  {
-                    "textCid": "KALITEXT000017842201",
-                    "textTitle": "Convention collective nationale de la charcuter... - art. 20-3-F (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "source",
-                    "articleNum": "20-3-F",
-                    "articleId": "KALIARTI000046584913",
-                    "natureText": "Convention collective nationale ",
-                    "datePubliTexte": "2999-01-01",
-                    "dateSignaTexte": "2007-04-04",
-                    "dateDebutCible": "2017-07-01"
-                  }
-                ]
-              }
             },
             {
               "type": "article",
