@@ -3347,34 +3347,22 @@
                 "cid": "KALIARTI000025127517",
                 "num": "92",
                 "intOrdre": 2147221503,
-                "id": "KALIARTI000044938173",
-                "content": "<p align='left'>Les cotisations sont calculées sur les salaires bruts (tranches A et B) des salariés non-cadres.</p><center><table border='1'><tbody><tr><th>Garantie</th><th>Taux contractuel des cotisations [*]</th><th>Part salarié</th><th>Part employeur</th></tr><tr><td align='center'>Décès/ IAD – obsèques</td><td align='center'>0,35 %</td><td align='center'>0,175 %</td><td align='center'>0,175 %</td></tr><tr><td align='center'>Invalidité</td><td align='center'>0,26 %</td><td align='center'>0,13 %</td><td align='center'>0,13 %</td></tr><tr><td align='center'>Incapacité de travail</td><td align='center'>0,19 %</td><td align='center'>0,095 %</td><td align='center'>0,095 %</td></tr><tr><td align='center'>Rente éducation</td><td align='center'>0,11 %</td><td align='center'>0,055 %</td><td align='center'>0,055 %</td></tr><tr><td align='center'>Rente handicap</td><td align='center'>0,02 %</td><td align='center'>0,01 %</td><td align='center'>0,01 %</td></tr><tr><td align='center'>Portabilité</td><td align='center'>0,01 %</td><td align='center'>0,005 %</td><td align='center'>0,005 %</td></tr><tr><td align='center'>Total</td><td align='center'>0,94 %</td><td align='center'>0,47 %</td><td align='center'>0,47 %</td></tr><tr><td colspan='4' align='center'>[*] La répartition du total des cotisations est établie sur la base de 50 % à la charge de l'employeur et 50 % à la charge</td></tr></tbody></table></center>",
-                "etat": "VIGUEUR_ETEN",
+                "id": "KALIARTI000047047947",
+                "content": "<p align='left'>Les cotisations sont calculées sur les salaires bruts (tranches A et B) des salariés non-cadres.</p><center><table border='1'><tbody><tr><th>Garanties</th><th>Taux contractuel des cotisations [1]</th><th>Part salarié</th><th>Part employeur</th></tr><tr><td align='center'>Décès/ IAD – obsèques</td><td align='center'>0,36 %</td><td align='center'>0,18 %</td><td align='center'>0,18 %</td></tr><tr><td align='center'>Invalidité</td><td align='center'>0,30 %</td><td align='center'>0,15 %</td><td align='center'>0,15 %</td></tr><tr><td align='center'>Incapacité de travail</td><td align='center'>0,24 %</td><td align='center'>0,12 %</td><td align='center'>0,12 %</td></tr><tr><td align='center'>Rente éducation</td><td align='center'>0,16 %</td><td align='center'>0,08 %</td><td align='center'>0,08 %</td></tr><tr><td align='center'>Rente handicap</td><td align='center'>0,03 %</td><td align='center'>0,015 %</td><td align='center'>0,015 %</td></tr><tr><td align='center'>Portabilité</td><td align='center'>0,01 %</td><td align='center'>0,005 %</td><td align='center'>0,005 %</td></tr><tr><td align='center'>Total</td><td align='center'>1,10 %</td><td align='center'>0,55 %</td><td align='center'>0,55 %</td></tr><tr><td colspan='4'>[1] La répartition du total des cotisations est établie sur la base de 50 % à la charge de l'employeur et 50 % à la charge du salarié.</td></tr></tbody></table></center>",
+                "etat": "VIGUEUR_NON_ETEN",
                 "surtitre": "Cotisations",
                 "lstLienModification": [
                   {
-                    "textCid": "JORFTEXT000045925196",
-                    "textTitle": "Arrêté du 3 juin 2022 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
-                    "articleNum": "1",
-                    "articleId": "JORFARTI000045925199",
-                    "natureText": "ARRETE",
-                    "datePubliTexte": "2022-06-17",
-                    "dateSignaTexte": "2022-06-03",
-                    "dateDebutCible": "2999-01-01"
-                  },
-                  {
-                    "textCid": "KALITEXT000044925174",
+                    "textCid": "KALITEXT000047045555",
                     "textTitle": "Régime de prévoyance - art. 1er (VNE)",
                     "linkType": "MODIFIE",
                     "linkOrientation": "cible",
                     "articleNum": "1er",
-                    "articleId": "KALIARTI000044925178",
+                    "articleId": "KALIARTI000047045559",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2999-01-01",
-                    "dateSignaTexte": "2021-10-27",
-                    "dateDebutCible": "2022-01-01"
+                    "datePubliTexte": "2023-01-24",
+                    "dateSignaTexte": "2022-09-29",
+                    "dateDebutCible": "2023-01-01"
                   }
                 ]
               }
@@ -13727,6 +13715,93 @@
                     "dateDebutCible": "2999-01-01"
                   }
                 ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000047045555",
+            "title": "Avenant n° 96 du 29 septembre 2022 relatif au régime de prévoyance",
+            "id": "KALITEXT000047045555",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2023-01-01"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000047045558",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000047045558",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000047045568",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000047045568",
+                    "content": "<p align='left'><br/>Afin de prévenir un déséquilibre financier du régime de prévoyance conventionnel dans la branche d'activité des exploitations frigorifiques, les partenaires sociaux conviennent d'une révision à la hausse des taux de cotisation des garanties prenant effet le 1er janvier 2023.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": []
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000047045559",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000047045559",
+                "content": "<p align='left'>L'article 92 du régime de prévoyance de la convention collective nationale des exploitations frigorifiques, tel que modifié par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000028967578&categorieLien=cid' title='Prévoyance (VE)'>avenant n° 81 du 16 décembre 2013</a>, l'<a href='/affichIDCC.do?cidTexte=KALITEXT000039479559&categorieLien=cid' title='Régime de prévoyance (VE)'>avenant n° 89 du 16 juillet 2019</a>, et l'<a href='/affichIDCC.do?cidTexte=KALITEXT000044925174&categorieLien=cid' title='Prévoyance (VE)'>avenant n° 92 du 27 octobre 2021 </a>est modifié comme suit :</p><p align='center'>« Article 92 </p><p align='left'>Les cotisations sont calculées sur les salaires bruts (tranches A et B) des salariés non-cadres.</p><p align='left'></p><center><table border='1'><tbody><tr><th>Garanties</th><th>Taux contractuel des cotisations [1]</th><th>Part salarié</th><th>Part employeur</th></tr><tr><td align='center'>Décès/ IAD – obsèques</td><td align='center'>0,36 %</td><td align='center'>0,18 %</td><td align='center'>0,18 %</td></tr><tr><td align='center'>Invalidité</td><td align='center'>0,30 %</td><td align='center'>0,15 %</td><td align='center'>0,15 %</td></tr><tr><td align='center'>Incapacité de travail</td><td align='center'>0,24 %</td><td align='center'>0,12 %</td><td align='center'>0,12 %</td></tr><tr><td align='center'>Rente éducation</td><td align='center'>0,16 %</td><td align='center'>0,08 %</td><td align='center'>0,08 %</td></tr><tr><td align='center'>Rente handicap</td><td align='center'>0,03 %</td><td align='center'>0,015 %</td><td align='center'>0,015 %</td></tr><tr><td align='center'>Portabilité</td><td align='center'>0,01 %</td><td align='center'>0,005 %</td><td align='center'>0,005 %</td></tr><tr><td align='center'>Total</td><td align='center'>1,10 %</td><td align='center'>0,55 %</td><td align='center'>0,55 %</td></tr><tr><td colspan='4'>[1] La répartition du total des cotisations est établie sur la base de 50 % à la charge de l'employeur et 50 % à la charge du salarié.</td></tr></tbody></table></center><p></p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Modification de l'article 1er de l'avenant n° 92 du 27 octobre 2021",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000005657149",
+                    "textTitle": "Convention collective nationale du 10 juillet 1956 - art. 92 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "92",
+                    "articleId": "KALIARTI000047047947",
+                    "natureText": "Convention collective nationale ",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "1956-07-10",
+                    "dateDebutCible": "2023-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000047045562",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000047045562",
+                "content": "<p align='left'><br/>Le présent avenant prend effet au 1er janvier 2023.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Date d'effet",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000047045563",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000047045563",
+                "content": "<p align='left'>Le présent avenant est fait en nombre suffisant d'exemplaires pour remise à chacune des organisations signataires et dépôt dans les conditions prévues par le code du travail.</p><p align='left'>Les parties signataires conviennent de demander au ministère du travail, de la solidarité et de la fonction publique, l'extension du présent avenant en application des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-15 (V)'>articles L. 2261-15 et suivants du code du travail</a>.</p><p align='left'>L'Union syndicale nationale des exploitations frigorifiques, 5, rue Kepler, 75116 Paris se charge des formalités nécessaires.</p><p align='left'>Suivant les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>dispositions de l'article L. 2261-23-1 du code du travail</a>, les parties signataires n'ont pas retenu de dispositions spécifiques telles que visées par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-10-1 (V)'>article L. 2231-10-1 du code du travail</a> à l'attention des entreprises de moins de 50 salariés, dès lors que le présent avenant vise à modifier le régime collectif obligatoire de prévoyance dont doivent bénéficier les salariés relevant de la convention collective et ce, quel que soit l'effectif de leur entreprise.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Dépôt. Extension",
+                "lstLienModification": []
               }
             }
           ]
