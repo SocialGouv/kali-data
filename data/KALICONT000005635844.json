@@ -2647,8 +2647,8 @@
                     "cid": "KALIARTI000005842647",
                     "intOrdre": 85898,
                     "id": "KALIARTI000046284270",
-                    "content": "<p>Les indemnités des délégués syndicaux prévues à l'article 4 de la convention collective des laboratoires de biologie médicale sont modifiés de la façon suivante :<br/><p> <br/>\nIndemnisation des délégués syndicaux :<br/><p> <br/>\n1.1.   « Indemnité forfaitaire annexe 11 » : 60 € par jour.<br/><p> <br/>\n1.2.   Repas (hors petit déjeuner) : sur justificatifs, plafond 60 € par repas.<br/><p> <br/>\n1.3.   Nuitée – hôtel et petit déjeuner : sur justificatifs, plafond 220 € par nuitée.<br/><p> <br/>\n1.4.   Remboursement des frais de transport (hors Paris) :<br/>\n– soit billet de train de 2e classe pour les trajets inférieurs à 500 kilomètres aller et retour, sur justificatifs<br/>\n– soit au tarif le plus économique entre le train 1re classe ou l'avion pour les trajets supérieurs à 500 kilomètres aller et retour, sur justificatifs.<br/><p> <br/>\nAuquel s'ajoute un remboursement de frais entre le domicile du participant et la gare ou l'aéroport de départ :<br/>\n– trajet : selon le barème fiscal « Indemnités kilométriques applicable aux voitures » aller/ retour (selon la puissance administrative et le kilométrage annuel) ;<br/>\n– frais de parking, taxi : sur justificatifs.<br/><p> <br/>\nLa demande de remboursement des frais de déplacement devra être accompagnée des titres de transport.<br/>\n– frais de transport Paris (Métro-Bus) : 8 € forfaitaires (sans justificatifs).<br/><p> <br/>\n1.5.   « Indemnité Biologiste annexe 11 » : 350 € par jour.<br/><p> <br/>\n1.6.   Remboursement « salarié » :<br/>\n– soit à l'employeur du maintien de la rémunération (salaires et charges) et temps de trajet de leurs salariés appelés à participer aux réunions. L'employeur devra joindre à sa demande chiffrée (toutes charges comprises) une copie du bulletin de salaire de décembre de l'année N − 1 du salarié ;<br/>\n– soit « indemnité salarié annexe 11 » : 125 € par jour.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "content": "<p>Les indemnités des délégués syndicaux prévues à l'article 4 de la convention collective des laboratoires de biologie médicale sont modifiés de la façon suivante :</p><p>Indemnisation des délégués syndicaux :</p><p>1.1.   « Indemnité forfaitaire annexe 11 » : 60 € par jour.</p><p>1.2.   Repas (hors petit déjeuner) : sur justificatifs, plafond 60 € par repas.</p><p>1.3.   Nuitée – hôtel et petit déjeuner : sur justificatifs, plafond 220 € par nuitée.</p><p>1.4.   Remboursement des frais de transport (hors Paris) :<br/>\n– soit billet de train de 2e classe pour les trajets inférieurs à 500 kilomètres aller et retour, sur justificatifs<br/>\n– soit au tarif le plus économique entre le train 1re classe ou l'avion pour les trajets supérieurs à 500 kilomètres aller et retour, sur justificatifs.</p><p>Auquel s'ajoute un remboursement de frais entre le domicile du participant et la gare ou l'aéroport de départ :<br/>\n– trajet : selon le barème fiscal « Indemnités kilométriques applicable aux voitures » aller/ retour (selon la puissance administrative et le kilométrage annuel) ;<br/>\n– frais de parking, taxi : sur justificatifs.</p><p>La demande de remboursement des frais de déplacement devra être accompagnée des titres de transport.<br/>\n– frais de transport Paris (Métro-Bus) : 8 € forfaitaires (sans justificatifs).</p><p>1.5.   « Indemnité Biologiste annexe 11 » : 350 € par jour.</p><p>1.6.   Remboursement « salarié » :<br/>\n– soit à l'employeur du maintien de la rémunération (salaires et charges) et temps de trajet de leurs salariés appelés à participer aux réunions. L'employeur devra joindre à sa demande chiffrée (toutes charges comprises) une copie du bulletin de salaire de décembre de l'année N − 1 du salarié ;<br/>\n– soit « indemnité salarié annexe 11 » : 125 € par jour.</p>",
+                    "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
                         "textCid": "KALITEXT000046280425",
@@ -2661,6 +2661,18 @@
                         "datePubliTexte": "2022-09-12",
                         "dateSignaTexte": "2022-04-27",
                         "dateDebutCible": "2022-07-07"
+                      },
+                      {
+                        "textCid": "JORFTEXT000047120680",
+                        "textTitle": "Arrêté du 3 février 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047120682",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-02-11",
+                        "dateSignaTexte": "2023-02-03",
+                        "dateDebutCible": "2999-01-01"
                       }
                     ]
                   }
@@ -12485,7 +12497,7 @@
             "cid": "KALITEXT000046280425",
             "title": "Accord du 27 avril 2022 à l'accord du 4 février 1997 relatif à la modification de l'annexe XI « Indemnisation des délégués syndicaux »",
             "id": "KALITEXT000046280425",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2022-07-07"
           },
           "children": [
@@ -12496,8 +12508,20 @@
                 "intOrdre": 524287,
                 "id": "KALIARTI000046280428",
                 "content": "<p align='left'>Les indemnités des délégués syndicaux prévues à l'article 4 de la convention collective des laboratoires de biologie médicale sont modifiés de la façon suivante :<br/><p> <br/>\nIndemnisation des délégués syndicaux :</p><p>1.1.   « Indemnité forfaitaire annexe 11 » : 60 € par jour.</p><p>1.2.   Repas (hors petit déjeuner) : sur justificatifs, plafond 60 € par repas.</p><p>1.3.   Nuitée – hôtel et petit déjeuner : sur justificatifs, plafond 220 € par nuitée.</p><p>1.4.   Remboursement des frais de transport (hors Paris) :<br/>\n– soit billet de train de 2e classe pour les trajets inférieurs à 500 kilomètres aller et retour, sur justificatifs<br/>\n– soit au tarif le plus économique entre le train 1re classe ou l'avion pour les trajets supérieurs à 500 kilomètres aller et retour, sur justificatifs.</p><p>Auquel s'ajoute un remboursement de frais entre le domicile du participant et la gare ou l'aéroport de départ :<br/>\n– trajet : selon le barème fiscal « Indemnités kilométriques applicable aux voitures » aller/ retour (selon la puissance administrative et le kilométrage annuel) ;<br/>\n– frais de parking, taxi : sur justificatifs.</p><p>La demande de remboursement des frais de déplacement devra être accompagnée des titres de transport.<br/>\n– frais de transport Paris (Métro-Bus) : 8 € forfaitaires (sans justificatifs).</p><p>1.5.   « Indemnité Biologiste annexe 11 » : 350 € par jour.</p><p>1.6.   Remboursement « salarié » :<br/>\n– soit à l'employeur du maintien de la rémunération (salaires et charges) et temps de trajet de leurs salariés appelés à participer aux réunions. L'employeur devra joindre à sa demande chiffrée (toutes charges comprises) une copie du bulletin de salaire de décembre de l'année N − 1 du salarié ;<br/>\n– soit « indemnité salarié annexe 11 » : 125 € par jour.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047120680",
+                    "textTitle": "Arrêté du 3 février 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047120682",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-02-11",
+                    "dateSignaTexte": "2023-02-03",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000005676227",
                     "textTitle": "Annexe XI indemnisation des délégués syndicaux - art. (VNE)",
@@ -12521,7 +12545,7 @@
             "cid": "KALITEXT000047011029",
             "title": "Avenant du 6 octobre 2022 à l'accord du 27 avril 2022 relatif à la modification de l'annexe XI « Indemnisation des délégués syndicaux »",
             "id": "KALITEXT000047011029",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2022-11-23"
           },
           "children": [
@@ -12532,8 +12556,21 @@
                 "intOrdre": 524287,
                 "id": "KALIARTI000047011032",
                 "content": "<p align='left'><br/>Les parties signataires n'ont pas prévu de stipulations spécifiques pour les entreprises de moins de 50 salariés, dans la mesure où l'indemnisation des délégués syndicaux a vocation à s'appliquer sans aucune condition d'effectifs.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047120680",
+                    "textTitle": "Arrêté du 3 février 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047120682",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-02-11",
+                    "dateSignaTexte": "2023-02-03",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
