@@ -3141,10 +3141,34 @@
                     "num": "8.1",
                     "intOrdre": 1572861,
                     "id": "KALIARTI000046587603",
-                    "content": "<p align='left'>Le salaire de référence à prendre en compte pour le calcul des prestations est défini selon les tranches de rémunération T1 et T2. Il s'agit du salaire annuel brut. Les prestations invalidités sont, en tout état de cause, limitées à 2 PASS.</p><p align='left'>Le montant de la rente qui varie selon la catégorie reconnue par la sécurité sociale, est égale, sous déduction des prestations versées par la sécurité sociale, à :<br/>\n– 1re catégorie : 40 % du salaire annuel brut de référence ;<br/>\n– 2e catégorie : 75 % du salaire annuel brut de référence, ;<br/>\n– 3e catégorie : 75 % du salaire annuel brut de référence,<br/>\nsans pouvoir excéder le salaire net que le participant aurait perçu en activité. <a shape='rect' href='https://bdjv2-prod.rie.gouv.fr/bdj/accueil.do#RENVOI_KALIARTI000046582107_1'> (1)</a></p><p align='left'><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000046582107_1'></a>(1) Alinéa exclu de l'extension en ce qu'il contrevient à la jurisprudence de la Cour de cassation (Cass. soc., 11 juill. 2000, n° 98-40.696, n° 3389 F - P + B).<br/>\n(Arrêté du 13 décembre 2022 - art. 1)</em></font></p>",
+                    "content": "<p align='left'>Le salaire de référence à prendre en compte pour le calcul des prestations est défini selon les tranches de rémunération T1 et T2. Il s'agit du salaire annuel brut. Les prestations invalidités sont, en tout état de cause, limitées à 2 PASS.</p><p align='left'>Le montant de la rente qui varie selon la catégorie reconnue par la sécurité sociale, est égale, sous déduction des prestations versées par la sécurité sociale, à :<br/>\n– 1re catégorie : 40 % du salaire annuel brut de référence ;<br/>\n– 2e catégorie : 75 % du salaire annuel brut de référence, ;<br/>\n– 3e catégorie : 75 % du salaire annuel brut de référence,<br/>\nsans pouvoir excéder le salaire net que le participant aurait perçu en activité.</p><p align='left'></p>",
                     "etat": "VIGUEUR_ETEN",
                     "surtitre": "Montant de la prestation",
                     "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000047008275",
+                        "textTitle": "Arrêté du 13 décembre 2022 - art. 1, v. init.",
+                        "linkType": "EXTENSION",
+                        "linkOrientation": "source",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047008278",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-01-19",
+                        "dateSignaTexte": "2022-12-13",
+                        "dateDebutCible": "2999-01-01"
+                      },
+                      {
+                        "textCid": "JORFTEXT000047183902",
+                        "textTitle": "Arrêté du 23 janvier 2023 - art. 1, v. init.",
+                        "linkType": "EXTENSION",
+                        "linkOrientation": "source",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047183905",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-02-17",
+                        "dateSignaTexte": "2023-01-23",
+                        "dateDebutCible": "2999-01-01"
+                      },
                       {
                         "textCid": "KALITEXT000046582099",
                         "textTitle": "Régime de prévoyance - art. 3 (VNE)",
@@ -3153,21 +3177,9 @@
                         "articleNum": "3",
                         "articleId": "KALIARTI000046582107",
                         "natureText": "Accord",
-                        "datePubliTexte": "2022-11-21",
+                        "datePubliTexte": "2999-01-01",
                         "dateSignaTexte": "2021-01-22",
                         "dateDebutCible": "2021-01-01"
-                      },
-                      {
-                        "textCid": "JORFTEXT000047008275",
-                        "textTitle": "Arrêté du 13 décembre 2022 - art. 1, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
-                        "articleNum": "1",
-                        "articleId": "JORFARTI000047008278",
-                        "natureText": "ARRETE",
-                        "datePubliTexte": "2023-01-19",
-                        "dateSignaTexte": "2022-12-13",
-                        "dateDebutCible": "2999-01-01"
                       }
                     ]
                   }
@@ -12045,13 +12057,25 @@
                       {
                         "textCid": "JORFTEXT000047008275",
                         "textTitle": "Arrêté du 13 décembre 2022 - art. 1, v. init.",
-                        "linkType": "ETEND",
-                        "linkOrientation": "cible",
+                        "linkType": "EXTENSION",
+                        "linkOrientation": "source",
                         "articleNum": "1",
                         "articleId": "JORFARTI000047008278",
                         "natureText": "ARRETE",
                         "datePubliTexte": "2023-01-19",
                         "dateSignaTexte": "2022-12-13",
+                        "dateDebutCible": "2999-01-01"
+                      },
+                      {
+                        "textCid": "JORFTEXT000047183902",
+                        "textTitle": "Arrêté du 23 janvier 2023 - art. 1, v. init.",
+                        "linkType": "EXTENSION",
+                        "linkOrientation": "source",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047183905",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-02-17",
+                        "dateSignaTexte": "2023-01-23",
                         "dateDebutCible": "2999-01-01"
                       }
                     ]
@@ -12085,13 +12109,25 @@
                   {
                     "textCid": "JORFTEXT000047008275",
                     "textTitle": "Arrêté du 13 décembre 2022 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
                     "articleNum": "1",
                     "articleId": "JORFARTI000047008278",
                     "natureText": "ARRETE",
                     "datePubliTexte": "2023-01-19",
                     "dateSignaTexte": "2022-12-13",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000047183902",
+                    "textTitle": "Arrêté du 23 janvier 2023 - art. 1, v. init.",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047183905",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-02-17",
+                    "dateSignaTexte": "2023-01-23",
                     "dateDebutCible": "2999-01-01"
                   }
                 ]
@@ -12123,13 +12159,25 @@
                   {
                     "textCid": "JORFTEXT000047008275",
                     "textTitle": "Arrêté du 13 décembre 2022 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
                     "articleNum": "1",
                     "articleId": "JORFARTI000047008278",
                     "natureText": "ARRETE",
                     "datePubliTexte": "2023-01-19",
                     "dateSignaTexte": "2022-12-13",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000047183902",
+                    "textTitle": "Arrêté du 23 janvier 2023 - art. 1, v. init.",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047183905",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-02-17",
+                    "dateSignaTexte": "2023-01-23",
                     "dateDebutCible": "2999-01-01"
                   }
                 ]
@@ -12142,7 +12190,7 @@
                 "num": "3",
                 "intOrdre": 2097148,
                 "id": "KALIARTI000046582107",
-                "content": "<p align='left'>L'article 8.1 de l'accord relatif au montant des prestations invalidité est modifié comme suit :</p><p>« Le salaire de référence à prendre en compte pour le calcul des prestations est défini selon les tranches de rémunération T1 et T2. Il s'agit du salaire annuel brut. Les prestations invalidités sont, en tout état de cause, limitées à 2 PASS.</p><p>Le montant de la rente qui varie selon la catégorie reconnue par la sécurité sociale, est égale, sous déduction des prestations versées par la sécurité sociale, à :<br/>\n– 1re catégorie : 40 % du salaire annuel brut de référence ;<br/>\n– 2e catégorie : 75 % du salaire annuel brut de référence, ;<br/>\n– 3e catégorie : 75 % du salaire annuel brut de référence,<br/>\nsans pouvoir excéder le salaire net que le participant aurait perçu en activité. <a shape='rect' href='#RENVOI_KALIARTI000046582107_1'> (1)</a> »</p><p><em>Les autres dispositions demeurent inchangées.</em></p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000046582107_1'></a>(1) Alinéa exclu de l'extension en ce qu'il contrevient à la jurisprudence de la Cour de cassation (Cass. soc., 11 juill. 2000, n° 98-40.696, n° 3389 F - P + B).<br/>\n(Arrêté du 13 décembre 2022 - art. 1)</em></font></p>",
+                "content": "<p align='left'>L'article 8.1 de l'accord relatif au montant des prestations invalidité est modifié comme suit :</p><p>« Le salaire de référence à prendre en compte pour le calcul des prestations est défini selon les tranches de rémunération T1 et T2. Il s'agit du salaire annuel brut. Les prestations invalidités sont, en tout état de cause, limitées à 2 PASS.</p><p>Le montant de la rente qui varie selon la catégorie reconnue par la sécurité sociale, est égale, sous déduction des prestations versées par la sécurité sociale, à :<br/>\n– 1re catégorie : 40 % du salaire annuel brut de référence ;<br/>\n– 2e catégorie : 75 % du salaire annuel brut de référence, ;<br/>\n– 3e catégorie : 75 % du salaire annuel brut de référence,<br/>\nsans pouvoir excéder le salaire net que le participant aurait perçu en activité. »</p><p>Les autres dispositions demeurent inchangées.</p><p></p>",
                 "etat": "VIGUEUR_ETEN",
                 "surtitre": "Modification de la garantie invalidité",
                 "lstLienModification": [
@@ -12161,13 +12209,25 @@
                   {
                     "textCid": "JORFTEXT000047008275",
                     "textTitle": "Arrêté du 13 décembre 2022 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
                     "articleNum": "1",
                     "articleId": "JORFARTI000047008278",
                     "natureText": "ARRETE",
                     "datePubliTexte": "2023-01-19",
                     "dateSignaTexte": "2022-12-13",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000047183902",
+                    "textTitle": "Arrêté du 23 janvier 2023 - art. 1, v. init.",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047183905",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-02-17",
+                    "dateSignaTexte": "2023-01-23",
                     "dateDebutCible": "2999-01-01"
                   }
                 ]
@@ -12187,13 +12247,25 @@
                   {
                     "textCid": "JORFTEXT000047008275",
                     "textTitle": "Arrêté du 13 décembre 2022 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
                     "articleNum": "1",
                     "articleId": "JORFARTI000047008278",
                     "natureText": "ARRETE",
                     "datePubliTexte": "2023-01-19",
                     "dateSignaTexte": "2022-12-13",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000047183902",
+                    "textTitle": "Arrêté du 23 janvier 2023 - art. 1, v. init.",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047183905",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-02-17",
+                    "dateSignaTexte": "2023-01-23",
                     "dateDebutCible": "2999-01-01"
                   }
                 ]
@@ -12206,20 +12278,32 @@
                 "num": "5",
                 "intOrdre": 3145722,
                 "id": "KALIARTI000046582111",
-                "content": "<p align='left'><br/>Les dispositions du présent avenant prennent effet le 1er janvier 2021 pour une durée indéterminée.</p>",
+                "content": "<p align='left'>Les dispositions du présent avenant prennent effet le 1er janvier 2021 pour une durée indéterminée.</p><p align='left'><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000046582107_1'></a>(1) Article exclu de l'extension en ce qu'il contrevient à la jurisprudence de la Cour de cassation (Cass. soc., 11 juill. 2000, n° 98-40.696, n° 3389 F - P + B).<br/>\n(Arrêté du 13 décembre 2022 - art. 1, modifié par arrêté du 23 janvier 2023 - art. 1)</em></font></p>",
                 "etat": "VIGUEUR_ETEN",
                 "surtitre": "Date d'effet de l'avenant et durée",
                 "lstLienModification": [
                   {
                     "textCid": "JORFTEXT000047008275",
                     "textTitle": "Arrêté du 13 décembre 2022 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
                     "articleNum": "1",
                     "articleId": "JORFARTI000047008278",
                     "natureText": "ARRETE",
                     "datePubliTexte": "2023-01-19",
                     "dateSignaTexte": "2022-12-13",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000047183902",
+                    "textTitle": "Arrêté du 23 janvier 2023 - art. 1, v. init.",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047183905",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-02-17",
+                    "dateSignaTexte": "2023-01-23",
                     "dateDebutCible": "2999-01-01"
                   }
                 ]
@@ -12239,13 +12323,25 @@
                   {
                     "textCid": "JORFTEXT000047008275",
                     "textTitle": "Arrêté du 13 décembre 2022 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
                     "articleNum": "1",
                     "articleId": "JORFARTI000047008278",
                     "natureText": "ARRETE",
                     "datePubliTexte": "2023-01-19",
                     "dateSignaTexte": "2022-12-13",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000047183902",
+                    "textTitle": "Arrêté du 23 janvier 2023 - art. 1, v. init.",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047183905",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-02-17",
+                    "dateSignaTexte": "2023-01-23",
                     "dateDebutCible": "2999-01-01"
                   }
                 ]
@@ -12265,13 +12361,25 @@
                   {
                     "textCid": "JORFTEXT000047008275",
                     "textTitle": "Arrêté du 13 décembre 2022 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
                     "articleNum": "1",
                     "articleId": "JORFARTI000047008278",
                     "natureText": "ARRETE",
                     "datePubliTexte": "2023-01-19",
                     "dateSignaTexte": "2022-12-13",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000047183902",
+                    "textTitle": "Arrêté du 23 janvier 2023 - art. 1, v. init.",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047183905",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-02-17",
+                    "dateSignaTexte": "2023-01-23",
                     "dateDebutCible": "2999-01-01"
                   }
                 ]
@@ -12291,13 +12399,25 @@
                   {
                     "textCid": "JORFTEXT000047008275",
                     "textTitle": "Arrêté du 13 décembre 2022 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
                     "articleNum": "1",
                     "articleId": "JORFARTI000047008278",
                     "natureText": "ARRETE",
                     "datePubliTexte": "2023-01-19",
                     "dateSignaTexte": "2022-12-13",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000047183902",
+                    "textTitle": "Arrêté du 23 janvier 2023 - art. 1, v. init.",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047183905",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-02-17",
+                    "dateSignaTexte": "2023-01-23",
                     "dateDebutCible": "2999-01-01"
                   }
                 ]
