@@ -2231,7 +2231,7 @@
                 "intOrdre": 42949,
                 "id": "KALIARTI000047176862",
                 "content": "<p align='center'>Barème des salaires minima horaires</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Coefficients</th><th>Salaires horaires<br/>\n\t\t\tapplicables au 1er octobre 2022</th></tr><tr><td align='center'>135</td><td align='center'>11,11</td></tr><tr><td align='center'>140</td><td align='center'>11,14</td></tr><tr><td align='center'>145</td><td align='center'>11,16</td></tr><tr><td align='center'>150</td><td align='center'>11,19</td></tr><tr><td align='center'>155</td><td align='center'>11,22</td></tr><tr><td align='center'>160</td><td align='center'>11,26</td></tr><tr><td align='center'>165</td><td align='center'>11,31</td></tr><tr><td align='center'>170</td><td align='center'>11,35</td></tr><tr><td align='center'>175</td><td align='center'>11,40</td></tr><tr><td align='center'>180</td><td align='center'>11,45</td></tr><tr><td align='center'>185</td><td align='center'>11,49</td></tr><tr><td align='center'>190</td><td align='center'>11,54</td></tr><tr><td align='center'>195</td><td align='center'>11,67</td></tr><tr><td align='center'>200</td><td align='center'>11,86</td></tr><tr><td align='center'>210</td><td align='center'>12,30</td></tr><tr><td align='center'>220</td><td align='center'>12,72</td></tr><tr><td align='center'>230</td><td align='center'>13,16</td></tr><tr><td align='center'>240</td><td align='center'>13,58</td></tr><tr><td align='center'>250</td><td align='center'>14,01</td></tr><tr><td align='center'>260</td><td align='center'>14,39</td></tr><tr><td align='center'>270</td><td align='center'>14,81</td></tr><tr><td align='center'>280</td><td align='center'>15,21</td></tr><tr><td align='center'>290</td><td align='center'>15,63</td></tr><tr><td align='center'>300</td><td align='center'>16,04</td></tr><tr><td align='center'>310</td><td align='center'>16,47</td></tr><tr><td align='center'>320</td><td align='center'>16,87</td></tr><tr><td align='center'>330</td><td align='center'>17,29</td></tr><tr><td align='center'>340</td><td align='center'>17,72</td></tr><tr><td align='center'>350</td><td align='center'>18,14</td></tr><tr><td align='center'>400</td><td align='center'>20,24</td></tr><tr><td align='center'>500</td><td align='center'>24,47</td></tr><tr><td align='center'>600</td><td align='center'>28,69</td></tr></tbody></table></center>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
                   {
                     "textCid": "KALITEXT000047137370",
@@ -2244,6 +2244,18 @@
                     "datePubliTexte": "2023-02-15",
                     "dateSignaTexte": "2022-09-27",
                     "dateDebutCible": "2022-10-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000047191256",
+                    "textTitle": "Arrêté du 7 février 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047191260",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-02-18",
+                    "dateSignaTexte": "2023-02-07",
+                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -3681,7 +3693,7 @@
                     "intOrdre": 85898,
                     "id": "KALIARTI000047176794",
                     "content": "<p>Tout salarié posté, dont l'horaire se situe entre 5 heures et 22 heures, bénéficie d'une indemnité journalière de poste fixée forfaitairement à 5 euros.</p><p>Ce montant sera revu en même temps que la grille des salaires minima.</p><p>Cette indemnité ne pourra pas se cumuler avec les avantages déjà accordés par les entreprises pour le travail posté de jour sous quelque forme que ce soit.</p><p>Ne bénéficie pas de ces dispositions le personnel dont l'horaire est « à la carte » ou organisé par commodité à la journée dite « continue ».</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
                         "textCid": "KALITEXT000047137370",
@@ -3694,6 +3706,18 @@
                         "datePubliTexte": "2023-02-15",
                         "dateSignaTexte": "2022-09-27",
                         "dateDebutCible": "2022-10-01"
+                      },
+                      {
+                        "textCid": "JORFTEXT000047191256",
+                        "textTitle": "Arrêté du 7 février 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047191260",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-02-18",
+                        "dateSignaTexte": "2023-02-07",
+                        "dateDebutCible": "2999-01-01"
                       }
                     ]
                   }
@@ -10652,7 +10676,7 @@
             "cid": "KALITEXT000047137370",
             "title": "Avenant n° 2022-02 du 27 septembre 2022 relatif aux salaires minima horaires et à l'indemnité journalière de poste",
             "id": "KALITEXT000047137370",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2022-10-01"
           },
           "children": [
@@ -10664,8 +10688,20 @@
                 "intOrdre": 524287,
                 "id": "KALIARTI000047137373",
                 "content": "<p align='left'>Le barème national des salaires minima professionnels garantis, figurant à l'article 58 de la convention collective nationale, est fixé comme suit :</p><p align='center'>Barème des salaires minima horaires</p><p align='right'>(En euros.)</p><p align='left'></p><center><table border='1'><tbody><tr><th>Coefficients</th><th>Salaires horaires<br/>\n\t\t\tapplicables au 1er octobre 2022</th></tr><tr><td align='center'>135</td><td align='center'>11,11</td></tr><tr><td align='center'>140</td><td align='center'>11,14</td></tr><tr><td align='center'>145</td><td align='center'>11,16</td></tr><tr><td align='center'>150</td><td align='center'>11,19</td></tr><tr><td align='center'>155</td><td align='center'>11,22</td></tr><tr><td align='center'>160</td><td align='center'>11,26</td></tr><tr><td align='center'>165</td><td align='center'>11,31</td></tr><tr><td align='center'>170</td><td align='center'>11,35</td></tr><tr><td align='center'>175</td><td align='center'>11,40</td></tr><tr><td align='center'>180</td><td align='center'>11,45</td></tr><tr><td align='center'>185</td><td align='center'>11,49</td></tr><tr><td align='center'>190</td><td align='center'>11,54</td></tr><tr><td align='center'>195</td><td align='center'>11,67</td></tr><tr><td align='center'>200</td><td align='center'>11,86</td></tr><tr><td align='center'>210</td><td align='center'>12,30</td></tr><tr><td align='center'>220</td><td align='center'>12,72</td></tr><tr><td align='center'>230</td><td align='center'>13,16</td></tr><tr><td align='center'>240</td><td align='center'>13,58</td></tr><tr><td align='center'>250</td><td align='center'>14,01</td></tr><tr><td align='center'>260</td><td align='center'>14,39</td></tr><tr><td align='center'>270</td><td align='center'>14,81</td></tr><tr><td align='center'>280</td><td align='center'>15,21</td></tr><tr><td align='center'>290</td><td align='center'>15,63</td></tr><tr><td align='center'>300</td><td align='center'>16,04</td></tr><tr><td align='center'>310</td><td align='center'>16,47</td></tr><tr><td align='center'>320</td><td align='center'>16,87</td></tr><tr><td align='center'>330</td><td align='center'>17,29</td></tr><tr><td align='center'>340</td><td align='center'>17,72</td></tr><tr><td align='center'>350</td><td align='center'>18,14</td></tr><tr><td align='center'>400</td><td align='center'>20,24</td></tr><tr><td align='center'>500</td><td align='center'>24,47</td></tr><tr><td align='center'>600</td><td align='center'>28,69</td></tr></tbody></table></center><p></p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047191256",
+                    "textTitle": "Arrêté du 7 février 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047191260",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-02-18",
+                    "dateSignaTexte": "2023-02-07",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000005670479",
                     "textTitle": "Convention collective nationale du 3 juillet 1997 - art. 58 (VNE)",
@@ -10689,8 +10725,20 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000047137374",
                 "content": "<p align='left'><br/>L'indemnité journalière de poste visée à l'article 5, alinéa 1, de l'annexe I de la convention collective nationale est fixée forfaitairement à 5 euros.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047191256",
+                    "textTitle": "Arrêté du 7 février 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047191260",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-02-18",
+                    "dateSignaTexte": "2023-02-07",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000005670495",
                     "textTitle": "Annexe I Ouvriers - employés - art. 5 (VNE)",
@@ -10714,8 +10762,21 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000047137375",
                 "content": "<p align='left'><br/>Le présent accord concourt à l'amélioration de l'égalité professionnelle entre les femmes et les hommes.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047191256",
+                    "textTitle": "Arrêté du 7 février 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047191260",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-02-18",
+                    "dateSignaTexte": "2023-02-07",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -10726,8 +10787,21 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000047137376",
                 "content": "<p align='left'><br/>Compte tenu de l'objet du présent avenant, le texte ne contient pas de disposition spécifique applicable aux entreprises de moins de 50 salariés.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047191256",
+                    "textTitle": "Arrêté du 7 février 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047191260",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-02-18",
+                    "dateSignaTexte": "2023-02-07",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -10738,8 +10812,21 @@
                 "intOrdre": 2621435,
                 "id": "KALIARTI000047137377",
                 "content": "<p align='left'><br/>Les parties signataires s'engagent à demander, en commun, au ministère du travail, du plein emploi et de l'insertion de faire procéder à l'extension du présent avenant.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047191256",
+                    "textTitle": "Arrêté du 7 février 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047191260",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-02-18",
+                    "dateSignaTexte": "2023-02-07",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
