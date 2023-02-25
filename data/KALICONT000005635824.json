@@ -13172,7 +13172,7 @@
             "cid": "KALITEXT000047212050",
             "title": "Avenant n° 83 du 8 décembre 2022 relatif à la valeur du point conventionnel pour 2023",
             "id": "KALITEXT000047212050",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2023-01-01"
           },
           "children": [
@@ -13183,7 +13183,7 @@
                 "intOrdre": 524287,
                 "title": "Valeur du point conventionnel",
                 "id": "KALISCTA000047212052",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -13193,8 +13193,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000047212054",
                     "content": "<p align='left'><br/>Réunis en commission paritaire permanente de négociation et d'interprétation le 8 décembre 2022, les partenaires sociaux signataires ont convenu de fixer la valeur minimale du point à 16,73 euros sur la base de 151,67 heures, dans le champ de la CCN des cabinets et cliniques vétérinaires (IDCC 1875) et de la CCN des vétérinaires praticiens salariés (annexe VII), impérativement à compter du 1er janvier 2023.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000047201461",
+                        "textTitle": "Arrêté du 8 février 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047201466",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-02-21",
+                        "dateSignaTexte": "2023-02-08",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -13206,7 +13219,7 @@
                 "intOrdre": 1048574,
                 "title": "Mesures spécifiques pour les entreprises de moins de 50 salariés",
                 "id": "KALISCTA000047212053",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -13215,9 +13228,22 @@
                     "cid": "KALIARTI000047212055",
                     "intOrdre": 524287,
                     "id": "KALIARTI000047212055",
-                    "content": "<p align='left'><br/>Pour l'application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>article L. 2261-23-1</a>, compte tenu de la structuration de la branche des vétérinaires praticiens salariés dont les entreprises comptant au moins 50 salariés emploient seulement 0,6 % des salariés (selon les données des DADS 2018), les partenaires sociaux de la branche ont considéré que l'accord relatif aux salaires minimums conventionnels n'avait pas à comporter de règles spécifiques en fonction de la taille de l'entreprise.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "content": "<p align='left'><br/>Pour l'application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>article L. 2261-23-1</a>, compte tenu de la structuration de la branche des vétérinaires praticiens salariés dont les entreprises comptant au moins 50 salariés emploient seulement 0,6 % des salariés (selon les données des DADS 2018), les partenaires sociaux de la branche ont considéré que l'accord relatif aux salaires minimums conventionnels n'avait pas à comporter de règles spécifiques en fonction de la taille de l'entreprise.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000047201461",
+                        "textTitle": "Arrêté du 8 février 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047201466",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-02-21",
+                        "dateSignaTexte": "2023-02-08",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
