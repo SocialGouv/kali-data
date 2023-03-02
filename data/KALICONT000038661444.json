@@ -4515,7 +4515,17 @@
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "data": {
+        "intOrdre": 3,
+        "title": "Textes Salaires",
+        "etat": "VIGUEUR"
+      },
+      "children": [
         {
           "type": "section",
           "data": {
@@ -4568,9 +4578,9 @@
           "type": "section",
           "data": {
             "cid": "KALITEXT000047052061",
-            "title": "Avenant du 7 novembre 2022 relatif aux classifications et minima garantis",
+            "title": "Avenant du 7 novembre 2022 relatif aux minima garantis au 1er janvier 2023",
             "id": "KALITEXT000047052061",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2023-01-01"
           },
           "children": [
@@ -4580,9 +4590,22 @@
                 "cid": "KALIARTI000047052064",
                 "intOrdre": 524287,
                 "id": "KALIARTI000047052064",
-                "content": "<p align='left'>Face à la crise économique exceptionnelle que subissent tant les salariés (hausse du coût de énergétique, carburants, denrées alimentaires …) que les entreprises du secteur (hausse du coût énergétique, d'approvisionnement, environnemental …) les partenaires sociaux du secteur de la presse d'information spécialisés ont estimé essentiel de maintenir le dialogue social à la suite de la conclusion de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000045111152&categorieLien=cid' title='Modification de l'accord du 17 septembre 2021 (annexe III) (VE)'>avenant, en date du 22 octobre 2021</a>, à l'annexe III, de l'accord relatif aux classifications et minima garantis. <br/><p> <br/>Le niveau 1 est ainsi fixé à 1 715 € bruts mensuels avec pour vocation d'éviter le rattrapage par le Smic lors de sa prochaine revalorisation. <br/><p> <br/>S'agissant des niveaux 6 et suivant, il a été décidé de les revaloriser par un montant forfaitaire de 20 € bruts.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'>Face à la crise économique exceptionnelle que subissent tant les salariés (hausse du coût de énergétique, carburants, denrées alimentaires …) que les entreprises du secteur (hausse du coût énergétique, d'approvisionnement, environnemental …) les partenaires sociaux du secteur de la presse d'information spécialisés ont estimé essentiel de maintenir le dialogue social à la suite de la conclusion de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000045111152&categorieLien=cid'>avenant, en date du 22 octobre 2021</a>, à l'annexe III, de l'accord relatif aux classifications et minima garantis.</p><p>Le niveau 1 est ainsi fixé à 1 715 € bruts mensuels avec pour vocation d'éviter le rattrapage par le Smic lors de sa prochaine revalorisation.</p><p>S'agissant des niveaux 6 et suivants, il a été décidé de les revaloriser par un montant forfaitaire de 20 € bruts.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047219657",
+                    "textTitle": "Arrêté du 20 février 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047219660",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-02-24",
+                    "dateSignaTexte": "2023-02-20",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -4592,7 +4615,7 @@
                 "intOrdre": 1048574,
                 "title": "Entrée en vigueur et extension",
                 "id": "KALISCTA000047052065",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -4601,9 +4624,22 @@
                     "cid": "KALIARTI000047052068",
                     "intOrdre": 524287,
                     "id": "KALIARTI000047052068",
-                    "content": "<p align='left'>La nouvelle grille des minima garantis en annexe du présent accord entre en vigueur à compter du 1er janvier 2023. Compte tenu de l'absence de visibilité de l'indice des prix à la consommation, les parties signataires conviennent de se revoir au plus tard à l'issue du 1er trimestre 2023.<br/><p> <br/>\nLes parties conviennent par ailleurs que la FNPS saisira dans les meilleurs délai le ministre du travail, conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901802&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-24 (V)'>dispositions de l'article L. 2261-24 du code du travail</a>, en vue de l'extension du présent accord.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "content": "<p align='left'>La nouvelle grille des minima garantis en annexe du présent accord entre en vigueur à compter du 1er janvier 2023. Compte tenu de l'absence de visibilité de l'indice des prix à la consommation, les parties signataires conviennent de se revoir au plus tard à l'issue du 1er trimestre 2023.</p><p align='left'>Les parties conviennent par ailleurs que la FNPS saisira dans les meilleurs délai le ministre du travail, conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901802&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-24 du code du travail</a>, en vue de l'extension du présent accord.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000047219657",
+                        "textTitle": "Arrêté du 20 février 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047219660",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-02-24",
+                        "dateSignaTexte": "2023-02-20",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -4615,7 +4651,7 @@
                 "intOrdre": 1572861,
                 "title": "Justifications de l'absence de stipulations spécifiques pour les entreprises de moins de 50 salariés",
                 "id": "KALISCTA000047052066",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -4624,9 +4660,22 @@
                     "cid": "KALIARTI000047052070",
                     "intOrdre": 524287,
                     "id": "KALIARTI000047052070",
-                    "content": "<p align='left'><br/>Conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>article L. 2261-23-1 du code du travail</a>, les parties signataires considèrent que, la branche de la presse spécialisée étant composée d'une part non négligeable de petites et très petites entreprises, le présent accord a été négocié en tenant compte des intérêts spécifiques des entreprises de moins de 50 salariés, acteurs majeurs de la branche et à l'origine de sa diversité et de la réalité de son économie.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "content": "<p align='left'><br/>Conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>article L. 2261-23-1 du code du travail</a>, les parties signataires considèrent que, la branche de la presse spécialisée étant composée d'une part non négligeable de petites et très petites entreprises, le présent accord a été négocié en tenant compte des intérêts spécifiques des entreprises de moins de 50 salariés, acteurs majeurs de la branche et à l'origine de sa diversité et de la réalité de son économie.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000047219657",
+                        "textTitle": "Arrêté du 20 février 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047219660",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-02-24",
+                        "dateSignaTexte": "2023-02-20",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -4638,7 +4687,7 @@
                 "intOrdre": 2097148,
                 "title": "Annexe",
                 "id": "KALISCTA000047052067",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -4647,10 +4696,23 @@
                     "cid": "KALIARTI000047052072",
                     "intOrdre": 524287,
                     "id": "KALIARTI000047052072",
-                    "content": "<p align='center'><br/>\nMinima garantis employés, techniciens, agents de maîtrise et cadres</p><p>Les salaires figurant dans la grille de minima garantis correspondent à la rémunération brute mensuelle minimale garantie de chaque salarié pour 151,67 heures de travail, compte tenu de son niveau de qualification et de son ancienneté dans l'entreprise.<br/><p> <br/>\n1er janvier 2023.</p><p align='right'>(En euros.)</p><p></p><center><table border='1'><tbody><tr><th>Niveaux</th><th>Minimum garanti</th><th>À 3 ans 2 %</th><th>À 6 ans 4 %</th><th>À 9 ans et plus 6 %</th></tr><tr><td align='center'>9</td><td align='center'>3 329</td><td align='center'>3 396</td><td align='center'>3 462</td><td align='center'>3 529</td></tr><tr><td align='center'>8</td><td align='center'>3 099</td><td align='center'>3 161</td><td align='center'>3 223</td><td align='center'>3 285</td></tr><tr><td align='center'>7</td><td align='center'>2 726</td><td align='center'>2 781</td><td align='center'>2 835</td><td align='center'>2 890</td></tr><tr><td align='center'>6</td><td align='center'>2 384</td><td align='center'>2 432</td><td align='center'>2 479</td><td align='center'>2 527</td></tr><tr><td align='center'>5</td><td align='center'>2 213</td><td align='center'>2 257</td><td align='center'>2 302</td><td align='center'>2 346</td></tr><tr><td align='center'>4</td><td align='center'>1 977</td><td align='center'>2 016</td><td align='center'>2 056</td><td align='center'>2 096</td></tr><tr><td align='center'>3</td><td align='center'>1 856</td><td align='center'>1 894</td><td align='center'>1 930</td><td align='center'>1 968</td></tr><tr><td align='center'>2</td><td align='center'>1 769</td><td align='center'>1 804</td><td align='center'>1 839</td><td align='center'>1 875</td></tr><tr><td align='center'>1</td><td align='center'>1 715</td><td align='center'>1 749</td><td align='center'>1 784</td><td align='center'>1 818</td></tr></tbody></table></center><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "content": "<p align='center'>Minima garantis employés, techniciens, agents de maîtrise et cadres</p><p>Les salaires figurant dans la grille de minima garantis correspondent à la rémunération brute mensuelle minimale garantie de chaque salarié pour 151,67 heures de travail, compte tenu de son niveau de qualification et de son ancienneté dans l'entreprise.</p><p>1er janvier 2023.</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Niveaux</th><th>Minimum garanti</th><th>À 3 ans 2 %</th><th>À 6 ans 4 %</th><th>À 9 ans et plus 6 %</th></tr><tr><td align='center'>9</td><td align='center'>3 329</td><td align='center'>3 396</td><td align='center'>3 462</td><td align='center'>3 529</td></tr><tr><td align='center'>8</td><td align='center'>3 099</td><td align='center'>3 161</td><td align='center'>3 223</td><td align='center'>3 285</td></tr><tr><td align='center'>7</td><td align='center'>2 726</td><td align='center'>2 781</td><td align='center'>2 835</td><td align='center'>2 890</td></tr><tr><td align='center'>6</td><td align='center'>2 384</td><td align='center'>2 432</td><td align='center'>2 479</td><td align='center'>2 527</td></tr><tr><td align='center'>5</td><td align='center'>2 213</td><td align='center'>2 257</td><td align='center'>2 302</td><td align='center'>2 346</td></tr><tr><td align='center'>4</td><td align='center'>1 977</td><td align='center'>2 016</td><td align='center'>2 056</td><td align='center'>2 096</td></tr><tr><td align='center'>3</td><td align='center'>1 856</td><td align='center'>1 894</td><td align='center'>1 930</td><td align='center'>1 968</td></tr><tr><td align='center'>2</td><td align='center'>1 769</td><td align='center'>1 804</td><td align='center'>1 839</td><td align='center'>1 875</td></tr><tr><td align='center'>1</td><td align='center'>1 715</td><td align='center'>1 749</td><td align='center'>1 784</td><td align='center'>1 818</td></tr></tbody></table></center>",
+                    "etat": "VIGUEUR_ETEN",
                     "surtitre": "Annexe",
-                    "lstLienModification": []
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000047219657",
+                        "textTitle": "Arrêté du 20 février 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047219660",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-02-24",
+                        "dateSignaTexte": "2023-02-20",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
