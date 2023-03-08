@@ -1,3 +1,11 @@
+# [2.505.0](https://github.com/SocialGouv/kali-data/compare/v2.504.0...v2.505.0) (2023-03-08)
+
+
+### Features
+
+* **data:** 20230308_0437 update ([d05986b](https://github.com/SocialGouv/kali-data/commit/d05986b756b812afc348f6e24ffcfd7966c19d96))
+* add IDCC 1413 ([#258](https://github.com/SocialGouv/kali-data/issues/258)) ([880717d](https://github.com/SocialGouv/kali-data/commit/880717d46ed2eafe0fc1109d454d04e624312d29))
+
 # [2.504.0](https://github.com/SocialGouv/kali-data/compare/v2.503.0...v2.504.0) (2023-03-07)
 
 
