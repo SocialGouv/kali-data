@@ -1,3 +1,15 @@
+# [2.520.0](https://github.com/SocialGouv/kali-data/compare/v2.519.0...v2.520.0) (2023-03-30)
+
+
+### Bug Fixes
+
+* **ccn:** changement de nom de la convention Animation ([#260](https://github.com/SocialGouv/kali-data/issues/260)) ([3d0c696](https://github.com/SocialGouv/kali-data/commit/3d0c6966fd0d29a810d1f966ca540e38656bce77))
+
+
+### Features
+
+* **data:** 20230330_1629 update ([1831fa2](https://github.com/SocialGouv/kali-data/commit/1831fa21734f05a6ec29689ec74597d19b5781d8))
+
 # [2.519.0](https://github.com/SocialGouv/kali-data/compare/v2.518.0...v2.519.0) (2023-03-30)
 
 
