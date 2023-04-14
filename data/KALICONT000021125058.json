@@ -2512,7 +2512,7 @@
             "title": "Accord du 11 décembre 2019 relatif au développement du dialogue social",
             "id": "KALITEXT000042245673",
             "etat": "VIGUEUR_ETEN",
-            "modifDate": "2019-12-11"
+            "modifDate": "2023-02-07"
           },
           "children": [
             {
@@ -2545,21 +2545,33 @@
                 "cid": "KALIARTI000042245677",
                 "num": "1er",
                 "intOrdre": 1048574,
-                "id": "KALIARTI000042245677",
-                "content": "<p align='left'>Le présent accord est applicable aux entreprises occupant moins de 11 salariés et exerçant sur le territoire français, y compris dans les DOM, une activité classée dans la nomenclature NAF sous le code 49.32Z.</p>",
+                "id": "KALIARTI000047435298",
+                "content": "<p align='left'>Le présent accord est applicable à l'ensemble des entreprises exerçant sur le territoire français, y compris dans les DROM, et relevant du champ d'application de la présente convention collective. </p><p align='left'><i>Il ne pourra y être dérogé par accord d'entreprises.</i> <a shape='rect' href='#RENVOI_KALIARTI000042245677_1'> (1)</a></p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000042245677_1'></a>(1) Alinéa étendu sous réserve du respect des dispositions de l'article L. 2253-1 du code du travail.  <br/>(Arrêté du 31 mars 2023 - art. 1)</em></font></p>",
                 "etat": "VIGUEUR_ETEN",
                 "surtitre": "Champ d'application",
                 "lstLienModification": [
                   {
-                    "textCid": "JORFTEXT000042866351",
-                    "textTitle": "Arrêté du 26 décembre 2020 - art. 1, v. init.",
+                    "textCid": "KALITEXT000047410655",
+                    "textTitle": "Dialogue social - art. 2 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "2",
+                    "articleId": "KALIARTI000047410660",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2023-04-05",
+                    "dateSignaTexte": "2022-12-07",
+                    "dateDebutCible": "2023-02-07"
+                  },
+                  {
+                    "textCid": "JORFTEXT000047434389",
+                    "textTitle": "Arrêté du 31 mars 2023 - art. 1, v. init.",
                     "linkType": "ETEND",
                     "linkOrientation": "cible",
                     "articleNum": "1",
-                    "articleId": "JORFARTI000042866355",
+                    "articleId": "JORFARTI000047434393",
                     "natureText": "ARRETE",
-                    "datePubliTexte": "2021-01-06",
-                    "dateSignaTexte": "2020-12-26",
+                    "datePubliTexte": "2023-04-13",
+                    "dateSignaTexte": "2023-03-31",
                     "dateDebutCible": "2999-01-01"
                   }
                 ]
@@ -4164,6 +4176,160 @@
                 "content": "<p align='right'>Clichy, le 29 juin 2022 </p><p align='left'>Chambre syndicale nationale des entreprises de remise et de tourisme (CSNERT), 31, rue de Neuilly, 92110 Clichy </p><p align='left'>Monsieur le directeur, </p><p align='left'>À l'issue du récent cycle de mesure de la représentativité patronale, la chambre syndicale nationale des entreprises de remise et de tourisme (CSNERT) a été reconnue représentative par l'arrêté de représentativité du 13 décembre 2021 fixant la liste des organisations professionnelles d'employeurs reconnues représentatives dans la convention collective nationale des taxis. </p><p align='left'>Par la présente, la CSNERT vous fait part de son adhésion à la <a href='/affichIDCC.do?cidTexte=KALITEXT000021125063&categorieLien=cid' title='Convention collective nationale des taxis  (VE)'>convention collective des taxis du 11 septembre 2001</a> (IDCC 2219), en l'état et en l'état seulement de son champ d'application professionnel, étendue par arrêté du 27 mars 2019 (JO du 4 avril 2019) ainsi qu'à l'ensemble de ses avenants et accords rattachés en vigueur. </p><p align='left'>Nous notifions également notre adhésion à l'ensemble des autres organisations syndicales et d'employeurs, signataires et représentatives dans le champ de cette convention. </p><p align='left'>Une déclaration de l'adhésion à la convention collective des taxis sera également faite auprès de la direction générale du travail et du secrétariat-greffe du conseil de prud'hommes de Paris. </p><p align='left'>Nous vous prions de croire, Monsieur le directeur, en l'assurance de notre respectueuse considération. </p><p align='right'>Président</p>",
                 "etat": "VIGUEUR",
                 "lstLienModification": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000047410655",
+            "title": "Avenant n° 1 du 7 décembre 2022 à l'accord du 11 décembre 2019 relatif au développement du dialogue social",
+            "id": "KALITEXT000047410655",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2023-02-07"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000047410658",
+                "num": "1er",
+                "intOrdre": 524287,
+                "id": "KALIARTI000047410658",
+                "content": "<p align='left'><br/>Le présent avenant annule et remplace l'article 1er de l'accord du 11 décembre 2019 relatif au dialogue social à la convention collective taxis 4932Z.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Modification du champ d'application",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047434389",
+                    "textTitle": "Arrêté du 31 mars 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047434393",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-04-13",
+                    "dateSignaTexte": "2023-03-31",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000047410660",
+                "num": "2",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000047410660",
+                "content": "<p align='left'>L'<a href='/affichIDCC.do?cidTexte=KALITEXT000042245673&categorieLien=cid'>accord du 11 décembre 2019 </a>relatif au dialogue social dans la branche est applicable à l'ensemble des entreprises exerçant sur le territoire français, y compris dans les DROM, et relevant du champ d'application de la présente convention collective. </p><p align='left'><i>Il ne pourra y être dérogé par accord d'entreprises.</i> <a shape='rect' href='#RENVOI_KALIARTI000047410660_1'> (1)</a></p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000047410660_1'></a>(1) Alinéa étendu sous réserve du respect des dispositions de l'article L. 2253-1 du code du travail.  <br/>(Arrêté du 31 mars 2023 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Nouveau champ d'application",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047434389",
+                    "textTitle": "Arrêté du 31 mars 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047434393",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-04-13",
+                    "dateSignaTexte": "2023-03-31",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000042245673",
+                    "textTitle": "Dialogue social - art. 1er (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "1er",
+                    "articleId": "KALIARTI000047435298",
+                    "natureText": "Accord",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2019-12-11",
+                    "dateDebutCible": "2023-02-07"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000047410662",
+                "num": "3",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000047410662",
+                "content": "<p align='left'>Le présent accord est conclu pour une durée indéterminée.</p><p align='left'>Le présent accord entrera en vigueur passé les délais légaux relatifs au droit d'opposition.</p><p align='left'>Il fera l'objet des formalités d'extension prévues par les dispositions légales.</p><p align='left'>Il est établi en un nombre suffisant d'exemplaires pour être remis à chaque organisation syndicale et patronale représentative au niveau de la branche et pour le dépôt auprès des services centraux du ministre chargé du travail, à la direction générale du travail et au conseil de prud'hommes de Paris, dans les conditions légales et réglementaires.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Entrée en vigueur. Dépôt. Extension",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047434389",
+                    "textTitle": "Arrêté du 31 mars 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047434393",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-04-13",
+                    "dateSignaTexte": "2023-03-31",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000047410663",
+                "num": "4",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000047410663",
+                "content": "<p align='left'><br/>L'adhésion au présent accord se fait dans les conditions prévues par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901781&dateTexte=&categorieLien=cid'>article L. 2261-3 du code du travail</a>.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Adhésion",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047434389",
+                    "textTitle": "Arrêté du 31 mars 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047434393",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-04-13",
+                    "dateSignaTexte": "2023-03-31",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000047410665",
+                "num": "5",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000047410665",
+                "content": "<p align='left'>Le présent accord pourra être révisé selon les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-7 du code du travail</a>.</p><p align='left'>Il pourra être dénoncé dans les conditions prévues par le code du travail, en respectant un préavis de trois mois.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Révision. Dénonciation",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047434389",
+                    "textTitle": "Arrêté du 31 mars 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047434393",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-04-13",
+                    "dateSignaTexte": "2023-03-31",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
