@@ -3348,8 +3348,8 @@
                 "num": "92",
                 "intOrdre": 2147221503,
                 "id": "KALIARTI000047047947",
-                "content": "<p align='left'>Les cotisations sont calculées sur les salaires bruts (tranches A et B) des salariés non-cadres.</p><center><table border='1'><tbody><tr><th>Garanties</th><th>Taux contractuel des cotisations [1]</th><th>Part salarié</th><th>Part employeur</th></tr><tr><td align='center'>Décès/ IAD – obsèques</td><td align='center'>0,36 %</td><td align='center'>0,18 %</td><td align='center'>0,18 %</td></tr><tr><td align='center'>Invalidité</td><td align='center'>0,30 %</td><td align='center'>0,15 %</td><td align='center'>0,15 %</td></tr><tr><td align='center'>Incapacité de travail</td><td align='center'>0,24 %</td><td align='center'>0,12 %</td><td align='center'>0,12 %</td></tr><tr><td align='center'>Rente éducation</td><td align='center'>0,16 %</td><td align='center'>0,08 %</td><td align='center'>0,08 %</td></tr><tr><td align='center'>Rente handicap</td><td align='center'>0,03 %</td><td align='center'>0,015 %</td><td align='center'>0,015 %</td></tr><tr><td align='center'>Portabilité</td><td align='center'>0,01 %</td><td align='center'>0,005 %</td><td align='center'>0,005 %</td></tr><tr><td align='center'>Total</td><td align='center'>1,10 %</td><td align='center'>0,55 %</td><td align='center'>0,55 %</td></tr><tr><td colspan='4'>[1] La répartition du total des cotisations est établie sur la base de 50 % à la charge de l'employeur et 50 % à la charge du salarié.</td></tr></tbody></table></center>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Les cotisations sont calculées sur les salaires bruts (tranches A et B) des salariés non-cadres.</p><center><table border='1'><tbody><tr><th>Garanties</th><th>Taux contractuel des cotisations [1]</th><th>Part salarié</th><th>Part employeur</th></tr><tr><td align='center'>Décès/ IAD – obsèques</td><td align='center'>0,36 %</td><td align='center'>0,18 %</td><td align='center'>0,18 %</td></tr><tr><td align='center'>Invalidité</td><td align='center'>0,30 %</td><td align='center'>0,15 %</td><td align='center'>0,15 %</td></tr><tr><td align='center'>Incapacité de travail</td><td align='center'>0,24 %</td><td align='center'>0,12 %</td><td align='center'>0,12 %</td></tr><tr><td align='center'>Rente éducation</td><td align='center'>0,16 %</td><td align='center'>0,08 %</td><td align='center'>0,08 %</td></tr><tr><td align='center'>Rente handicap</td><td align='center'>0,03 %</td><td align='center'>0,015 %</td><td align='center'>0,015 %</td></tr><tr><td align='center'>Portabilité</td><td align='center'>0,01 %</td><td align='center'>0,005 %</td><td align='center'>0,005 %</td></tr><tr><td align='center'>Total</td><td align='center'>1,10 %</td><td align='center'>0,55 %</td><td align='center'>0,55 %</td></tr><tr><td colspan='4'>[1] La répartition du total des cotisations est établie sur la base de 50 % à la charge de l'employeur et 50 % à la charge du salarié.</td></tr></tbody></table></center><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000025127517_1'></a>(1) Article étendu sous réserve de l'application de l'article R. 242-1-1 du code de la sécurité sociale, dans sa rédaction en vigueur depuis le 1er janvier 2022 et de l'application des stipulations de l'accord national interprofessionnel du 17 novembre 2017 instituant le régime AGIRC-ARRCO de retraite complémentaire et de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres, étendu par arrêté du 24 avril 2018.  <br/>(Arrêté du 5 avril 2023 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Cotisations",
                 "lstLienModification": [
                   {
@@ -3363,6 +3363,18 @@
                     "datePubliTexte": "2023-01-24",
                     "dateSignaTexte": "2022-09-29",
                     "dateDebutCible": "2023-01-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000047483696",
+                    "textTitle": "Arrêté du 5 avril 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047483699",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-04-25",
+                    "dateSignaTexte": "2023-04-05",
+                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -13725,7 +13737,7 @@
             "cid": "KALITEXT000047045555",
             "title": "Avenant n° 96 du 29 septembre 2022 relatif au régime de prévoyance",
             "id": "KALITEXT000047045555",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2023-01-01"
           },
           "children": [
@@ -13736,7 +13748,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000047045558",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -13746,8 +13758,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000047045568",
                     "content": "<p align='left'><br/>Afin de prévenir un déséquilibre financier du régime de prévoyance conventionnel dans la branche d'activité des exploitations frigorifiques, les partenaires sociaux conviennent d'une révision à la hausse des taux de cotisation des garanties prenant effet le 1er janvier 2023.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000047483696",
+                        "textTitle": "Arrêté du 5 avril 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047483699",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-04-25",
+                        "dateSignaTexte": "2023-04-05",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -13759,10 +13784,22 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000047045559",
-                "content": "<p align='left'>L'article 92 du régime de prévoyance de la convention collective nationale des exploitations frigorifiques, tel que modifié par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000028967578&categorieLien=cid' title='Prévoyance (VE)'>avenant n° 81 du 16 décembre 2013</a>, l'<a href='/affichIDCC.do?cidTexte=KALITEXT000039479559&categorieLien=cid' title='Régime de prévoyance (VE)'>avenant n° 89 du 16 juillet 2019</a>, et l'<a href='/affichIDCC.do?cidTexte=KALITEXT000044925174&categorieLien=cid' title='Prévoyance (VE)'>avenant n° 92 du 27 octobre 2021 </a>est modifié comme suit :</p><p align='center'>« Article 92 </p><p align='left'>Les cotisations sont calculées sur les salaires bruts (tranches A et B) des salariés non-cadres.</p><p align='left'></p><center><table border='1'><tbody><tr><th>Garanties</th><th>Taux contractuel des cotisations [1]</th><th>Part salarié</th><th>Part employeur</th></tr><tr><td align='center'>Décès/ IAD – obsèques</td><td align='center'>0,36 %</td><td align='center'>0,18 %</td><td align='center'>0,18 %</td></tr><tr><td align='center'>Invalidité</td><td align='center'>0,30 %</td><td align='center'>0,15 %</td><td align='center'>0,15 %</td></tr><tr><td align='center'>Incapacité de travail</td><td align='center'>0,24 %</td><td align='center'>0,12 %</td><td align='center'>0,12 %</td></tr><tr><td align='center'>Rente éducation</td><td align='center'>0,16 %</td><td align='center'>0,08 %</td><td align='center'>0,08 %</td></tr><tr><td align='center'>Rente handicap</td><td align='center'>0,03 %</td><td align='center'>0,015 %</td><td align='center'>0,015 %</td></tr><tr><td align='center'>Portabilité</td><td align='center'>0,01 %</td><td align='center'>0,005 %</td><td align='center'>0,005 %</td></tr><tr><td align='center'>Total</td><td align='center'>1,10 %</td><td align='center'>0,55 %</td><td align='center'>0,55 %</td></tr><tr><td colspan='4'>[1] La répartition du total des cotisations est établie sur la base de 50 % à la charge de l'employeur et 50 % à la charge du salarié.</td></tr></tbody></table></center><p></p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>L'article 92 du régime de prévoyance de la convention collective nationale des exploitations frigorifiques, tel que modifié par l'<a href='/affichIDCC.do?cidTexte=KALITEXT000028967578&categorieLien=cid'>avenant n° 81 du 16 décembre 2013</a>, l'<a href='/affichIDCC.do?cidTexte=KALITEXT000039479559&categorieLien=cid'>avenant n° 89 du 16 juillet 2019</a>, et l'<a href='/affichIDCC.do?cidTexte=KALITEXT000044925174&categorieLien=cid'>avenant n° 92 du 27 octobre 2021 </a>est modifié comme suit :</p><p align='center'>« Article 92 </p><p align='left'>Les cotisations sont calculées sur les salaires bruts (tranches A et B) des salariés non-cadres.</p><p align='left'></p><center><table border='1'><tbody><tr><th>Garanties</th><th>Taux contractuel des cotisations [1]</th><th>Part salarié</th><th>Part employeur</th></tr><tr><td align='center'>Décès/ IAD – obsèques</td><td align='center'>0,36 %</td><td align='center'>0,18 %</td><td align='center'>0,18 %</td></tr><tr><td align='center'>Invalidité</td><td align='center'>0,30 %</td><td align='center'>0,15 %</td><td align='center'>0,15 %</td></tr><tr><td align='center'>Incapacité de travail</td><td align='center'>0,24 %</td><td align='center'>0,12 %</td><td align='center'>0,12 %</td></tr><tr><td align='center'>Rente éducation</td><td align='center'>0,16 %</td><td align='center'>0,08 %</td><td align='center'>0,08 %</td></tr><tr><td align='center'>Rente handicap</td><td align='center'>0,03 %</td><td align='center'>0,015 %</td><td align='center'>0,015 %</td></tr><tr><td align='center'>Portabilité</td><td align='center'>0,01 %</td><td align='center'>0,005 %</td><td align='center'>0,005 %</td></tr><tr><td align='center'>Total</td><td align='center'>1,10 %</td><td align='center'>0,55 %</td><td align='center'>0,55 %</td></tr><tr><td colspan='4'>[1] La répartition du total des cotisations est établie sur la base de 50 % à la charge de l'employeur et 50 % à la charge du salarié.</td></tr></tbody></table></center><p></p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000047045559_1'></a>(1) L'article 1er est étendu sous réserve de l'application de l'article R. 242-1-1 du code de la sécurité sociale, dans sa rédaction en vigueur depuis le 1er janvier 2022 et de l'application des stipulations de l'accord national interprofessionnel du 17 novembre 2017 instituant le régime AGIRC-ARRCO de retraite complémentaire et de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres, étendu par arrêté du 24 avril 2018.  <br/>(Arrêté du 5 avril 2023 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Modification de l'article 1er de l'avenant n° 92 du 27 octobre 2021",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047483696",
+                    "textTitle": "Arrêté du 5 avril 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047483699",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-04-25",
+                    "dateSignaTexte": "2023-04-05",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000005657149",
                     "textTitle": "Convention collective nationale du 10 juillet 1956 - art. 92 (VNE)",
@@ -13786,9 +13823,22 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000047045562",
                 "content": "<p align='left'><br/>Le présent avenant prend effet au 1er janvier 2023.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Date d'effet",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047483696",
+                    "textTitle": "Arrêté du 5 avril 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047483699",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-04-25",
+                    "dateSignaTexte": "2023-04-05",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -13798,10 +13848,23 @@
                 "num": "3",
                 "intOrdre": 2097148,
                 "id": "KALIARTI000047045563",
-                "content": "<p align='left'>Le présent avenant est fait en nombre suffisant d'exemplaires pour remise à chacune des organisations signataires et dépôt dans les conditions prévues par le code du travail.</p><p align='left'>Les parties signataires conviennent de demander au ministère du travail, de la solidarité et de la fonction publique, l'extension du présent avenant en application des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-15 (V)'>articles L. 2261-15 et suivants du code du travail</a>.</p><p align='left'>L'Union syndicale nationale des exploitations frigorifiques, 5, rue Kepler, 75116 Paris se charge des formalités nécessaires.</p><p align='left'>Suivant les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>dispositions de l'article L. 2261-23-1 du code du travail</a>, les parties signataires n'ont pas retenu de dispositions spécifiques telles que visées par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-10-1 (V)'>article L. 2231-10-1 du code du travail</a> à l'attention des entreprises de moins de 50 salariés, dès lors que le présent avenant vise à modifier le régime collectif obligatoire de prévoyance dont doivent bénéficier les salariés relevant de la convention collective et ce, quel que soit l'effectif de leur entreprise.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le présent avenant est fait en nombre suffisant d'exemplaires pour remise à chacune des organisations signataires et dépôt dans les conditions prévues par le code du travail.</p><p align='left'>Les parties signataires conviennent de demander au ministère du travail, de la solidarité et de la fonction publique, l'extension du présent avenant en application des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>articles L. 2261-15 et suivants du code du travail</a>.</p><p align='left'>L'Union syndicale nationale des exploitations frigorifiques, 5, rue Kepler, 75116 Paris se charge des formalités nécessaires.</p><p align='left'>Suivant les <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-23-1 du code du travail</a>, les parties signataires n'ont pas retenu de dispositions spécifiques telles que visées par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid'>article L. 2231-10-1 du code du travail</a> à l'attention des entreprises de moins de 50 salariés, dès lors que le présent avenant vise à modifier le régime collectif obligatoire de prévoyance dont doivent bénéficier les salariés relevant de la convention collective et ce, quel que soit l'effectif de leur entreprise.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dépôt. Extension",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047483696",
+                    "textTitle": "Arrêté du 5 avril 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047483699",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-04-25",
+                    "dateSignaTexte": "2023-04-05",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]

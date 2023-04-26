@@ -7806,15 +7806,15 @@
                     "dateDebutCible": "2022-10-01"
                   },
                   {
-                    "textCid": "JORFTEXT000047008286",
-                    "textTitle": "Arrêté du 13 décembre 2022 - art. 1, v. init.",
-                    "linkType": "ETEND",
-                    "linkOrientation": "cible",
+                    "textCid": "JORFTEXT000047483470",
+                    "textTitle": "Arrêté du 31 mars 2023 - art. 1, v. init.",
+                    "linkType": "EXTENSION",
+                    "linkOrientation": "source",
                     "articleNum": "1",
-                    "articleId": "JORFARTI000047008289",
+                    "articleId": "JORFARTI000047483473",
                     "natureText": "ARRETE",
-                    "datePubliTexte": "2023-01-19",
-                    "dateSignaTexte": "2022-12-13",
+                    "datePubliTexte": "2023-04-25",
+                    "dateSignaTexte": "2023-03-31",
                     "dateDebutCible": "2999-01-01"
                   }
                 ]
@@ -7828,7 +7828,7 @@
             "cid": "KALITEXT000046725907",
             "title": "Avenant rectificatif du 6 septembre 2022 à l'avenant n° 4 du 21 juin 2022 relatif au régime frais de santé",
             "id": "KALITEXT000046725907",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2022-10-01"
           },
           "children": [
@@ -7839,34 +7839,70 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000046725910",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
                   "type": "article",
                   "data": {
-                    "cid": "KALIARTI000046725911",
-                    "intOrdre": 524287,
-                    "id": "KALIARTI000046725911",
-                    "content": "<p></p><p align='left'>Le présent avenant a pour objet de compléter et de mettre en conformité avec la législation (art. L. 2232-10-1 C. trav.), l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000046288457&idArticle=KALIARTI000046288495&categorieLien=cid' title='Régime frais de santé - art. 10 (VNE)'>article 10 de l'avenant n° 4 du 21 juin 2022</a>, en y intégrant un paragraphe justifiant l'absence de dispositions spécifiques pour les entreprises de moins de cinquante salariés. <br/><p> <br/>Il est modifié comme suit : </p><p align='center'>« Article 10<br/>Dépôt et extension </p><p align='left'>Le présent avenant ayant vocation à adapter les dispositions du régime collectif obligatoire de frais de santé, dont doivent bénéficier l'ensemble des salariés relevant de la convention collective des activités de marchés financiers, ne prévoit aucune disposition spécifique en application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-10-1 (M)'>article L. 2232-10-1 du code du travail </a>concernant les entreprises de moins de 50 salariés. <br/><p> <br/>La partie la plus diligente des organisations signataires d'une convention ou d'un accord en notifie le texte à l'ensemble des organisations représentatives à l'issue de la procédure de signature. <br/><p> <br/>À l'expiration du délai d'opposition prévu à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901677&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-8 (V)'>article L. 2231-8 du code du travail</a>, le présent avenant fera l'objet d'une procédure de dépôt. <br/><p> <br/>Il fera ensuite l'objet de la procédure d'extension conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-15 (V)'>dispositions de l'article L. 2261-15 du code du travail</a>. »</p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "cid": "KALIARTI000047488898",
+                    "intOrdre": 262143,
+                    "id": "KALIARTI000047488898",
+                    "content": "<p>Le présent avenant a pour objet de compléter et de mettre en conformité avec la législation (<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid'>art. L. 2232-10-1 du code du travail</a>), l'article 10 de l'avenant n° 4 du 21 juin 2022, en y intégrant un paragraphe justifiant l'absence de dispositions spécifiques pour les entreprises de moins de cinquante salariés. </p><p>Il est modifié comme suit :</p>",
+                    "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
-                        "textCid": "KALITEXT000046288457",
-                        "textTitle": "Régime frais de santé - art. 10 (VNE)",
-                        "linkType": "MODIFIE",
-                        "linkOrientation": "source",
-                        "articleNum": "10",
-                        "articleId": "KALIARTI000046731418",
-                        "natureText": "Avenant",
-                        "datePubliTexte": "2022-09-14",
-                        "dateSignaTexte": "2022-06-21",
-                        "dateDebutCible": "2022-10-01"
+                        "textCid": "JORFTEXT000047483470",
+                        "textTitle": "Arrêté du 31 mars 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047483473",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-04-25",
+                        "dateSignaTexte": "2023-03-31",
+                        "dateDebutCible": "2999-01-01"
                       }
                     ]
                   }
                 }
               ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000046725911",
+                "intOrdre": 1074003967,
+                "id": "KALIARTI000046725911",
+                "content": "<p align='center'>« Article 10</p><p align='center'>Dépôt et extension</p><p align='left'>Le présent avenant ayant vocation à adapter les dispositions du régime collectif obligatoire de frais de santé, dont doivent bénéficier l'ensemble des salariés relevant de la convention collective des activités de marchés financiers, ne prévoit aucune disposition spécifique en application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid'>article L. 2232-10-1 du code du travail </a>concernant les entreprises de moins de 50 salariés.</p><p>La partie la plus diligente des organisations signataires d'une convention ou d'un accord en notifie le texte à l'ensemble des organisations représentatives à l'issue de la procédure de signature.</p><p>À l'expiration du délai d'opposition prévu à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901677&dateTexte=&categorieLien=cid'>article L. 2231-8 du code du travail</a>, le présent avenant fera l'objet d'une procédure de dépôt.</p><p>Il fera ensuite l'objet de la procédure d'extension conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-15 du code du travail</a>. »</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000046288457",
+                    "textTitle": "Régime frais de santé - art. 10 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "10",
+                    "articleId": "KALIARTI000046731418",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2022-09-14",
+                    "dateSignaTexte": "2022-06-21",
+                    "dateDebutCible": "2022-10-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000047483470",
+                    "textTitle": "Arrêté du 31 mars 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047483473",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-04-25",
+                    "dateSignaTexte": "2023-03-31",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
             }
           ]
         }
