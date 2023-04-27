@@ -2393,8 +2393,8 @@
                         "num": "20-3-G",
                         "intOrdre": 1073741823,
                         "id": "KALIARTI000047365229",
-                        "content": "<p align='left'>Les cotisations sont établies sur la base de la législation de l'assurance maladie et de la réglementation sociale et fiscale en vigueur au moment de la prise d'effet du présent régime. Les cotisations seront revues sans délai en cas de changement de ces textes.<br/><p> <br/>\nLa cotisation du régime “ remboursement complémentaire de frais de soins de santé ” est mensuelle et forfaitaire.<br/><p> <br/>\nLa cotisation mensuelle, exprimée en euros, est fixée et détaillée ci-dessous :<br/>\n– salarié relevant du régime général de la sécurité sociale : 50,00 € ;<br/>\n– salarié relevant du régime local Alsace-Moselle : 32,00 €.<br/><p> <br/>\nLa contribution de l'employeur devra être au minimum de 50 % de la cotisation.<br/><p> <br/>\nLes cotisations sont dues pour la totalité du mois au cours duquel les garanties sont accordées.<br/><p> <br/>\nEn cas d'arrêt de travail pour accident du travail ou maladie professionnelle de plus de 8 mois, le salarié bénéficiera du maintien des garanties sans paiement des cotisations pendant 12 mois à compter du 1er jour du 9e mois d'arrêt de travail</p><p></p>",
-                        "etat": "VIGUEUR_NON_ETEN",
+                        "content": "<p align='left'>Les cotisations sont établies sur la base de la législation de l'assurance maladie et de la réglementation sociale et fiscale en vigueur au moment de la prise d'effet du présent régime. Les cotisations seront revues sans délai en cas de changement de ces textes.</p><p align='left'>La cotisation du régime « remboursement complémentaire de frais de soins de santé » est mensuelle et forfaitaire.</p><p align='left'>La cotisation mensuelle, exprimée en euros, est fixée et détaillée ci-dessous :<br/>\n– salarié relevant du régime général de la sécurité sociale : 50,00 € ;<br/>\n– salarié relevant du régime local Alsace-Moselle : 32,00 €.</p><p align='left'>La contribution de l'employeur devra être au minimum de 50 % de la cotisation.</p><p align='left'>Les cotisations sont dues pour la totalité du mois au cours duquel les garanties sont accordées.</p><p align='left'>En cas d'arrêt de travail pour accident du travail ou maladie professionnelle de plus de 8 mois, le salarié bénéficiera du maintien des garanties sans paiement des cotisations pendant 12 mois à compter du 1er jour du 9e mois d'arrêt de travail.</p>",
+                        "etat": "VIGUEUR_ETEN",
                         "lstLienModification": [
                           {
                             "textCid": "KALITEXT000047348004",
@@ -2407,6 +2407,18 @@
                             "datePubliTexte": "2023-03-27",
                             "dateSignaTexte": "2022-11-08",
                             "dateDebutCible": "2023-01-01"
+                          },
+                          {
+                            "textCid": "JORFTEXT000047483880",
+                            "textTitle": "Arrêté du 5 avril 2023 - art. 1, v. init.",
+                            "linkType": "ETEND",
+                            "linkOrientation": "cible",
+                            "articleNum": "1",
+                            "articleId": "JORFARTI000047483883",
+                            "natureText": "ARRETE",
+                            "datePubliTexte": "2023-04-25",
+                            "dateSignaTexte": "2023-04-05",
+                            "dateDebutCible": "2999-01-01"
                           }
                         ]
                       }
