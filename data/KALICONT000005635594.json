@@ -14465,7 +14465,7 @@
             "cid": "KALITEXT000047348299",
             "title": "Avenant n° 1 du 15 décembre 2022 l'accord du 19 octobre 2021 relatif au régime de prévoyance collectif",
             "id": "KALITEXT000047348299",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2022-12-15"
           },
           "children": [
@@ -14476,7 +14476,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000047348302",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -14486,8 +14486,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000047348313",
                     "content": "<p align='left'><br/>Le présent avenant a pour objet de modifier les taux de cotisations à compter du 1er janvier 2023.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000047483954",
+                        "textTitle": "Arrêté du 5 avril 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047483958",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-04-25",
+                        "dateSignaTexte": "2023-04-05",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -14499,10 +14512,23 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000047348303",
-                "content": "<p align='left'>Le présent avenant s'applique à l'ensemble des entreprises entrant dans le champ d'application de la convention collective nationale du commerce de détail de l'habillement et des articles textiles du 25 novembre 1987, défini à l'article 1er du chapitre Ier de cette convention collective.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le présent avenant s'applique à l'ensemble des entreprises entrant dans le champ d'application de la convention collective nationale du commerce de détail de l'habillement et des articles textiles du 25 novembre 1987, défini à l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000005675211&idArticle=KALIARTI000005840245&categorieLien=cid'>article 1er</a> du chapitre Ier de cette convention collective.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Champ d'application",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047483954",
+                    "textTitle": "Arrêté du 5 avril 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047483958",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-04-25",
+                    "dateSignaTexte": "2023-04-05",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14512,8 +14538,8 @@
                 "num": "2",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000047348304",
-                "content": "<p align='left'>Les tableaux figurant à l'article 8.2 « Modalités de cotisation dans le cadre du contrat souscrit auprès des organismes recommandés » sont annulés et remplacés par les suivants :</p><p align='center'>« Financement des garanties des salariés cadres et agents de maîtrise</p><p align='left'></p><center><table border='1'><tbody><tr><th colspan='3'>Cadres et agents de maîtrise</th></tr><tr><th rowspan='2'>Garanties</th><th colspan='2'>Taux contractuels [1]</th></tr><tr><th>Tranche 1</th><th>Tranche 2 limitée à 4 PASS</th></tr><tr><td>Capitaux décès/ PTIA</td><td align='center'>0,72 %</td><td></td></tr><tr><td>Double effet</td><td align='center'>0,02 %</td><td></td></tr><tr><td>Frais d'obsèques</td><td align='center'>0,05 %</td><td></td></tr><tr><td>Rente éducation/ rente de conjoint substitutive [1]</td><td align='center'>0,09 %</td><td align='center'>0,09 %</td></tr><tr><td>Incapacité de travail temporaire</td><td align='center'>0,31 %</td><td align='center'>0,31 %</td></tr><tr><td>Invalidité permanente</td><td align='center'>0,30 %</td><td align='center'>0,30 %</td></tr><tr><td>Assistance</td><td align='center'>0,01 %</td><td></td></tr><tr><td>Total</td><td align='center'>1,50 %</td><td align='center'>0,70 %</td></tr><tr><td colspan='3' align='center'>[1]   Taux contractuels applicables à compter du 1er janvier 2023 pour l'ensemble des garanties.</td></tr></tbody></table></center><p align='center'>Financement des garanties des employés</p><p align='left'></p><center><table border='1'><tbody><tr><th colspan='5'>Employés</th></tr><tr><th rowspan='2'>Garanties</th><th colspan='2'>Taux contractuels</th><th colspan='2'>Taux d'appel pour les exercices 2022 à 2024 [1]</th></tr><tr><th>Tranche 1</th><th>Tranche 2 limitée à 4 PASS</th><th>Tranche 1</th><th>Tranche 2 limitée à 4 PASS</th></tr><tr><td>Capitaux décès/ PTIA</td><td align='center'>0,09 %</td><td align='center'>0,09 %</td><td align='center'>0,08 %</td><td align='center'>0,08 %</td></tr><tr><td>Double effet</td><td align='center'>0,01 %</td><td align='center'>0,01 %</td><td align='center'>0,01 %</td><td align='center'>0,01 %</td></tr><tr><td>Frais d'obsèques</td><td align='center'>0,02 %</td><td align='center'>0,02 %</td><td align='center'>0,02 %</td><td align='center'>0,02 %</td></tr><tr><td>Rente éducation/ rente de conjoint substitutive</td><td align='center'>0,09 %</td><td align='center'>0,09 %</td><td align='center'>0,08 %</td><td align='center'>0,08 %</td></tr><tr><td>Incapacité de travail temporaire</td><td align='center'>0,28 %</td><td align='center'>0,29 %</td><td align='center'>0,24 %</td><td align='center'>0,25 %</td></tr><tr><td>Invalidité permanente</td><td align='center'>0,26 %</td><td align='center'>0,26 %</td><td align='center'>0,23 %</td><td align='center'>0,23 %</td></tr><tr><td>Assistance</td><td align='center'>0,01 %</td><td></td><td align='center'>0,01 %</td><td></td></tr><tr><td>Total</td><td align='center'>0,76 %</td><td align='center'>0,76 %</td><td align='center'>0,67 %</td><td align='center'>0,67 %</td></tr><tr><td colspan='5'>[1]   Taux d'appel applicables du 1er janvier au 31 décembre 2022 pour l'ensemble des garanties. Reconduit par accord des parties pour deux exercices supplémentaires, soit du 1er janvier 2023 au 31 décembre 2024.</td></tr></tbody></table></center><p align='left'></p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Les tableaux figurant à l'article 8.2 « Modalités de cotisation dans le cadre du contrat souscrit auprès des organismes recommandés » sont annulés et remplacés par les suivants :</p><p align='center'>« Financement des garanties des salariés cadres et agents de maîtrise</p><p align='left'></p><center><table border='1'><tbody><tr><th colspan='3'>Cadres et agents de maîtrise</th></tr><tr><th rowspan='2'>Garanties</th><th colspan='2'>Taux contractuels [1]</th></tr><tr><th>Tranche 1</th><th>Tranche 2 limitée à 4 PASS</th></tr><tr><td>Capitaux décès/ PTIA</td><td align='center'>0,72 %</td><td></td></tr><tr><td>Double effet</td><td align='center'>0,02 %</td><td></td></tr><tr><td>Frais d'obsèques</td><td align='center'>0,05 %</td><td></td></tr><tr><td>Rente éducation/ rente de conjoint substitutive [1]</td><td align='center'>0,09 %</td><td align='center'>0,09 %</td></tr><tr><td>Incapacité de travail temporaire</td><td align='center'>0,31 %</td><td align='center'>0,31 %</td></tr><tr><td>Invalidité permanente</td><td align='center'>0,30 %</td><td align='center'>0,30 %</td></tr><tr><td>Assistance</td><td align='center'>0,01 %</td><td></td></tr><tr><td>Total</td><td align='center'>1,50 %</td><td align='center'>0,70 %</td></tr><tr><td colspan='3'>[1] Taux contractuels applicables à compter du 1er janvier 2023 pour l'ensemble des garanties.</td></tr></tbody></table></center><p align='center'>Financement des garanties des employés</p><p align='left'></p><center><table border='1'><tbody><tr><th colspan='5'>Employés</th></tr><tr><th rowspan='2'>Garanties</th><th colspan='2'>Taux contractuels</th><th colspan='2'>Taux d'appel pour les exercices 2022 à 2024 [1]</th></tr><tr><th>Tranche 1</th><th>Tranche 2 limitée à 4 PASS</th><th>Tranche 1</th><th>Tranche 2 limitée à 4 PASS</th></tr><tr><td>Capitaux décès/ PTIA</td><td align='center'>0,09 %</td><td align='center'>0,09 %</td><td align='center'>0,08 %</td><td align='center'>0,08 %</td></tr><tr><td>Double effet</td><td align='center'>0,01 %</td><td align='center'>0,01 %</td><td align='center'>0,01 %</td><td align='center'>0,01 %</td></tr><tr><td>Frais d'obsèques</td><td align='center'>0,02 %</td><td align='center'>0,02 %</td><td align='center'>0,02 %</td><td align='center'>0,02 %</td></tr><tr><td>Rente éducation/ rente de conjoint substitutive</td><td align='center'>0,09 %</td><td align='center'>0,09 %</td><td align='center'>0,08 %</td><td align='center'>0,08 %</td></tr><tr><td>Incapacité de travail temporaire</td><td align='center'>0,28 %</td><td align='center'>0,29 %</td><td align='center'>0,24 %</td><td align='center'>0,25 %</td></tr><tr><td>Invalidité permanente</td><td align='center'>0,26 %</td><td align='center'>0,26 %</td><td align='center'>0,23 %</td><td align='center'>0,23 %</td></tr><tr><td>Assistance</td><td align='center'>0,01 %</td><td></td><td align='center'>0,01 %</td><td></td></tr><tr><td>Total</td><td align='center'>0,76 %</td><td align='center'>0,76 %</td><td align='center'>0,67 %</td><td align='center'>0,67 %</td></tr><tr><td colspan='5'>[1] Taux d'appel applicables du 1er janvier au 31 décembre 2022 pour l'ensemble des garanties. Reconduit par accord des parties pour deux exercices supplémentaires, soit du 1er janvier 2023 au 31 décembre 2024.</td></tr></tbody></table></center><p align='left'></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Modification de l'article 8 « Cotisations »",
                 "lstLienModification": [
                   {
@@ -14527,6 +14553,18 @@
                     "datePubliTexte": "2022-02-02",
                     "dateSignaTexte": "2021-10-19",
                     "dateDebutCible": "2022-12-15"
+                  },
+                  {
+                    "textCid": "JORFTEXT000047483954",
+                    "textTitle": "Arrêté du 5 avril 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047483958",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-04-25",
+                    "dateSignaTexte": "2023-04-05",
+                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -14538,10 +14576,23 @@
                 "num": "3",
                 "intOrdre": 2097148,
                 "id": "KALIARTI000047348306",
-                "content": "<p align='left'>En application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>article L. 2261-23-1 du code du travail</a>, les partenaires sociaux de la convention collective du commerce de détail de l'habillement et des articles textiles du 25 novembre 1987 ont considéré qu'un avenant portant sur le régime de prévoyance applicable aux salariés de la branche n'avait pas à comporter de stipulations spécifiques telles que mentionnées à l'article L. 2232-10-1 du même code, dans la mesure où l'avenant a vocation à s'appliquer à toutes les entreprises de la branche, quelle que soit leur taille.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>En application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>article L. 2261-23-1 du code du travail</a>, les partenaires sociaux de la convention collective du commerce de détail de l'habillement et des articles textiles du 25 novembre 1987 ont considéré qu'un avenant portant sur le régime de prévoyance applicable aux salariés de la branche n'avait pas à comporter de stipulations spécifiques telles que mentionnées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid'>article L. 2232-10-1</a> du même code, dans la mesure où l'avenant a vocation à s'appliquer à toutes les entreprises de la branche, quelle que soit leur taille.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Stipulations spécifiques pour les entreprises de moins de 50 salariés",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047483954",
+                    "textTitle": "Arrêté du 5 avril 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047483958",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-04-25",
+                    "dateSignaTexte": "2023-04-05",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14551,10 +14602,23 @@
                 "num": "4",
                 "intOrdre": 2621435,
                 "id": "KALIARTI000047348308",
-                "content": "<p align='left'><br/>Le présent avenant est conclu pour une durée indéterminée et entrera en vigueur le 15 décembre 2022.<br/>L'avenant pourra être modifié ou dénoncé conformément aux dispositions du code du travail.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le présent avenant est conclu pour une durée indéterminée et entrera en vigueur le 15 décembre 2022.</p><p align='left'>L'avenant pourra être modifié ou dénoncé conformément aux dispositions du code du travail.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Date d'effet et durée",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047483954",
+                    "textTitle": "Arrêté du 5 avril 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047483958",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-04-25",
+                    "dateSignaTexte": "2023-04-05",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -14564,10 +14628,23 @@
                 "num": "5",
                 "intOrdre": 3145722,
                 "id": "KALIARTI000047348310",
-                "content": "<p align='left'><br/>Le présent avenant sera déposé dans les conditions prévues par le code du travail.<br/>Les signataires de l'avenant demandent son extension auprès du ministre chargé de la sécurité sociale conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745466&dateTexte=&categorieLien=cid' title='Code de la sécurité sociale. - art. L911-3 (M)'>dispositions de l'article L. 911-3 du code de la sécurité sociale</a>.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le présent avenant sera déposé dans les conditions prévues par le code du travail.</p><p align='left'>Les signataires de l'avenant demandent son extension auprès du ministre chargé de la sécurité sociale conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745466&dateTexte=&categorieLien=cid'>dispositions de l'article L. 911-3 du code de la sécurité sociale</a>.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dépôt et demande d'extension",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047483954",
+                    "textTitle": "Arrêté du 5 avril 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047483958",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-04-25",
+                    "dateSignaTexte": "2023-04-05",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
