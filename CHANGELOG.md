@@ -1,3 +1,10 @@
+## [2.556.1](https://github.com/SocialGouv/kali-data/compare/v2.556.0...v2.556.1) (2023-06-01)
+
+
+### Bug Fixes
+
+* **dila-api-client:** upgrade client ([#262](https://github.com/SocialGouv/kali-data/issues/262)) ([b1fdd0a](https://github.com/SocialGouv/kali-data/commit/b1fdd0afd361966e2f12335d5ea908b109978334))
+
 # [2.556.0](https://github.com/SocialGouv/kali-data/compare/v2.555.0...v2.556.0) (2023-06-01)
 
 
