@@ -1563,22 +1563,33 @@
                 "cid": "KALIARTI000005778109",
                 "num": "34",
                 "intOrdre": 85898,
-                "id": "KALIARTI000005778109",
-                "content": "<p>Après vingt ans d'ancienneté et à compter de la date anniversaire de ces vingt ans, tout salarié pourra bénéficier de deux journées de congé supplémentaire.</p><p>La prise de ces journées s'effectuera comme suit : elles ne pourront être accolées ni au congé principal, ni à la cinquième semaine lorsqu'elle est prise en une seule fois. En revanche, ces journées supplémentaires peuvent être associées à un quelconque des congés pour événements familiaux.</p><p><font color='black'><em></em></font></p>",
+                "id": "KALIARTI000047649914",
+                "content": "<p>Après dix ans d'ancienneté et à compter de la date anniversaire de ces dix ans, tout salarié pourra bénéficier d'un jour de congé supplémentaire.</p><p>La prise de cette journée s'effectuera comme suit : elle ne pourra être accolée ni au congé principal, ni à la cinquième semaine lorsqu'elle est prise en une seule fois. En revanche, cette journée supplémentaire peut être associée à un quelconque des congés pour événements familiaux.</p><p></p>",
                 "etat": "VIGUEUR_ETEN",
-                "historique": "Crée par Avenant du 11 juillet 2005 art. 2 BO conventions collectives 2005-40 étendu par arrêté du 29 mars 2006 JORF 5 avril 2006.",
                 "lstLienModification": [
                   {
-                    "textCid": "",
-                    "textTitle": "Convention collective nationale 1991-09-01 en vigueur le 1er janvier 1992 étendue par arrêté du 16 janvier 1992 JORF 31 janvier 1992",
-                    "linkType": "CREATION",
-                    "linkOrientation": "source",
+                    "textCid": "KALITEXT000047376491",
+                    "textTitle": "Congé supplémentaire (art. 34 de la convention) - art. (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
                     "articleNum": "",
-                    "articleId": "",
-                    "natureText": "",
-                    "datePubliTexte": null,
-                    "dateSignaTexte": null,
-                    "dateDebutCible": null
+                    "articleId": "KALIARTI000047376494",
+                    "natureText": "Accord",
+                    "datePubliTexte": "2023-03-30",
+                    "dateSignaTexte": "2023-01-02",
+                    "dateDebutCible": "2023-06-08"
+                  },
+                  {
+                    "textCid": "JORFTEXT000047641357",
+                    "textTitle": "Arrêté du 22 mai 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047641359",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-06-07",
+                    "dateSignaTexte": "2023-05-22",
+                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -7420,6 +7431,54 @@
                   }
                 }
               ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000047376491",
+            "title": "Accord du 2 janvier 2023 relatif au congé supplémentaire (art. 34 de la convention collective)",
+            "id": "KALITEXT000047376491",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2023-06-08"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000047376494",
+                "intOrdre": 524287,
+                "id": "KALIARTI000047376494",
+                "content": "<p align='left'>1.   Après dix ans d'ancienneté et à compter de la date anniversaire de ces dix ans, tout salarié pourra bénéficier d'un jour de congé supplémentaire.</p><p align='left'>La prise de cette journée s'effectuera comme suit : elle ne pourra être accolée ni au congé principal, ni à la cinquième semaine lorsqu'elle est prise en une seule fois. En revanche, cette journée supplémentaire peut être associée à un quelconque des congés pour événements familiaux.</p><p align='left'>2.   La date d'application sera au 1er jour suivant la date d'arrêté d'extension.</p><p align='left'>3.   Les parties signataires considèrent que le contenu du présent accord est adapté aux entreprises de moins de 50 salariés. Elles rappellent à ce titre que la branche de désinfection, désinsectisation, dératisation comprend très majoritairement des entreprises de moins de 50 salariés (99 % des entreprises entre 1 et 49 salariés selon le panorama de branche).</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047641357",
+                    "textTitle": "Arrêté du 22 mai 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047641359",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-06-07",
+                    "dateSignaTexte": "2023-05-22",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000005647053",
+                    "textTitle": "Convention collective nationale du 1 septembre ... - art. 34 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "34",
+                    "articleId": "KALIARTI000047649914",
+                    "natureText": "Convention collective nationale ",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "1991-09-01",
+                    "dateDebutCible": "2023-01-02"
+                  }
+                ]
+              }
             }
           ]
         }
