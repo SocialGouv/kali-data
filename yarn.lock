@@ -6928,12 +6928,12 @@ unist-util-find@1.0.2:
     lodash.iteratee "^4.5.0"
     unist-util-visit "^1.1.0"
 
-unist-util-flat-filter@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/unist-util-flat-filter/-/unist-util-flat-filter-1.0.0.tgz#44972de80c889462c444da8878f5576568a113c6"
-  integrity sha512-zjTmbMgyL1V7iUCnFaGLms9HtGbqK4d3YINqzu+wiMbau93GdiDGtJiB8lMhAyxAaxIAK2rOCeBCldF0FUreKQ==
+unist-util-flat-filter@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/unist-util-flat-filter/-/unist-util-flat-filter-2.0.0.tgz#6fa0e72636ae396d8515bbacb79f9a4646295925"
+  integrity sha512-STuXyIDKMViuEiOQkkEAdCFF73eqcDuxeY7zhhMWwa6a49CSDab3XvaMUa1sBfbLjJQsvWlkJQXSwUEUE+7g7A==
   dependencies:
-    unist-util-is "^4.0.0"
+    unist-util-is "^5.1.1"
 
 unist-util-is@^3.0.0:
   version "3.0.0"
@@ -6944,6 +6944,11 @@ unist-util-is@^4.0.0:
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/unist-util-is/-/unist-util-is-4.0.2.tgz#c7d1341188aa9ce5b3cff538958de9895f14a5de"
   integrity sha512-Ofx8uf6haexJwI1gxWMGg6I/dLnF2yE+KibhD3/diOqY2TinLcqHXCV6OI5gFVn3xQqDH+u0M625pfKwIwgBKQ==
+
+unist-util-is@^5.1.1:
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/unist-util-is/-/unist-util-is-5.1.1.tgz#e8aece0b102fa9bc097b0fef8f870c496d4a6236"
+  integrity sha512-F5CZ68eYzuSvJjGhCLPL3cYx45IxkqXSetCcRgUXtbcm50X2L9oOWQlfUfDdAf+6Pd27YDblBfdtmsThXmwpbQ==
 
 unist-util-map@^2.0.1:
   version "2.0.1"
