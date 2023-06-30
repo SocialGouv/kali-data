@@ -1,3 +1,11 @@
+# [2.577.0](https://github.com/SocialGouv/kali-data/compare/v2.576.0...v2.577.0) (2023-06-30)
+
+
+### Features
+
+* **ccn:** ajout d'un synonyme pour la CC 1486 ([#263](https://github.com/SocialGouv/kali-data/issues/263)) ([47bb0b1](https://github.com/SocialGouv/kali-data/commit/47bb0b1726a4cec7e2a1acc6c19a64449528cecc))
+* **data:** 20230630_0433 update ([2bfaab9](https://github.com/SocialGouv/kali-data/commit/2bfaab9f5b05e970e84999555fe1c0857d004403))
+
 # [2.576.0](https://github.com/SocialGouv/kali-data/compare/v2.575.0...v2.576.0) (2023-06-29)
 
 
