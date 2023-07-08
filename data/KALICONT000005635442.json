@@ -1200,6 +1200,42 @@
         {
           "type": "section",
           "data": {
+            "cid": "KALITEXT000005649970",
+            "title": "Barème des rémunérations minimales : Troisième partie de la convention collective du 19 février 1989",
+            "id": "KALITEXT000005649970",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "1989-06-07"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000005781587",
+                "intOrdre": 42949,
+                "id": "KALIARTI000005781587",
+                "content": "*Voir accords de salaires*<p></p><p></p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "",
+                    "textTitle": "Convention collective nationale 1989-02-19 en vigueur le 7 juin 1989 JORF 7 juin 1989",
+                    "linkType": "CREATION",
+                    "linkOrientation": "source",
+                    "articleNum": "",
+                    "articleId": "",
+                    "natureText": "",
+                    "datePubliTexte": null,
+                    "dateSignaTexte": null,
+                    "dateDebutCible": null
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
             "cid": "KALITEXT000005649974",
             "title": "Modèle de bulletin de paie : Quatrième partie de la convention collective du 19 février 1989",
             "id": "KALITEXT000005649974",
@@ -1292,6 +1328,54 @@
               }
             }
           ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000024473664",
+            "title": "Avenant n° 15 du 21 janvier 2011 relatif aux classifications au 1er janvier 2011",
+            "id": "KALITEXT000024473664",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2011-01-21"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000024473667",
+                "intOrdre": 524287,
+                "id": "KALIARTI000024473667",
+                "content": "<p align='left'><br/>1. Les classifications sont actualisées à compter du 1er janvier 2011. <br/>Eu égard à l'évolution des techniques et à la nature des fonctions du personnel administratif et commercial au sein des sociétés, il a été décidé d'adapter la classification actuelle afin de situer effectivement les salariés au niveau de qualification et de rémunération requis pour les tâches exercées. <br/>Dans ces conditions, les salariés seront repositionnés, sans que ledit repositionnement ne puisse entraîner de remise en cause des droits contractuels à rémunération de base acquis, dans les conditions suivantes : <br/>Suppression de la classification « Dactylographe – coefficient 125 ». <br/>1° Agent administratif et commercial 1er niveau – coefficient 135 : personnel chargé d'exécuter des travaux administratifs variés à partir de consignes précises, détaillées, permanentes ne nécessitant aucune initiative personnelle dans des conditions de fiabilité et de rapidité satisfaisantes. <br/>Poste nécessitant une bonne maîtrise des outils informatiques. <br/>2° Agent administratif et commercial 2e niveau – coefficient 150 : personnel chargé d'exécuter des travaux nécessitant une expérience professionnelle confirmée et la capacité de s'autocontrôler. <br/>Emploi nécessitant une spécialisation dans un domaine administratif ou commercial et/ ou nécessitant la maîtrise d'une ou deux langues étrangères. <br/>3° Agent administratif et commercial expérimenté et employé polyvalent – coefficient 175 : poste comportant l'exécution et la supervision de certains travaux administratifs et commerciaux, une connaissance des caractéristiques du métier. <br/>Le poste exige la coordination des travaux, le respect des temps et la discipline du personnel pouvant être placé sous son autorité ainsi que des initiatives pour proposer à la hiérarchie des améliorations des méthodes de travail. <br/>4° Aide-comptable – coefficient 160 : poste comportant l'exécution de certains travaux comptables sous la responsabilité d'un comptable ou d'un cabinet comptable. <br/>5° Comptable-assistant ressources humaines – coefficient 220 : personnel chargé d'exécuter des travaux comportant, sur des directives générales, une part d'initiative professionnelle dans le traitement de dossiers techniques courant. <br/>Le titulaire doit disposer d'une autonomie dans le choix du travail à déléguer, mais assume la responsabilité de l'ensemble des opérations (notamment, pour un comptable, l'ensemble des travaux comptables jusqu'à l'élaboration du bilan y compris). <br/>6° Agent technico-commercial 1er niveau – coefficient 160 : poste exigeant une connaissance des caractéristiques de la profession ainsi que la capacité d'appliquer les directives données par la direction en matière commerciale. <br/>Bonne maîtrise des techniques de vente et de démarchage. <br/>Suppression de la classification agent technico-commercial – coefficient 200.<br/>7° Agent technico-commercial confirmé – coefficient 220 : poste exigeant une connaissance approfondie des caractéristiques de la profession ainsi que la capacité d'appliquer les directives données par la direction en matière commerciale. <br/>Le reste est sans changement. <br/>2. L'extension du présent accord est demandée.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000025442155",
+                    "textTitle": "Arrêté du 27 février 2012, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "JORFTEXT000025442155",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2012-03-06",
+                    "dateSignaTexte": "2012-02-27",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000005649968",
+                    "textTitle": "Classification des emplois. - art. (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "",
+                    "articleId": "KALIARTI000024542961",
+                    "natureText": "Convention collective nationale ",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "1989-02-19",
+                    "dateDebutCible": "2011-01-01"
+                  }
+                ]
+              }
+            }
+          ]
         }
       ]
     },
@@ -1303,6 +1387,29 @@
         "etat": "VIGUEUR"
       },
       "children": [
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000005649997",
+            "title": "Avenant n° 12 du 22 septembre 2006 relatif aux rémunérations à compter du 1er octobre 2006",
+            "id": "KALITEXT000005649997",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2006-09-22"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000005781601",
+                "intOrdre": 21474,
+                "id": "KALIARTI000005781601",
+                "content": "<p>1. Supprime et remplace le barème des rémunérations minimales A compter du 1er octobre 2006 le barème des rémunérations minimales, pour un horaire de 151,66 heures mensuelles (35 heures par semaine), est fixé de la façon suivante :</p><p>(En euros)</p><p></p><center><table border='1'><tbody><tr><th>COEFFICIENT</th><th>RÉMUNÉRATION</th></tr><tr><td align='center'>100</td><td align='center'>1 254,28</td></tr><tr><td align='center'>125</td><td align='center'>1 256,28</td></tr><tr><td align='center'>135</td><td align='center'>1 258,28</td></tr><tr><td align='center'>150</td><td align='center'>1 260,28</td></tr><tr><td align='center'>160</td><td align='center'>1 262,28</td></tr><tr><td align='center'>175</td><td align='center'>1 297,34</td></tr><tr><td align='center'>200</td><td align='center'>1 329,35</td></tr><tr><td align='center'>220</td><td align='center'>1 409,38</td></tr></tbody></table></center><p>Le reste sans changement.</p><p>2. Demande l'extension du présent accord</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": []
+              }
+            }
+          ]
+        },
         {
           "type": "section",
           "data": {
@@ -1378,6 +1485,42 @@
         {
           "type": "section",
           "data": {
+            "cid": "KALITEXT000024473668",
+            "title": "Avenant n° 16 du 21 janvier 2011 relatif aux salaires minima pour l'année 2011",
+            "id": "KALITEXT000024473668",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2011-01-01"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000024473671",
+                "intOrdre": 524287,
+                "id": "KALIARTI000024473671",
+                "content": "<p align='left'><br/>1. Le barème des rémunérations minimales est supprimé et remplacé.<br/>A compter du 1er janvier 2011 le barème des rémunérations minimales, pour un horaire de 151,66 heures mensuelles (35 heures par semaine), est fixé de la façon suivante :</p><p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Coefficient </th><th>Rémunération </th></tr><tr><td align='center'>100 </td><td align='center'>1 365 </td></tr><tr><td align='center'>125 </td><td align='center'>1 369 </td></tr><tr><td align='center'>135 </td><td align='center'>1 373 </td></tr><tr><td align='center'>150 </td><td align='center'>1 377 </td></tr><tr><td align='center'>160 </td><td align='center'>1 381 </td></tr><tr><td align='center'>175 </td><td align='center'>1 414 </td></tr><tr><td align='center'>200 </td><td align='center'>1 455 </td></tr><tr><td align='center'>220 </td><td align='center'>1 537 </td></tr></table></center></div></p><p align='left'><br/>Le reste est sans changement.<br/>2. L'extension du présent accord est demandée.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000025442155",
+                    "textTitle": "Arrêté du 27 février 2012, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "",
+                    "articleId": "JORFTEXT000025442155",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2012-03-06",
+                    "dateSignaTexte": "2012-02-27",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
             "cid": "KALITEXT000026976606",
             "title": "Avenant n° 17 du 20 juillet 2012 relatif aux salaires minimaux au 1er septembre 2012",
             "id": "KALITEXT000026976606",
@@ -1440,6 +1583,42 @@
                     "natureText": "ARRETE",
                     "datePubliTexte": "2014-02-11",
                     "dateSignaTexte": "2014-02-04",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000032963718",
+            "title": "Avenant n° 20 du 14 avril 2016 relatif aux salaires minimaux au 1er mai 2016",
+            "id": "KALITEXT000032963718",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2016-05-01"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000032963721",
+                "intOrdre": 524287,
+                "id": "KALIARTI000032963721",
+                "content": "<p align='left'><br/>1. Supprime et remplace le barème des rémunérations minimales.<br/>A compter du 1er mai 2016, le barème des rémunérations minimales, pour un horaire de 151,66 heures mensuelles (35 heures par semaine), est fixé de la façon suivante :</p><p align='right'><br/>(En euros.)</p><p align='left'><div align='center'><center><table border='1'><tr><th>Coefficient</th><th>Rémunération minimale</th></tr><tr><td align='center'>100</td><td align='center'>1 466,62</td></tr><tr><td align='center'>125</td><td align='center'>1 474,00</td></tr><tr><td align='center'>135</td><td align='center'>1 477,00</td></tr><tr><td align='center'>150</td><td align='center'>1 480,00</td></tr><tr><td align='center'>160</td><td align='center'>1 486,00</td></tr><tr><td align='center'>175</td><td align='center'>1 518,00</td></tr><tr><td align='center'>200</td><td align='center'>1 560,00</td></tr><tr><td align='center'>220</td><td align='center'>1 640,00</td></tr></table></center></div></p><p align='left'><br/>Le reste sans changement.<br/>2. Demande d'extension du présent accord.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000032945436",
+                    "textTitle": "Arrêté du 22 juillet 2016 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000032945440",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2016-07-29",
+                    "dateSignaTexte": "2016-07-22",
                     "dateDebutCible": "2999-01-01"
                   }
                 ]
