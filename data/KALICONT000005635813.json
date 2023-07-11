@@ -6017,7 +6017,7 @@
           "type": "section",
           "data": {
             "cid": "KALITEXT000005660087",
-            "title": "Avenant du 10 décembre 2002 « Annexe   concernant les établissements privés accueillant des personnes âgées »\r\n",
+            "title": "Annexe concernant les établissements privés accueillant des personnes âgées (médico-social -  EHPAD) - Avenant du 10 décembre 2002\n",
             "id": "KALITEXT000005660087",
             "etat": "VIGUEUR_ETEN",
             "modifDate": "2017-02-01"
@@ -6138,18 +6138,6 @@
                         "datePubliTexte": "2999-01-01",
                         "dateSignaTexte": "2014-12-16",
                         "dateDebutCible": "2017-02-01"
-                      },
-                      {
-                        "textCid": "KALITEXT000030590654",
-                        "textTitle": "Repos hebdomadaire - art. 2 (VE)",
-                        "linkType": "MODIFICATION",
-                        "linkOrientation": "source",
-                        "articleNum": "2",
-                        "articleId": "KALIARTI000030590658",
-                        "natureText": "Avenant",
-                        "datePubliTexte": "2999-01-01",
-                        "dateSignaTexte": "2014-12-16",
-                        "dateDebutCible": "2017-02-01"
                       }
                     ]
                   }
@@ -6232,8 +6220,8 @@
                       {
                         "textCid": "KALITEXT000019349658",
                         "textTitle": "Journée de repos supplémentaire prévue lorsque ... - art. 1 (VE)",
-                        "linkType": "MODIFICATION",
-                        "linkOrientation": "source",
+                        "linkType": "MODIFIE",
+                        "linkOrientation": "cible",
                         "articleNum": "1",
                         "articleId": "KALIARTI000019349664",
                         "natureText": "Avenant",
@@ -6356,8 +6344,8 @@
                           {
                             "textCid": "KALITEXT000005661157",
                             "textTitle": "Modification du 17/05/2005 de l'annexe du 10 dé... - art. 4 (VNE)",
-                            "linkType": "MODIFICATION",
-                            "linkOrientation": "source",
+                            "linkType": "MODIFIE",
+                            "linkOrientation": "cible",
                             "articleNum": "4",
                             "articleId": "KALIARTI000005805553",
                             "natureText": "AVENANT",
@@ -6760,7 +6748,20 @@
                         "content": "<p>Les primes et indemnités définies par les articles 82.1, 82.2 et 82.4 de la convention collective sont également applicables aux cadres, sauf s'agissant des médecins, des cadres supérieurs et des dirigeants.</p><p>Des contreparties d'astreinte, telles que définies par les articles 82.3.1 et 82.3.2 de la convention collective seront accordées aux cadres A et B.</p><p>Toutefois, le salaire servant au calcul de ses contreparties sera celui correspondant au coefficient du cadre concerné dans la limite, du coefficient 370.</p><p>Cette disposition ne s'applique pas aux cadres dont le salaire réel annuel est au moins égal à celui auquel il pourrait prétendre sur la même période par application de son coefficient, dans la limite du coefficient 370, majoré des astreintes réalisées.</p><p>Si tel n'était pas le cas, il serait alors procédé à un complément au plus tard en fin d'année correspondant au différentiel existant entre le salaire annuel calculé sur la base du coefficient 370, majoré des astreintes réalisées et le salaire réel annuel effectivement perçu par le salarié.</p><p>Pour les autres catégories de cadres, la contrepartie liée au temps d'astreinte sera définie contractuellement.</p><p></p>",
                         "etat": "VIGUEUR_ETEN",
                         "surtitre": "Indemnités pour sujétions spéciales",
-                        "lstLienModification": []
+                        "lstLienModification": [
+                          {
+                            "textCid": "KALITEXT000005660718",
+                            "textTitle": "Indemnités pour sujétions spéciales Avenant à l... - art. 1 (VE)",
+                            "linkType": "MODIFIE",
+                            "linkOrientation": "cible",
+                            "articleNum": "1",
+                            "articleId": "KALIARTI000005804822",
+                            "natureText": "AVENANT",
+                            "datePubliTexte": "2999-01-01",
+                            "dateSignaTexte": "2003-12-09",
+                            "dateDebutCible": "2003-12-09"
+                          }
+                        ]
                       }
                     },
                     {
@@ -11321,14 +11322,26 @@
               "data": {
                 "cid": "KALIARTI000005804822",
                 "num": "1",
-                "intOrdre": 85898,
-                "id": "KALIARTI000005804823",
+                "intOrdre": 42949,
+                "id": "KALIARTI000005804822",
                 "content": "<p>Pour les maisons de retraite (85-3 D), l'article 100 est remplacé par un article 100 <em>bis</em> \"Indemnités pour sujétions spéciales\".</p><p>(voir cet article)</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
                   {
+                    "textCid": "KALITEXT000005660087",
+                    "textTitle": "Annexe concernant les établissements privés acc... - art. 100 bis (VE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "100 bis",
+                    "articleId": "KALIARTI000028456606",
+                    "natureText": "AVENANT",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2002-12-10",
+                    "dateDebutCible": "2003-12-09"
+                  },
+                  {
                     "textCid": "",
-                    "textTitle": "Avenant n° 1 2003-12-09 en vigueur le 1er janvier 2004 BO conventions collectives 2004-12",
+                    "textTitle": "Avenant n° 1 2003-12-09 en vigueur le 1er janvier 2004 BO conventions collectives 2004-12 étendu par arrêté du 25 octobre 2004 JORF 6 novembre 2004",
                     "linkType": "CREATION",
                     "linkOrientation": "source",
                     "articleNum": "",
@@ -11348,8 +11361,8 @@
                 "num": "2",
                 "intOrdre": 128847,
                 "id": "KALIARTI000005804832",
-                "content": "<p></p>   Le présent avenant s'appliquera au 1er janvier 2004.<p></p><p></p>   Fait à Paris, le 9 décembre 2003.<p></p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p>Le présent avenant s'appliquera au 1er janvier 2004.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
                   {
                     "textCid": "",
@@ -11857,8 +11870,8 @@
                   {
                     "textCid": "KALITEXT000005660087",
                     "textTitle": "Annexe concernant les établissements privés acc... - art. 82 bis (VNE)",
-                    "linkType": "MODIFICATION",
-                    "linkOrientation": "cible",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
                     "articleNum": "82 bis",
                     "articleId": "KALIARTI000028455519",
                     "natureText": "AVENANT",
@@ -12567,26 +12580,14 @@
                   {
                     "textCid": "KALITEXT000005660087",
                     "textTitle": "Annexe concernant les établissements privés acc... - art. 59.3 bis (VE)",
-                    "linkType": "MODIFICATION",
-                    "linkOrientation": "cible",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
                     "articleNum": "59.3 bis",
                     "articleId": "KALIARTI000028452713",
                     "natureText": "AVENANT",
                     "datePubliTexte": "2999-01-01",
                     "dateSignaTexte": "2002-12-10",
                     "dateDebutCible": "2008-04-11"
-                  },
-                  {
-                    "textCid": "",
-                    "textTitle": "Avenant relatif à l'annexe à la convention conc... - art. (VNE)",
-                    "linkType": "MODIFIE",
-                    "linkOrientation": "source",
-                    "articleNum": "",
-                    "articleId": "",
-                    "natureText": "",
-                    "datePubliTexte": null,
-                    "dateSignaTexte": null,
-                    "dateDebutCible": null
                   }
                 ]
               }
@@ -17602,18 +17603,6 @@
                     "textTitle": "Annexe concernant les établissements privés acc... - art. 52 bis (VE)",
                     "linkType": "MODIFIE",
                     "linkOrientation": "source",
-                    "articleNum": "52 bis",
-                    "articleId": "KALIARTI000033785903",
-                    "natureText": "AVENANT",
-                    "datePubliTexte": "2999-01-01",
-                    "dateSignaTexte": "2002-12-10",
-                    "dateDebutCible": "2017-02-01"
-                  },
-                  {
-                    "textCid": "KALITEXT000005660087",
-                    "textTitle": "Annexe concernant les établissements privés acc... - art. 52 bis (VE)",
-                    "linkType": "MODIFICATION",
-                    "linkOrientation": "cible",
                     "articleNum": "52 bis",
                     "articleId": "KALIARTI000033785903",
                     "natureText": "AVENANT",
