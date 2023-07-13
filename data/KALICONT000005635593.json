@@ -18664,7 +18664,7 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000047793907",
                     "content": "<p align='center'>Salaires conventionnels</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Niveau</th><th>Classification</th><th>Salaire brut mensuel 151,67 heures</th></tr><tr><th colspan='3'>Ouvrier(e)s, employé(e)s</th></tr><tr><td colspan='3' align='center'><strong>Niveau I</strong></td></tr><tr><td rowspan='2' align='center'>Échelon A</td><td align='center'>Plongeur</td><td align='center'>1 795</td></tr><tr><td align='center'>Employé d'entretien</td><td align='center'>1 795</td></tr><tr><td rowspan='2' align='center'>Échelon B</td><td align='center'>Chauffeur-livreur</td><td align='center'>1 815</td></tr><tr><td align='center'>Employé administratif</td><td align='center'>1 815</td></tr><tr><td colspan='3' align='center'><strong>Niveau II</strong></td></tr><tr><td rowspan='3' align='center'>Échelon A</td><td align='center'>Chauffeur-livreur encaisseur</td><td align='center'>1 836</td></tr><tr><td align='center'>Caissier</td><td align='center'>1 836</td></tr><tr><td align='center'>Vendeur</td><td align='center'>1 836</td></tr><tr><td rowspan='5' align='center'>Échelon B</td><td align='center'>Secrétaire aide-comptable</td><td align='center'>1 860</td></tr><tr><td align='center'>Boucher préparateur</td><td align='center'>1 860</td></tr><tr><td align='center'>Charcutier traiteur</td><td align='center'>1 860</td></tr><tr><td align='center'>Vendeur qualifié</td><td align='center'>1 860</td></tr><tr><td align='center'>Tripier préparateur</td><td align='center'>1 860</td></tr><tr><td align='center'>Échelon C</td><td align='center'>Caissier aide-comptable</td><td align='center'>1 891</td></tr><tr><td colspan='3' align='center'><strong>Niveau III</strong></td></tr><tr><td rowspan='5' align='center'>Échelon A</td><td align='center'>Boucher préparateur qualifié</td><td align='center'>2 006</td></tr><tr><td align='center'>Charcutier traiteur qualifié</td><td align='center'>2 006</td></tr><tr><td align='center'>Charcutier préparateur qualifié</td><td align='center'>2 006</td></tr><tr><td align='center'>Tripier préparateur qualifié</td><td align='center'>2 006</td></tr><tr><td align='center'>Boucher hippophagique préparateur qualifié</td><td align='center'>2 006</td></tr><tr><td rowspan='3' align='center'>Échelon B</td><td align='center'>Boucher préparateur vendeur qualifié</td><td align='center'>2 050</td></tr><tr><td align='center'>Boucher traiteur qualifié</td><td align='center'>2 050</td></tr><tr><td align='center'>Ouvrier tripier</td><td align='center'>2 050</td></tr><tr><td align='center'>Échelon C</td><td align='center'>Boucher charcutier traiteur qualifié</td><td align='center'>2 129</td></tr><tr><td colspan='3' align='center'><strong>Niveau IV</strong></td></tr><tr><td align='center'>Échelon A</td><td align='center'>Comptable</td><td align='center'>2 137</td></tr><tr><td align='center'>Échelon B</td><td align='center'>Boucher charcutier traiteur très qualifié</td><td align='center'>2 203</td></tr><tr><td rowspan='4' align='center'>Échelon C</td><td align='center'>Boucher hautement qualifié</td><td align='center'>2 236</td></tr><tr><td align='center'>Boucher traiteur hautement qualifié</td><td align='center'>2 236</td></tr><tr><td align='center'>Charcutier traiteur hautement qualifié</td><td align='center'>2 236</td></tr><tr><td align='center'>Tripier responsable cuisson</td><td align='center'>2 236</td></tr><tr><td align='center'>Échelon D</td><td align='center'>Boucher charcutier traiteur hautement qualifié</td><td align='center'>2 346</td></tr><tr><th colspan='3'>Agents de maîtrise et cadres</th></tr><tr><td colspan='3' align='center'><strong>Niveau V</strong></td></tr><tr><td></td><td align='center'>Responsable de laboratoire adjoint</td><td align='center'>2 545</td></tr><tr><td></td><td align='center'>Responsable de point de vente adjoint</td><td align='center'>2 545</td></tr><tr><td colspan='3' align='center'><strong>Niveau VI</strong></td></tr><tr><td rowspan='3' align='center'>Échelon A</td><td align='center'>Responsable de laboratoire</td><td align='center'>2 776</td></tr><tr><td align='center'>Responsable de point de vente</td><td align='center'>2 776</td></tr><tr><td align='center'>Responsable hygiène et sécurité</td><td align='center'>2 776</td></tr><tr><td align='center'>Échelon B</td><td align='center'>Assistant chef d'entreprise</td><td align='center'>2 795</td></tr><tr><td align='center'>Échelon C</td><td align='center'>Responsable de plusieurs points de vente</td><td align='center'>3 129</td></tr><tr><td colspan='3' align='center'><strong>Niveau VII</strong></td></tr><tr><td rowspan='3' align='center'>Échelon A</td><td align='center'>Responsable de laboratoire</td><td align='center'>3 563</td></tr><tr><td align='center'>Responsable de point de vente</td><td align='center'>3 563</td></tr><tr><td align='center'>Responsable des achats</td><td align='center'>3 563</td></tr><tr><td align='center'>Échelon B</td><td align='center'>Responsable d'entreprise</td><td align='center'>3 654</td></tr></tbody></table></center>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "etat": "VIGUEUR_ETEN",
                     "surtitre": "Annexe",
                     "lstLienModification": [
                       {
@@ -18678,6 +18678,18 @@
                         "datePubliTexte": "2023-07-06",
                         "dateSignaTexte": "2023-04-26",
                         "dateDebutCible": "2023-05-01"
+                      },
+                      {
+                        "textCid": "JORFTEXT000047812719",
+                        "textTitle": "Arrêté du 5 juillet 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047812723",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-07-12",
+                        "dateSignaTexte": "2023-07-05",
+                        "dateDebutCible": "2999-01-01"
                       }
                     ]
                   }
@@ -18692,7 +18704,7 @@
             "cid": "KALITEXT000047792438",
             "title": "Avenant rectificatif n° 70 bis du 26 avril 2023 à l'avenant n° 70 du 1er février 2023 relatif aux salaires",
             "id": "KALITEXT000047792438",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2023-05-01"
           },
           "children": [
@@ -18703,7 +18715,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000047792441",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -18712,9 +18724,22 @@
                     "cid": "KALIARTI000047792454",
                     "intOrdre": 524287,
                     "id": "KALIARTI000047792454",
-                    "content": "<p align='left'>Aux termes d'un <a href='/affichIDCC.do?cidTexte=KALITEXT000047416083&categorieLien=cid' title='Salaires au 1er mai 2023 (VE)'>avenant n° 70</a> à la convention collective nationale de la boucherie, boucherie-charcuterie, boucherie hippophagique, triperie, commerce de volailles et gibiers (IDCC 992) conclu en date du 1er février 2023, il a été décidé d'une revalorisation à hauteur de 1,81 % sur l'ensemble des postes de la grille des salaires conventionnels de la branche.</p><p align='left'>Ledit avenant stipule qu'il prendra effet le 1er jour du mois suivant la publication de l'arrêté d'extension au Journal officiel.</p><p align='left'>Ledit avenant a fait l'objet d'un arrêté d'extension en date du 12 avril 2023 paru au JORF du 18 avril 2023 et prendra par conséquent effet à la date du 1er mai 2023.</p><p align='left'>Postérieurement à la date de parution au JO de l'arrêté précité, il a pu être relevé une erreur dans le montant d'un salaire conventionnel de la grille, savoir celui correspondant à la classification « Charcutier traiteur – Niveau II, échelon B » qui figure pour son ancien montant brut mensuel de 1 827 euros pour 151,67 heures de travail, au lieu de 1 860 euros bruts mensuels pour 151,67 heures de travail.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "content": "<p align='left'>Aux termes d'un <a href='/affichIDCC.do?cidTexte=KALITEXT000047416083&categorieLien=cid'>avenant n° 70</a> à la convention collective nationale de la boucherie, boucherie-charcuterie, boucherie hippophagique, triperie, commerce de volailles et gibiers (IDCC 992) conclu en date du 1er février 2023, il a été décidé d'une revalorisation à hauteur de 1,81 % sur l'ensemble des postes de la grille des salaires conventionnels de la branche.</p><p align='left'>Ledit avenant stipule qu'il prendra effet le 1er jour du mois suivant la publication de l'arrêté d'extension au Journal officiel.</p><p align='left'>Ledit avenant a fait l'objet d'un arrêté d'extension en date du 12 avril 2023 paru au JORF du 18 avril 2023 et prendra par conséquent effet à la date du 1er mai 2023.</p><p align='left'>Postérieurement à la date de parution au JO de l'arrêté précité, il a pu être relevé une erreur dans le montant d'un salaire conventionnel de la grille, savoir celui correspondant à la classification « Charcutier traiteur – Niveau II, échelon B » qui figure pour son ancien montant brut mensuel de 1 827 euros pour 151,67 heures de travail, au lieu de 1 860 euros bruts mensuels pour 151,67 heures de travail.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000047812719",
+                        "textTitle": "Arrêté du 5 juillet 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047812723",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-07-12",
+                        "dateSignaTexte": "2023-07-05",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -18727,8 +18752,20 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000047792442",
                 "content": "<p align='left'>Il est procédé ainsi qu'il suit à la rectification de l'erreur matérielle commise dans la grille des salaires conventionnels figurant en annexe de l'avenant n° 70 en date du 1er février 2023 : le salaire brut mensuel pour 151,67 heures de travail de la classification « Charcutier traiteur – Niveau II, échelon B » est fixé à 1 860 euros.</p><p align='left'>La grille des salaires conventionnels annexée au présent avenant intègre cette rectification.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047812719",
+                    "textTitle": "Arrêté du 5 juillet 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047812723",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-07-12",
+                    "dateSignaTexte": "2023-07-05",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000047416083",
                     "textTitle": "Salaires au 1er mai 2023 - art. (VNE)",
@@ -18752,8 +18789,21 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000047792444",
                 "content": "<p align='left'><br/>De convention expresse et afin de ne pas pénaliser les salariés relevant de la classification ayant fait l'objet de la rectification qui précède, le présent avenant rectificatif prendra effet à la date du 1er mai 2023.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047812719",
+                    "textTitle": "Arrêté du 5 juillet 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047812723",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-07-12",
+                    "dateSignaTexte": "2023-07-05",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18764,8 +18814,21 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000047792445",
                 "content": "<p align='left'><br/>Toutes les autres dispositions de l'avenant n° 70, non contraires à celles du présent avenant rectificatif, demeurent inchangées.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047812719",
+                    "textTitle": "Arrêté du 5 juillet 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047812723",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-07-12",
+                    "dateSignaTexte": "2023-07-05",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18775,9 +18838,22 @@
                 "num": "4",
                 "intOrdre": 2621435,
                 "id": "KALIARTI000047792447",
-                "content": "<p align='left'><br/>Le présent avenant fera l'objet d'un dépôt dans les conditions prévues aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-6 (V)'>L. 2231-6</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901804&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-26 (V)'>L. 2261-26</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-2 (V)'>D. 2231-2</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485209&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-3 (M)'>D. 2231-3 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485217&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-7 (V)'>D. 2231-7 </a>du code du travail et d'une demande d'extension dans les conditions fixées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-15 (V)'>article L. 2261-15</a> dudit code.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'><br/>Le présent avenant fera l'objet d'un dépôt dans les conditions prévues aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>L. 2231-6</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901804&dateTexte=&categorieLien=cid'>L. 2261-26</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid'>D. 2231-2</a>, <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485209&dateTexte=&categorieLien=cid'>D. 2231-3 </a>et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485217&dateTexte=&categorieLien=cid'>D. 2231-7 </a>du code du travail et d'une demande d'extension dans les conditions fixées à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901793&dateTexte=&categorieLien=cid'>article L. 2261-15</a> dudit code.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047812719",
+                    "textTitle": "Arrêté du 5 juillet 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047812723",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-07-12",
+                    "dateSignaTexte": "2023-07-05",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18787,7 +18863,7 @@
                 "intOrdre": 3145722,
                 "title": "Annexe",
                 "id": "KALISCTA000047792453",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -18797,8 +18873,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000047792456",
                     "content": "<p align='center'>Annexe<br/>\nSalaires conventionnels</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Niveau</th><th>Classification</th><th>Salaire brut mensuel<br/>\n\t\t\t151,67 heures</th></tr><tr><th colspan='3'>Ouvrier(e)s, employé(e)s</th></tr><tr><td align='center'><strong>Niveau I</strong></td><td></td><td></td></tr><tr><td rowspan='2' align='center'>Échelon A</td><td>Plongeur</td><td align='center'>1 795</td></tr><tr><td>Employé d'entretien</td><td align='center'>1 795</td></tr><tr><td rowspan='2' align='center'>Échelon B</td><td>Chauffeur-livreur</td><td align='center'>1 815</td></tr><tr><td>Employé administratif</td><td align='center'>1 815</td></tr><tr><td align='center'><strong>Niveau II</strong></td><td></td><td></td></tr><tr><td rowspan='3' align='center'>Échelon A</td><td>Chauffeur-livreur encaisseur</td><td align='center'>1 836</td></tr><tr><td>Caissier</td><td align='center'>1 836</td></tr><tr><td>Vendeur</td><td align='center'>1 836</td></tr><tr><td rowspan='5' align='center'>Échelon B</td><td>Secrétaire aide-comptable</td><td align='center'>1 860</td></tr><tr><td>boucher préparateur</td><td align='center'>1 860</td></tr><tr><td>Charcutier traiteur</td><td align='center'>1 860</td></tr><tr><td>Vendeur qualifié</td><td align='center'>1 860</td></tr><tr><td>Tripier préparateur</td><td align='center'>1 860</td></tr><tr><td align='center'>Échelon C</td><td>Caissier aide-comptable</td><td align='center'>1 891</td></tr><tr><td align='center'><strong>Niveau III</strong></td><td></td><td></td></tr><tr><td rowspan='5' align='center'>Échelon A</td><td>Boucher préparateur qualifié</td><td align='center'>2 006</td></tr><tr><td>Charcutier traiteur qualifié</td><td align='center'>2 006</td></tr><tr><td>Charcutier préparateur qualifié</td><td align='center'>2 006</td></tr><tr><td>Tripier préparateur qualifié</td><td align='center'>2 006</td></tr><tr><td>Boucher hippophagique préparateur qualifié</td><td align='center'>2 006</td></tr><tr><td rowspan='3' align='center'>Échelon B</td><td>Boucher préparateur vendeur qualifié</td><td align='center'>2 050</td></tr><tr><td>Boucher traiteur qualifié</td><td align='center'>2 050</td></tr><tr><td>Ouvrier tripier</td><td align='center'>2 050</td></tr><tr><td align='center'>Échelon C</td><td>Boucher charcutier traiteur qualifié</td><td align='center'>2 129</td></tr><tr><td align='center'><strong>Niveau IV</strong></td><td></td><td></td></tr><tr><td align='center'>Échelon A</td><td>Comptable</td><td align='center'>2 137</td></tr><tr><td align='center'>Échelon B</td><td>Boucher charcutier traiteur très qualifié</td><td align='center'>2 203</td></tr><tr><td rowspan='4' align='center'>Échelon C</td><td>Boucher hautement qualifié</td><td align='center'>2 236</td></tr><tr><td>Boucher traiteur hautement qualifié</td><td align='center'>2 236</td></tr><tr><td>Charcutier traiteur hautement qualifié</td><td align='center'>2 236</td></tr><tr><td>Tripier responsable cuisson</td><td align='center'>2 236</td></tr><tr><td align='center'>Échelon D</td><td>Boucher charcutier traiteur hautement qualifié</td><td align='center'>2 346</td></tr><tr><th colspan='3'>Agents de maîtrise et cadres</th></tr><tr><td align='center'><strong>Niveau V</strong></td><td></td><td></td></tr><tr><td></td><td>Responsable de laboratoire adjoint</td><td align='center'>2 545</td></tr><tr><td></td><td>Responsable de point de vente adjoint</td><td align='center'>2 545</td></tr><tr><td align='center'><strong>Niveau V</strong>I</td><td></td><td></td></tr><tr><td rowspan='3' align='center'>Échelon A</td><td>Responsable de laboratoire</td><td align='center'>2 776</td></tr><tr><td>Responsable de point de vente</td><td align='center'>2 776</td></tr><tr><td>Responsable hygiène et sécurité</td><td align='center'>2 776</td></tr><tr><td align='center'>Échelon B</td><td>Assistant chef d'entreprise</td><td align='center'>2 795</td></tr><tr><td align='center'>Échelon C</td><td>Responsable de plusieurs points de vente</td><td align='center'>3 129</td></tr><tr><td align='center'><strong>Niveau VII</strong></td><td></td><td></td></tr><tr><td rowspan='3' align='center'>Échelon A</td><td>Responsable de laboratoire</td><td align='center'>3 563</td></tr><tr><td>Responsable de point de vente</td><td align='center'>3 563</td></tr><tr><td>Responsable des achats</td><td align='center'>3 563</td></tr><tr><td align='center'>Échelon B</td><td>Responsable d'entreprise</td><td align='center'>3 654</td></tr></tbody></table></center>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000047812719",
+                        "textTitle": "Arrêté du 5 juillet 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047812723",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-07-12",
+                        "dateSignaTexte": "2023-07-05",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
