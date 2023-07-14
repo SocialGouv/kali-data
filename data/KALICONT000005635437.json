@@ -3346,7 +3346,7 @@
                     "intOrdre": 42949,
                     "id": "KALIARTI000047658529",
                     "content": "<p>1. En matière d'emploi</p><p>S'appuyant notamment sur les informations collectées par l'observatoire prospectif des métiers et des qualifications de la branche, la CPNE étudie les conséquences prévisibles sur l'emploi de l'évolution des différentes activités du secteur eu égard :<br/>\n– aux données économiques générales de la branche ;<br/>\n– à l'évolution des techniques et pratiques professionnelles ;<br/>\n– aux besoins des populations concernées ou susceptibles de l'être ;<br/>\n– aux métiers à adapter, et aux nouvelles qualifications créant de nouveaux métiers.</p><p>Elle établit un rapport annuel sur la situation de l'emploi et son évolution.</p><p>2. En matière de formation professionnelle :</p><p>Le rôle de la CPNE est le suivant :<br/>\n– elle définit les priorités et orientations en matière de formation professionnelle ;<br/>\n– elle participe à l'étude des moyens de formation et de perfectionnement existant pour les différents niveaux de qualification ;<br/>\n– elle s'assure de l'égalité d'accès de tous à la formation, notamment de l'égalité d'accès des hommes et des femmes ;<br/>\n– elle recherche avec les pouvoirs publics et les organismes intéressés les mesures propres à la mise en place des moyens de formation et à leur adaptation ou leur développement éventuels ;<br/>\n– elle contribue à l'amélioration des moyens de formation existant par la formulation d'observations et propositions utiles auprès des organismes dispensateurs de formation, et elle contribue à la définition des critères de qualité et d'efficacité des actions de formation ;<br/>\n– elle établit la liste des formations et qualifications présentant un intérêt reconnu pour la profession ;<br/>\n– elle préconise les modalités d'accueil des élèves et étudiants qui effectuent des stages ou des périodes de formation en entreprise ;<br/>\n– elle suit l'application des accords conclus à l'issue de la négociation triennale de branche sur les orientations et moyens de la formation.</p><p>3. En matière de formation professionnalisante :<br/>\n– elle est mandatée pour définir les conditions dans lesquelles en concertation avec l'opérateur de compétences (OPCO) les contrats de professionnalisation peuvent être proposés en priorité en fonction des circonstances propres à la branche et notamment pour définir les critères, les taux et modalités de prise en charge de ce type de contrats dans le respect des attributions de la CPPNI et de l'OPCO ;<br/>\n– elle examine les moyens nécessaires à un bon exercice de la mission des tuteurs ;<br/>\n– elle est partie prenante de tout projet de formation spécifique à la branche ;<br/>\n– elle est consultée préalablement à tout projet de développement d'une formation décidé par les pouvoirs publics.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
                         "textCid": "KALITEXT000047657208",
@@ -3359,42 +3359,18 @@
                         "datePubliTexte": "2023-06-08",
                         "dateSignaTexte": "2023-04-07",
                         "dateDebutCible": "2023-04-07"
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
-                "cid": "KALISCTA000005694912",
-                "intOrdre": 171796,
-                "title": "III. - Relations avec l'OPCA",
-                "id": "KALISCTA000005694912",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005778166",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000005778166",
-                    "content": "<p></p>   La CPNE et l'OPCA se tiendront réciproquement informés sur tout ce qui concerne les besoins de formation de la profession.<p></p><p></p>   La CPNE s'assure que l'OPCA applique les orientations qu'elle a définies.<p></p>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
+                      },
                       {
-                        "textCid": "",
-                        "textTitle": "Accord 2006-02-27 BO conventions collectives 2006-17 étendu par arrêté du 20 octobre 2006 JORF 1er novembre 2006",
-                        "linkType": "CREATION",
+                        "textCid": "JORFTEXT000047817125",
+                        "textTitle": "Arrêté du 30 juin 2023 - art. 1, v. init.",
+                        "linkType": "EXTENSION",
                         "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047817128",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-07-13",
+                        "dateSignaTexte": "2023-06-30",
+                        "dateDebutCible": "2999-01-01"
                       }
                     ]
                   }
@@ -3408,7 +3384,7 @@
                 "intOrdre": 193270,
                 "title": "III. - Relations avec l'OPCO",
                 "id": "KALISCTA000047658534",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -3418,7 +3394,7 @@
                     "intOrdre": 1073741823,
                     "id": "KALIARTI000047658532",
                     "content": "<p>La CPNE et l'OPCO se tiendront réciproquement informés sur tout ce qui concerne les besoins de formation de la profession.</p><p>La CPNE s'assure que l'OPCO applique les orientations qu'elle a définies.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
                         "textCid": "KALITEXT000047657208",
@@ -3431,6 +3407,18 @@
                         "datePubliTexte": "2023-06-08",
                         "dateSignaTexte": "2023-04-07",
                         "dateDebutCible": "2023-04-07"
+                      },
+                      {
+                        "textCid": "JORFTEXT000047817125",
+                        "textTitle": "Arrêté du 30 juin 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047817128",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-07-13",
+                        "dateSignaTexte": "2023-06-30",
+                        "dateDebutCible": "2999-01-01"
                       }
                     ]
                   }
@@ -7524,7 +7512,7 @@
             "cid": "KALITEXT000047657208",
             "title": "Avenant du 7 avril 2023 à l'accord du 27 février 2006 relatif à la création d'une commission paritaire nationale de l'emploi (CPNE)",
             "id": "KALITEXT000047657208",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2023-04-07"
           },
           "children": [
@@ -7535,7 +7523,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000047657211",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -7545,8 +7533,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000047657217",
                     "content": "<p align='left'><br/>Les parties liées par la convention collective nationale des entreprises de désinfection, désinsectisation, dératisation (3D) ont entrepris de compléter les attributions de la CPNE comme suit afin de répondre à une demande de l'opérateur de compétences (OPCO). La demande de révision a été adressée aux membres de la CPPNI le 31 mars 2023. Elle a été examinée par les participants en réunion paritaire le 3 avril 2023 à laquelle ont été conviées toutes les organisations représentatives. Après échanges il est convenu ce qui suit :</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000047817125",
+                        "textTitle": "Arrêté du 30 juin 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047817128",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-07-13",
+                        "dateSignaTexte": "2023-06-30",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -7559,8 +7560,20 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000047657212",
                 "content": "<p align='left'>Au II. 3 « Missions de la CPNE en matière de formation professionnalisante » la rédaction du premier tiret est remplacée par la rédaction suivante :</p><p align='left'>« – elle est mandatée pour définir les conditions dans lesquelles en concertation avec l'opérateur de compétences (OPCO) les contrats de professionnalisation peuvent être proposés en priorité en fonction des circonstances propres à la branche et notamment pour définir les critères, les taux et modalités de prise en charge de ce type de contrats dans le respect des attributions de la CPPNI et de l'OPCO ; »</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047817125",
+                    "textTitle": "Arrêté du 30 juin 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047817128",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-07-13",
+                    "dateSignaTexte": "2023-06-30",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000005647075",
                     "textTitle": "Création d'une commission paritaire nationale d... - art. (VNE)",
@@ -7584,8 +7597,20 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000047657214",
                 "content": "<p align='left'><br/>Au III « OPCA » est remplacé par « OPCO » dans le titre et aux deux alinéas de cet article.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047817125",
+                    "textTitle": "Arrêté du 30 juin 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047817128",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-07-13",
+                    "dateSignaTexte": "2023-06-30",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000005647075",
                     "textTitle": "Création d'une commission paritaire nationale d... -  III. - Relations avec l'OPCO (VNE)",
@@ -7609,6 +7634,18 @@
                     "datePubliTexte": "2999-01-01",
                     "dateSignaTexte": "2006-02-27",
                     "dateDebutCible": "2023-04-07"
+                  },
+                  {
+                    "textCid": "KALITEXT000005647075",
+                    "textTitle": "Création d'une commission paritaire nationale d... - art. (Ab)",
+                    "linkType": "ABROGE",
+                    "linkOrientation": "source",
+                    "articleNum": "",
+                    "articleId": "KALIARTI000005778166",
+                    "natureText": "ACCORD",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2006-02-27",
+                    "dateDebutCible": "2006-02-27"
                   }
                 ]
               }
@@ -7621,8 +7658,21 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000047657216",
                 "content": "<p align='left'>Sous réserve de l'exercice éventuel du droit d'opposition dans les conditions définies par la loi, le présent avenant, conclu pour une durée indéterminée, entre en application à compter de sa signature. Il fait l'objet des modalités de dépôt et de publicité prévues par la loi. Son contenu ne nécessite pas que des dispositions particulières soient adoptées pour les entreprises de moins de cinquante salariés.</p><p align='left'>Les autres dispositions de l'accord ainsi révisé demeurent applicables sans changement.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047817125",
+                    "textTitle": "Arrêté du 30 juin 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047817128",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-07-13",
+                    "dateSignaTexte": "2023-06-30",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]

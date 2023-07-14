@@ -8525,7 +8525,7 @@
             "cid": "KALITEXT000047410228",
             "title": "Avenant n° 1 du 21 novembre 2022 relatif à la reconversion ou promotion par l'alternance",
             "id": "KALITEXT000047410228",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2022-11-21"
           },
           "children": [
@@ -8536,9 +8536,22 @@
                 "num": "unique",
                 "intOrdre": 524287,
                 "id": "KALIARTI000047410230",
-                "content": "<p align='left'>L'<a href='/affichIDCC.do?cidTexte=KALITEXT000042852656&categorieLien=cid' title='Reconversion ou promotion par alternance pour les années 2020 à 2022 (VE)'>accord du 30 janvier 2020</a> concernant la reconversion ou promotion par l'alternance dans la presse magazine est reconduit pour trois ans, soit pour les années 2023, 2024 et 2025.</p><p align='left'>Cet avenant prend effet dès sa conclusion.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "content": "<p align='left'>L'<a href='/affichIDCC.do?cidTexte=KALITEXT000042852656&categorieLien=cid'>accord du 30 janvier 2020</a> concernant la reconversion ou promotion par l'alternance dans la presse magazine est reconduit pour trois ans, soit pour les années 2023, 2024 et 2025.</p><p align='left'>Cet avenant prend effet dès sa conclusion.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047816963",
+                    "textTitle": "Arrêté du 30 juin 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047816977",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-07-13",
+                    "dateSignaTexte": "2023-06-30",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
