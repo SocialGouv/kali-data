@@ -1,3 +1,11 @@
+# [2.587.0](https://github.com/SocialGouv/kali-data/compare/v2.586.0...v2.587.0) (2023-07-17)
+
+
+### Features
+
+* **1740:** suppression de la convention collective ([4bd4937](https://github.com/SocialGouv/kali-data/commit/4bd4937d74423b620f283c7ceac8470603a2932b))
+* **data:** 20230717_1434 update ([7bc7515](https://github.com/SocialGouv/kali-data/commit/7bc75155756f7e939fcaf1d651882502cac7460e))
+
 # [2.586.0](https://github.com/SocialGouv/kali-data/compare/v2.585.0...v2.586.0) (2023-07-14)
 
 
