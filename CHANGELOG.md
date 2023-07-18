@@ -1,3 +1,10 @@
+## [2.588.1](https://github.com/SocialGouv/kali-data/compare/v2.588.0...v2.588.1) (2023-07-18)
+
+
+### Bug Fixes
+
+* **1740:** suppression du kali document ([5513e62](https://github.com/SocialGouv/kali-data/commit/5513e62881883a2e7327371fa677a0e9a6996a08))
+
 # [2.588.0](https://github.com/SocialGouv/kali-data/compare/v2.587.0...v2.588.0) (2023-07-18)
 
 
