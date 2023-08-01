@@ -418,8 +418,20 @@
                     "intOrdre": 42949,
                     "id": "KALIARTI000047741062",
                     "content": "<p>Rôle :</p><p>La commission mixte nationale négocie les rémunérations minimales garanties et la valeur du point.</p><p>À cet effet, FCEL remet un rapport économique et social annuel de la branche aux organisations syndicales au moins trois semaines avant la date d'ouverture de la négociation. Ce rapport comprend des données relatives à l'évolution économique, à la situation de l'emploi dans la branche, à son évolution et à ses prévisions annuelles ou pluriannuelles, et aux salaires effectifs moyens par catégorie professionnelle et par sexe.</p><p>Elle examine, au moins une fois tous les 5 ans, les classifications conventionnelles afin d'évaluer le besoin de les réviser.</p><p>Elle se réunit tous les trois ans pour négocier les mesures visant à assurer l'égalité professionnelle entre les hommes et les femmes et les mesures de rattrapage tendant à remédier aux inégalités constatées, sur la base d'un rapport présentant la situation comparée des hommes et des femmes dans les domaines fixés par la loi.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000047641415",
+                        "textTitle": "Arrêté du 1er juin 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047641417",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-06-07",
+                        "dateSignaTexte": "2023-06-01",
+                        "dateDebutCible": "2999-01-01"
+                      },
                       {
                         "textCid": "KALITEXT000047734641",
                         "textTitle": "Avenant n° 14 du 6 février 2023 - art. 2 (VNE)",
@@ -1463,49 +1475,11 @@
             {
               "type": "section",
               "data": {
-                "cid": "KALISCTA000005747845",
-                "intOrdre": 85898,
-                "title": "Rémunérations minimales mensuelles garanties  ",
-                "id": "KALISCTA000005747845",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005827943",
-                    "num": "27",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000005827943",
-                    "content": "<p></p>   La présente CCN garantit une rémunération minimale mensuelle à chaque salarié travaillant un mois complet à temps plein. Le montant de cette rémunération minimale mensuelle garantie est défini pour chacune des classes et, dans chaque classe, à l'exception de la classe 1, pour 3 niveaux de maîtrise de la fonction. Il est exprimé en points (cf. art. 32). Pour les salariés à temps partiel ou n'ayant pas travaillé tout le mois, le montant de cette rémunération minimale mensuelle garantie est proratisé.<p></p><p></p><p></p>   Les montants des rémunérations minimales mensuelles garanties à compter du 1er janvier 2004 sont les suivants.<p></p><TABLE><TR><TD></TD><TD>                   CLASSES                         </TD></TR><TR><TD> NIVEAU </TD><TD>        1       </TD><TD>        2       </TD><TD>        3        </TD></TR><TR><TD></TD><TD> Points </TD><TD> Euros </TD><TD> Points </TD><TD> Euros </TD><TD> Points </TD><TD> Euros  </TD></TR><TR><TD>   I    </TD><TD>  225   </TD><TD> 1 142 </TD><TD>   235  </TD><TD> 1 193 </TD><TD>   249  </TD><TD>  1 264 </TD></TR><TR><TD>  II    </TD><TD>  233   </TD><TD> 1 182 </TD><TD>   242  </TD><TD> 1 228 </TD><TD>   256  </TD><TD>  1 299 </TD></TR><TR><TD>  III   </TD><TD></TD><TD></TD><TD>   249  </TD><TD> 1 264 </TD><TD>   266  </TD><TD>  1 350 </TD></TR><TR><TD></TD><TD>                   CLASSES                         </TD></TR><TR><TD> NIVEAU </TD><TD>        4       </TD><TD>        5       </TD><TD>        6        </TD></TR><TR><TD></TD><TD> Points </TD><TD> Euros </TD><TD> Points </TD><TD> Euros </TD><TD> Points </TD><TD> Euros  </TD></TR><TR><TD>   I    </TD><TD>  266   </TD><TD> 1 350 </TD><TD>   284  </TD><TD> 1 441 </TD><TD>   307  </TD><TD>  1 558 </TD></TR><TR><TD>  II    </TD><TD>  276   </TD><TD> 1 401 </TD><TD>   296  </TD><TD> 1 502 </TD><TD>   320  </TD><TD>  1 624 </TD></TR><TR><TD>  III   </TD><TD>  284   </TD><TD> 1 441 </TD><TD>   307  </TD><TD> 1 558 </TD><TD>   333  </TD><TD>  1 690 </TD></TR><TR><TD></TD><TD>           CLASSES               </TD></TR><TR><TD> NIVEAU </TD><TD>        7       </TD><TD>        8       </TD></TR><TR><TD></TD><TD> Points </TD><TD> Euros </TD><TD> Points </TD><TD> Euros </TD></TR><TR><TD>   I    </TD><TD>  333   </TD><TD> 1 690 </TD><TD>   358  </TD><TD> 1 817 </TD></TR><TR><TD>  II    </TD><TD>  346   </TD><TD> 1 756 </TD><TD>   371  </TD><TD> 1 883 </TD></TR><TR><TD>  III   </TD><TD>  2358  </TD><TD> 1 817 </TD><TD>   384  </TD><TD> 1 949 </TD></TR></TABLE><p></p><p></p>   Ces rémunérations minimales mensuelles s'entendent pour une durée du travail mensuelle de 151,67 heures. Elles sont proratisées pour les salariés à temps partiel ou n'ayant pas travaillé un mois complet. Elles sont donc applicables à tous les salariés, y compris les agents de pesée, sous réserve de dispositions légales plus favorables.",
-                    "etat": "VIGUEUR_ETEN",
-                    "historique": "Modifié par Avenant n° 1 du 2 décembre 2003 étendu par arrêté du 16 décembre 2004 JORF 28 décembre 2004.",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Convention collective nationale 2002-09-16 étendue par arrêté du 4 décembre 2002 JORF 28 décembre 2002",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
                 "cid": "KALISCTA000047740993",
                 "intOrdre": 107372,
                 "title": "Rémunérations minimales garanties",
                 "id": "KALISCTA000047741060",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -1516,8 +1490,20 @@
                     "intOrdre": 1073741823,
                     "id": "KALIARTI000047741058",
                     "content": "<p align='left'>La présente CCN garantit une rémunération brute minimale annuelle garantie à chaque salarié travaillant à temps plein. Le montant de cette rémunération minimale garantie est défini pour chacune des classes et, dans chaque classe, à l'exception de la classe 1, pour trois niveaux de maîtrise de la fonction. Il est exprimé en euros bruts annuels, sur l'année civile 1er janvier – 31 décembre sauf accord d'entreprise prévoyant une période différente.</p><p align='left'>À compter du 1er janvier 2023, les montants des rémunérations minimales garanties annuelles sont les suivants :</p><center><table border='1'><tbody><tr><th colspan='9'>Classe</th></tr><tr><th>Niveau</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th></tr><tr><td align='center'>I</td><td align='center'>20 612 €</td><td align='center'>20 912 €</td><td align='center'>21 212 €</td><td align='center'>21 512 €</td><td align='center'>22 612 €</td><td align='center'>24 312 €</td><td align='center'>26 162 €</td><td align='center'>28 162 €</td></tr><tr><td align='center'>II</td><td align='center'>20 912 €</td><td align='center'>21 062 €</td><td align='center'>21 362 €</td><td align='center'>22 012 €</td><td align='center'>23 462 €</td><td align='center'>25 162 €</td><td align='center'>27 162 €</td><td align='center'>29 162 €</td></tr><tr><td align='center'>III</td><td></td><td align='center'>21 212 €</td><td align='center'>21 512 €</td><td align='center'>22 612 €</td><td align='center'>24 312 €</td><td align='center'>26 162 €</td><td align='center'>28 162 €</td><td align='center'>30 162 €</td></tr></tbody></table></center><p align='left'>À titre indicatif, ces montants annuels correspondent aux montants mensuels suivants :</p><center><table border='1'><tbody><tr><th colspan='9'>Classe</th></tr><tr><th>Niveau</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th></tr><tr><td align='center'>I</td><td align='center'>1 717,67 €</td><td align='center'>1 742,67 €</td><td align='center'>1 767,67 €</td><td align='center'>1 792,67 €</td><td align='center'>1 884,33 €</td><td align='center'>2 026,00 €</td><td align='center'>2 180,17 €</td><td align='center'>2 346,83 €</td></tr><tr><td align='center'>II</td><td align='center'>1 742,67 €</td><td align='center'>1 755,17 €</td><td align='center'>1 780,17 €</td><td align='center'>1 834,33 €</td><td align='center'>1 955,17 €</td><td align='center'>2 096,83 €</td><td align='center'>2 263,50 €</td><td align='center'>2 430,17 €</td></tr><tr><td align='center'>III</td><td></td><td align='center'>1 767,67 €</td><td align='center'>1 792,67 €</td><td align='center'>1 884,33 €</td><td align='center'>2 026,00 €</td><td align='center'>2 180,17 €</td><td align='center'>2 346,83 €</td><td align='center'>2 513,50 €</td></tr></tbody></table></center><p align='left'>Ces rémunérations minimales garanties s'entendent pour une durée du travail à temps plein, selon les dispositions applicables dans chaque entreprise. Elles sont proratisées pour les salariés à temps partiel ou n'ayant pas travaillé une année complète. Elles sont donc applicables à tous les salariés, y compris les agents de pesée, sous réserve de dispositions légales plus favorables.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000047641415",
+                        "textTitle": "Arrêté du 1er juin 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047641417",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-06-07",
+                        "dateSignaTexte": "2023-06-01",
+                        "dateDebutCible": "2999-01-01"
+                      },
                       {
                         "textCid": "KALITEXT000047734641",
                         "textTitle": "Avenant n° 14 du 6 février 2023 - art. 2 (VNE)",
@@ -1590,8 +1576,20 @@
                     "intOrdre": 42949,
                     "id": "KALIARTI000047741055",
                     "content": "<p>L'évolution de la carrière d'un salarié au sein d'un OCL peut consister, soit à exercer au fil des années de nouvelles missions, soit à exercer longuement une même fonction en s'adaptant à ses évolutions.</p><p>Le type d'évolution de carrière résulte à la fois des choix de l'employeur et de ceux du salarié, ainsi que de ses capacités.</p><p>Dans l'hypothèse d'une évolution de leur fonction, les rémunérations minimales annuelles garanties des salariés peuvent évoluer par changement de classe.</p><p>Dans l'hypothèse d'une stabilité dans une classe, il est versé une prime d'ancienneté mensuelle dans les conditions suivantes :<br/>\n– 4 % d'un douzième de la rémunération minimale garantie prévue à l'article 27, à compter du 1er mois suivant le 10e anniversaire de l'entrée dans la classe ;<br/>\n– cette ancienneté passera de 4 à 6 % de la même base de calcul, à compter du 1er mois suivant le 13e anniversaire de l'entrée dans la classe.</p><p>En cas de changement de classe, le salarié conserve le pourcentage atteint au titre de l'ancienneté.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000047641415",
+                        "textTitle": "Arrêté du 1er juin 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047641417",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-06-07",
+                        "dateSignaTexte": "2023-06-01",
+                        "dateDebutCible": "2999-01-01"
+                      },
                       {
                         "textCid": "KALITEXT000047734641",
                         "textTitle": "Avenant n° 14 du 6 février 2023 - art. 2 (VNE)",
@@ -1701,8 +1699,20 @@
                     "intOrdre": 42949,
                     "id": "KALIARTI000047741052",
                     "content": "<p align='left'>La structure des salaires est la traduction de la politique salariale de l'OCEL. Elle doit toutefois satisfaire aux exigences suivantes :<br/>\n– le principe « à travail égal, salaire égal » doit être respecté ;<br/>\n– tous les salariés d'une même classe et d'un même niveau ont un salaire de base identique ;<br/>\n– ce salaire de base doit être au moins égal à la rémunération minimale annuelle garantie.</p><p align='left'>À l'issue des travaux procédant à la recomposition des éléments de la rémunération, certains salariés pourront avoir, sur leur bulletin de paie, une ligne intitulée « différentiel » correspondant à la somme qu'il convient de verser en plus des éléments de la nouvelle structure de salaire pour maintenir la rémunération au niveau atteint avec l'ancienne structure de salaire. Le montant de cette ligne « différentiel » est acquis au salarié et ne peut être supprimé ou diminué.</p><p align='left'>Tout salarié peut saisir la direction de son entreprise des difficultés nées de l'application des dispositions du présent article et, notamment, du respect des principes énoncés.</p><p align='left'>Le salarié a la faculté de faire présenter sa demande par l'intermédiaire d'un délégué du personnel ou, dans l'hypothèse d'un entretien, de s'y faire assister par un représentant du personnel.</p><p align='left'>La décision de confirmation ou de modification de la rémunération du salarié doit être motivée et notifiée par écrit au salarié, ainsi qu'au représentant du personnel l'ayant assisté.</p><p align='left'>Au cas où le litige persisterait, la commission paritaire d'entreprise pourra être saisie.</p><p align='center'></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000047641415",
+                        "textTitle": "Arrêté du 1er juin 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047641417",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-06-07",
+                        "dateSignaTexte": "2023-06-01",
+                        "dateDebutCible": "2999-01-01"
+                      },
                       {
                         "textCid": "KALITEXT000047734641",
                         "textTitle": "Avenant n° 14 du 6 février 2023 - art. 2 (VNE)",
@@ -1797,48 +1807,11 @@
             {
               "type": "section",
               "data": {
-                "cid": "KALISCTA000005747855",
-                "intOrdre": 429490,
-                "title": "Expression et réévaluation des rémunérations minimales mensuelles garanties  ",
-                "id": "KALISCTA000005747855",
-                "etat": "VIGUEUR_ETEN"
-              },
-              "children": [
-                {
-                  "type": "article",
-                  "data": {
-                    "cid": "KALIARTI000005828037",
-                    "num": "32",
-                    "intOrdre": 42949,
-                    "id": "KALIARTI000005828037",
-                    "content": "<p></p>   Il est défini un point \" FCL \" dont la valeur est négociée au minimum 1 fois par an en commission mixte. A la date d'entrée en vigueur de la présente convention, la valeur du point \" FCL \" est fixée à 5 Euros (1).<p></p><p></p><font color='808080'><em>   (1) Voir les accords salaires en fin de brochure.<p></p></em></font>",
-                    "etat": "VIGUEUR_ETEN",
-                    "lstLienModification": [
-                      {
-                        "textCid": "",
-                        "textTitle": "Convention collective nationale 2002-09-16 étendue par arrêté du 4 décembre 2002 JORF 28 décembre 2002",
-                        "linkType": "CREATION",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      }
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "type": "section",
-              "data": {
                 "cid": "KALISCTA000047741030",
                 "intOrdre": 450964,
                 "title": "Expression et réévaluation des rémunérations minimales annuelles garanties",
                 "id": "KALISCTA000047741050",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -1849,8 +1822,20 @@
                     "intOrdre": 1073741823,
                     "id": "KALIARTI000047741048",
                     "content": "<p>Il est défini un point de la branche (« point CL ») dont la valeur est fixée à 6,52 euros bruts.</p><p>La valeur de ce point et la rémunération minimale garantie définie à l'article 27 sont négociées au minimum une fois par an en commission mixte nationale, instance paritaire prévue à l'article 8 de la présente convention.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000047641415",
+                        "textTitle": "Arrêté du 1er juin 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047641417",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-06-07",
+                        "dateSignaTexte": "2023-06-01",
+                        "dateDebutCible": "2999-01-01"
+                      },
                       {
                         "textCid": "KALITEXT000047734641",
                         "textTitle": "Avenant n° 14 du 6 février 2023 - art. 2 (VNE)",
@@ -10360,7 +10345,7 @@
             "cid": "KALITEXT000047734641",
             "title": "Avenant n° 14 du 6 février 2023 modifiant certains articles de la convention collective",
             "id": "KALITEXT000047734641",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2023-01-01"
           },
           "children": [
@@ -10371,7 +10356,7 @@
                 "intOrdre": 524287,
                 "title": "Exposé des motifs",
                 "id": "KALISCTA000047734644",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -10381,8 +10366,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000047734645",
                     "content": "<p align='left'>Historiquement, les rémunérations conventionnelles minimales de la branche du contrôle laitier (IDCC 7008) ont été fixées par un système de grille en points sur une base mensuelle (art. 27), une valeur de point étant définie chaque année en commission mixte nationale (art. 8 et art. 32).</p><p align='left'>Au cours des dernières années, plusieurs niveaux de la grille de minima ont été rattrapés par le Smic.</p><p align='left'>Dans un contexte d'évolution des pratiques des entreprises de la branche, notamment en matière de rémunération, le système en place est apparu inapproprié à l'organisation professionnelle d'employeurs de la branche : France Conseil Élevage, la fédération française de contrôle laitier (FCL), dénommée ELIANCE ASSOCIATION depuis le 1er juin 2022 suite à son assemblée générale du 12 avril 2022.</p><p align='left'>Parallèlement, les organisations syndicales représentatives formulaient des revendications de hausse de la grille conventionnelle et de la valeur du point.</p><p align='left'>Aussi, plusieurs réunions paritaires se sont tenues et les parties en présence ont exposé leurs demandes respectives d'évolution de la grille des rémunérations minimales. Un accord a été trouvé sur le principe d'un nouveau dispositif de salaire de base à minima garanties, exprimés en euros bruts annuels et sur des montants applicables au 1er janvier 2023, ainsi qu'une revalorisation de la valeur du point à minima.</p><p align='left'>Le constat a été fait de la nécessité d'ajuster aussi la rédaction de certains articles de la convention collective nationale du 16 septembre 2002. ELIANCE ASSOCIATION adressait donc le 2 novembre 2022 aux partenaires sociaux une demande officielle de révision de la CCN et organisait de nouvelles réunions de négociation les 15 novembre 2022, 27 janvier et 6 février 2023.</p><p align='left'>Le présent accord, portant avenant n° 14 à la CCN du contrôle laitier, a pour objet de procéder à cette révision et mettre en œuvre le nouveau dispositif convenu entre les parties, afin de modifier et revaloriser la grille des rémunérations minimales conventionnelles garanties à compter du 1er janvier 2023.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000047641415",
+                        "textTitle": "Arrêté du 1er juin 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047641417",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-06-07",
+                        "dateSignaTexte": "2023-06-01",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -10394,10 +10392,23 @@
                 "num": "1er",
                 "intOrdre": 1074003967,
                 "id": "KALIARTI000047734647",
-                "content": "<p align='left'>À compter du 1er janvier 2023 :<br/>\n– la valeur du point visé à l'article 32 de la convention collective nationale de travail du 16 septembre 2002 est portée à 6,52 euros bruts ;<br/>\n– la nouvelle grille des rémunérations minimales de branche visée à l'article 27 est exprimée en euros bruts annuels, avec un montant de 20 612 € en classe 1 niveau I et 30 162 € en classe 8 niveau III, ces sommes font parties de l'annualisation et à titre d'information une grille mensuelle est présentée.</p><p align='left'>• Grille annuelle :</p><p align='left'></p><center><table border='1'><tbody><tr><th colspan='9'>Classe</th></tr><tr><th>Niveau</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th></tr><tr><td align='center'>I</td><td align='center'>20 612 €</td><td align='center'>20 912 €</td><td align='center'>21 212 €</td><td align='center'>21 512 €</td><td align='center'>22 612 €</td><td align='center'>24 312 €</td><td align='center'>26 162 €</td><td align='center'>28 162 €</td></tr><tr><td align='center'>II</td><td align='center'>20 912 €</td><td align='center'>21 062 €</td><td align='center'>21 362 €</td><td align='center'>22 012 €</td><td align='center'>23 462 €</td><td align='center'>25 162 €</td><td align='center'>27 162 €</td><td align='center'>29 162 €</td></tr><tr><td align='center'>III</td><td></td><td align='center'>21 212 €</td><td align='center'>21 512 €</td><td align='center'>22 612 €</td><td align='center'>24 312 €</td><td align='center'>26 162 €</td><td align='center'>28 162 €</td><td align='center'>30 162 €</td></tr></tbody></table></center><p align='left'>• Soit en mensuel à titre informatif :</p><p align='left'></p><center><table border='1'><tbody><tr><th colspan='9'>Classe</th></tr><tr><th>Niveau</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th></tr><tr><td align='center'>I</td><td align='center'>1 717,67 €</td><td align='center'>1 742,67 €</td><td align='center'>1 767,67 €</td><td align='center'>1 792,67 €</td><td align='center'>1 884,33 €</td><td align='center'>2 026,00 €</td><td align='center'>2 180,17 €</td><td align='center'>2 346,83 €</td></tr><tr><td align='center'>II</td><td align='center'>1 742,67 €</td><td align='center'>1 755,17 €</td><td align='center'>1 780,17 €</td><td align='center'>1 834,33 €</td><td align='center'>1 955,17 €</td><td align='center'>2 096,83 €</td><td align='center'>2 263,50 €</td><td align='center'>2 430,17 €</td></tr><tr><td align='center'>III</td><td></td><td align='center'>1 767,67 €</td><td align='center'>1 792,67 €</td><td align='center'>1 884,33 €</td><td align='center'>2 026,00 €</td><td align='center'>2 180,17 €</td><td align='center'>2 346,83 €</td><td align='center'>2 513,50 €</td></tr></tbody></table></center><p align='left'>Cette grille annuelle remplace celles résultant des avenants et recommandations patronales antérieures.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>• À compter du 1er janvier 2023 :<br/>\n– la valeur du point visé à l'article 32 de la convention collective nationale de travail du 16 septembre 2002 est portée à 6,52 euros bruts ;<br/>\n– la nouvelle grille des rémunérations minimales de branche visée à l'article 27 est exprimée en euros bruts annuels, avec un montant de 20 612 € en classe 1 niveau I et 30 162 € en classe 8 niveau III, ces sommes font parties de l'annualisation et à titre d'information une grille mensuelle est présentée.</p><p align='left'>• Grille annuelle :</p><p align='left'></p><center><table border='1'><tbody><tr><th colspan='9'>Classe</th></tr><tr><th>Niveau</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th></tr><tr><td align='center'>I</td><td align='center'>20 612 €</td><td align='center'>20 912 €</td><td align='center'>21 212 €</td><td align='center'>21 512 €</td><td align='center'>22 612 €</td><td align='center'>24 312 €</td><td align='center'>26 162 €</td><td align='center'>28 162 €</td></tr><tr><td align='center'>II</td><td align='center'>20 912 €</td><td align='center'>21 062 €</td><td align='center'>21 362 €</td><td align='center'>22 012 €</td><td align='center'>23 462 €</td><td align='center'>25 162 €</td><td align='center'>27 162 €</td><td align='center'>29 162 €</td></tr><tr><td align='center'>III</td><td></td><td align='center'>21 212 €</td><td align='center'>21 512 €</td><td align='center'>22 612 €</td><td align='center'>24 312 €</td><td align='center'>26 162 €</td><td align='center'>28 162 €</td><td align='center'>30 162 €</td></tr></tbody></table></center><p align='left'>• Soit en mensuel à titre informatif :</p><p align='left'></p><center><table border='1'><tbody><tr><th colspan='9'>Classe</th></tr><tr><th>Niveau</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th></tr><tr><td align='center'>I</td><td align='center'>1 717,67 €</td><td align='center'>1 742,67 €</td><td align='center'>1 767,67 €</td><td align='center'>1 792,67 €</td><td align='center'>1 884,33 €</td><td align='center'>2 026,00 €</td><td align='center'>2 180,17 €</td><td align='center'>2 346,83 €</td></tr><tr><td align='center'>II</td><td align='center'>1 742,67 €</td><td align='center'>1 755,17 €</td><td align='center'>1 780,17 €</td><td align='center'>1 834,33 €</td><td align='center'>1 955,17 €</td><td align='center'>2 096,83 €</td><td align='center'>2 263,50 €</td><td align='center'>2 430,17 €</td></tr><tr><td align='center'>III</td><td></td><td align='center'>1 767,67 €</td><td align='center'>1 792,67 €</td><td align='center'>1 884,33 €</td><td align='center'>2 026,00 €</td><td align='center'>2 180,17 €</td><td align='center'>2 346,83 €</td><td align='center'>2 513,50 €</td></tr></tbody></table></center><p align='left'>Cette grille annuelle remplace celles résultant des avenants et recommandations patronales antérieures.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Revalorisation des rémunérations minimales conventionnelles",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047641415",
+                    "textTitle": "Arrêté du 1er juin 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047641417",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-06-07",
+                    "dateSignaTexte": "2023-06-01",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -10408,9 +10419,21 @@
                 "intOrdre": 1288699903,
                 "id": "KALIARTI000047734648",
                 "content": "<p align='left'>Les articles 8.2, 27, 29, 31.1 et 32 de la convention collective nationale de travail du 16 septembre 2002 sont modifiés comme suit.</p><p align='left'>Les autres dispositions de la convention restent inchangées.</p><p align='center'>« Article 8.2<br/>\nCommission mixte nationale</p><p align='left'>Rôle :</p><p align='left'>La commission mixte nationale négocie les rémunérations minimales garanties et la valeur du point.</p><p align='left'>À cet effet, FCEL remet un rapport économique et social annuel de la branche aux organisations syndicales au moins trois semaines avant la date d'ouverture de la négociation. Ce rapport comprend des données relatives à l'évolution économique, à la situation de l'emploi dans la branche, à son évolution et à ses prévisions annuelles ou pluriannuelles, et aux salaires effectifs moyens par catégorie professionnelle et par sexe.</p><p align='left'>Elle examine, au moins une fois tous les 5 ans, les classifications conventionnelles afin d'évaluer le besoin de les réviser.</p><p align='left'>Elle se réunit tous les trois ans pour négocier les mesures visant à assurer l'égalité professionnelle entre les hommes et les femmes et les mesures de rattrapage tendant à remédier aux inégalités constatées, sur la base d'un rapport présentant la situation comparée des hommes et des femmes dans les domaines fixés par la loi.</p><p align='center'>Article 27<br/>\nRémunérations minimales garanties</p><p align='left'>La présente CCN garantit une rémunération brute minimale annuelle garantie à chaque salarié travaillant à temps plein. Le montant de cette rémunération minimale garantie est défini pour chacune des classes et, dans chaque classe, à l'exception de la classe 1, pour trois niveaux de maîtrise de la fonction. Il est exprimé en euros bruts annuels, sur l'année civile 1er janvier – 31 décembre sauf accord d'entreprise prévoyant une période différente.</p><p align='left'>À compter du 1er janvier 2023, les montants des rémunérations minimales garanties annuelles sont les suivants :</p><center><table border='1'><tbody><tr><th colspan='9'>Classe</th></tr><tr><th align='center'>Niveau</th><th align='center'>1</th><th align='center'>2</th><th align='center'>3</th><th align='center'>4</th><th align='center'>5</th><th align='center'>6</th><th align='center'>7</th><th align='center'>8</th></tr><tr><td align='center'>I</td><td align='center'>20 612 €</td><td align='center'>20 912 €</td><td align='center'>21 212 €</td><td align='center'>21 512 €</td><td align='center'>22 612 €</td><td align='center'>24 312 €</td><td align='center'>26 162 €</td><td align='center'>28 162 €</td></tr><tr><td align='center'>II</td><td align='center'>20 912 €</td><td align='center'>21 062 €</td><td align='center'>21 362 €</td><td align='center'>22 012 €</td><td align='center'>23 462 €</td><td align='center'>25 162 €</td><td align='center'>27 162 €</td><td align='center'>29 162 €</td></tr><tr><td align='center'>III</td><td></td><td align='center'>21 212 €</td><td align='center'>21 512 €</td><td align='center'>22 612 €</td><td align='center'>24 312 €</td><td align='center'>26 162 €</td><td align='center'>28 162 €</td><td align='center'>30 162 €</td></tr></tbody></table></center><p align='left'>À titre indicatif, ces montants annuels correspondent aux montants mensuels suivants :</p><center><table border='1'><tbody><tr><th colspan='9'>Classe</th></tr><tr><th align='center'>Niveau</th><th align='center'>1</th><th align='center'>2</th><th align='center'>3</th><th align='center'>4</th><th align='center'>5</th><th align='center'>6</th><th align='center'>7</th><th align='center'>8</th></tr><tr><td align='center'>I</td><td align='center'>1 717,67 €</td><td align='center'>1 742,67 €</td><td align='center'>1 767,67 €</td><td align='center'>1 792,67 €</td><td align='center'>1 884,33 €</td><td align='center'>2 026,00 €</td><td align='center'>2 180,17 €</td><td align='center'>2 346,83 €</td></tr><tr><td align='center'>II</td><td align='center'>1 742,67 €</td><td align='center'>1 755,17 €</td><td align='center'>1 780,17 €</td><td align='center'>1 834,33 €</td><td align='center'>1 955,17 €</td><td align='center'>2 096,83 €</td><td align='center'>2 263,50 €</td><td align='center'>2 430,17 €</td></tr><tr><td align='center'>III</td><td></td><td align='center'>1 767,67 €</td><td align='center'>1 792,67 €</td><td align='center'>1 884,33 €</td><td align='center'>2 026,00 €</td><td align='center'>2 180,17 €</td><td align='center'>2 346,83 €</td><td align='center'>2 513,50 €</td></tr></tbody></table></center><p align='left'>Ces rémunérations minimales garanties s'entendent pour une durée du travail à temps plein, selon les dispositions applicables dans chaque entreprise. Elles sont proratisées pour les salariés à temps partiel ou n'ayant pas travaillé une année complète. Elles sont donc applicables à tous les salariés, y compris les agents de pesée, sous réserve de dispositions légales plus favorables.</p><p align='center'>Article 29<br/>\nAncienneté dans une classe</p><p align='left'>L'évolution de la carrière d'un salarié au sein d'un OCL peut consister, soit à exercer au fil des années de nouvelles missions, soit à exercer longuement une même fonction en s'adaptant à ses évolutions.</p><p align='left'>Le type d'évolution de carrière résulte à la fois des choix de l'employeur et de ceux du salarié, ainsi que de ses capacités.<br/>\nDans l'hypothèse d'une évolution de leur fonction, les rémunérations minimales annuelles garanties des salariés peuvent évoluer par changement de classe.</p><p align='left'>Dans l'hypothèse d'une stabilité dans une classe, il est versé une prime d'ancienneté mensuelle dans les conditions suivantes :<br/>\n– 4 % d'un douzième de la rémunération minimale garantie prévue à l'article 27, à compter du 1er mois suivant le 10e anniversaire de l'entrée dans la classe ;<br/>\n– cette ancienneté passera de 4 à 6 % de la même base de calcul, à compter du 1er mois suivant le 13e anniversaire de l'entrée dans la classe.</p><p align='left'>En cas de changement de classe, le salarié conserve le pourcentage atteint au titre de l'ancienneté.</p><p align='center'>Article 31.1<br/>\nStructure des rémunérations</p><p align='left'>La structure des salaires est la traduction de la politique salariale de l'OCEL. Elle doit toutefois satisfaire aux exigences suivantes :<br/>\n– le principe “ à travail égal, salaire égal ” doit être respecté ;<br/>\n– tous les salariés d'une même classe et d'un même niveau ont un salaire de base identique ;<br/>\n– ce salaire de base doit être au moins égal à la rémunération minimale annuelle garantie.</p><p align='left'>À l'issue des travaux procédant à la recomposition des éléments de la rémunération, certains salariés pourront avoir, sur leur bulletin de paie, une ligne intitulée “ différentiel ” correspondant à la somme qu'il convient de verser en plus des éléments de la nouvelle structure de salaire pour maintenir la rémunération au niveau atteint avec l'ancienne structure de salaire. Le montant de cette ligne “ différentiel ” est acquis au salarié et ne peut être supprimé ou diminué.<br/>\nTout salarié peut saisir la direction de son entreprise des difficultés nées de l'application des dispositions du présent article et, notamment, du respect des principes énoncés.</p><p align='left'>Le salarié a la faculté de faire présenter sa demande par l'intermédiaire d'un délégué du personnel ou, dans l'hypothèse d'un entretien, de s'y faire assister par un représentant du personnel.</p><p align='left'>La décision de confirmation ou de modification de la rémunération du salarié doit être motivée et notifiée par écrit au salarié, ainsi qu'au représentant du personnel l'ayant assisté.</p><p align='left'>Au cas où le litige persisterait, la commission paritaire d'entreprise pourra être saisie.</p><p align='center'>Article 32<br/>\nExpression et réévaluation des rémunérations minimales annuelles garanties</p><p align='left'>Il est défini un point de la branche (” point CL ”) dont la valeur est fixée à 6,52 euros bruts.</p><p align='left'>La valeur de ce point et la rémunération minimale garantie définie à l'article 27 sont négociées au minimum une fois par an en commission mixte nationale, instance paritaire prévue à l'article 8 de la présente convention. »</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Modification de certains articles",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047641415",
+                    "textTitle": "Arrêté du 1er juin 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047641417",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-06-07",
+                    "dateSignaTexte": "2023-06-01",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000005670499",
                     "textTitle": "Convention collective nationale du 16 septembre... - art. 27 (VNE)",
@@ -10482,9 +10505,22 @@
                 "intOrdre": 1503395839,
                 "id": "KALIARTI000047734649",
                 "content": "<p align='left'><br/>Le présent avenant est applicable à compter de son dépôt auprès de l'administration compétente avec effet rétroactif au 1er janvier 2023.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Date d'application",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047641415",
+                    "textTitle": "Arrêté du 1er juin 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047641417",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-06-07",
+                    "dateSignaTexte": "2023-06-01",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -10495,9 +10531,22 @@
                 "intOrdre": 1718091775,
                 "id": "KALIARTI000047734650",
                 "content": "<p align='left'><br/>Les parties sollicitent l'extension du présent avenant.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Extension",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047641415",
+                    "textTitle": "Arrêté du 1er juin 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047641417",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-06-07",
+                    "dateSignaTexte": "2023-06-01",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -10507,10 +10556,23 @@
                 "num": "5",
                 "intOrdre": 1932787711,
                 "id": "KALIARTI000047734651",
-                "content": "<p align='left'><br/>Conclu en vertu des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901659&dateTexte=&categorieLien=cid' title='Code du travail - art. L2221-1 (V)'>articles L. 2221-1 et suivants du code du travail</a>, le présent avenant est établi en un nombre suffisant d'exemplaires pour notification à chacune des organisations syndicales et dépôt dans les conditions prévues à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-6 (V)'>article L. 2231-6 du code du travail</a>.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'><br/>Conclu en vertu des <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901659&dateTexte=&categorieLien=cid'>articles L. 2221-1 et suivants du code du travail</a>, le présent avenant est établi en un nombre suffisant d'exemplaires pour notification à chacune des organisations syndicales et dépôt dans les conditions prévues à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>article L. 2231-6 du code du travail</a>.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dépôts. Notification",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047641415",
+                    "textTitle": "Arrêté du 1er juin 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047641417",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-06-07",
+                    "dateSignaTexte": "2023-06-01",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
