@@ -11,6 +11,39 @@ type ConventionCollective = {
   num: number;
 };
 
+type DilaResponse = {
+  executionTime: number;
+  id: string;
+  titre: string;
+  numeroTexte: string;
+  num: string;
+  nature: string;
+  categorisation: string[];
+  activitePro: string[];
+  sections: {
+    executionTime: number;
+    dereferenced: boolean;
+    id?: string;
+    cid?: string;
+    intOrdre: number;
+    etat: string;
+    title: string;
+    dateModif: any;
+    dateDebut: any;
+    dateFin: any;
+    sectionConsultee: boolean;
+    sections: any[];
+    articles: any[];
+    commentaire: any;
+    renvoi: any;
+    renvoiNum: any;
+    notaHtml: any;
+    notaSectionsAafficher: any;
+  }[];
+  descriptionFusionHtml: any;
+  texteBaseId: string[];
+};
+
 type KaliInfo = {
   type: "convention collective";
   data: {
@@ -21,22 +54,6 @@ type KaliInfo = {
     categorisation: Array<string>;
   };
   children: [];
-};
-
-type DataJsonInfo = {
-  active?: boolean;
-  date_publi?: string;
-  etat?: string;
-  id: string;
-  mtime?: number;
-  nature: string;
-  num: number;
-  shortTitle: string;
-  texte_de_base?: string;
-  title: string;
-  url?: string;
-  effectif?: number;
-  synonymes?: string[];
 };
 
 function getDifferenceBetweenDataAndXlsx(): {
@@ -77,7 +94,7 @@ function getDifferenceBetweenDataAndXlsx(): {
   return { ccManquante, ccEnTrop };
 }
 
-async function getKaliInfo(idccNumber: number): Promise<KaliInfo> {
+async function getKaliInfo(idccNumber: number): Promise<DilaResponse> {
   if (!process.env.OAUTH_CLIENT_ID || !process.env.OAUTH_CLIENT_SECRET) {
     throw new Error("OAUTH_CLIENT_ID or OAUTH_CLIENT_SECRET is not defined");
   }
@@ -88,25 +105,24 @@ async function getKaliInfo(idccNumber: number): Promise<KaliInfo> {
     },
     path: "consult/kaliContIdcc",
   });
-  return {
-    type: "convention collective",
-    data: {
-      num: parseInt(result.num),
-      id: result.id,
-      title: result.titre,
-      shortTitle: (result.categorisation && result.categorisation[0]) ?? result.titre,
-      categorisation: result.categorisation ?? [],
-    },
-    children: [],
-  };
+  return result;
 }
 
 async function main() {
   const { ccManquante, ccEnTrop } = getDifferenceBetweenDataAndXlsx();
-  console.log("ccManquante", ccManquante);
-  console.log("ccEnTrop", ccEnTrop);
   for (const cc of ccManquante) {
-    const kaliInfo = await getKaliInfo(cc.num);
+    const dilaInfo = await getKaliInfo(cc.num);
+    const kaliInfo: KaliInfo = {
+      type: "convention collective",
+      data: {
+        num: parseInt(dilaInfo.num),
+        id: dilaInfo.id,
+        title: dilaInfo.titre,
+        shortTitle: (dilaInfo.categorisation && dilaInfo.categorisation[0]) ?? dilaInfo.titre,
+        categorisation: dilaInfo.categorisation ?? [],
+      },
+      children: [],
+    };
     fs.writeFileSync(
       `../data/${kaliInfo.data.id}.json`,
       JSON.stringify(kaliInfo, null, 2),
@@ -114,33 +130,25 @@ async function main() {
     );
     dataJson.push({
       active: true,
-      effectif: 1173,
-      etat: "VIGUEUR_ETEN",
-      date_publi: "2022-01-01T00:00:00.000Z",
-      mtime: 1641210224,
-      id: "KALICONT000044594539",
-      nature: "IDCC",
-      num: 3239,
-      shortTitle: "Particuliers employeurs et emploi à domicile",
-      texte_de_base: "KALITEXT000043941642",
-      title:
-        "Convention collective nationale des particuliers employeurs et de l'emploi à domicile du 15 mars 2021 - Étendue par arrêté du 6 octobre 2021 JORF 16 octobre 2021",
-      synonymes: [
-        "nounou",
-        "nourrice",
-        "2111",
-        "2395",
-        "assistants maternels",
-        "particulier employeur",
-        "assistantes maternelles",
-      ],
-      url: "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000044594539",
+      etat: dilaInfo.sections[0].etat,
+      id: kaliInfo.data.id,
+      nature: dilaInfo.nature,
+      num: kaliInfo.data.num,
+      shortTitle: kaliInfo.data.shortTitle,
+      texte_de_base: dilaInfo.texteBaseId[0],
+      title: kaliInfo.data.title,
+      url: "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=" + kaliInfo.data.id,
     });
   }
-  fs.writeFileSync("../data/index.json", JSON.stringify(dataJson, null, 2), "utf-8");
   for (const cc of ccEnTrop) {
-    fs.unlinkSync(`../data/${cc.num}.json`);
+    const element = dataJson.find(ccIndex => ccIndex.num === cc.num);
+    if (element) {
+      const index = dataJson.indexOf(element);
+      dataJson.splice(index, 1);
+      fs.unlinkSync(`../data/${element.id}.json`);
+    }
   }
+  fs.writeFileSync("../data/index.json", JSON.stringify(dataJson, null, 2), "utf-8");
 }
 
-console.log(getKaliInfo(3239));
+main();
