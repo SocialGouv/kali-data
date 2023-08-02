@@ -124,7 +124,7 @@ async function main() {
       children: [],
     };
     fs.writeFileSync(
-      `../data/${kaliInfo.data.id}.json`,
+      process.cwd() + `/data/${kaliInfo.data.id}.json`,
       JSON.stringify(kaliInfo, null, 2),
       "utf-8",
     );
@@ -148,7 +148,7 @@ async function main() {
       fs.unlinkSync(`../data/${element.id}.json`);
     }
   }
-  fs.writeFileSync("../data/index.json", JSON.stringify(dataJson, null, 2), "utf-8");
+  fs.writeFileSync(process.cwd() + "/data/index.json", JSON.stringify(dataJson, null, 2), "utf-8");
 }
 
 main();
