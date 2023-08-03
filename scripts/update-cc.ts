@@ -1,6 +1,7 @@
 import xlsx from "node-xlsx";
 import DilaApiClient from "@socialgouv/dila-api-client";
-import fs from "fs";
+import fs = require("fs");
+import csv = require("csv-parser");
 
 import dataJson = require("../data/index.json");
 
@@ -9,6 +10,7 @@ const dilaApi = new DilaApiClient();
 type ConventionCollective = {
   name: string;
   num: number;
+  exampleSiret?: string;
 };
 
 type DilaResponse = {
@@ -56,11 +58,13 @@ type KaliInfo = {
   children: [];
 };
 
-function getDifferenceBetweenDataAndXlsx(): {
+type Diff = {
   ccManquante: ConventionCollective[];
   ccEnTrop: ConventionCollective[];
-} {
-  const workSheetsFromFile = xlsx.parse(`${__dirname}/data/list_cc.xlsx`);
+};
+
+function getDifferenceBetweenDataAndDares(): Diff {
+  const workSheetsFromFile = xlsx.parse(`${__dirname}/data/dares.xlsx`);
 
   const supportedCcXlsx: ConventionCollective[] = [];
 
@@ -69,7 +73,6 @@ function getDifferenceBetweenDataAndXlsx(): {
     const ccName = row[1];
     if (ccNumber && ccNumber < 5000 && ccName) {
       const ccNameWithoutParenthesis = ccName.replace(/\(.*annexée.*\)/gi, "").trim();
-      console.log(ccNameWithoutParenthesis);
       supportedCcXlsx.push({
         name: ccNameWithoutParenthesis,
         num: ccNumber,
@@ -95,6 +98,46 @@ function getDifferenceBetweenDataAndXlsx(): {
   return { ccManquante, ccEnTrop };
 }
 
+function getDifferenceBetweenDataAndWeez(): Promise<Diff> {
+  return new Promise((resolve, reject) => {
+    const supportedCcXlsx: ConventionCollective[] = [];
+
+    fs.createReadStream(__dirname + "/data/weez.csv")
+      .pipe(csv())
+      .on("data", data => {
+        const ccNumber = parseInt(data.IDCC);
+        if (ccNumber && ccNumber < 5000 && !supportedCcXlsx.find(cc => cc.num === ccNumber)) {
+          supportedCcXlsx.push({
+            name: "?",
+            num: ccNumber,
+            exampleSiret: data.SIRET,
+          });
+        }
+      })
+      .on("end", () => {
+        const supportedCcIndexJson = dataJson.map(cc => {
+          return {
+            name: cc.title,
+            num: cc.num,
+          };
+        });
+
+        const ccManquante = supportedCcXlsx.filter(
+          ccIndex => !supportedCcIndexJson.find(ccXlsx => ccXlsx.num === ccIndex.num),
+        );
+
+        const ccEnTrop = supportedCcIndexJson.filter(
+          ccXlsx => !supportedCcXlsx.find(ccIndex => ccIndex.num === ccXlsx.num),
+        );
+
+        resolve({ ccManquante, ccEnTrop });
+      })
+      .on("error", error => {
+        reject(error);
+      });
+  });
+}
+
 async function getKaliInfo(idccNumber: number): Promise<DilaResponse | null> {
   if (!process.env.OAUTH_CLIENT_ID || !process.env.OAUTH_CLIENT_SECRET) {
     throw new Error("OAUTH_CLIENT_ID or OAUTH_CLIENT_SECRET is not defined");
@@ -114,50 +157,49 @@ async function getKaliInfo(idccNumber: number): Promise<DilaResponse | null> {
   return result;
 }
 
-async function main() {
-  const { ccManquante, ccEnTrop } = getDifferenceBetweenDataAndXlsx();
-  for (const cc of ccManquante) {
-    const dilaInfo = await getKaliInfo(cc.num);
-    if (dilaInfo) {
-      console.log(dilaInfo);
-      const kaliInfo: KaliInfo = {
-        type: "convention collective",
-        data: {
-          num: parseInt(dilaInfo.num),
-          id: dilaInfo.id,
-          title: dilaInfo.titre,
-          shortTitle: (dilaInfo.categorisation && dilaInfo.categorisation[0]) ?? dilaInfo.titre,
-          categorisation: dilaInfo.categorisation ?? [],
-        },
-        children: [],
-      };
-      fs.writeFileSync(
-        process.cwd() + `/data/${kaliInfo.data.id}.json`,
-        JSON.stringify(kaliInfo, null, 2),
-        "utf-8",
-      );
-      dataJson.push({
-        active: true,
-        etat: dilaInfo.sections[0].etat,
-        id: kaliInfo.data.id,
-        nature: dilaInfo.nature,
-        num: kaliInfo.data.num,
-        shortTitle: kaliInfo.data.shortTitle,
-        texte_de_base: dilaInfo.texteBaseId[0],
-        title: kaliInfo.data.title,
-        url: "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=" + kaliInfo.data.id,
-      });
-    }
-  }
-  for (const cc of ccEnTrop) {
-    const element = dataJson.find(ccIndex => ccIndex.num === cc.num);
-    if (element) {
-      const index = dataJson.indexOf(element);
-      dataJson.splice(index, 1);
-      fs.unlinkSync(`../data/${element.id}.json`);
-    }
-  }
-  fs.writeFileSync(process.cwd() + "/data/index.json", JSON.stringify(dataJson, null, 2), "utf-8");
-}
+// async function main() {
+//   const { ccManquante, ccEnTrop } = getDifferenceBetweenDataAndDares();
+//   for (const cc of ccManquante) {
+//     const dilaInfo = await getKaliInfo(cc.num);
+//     if (dilaInfo) {
+//       const kaliInfo: KaliInfo = {
+//         type: "convention collective",
+//         data: {
+//           num: parseInt(dilaInfo.num),
+//           id: dilaInfo.id,
+//           title: dilaInfo.titre,
+//           shortTitle: (dilaInfo.categorisation && dilaInfo.categorisation[0]) ?? dilaInfo.titre,
+//           categorisation: dilaInfo.categorisation ?? [],
+//         },
+//         children: [],
+//       };
+//       fs.writeFileSync(
+//         process.cwd() + `/data/${kaliInfo.data.id}.json`,
+//         JSON.stringify(kaliInfo, null, 2),
+//         "utf-8",
+//       );
+//       dataJson.push({
+//         active: true,
+//         etat: dilaInfo.sections[0].etat,
+//         id: kaliInfo.data.id,
+//         nature: dilaInfo.nature,
+//         num: kaliInfo.data.num,
+//         shortTitle: kaliInfo.data.shortTitle,
+//         texte_de_base: dilaInfo.texteBaseId[0],
+//         title: kaliInfo.data.title,
+//         url: "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=" + kaliInfo.data.id,
+//       });
+//     }
+//   }
+//   for (const cc of ccEnTrop) {
+//     const element = dataJson.find(ccIndex => ccIndex.num === cc.num);
+//     if (element) {
+//       const index = dataJson.indexOf(element);
+//       dataJson.splice(index, 1);
+//       fs.unlinkSync(`../data/${element.id}.json`);
+//     }
+//   }
+//   fs.writeFileSync(process.cwd() + "/data/index.json", JSON.stringify(dataJson, null, 2), "utf-8");
+// }
 
-main();
+// main();
