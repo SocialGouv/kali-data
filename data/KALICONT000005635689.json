@@ -35312,7 +35312,7 @@
             "cid": "KALITEXT000047951212",
             "title": "Accord du 24 mai 2023 relatif aux salaires minima",
             "id": "KALITEXT000047951212",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2023-05-01"
           },
           "children": [
@@ -35323,7 +35323,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000047951215",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -35333,8 +35333,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000047951223",
                     "content": "<p align='left'>Suite à la hausse du Smic le 1er mai 2023, le présent accord a pour objet de revaloriser, dans l'industrie textile, le barème de rémunérations minimales garanties, pour l'ensemble des catégories professionnelles sur la base des classifications en vigueur dans l'industrie textile (CCN n° 0018).</p><p align='left'>Le barème est présenté en termes de minima mensuels. Les montants mensuels bruts des rémunérations minimales garanties, résultant du présent accord, sont calculés sur une base de 152,25 heures (pour un horaire de 35 heures par semaine).</p><p align='left'>Le présent accord est applicable à toutes les entreprises textiles, sans stipulation spécifique concernant les entreprises de moins de 50 salariés, afin de préserver l'unité des salaires minima dans la branche.</p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000047943418",
+                        "textTitle": "Arrêté du 31 juillet 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000047943422",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-08-08",
+                        "dateSignaTexte": "2023-07-31",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -35347,9 +35360,22 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000047951216",
                 "content": "<p align='left'>Les salaires minima mensuels garantis des salariés font l'objet du barème ci-après applicable au 1er mai 2023.</p><p align='left'>Les parties signataires rappellent les garanties individuelles énoncées par l'article 73 (G) de la convention collective nationale de l'industrie textile.</p><p align='center'>Barème des salaires minima mensuels au 1er mai 2023</p><p align='center'>Rémunérations minimales brutes garanties calculées sur une base de 152,25 heures (pour un horaire de 35 heures par semaine)</p><p align='left'></p><center><table border='1'><tbody><tr><th>Niveau 1</th><td>1 766 €</td></tr><tr><th colspan='2' align='center'>Niveau 2</th></tr><tr><td align='center'>Échelon 1</td><td align='center'>1 769 €</td></tr><tr><td align='center'>Échelon 2</td><td align='center'>1 774 €</td></tr><tr><td align='center'>Échelon 3</td><td align='center'>1 782 €</td></tr><tr><th colspan='2' align='center'>Niveau 3</th></tr><tr><td align='center'>Échelon 1</td><td align='center'>1 783 €</td></tr><tr><td align='center'>Échelon 2</td><td align='center'>1 787 €</td></tr><tr><td align='center'>Échelon 3</td><td align='center'>1 798 €</td></tr><tr><th colspan='2' align='center'>Niveau 4</th></tr><tr><td align='center'>Échelon 1</td><td align='center'>1 800 €</td></tr><tr><td align='center'>Échelon 2</td><td align='center'>1 859 €</td></tr><tr><td align='center'>Échelon 3</td><td align='center'>1 937 €</td></tr><tr><th colspan='2' align='center'>Niveau 5</th></tr><tr><td align='center'>Échelon 1</td><td align='center'>1 944 €</td></tr><tr><td align='center'>Échelon 2</td><td align='center'>1 995 €</td></tr><tr><td align='center'>Échelon 3</td><td align='center'>2 135 €</td></tr><tr><th colspan='2' align='center'>Niveau 6</th></tr><tr><td align='center'>Échelon 1</td><td align='center'>2 146 €</td></tr><tr><td align='center'>Échelon 2</td><td align='center'>2 254 €</td></tr><tr><td align='center'>Échelon 3</td><td align='center'>2 434 €</td></tr><tr><th colspan='2' align='center'>Position I</th></tr><tr><td align='center'>Échelon 1</td><td align='center'>2 439 €</td></tr><tr><td align='center'>Échelon 2</td><td align='center'>2 721 €</td></tr><tr><th align='center'>Position II</th><td align='center'>3 296 €</td></tr><tr><th align='center'>Position III</th><td align='center'>3 999 €</td></tr><tr><th align='center'>Position IV</th><td align='center'>4 701 €</td></tr></tbody></table></center><p></p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Révision du barème des salaires minima garantis",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047943418",
+                    "textTitle": "Arrêté du 31 juillet 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047943422",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-08-08",
+                    "dateSignaTexte": "2023-07-31",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -35360,9 +35386,22 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000047951217",
                 "content": "<p align='left'><br/>Les barèmes conventionnels de chômage partiel seront revalorisés sur la base du barème figurant ci-dessus.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Indemnisation conventionnelle du chômage partiel",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047943418",
+                    "textTitle": "Arrêté du 31 juillet 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047943422",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-08-08",
+                    "dateSignaTexte": "2023-07-31",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -35373,9 +35412,22 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000047951218",
                 "content": "<p align='left'><br/>Les parties signataires rappellent le principe selon lequel, dans chaque entreprise, l'employeur assure, pour un même travail ou pour un travail de valeur égale, l'égalité de rémunération entre les femmes et les hommes. Le respect de ce principe constitue un élément essentiel de la dynamique de l'égalité professionnelle et de la mixité des emplois.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Égalité professionnelle entre les femmes et les hommes",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047943418",
+                    "textTitle": "Arrêté du 31 juillet 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047943422",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-08-08",
+                    "dateSignaTexte": "2023-07-31",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -35386,9 +35438,22 @@
                 "intOrdre": 2621435,
                 "id": "KALIARTI000047951219",
                 "content": "<p align='left'><br/>La moyenne horaire des rémunérations par poste des ouvriers travaillant au rendement devra dépasser de 0,19 € l'heure les rémunérations minima garanties ramenées à leur taux horaire (voir sur le régime de cette garantie collective l'article 73, B, 1° de la convention collective nationale de l'industrie textile.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Garantie collective au rendement",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047943418",
+                    "textTitle": "Arrêté du 31 juillet 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047943422",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-08-08",
+                    "dateSignaTexte": "2023-07-31",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -35399,9 +35464,22 @@
                 "intOrdre": 3145722,
                 "id": "KALIARTI000047951220",
                 "content": "<p align='left'><br/>Les parties signataires conviennent qu'en cas de nouvelle hausse du Smic, dans le courant de l'année 2023, une réunion de la CPPNI sera organisée à l'initiative de l'union des industries textiles, dans les 45 jours de ladite augmentation, pour évaluer l'impact éventuel de cette revalorisation sur les rémunérations minima garanties fixées dans le présent accord, et échanger, le cas échéant, sur une évolution des rémunérations minima garanties.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Clause de revoyure",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047943418",
+                    "textTitle": "Arrêté du 31 juillet 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047943422",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-08-08",
+                    "dateSignaTexte": "2023-07-31",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -35411,10 +35489,23 @@
                 "num": "6",
                 "intOrdre": 3670009,
                 "id": "KALIARTI000047951221",
-                "content": "<p align='left'>L'accord, conclu pour une durée indéterminée, entre en vigueur le 1er mai 2023.</p><p align='left'>Les parties signataires conviennent de demander au ministère du travail l'extension du présent accord, afin de le rendre applicable à toutes les entreprises et établissements entrant dans le champ d'application de la convention collective nationale de l'industrie textile.</p><p align='left'>L'accord fera l'objet des mesures de publicité et de dépôt en vigueur.</p><p align='left'>L'accord pourra être révisé ou dénoncé à condition d'observer les règles définies aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-7 (V)'>articles L. 2261-7 et suivants du code du travail</a>.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>L'accord, conclu pour une durée indéterminée, entre en vigueur le 1er mai 2023.</p><p align='left'>Les parties signataires conviennent de demander au ministère du travail l'extension du présent accord, afin de le rendre applicable à toutes les entreprises et établissements entrant dans le champ d'application de la convention collective nationale de l'industrie textile.</p><p align='left'>L'accord fera l'objet des mesures de publicité et de dépôt en vigueur.</p><p align='left'>L'accord pourra être révisé ou dénoncé à condition d'observer les règles définies aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901785&dateTexte=&categorieLien=cid'>articles L. 2261-7 et suivants du code du travail</a>.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Entrée en vigueur, notification, dépôt et extension",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000047943418",
+                    "textTitle": "Arrêté du 31 juillet 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000047943422",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-08-08",
+                    "dateSignaTexte": "2023-07-31",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
