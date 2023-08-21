@@ -1,4 +1,4 @@
-import fs from "fs";
+import fs = require("fs");
 import dataJson = require("../data/index.json");
 import { getInfosCcs } from "./infos";
 import { getKaliInfoWithKaliContainerId } from "./api";
