@@ -62,8 +62,8 @@
     "test:unit": "jest",
     "test:update": "jest --updateSnapshot",
     "test:watch": "yarn test:unit --watch",
-    "build": "tsc && cp -r ./scripts/data ./dist/scripts",
-    "update-cc": "npm run build && node dist/scripts/update-cc.js"
+    "build": "tsc && cp -r ./update-cc/data-cc ./dist/update-cc/data-cc",
+    "update-cc": "npm run build && node dist/update-cc/index.js"
   },
   "types": "./src/index.d.ts",
   "babel": {
