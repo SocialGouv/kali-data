@@ -10,7 +10,8 @@ async function main() {
   for (const cc of ccs) {
     const fileName = process.cwd() + `/data/${cc.id}.json`;
     if (!fs.existsSync(fileName)) {
-      const dilaInfo = await getKaliInfoWithKaliContainerId(cc.id);
+      console.log(`Convention collective ${cc.num} non présente`);
+      const dilaInfo = await getKaliInfoWithKaliContainerId(cc.id, cc.num);
       if (dilaInfo) {
         const kaliInfo: KaliInfo = {
           type: "convention collective",
@@ -35,6 +36,8 @@ async function main() {
           title: kaliInfo.data.title,
           url: "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=" + kaliInfo.data.id,
         });
+      } else {
+        console.log(`Convention collective ${cc.num} déjà présente`);
       }
     }
   }

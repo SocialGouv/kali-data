@@ -16,6 +16,7 @@ export async function getKaliInfoWithCcNumber(idccNumber: string): Promise<DilaR
       path: "consult/kaliContIdcc",
     })
     .catch((err: any) => {
+      console.error(`For ${idccNumber}`);
       console.error(err);
       return null;
     });
@@ -24,6 +25,7 @@ export async function getKaliInfoWithCcNumber(idccNumber: string): Promise<DilaR
 
 export async function getKaliInfoWithKaliContainerId(
   containerId: string,
+  idccNumber: number,
 ): Promise<DilaResponse | null> {
   if (!process.env.OAUTH_CLIENT_ID || !process.env.OAUTH_CLIENT_SECRET) {
     throw new Error("OAUTH_CLIENT_ID or OAUTH_CLIENT_SECRET is not defined");
@@ -37,6 +39,7 @@ export async function getKaliInfoWithKaliContainerId(
       path: "consult/kaliCont",
     })
     .catch((err: any) => {
+      console.error(`For ${containerId} ${idccNumber}`);
       console.error(err);
       return null;
     });
