@@ -8,6 +8,7 @@ export type IdccInfo = {
   num: number;
   name: string;
   link: string;
+  id: string;
 };
 
 export type DilaResponse = {

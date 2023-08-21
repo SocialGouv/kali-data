@@ -3,7 +3,7 @@ import { DilaResponse } from "./types";
 
 const dilaApi = new DilaApiClient();
 
-export async function getKaliInfo(idccNumber: string): Promise<DilaResponse | null> {
+export async function getKaliInfoWithCcNumber(idccNumber: string): Promise<DilaResponse | null> {
   if (!process.env.OAUTH_CLIENT_ID || !process.env.OAUTH_CLIENT_SECRET) {
     throw new Error("OAUTH_CLIENT_ID or OAUTH_CLIENT_SECRET is not defined");
   }
@@ -19,5 +19,27 @@ export async function getKaliInfo(idccNumber: string): Promise<DilaResponse | nu
       console.error(err);
       return null;
     });
+  return result;
+}
+
+export async function getKaliInfoWithKaliContainerId(
+  containerId: string,
+): Promise<DilaResponse | null> {
+  if (!process.env.OAUTH_CLIENT_ID || !process.env.OAUTH_CLIENT_SECRET) {
+    throw new Error("OAUTH_CLIENT_ID or OAUTH_CLIENT_SECRET is not defined");
+  }
+  const result = await dilaApi
+    .fetch({
+      method: "POST",
+      params: {
+        id: containerId,
+      },
+      path: "consult/kaliCont",
+    })
+    .catch((err: any) => {
+      console.error(err);
+      return null;
+    });
+
   return result;
 }

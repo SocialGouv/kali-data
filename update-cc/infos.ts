@@ -13,10 +13,12 @@ export function getInfosCcs(): IdccInfo[] {
     const ccLink = row[3];
     if (ccNumber && ccNumber < 5000 && ccName && isLink(ccLink)) {
       const ccNameWithoutParenthesis = ccName.replace(/\(.*annexée.*\)/gi, "").trim();
+      const id = ccLink.split("/").pop() ?? "";
       ccs.push({
         name: ccNameWithoutParenthesis,
         num: ccNumber,
         link: ccLink,
+        id,
       });
     }
   });
