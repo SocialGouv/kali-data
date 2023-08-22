@@ -3501,6 +3501,41 @@
               }
             }
           ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000047951816",
+            "title": "Accord du 22 mai 2023 relatif aux salaires",
+            "id": "KALITEXT000047951816",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2023-06-21"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000047951819",
+                "intOrdre": 524287,
+                "title": "Salaires ETAM du BTP de la Guadeloupe",
+                "id": "KALISCTA000047951819",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000047951820",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000047951820",
+                    "content": "<p align='left'><div align='center'><center><table border='1'><tr><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th><th>F</th><th>G</th><th>H</th></tr><tr><td align='center'>1 747,24 €</td><td align='center'>1 785,87 €</td><td align='center'>1 860,90 €</td><td align='center'>2 023,92 €</td><td align='center'>2 112,60 €</td><td align='center'>2 397,43 €</td><td align='center'>2 648,95 €</td><td align='center'>2 904,78 €</td></tr></table></center></div></p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": []
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }
