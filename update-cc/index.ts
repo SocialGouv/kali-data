@@ -16,7 +16,7 @@ async function main() {
         const kaliInfo: KaliInfo = {
           type: "convention collective",
           data: {
-            num: parseInt(dilaInfo.num),
+            num: cc.num,
             id: dilaInfo.id,
             title: dilaInfo.titre,
             shortTitle: (dilaInfo.categorisation && dilaInfo.categorisation[0]) ?? dilaInfo.titre,
@@ -47,7 +47,7 @@ async function main() {
           const kaliInfo: KaliInfo = {
             type: "convention collective",
             data: {
-              num: parseInt(dilaInfo.num),
+              num: cc.num,
               id: dilaInfo.id,
               title: dilaInfo.titre,
               shortTitle: (dilaInfo.categorisation && dilaInfo.categorisation[0]) ?? dilaInfo.titre,
