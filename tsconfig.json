@@ -4,17 +4,13 @@
     "allowSyntheticDefaultImports": true,
     "forceConsistentCasingInFileNames": true,
     "moduleResolution": "Node",
-    "noEmit": true,
     "resolveJsonModule": true,
     "skipLibCheck": true,
     "strictNullChecks": true,
-    "target": "es2019"
+    "target": "es2019",
+    "module": "commonjs",
+    "strict": false,
+    "outDir": "dist"
   },
-  "include": [
-    "src/**/*.js",
-    "src/index.d.ts",
-    "scripts/helpers/*.js",
-    "scripts/libs/*.js",
-    "scripts/*.js"
-  ]
+  "include": ["**/*.d.ts", "**/*.ts"]
 }
