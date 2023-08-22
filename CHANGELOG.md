@@ -1,3 +1,11 @@
+# [2.612.0](https://github.com/SocialGouv/kali-data/compare/v2.611.0...v2.612.0) (2023-08-22)
+
+
+### Features
+
+* **data:** 20230822_1633 update ([8007935](https://github.com/SocialGouv/kali-data/commit/8007935b4816ca68a400816bf15c488a62a8fb98))
+* **synchronisation:** ajout des ccs non présente au sein du fichier de la dares ([#270](https://github.com/SocialGouv/kali-data/issues/270)) ([ef289a4](https://github.com/SocialGouv/kali-data/commit/ef289a420aa073c94fafc17a8a44ca0b57d76731))
+
 # [2.611.0](https://github.com/SocialGouv/kali-data/compare/v2.610.0...v2.611.0) (2023-08-22)
 
 
