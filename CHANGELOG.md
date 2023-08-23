@@ -1,3 +1,15 @@
+# [2.613.0](https://github.com/SocialGouv/kali-data/compare/v2.612.0...v2.613.0) (2023-08-23)
+
+
+### Bug Fixes
+
+* **deps:** update dependency unist-util-find to v1.0.4 ([#265](https://github.com/SocialGouv/kali-data/issues/265)) ([1ca8010](https://github.com/SocialGouv/kali-data/commit/1ca8010082fa8c535bba23a4a401c7899b18388a))
+
+
+### Features
+
+* **data:** 20230823_0455 update ([4b5e32b](https://github.com/SocialGouv/kali-data/commit/4b5e32b4a1d727feddc6c1c94d593de673ab3af7))
+
 # [2.612.0](https://github.com/SocialGouv/kali-data/compare/v2.611.0...v2.612.0) (2023-08-22)
 
 
