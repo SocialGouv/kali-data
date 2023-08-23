@@ -1,3 +1,11 @@
+# [2.614.0](https://github.com/SocialGouv/kali-data/compare/v2.613.0...v2.614.0) (2023-08-23)
+
+
+### Features
+
+* **ccs:** ajouts de la cc 7024, 7025 + modification sur la 2357 et 3241 ([#271](https://github.com/SocialGouv/kali-data/issues/271)) ([6309cca](https://github.com/SocialGouv/kali-data/commit/6309cca9eb4f01a9b2b7add06e64882a9450e946))
+* **data:** 20230823_1442 update ([dfe3c32](https://github.com/SocialGouv/kali-data/commit/dfe3c32c087f00e0537cb54cc5a6583d2a6a549f))
+
 # [2.613.0](https://github.com/SocialGouv/kali-data/compare/v2.612.0...v2.613.0) (2023-08-23)
 
 
