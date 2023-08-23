@@ -4817,17 +4817,6 @@
     },
     {
         "active": true,
-        "etat": "VIGUEUR_ETEN",
-        "id": "KALICONT000005635918",
-        "nature": "IDCC",
-        "num": 2357,
-        "shortTitle": "Sociétés d'assurances",
-        "texte_de_base": "KALITEXT000005654646",
-        "title": "Convention collective nationale des sociétés d'assurances du 27 mai 1992",
-        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635918"
-    },
-    {
-        "active": true,
         "etat": "VIGUEUR_NON_ETEN",
         "id": "KALICONT000043874879",
         "nature": "IDCC",
@@ -4884,17 +4873,6 @@
     {
         "active": true,
         "etat": "VIGUEUR_ETEN",
-        "id": "KALICONT000044617302",
-        "nature": "IDCC",
-        "num": 3237,
-        "shortTitle": "Commerce de détail alimentaire spécialisé",
-        "texte_de_base": "KALITEXT000043562373",
-        "title": "Convention collective nationale des métiers du commerce de détail alimentaire spécialisé du 12 janvier 2021 - Etendue par arrêté du 17 septembre 2021 JORF 23 décembre 2021",
-        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000044617302"
-    },
-    {
-        "active": true,
-        "etat": "VIGUEUR_ETEN",
         "id": "KALICONT000045699459",
         "nature": "IDCC",
         "num": 3238,
@@ -4902,17 +4880,6 @@
         "texte_de_base": "KALITEXT000043918738",
         "title": "Convention collective nationale de la production et de la transformation des papiers et cartons du 29 janvier 2021",
         "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000045699459"
-    },
-    {
-        "active": true,
-        "etat": "VIGUEUR_ETEN",
-        "id": "KALICONT000005635594",
-        "nature": "IDCC",
-        "num": 3241,
-        "shortTitle": "Commerce de détail de l'habillement et des articles textiles",
-        "texte_de_base": "KALITEXT000005675211",
-        "title": "Convention collective nationale du commerce de détail de l'habillement et des articles textiles du 25 novembre 1987, révisée par avenant du 17 juin 2004",
-        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635594"
     },
     {
         "active": true,
@@ -4946,5 +4913,60 @@
         "texte_de_base": "KALITEXT000005643146",
         "title": "Accord national du 23 janvier 1986 relatif aux salariés permanents des entreprises de travail temporaire. En vigueur le 1er juillet 1986.  ",
         "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635905"
+    },
+    {
+        "active": true,
+        "etat": "VIGUEUR_NON_ETEN",
+        "id": "KALICONT000005635472",
+        "nature": "TI",
+        "num": 2357,
+        "shortTitle": "Sociétés d'assurances",
+        "texte_de_base": "KALITEXT000005654777",
+        "title": "Accord du 3 mars 1993 relatif aux cadres de direction",
+        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635472"
+    },
+    {
+        "active": true,
+        "etat": "VIGUEUR_ETEN",
+        "id": "KALICONT000044261829",
+        "nature": "IDCC",
+        "num": 3241,
+        "shortTitle": "Télédiffusion",
+        "texte_de_base": "KALITEXT000044226308",
+        "title": "Convention collective nationale de la télédiffusion du 2 juillet 2021 ",
+        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000044261829"
+    },
+    {
+        "active": true,
+        "etat": "VIGUEUR_ETEN",
+        "id": "KALICONT000044617302",
+        "nature": "IDCC",
+        "num": 3237,
+        "shortTitle": "Commerce de détail alimentaire spécialisé",
+        "texte_de_base": "KALITEXT000043562373",
+        "title": "Convention collective nationale des métiers du commerce de détail alimentaire spécialisé du 12 janvier 2021 - Etendue par arrêté du 17 septembre 2021 JORF 23 décembre 2021",
+        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000044617302"
+    },
+    {
+        "active": true,
+        "etat": "VIGUEUR_ETEN",
+        "id": "KALICONT000043036630",
+        "nature": "IDCC",
+        "num": 7024,
+        "shortTitle": "Production agricole et CUMA",
+        "texte_de_base": "KALITEXT000042949839",
+        "title": "Convention collective nationale de la production agricole et CUMA du 15 septembre 2020 ",
+        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000043036630"
+    },
+    {
+        "active": true,
+        "etat": "VIGUEUR_ETEN",
+        "id": "KALICONT000043169441",
+        "nature": "IDCC",
+        "num": 7025,
+        "shortTitle": "Entreprises de travaux et services agricoles, ruraux et forestiers (ETARF)",
+        "texte_de_base": "KALITEXT000043075158",
+        "title": "Convention collective nationale des entreprises de travaux et services agricoles, ruraux et forestiers (ETARF) du 8 octobre 2020",
+        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000043169441"
     }
 ]
