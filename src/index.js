@@ -13,15 +13,15 @@ const hasAgreement = require("./libs/hasAgreement");
 const hasArticle = require("./libs/hasArticle");
 
 module.exports = {
-  getAgreement,
-  getAgreementArticlesWithParentSections,
-  getAgreementArticlesWithPath,
-  getAgreementIdFromIdOrIdcc,
-  getAgreements,
-  getArticleWithParentSections,
-  getArticleWithPath,
-  getArticles,
-  getIndexedArticle,
-  hasAgreement,
-  hasArticle,
+    getAgreement,
+    getAgreementArticlesWithParentSections,
+    getAgreementArticlesWithPath,
+    getAgreementIdFromIdOrIdcc,
+    getAgreements,
+    getArticleWithParentSections,
+    getArticleWithPath,
+    getArticles,
+    getIndexedArticle,
+    hasAgreement,
+    hasArticle,
 };

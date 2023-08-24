@@ -1,8 +1,8 @@
 // @ts-check
 
 const INDEXED_AGREEMENTS =
-  /** @type {KaliData.IndexedAgreement[]} */
-  (require("../../data/index.json"));
+    /** @type {KaliData.IndexedAgreement[]} */
+    (require("../../data/index.json"));
 
 /**
  * Get the full list of indexed agreements.
@@ -10,7 +10,7 @@ const INDEXED_AGREEMENTS =
  * @returns {KaliData.IndexedAgreement[]}
  */
 function getAgreements() {
-  return INDEXED_AGREEMENTS;
+    return INDEXED_AGREEMENTS;
 }
 
 module.exports = getAgreements;

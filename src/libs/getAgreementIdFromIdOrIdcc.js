@@ -10,7 +10,7 @@ const INDEXED_AGREEMENTS = getAgreements();
  * @returns {boolean}
  */
 const isAgreementIdcc = idcc =>
-  typeof idcc === "number" || (typeof idcc === "string" && /^\d{4}$/.test(idcc));
+    typeof idcc === "number" || (typeof idcc === "string" && /^\d{4}$/.test(idcc));
 
 /**
  * @param {string} id
@@ -27,27 +27,27 @@ const isAgreementId = id => typeof id === "string" && /^KALICONT\d{12}$/.test(id
  * @returns {string}
  */
 function getAgreementIdFromIdOrIdcc(agreementIdOrIdcc) {
-  if (isAgreementIdcc(agreementIdOrIdcc)) {
-    const idcc = Number(agreementIdOrIdcc);
-    const matchIdcc = ({ num }) => num === idcc;
-    const maybeAgreement = INDEXED_AGREEMENTS.find(matchIdcc);
-    if (maybeAgreement === undefined) {
-      throw new Error(`No agreement found with this IDCC (${idcc}).`);
+    if (isAgreementIdcc(agreementIdOrIdcc)) {
+        const idcc = Number(agreementIdOrIdcc);
+        const matchIdcc = ({ num }) => num === idcc;
+        const maybeAgreement = INDEXED_AGREEMENTS.find(matchIdcc);
+        if (maybeAgreement === undefined) {
+            throw new Error(`No agreement found with this IDCC (${idcc}).`);
+        }
+
+        return maybeAgreement.id;
     }
 
-    return maybeAgreement.id;
-  }
+    if (typeof agreementIdOrIdcc !== "number" && isAgreementId(agreementIdOrIdcc)) {
+        const agreementId = agreementIdOrIdcc;
 
-  if (typeof agreementIdOrIdcc !== "number" && isAgreementId(agreementIdOrIdcc)) {
-    const agreementId = agreementIdOrIdcc;
+        return agreementId;
+    }
 
-    return agreementId;
-  }
-
-  throw new Error(
-    `<agreementIdOrIdcc> is malformed (${agreementIdOrIdcc}). ` +
-      `It must be a valid agreement IDCC (string | number) or ID (string: "KALICONT123456789012").`,
-  );
+    throw new Error(
+        `<agreementIdOrIdcc> is malformed (${agreementIdOrIdcc}). ` +
+            `It must be a valid agreement IDCC (string | number) or ID (string: "KALICONT123456789012").`,
+    );
 }
 
 module.exports = getAgreementIdFromIdOrIdcc;

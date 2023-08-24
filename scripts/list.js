@@ -17,11 +17,11 @@ const cleanDate = dte => (dte && dte.split("T")[0].split("-").reverse().join("/"
 
 const sourceLines = [`# Agreement References`, ``, `ID | IDCC | Title | Published At`, `-|-|-|-`];
 getAgreements().forEach(convention => {
-  sourceLines.push(
-    `${clean(convention.id)} | ${clean(convention.num)} | ${clean(
-      convention.shortTitle,
-    )} | ${cleanDate(convention.date_publi)}`,
-  );
+    sourceLines.push(
+        `${clean(convention.id)} | ${clean(convention.num)} | ${clean(
+            convention.shortTitle,
+        )} | ${cleanDate(convention.date_publi)}`,
+    );
 });
 
 log.info("list()", `Updating REFERENCES.md…`);

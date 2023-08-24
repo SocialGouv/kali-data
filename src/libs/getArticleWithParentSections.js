@@ -24,10 +24,10 @@ const getIndexedArticle = require("./getIndexedArticle");
  * @returns {AgreementArticleWithParent=}
  */
 const findArticleWithData = (agreement, data) =>
-  unistUtilFind(agreement, {
-    data,
-    type: "article",
-  });
+    unistUtilFind(agreement, {
+        data,
+        type: "article",
+    });
 
 /**
  * @param {AgreementArticleWithParent} article
@@ -35,17 +35,17 @@ const findArticleWithData = (agreement, data) =>
  * @returns {KaliData.AgreementArticleWithParentSections["sections"]}
  */
 const getParentSectionsFromArticle = article => {
-  const sections = [];
-  let section = article.parent;
+    const sections = [];
+    let section = article.parent;
 
-  while (section) {
-    const { data, type } = section;
-    sections.unshift({ data, type });
+    while (section) {
+        const { data, type } = section;
+        sections.unshift({ data, type });
 
-    section = section.parent;
-  }
+        section = section.parent;
+    }
 
-  return sections;
+    return sections;
 };
 
 /**
@@ -58,34 +58,34 @@ const getParentSectionsFromArticle = article => {
  * @deprecated Use `getArticleWithPath()` instead.
  */
 function getArticleWithParentSections(articleIdOrCid) {
-  const { agreementId } = getIndexedArticle(articleIdOrCid);
-  const agreement = getAgreement(agreementId);
+    const { agreementId } = getIndexedArticle(articleIdOrCid);
+    const agreement = getAgreement(agreementId);
 
-  // First attempt with an article ID:
-  const maybeArticleWithId = findArticleWithData(agreement, { id: articleIdOrCid });
-  if (maybeArticleWithId !== undefined) {
+    // First attempt with an article ID:
+    const maybeArticleWithId = findArticleWithData(agreement, { id: articleIdOrCid });
+    if (maybeArticleWithId !== undefined) {
+        /** @type {KaliData.AgreementArticleWithParentSections} */
+        const articleWithParentSections = {
+            ...maybeArticleWithId,
+            sections: getParentSectionsFromArticle(maybeArticleWithId),
+        };
+
+        return articleWithParentSections;
+    }
+
+    // Second attempt with an article CID:
+    const maybeArticleWithCid = findArticleWithData(agreement, { cid: articleIdOrCid });
+    if (maybeArticleWithCid === undefined) {
+        throw new Error(`No agreement article found with this ID or CID (${articleIdOrCid}).`);
+    }
+
     /** @type {KaliData.AgreementArticleWithParentSections} */
     const articleWithParentSections = {
-      ...maybeArticleWithId,
-      sections: getParentSectionsFromArticle(maybeArticleWithId),
+        ...maybeArticleWithCid,
+        sections: getParentSectionsFromArticle(maybeArticleWithCid),
     };
 
     return articleWithParentSections;
-  }
-
-  // Second attempt with an article CID:
-  const maybeArticleWithCid = findArticleWithData(agreement, { cid: articleIdOrCid });
-  if (maybeArticleWithCid === undefined) {
-    throw new Error(`No agreement article found with this ID or CID (${articleIdOrCid}).`);
-  }
-
-  /** @type {KaliData.AgreementArticleWithParentSections} */
-  const articleWithParentSections = {
-    ...maybeArticleWithCid,
-    sections: getParentSectionsFromArticle(maybeArticleWithCid),
-  };
-
-  return articleWithParentSections;
 }
 
 module.exports = getArticleWithParentSections;

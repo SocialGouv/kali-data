@@ -16,28 +16,28 @@ const getArticleWithParentSections = require("./getArticleWithParentSections");
  * @deprecated Use `getAgreementArticlesWithPath()` instead.
  */
 function getAgreementArticlesWithParentSections(agreementIdOrIdcc) {
-  const agreement = getAgreement(agreementIdOrIdcc);
+    const agreement = getAgreement(agreementIdOrIdcc);
 
-  const articles =
-    /** @type {{ children: KaliData.AgreementArticle[], type: "root" }} */
-    (/** @type {*} */ (unistUtilFlatFilter(agreement, { type: "article" })));
-  const articleIds = articles.children.map(({ data: { id } }) => id);
+    const articles =
+        /** @type {{ children: KaliData.AgreementArticle[], type: "root" }} */
+        (/** @type {*} */ (unistUtilFlatFilter(agreement, { type: "article" })));
+    const articleIds = articles.children.map(({ data: { id } }) => id);
 
-  const articlesWithParentSections = articleIds.reduce(
-    (prevArticlesWithParentSections, articleId) => {
-      try {
-        const articleWithParentSections = getArticleWithParentSections(articleId);
-        // console.log(articleWithParentSections);
+    const articlesWithParentSections = articleIds.reduce(
+        (prevArticlesWithParentSections, articleId) => {
+            try {
+                const articleWithParentSections = getArticleWithParentSections(articleId);
+                // console.log(articleWithParentSections);
 
-        return [...prevArticlesWithParentSections, articleWithParentSections];
-      } catch (err) {
-        return prevArticlesWithParentSections;
-      }
-    },
-    [],
-  );
+                return [...prevArticlesWithParentSections, articleWithParentSections];
+            } catch (err) {
+                return prevArticlesWithParentSections;
+            }
+        },
+        [],
+    );
 
-  return articlesWithParentSections;
+    return articlesWithParentSections;
 }
 
 module.exports = getAgreementArticlesWithParentSections;
