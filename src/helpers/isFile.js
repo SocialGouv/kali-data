@@ -8,7 +8,7 @@ const fs = require("fs");
  * @returns {boolean}
  */
 function isFile(absolutePath) {
-  return fs.existsSync(absolutePath) && fs.lstatSync(absolutePath).isFile();
+    return fs.existsSync(absolutePath) && fs.lstatSync(absolutePath).isFile();
 }
 
 module.exports = isFile;

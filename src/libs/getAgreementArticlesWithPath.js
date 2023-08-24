@@ -14,20 +14,20 @@ const getIndexedArticle = require("./getIndexedArticle");
  * @returns {KaliData.AgreementArticleWithPath[]}
  */
 function getAgreementArticlesWithPath(agreementIdOrIdcc) {
-  const agreement = getAgreement(agreementIdOrIdcc);
+    const agreement = getAgreement(agreementIdOrIdcc);
 
-  const rootedArticles =
-    /** @type {{ children: KaliData.AgreementArticle[], type: "root" }} */
-    (/** @type {*} */ (unistUtilFlatFilter(agreement, { type: "article" })));
+    const rootedArticles =
+        /** @type {{ children: KaliData.AgreementArticle[], type: "root" }} */
+        (/** @type {*} */ (unistUtilFlatFilter(agreement, { type: "article" })));
 
-  if (!rootedArticles) {
-    return [];
-  }
+    if (!rootedArticles) {
+        return [];
+    }
 
-  return rootedArticles.children.map(article => ({
-    ...article,
-    path: getIndexedArticle(article.data.cid).path,
-  }));
+    return rootedArticles.children.map(article => ({
+        ...article,
+        path: getIndexedArticle(article.data.cid).path,
+    }));
 }
 
 module.exports = getAgreementArticlesWithPath;

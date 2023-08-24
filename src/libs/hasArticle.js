@@ -14,13 +14,13 @@ const INDEXED_ARTICLES = getArticles();
  * @returns {boolean}
  */
 function hasArticle(articleIdOrCid) {
-  try {
-    checkArticleIdOrCid(articleIdOrCid);
+    try {
+        checkArticleIdOrCid(articleIdOrCid);
 
-    return INDEXED_ARTICLES.find(withArticleIdOrCid(articleIdOrCid)) !== undefined;
-  } catch (err) {
-    return false;
-  }
+        return INDEXED_ARTICLES.find(withArticleIdOrCid(articleIdOrCid)) !== undefined;
+    } catch (err) {
+        return false;
+    }
 }
 
 module.exports = hasArticle;

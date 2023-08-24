@@ -16,16 +16,17 @@ const INDEXED_AGREEMENTS = getAgreements();
  * @returns {boolean}
  */
 function hasAgreement(agreementIdOrIdcc) {
-  try {
-    const agreementId = getAgreementIdFromIdOrIdcc(agreementIdOrIdcc);
-    const maybeFilePath = path.join(__dirname, `../../data/${agreementId}.json`);
+    try {
+        const agreementId = getAgreementIdFromIdOrIdcc(agreementIdOrIdcc);
+        const maybeFilePath = path.join(__dirname, `../../data/${agreementId}.json`);
 
-    return (
-      INDEXED_AGREEMENTS.find(({ id }) => id === agreementId) !== undefined && isFile(maybeFilePath)
-    );
-  } catch (err) {
-    return false;
-  }
+        return (
+            INDEXED_AGREEMENTS.find(({ id }) => id === agreementId) !== undefined &&
+            isFile(maybeFilePath)
+        );
+    } catch (err) {
+        return false;
+    }
 }
 
 module.exports = hasAgreement;

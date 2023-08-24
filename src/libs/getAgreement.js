@@ -13,15 +13,15 @@ const hasAgreement = require("./hasAgreement");
  * @returns {KaliData.Agreement}
  */
 function getAgreement(agreementIdOrIdcc) {
-  const agreementId = getAgreementIdFromIdOrIdcc(agreementIdOrIdcc);
-  if (!hasAgreement(agreementId)) {
-    throw new Error(`No agreement found with this ID (${agreementId}).`);
-  }
+    const agreementId = getAgreementIdFromIdOrIdcc(agreementIdOrIdcc);
+    if (!hasAgreement(agreementId)) {
+        throw new Error(`No agreement found with this ID (${agreementId}).`);
+    }
 
-  const agreement = require(`../../data/${agreementId}.json`);
-  const agreementWithParents = unistUtilParents(agreement);
+    const agreement = require(`../../data/${agreementId}.json`);
+    const agreementWithParents = unistUtilParents(agreement);
 
-  return agreementWithParents;
+    return agreementWithParents;
 }
 
 module.exports = getAgreement;

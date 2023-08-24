@@ -14,14 +14,14 @@ const INDEXED_ARTICLES = getArticles();
  * @returns {KaliData.IndexedArticle}
  */
 function getIndexedArticle(articleIdOrCid) {
-  checkArticleIdOrCid(articleIdOrCid);
+    checkArticleIdOrCid(articleIdOrCid);
 
-  const maybeIndexedArticle = INDEXED_ARTICLES.find(withArticleIdOrCid(articleIdOrCid));
-  if (maybeIndexedArticle === undefined) {
-    throw new Error(`No agreement article found with this ID or CID (${articleIdOrCid}).`);
-  }
+    const maybeIndexedArticle = INDEXED_ARTICLES.find(withArticleIdOrCid(articleIdOrCid));
+    if (maybeIndexedArticle === undefined) {
+        throw new Error(`No agreement article found with this ID or CID (${articleIdOrCid}).`);
+    }
 
-  return maybeIndexedArticle;
+    return maybeIndexedArticle;
 }
 
 module.exports = getIndexedArticle;

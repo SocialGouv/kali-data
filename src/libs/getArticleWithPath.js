@@ -12,10 +12,10 @@ const getIndexedArticle = require("./getIndexedArticle");
  * @returns {KaliData.AgreementArticle=}
  */
 const findArticleWithData = (agreement, data) =>
-  unistUtilFind(agreement, {
-    data,
-    type: "article",
-  });
+    unistUtilFind(agreement, {
+        data,
+        type: "article",
+    });
 
 /**
  * Get an agreement article unist node with its parent sections path.
@@ -26,32 +26,32 @@ const findArticleWithData = (agreement, data) =>
  * @returns {KaliData.AgreementArticleWithPath}
  */
 function getArticleWithPath(articleIdOrCid) {
-  const { agreementId, path } = getIndexedArticle(articleIdOrCid);
-  const agreement = getAgreement(agreementId);
+    const { agreementId, path } = getIndexedArticle(articleIdOrCid);
+    const agreement = getAgreement(agreementId);
 
-  // First attempt with an article ID:
-  const maybeArticleWithId = findArticleWithData(agreement, { id: articleIdOrCid });
-  if (maybeArticleWithId !== undefined) {
+    // First attempt with an article ID:
+    const maybeArticleWithId = findArticleWithData(agreement, { id: articleIdOrCid });
+    if (maybeArticleWithId !== undefined) {
+        const articleWithPath = {
+            ...maybeArticleWithId,
+            path,
+        };
+
+        return articleWithPath;
+    }
+
+    // Second attempt with an article CID:
+    const maybeArticleWithCid = findArticleWithData(agreement, { cid: articleIdOrCid });
+    if (maybeArticleWithCid === undefined) {
+        throw new Error(`No agreement article found with this ID or CID (${articleIdOrCid}).`);
+    }
+
     const articleWithPath = {
-      ...maybeArticleWithId,
-      path,
+        ...maybeArticleWithCid,
+        path,
     };
 
     return articleWithPath;
-  }
-
-  // Second attempt with an article CID:
-  const maybeArticleWithCid = findArticleWithData(agreement, { cid: articleIdOrCid });
-  if (maybeArticleWithCid === undefined) {
-    throw new Error(`No agreement article found with this ID or CID (${articleIdOrCid}).`);
-  }
-
-  const articleWithPath = {
-    ...maybeArticleWithCid,
-    path,
-  };
-
-  return articleWithPath;
 }
 
 module.exports = getArticleWithPath;

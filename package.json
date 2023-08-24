@@ -1,80 +1,81 @@
 {
-  "name": "@socialgouv/kali-data",
-  "version": "2.615.0",
-  "dependencies": {
-    "csv-parser": "^3.0.0",
-    "node-xlsx": "^0.23.0",
-    "unist-util-find": "1.0.4",
-    "unist-util-flat-filter": "1.0.0",
-    "unist-util-parents": "1.0.3"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.16.0",
-    "@babel/plugin-transform-modules-commonjs": "^7.16.0",
-    "@babel/preset-env": "^7.16.4",
-    "@socialgouv/dila-api-client": "^1.2.4",
-    "@socialgouv/eslint-config-strict": "^0.35.0",
-    "@types/jest": "^27.0.3",
-    "@types/node": "^14.17.34",
-    "babel-eslint": "^10.1.0",
-    "dotenv": "^16.0.0",
-    "eslint": "^7.32.0",
-    "eslint-plugin-sort-requires": "^2.1.0",
-    "esm": "^3.2.25",
-    "husky": "^7.0.4",
-    "jest": "^27.4.4",
-    "npmlog": "^7.0.0",
-    "p-pipe": "^3.1.0",
-    "p-queue": "^6.6.2",
-    "p-retry": "^4.6.1",
-    "prettier": "^2.5.1",
-    "prompt": "^1.2.0",
-    "semantic-release": "^19.0.0",
-    "typescript": "^5.1.6",
-    "unist-util-filter": "^2.0.3",
-    "unist-util-map": "^2.0.1"
-  },
-  "engines": {
-    "node": ">= v14.18.2"
-  },
-  "files": [
-    "data",
-    "src"
-  ],
-  "homepage": "https://github.com/SocialGouv/kali-data",
-  "license": "Apache-2.0",
-  "main": "./src/index.js",
-  "publishConfig": {
-    "access": "public"
-  },
-  "repository": "https://github.com/SocialGouv/kali-data.git",
-  "scripts": {
-    "data:check": "node -r esm ./scripts/check.js",
-    "data:fetch": "node -r dotenv/config -r esm ./scripts/fetch.js dotenv_config_path=./.env",
-    "data:list": "node -r esm ./scripts/list.js",
-    "data:match": "node -r esm ./scripts/match.js",
-    "data:update": "yarn data:fetch && yarn data:match && yarn data:list && yarn data:check",
-    "posttest": "yarn data:check",
-    "setup": "node -r esm ./scripts/setup.js",
-    "test": "yarn test:lint && yarn test:type && yarn test:unit --silent",
-    "test:lint": "eslint .",
-    "test:type": "tsc --noEmit",
-    "test:unit": "jest",
-    "test:update": "jest --updateSnapshot",
-    "test:watch": "yarn test:unit --watch",
-    "build": "tsc && rm -rf ./dist/update-cc/data-cc && cp -r ./update-cc/data-cc ./dist/update-cc/data-cc",
-    "update-cc": "npm run build && node dist/update-cc/index.js"
-  },
-  "types": "./src/index.d.ts",
-  "babel": {
-    "env": {
-      "test": {
-        "plugins": [
-          [
-            "@babel/plugin-transform-modules-commonjs"
-          ]
-        ]
-      }
+    "name": "@socialgouv/kali-data",
+    "version": "2.615.0",
+    "dependencies": {
+        "csv-parser": "^3.0.0",
+        "node-xlsx": "^0.23.0",
+        "unist-util-find": "1.0.4",
+        "unist-util-flat-filter": "1.0.0",
+        "unist-util-parents": "1.0.3"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.16.0",
+        "@babel/plugin-transform-modules-commonjs": "^7.16.0",
+        "@babel/preset-env": "^7.16.4",
+        "@socialgouv/dila-api-client": "^1.2.4",
+        "@socialgouv/eslint-config-strict": "^0.35.0",
+        "@types/jest": "^27.0.3",
+        "@types/node": "^14.17.34",
+        "babel-eslint": "^10.1.0",
+        "dotenv": "^16.0.0",
+        "eslint": "^7.32.0",
+        "eslint-plugin-sort-requires": "^2.1.0",
+        "esm": "^3.2.25",
+        "husky": "^7.0.4",
+        "jest": "^27.4.4",
+        "npmlog": "^7.0.0",
+        "p-pipe": "^3.1.0",
+        "p-queue": "^6.6.2",
+        "p-retry": "^4.6.1",
+        "prettier": "^2.5.1",
+        "prompt": "^1.2.0",
+        "semantic-release": "^19.0.0",
+        "typescript": "^5.1.6",
+        "unist-util-filter": "^2.0.3",
+        "unist-util-map": "^2.0.1"
+    },
+    "engines": {
+        "node": ">= v14.18.2"
+    },
+    "files": [
+        "data",
+        "src"
+    ],
+    "homepage": "https://github.com/SocialGouv/kali-data",
+    "license": "Apache-2.0",
+    "main": "./src/index.js",
+    "publishConfig": {
+        "access": "public"
+    },
+    "repository": "https://github.com/SocialGouv/kali-data.git",
+    "scripts": {
+        "data:check": "node -r esm ./scripts/check.js",
+        "data:fetch": "node -r dotenv/config -r esm ./scripts/fetch.js dotenv_config_path=./.env",
+        "data:list": "node -r esm ./scripts/list.js",
+        "data:match": "node -r esm ./scripts/match.js",
+        "data:update": "yarn data:fetch && yarn data:match && yarn data:list && yarn data:check",
+        "posttest": "yarn data:check",
+        "setup": "node -r esm ./scripts/setup.js",
+        "test": "yarn test:lint && yarn test:type && yarn test:unit --silent",
+        "test:lint": "eslint .",
+        "lint:fix": "eslint --fix .",
+        "test:type": "tsc --noEmit",
+        "test:unit": "jest",
+        "test:update": "jest --updateSnapshot",
+        "test:watch": "yarn test:unit --watch",
+        "build": "tsc && rm -rf ./dist/update-cc/data-cc && cp -r ./update-cc/data-cc ./dist/update-cc/data-cc",
+        "update-cc": "npm run build && node dist/update-cc/index.js"
+    },
+    "types": "./src/index.d.ts",
+    "babel": {
+        "env": {
+            "test": {
+                "plugins": [
+                    [
+                        "@babel/plugin-transform-modules-commonjs"
+                    ]
+                ]
+            }
+        }
     }
-  }
 }

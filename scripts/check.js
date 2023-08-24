@@ -21,17 +21,17 @@ const containsUrl = convention => typeof convention.url === "string";
  * @returns {boolean}
  */
 const hasSectionWithNoChild = node =>
-  node.type === "section" && Array.isArray(node.children) && node.children.length === 0;
+    node.type === "section" && Array.isArray(node.children) && node.children.length === 0;
 
 const agrementsWithUrl = INDEXED_AGREEMENTS.filter(containsUrl);
 agrementsWithUrl.forEach(({ id }) => {
-  const agreement = getAgreement(id);
-  const agreementAdditionalSections = agreement.children.slice(1);
-  const emptyNodes = unistUtilFind(agreementAdditionalSections, hasSectionWithNoChild);
+    const agreement = getAgreement(id);
+    const agreementAdditionalSections = agreement.children.slice(1);
+    const emptyNodes = unistUtilFind(agreementAdditionalSections, hasSectionWithNoChild);
 
-  if (emptyNodes !== undefined) {
-    log.error("check()", `${id} has ${emptyNodes.length} empty nodes.`);
+    if (emptyNodes !== undefined) {
+        log.error("check()", `${id} has ${emptyNodes.length} empty nodes.`);
 
-    process.exit(-1);
-  }
+        process.exit(-1);
+    }
 });
