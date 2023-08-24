@@ -1,3 +1,15 @@
+# [2.616.0](https://github.com/SocialGouv/kali-data/compare/v2.615.0...v2.616.0) (2023-08-24)
+
+
+### Bug Fixes
+
+* **data:** change name + rules ([#272](https://github.com/SocialGouv/kali-data/issues/272)) ([38866dc](https://github.com/SocialGouv/kali-data/commit/38866dce3ab75a7969e09440385ac3b33930f80f))
+
+
+### Features
+
+* **data:** 20230824_1133 update ([b60ba32](https://github.com/SocialGouv/kali-data/commit/b60ba324d9c4291854c16c5e0f4f4cb85c54dcce))
+
 # [2.615.0](https://github.com/SocialGouv/kali-data/compare/v2.614.0...v2.615.0) (2023-08-24)
 
 
