@@ -1,3 +1,11 @@
+# [2.623.0](https://github.com/SocialGouv/kali-data/compare/v2.622.0...v2.623.0) (2023-09-01)
+
+
+### Features
+
+* **cc:** ajout de la CC 804 ([#275](https://github.com/SocialGouv/kali-data/issues/275)) ([b688cd8](https://github.com/SocialGouv/kali-data/commit/b688cd8b205e9ddb0aedcb8e263a81b260514f03))
+* **data:** 20230901_1450 update ([ea5adb4](https://github.com/SocialGouv/kali-data/commit/ea5adb4047cb048cb47b2f66fb675bc868a460ad))
+
 # [2.622.0](https://github.com/SocialGouv/kali-data/compare/v2.621.0...v2.622.0) (2023-09-01)
 
 
