@@ -1,10 +1,10 @@
 import fs = require("fs");
 import dataJson = require("../data/index.json");
-import { getInfosCcs } from "./infos";
+import { getInfosCcs, getInfosCcsSansLiens } from "./infos";
 import { getKaliInfoWithKaliContainerId } from "./api";
 import { KaliInfo } from "./types";
 
-async function main() {
+async function ajoutCcAvecLiens() {
     const ccs = getInfosCcs();
     const copyDataJson = [...dataJson];
     for (const cc of ccs) {
@@ -62,19 +62,6 @@ async function main() {
                         children: [],
                     };
                     fs.writeFileSync(fileName, JSON.stringify(kaliInfo, null, 4), "utf-8");
-                    copyDataJson.push({
-                        active: true,
-                        etat: dilaInfo.sections[0].etat,
-                        id: kaliInfo.data.id,
-                        nature: dilaInfo.nature,
-                        num: cc.num,
-                        shortTitle: kaliInfo.data.shortTitle,
-                        texte_de_base: dilaInfo.texteBaseId[0],
-                        title: kaliInfo.data.title,
-                        url:
-                            "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=" +
-                            kaliInfo.data.id,
-                    });
                 }
             }
         }
@@ -84,6 +71,31 @@ async function main() {
         JSON.stringify(copyDataJson, null, 4),
         "utf-8",
     );
+}
+
+async function ajoutCcSansLiens() {
+    const ccs = getInfosCcsSansLiens();
+    const copyDataJson = [...dataJson];
+    for (const cc of ccs) {
+        if (!copyDataJson.find(ccJson => ccJson.num === cc.num)) {
+            copyDataJson.push({
+                active: true,
+                num: cc.num,
+                shortTitle: cc.name,
+                title: cc.name,
+            } as any);
+        }
+    }
+    fs.writeFileSync(
+        process.cwd() + "/data/index.json",
+        JSON.stringify(copyDataJson, null, 4),
+        "utf-8",
+    );
+}
+
+async function main() {
+    // ajoutCcAvecLiens()
+    ajoutCcSansLiens();
 }
 
 main();
