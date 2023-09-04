@@ -5,14 +5,11 @@ export type ConventionCollective = {
     link?: string;
 };
 
-export type IdccInfo = IdccBaseInfo & {
-    link: string;
-    id: string;
-};
-
-export type IdccBaseInfo = {
+export type IdccInfo = {
     num: number;
     name: string;
+    link: string;
+    id: string;
 };
 
 export type DilaResponse = {
