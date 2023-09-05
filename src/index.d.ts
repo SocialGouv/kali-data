@@ -16,7 +16,7 @@ export function getAgreement(agreementIdOrIdcc: number | string): KaliData.Agree
  * @deprecated Use `getAgreementArticlesWithPath()` instead.
  */
 export function getAgreementArticlesWithParentSections(
-  agreementIdOrIdcc: number | string,
+    agreementIdOrIdcc: number | string,
 ): KaliData.AgreementArticleWithParentSections[];
 
 /**
@@ -26,7 +26,7 @@ export function getAgreementArticlesWithParentSections(
  * @see https://github.com/syntax-tree/unist
  */
 export function getAgreementArticlesWithPath(
-  agreementIdOrIdcc: number | string,
+    agreementIdOrIdcc: number | string,
 ): KaliData.AgreementArticleWithPath[];
 
 /**
@@ -52,7 +52,7 @@ export function getArticles(): KaliData.IndexedArticle[];
  * @deprecated Use `getArticleWithPath()` instead.
  */
 export function getArticleWithParentSections(
-  articleIdOrCid: string,
+    articleIdOrCid: string,
 ): KaliData.AgreementArticleWithParentSections;
 
 /**
@@ -97,129 +97,129 @@ export as namespace KaliData;
  * - VIGUEUR_NON_ETEN: ...
  */
 type State =
-  | "ABROGE"
-  | "DENONCE"
-  | "MODIFIE"
-  | "PERIME"
-  | "REMPLACE"
-  | "VIGUEUR"
-  | "VIGUEUR_ETEN"
-  | "VIGUEUR_NON_ETEN";
+    | "ABROGE"
+    | "DENONCE"
+    | "MODIFIE"
+    | "PERIME"
+    | "REMPLACE"
+    | "VIGUEUR"
+    | "VIGUEUR_ETEN"
+    | "VIGUEUR_NON_ETEN";
 
 type Agreement = {
-  type: "convention collective";
-  data: AgreementData;
-  children: AgreementSection[];
+    type: "convention collective";
+    data: AgreementData;
+    children: AgreementSection[];
 };
 
 type AgreementData = {
-  num: number;
-  title: string;
-  id: string;
-  shortTitle: string;
-  categorisation: string[];
+    num: number;
+    title: string;
+    id: string;
+    shortTitle: string;
+    categorisation: string[];
 };
 
 type AgreementSection = {
-  type: "section";
-  data: AgreementSectionData;
-  children: (AgreementArticle | AgreementSection)[];
+    type: "section";
+    data: AgreementSectionData;
+    children: (AgreementArticle | AgreementSection)[];
 };
 
 type AgreementSectionData = {
-  cid: string;
-  intOrdre: number;
-  id: string;
-  title: string;
-  etat: State;
+    cid: string;
+    intOrdre: number;
+    id: string;
+    title: string;
+    etat: State;
 };
 
 type AgreementArticle = {
-  type: "article";
-  data: AgreementArticleData;
+    type: "article";
+    data: AgreementArticleData;
 };
 
 type AgreementArticleData = {
-  cid: string;
-  intOrdre: number;
-  id: string;
-  /** Legal index */
-  num?: string;
-  /** HTML content */
-  content: string;
-  etat: State;
-  surtitre?: string;
-  historique?: string;
-  lstLienModification: AgreementArticleDataLinkUpdate[];
+    cid: string;
+    intOrdre: number;
+    id: string;
+    /** Legal index */
+    num?: string;
+    /** HTML content */
+    content: string;
+    etat: State;
+    surtitre?: string;
+    historique?: string;
+    lstLienModification: AgreementArticleDataLinkUpdate[];
 };
 
 type AgreementArticleDataLinkUpdate = {
-  textCid: string;
-  textTitle: string;
-  linkType:
-    | "ABROGATION"
-    | "ABROGE"
-    | "CREATION"
-    | "CREE"
-    | "DENONCE"
-    | "DENONCIATION"
-    | "ELARGISSEMENT"
-    | "ELARGIT"
-    | "ETEND"
-    | "EXTENSION"
-    | "MODIFICATION"
-    | "MODIFIE"
-    | "PEREMPTION"
-    | "PERIME";
-  linkOrientation: "cible" | "source";
-  articleNum: string;
-  articleId: string;
-  natureText: string;
-  /** Publication date (YYYY-MM-DD) */
-  datePubliTexte: string | null;
-  /** ??? date (YYYY-MM-DD) */
-  dateSignaTexte: string | null;
-  /** ??? date (YYYY-MM-DD) */
-  dateDebutCible: string | null;
+    textCid: string;
+    textTitle: string;
+    linkType:
+        | "ABROGATION"
+        | "ABROGE"
+        | "CREATION"
+        | "CREE"
+        | "DENONCE"
+        | "DENONCIATION"
+        | "ELARGISSEMENT"
+        | "ELARGIT"
+        | "ETEND"
+        | "EXTENSION"
+        | "MODIFICATION"
+        | "MODIFIE"
+        | "PEREMPTION"
+        | "PERIME";
+    linkOrientation: "cible" | "source";
+    articleNum: string;
+    articleId: string;
+    natureText: string;
+    /** Publication date (YYYY-MM-DD) */
+    datePubliTexte: string | null;
+    /** ??? date (YYYY-MM-DD) */
+    dateSignaTexte: string | null;
+    /** ??? date (YYYY-MM-DD) */
+    dateDebutCible: string | null;
 };
 
 type IndexedAgreement = {
-  active?: boolean;
-  /** Publication ISO date */
-  date_publi?: string;
-  effectif?: number;
-  etat?: State;
-  /** Agreement ID */
-  id: string;
-  mtime?: number;
-  nature: "IDCC";
-  /** Agreement IDCC */
-  num: number;
-  shortTitle: string;
-  texte_de_base?: string;
-  title: string;
-  url?: string;
-  synonymes?: string[];
+    active?: boolean;
+    /** Publication ISO date */
+    date_publi?: string;
+    effectif?: number;
+    etat?: State;
+    /** Agreement ID */
+    id?: string;
+    mtime?: number;
+    nature?: "IDCC";
+    /** Agreement IDCC */
+    num: number;
+    shortTitle: string;
+    texte_de_base?: string;
+    title: string;
+    url?: string;
+    synonymes?: string[];
 };
 
 type IndexedArticle = {
-  /** Agreement ID */
-  agreementId: string;
-  /** Article CID */
-  articleCid: string;
-  /** Article ID */
-  articleId: string;
-  /** Sections path */
-  path: string[];
+    /** Agreement ID */
+    agreementId: string;
+    /** Article CID */
+    articleCid: string;
+    /** Article ID */
+    articleId: string;
+    /** Sections path */
+    path: string[];
 };
 
 type AgreementArticleWithParentSections = AgreementArticle & {
-  sections: Array<{
-    type: "section";
-    data: AgreementSectionData;
-  }>;
+    sections: Array<{
+        type: "section";
+        data: AgreementSectionData;
+    }>;
 };
 
 type AgreementArticleWithPath = AgreementArticle & {
-  path: string[];
+    path: string[];
 };
