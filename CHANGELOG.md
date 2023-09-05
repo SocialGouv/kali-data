@@ -1,3 +1,10 @@
+# [2.627.0](https://github.com/SocialGouv/kali-data/compare/v2.626.0...v2.627.0) (2023-09-05)
+
+
+### Features
+
+* export getAgreementsWithNoId to be used to get agreements with no id ([9e0c103](https://github.com/SocialGouv/kali-data/commit/9e0c103ae4f3b46d8986237183d74d11568948d6))
+
 # [2.626.0](https://github.com/SocialGouv/kali-data/compare/v2.625.0...v2.626.0) (2023-09-05)
 
 
