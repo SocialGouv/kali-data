@@ -1,3 +1,10 @@
+# [2.626.0](https://github.com/SocialGouv/kali-data/compare/v2.625.0...v2.626.0) (2023-09-05)
+
+
+### Features
+
+* **ccs:** ajouts des ccs qui n'ont pas de liens vers légifrance ([#278](https://github.com/SocialGouv/kali-data/issues/278)) ([6608642](https://github.com/SocialGouv/kali-data/commit/6608642abc0facaf217cd5cd8fdc71dd4c4c9842))
+
 # [2.625.0](https://github.com/SocialGouv/kali-data/compare/v2.624.0...v2.625.0) (2023-09-05)
 
 
