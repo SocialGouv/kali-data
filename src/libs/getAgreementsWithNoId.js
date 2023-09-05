@@ -9,10 +9,10 @@ const INDEXED_AGREEMENTS =
  *
  * @returns {KaliData.IndexedAgreement[]}
  */
-function getAgreements() {
-    const containsId = convention => typeof convention.id === "string";
+function getAgreementsWithNoId() {
+    const containsNoId = convention => typeof convention.id === "undefined";
 
-    return INDEXED_AGREEMENTS.filter(containsId);
+    return INDEXED_AGREEMENTS.filter(containsNoId);
 }
 
-module.exports = getAgreements;
+module.exports = getAgreementsWithNoId;
