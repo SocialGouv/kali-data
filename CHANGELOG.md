@@ -1,3 +1,10 @@
+## [2.627.1](https://github.com/SocialGouv/kali-data/compare/v2.627.0...v2.627.1) (2023-09-06)
+
+
+### Bug Fixes
+
+* **types:** IndexedAgreement to fit to `index.json` ([3c204a3](https://github.com/SocialGouv/kali-data/commit/3c204a3a3f5f07bfad5c719ee59ede1544da93cc))
+
 # [2.627.0](https://github.com/SocialGouv/kali-data/compare/v2.626.0...v2.627.0) (2023-09-05)
 
 
