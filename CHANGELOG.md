@@ -1,3 +1,11 @@
+# [2.634.0](https://github.com/SocialGouv/kali-data/compare/v2.633.0...v2.634.0) (2023-09-18)
+
+
+### Features
+
+* **data:** 20230918_2254 update ([db2eee4](https://github.com/SocialGouv/kali-data/commit/db2eee46f1771c6e6dbdf0a2c3bdb6ae37244029))
+* update schedule to run at midnight ([a57f827](https://github.com/SocialGouv/kali-data/commit/a57f8279afdcb91d44199b1a12c7853f50215bb0))
+
 # [2.633.0](https://github.com/SocialGouv/kali-data/compare/v2.632.0...v2.633.0) (2023-09-16)
 
 
