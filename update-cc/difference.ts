@@ -13,9 +13,9 @@ export function getDifferenceBetweenDataAndDares(): Diff {
         const ccNumber = parseInt(row[0]);
         const ccName = row[1];
         if (ccNumber && ccName) {
-            const ccNameWithoutParenthesis = ccName.replace(/\(.*annexée.*\)/gi, "").trim();
+            const ccNameCleaned = ccName.trim();
             supportedCcXlsx.push({
-                name: ccNameWithoutParenthesis,
+                name: ccNameCleaned,
                 num: ccNumber,
             });
         }
@@ -89,9 +89,9 @@ export function getDifferenceBetweenVerificationFileAndIndex(): Diff {
         const ccName = row[1];
         const ccLink = row[3];
         if (ccNumber && ccName && ccLink) {
-            const ccNameWithoutParenthesis = ccName.replace(/\(.*annexée.*\)/gi, "").trim();
+            const ccNameCleaned = ccName.trim();
             supportedCcXlsx.push({
-                name: ccNameWithoutParenthesis,
+                name: ccNameCleaned,
                 num: ccNumber,
                 link: ccLink,
             });
