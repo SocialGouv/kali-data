@@ -1,3 +1,12 @@
+# [2.645.0](https://github.com/SocialGouv/kali-data/compare/v2.644.0...v2.645.0) (2023-10-03)
+
+
+### Features
+
+* **data:** 20231003_2328 update ([4dc37c1](https://github.com/SocialGouv/kali-data/commit/4dc37c179c7f9fde10fbfc6ae4717f997f770847))
+* keep parenthesis content from dares file ([#279](https://github.com/SocialGouv/kali-data/issues/279)) ([3a84d37](https://github.com/SocialGouv/kali-data/commit/3a84d376ced0579955e8d71eabe798c667a13d6d))
+* keep parenthesis content from dares file ([#280](https://github.com/SocialGouv/kali-data/issues/280)) ([c2cc05c](https://github.com/SocialGouv/kali-data/commit/c2cc05cdd76a42e10ead5cf2c1da5b14838cf502))
+
 # [2.644.0](https://github.com/SocialGouv/kali-data/compare/v2.643.0...v2.644.0) (2023-10-02)
 
 
