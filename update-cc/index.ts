@@ -77,13 +77,21 @@ async function ajoutCcSansLiens() {
     const ccs = getInfosCcsSansLiens();
     const copyDataJson = [...dataJson];
     for (const cc of ccs) {
-        if (!copyDataJson.find(ccJson => ccJson.num === cc.num)) {
+        const index = copyDataJson.findIndex(ccJson => ccJson.num === cc.num);
+        if (index === -1) {
             copyDataJson.push({
                 active: true,
                 num: cc.num,
                 shortTitle: cc.name,
                 title: cc.name,
             } as any);
+        } else if (copyDataJson[index].id === undefined) {
+            copyDataJson[index] = {
+                active: true,
+                num: cc.num,
+                shortTitle: cc.name,
+                title: cc.name,
+            };
         }
     }
     fs.writeFileSync(
