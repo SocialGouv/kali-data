@@ -35,7 +35,7 @@ export function getInfosCcsSansLiens(): IdccBaseInfo[] {
         const ccNumber = parseInt(row[0]);
         const ccName = row[1];
         if (ccNumber && ccName) {
-            const ccNameWithoutParenthesis = ccName.replace(/\(.*annexée.*\)/gi, "").trim();
+            const ccNameWithoutParenthesis = ccName.trim();
             ccs.push({
                 name: ccNameWithoutParenthesis,
                 num: ccNumber,
