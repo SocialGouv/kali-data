@@ -3240,7 +3240,7 @@
             "cid": "KALITEXT000048052756",
             "title": "Accord du 15 juin 2023 relatif aux barèmes de salaires minima garantis",
             "id": "KALITEXT000048052756",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2023-07-01"
           },
           "children": [
@@ -3251,7 +3251,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000048052759",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -3261,8 +3261,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000048052773",
                     "content": "<p align='left'>Les organisations syndicales représentatives des salariés de la branche de la presse magazine ainsi que le syndicat des éditeurs de presse magazine (SEPM) ont engagé des négociations visant à réviser les barèmes de salaires minima garantis applicables aux employés et cadres des éditeurs de la presse magazine.</p><p align='left'>Le présent accord se substitue de plein droit aux accords ainsi qu'à leurs annexes ayant pu être signés antérieurement sur le même objet. Son entrée en vigueur est sans effet sur les avantages acquis par les salariés en application d'accords individuels ou collectifs, ou d'usages dans l'entreprise qui les emploie.</p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000048148431",
+                        "textTitle": "Arrêté du 4 septembre 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000048148435",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-10-04",
+                        "dateSignaTexte": "2023-09-04",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -3275,9 +3288,22 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000048052760",
                 "content": "<p align='left'><br/>Le présent accord entre en vigueur le 1er juillet 2023.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Entrée en vigueur",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048148431",
+                    "textTitle": "Arrêté du 4 septembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048148435",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-10-04",
+                    "dateSignaTexte": "2023-09-04",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -3287,10 +3313,23 @@
                 "num": "2",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000048052761",
-                "content": "<p align='left'>Le présent accord est déposé à la direction générale du travail.</p><p align='left'>Conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901802&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-24 (V)'>dispositions de l'article L. 2261-24 du code du travail</a>, le présent accord fait l'objet d'une demande d'extension.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Le présent accord est déposé à la direction générale du travail.</p><p align='left'>Conformément aux <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901802&dateTexte=&categorieLien=cid'>dispositions de l'article L. 2261-24 du code du travail</a>, le présent accord fait l'objet d'une demande d'extension.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dépôt et extension",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048148431",
+                    "textTitle": "Arrêté du 4 septembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048148435",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-10-04",
+                    "dateSignaTexte": "2023-09-04",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -3301,9 +3340,22 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000048052763",
                 "content": "<p align='left'>À chacun des niveaux de qualification de la classification, est attaché un salaire mensuel brut minimum garanti, défini pour la durée légale de travail effectif des salariés à temps complet (35 heures par semaine, soit 151,67 heures par mois).</p><p align='left'>Il est décidé que les salaires mensuels bruts minima de tous les niveaux de qualification de la grille des employés et cadres des éditeurs de la presse magazine sont augmentés de 3 %. En tout état de cause, le salaire le plus bas de la grille est fixé à 1 757,20 euros.</p><p align='left'>Les barèmes minima conventionnels pour les employés et cadres des éditeurs de la presse magazine figurent en annexe du présent accord.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Barème minimum conventionnel",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048148431",
+                    "textTitle": "Arrêté du 4 septembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048148435",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-10-04",
+                    "dateSignaTexte": "2023-09-04",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -3313,10 +3365,23 @@
                 "num": "4",
                 "intOrdre": 2621435,
                 "id": "KALIARTI000048052764",
-                "content": "<p align='left'><br/>En application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>article L. 2261-23-1 du code du travail</a>, les parties contractantes conviennent que le contenu du présent accord ne justifie pas de prévoir les stipulations spécifiques aux entreprises de moins de cinquante salariés visées par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid' title='Code du travail - art. L2232-10-1 (M)'>article L. 2232-10-1 du code du travail</a>, dans la mesure où l'accord a vocation à s'appliquer à toutes les entreprises de la branche, quelle que soit leur taille.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'><br/>En application de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>article L. 2261-23-1 du code du travail</a>, les parties contractantes conviennent que le contenu du présent accord ne justifie pas de prévoir les stipulations spécifiques aux entreprises de moins de cinquante salariés visées par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid'>article L. 2232-10-1 du code du travail</a>, dans la mesure où l'accord a vocation à s'appliquer à toutes les entreprises de la branche, quelle que soit leur taille.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Stipulations spécifiques pour les entreprises de moins de 50 salariés",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048148431",
+                    "textTitle": "Arrêté du 4 septembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048148435",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-10-04",
+                    "dateSignaTexte": "2023-09-04",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -3326,10 +3391,23 @@
                 "num": "5",
                 "intOrdre": 3145722,
                 "id": "KALIARTI000048052767",
-                "content": "<p align='left'><br/>En application des articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901746&dateTexte=&categorieLien=cid' title='Code du travail - art. L2241-8 (V)'>L. 2241-8</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035610798&dateTexte=&categorieLien=cid' title='Code du travail - art. L2241-17 (V)'>L. 2241-17</a> du code du travail, les parties contractantes réaffirment leur souhait de parvenir à la suppression des écarts de rémunération entre les femmes et les hommes et leur volonté, pour y parvenir, d'engager une négociation sur les objectifs d'égalité professionnelle entre les femmes et les hommes et sur les mesures permettant de les atteindre.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'><br/>En application des articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901746&dateTexte=&categorieLien=cid'>L. 2241-8</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035610798&dateTexte=&categorieLien=cid'>L. 2241-17</a> du code du travail, les parties contractantes réaffirment leur souhait de parvenir à la suppression des écarts de rémunération entre les femmes et les hommes et leur volonté, pour y parvenir, d'engager une négociation sur les objectifs d'égalité professionnelle entre les femmes et les hommes et sur les mesures permettant de les atteindre.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Disposition relative à l'égalité professionnelle entre les femmes et les hommes",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048148431",
+                    "textTitle": "Arrêté du 4 septembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048148435",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-10-04",
+                    "dateSignaTexte": "2023-09-04",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -3340,9 +3418,22 @@
                 "intOrdre": 3670009,
                 "id": "KALIARTI000048052770",
                 "content": "<p align='left'>Les parties contractantes se rencontreront à chaque fois qu'un arrêté relatif au relèvement du salaire minimum de croissance sera publié au Journal officiel, dans le mois suivant  la publication, en vue d'adapter par avenant le présent accord.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Clause de revoyure",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048148431",
+                    "textTitle": "Arrêté du 4 septembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048148435",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-10-04",
+                    "dateSignaTexte": "2023-09-04",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -3353,9 +3444,22 @@
                 "intOrdre": 4194296,
                 "id": "KALIARTI000048052771",
                 "content": "<p align='left'><br/>Les parties contractantes s'engagent à organiser une réunion technique, à la réception du rapport de branche commandé par le SEPM auprès des services des statistiques d'Audiens, afin de procéder à l'examen et à l'analyse des données du rapport.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dispositions transverses et finales",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048148431",
+                    "textTitle": "Arrêté du 4 septembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048148435",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-10-04",
+                    "dateSignaTexte": "2023-09-04",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -3365,7 +3469,7 @@
                 "intOrdre": 4718583,
                 "title": "Annexe",
                 "id": "KALISCTA000048052772",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -3375,8 +3479,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000048052774",
                     "content": "<p align='center'>Annexe</p><p>Barèmes minima SEPM en 2023 – Employés et cadres</p><p></p><center><table border='1'><tbody><tr><th>Employés</th><th colspan='3'>Au 1er juillet 2023</th><th></th></tr><tr><th rowspan='2'>Groupe [2]</th><th rowspan='2'>Salaire minimal<br/>\n\t\t\td'engagement</th><th>Après 3 ans [1]</th><th>Après 6 ans [1]</th><th>Après 10 ans [1]</th></tr><tr><th>3 %</th><th>6 %</th><th>10 %</th></tr><tr><td align='center'>1</td><td align='center'>1 757,20 €</td><td align='center'>1 809,92 €</td><td align='center'>1 862,63 €</td><td align='center'>1 932,92 €</td></tr><tr><td align='center'>2</td><td align='center'>1 757,20 €</td><td align='center'>1 809,92 €</td><td align='center'>1 862,63 €</td><td align='center'>1 932,92 €</td></tr><tr><td align='center'>3</td><td align='center'>1 883,74 €</td><td align='center'>1 940,25 €</td><td align='center'>1 996,76 €</td><td align='center'>2 072,11 €</td></tr><tr><td align='center'>4</td><td align='center'>2 013,66 €</td><td align='center'>2 074,07 €</td><td align='center'>2 134,48 €</td><td align='center'>2 215,03 €</td></tr><tr><td align='center'>5</td><td align='center'>2 192,29 €</td><td align='center'>2 258,06 €</td><td align='center'>2 323,82 €</td><td align='center'>2 411,52 €</td></tr><tr><td colspan='5'>[1] La progression s'opère en fonction de l'ancienneté acquise dans l'entreprise.<br/>\n\t\t\t[2] Groupes 1 à 5 définis selon l'annexe de la convention collective des employés et des cadres de la presse magazine.</td></tr></tbody></table></center><p>Le barème ci-dessus fixe la rémunération minimale applicable à chacun des niveaux de fonction des qualifications dits « employés ». Il s'impose à toutes les entreprises membres du SEPM.</p><p></p><center><table border='1'><tbody><tr><th>Cadres</th><th colspan='3'>Au 1er juillet 2023</th><th></th></tr><tr><th rowspan='2'>Groupe [2]</th><th rowspan='2'>Salaire minima<br/>\n\t\t\td'engagement</th><th>Après 3 ans [1]</th><th>Après 6 ans [1]</th><th>Après 10 ans [1]</th></tr><tr><th align='center'>3 %</th><th align='center'>6 %</th><th align='center'>10 %</th></tr><tr><td align='center'>6</td><td align='center'>2 356,71 €</td><td align='center'>2 427,41 €</td><td align='center'>2 498,11 €</td><td align='center'>2 592,38 €</td></tr><tr><td align='center'>7</td><td align='center'>2 663,08 €</td><td align='center'>2 742,97 €</td><td align='center'>2 822,86 €</td><td align='center'>2 929,39 €</td></tr><tr><td align='center'>8</td><td align='center'>3 104,97 €</td><td align='center'>3 198,11 €</td><td align='center'>3 291,26 €</td><td align='center'>3 415,46 €</td></tr><tr><td align='center'>9</td><td align='center'>3 422,07 €</td><td align='center'>3 524,73 €</td><td align='center'>3 627,39 €</td><td align='center'>3 764,27 €</td></tr><tr><td colspan='5'>[1] La progression s'opère en fonction de l'ancienneté acquise dans l'entreprise.<br/>\n\t\t\t[2] Groupes 6 à 9 définis selon l'annexe de la convention collective des employés et des cadres des éditeurs de la presse magazine.</td></tr></tbody></table></center><p>Le barème ci-dessus fixe la rémunération minimale applicable à chacun des niveaux de fonction des qualifications dits « cadres ». Il s'impose à toutes les entreprises membres du SEPM.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000048148431",
+                        "textTitle": "Arrêté du 4 septembre 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000048148435",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-10-04",
+                        "dateSignaTexte": "2023-09-04",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
