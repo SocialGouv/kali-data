@@ -1524,8 +1524,8 @@
                     "num": "6.8",
                     "intOrdre": 42949,
                     "id": "KALIARTI000047621286",
-                    "content": "<p>– mariage du salarié : 5 jours ouvrés ;<br/>\n– mariage d'un enfant : 3 jours ouvrés ;<br/>\n– mariage d'un frère, d'une sœur : 1 jour ouvré ;<br/>\n– décès du conjoint ou concubin déclaré, enfant : 6 jours ouvrés ;<br/>\n– décès des parents : 6 jours ouvrés ;<br/>\n– décès des frères, sœurs, beaux-parents, grands-parents : 3 jours ouvrés ;<br/>\n– naissance ou adoption : 3 jours ouvrés dans les 15 jours suivant l'événement.</p><p>Ces congés sont rémunérés.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000038616400_1'></a>(1) Article étendu sous réserve d'accorder le même nombre de jours de congés en cas de mariage et en cas de pacte civil de solidarité conformément aux dispositions de la loi n° 2014-873 du 4 août 2014 relative à l'égalité réelle entre les femmes et les hommes et des articles L. 1132-1 et L. 1133-1 du code du travail.<br/>\n(Arrêté du 24 juillet 2019 - art. 1)</em></font></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "content": "<p>– mariage du salarié : 5 jours ouvrés ;<br/>\n– mariage d'un enfant : 3 jours ouvrés ;<br/>\n– mariage d'un frère, d'une sœur : 1 jour ouvré ;<br/>\n– <em>décès du conjoint ou concubin déclaré, enfant : 6 jours ouvrés</em><a shape='rect' href='#RENVOI_KALIARTI000005788172_2'> (2)</a> ;<br/>\n– décès des parents : 6 jours ouvrés <a shape='rect' href='#RENVOI_KALIARTI000005788172_2'> (2)</a> ;<br/>\n– décès des frères, sœurs, beaux-parents, grands-parents : 3 jours ouvrés ;<br/>\n– naissance ou adoption : 3 jours ouvrés dans les 15 jours suivant l'événement.</p><p>Ces congés sont rémunérés.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000038616400_1'></a>(1) Article étendu sous réserve d'accorder le même nombre de jours de congés en cas de mariage et en cas de pacte civil de solidarité conformément aux dispositions de la loi n° 2014-873 du 4 août 2014 relative à l'égalité réelle entre les femmes et les hommes et des articles L. 1132-1 et L. 1133-1 du code du travail.<br/>\n(Arrêté du 24 juillet 2019 - art. 1)</em></font></p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000005788172_2'></a>(2) Alinéas étendus sous réserve du respect des articles L. 3142-4 et L. 3142-1-1 du code du travail. <br/>\n(Arrêté du 18 septembre 2023 - art. 1)</em></font></p>",
+                    "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
                         "textCid": "KALITEXT000047618299",
@@ -1538,6 +1538,18 @@
                         "datePubliTexte": "2023-06-01",
                         "dateSignaTexte": "2022-12-01",
                         "dateDebutCible": "2023-01-01"
+                      },
+                      {
+                        "textCid": "JORFTEXT000048193558",
+                        "textTitle": "Arrêté du 18 septembre 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000048193562",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-10-12",
+                        "dateSignaTexte": "2023-09-18",
+                        "dateDebutCible": "2999-01-01"
                       }
                     ]
                   }
@@ -1562,7 +1574,7 @@
                     "intOrdre": 42949,
                     "id": "KALIARTI000047621290",
                     "content": "<p>Le père ou la mère d'un enfant malade (moins de 16 ans) peut bénéficier, par année civile, de 5 jours d'absence (ou de 10 demi-journées) rémunérés. Ce congé est accordé sur présentation d'un certificat médical attestant que la présence d'un des parents est indispensable auprès de l'enfant.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
                         "textCid": "KALITEXT000047618299",
@@ -1575,6 +1587,18 @@
                         "datePubliTexte": "2023-06-01",
                         "dateSignaTexte": "2022-12-01",
                         "dateDebutCible": "2023-01-01"
+                      },
+                      {
+                        "textCid": "JORFTEXT000048193558",
+                        "textTitle": "Arrêté du 18 septembre 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000048193562",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-10-12",
+                        "dateSignaTexte": "2023-09-18",
+                        "dateDebutCible": "2999-01-01"
                       }
                     ]
                   }
@@ -5869,7 +5893,7 @@
             "cid": "KALITEXT000047618299",
             "title": "Avenant n° 70 du 1er décembre 2022 relatif aux négociations annuelles obligatoires",
             "id": "KALITEXT000047618299",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2023-01-01"
           },
           "children": [
@@ -5881,8 +5905,21 @@
                 "intOrdre": 524287,
                 "id": "KALIARTI000047618302",
                 "content": "<p align='left'>Les partenaires sociaux, réunis le 1er décembre 2022 dans le cadre des négociations annuelles obligatoires, se sont entendus pour augmenter la valeur du point conventionnel à compter du 1er janvier 2023, sans attendre l'extension de l'accord.</p><p align='left'>La valeur annuelle du point conventionnel actuellement de 60,54 € passe à 62,66 € au 1er janvier 2023 puis à compter du 1er septembre 2023 passera à 63,29 €.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048193558",
+                    "textTitle": "Arrêté du 18 septembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048193562",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-10-12",
+                    "dateSignaTexte": "2023-09-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -5893,8 +5930,21 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000047618303",
                 "content": "<p align='left'>En raison de l'évolution du Smic et de ses répercussions sur la grille des coefficients des maisons d'étudiants, les partenaires sociaux décident de modifier la grille des coefficients afin qu'aucune rémunération horaire, calculée à partir de la grille des coefficients, ne soit inférieure au Smic horaire.</p><p align='left'>La grille des coefficients des salaires est modifiée comme suit à compter du 1er janvier 2023.</p><p align='left'></p><center><table border='1'><tbody><tr><th>Classe</th><th>Coefficient</th></tr><tr><td align='center'>1</td><td align='center'>333</td></tr><tr><td align='center'>2</td><td align='center'>340</td></tr><tr><td align='center'>3</td><td align='center'>347</td></tr><tr><td align='center'>4</td><td align='center'>356</td></tr><tr><td align='center'>5</td><td align='center'>365</td></tr><tr><td align='center'>6</td><td align='center'>373</td></tr><tr><td align='center'>7</td><td align='center'>381</td></tr><tr><td align='center'>8</td><td align='center'>390</td></tr><tr><td align='center'>9</td><td align='center'>400</td></tr><tr><td align='center'>10</td><td align='center'>410</td></tr><tr><td align='center'>11</td><td align='center'>420</td></tr><tr><td align='center'>12</td><td align='center'>431</td></tr><tr><td align='center'>13</td><td align='center'>459</td></tr><tr><td align='center'>14</td><td align='center'>469</td></tr><tr><td align='center'>15</td><td align='center'>499</td></tr><tr><td align='center'>16</td><td align='center'>529</td></tr><tr><td align='center'>17</td><td align='center'>559</td></tr><tr><td align='center'>18</td><td align='center'>587</td></tr><tr><td align='center'>19</td><td align='center'>627</td></tr><tr><td align='center'>20</td><td align='center'>677</td></tr></tbody></table></center><p></p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048193558",
+                    "textTitle": "Arrêté du 18 septembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048193562",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-10-12",
+                    "dateSignaTexte": "2023-09-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -5904,9 +5954,21 @@
                 "num": "3",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000047618304",
-                "content": "<p align='left'>Lors de ces négociations, les partenaires sociaux ont convenu que le présent avenant modifie l'article 6.8 de la convention collective relatif aux congés pour évènements familiaux.</p><p align='left'>Les dispositions actuelles sont remplacées pour les dispositions suivantes :<br/>\n– décès du conjoint ou concubin déclaré, enfant : 6 jours ouvrés ;<br/>\n– décès des parents : 6 jours ouvrés.</p><p align='left'>Les autres dispositions demeurent inchangées.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Lors de ces négociations, les partenaires sociaux ont convenu que le présent avenant modifie l'article 6.8 de la convention collective relatif aux congés pour évènements familiaux.</p><p align='left'>Les dispositions actuelles sont remplacées pour les dispositions suivantes :<br/>\n– <em>décès du conjoint ou concubin déclaré, enfant : 6 jours ouvrés</em><a shape='rect' href='#RENVOI_KALIARTI000047618304_1'> (1)</a> ;<br/>\n– décès des parents : 6 jours ouvrés <a shape='rect' href='#RENVOI_KALIARTI000047618304_1'> (1)</a>.</p><p align='left'>Les autres dispositions demeurent inchangées.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000047618304_1'></a>(1) L'article 6.8 de la convention collective, dans sa rédaction issue de l'article 3 de l'avenant, est étendu sous réserve du respect des articles L. 3142-4 et L. 3142-1-1 du code du travail. <br/>\n(Arrêté du 18 septembre 2023 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048193558",
+                    "textTitle": "Arrêté du 18 septembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048193562",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-10-12",
+                    "dateSignaTexte": "2023-09-18",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000005652841",
                     "textTitle": "Convention collective nationale du 27 mai 1992 - art. 6.8 (VNE)",
@@ -5930,8 +5992,20 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000047618305",
                 "content": "<p align='left'>Le présent avenant modifie l'article 6.9 de la convention collective relatif aux congés enfant malade.</p><p align='left'>Les dispositions actuelles sont remplacées pour les dispositions suivantes :<br/>\n– extension de l'âge à 16 ans ;<br/>\n– extension du nombre de jours à 5 jours (ou 10 demi-journées).</p><p align='left'>Les autres dispositions demeurent inchangées.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048193558",
+                    "textTitle": "Arrêté du 18 septembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048193562",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-10-12",
+                    "dateSignaTexte": "2023-09-18",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000005652841",
                     "textTitle": "Convention collective nationale du 27 mai 1992 - art. 6.9 (VNE)",
@@ -5955,8 +6029,21 @@
                 "intOrdre": 2621435,
                 "id": "KALIARTI000047618306",
                 "content": "<p align='left'>Le présent avenant concerne indistinctement toutes les entreprises que couvre la branche sans prévoir de dispositions spécifiques pour les entreprises comptant moins de 50 salariés.</p><p align='left'>Cet avenant sera déposé selon les dispositions légales auprès de la direction générale du travail et fera l'objet d'une demande d'extension.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048193558",
+                    "textTitle": "Arrêté du 18 septembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048193562",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-10-12",
+                    "dateSignaTexte": "2023-09-18",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
