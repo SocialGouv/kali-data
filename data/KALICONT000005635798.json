@@ -3089,8 +3089,8 @@
                     "num": "17",
                     "intOrdre": 42949,
                     "id": "KALIARTI000047795000",
-                    "content": "<p>La mise à la retraite d'un salarié qui remplit les conditions de retraite à taux plein, et le départ à la retraite ne constituent ni une démission ni un licenciement.</p><p>Le salarié qui partira en retraite de son initiative percevra au moment de son départ une indemnité égale à 25 heures par année de présence.</p><p>En cas de mise à la retraite par l'employeur d'un salarié dans les conditions prévues par l'article L. 1237-5 du code du travail, l'indemnité de mise à la retraite ne pourra être inférieure à l'indemnité légale de licenciement.</p><p>En cas de mise à la retraite par l'employeur, ou en cas de départ volontaire du salarié, l'autre partie doit être avertie au moins 3 mois à l'avance.</p><p>Le droit à l'indemnité de départ en retraite n'est définitivement acquis que s'il est justifié de la demande de liquidation de cette retraite.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "content": "<p>La mise à la retraite d'un salarié qui remplit les conditions de retraite à taux plein, et le départ à la retraite ne constituent ni une démission ni un licenciement.</p><p>Le salarié qui partira en retraite de son initiative percevra au moment de son départ une indemnité égale à 25 heures par année de présence.</p><p>En cas de mise à la retraite par l'employeur d'un salarié dans les conditions prévues par l'article L. 1237-5 du code du travail, l'indemnité de mise à la retraite ne pourra être inférieure à l'indemnité légale de licenciement.</p><p><em>En cas de mise à la retraite par l'employeur, ou en cas de départ volontaire du salarié, l'autre partie doit être avertie au moins 3 mois à l'avance. </em><a shape='rect' href='https://bdjv2-prod.rie.gouv.fr/bdj/accueil.do#RENVOI_KALIARTI000047792613_1'> (1)</a></p><p>Le droit à l'indemnité de départ en retraite n'est définitivement acquis que s'il est justifié de la demande de liquidation de cette retraite.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000047792613_1'></a>(1) Alinéa étendu sous réserve du respect des dispositions de l'article L. 1237-10 du code du travail.<br/>\n(Arrêté du 22 septembre 2023 - art. 1)</em></font></p>",
+                    "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
                         "textCid": "KALITEXT000047792606",
@@ -3103,6 +3103,18 @@
                         "datePubliTexte": "2023-07-06",
                         "dateSignaTexte": "2023-04-05",
                         "dateDebutCible": "2023-06-01"
+                      },
+                      {
+                        "textCid": "JORFTEXT000048193780",
+                        "textTitle": "Arrêté du 22 septembre 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000048193783",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-10-12",
+                        "dateSignaTexte": "2023-09-22",
+                        "dateDebutCible": "2999-01-01"
                       }
                     ]
                   }
@@ -18196,7 +18208,7 @@
             "cid": "KALITEXT000047792606",
             "title": "Accord du 5 avril 2023 relatif aux minima conventionnels et aux indemnités de départ en retraite",
             "id": "KALITEXT000047792606",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2023-06-01"
           },
           "children": [
@@ -18208,9 +18220,22 @@
                 "intOrdre": 524287,
                 "id": "KALIARTI000047792609",
                 "content": "<p align='left'>Ce barème fixe, pour chaque catégorie et niveau, les rémunérations mensuelles brutes minimales, base 151,67 heures.</p><p align='left'>Pour son application, il est tenu compte de l'ensemble des éléments bruts de salaire quelles qu'en soient la nature (contractuelle ou conventionnelle) et la périodicité, supportant des cotisations en vertu de la législation de la sécurité sociale, à l'exception des éléments suivants :<br/>\n– les heures supplémentaires ;<br/>\n– la prime ou gratification annuelle telle que prévue à l'article 30 des clauses générales ;<br/>\n– de la convention collective du commerce à distance ;<br/>\n– les majorations de salaire prévues par la convention collective ;<br/>\n– les primes liées aux contraintes de l'emploi exercé ;<br/>\n– les sommes versées n'ayant pas le caractère de salaire telles que l'intéressement et la participation ;<br/>\n– les sommes qui, constituant un remboursement de frais, ne supportent pas de cotisations en vertu de la législation de sécurité sociale.</p><p align='left'>En cas de mois incomplet, ou d'horaire incomplet, le salarié bénéficie de ces minima professionnels proportionnellement au temps de présence effective.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Barème des rémunérations mensuelles brutes minimales",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048193780",
+                    "textTitle": "Arrêté du 22 septembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048193783",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-10-12",
+                    "dateSignaTexte": "2023-09-22",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18220,10 +18245,23 @@
                 "num": "1.1",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000047792610",
-                "content": "<p align='left'>L'ensemble des minima conventionnels (niveau débutant) des catégories A à G sont augmentés de + 1,8 %.</p><p>S'agissant des « Niveaux : maîtrisant – référent – polyvalent », il sera fait application des modalités de calcul définies par l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000024660305&idArticle=KALIARTI000044509412&categorieLien=cid' title='Classifications - art. 4 (VE)'>article 4</a> « Évolution professionnelle » de l'accord du 24 juin 2011.</p><p>Le salaire conventionnel (niveaux maîtrisant et référent) de la catégorie H est augmenté de + 1,8 %.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>L'ensemble des minima conventionnels (niveau débutant) des catégories A à G sont augmentés de + 1,8 %.</p><p>S'agissant des « Niveaux : maîtrisant – référent – polyvalent », il sera fait application des modalités de calcul définies par l'<a href='/affichIDCCArticle.do?cidTexte=KALITEXT000024660305&idArticle=KALIARTI000044509412&categorieLien=cid'>article 4</a> « Évolution professionnelle » de l'accord du 24 juin 2011.</p><p>Le salaire conventionnel (niveaux maîtrisant et référent) de la catégorie H est augmenté de + 1,8 %.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Modalités d'application",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048193780",
+                    "textTitle": "Arrêté du 22 septembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048193783",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-10-12",
+                    "dateSignaTexte": "2023-09-22",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18233,10 +18271,22 @@
                 "num": "2",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000047792613",
-                "content": "<p align='left'>L'article 17 de l'avenant « Ouvriers et employés » du 6 février 2001 est modifié pour être rédigé comme suit :</p><p>« La mise à la retraite d'un salarié qui remplit les conditions de retraite à taux plein, et le départ à la retraite ne constituent ni une démission ni un licenciement.</p><p>Le salarié qui partira en retraite de son initiative percevra au moment de son départ une indemnité égale à 25 heures par année de présence.</p><p>En cas de mise à la retraite par l'employeur d'un salarié dans les conditions prévues par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901179&dateTexte=&categorieLien=cid' title='Code du travail - art. L1237-5 (M)'>article L. 1237-5 du code du travail</a>, l'indemnité de mise à la retraite ne pourra être inférieure à l'indemnité légale de licenciement.</p><p>En cas de mise à la retraite par l'employeur, ou en cas de départ volontaire du salarié, l'autre partie doit être avertie au moins 3 mois à l'avance.</p><p>Le droit à l'indemnité de départ en retraite n'est définitivement acquis que s'il est justifié de la demande de liquidation de cette retraite ».</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>L'article 17 de l'avenant « Ouvriers et employés » du 6 février 2001 est modifié pour être rédigé comme suit : </p><p>« La mise à la retraite d'un salarié qui remplit les conditions de retraite à taux plein, et le départ à la retraite ne constituent ni une démission ni un licenciement. </p><p>Le salarié qui partira en retraite de son initiative percevra au moment de son départ une indemnité égale à 25 heures par année de présence. </p><p>En cas de mise à la retraite par l'employeur d'un salarié dans les conditions prévues par l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901179&dateTexte=&categorieLien=cid'>article L. 1237-5 du code du travail</a>, l'indemnité de mise à la retraite ne pourra être inférieure à l'indemnité légale de licenciement. </p><p><i>En cas de mise à la retraite par l'employeur, ou en cas de départ volontaire du salarié, l'autre partie doit être avertie au moins 3 mois à l'avance.</i> <a shape='rect' href='#RENVOI_KALIARTI000047792613_1'> (1)</a></p><p>Le droit à l'indemnité de départ en retraite n'est définitivement acquis que s'il est justifié de la demande de liquidation de cette retraite ».</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000047792613_1'></a>(1) Le 5e alinéa de l'article 2 est étendu sous réserve du respect des dispositions de l'article L. 1237-10 du code du travail.  <br/>(Arrêté du 22 septembre 2023 - art. 1)</em></font></p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Indemnités de départ à la retraite de la catégorie « Ouvriers et employés »",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048193780",
+                    "textTitle": "Arrêté du 22 septembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048193783",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-10-12",
+                    "dateSignaTexte": "2023-09-22",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000005672062",
                     "textTitle": "Avenant \"Ouvriers et Employés\" - art. 17 (1) (VNE)",
@@ -18259,10 +18309,23 @@
                 "num": "3",
                 "intOrdre": 2097148,
                 "id": "KALIARTI000047792615",
-                "content": "<p align='left'>Les partenaires sociaux rappellent aux entreprises de la branche professionnelle de veiller à respecter la mixité et l'égalité professionnelle au travail, de garantir une réelle égalité des droits et de traitement entre les femmes et les hommes en matière de recrutement, d'orientation, de formation, de promotion, de déroulement de carrière en offrant les mêmes possibilités d'évolution de carrière et accès aux postes de responsabilité et de rémunération.</p><p align='center'>Mesures tendant à réduire les écarts de rémunération</p><p align='left'>Conformément à l'accord sur l'égalité professionnelle entre les hommes et les femmes qui a été signé dans la branche, les parties signataires rappellent le principe selon lequel tout employeur doit garantir, pour un même travail, ou pour un travail de valeur égale (au sens de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902820&dateTexte=&categorieLien=cid' title='Code du travail - art. L3221-4 (V)'>article L. 3221-4 du code du travail</a>) et à ancienneté égale, l'égalité de rémunération entre les femmes et les hommes.</p><p align='left'>Les disparités de rémunération entre les établissements d'une même entreprise ne peuvent pas, pour un même emploi, être fondées sur l'appartenance des salariés de ces établissements à l'un ou l'autre sexe.</p><p align='left'>Dès lors, les entreprises prendront les actions correctives dans le cadre de la négociation annuelle obligatoire (avec les délégués syndicaux ou, à défaut, avec les institutions représentatives du personnel), afin de supprimer, à situation comparable, les écarts constatés, et qui ne peuvent s'expliquer de manière objective, à partir de leur propre rapport annuel.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Les partenaires sociaux rappellent aux entreprises de la branche professionnelle de veiller à respecter la mixité et l'égalité professionnelle au travail, de garantir une réelle égalité des droits et de traitement entre les femmes et les hommes en matière de recrutement, d'orientation, de formation, de promotion, de déroulement de carrière en offrant les mêmes possibilités d'évolution de carrière et accès aux postes de responsabilité et de rémunération.</p><p align='center'>Mesures tendant à réduire les écarts de rémunération</p><p align='left'>Conformément à l'accord sur l'égalité professionnelle entre les hommes et les femmes qui a été signé dans la branche, les parties signataires rappellent le principe selon lequel tout employeur doit garantir, pour un même travail, ou pour un travail de valeur égale (au sens de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902820&dateTexte=&categorieLien=cid'>article L. 3221-4 du code du travail</a>) et à ancienneté égale, l'égalité de rémunération entre les femmes et les hommes.</p><p align='left'>Les disparités de rémunération entre les établissements d'une même entreprise ne peuvent pas, pour un même emploi, être fondées sur l'appartenance des salariés de ces établissements à l'un ou l'autre sexe.</p><p align='left'>Dès lors, les entreprises prendront les actions correctives dans le cadre de la négociation annuelle obligatoire (avec les délégués syndicaux ou, à défaut, avec les institutions représentatives du personnel), afin de supprimer, à situation comparable, les écarts constatés, et qui ne peuvent s'expliquer de manière objective, à partir de leur propre rapport annuel.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Égalité professionnelle",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048193780",
+                    "textTitle": "Arrêté du 22 septembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048193783",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-10-12",
+                    "dateSignaTexte": "2023-09-22",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18272,10 +18335,23 @@
                 "num": "4",
                 "intOrdre": 2621435,
                 "id": "KALIARTI000047792617",
-                "content": "<p align='left'>Les parties signataires du présent accord considèrent qu'il n'y a pas de spécificités d'application dudit accord aux entreprises en fonction de leur taille.</p><p align='left'>Pour cette raison, aucune stipulation particulière n'a été prise pour les entreprises de moins de cinquante salaries, conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid' title='Code du travail - art. L2261-23-1 (V)'>article L. 2261-23-1 du code du travail</a>.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'>Les parties signataires du présent accord considèrent qu'il n'y a pas de spécificités d'application dudit accord aux entreprises en fonction de leur taille.</p><p align='left'>Pour cette raison, aucune stipulation particulière n'a été prise pour les entreprises de moins de cinquante salaries, conformément à l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>article L. 2261-23-1 du code du travail</a>.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Modalités d'application de l'accord selon l'effectif de l'entreprise",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048193780",
+                    "textTitle": "Arrêté du 22 septembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048193783",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-10-12",
+                    "dateSignaTexte": "2023-09-22",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18286,9 +18362,22 @@
                 "intOrdre": 3145722,
                 "id": "KALIARTI000047792619",
                 "content": "<p align='left'>L'union professionnelle des entreprises du commerce à distance notifiera le texte à l'ensemble des organisations représentatives.</p><p align='left'>La validité de l'accord de branche est subordonnée à l'absence d'opposition de la majorité des organisations syndicales de salariés représentatives dans le champ d'application de l'accord.</p><p align='left'>L'opposition est exprimée par écrit dans le délai de 15 jours à compter de la date de notification de l'accord. Elle est motivée. Elle précise les points de désaccord. Elle est notifiée aux signataires.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Notification et validité de l'accord",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048193780",
+                    "textTitle": "Arrêté du 22 septembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048193783",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-10-12",
+                    "dateSignaTexte": "2023-09-22",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18298,10 +18387,23 @@
                 "num": "6",
                 "intOrdre": 3670009,
                 "id": "KALIARTI000047792620",
-                "content": "<p align='left'><br/>Conformément aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid' title='Code du travail - art. L2231-6 (V)'>L. 2231-6</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485209&dateTexte=&categorieLien=cid' title='Code du travail - art. D2231-3 (M)'>D. 2231-3</a> du code du travail, le présent accord sera déposé par la partie la plus diligente auprès des services centraux du ministre chargé du travail en un exemplaire original sur support papier et un exemplaire sur support électronique.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'><br/>Conformément aux articles <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid'>L. 2231-6</a> et <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485209&dateTexte=&categorieLien=cid'>D. 2231-3</a> du code du travail, le présent accord sera déposé par la partie la plus diligente auprès des services centraux du ministre chargé du travail en un exemplaire original sur support papier et un exemplaire sur support électronique.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Formalités de dépôt",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048193780",
+                    "textTitle": "Arrêté du 22 septembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048193783",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-10-12",
+                    "dateSignaTexte": "2023-09-22",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18312,9 +18414,22 @@
                 "intOrdre": 4194296,
                 "id": "KALIARTI000047792623",
                 "content": "<p align='left'><br/>Les dispositions du présent accord sont applicables au 1er juin 2023.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Date d'application",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048193780",
+                    "textTitle": "Arrêté du 22 septembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048193783",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-10-12",
+                    "dateSignaTexte": "2023-09-22",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18325,9 +18440,22 @@
                 "intOrdre": 4718583,
                 "id": "KALIARTI000047792624",
                 "content": "<p align='left'><br/>Les parties signataires du présent accord conviennent d'en demander l'extension.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Extension",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048193780",
+                    "textTitle": "Arrêté du 22 septembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048193783",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-10-12",
+                    "dateSignaTexte": "2023-09-22",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -18337,7 +18465,7 @@
                 "intOrdre": 5242870,
                 "title": "Annexe",
                 "id": "KALISCTA000047792625",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -18346,10 +18474,22 @@
                     "cid": "KALIARTI000047792626",
                     "intOrdre": 524287,
                     "id": "KALIARTI000047792626",
-                    "content": "<p align='center'>Rémunérations mensuelles brutes minimales commerce à distance<br/><p> <br/>\n1er juin 2023</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Catégorie A</th><th>Débutant</th><th>Maîtrisant</th><th>Référent/Polyvalent</th></tr><tr><td align='center'>Mensuel</td><td align='center'>1 710</td><td align='center'>1 744</td><td align='center'>1 813</td></tr></tbody></table></center><p>Temps de passage niveau débutant à niveau maîtrisant 9 mois.</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Catégorie B</th><th>Débutant</th><th>Maîtrisant</th><th>Référent/Polyvalent</th></tr><tr><td align='center'>Mensuel</td><td align='center'>1 729</td><td align='center'>1 764</td><td align='center'>1 833</td></tr></tbody></table></center><p>Temps de passage niveau débutant à niveau maîtrisant 9 mois.</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Catégorie C</th><th>Débutant</th><th>Maîtrisant</th><th>Référent/Polyvalent</th></tr><tr><td align='center'>Mensuel</td><td align='center'>1 775</td><td align='center'>1 811</td><td align='center'>1 882</td></tr></tbody></table></center><p>Temps de passage niveau débutant à niveau maîtrisant 9 mois.</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Catégorie D</th><th>Débutant</th><th>Maîtrisant</th><th>Référent</th></tr><tr><td align='center'>Mensuel</td><td align='center'>1 933</td><td align='center'>1 972</td><td align='center'>2 049</td></tr></tbody></table></center><p>Temps de passage niveau débutant à niveau maîtrisant 12 mois.</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Catégorie E</th><th>Débutant</th><th>Maîtrisant</th><th>Référent</th></tr><tr><td align='center'>Mensuel</td><td align='center'>2 362</td><td align='center'>2 409</td><td align='center'>2 504</td></tr></tbody></table></center><p>Temps de passage niveau débutant à niveau maîtrisant 12 mois.</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Catégorie F</th><th>Débutant</th><th>Maîtrisant</th><th>Référent</th></tr><tr><td align='center'>Mensuel</td><td align='center'>2 612</td><td align='center'>2 664</td><td align='center'>2 769</td></tr></tbody></table></center><p>Temps de passage niveau débutant à niveau maîtrisant 18 mois</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Catégorie G</th><th>Débutant</th><th>Maîtrisant</th><th>Référent</th></tr><tr><td align='center'>Mensuel</td><td align='center'>3 281</td><td align='center'>3 347</td><td align='center'>3 478</td></tr></tbody></table></center><p>Temps de passage niveau débutant à niveau maîtrisant 18 mois.</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Catégorie H</th><th>Maîtrisant</th><th>Référent</th></tr><tr><td align='center'>Mensuel</td><td align='center'>4 387</td><td align='center'>4 559</td></tr></tbody></table></center><p>À l'exception de la catégorie A niveau débutant, tous les montants sont arrondis à l'euro le plus proche.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "surtitre": "Annexe 1",
-                    "lstLienModification": []
+                    "content": "<p align='center'><em>Annexe 1</em><a shape='rect' href='#RENVOI_KALIARTI000047792626_1'> (1)</a></p><p align='center'>Rémunérations mensuelles brutes minimales commerce à distance</p><p>1er juin 2023</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Catégorie A</th><th>Débutant</th><th>Maîtrisant</th><th>Référent/ Polyvalent</th></tr><tr><td align='center'>Mensuel</td><td align='center'>1 710</td><td align='center'>1 744</td><td align='center'>1 813</td></tr></tbody></table></center><p>Temps de passage niveau débutant à niveau maîtrisant 9 mois.</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Catégorie B</th><th>Débutant</th><th>Maîtrisant</th><th>Référent/ Polyvalent</th></tr><tr><td align='center'>Mensuel</td><td align='center'>1 729</td><td align='center'>1 764</td><td align='center'>1 833</td></tr></tbody></table></center><p>Temps de passage niveau débutant à niveau maîtrisant 9 mois.</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Catégorie C</th><th>Débutant</th><th>Maîtrisant</th><th>Référent/ Polyvalent</th></tr><tr><td align='center'>Mensuel</td><td align='center'>1 775</td><td align='center'>1 811</td><td align='center'>1 882</td></tr></tbody></table></center><p>Temps de passage niveau débutant à niveau maîtrisant 9 mois.</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Catégorie D</th><th>Débutant</th><th>Maîtrisant</th><th>Référent</th></tr><tr><td align='center'>Mensuel</td><td align='center'>1 933</td><td align='center'>1 972</td><td align='center'>2 049</td></tr></tbody></table></center><p>Temps de passage niveau débutant à niveau maîtrisant 12 mois.</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Catégorie E</th><th>Débutant</th><th>Maîtrisant</th><th>Référent</th></tr><tr><td align='center'>Mensuel</td><td align='center'>2 362</td><td align='center'>2 409</td><td align='center'>2 504</td></tr></tbody></table></center><p>Temps de passage niveau débutant à niveau maîtrisant 12 mois.</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Catégorie F</th><th>Débutant</th><th>Maîtrisant</th><th>Référent</th></tr><tr><td align='center'>Mensuel</td><td align='center'>2 612</td><td align='center'>2 664</td><td align='center'>2 769</td></tr></tbody></table></center><p>Temps de passage niveau débutant à niveau maîtrisant 18 mois</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Catégorie G</th><th>Débutant</th><th>Maîtrisant</th><th>Référent</th></tr><tr><td align='center'>Mensuel</td><td align='center'>3 281</td><td align='center'>3 347</td><td align='center'>3 478</td></tr></tbody></table></center><p>Temps de passage niveau débutant à niveau maîtrisant 18 mois.</p><p align='right'>(En euros.)</p><center><table border='1'><tbody><tr><th>Catégorie H</th><th>Maîtrisant</th><th>Référent</th></tr><tr><td align='center'>Mensuel</td><td align='center'>4 387</td><td align='center'>4 559</td></tr></tbody></table></center><p>À l'exception de la catégorie A niveau débutant, tous les montants sont arrondis à l'euro le plus proche.</p><p><font color='808080'><em><a shape='rect' name='RENVOI_KALIARTI000047792626_1'></a>(1) A l'annexe 1, les deux premiers niveaux de la catégorie A ainsi que le premier niveau de la catégorie B sont étendus sous réserve de l'application des dispositions règlementaires portant fixation du salaire minimum interprofessionnel de croissance. <br/>\n(Arrêté du 22 septembre 2023 - art. 1)</em></font></p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000048193780",
+                        "textTitle": "Arrêté du 22 septembre 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000048193783",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-10-12",
+                        "dateSignaTexte": "2023-09-22",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
