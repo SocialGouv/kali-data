@@ -1,3 +1,11 @@
+# [2.659.0](https://github.com/SocialGouv/kali-data/compare/v2.658.0...v2.659.0) (2023-10-25)
+
+
+### Features
+
+* **data:** 20231025_1426 update ([d3f45e1](https://github.com/SocialGouv/kali-data/commit/d3f45e1e53e8e3584af881e7e94989e8350630b0))
+* ajout de la CC 3248 ([#282](https://github.com/SocialGouv/kali-data/issues/282)) ([27f454f](https://github.com/SocialGouv/kali-data/commit/27f454f3dda3b1c69d691a04a8aba95bc75e9dca))
+
 # [2.658.0](https://github.com/SocialGouv/kali-data/compare/v2.657.0...v2.658.0) (2023-10-24)
 
 
