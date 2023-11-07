@@ -1,3 +1,15 @@
+# [2.668.0](https://github.com/SocialGouv/kali-data/compare/v2.667.0...v2.668.0) (2023-11-07)
+
+
+### Bug Fixes
+
+* désactivation de la CC 3248 ([#285](https://github.com/SocialGouv/kali-data/issues/285)) ([a109c86](https://github.com/SocialGouv/kali-data/commit/a109c863140d68340bd48c7f51fb6fcf83b7dc27))
+
+
+### Features
+
+* **data:** 20231107_2330 update ([f50ef5f](https://github.com/SocialGouv/kali-data/commit/f50ef5f02930b89905bc869bf90eac84fd874f50))
+
 # [2.667.0](https://github.com/SocialGouv/kali-data/compare/v2.666.0...v2.667.0) (2023-11-06)
 
 
