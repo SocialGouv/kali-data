@@ -1,3 +1,15 @@
+# [2.671.0](https://github.com/SocialGouv/kali-data/compare/v2.670.0...v2.671.0) (2023-11-13)
+
+
+### Bug Fixes
+
+* activation de la convention collective 29 ([#286](https://github.com/SocialGouv/kali-data/issues/286)) ([fb3255d](https://github.com/SocialGouv/kali-data/commit/fb3255dda64e5173ba247ead35349bd038fc226c))
+
+
+### Features
+
+* **data:** 20231113_2249 update ([21d9610](https://github.com/SocialGouv/kali-data/commit/21d9610d76527ecc5bcc9af9b642bd92b7641af1))
+
 # [2.670.0](https://github.com/SocialGouv/kali-data/compare/v2.669.0...v2.670.0) (2023-11-10)
 
 
