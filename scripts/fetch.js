@@ -71,6 +71,9 @@ async function fetchAdditionalText(container) {
 }
 
 async function saveFile(container) {
+    if (!container) {
+        return;
+    }
     await writeFile(
         path.join(__dirname, "..", "data", `${container.data.id}.json`),
         JSON.stringify(container, 0, 2),
@@ -89,12 +92,14 @@ async function main() {
 
     const ccnList = INDEXED_AGREEMENTS.filter(convention => !!convention.url);
 
-    const pResults = ccnList.map(({ id }) => {
-        return pipeline(id).catch(error => {
-            log.error("main()", `pipeline failed for ${id}`);
-            throw error;
+    const pResults = ccnList
+        .filter(({ id }, index) => id === "KALICONT000017789780")
+        .map(({ id }) => {
+            return pipeline(id).catch(error => {
+                log.error("main()", `pipeline failed for ${id}`);
+                throw error;
+            });
         });
-    });
     await Promise.all(pResults);
     log.info("fetch()", `Done in ${toFix((Date.now() - t0) / 1000)} s`);
 }

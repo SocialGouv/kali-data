@@ -82,6 +82,10 @@ export function cleanAst(tree) {
         return false;
     });
 
+    if (!cleanedTree) {
+        return null;
+    }
+
     const keys = [
         "cid",
         "num",
