@@ -92,14 +92,12 @@ async function main() {
 
     const ccnList = INDEXED_AGREEMENTS.filter(convention => !!convention.url);
 
-    const pResults = ccnList
-        .filter(({ id }, index) => id === "KALICONT000017789780")
-        .map(({ id }) => {
-            return pipeline(id).catch(error => {
-                log.error("main()", `pipeline failed for ${id}`);
-                throw error;
-            });
+    const pResults = ccnList.map(({ id }) => {
+        return pipeline(id).catch(error => {
+            log.error("main()", `pipeline failed for ${id}`);
+            throw error;
         });
+    });
     await Promise.all(pResults);
     log.info("fetch()", `Done in ${toFix((Date.now() - t0) / 1000)} s`);
 }
