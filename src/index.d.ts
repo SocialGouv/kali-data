@@ -200,6 +200,7 @@ type IndexedAgreement = {
     title: string;
     url?: string;
     synonymes?: string[];
+    fetchArticles?: boolean;
 };
 
 type IndexedArticle = {

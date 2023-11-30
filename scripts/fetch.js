@@ -43,6 +43,11 @@ async function fetchAdditionalText(container) {
     }
     const nbBaseText = container.texteBaseId.length;
     const textedeBase = container.sections.slice(0, nbBaseText).filter(isValidSection);
+    if (textedeBase.length === 0) {
+        throw new Error(
+            `Les textes de base de la convention collective ${container.num} ne sont plus en vigueur. Il faut soit supprimer cette convention collective, soit désactiver la récupération des articles liés`,
+        );
+    }
     const additionnalSections = container.sections.slice(nbBaseText).filter(isValidSection);
 
     const pAdditionnalSections = additionnalSections.map(async mainSection => {
@@ -87,7 +92,9 @@ function toFix(value, nb = 2) {
 async function main() {
     const pipeline = pPipe(fetchKaliCont, fetchAdditionalText, astify, cleanAst, saveFile);
 
-    const ccnList = INDEXED_AGREEMENTS.filter(convention => !!convention.url);
+    const ccnList = INDEXED_AGREEMENTS.filter(
+        convention => !!convention.url && convention.fetchArticles,
+    );
 
     const pResults = ccnList.map(({ id }) => {
         return pipeline(id).catch(error => {
