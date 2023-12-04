@@ -13542,6 +13542,18 @@
                     "dateDebutCible": "2999-01-01"
                   },
                   {
+                    "textCid": "",
+                    "textTitle": "Convention collective nationale du 12 juillet 2001 - art.   (VNE)",
+                    "linkType": "CREE",
+                    "linkOrientation": "source",
+                    "articleNum": "",
+                    "articleId": "",
+                    "natureText": "",
+                    "datePubliTexte": null,
+                    "dateSignaTexte": null,
+                    "dateDebutCible": null
+                  },
+                  {
                     "textCid": "KALITEXT000005640939",
                     "textTitle": "Convention collective nationale du 12 juillet 2001 - art. 12-11 (VNE)",
                     "linkType": "MODIFIE",
@@ -13564,30 +13576,6 @@
                     "datePubliTexte": "2999-01-01",
                     "dateSignaTexte": "2001-07-12",
                     "dateDebutCible": "2008-06-12"
-                  },
-                  {
-                    "textCid": "",
-                    "textTitle": "Convention collective nationale du 12 juillet 2001 - art.   (VNE)",
-                    "linkType": "CREE",
-                    "linkOrientation": "source",
-                    "articleNum": "",
-                    "articleId": "",
-                    "natureText": "",
-                    "datePubliTexte": null,
-                    "dateSignaTexte": null,
-                    "dateDebutCible": null
-                  },
-                  {
-                    "textCid": "",
-                    "textTitle": "Convention collective nationale du 12 juillet 2001 - art.   (VNE)",
-                    "linkType": "CREE",
-                    "linkOrientation": "source",
-                    "articleNum": "",
-                    "articleId": "",
-                    "natureText": "",
-                    "datePubliTexte": null,
-                    "dateSignaTexte": null,
-                    "dateDebutCible": null
                   }
                 ]
               }
@@ -15365,30 +15353,6 @@
                         "dateDebutCible": null
                       },
                       {
-                        "textCid": "",
-                        "textTitle": "ANNEXE V - art. (Ab)",
-                        "linkType": "ABROGE",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      },
-                      {
-                        "textCid": "",
-                        "textTitle": "ANNEXE V - art. (Ab)",
-                        "linkType": "ABROGE",
-                        "linkOrientation": "source",
-                        "articleNum": "",
-                        "articleId": "",
-                        "natureText": "",
-                        "datePubliTexte": null,
-                        "dateSignaTexte": null,
-                        "dateDebutCible": null
-                      },
-                      {
                         "textCid": "JORFTEXT000021163369",
                         "textTitle": "Arrêté du 8 octobre 2009, v. init.",
                         "linkType": "ETEND",
@@ -16700,7 +16664,7 @@
                         "num": "10",
                         "intOrdre": 42949,
                         "id": "KALIARTI000021024107",
-                        "content": "<p>10.1. Le stage de formation continue obligatoire doit être effectué tous les 5 ans. Il peut être effectué par anticipation dans les 6 mois qui précèdent la date à laquelle doit être remplie l'obligation de formation continue. Dans ce cas, le délai de validité de cette formation ne commence à courir qu'à l'expiration de la période de validité de la formation précédente.</p><p>10.2. Le premier stage a lieu 5 ans après l'obtention de la qualification initiale. Lorsque l'intéressé est salarié, cette formation constitue une formation d'adaptation au sens de l'article L. 900-2 du code du travail.</p><p>10.3. Chaque session de formation doit regrouper au maximum 16 stagiaires en salle de cours et 4 stagiaires par véhicule, auxquels peuvent se joindre au maximum 4 stagiaires de la formation dite « passerelle ».</p><p>Lorsque le stage comporte moins de 4 stagiaires par véhicule, le centre de formation doit organiser le stage dans le respect du programme de formation et de sa durée globale.</p><p>La durée du temps de conduite individuelle est au moins égale à 2 heures par stagiaire, dont 30 minutes au maximum peuvent être effectuées en recourant à un simulateur haut de gamme ou sur un terrain spécial tels que définis aux II et III de l'article 5 de l'arrêté du 3 janvier 2008.</p><p>10.4. À l'issue de la première session de formation, le centre de formation agréé qui a dispensé la formation délivre au conducteur une attestation constatant la réalisation de cette session et mentionnant la date limite avant laquelle la deuxième session doit être suivie. Le modèle de cette attestation est fixé par arrêté du ministre chargé des transports.</p><p>10.5. La FCOS permet à son titulaire de conduire indifféremment des véhicules de transport de voyageurs ou de marchandises pour la conduite desquels est requis un permis de conduire, respectivement, des catégories D ou ED et C ou EC sous réserve de détenir les permis de conduire des catégories correspondantes en cours de validité et d'avoir satisfait à la formation complémentaire dénommée « passerelle ». Dans ce cas, la formation continue doit être effectuée dans les 5 ans qui suivent la date de délivrance de l'attestation de la formation complémentaire « passerelle » puis renouvelée tous les 5 ans à partir de cette dernière date.</p><p>10.6. Les conducteurs réputés avoir obtenu la qualification initiale de conducteur de transport de marchandises car titulaires d'un permis de conduire en cours de validité de la catégorie C ou EC délivré avant le 10 septembre 2009, qui ont interrompu leur activité de conduite, à titre professionnel, pendant une période supérieure à 5 ans, doivent, préalablement à la reprise de leur activité de conduite, suivre la formation continue obligatoire.</p>",
+                        "content": "<p>10.1. Le stage de formation continue obligatoire doit être effectué tous les 5 ans. Il peut être effectué par anticipation dans les 6 mois qui précèdent la date à laquelle doit être remplie l'obligation de formation continue. Dans ce cas, le délai de validité de cette formation ne commence à courir qu'à l'expiration de la période de validité de la formation précédente. </p><p>10.2. Le premier stage a lieu 5 ans après l'obtention de la qualification initiale. Lorsque l'intéressé est salarié, cette formation constitue une formation d'adaptation au sens de l'<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006651251&dateTexte=&categorieLien=cid' title='Code du travail - art. L900-2 (Ab)'>article L. 900-2 du code du travail</a>. </p><p>10.3. Chaque session de formation doit regrouper au maximum 16 stagiaires en salle de cours et 4 stagiaires par véhicule, auxquels peuvent se joindre au maximum 4 stagiaires de la formation dite « passerelle ». </p><p>Lorsque le stage comporte moins de 4 stagiaires par véhicule, le centre de formation doit organiser le stage dans le respect du programme de formation et de sa durée globale. </p><p>La durée du temps de conduite individuelle est au moins égale à 2 heures par stagiaire, dont 30 minutes au maximum peuvent être effectuées en recourant à un simulateur haut de gamme ou sur un terrain spécial tels que définis aux II et III de l'article 5 de l'arrêté du 3 janvier 2008.</p><p>10.4. À l'issue de la première session de formation, le centre de formation agréé qui a dispensé la formation délivre au conducteur une attestation constatant la réalisation de cette session et mentionnant la date limite avant laquelle la deuxième session doit être suivie. Le modèle de cette attestation est fixé par arrêté du ministre chargé des transports. </p><p>10.5. La FCOS permet à son titulaire de conduire indifféremment des véhicules de transport de voyageurs ou de marchandises pour la conduite desquels est requis un permis de conduire, respectivement, des catégories D ou ED et C ou EC sous réserve de détenir les permis de conduire des catégories correspondantes en cours de validité et d'avoir satisfait à la formation complémentaire dénommée « passerelle ». Dans ce cas, la formation continue doit être effectuée dans les 5 ans qui suivent la date de délivrance de l'attestation de la formation complémentaire « passerelle » puis renouvelée tous les 5 ans à partir de cette dernière date. </p><p>10.6. Les conducteurs réputés avoir obtenu la qualification initiale de conducteur de transport de marchandises car titulaires d'un permis de conduire en cours de validité de la catégorie C ou EC délivré avant le 10 septembre 2009, qui ont interrompu leur activité de conduite, à titre professionnel, pendant une période supérieure à 5 ans, doivent, préalablement à la reprise de leur activité de conduite, suivre la formation continue obligatoire.</p>",
                         "etat": "VIGUEUR_ETEN",
                         "lstLienModification": [
                           {
@@ -20967,7 +20931,7 @@
                     "textTitle": "Convention collective nationale du 12 juillet 2001 - art.   (VNE)",
                     "linkType": "CREE",
                     "linkOrientation": "source",
-                    "articleNum": " ",
+                    "articleNum": "",
                     "articleId": "KALIARTI000024550876",
                     "natureText": "Convention collective nationale ",
                     "datePubliTexte": "2999-01-01",
@@ -28564,12 +28528,12 @@
                     "textTitle": "Convention collective nationale du 12 juillet 2001 - art.   (VNE)",
                     "linkType": "CREE",
                     "linkOrientation": "source",
-                    "articleNum": " ",
+                    "articleNum": "",
                     "articleId": "KALIARTI000038372074",
                     "natureText": "Convention collective nationale ",
                     "datePubliTexte": "2999-01-01",
                     "dateSignaTexte": "2001-07-12",
-                    "dateDebutCible": "2018-01-19"
+                    "dateDebutCible": "2018-11-08"
                   },
                   {
                     "textCid": "KALITEXT000005640939",
@@ -28617,7 +28581,7 @@
                     "natureText": "Convention collective nationale ",
                     "datePubliTexte": "2999-01-01",
                     "dateSignaTexte": "2001-07-12",
-                    "dateDebutCible": "2018-01-19"
+                    "dateDebutCible": "2018-11-08"
                   },
                   {
                     "textCid": "KALITEXT000005640939",

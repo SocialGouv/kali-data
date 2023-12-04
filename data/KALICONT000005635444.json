@@ -2733,18 +2733,6 @@
                         "etat": "VIGUEUR_ETEN",
                         "lstLienModification": [
                           {
-                            "textCid": "JORFTEXT000032895489",
-                            "textTitle": "Arrêté du 7 juillet 2016 - art. 11, v. init.",
-                            "linkType": "ETEND",
-                            "linkOrientation": "cible",
-                            "articleNum": "11",
-                            "articleId": "JORFARTI000032895531",
-                            "natureText": "ARRETE",
-                            "datePubliTexte": "2016-07-17",
-                            "dateSignaTexte": "2016-07-07",
-                            "dateDebutCible": "2999-01-01"
-                          },
-                          {
                             "textCid": "",
                             "textTitle": "Accord national du 9 décembre 1975, annexe III, étendu par arrêté du 21 juin 1988 (JO du 30 juin 1988)",
                             "linkType": "CREATION",
@@ -2755,6 +2743,18 @@
                             "datePubliTexte": null,
                             "dateSignaTexte": null,
                             "dateDebutCible": null
+                          },
+                          {
+                            "textCid": "JORFTEXT000032895489",
+                            "textTitle": "Arrêté du 7 juillet 2016 - art. 11, v. init.",
+                            "linkType": "ETEND",
+                            "linkOrientation": "cible",
+                            "articleNum": "11",
+                            "articleId": "JORFARTI000032895531",
+                            "natureText": "ARRETE",
+                            "datePubliTexte": "2016-07-17",
+                            "dateSignaTexte": "2016-07-07",
+                            "dateDebutCible": "2999-01-01"
                           }
                         ]
                       }

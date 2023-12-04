@@ -8257,18 +8257,6 @@
                     "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
-                        "textCid": "KALITEXT000047865906",
-                        "textTitle": "Prévoyance - art. 1er (VNE)",
-                        "linkType": "MODIFIE",
-                        "linkOrientation": "cible",
-                        "articleNum": "1er",
-                        "articleId": "KALIARTI000047865910",
-                        "natureText": "Avenant",
-                        "datePubliTexte": "2023-07-20",
-                        "dateSignaTexte": "2023-04-24",
-                        "dateDebutCible": "2023-01-01"
-                      },
-                      {
                         "textCid": "JORFTEXT000047931997",
                         "textTitle": "Arrêté du 31 juillet 2023 - art. 1, v. init.",
                         "linkType": "ETEND",
@@ -8279,6 +8267,18 @@
                         "datePubliTexte": "2023-08-04",
                         "dateSignaTexte": "2023-07-31",
                         "dateDebutCible": "2999-01-01"
+                      },
+                      {
+                        "textCid": "KALITEXT000047865906",
+                        "textTitle": "Prévoyance - art. 1er (VNE)",
+                        "linkType": "MODIFIE",
+                        "linkOrientation": "cible",
+                        "articleNum": "1er",
+                        "articleId": "KALIARTI000047865910",
+                        "natureText": "Avenant",
+                        "datePubliTexte": "2999-01-01",
+                        "dateSignaTexte": "2023-04-24",
+                        "dateDebutCible": "2023-01-01"
                       }
                     ]
                   }
