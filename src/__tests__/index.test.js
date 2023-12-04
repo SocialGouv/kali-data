@@ -11,11 +11,9 @@ test(`@socialgouv/kali-data`, () => {
     expect(Object.keys(kaliData)).toHaveLength(libNames.length);
 
     expect(kaliData.getAgreement).toBeInstanceOf(Function);
-    expect(kaliData.getAgreementArticlesWithParentSections).toBeInstanceOf(Function);
     expect(kaliData.getAgreementArticlesWithPath).toBeInstanceOf(Function);
     expect(kaliData.getAgreementIdFromIdOrIdcc).toBeInstanceOf(Function);
     expect(kaliData.getAgreements).toBeInstanceOf(Function);
-    expect(kaliData.getArticleWithParentSections).toBeInstanceOf(Function);
     expect(kaliData.getArticleWithPath).toBeInstanceOf(Function);
     expect(kaliData.getArticles).toBeInstanceOf(Function);
     expect(kaliData.getIndexedArticle).toBeInstanceOf(Function);

@@ -9,18 +9,6 @@ export function getAgreement(agreementIdOrIdcc: number | string): KaliData.Agree
 
 /**
  * Get a flat unist array of all the articles an agreement contains.
- * Each article includes a list of its parent sections.
- *
- * @see https://github.com/syntax-tree/unist
- *
- * @deprecated Use `getAgreementArticlesWithPath()` instead.
- */
-export function getAgreementArticlesWithParentSections(
-    agreementIdOrIdcc: number | string,
-): KaliData.AgreementArticleWithParentSections[];
-
-/**
- * Get a flat unist array of all the articles an agreement contains.
  * Each article includes its parent sections path, as an ordered list of their titles.
  *
  * @see https://github.com/syntax-tree/unist
@@ -43,17 +31,6 @@ export function getAgreements(): KaliData.IndexedAgreement[];
  * Get the full list of indexed articles.
  */
 export function getArticles(): KaliData.IndexedArticle[];
-
-/**
- * Get an agreement article unist node with its parent sections.
- *
- * @see https://github.com/syntax-tree/unist
- *
- * @deprecated Use `getArticleWithPath()` instead.
- */
-export function getArticleWithParentSections(
-    articleIdOrCid: string,
-): KaliData.AgreementArticleWithParentSections;
 
 /**
  * Get an agreement article unist node with its parent sections path.
@@ -200,6 +177,7 @@ type IndexedAgreement = {
     title: string;
     url?: string;
     synonymes?: string[];
+    fetchArticles?: boolean;
 };
 
 type IndexedArticle = {
