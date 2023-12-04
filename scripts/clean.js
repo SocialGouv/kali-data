@@ -55,8 +55,7 @@ async function main() {
 }
 
 main().catch(error => {
-    log.error("fetch()", `Failed in ${toFix((Date.now() - t0) / 1000)} s`);
-    console.error(error);
+    log.error("fetch()", `Failed in ${toFix((Date.now() - t0) / 1000)} s (${error})`);
 
     process.exit(-1);
 });
