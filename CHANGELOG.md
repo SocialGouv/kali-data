@@ -1,3 +1,20 @@
+# [3.0.0](https://github.com/SocialGouv/kali-data/compare/v2.671.0...v3.0.0) (2023-12-04)
+
+
+### Bug Fixes
+
+* ne plus récupérer les articles pour les conventions collectives non supportées par le code du travail numérique ([#287](https://github.com/SocialGouv/kali-data/issues/287)) ([2426039](https://github.com/SocialGouv/kali-data/commit/24260392ea55ce5ad2e6d8d44a222c9c28352974))
+
+
+### Features
+
+* **data:** 20231204_1446 update ([1e5a88f](https://github.com/SocialGouv/kali-data/commit/1e5a88f497719a82b9ec5c4c98ad81985bd2fc8d))
+
+
+### BREAKING CHANGES
+
+* suppression de fonctions et changement de comportement fonctionnel
+
 # [2.671.0](https://github.com/SocialGouv/kali-data/compare/v2.670.0...v2.671.0) (2023-11-13)
 
 
