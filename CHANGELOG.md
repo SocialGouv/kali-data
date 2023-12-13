@@ -1,3 +1,15 @@
+# [3.7.0](https://github.com/SocialGouv/kali-data/compare/v3.6.0...v3.7.0) (2023-12-13)
+
+
+### Bug Fixes
+
+* shortTitle 3248 ([#290](https://github.com/SocialGouv/kali-data/issues/290)) ([74c1c33](https://github.com/SocialGouv/kali-data/commit/74c1c33ca8138ebda3bcde290d16b5b52d1b0dd8))
+
+
+### Features
+
+* **data:** 20231213_2231 update ([abd7f07](https://github.com/SocialGouv/kali-data/commit/abd7f079c647426a8661ee9072a1290b02485ad5))
+
 # [3.6.0](https://github.com/SocialGouv/kali-data/compare/v3.5.0...v3.6.0) (2023-12-12)
 
 
