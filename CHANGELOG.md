@@ -1,3 +1,10 @@
+# [3.10.0](https://github.com/SocialGouv/kali-data/compare/v3.9.0...v3.10.0) (2023-12-19)
+
+
+### Features
+
+* activation de la 3248 ([#291](https://github.com/SocialGouv/kali-data/issues/291)) ([fe5ec2c](https://github.com/SocialGouv/kali-data/commit/fe5ec2cff5b3f0e846ecc1aae488bcdfedcb4aab))
+
 # [3.9.0](https://github.com/SocialGouv/kali-data/compare/v3.8.0...v3.9.0) (2023-12-18)
 
 
