@@ -1,6 +1,6 @@
 {
     "name": "@socialgouv/kali-data",
-    "version": "2.671.0",
+    "version": "3.13.0",
     "dependencies": {
         "csv-parser": "^3.0.0",
         "node-xlsx": "^0.23.0",
@@ -51,6 +51,7 @@
     "scripts": {
         "data:check": "node -r esm ./scripts/check.js",
         "data:fetch": "node -r dotenv/config -r esm ./scripts/fetch.js dotenv_config_path=./.env",
+        "data:clean": "node -r esm ./scripts/clean.js",
         "data:list": "node -r esm ./scripts/list.js",
         "data:match": "node -r esm ./scripts/match.js",
         "data:update": "yarn data:fetch && yarn data:match && yarn data:list && yarn data:check",
