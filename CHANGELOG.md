@@ -1,3 +1,12 @@
+# [3.14.0](https://github.com/SocialGouv/kali-data/compare/v3.13.0...v3.14.0) (2023-12-27)
+
+
+### Features
+
+* **data:** 20231227_1650 update ([13858d5](https://github.com/SocialGouv/kali-data/commit/13858d5e9cab1d51bd70503572e2ca3ae8a88377))
+* ajout 3244 + 3250 / suppression 240 + 2329 + 2706 + 9103 ([#289](https://github.com/SocialGouv/kali-data/issues/289)) ([a3f7338](https://github.com/SocialGouv/kali-data/commit/a3f7338da810a7f19c500b55ff1c43ef0fd7a4ec))
+* désactivation des anciennes CC Meta après 1er janvier ([#288](https://github.com/SocialGouv/kali-data/issues/288)) ([70a6e14](https://github.com/SocialGouv/kali-data/commit/70a6e14b4c82fa9ea27763ca8b1e17c0f3044fc5))
+
 # [3.13.0](https://github.com/SocialGouv/kali-data/compare/v3.12.0...v3.13.0) (2023-12-21)
 
 
