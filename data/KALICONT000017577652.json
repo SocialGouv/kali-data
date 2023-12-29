@@ -1694,7 +1694,7 @@
                 "intOrdre": 4194296,
                 "id": "KALIARTI000048577860",
                 "content": "<p align='left'>À compter du 1er janvier 2024, le taux de cotisation global du régime conventionnel de prévoyance est fixé à 0,84 % de la rémunération brute du salarié, selon la répartition suivante : 0,42 % pour l'employeur et 0,42 % pour le salarié.</p><p align='left'>Cette cotisation est appliquée sur la rémunération brute du salarié dans la limite des tranche A (TA) et tranche B (TB) du salaire.</p><p align='left'>Pour rappel, les tranche A et tranche B de rémunération brute correspondent aux limites définies ci-après :<br/>\n– tranche A (TA) : partie de la rémunération de référence au plus égale au plafond annuel de la sécurité sociale ;<br/>\n– tranche B (TB) : partie de la rémunération de référence comprise entre un plafond annuel de la sécurité sociale et 4 fois celui-ci.</p><p align='left'>Le taux de cotisation global ainsi fixé est réparti comme suit à compter du 1er janvier 2024 :</p><center><table border='1'><tbody><tr><th rowspan='2'>Garanties</th><th colspan='3'>Taux de cotisation TA/ TB</th></tr><tr><th align='center'>Total</th><th align='center'>Employeur</th><th align='center'>Salarié</th></tr><tr><td>Décès</td><td align='center'>0,13 %</td><td align='center'>0,08 %</td><td align='center'>0,05 %</td></tr><tr><td>Rente éducation</td><td align='center'>0,05 %</td><td align='center'>0,03 %</td><td align='center'>0,02 %</td></tr><tr><td>Incapacité temporaire de travail</td><td align='center'>0,29 %</td><td align='center'>0,00 %</td><td align='center'>0,29 %</td></tr><tr><td>Invalidité</td><td align='center'>0,28 %</td><td align='center'>0,22 %</td><td align='center'>0,06 %</td></tr><tr><td>Maintien de salaire des personnels non indemnisés par la sécurité sociale</td><td align='center'>0,09 %</td><td align='center'>0,09 %</td><td align='center'>0,00 %</td></tr><tr><td><strong>Total</strong></td><td align='center'><strong>0,84 %</strong></td><td align='center'><strong>0,42 %</strong></td><td align='center'><strong>0,42 %</strong></td></tr></tbody></table></center><p></p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Taux de cotisation",
                 "lstLienModification": [
                   {
@@ -1708,6 +1708,18 @@
                     "datePubliTexte": "2023-12-13",
                     "dateSignaTexte": "2023-09-28",
                     "dateDebutCible": "2024-01-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000048670051",
+                    "textTitle": "Arrêté du 12 décembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048670056",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-12-27",
+                    "dateSignaTexte": "2023-12-12",
+                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -12862,8 +12874,8 @@
                     "cid": "KALIARTI000032094290",
                     "intOrdre": 524287,
                     "id": "KALIARTI000047895439",
-                    "content": "<p align='center'>Tableau de garanties</p><p>Le tableau des garanties ci-dessous couvre l'ensemble des garanties du contrat responsable y compris les dernières évolutions réglementaires (psychologues, télésurveillance médicale …).</p><p>(Tableau non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives.)</p><p><a shape='rect' href='https://www.legifrance.gouv.fr/download/file/pdf/boc_20230024_0000_0022.pdf/BOCC' target='_blank'> https :// www. legifrance. gouv. fr/ download/ file/ pdf/ boc _ 20230024 _ 0000 _ 0022. pdf/ BOCC</a></p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "content": "<p align='center'>Tableau de garanties </p><p>Le <i>tableau des garanties</i> <a href='#RENVOI_KALIARTI000032094290_1'> (1)</a> ci-dessous couvre l'ensemble des garanties du contrat responsable y compris les dernières évolutions réglementaires (psychologues, télésurveillance médicale …). </p><p>(Tableau non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives.) </p><p><a shape='rect' href='https://www.legifrance.gouv.fr/download/file/pdf/boc_20230024_0000_0022.pdf/BOCC' target='_blank'> https :// www. legifrance. gouv. fr/ download/ file/ pdf/ boc _ 20230024 _ 0000 _ 0022. pdf/ BOCC</a></p><p></p><p><font color='808080'><em><a name='RENVOI_KALIARTI000032094290_1'></a>(1) Le tableau de garanties est étendu sous réserve du respect du cahier des charges des contrats responsables, prévu à l'article R. 871-2 du code de la sécurité sociale, concernant la prise en charge du ticket modérateur des séances d'accompagnement psychologiques prévues par l'article L. 162-58 du code de la sécurité sociale.  <br/>(Arrêté du 12 décembre 2023 - art. 1)</em></font></p>",
+                    "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
                         "textCid": "KALITEXT000047881192",
@@ -12876,6 +12888,18 @@
                         "datePubliTexte": "2023-07-25",
                         "dateSignaTexte": "2022-11-29",
                         "dateDebutCible": "2023-01-01"
+                      },
+                      {
+                        "textCid": "JORFTEXT000048670051",
+                        "textTitle": "Arrêté du 12 décembre 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000048670056",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-12-27",
+                        "dateSignaTexte": "2023-12-12",
+                        "dateDebutCible": "2999-01-01"
                       }
                     ]
                   }
@@ -23569,7 +23593,7 @@
             "cid": "KALITEXT000047881192",
             "title": "Avenant n° 3 du 29 novembre 2022 à l'accord du 6 novembre 2015 relatif à la mise en place d'un régime frais de santé",
             "id": "KALITEXT000047881192",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2023-01-01"
           },
           "children": [
@@ -23580,7 +23604,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000047881195",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -23590,8 +23614,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000047881201",
                     "content": "<p align='left'>Le présent avenant a pour objet la modification des garanties du régime conventionnel frais de santé de la branche sport.</p><p align='left'>Les dispositions du présent avenant s'incorporent à l'accord relatif à la mise en place d'un régime conventionnel frais de santé dans le cadre de la CCNS du 6 novembre 2015 ainsi qu'à ses avenants.</p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000048670051",
+                        "textTitle": "Arrêté du 12 décembre 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000048670056",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-12-27",
+                        "dateSignaTexte": "2023-12-12",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -23603,10 +23640,23 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000047881196",
-                "content": "<p align='left'><br/>L'annexe 1 de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000032094221&idSectionTA=KALISCTA000032094232&categorieLien=cid' title='Mise en place d'un régime de frais de santé -  Annexe I (VE)'>accord du 6 novembre 2015</a> détaillant les prestations du régime conventionnel obligatoire est remplacée par l'annexe figurant au présent avenant.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align='left'><br/>L'annexe 1 de l'<a href='/affichIDCC.do?cidTexte=KALITEXT000032094221&idSectionTA=KALISCTA000032094232&categorieLien=cid'>accord du 6 novembre 2015</a> détaillant les prestations du régime conventionnel obligatoire est remplacée par l'annexe figurant au présent avenant.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Modification de l'annexe 1 « Régime conventionnel frais de santé »",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048670051",
+                    "textTitle": "Arrêté du 12 décembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048670056",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-12-27",
+                    "dateSignaTexte": "2023-12-12",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -23617,8 +23667,21 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000047881198",
                 "content": "<p align='left'><br/>Le présent avenant s'applique à l'ensemble des entreprises couvertes par la convention collective nationale du sport (après extension pour les entreprises non adhérentes à l'une des organisations patronales signataires). Les parties signataires n'ont pas retenu de dispositions spécifiques pour les entreprises de moins de 50 salariés en ce que le présent avenant vise à modifier le régime collectif frais de santé dont doit bénéficier l'ensemble des salariés relevant de la branche et ce quel que soit l'effectif de leur entreprise.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048670051",
+                    "textTitle": "Arrêté du 12 décembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048670056",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-12-27",
+                    "dateSignaTexte": "2023-12-12",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -23629,8 +23692,21 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000047881199",
                 "content": "<p align='left'>Le présent avenant prend effet le 1er janvier 2023. Il se renouvelle ensuite annuellement, par tacite reconduction au 1er janvier de chaque année suivante.</p><p align='left'>Le présent avenant fera l'objet d'un dépôt auprès de la direction générale du travail, ainsi que d'une demande d'extension.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048670051",
+                    "textTitle": "Arrêté du 12 décembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048670056",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-12-27",
+                    "dateSignaTexte": "2023-12-12",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -23640,7 +23716,7 @@
                 "intOrdre": 2621435,
                 "title": "Annexe",
                 "id": "KALISCTA000047881200",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -23649,8 +23725,8 @@
                     "cid": "KALIARTI000047881202",
                     "intOrdre": 524287,
                     "id": "KALIARTI000047881202",
-                    "content": "<p align='center'>Tableau de garanties</p><p>Le tableau des garanties ci-dessous couvre l'ensemble des garanties du contrat responsable y compris les dernières évolutions réglementaires (psychologues, télésurveillance médicale …).</p><p>(Tableau non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives.)</p><p><a shape='rect' href='https://www.legifrance.gouv.fr/download/file/pdf/boc_20230024_0000_0022.pdf/BOCC' target='_blank'> https :// www. legifrance. gouv. fr/ download/ file/ pdf/ boc _ 20230024 _ 0000 _ 0022. pdf/ BOCC</a></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
+                    "content": "<p align='center'>Tableau de garanties </p><p>Le <i>tableau des garanties</i> <a href='#RENVOI_KALIARTI000047881202_1'> (1)</a> ci-dessous couvre l'ensemble des garanties du contrat responsable y compris les dernières évolutions réglementaires (psychologues, télésurveillance médicale …). </p><p>(Tableau non reproduit, consultable en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives.) </p><p><a shape='rect' href='https://www.legifrance.gouv.fr/download/file/pdf/boc_20230024_0000_0022.pdf/BOCC' target='_blank'> https :// www. legifrance. gouv. fr/ download/ file/ pdf/ boc _ 20230024 _ 0000 _ 0022. pdf/ BOCC</a></p><p><font color='808080'><em><a name='RENVOI_KALIARTI000047881202_1'></a>(1) Le tableau de garanties est étendu sous réserve du respect du cahier des charges des contrats responsables, prévu à l'article R. 871-2 du code de la sécurité sociale, concernant la prise en charge du ticket modérateur des séances d'accompagnement psychologiques prévues par l'article L. 162-58 du code de la sécurité sociale.  <br/>(Arrêté du 12 décembre 2023 - art. 1)</em></font></p>",
+                    "etat": "VIGUEUR_ETEN",
                     "surtitre": "Annexe 1",
                     "lstLienModification": [
                       {
@@ -23664,6 +23740,18 @@
                         "datePubliTexte": "2016-02-23",
                         "dateSignaTexte": "2015-11-06",
                         "dateDebutCible": "2023-01-01"
+                      },
+                      {
+                        "textCid": "JORFTEXT000048670051",
+                        "textTitle": "Arrêté du 12 décembre 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000048670056",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-12-27",
+                        "dateSignaTexte": "2023-12-12",
+                        "dateDebutCible": "2999-01-01"
                       }
                     ]
                   }
@@ -23975,7 +24063,7 @@
             "cid": "KALITEXT000048558784",
             "title": "Avenant n° 188 du 28 septembre 2023 relatif au chapitre 10 de la convention collective",
             "id": "KALITEXT000048558784",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2024-01-01"
           },
           "children": [
@@ -23986,7 +24074,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000048558787",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -23996,8 +24084,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000048558791",
                     "content": "<p align='left'>Dans le cadre des travaux menés en commission paritaire dédiée au régime de prévoyance de la branche, et dans un souci de préserver l'équilibre et la continuité du régime, les partenaires sociaux se sont accordés sur la nécessaire modification des taux de contribution conventionnels dédiés.</p><p align='left'>Le présent avenant a pour objet d'entériner ces dispositions dans la convention collective nationale du sport, pour une application à compter du 1er janvier 2024, permettant de laisser le temps de communiquer sur l'évolution du taux auprès des salariés et employeurs concernés.</p><p align='left'>Concrètement, les partenaires sociaux de la branche ont convenu ce qui suit :</p><p></p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000048670051",
+                        "textTitle": "Arrêté du 12 décembre 2023 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000048670056",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2023-12-27",
+                        "dateSignaTexte": "2023-12-12",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -24010,8 +24111,20 @@
                 "intOrdre": 1048574,
                 "id": "KALIARTI000048558788",
                 "content": "<p align='left'>L'article 10.8 du chapitre 10 de la CCN du sport est modifié de la manière suivante :</p><p align='left'>« À compter du 1er janvier 2024, le taux de cotisation global du régime conventionnel de prévoyance est fixé à 0,84 % de la rémunération brute du salarié, selon la répartition suivante : 0,42 % pour l'employeur et 0,42 % pour le salarié.</p><p align='left'>Cette cotisation est appliquée sur la rémunération brute du salarié dans la limite des tranche A (TA) et tranche B (TB) du salaire.</p><p align='left'>Pour rappel, les tranche A et tranche B de rémunération brute correspondent aux limites définies ci-après :<br/>\n– tranche A (TA) : partie de la rémunération de référence au plus égale au plafond annuel de la sécurité sociale ;<br/>\n– tranche B (TB) : partie de la rémunération de référence comprise entre un plafond annuel de la sécurité sociale et 4 fois celui-ci.</p><p align='left'>Le taux de cotisation global ainsi fixé est réparti comme suit à compter du 1er janvier 2024 :</p><p align='left'></p><center><table border='1'><tbody><tr><th rowspan='2'>Garanties</th><th colspan='3'>Taux de cotisation TA/ TB</th></tr><tr><th>Total</th><th>Employeur</th><th>Salarié</th></tr><tr><td>Décès</td><td align='center'>0,13 %</td><td align='center'>0,08 %</td><td align='center'>0,05 %</td></tr><tr><td>Rente éducation</td><td align='center'>0,05 %</td><td align='center'>0,03 %</td><td align='center'>0,02 %</td></tr><tr><td>Incapacité temporaire de travail</td><td align='center'>0,29 %</td><td align='center'>0,00 %</td><td align='center'>0,29 %</td></tr><tr><td>Invalidité</td><td align='center'>0,28 %</td><td align='center'>0,22 %</td><td align='center'>0,06 %</td></tr><tr><td>Maintien de salaire des personnels non indemnisés par la sécurité sociale</td><td align='center'>0,09 %</td><td align='center'>0,09 %</td><td align='center'>0,00 %</td></tr><tr><td><strong>Total</strong></td><td align='center'><strong>0,84 %</strong></td><td align='center'><strong>0,42 %</strong></td><td align='center'><strong>0,42 %</strong></td></tr></tbody></table></center>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048670051",
+                    "textTitle": "Arrêté du 12 décembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048670056",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-12-27",
+                    "dateSignaTexte": "2023-12-12",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000017577657",
                     "textTitle": "Convention collective nationale du 7 juillet 2005 - art. 10.8 (VNE)",
@@ -24035,8 +24148,21 @@
                 "intOrdre": 1572861,
                 "id": "KALIARTI000048558789",
                 "content": "<p align='left'><br/>Le présent avenant s'applique à l'ensemble des entreprises couvertes par la convention collective nationale du sport. Compte tenu de son objet, il ne nécessite pas d'adaptation spécifique ou la mise en place d'un accord-type par la branche pour les entreprises de moins de 50 salariés.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048670051",
+                    "textTitle": "Arrêté du 12 décembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048670056",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-12-27",
+                    "dateSignaTexte": "2023-12-12",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -24047,8 +24173,21 @@
                 "intOrdre": 2097148,
                 "id": "KALIARTI000048558790",
                 "content": "<p align='left'>Le présent avenant est conclu à durée indéterminée. Il entre en vigueur au 1er janvier 2024. Il fera l'objet de formalités de dépôt conformément aux dispositions légales ainsi que d'une demande d'extension.</p><p align='left'>Le présent avenant pourra être révisé ou dénoncé conformément aux dispositions légales.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "lstLienModification": []
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000048670051",
+                    "textTitle": "Arrêté du 12 décembre 2023 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000048670056",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2023-12-27",
+                    "dateSignaTexte": "2023-12-12",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
