@@ -1,3 +1,16 @@
+# [3.23.0](https://github.com/SocialGouv/kali-data/compare/v3.22.0...v3.23.0) (2024-01-11)
+
+
+### Bug Fixes
+
+* **métallurgie:** ajout de l'effectif à la métallurgie afin que cette dernière remonte bien dans les résultats de recherche ([#295](https://github.com/SocialGouv/kali-data/issues/295)) ([4ca0c7c](https://github.com/SocialGouv/kali-data/commit/4ca0c7c4e8e958accfc81c976d5b6e819ed72dd3))
+
+
+### Features
+
+* **data:** 20240111_2231 update ([ac6d348](https://github.com/SocialGouv/kali-data/commit/ac6d348a9767259f001b2e7449fe5781e7198202))
+* ajout de synonymes pour les CC 413 et 29 ([#294](https://github.com/SocialGouv/kali-data/issues/294)) ([9d9c1fa](https://github.com/SocialGouv/kali-data/commit/9d9c1faa529ae68335545cec1efcb47f7b35fccd))
+
 # [3.22.0](https://github.com/SocialGouv/kali-data/compare/v3.21.0...v3.22.0) (2024-01-10)
 
 
