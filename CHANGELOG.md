@@ -1,3 +1,11 @@
+# [3.31.0](https://github.com/SocialGouv/kali-data/compare/v3.30.0...v3.31.0) (2024-01-29)
+
+
+### Features
+
+* **ccs:** fusion de la cc 1391 dans la 275 ([#293](https://github.com/SocialGouv/kali-data/issues/293)) ([ac9a4eb](https://github.com/SocialGouv/kali-data/commit/ac9a4eb4c160066968f6b97c25a9ea7a96e77c50))
+* **data:** 20240129_2231 update ([5388e60](https://github.com/SocialGouv/kali-data/commit/5388e60ef5be7474f133d840b000e9455bcdc9ac))
+
 # [3.30.0](https://github.com/SocialGouv/kali-data/compare/v3.29.0...v3.30.0) (2024-01-26)
 
 
