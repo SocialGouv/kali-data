@@ -1710,20 +1710,6 @@
     },
     {
         "active": true,
-        "date_publi": "2002-01-01T00:00:00.000Z",
-        "effectif": 17822,
-        "etat": "VIGUEUR_NON_ETEN",
-        "id": "KALICONT000021284958",
-        "mtime": 1537467784,
-        "nature": "IDCC",
-        "num": 2344,
-        "shortTitle": "Sidérurgie",
-        "texte_de_base": "KALITEXT000021284963",
-        "title": "Convention collective nationale de la sidérurgie du 20 novembre 2001",
-        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000021284958"
-    },
-    {
-        "active": true,
         "date_publi": "2001-09-11T00:00:00.000Z",
         "effectif": 4730,
         "etat": "VIGUEUR_ETEN",
@@ -2713,20 +2699,6 @@
     },
     {
         "active": true,
-        "date_publi": "1989-06-07T00:00:00.000Z",
-        "effectif": 717,
-        "etat": "VIGUEUR_ETEN",
-        "id": "KALICONT000005635442",
-        "mtime": 1508867522,
-        "nature": "IDCC",
-        "num": 1543,
-        "shortTitle": "Boyauderie",
-        "texte_de_base": "KALITEXT000005649964",
-        "title": "Convention collective nationale de la boyauderie du 19 février 1989.  Etendue par arrêté du 2 juin 1989 JORF 7 juin 1989.",
-        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635442"
-    },
-    {
-        "active": true,
         "date_publi": "1989-06-01T00:00:00.000Z",
         "effectif": 31395,
         "etat": "VIGUEUR_ETEN",
@@ -3700,7 +3672,8 @@
         "shortTitle": "Industries charcutières (salaisons, charcuteries, conserves de viandes)",
         "texte_de_base": "KALITEXT000005685767",
         "title": "Convention collective nationale de l'industrie de la salaison, charcuterie en gros et conserves de viandes du 29 mars 1972.  Etendue par arrêté du 14 mai 1975 JORF 4 juin 1975.",
-        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635631"
+        "url": "https://www.legifrance.gouv.fr/affichIDCC.do?idConvention=KALICONT000005635631",
+        "synonymes": ["1543", "Boyauderie"]
     },
     {
         "active": true,
@@ -6590,7 +6563,9 @@
             "3209",
             "3231",
             "1375",
-            "1809"
+            "1809",
+            "2344",
+            "Sidérurgie"
         ],
         "fetchArticles": true
     },
