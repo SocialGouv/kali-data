@@ -10,10 +10,10 @@ const hasAgreement = require("./hasAgreement");
  *
  * @param {number | string} agreementIdOrIdcc
  *
- * @returns {KaliData.Agreement}
+ * @returns {Promise<KaliData.Agreement>}
  */
-function getAgreement(agreementIdOrIdcc) {
-    const agreementId = getAgreementIdFromIdOrIdcc(agreementIdOrIdcc);
+async function getAgreement(agreementIdOrIdcc) {
+    const agreementId = await getAgreementIdFromIdOrIdcc(agreementIdOrIdcc);
     if (!hasAgreement(agreementId)) {
         throw new Error(`No agreement found with this ID (${agreementId}).`);
     }

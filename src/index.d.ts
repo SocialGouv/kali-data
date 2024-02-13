@@ -5,7 +5,7 @@
  *
  * @see https://github.com/syntax-tree/unist
  */
-export function getAgreement(agreementIdOrIdcc: number | string): KaliData.Agreement;
+export function getAgreement(agreementIdOrIdcc: number | string): Promise<KaliData.Agreement>;
 
 /**
  * Get a flat unist array of all the articles an agreement contains.
@@ -20,12 +20,12 @@ export function getAgreementArticlesWithPath(
 /**
  * Convert any agreement ID or IDCC into a normalized agreement ID.
  */
-export function getAgreementIdFromIdOrIdcc(agreementIdOrIdcc: number | string): string;
+export function getAgreementIdFromIdOrIdcc(agreementIdOrIdcc: number | string): Promise<string>;
 
 /**
  * Get the full list of indexed agreements.
  */
-export function getAgreements(): KaliData.IndexedAgreement[];
+export function getAgreements(): Promise<KaliData.IndexedAgreement[]>;
 
 /**
  * Get the full list of indexed articles.
@@ -48,7 +48,7 @@ export function getIndexedArticle(articleIdOrCid: string): KaliData.IndexedArtic
 /**
  * Check if an agreement is available.
  */
-export function hasAgreement(agreementIdOrIdcc: number | string): boolean;
+export function hasAgreement(agreementIdOrIdcc: number | string): Promise<boolean>;
 
 /**
  * Check if an article is available.
@@ -161,7 +161,6 @@ type AgreementArticleDataLinkUpdate = {
 };
 
 type IndexedAgreement = {
-    active?: boolean;
     /** Publication ISO date */
     date_publi?: string;
     effectif?: number;

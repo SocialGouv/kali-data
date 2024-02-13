@@ -14,35 +14,47 @@ import getArticlePath from "./helpers/getArticlePath";
 
 log.enableColor();
 
-log.info("match()", `Indexing articles…`);
-const agreementsIndex = getAgreements();
+async function main() {
+    log.info("match()", `Indexing articles…`);
+    const agreementsIndex = await getAgreements();
 
-const articlesIndex = agreementsIndex.flatMap(({ id: agreementId }) => {
-    if (/-\d+$/.test(agreementId)) {
-        return [];
+    const articlesIndex = [];
+    for (const { id: agreementId } of agreementsIndex) {
+        if (/-\d+$/.test(agreementId)) {
+            continue;
+        }
+        console.warn("getAgreement", agreementId);
+
+        const agreement = await getAgreement(agreementId);
+        const agreementWithFlatArticles =
+            /** @type {{ type: "root", children: KaliData.AgreementArticle }} */
+            (unistUtilFlatFilter(agreement, "article"));
+        if (
+            agreementWithFlatArticles === null ||
+            !Array.isArray(agreementWithFlatArticles.children)
+        ) {
+            continue;
+        }
+
+        const agreementArticles = agreementWithFlatArticles.children.map(
+            ({ data: { cid: articleCid, id: articleId } }) => ({
+                agreementId,
+                articleCid,
+                articleId,
+                path: getArticlePath(agreement, articleCid),
+            }),
+        );
+
+        articlesIndex.push.apply(articlesIndex, agreementArticles);
     }
-    console.warn("getAgreement", agreementId);
 
-    const agreement = getAgreement(agreementId);
-    const agreementWithFlatArticles =
-        /** @type {{ type: "root", children: KaliData.AgreementArticle }} */
-        (unistUtilFlatFilter(agreement, "article"));
-    if (agreementWithFlatArticles === null || !Array.isArray(agreementWithFlatArticles.children)) {
-        return [];
-    }
+    const articlesIndexFilePath = path.join(__dirname, "..", "data", "articles", "index.json");
+    log.info("match()", `Writing ${articlesIndexFilePath}…`);
+    fs.writeFileSync(articlesIndexFilePath, JSON.stringify(articlesIndex, null, 2));
+}
 
-    const agreementArticles = agreementWithFlatArticles.children.map(
-        ({ data: { cid: articleCid, id: articleId } }) => ({
-            agreementId,
-            articleCid,
-            articleId,
-            path: getArticlePath(agreement, articleCid),
-        }),
-    );
+main().catch(error => {
+    log.error("match()", `Failed: ${error}`);
 
-    return agreementArticles;
+    process.exit(-1);
 });
-
-const articlesIndexFilePath = path.join(__dirname, "..", "data", "articles", "index.json");
-log.info("match()", `Writing ${articlesIndexFilePath}…`);
-fs.writeFileSync(articlesIndexFilePath, JSON.stringify(articlesIndex, null, 2));

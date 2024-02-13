@@ -1,8 +1,5 @@
 // @ts-check
-
-const getAgreements = require("../libs/getAgreements");
-
-const INDEXED_AGREEMENTS = getAgreements();
+const getAgreements = require("./getAgreements");
 
 /**
  * @param {number | string} idcc
@@ -26,11 +23,13 @@ const isAgreementId = id => typeof id === "string" && /^KALICONT\d{12}$/.test(id
  *
  * @returns {string}
  */
-function getAgreementIdFromIdOrIdcc(agreementIdOrIdcc) {
+async function getAgreementIdFromIdOrIdcc(agreementIdOrIdcc) {
+    const agreements = await getAgreements();
+
     if (isAgreementIdcc(agreementIdOrIdcc)) {
         const idcc = Number(agreementIdOrIdcc);
         const matchIdcc = ({ num }) => num === idcc;
-        const maybeAgreement = INDEXED_AGREEMENTS.find(matchIdcc);
+        const maybeAgreement = agreements.find(matchIdcc);
         if (maybeAgreement === undefined) {
             throw new Error(`No agreement found with this IDCC (${idcc}).`);
         }

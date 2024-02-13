@@ -6,32 +6,42 @@ import unistUtilFind from "unist-util-find";
 import { getAgreement, getAgreements } from "../src";
 
 log.enableColor();
-const INDEXED_AGREEMENTS = getAgreements();
 
-/**
- * @param {KaliData.IndexedAgreement} convention
- *
- * @returns {boolean}
- */
-const containsUrl = convention => typeof convention.url === "string";
+async function main() {
+    const agreements = await getAgreements();
 
-/**
- * @param {KaliData.AgreementArticle | KaliData.AgreementSection} node
- *
- * @returns {boolean}
- */
-const hasSectionWithNoChild = node =>
-    node.type === "section" && Array.isArray(node.children) && node.children.length === 0;
+    /**
+     * @param {KaliData.IndexedAgreement} convention
+     *
+     * @returns {boolean}
+     */
+    const containsUrl = convention => typeof convention.url === "string";
 
-const agrementsWithUrl = INDEXED_AGREEMENTS.filter(containsUrl);
-agrementsWithUrl.forEach(({ id }) => {
-    const agreement = getAgreement(id);
-    const agreementAdditionalSections = agreement.children.slice(1);
-    const emptyNodes = unistUtilFind(agreementAdditionalSections, hasSectionWithNoChild);
+    /**
+     * @param {KaliData.AgreementArticle | KaliData.AgreementSection} node
+     *
+     * @returns {boolean}
+     */
+    const hasSectionWithNoChild = node =>
+        node.type === "section" && Array.isArray(node.children) && node.children.length === 0;
 
-    if (emptyNodes !== undefined) {
-        log.error("check()", `${id} has ${emptyNodes.length} empty nodes.`);
+    const agrementsWithUrl = agreements.filter(containsUrl);
+    for (const { id } of agrementsWithUrl) {
+        const agreement = await getAgreement(id);
+        const agreementAdditionalSections = agreement.children.slice(1);
+        const emptyNodes = unistUtilFind(agreementAdditionalSections, hasSectionWithNoChild);
 
-        process.exit(-1);
+        if (emptyNodes !== undefined) {
+            log.error("check()", `${id} has ${emptyNodes.length} empty nodes.`);
+
+            process.exit(-1);
+        }
     }
+}
+
+main().catch(error => {
+    log.error("check()", `Failed: ${error}`);
+    console.error(error);
+
+    process.exit(-1);
 });

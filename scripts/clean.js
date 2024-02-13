@@ -10,8 +10,6 @@ log.enableColor();
 
 const writeFile = promisify(fs.writeFile);
 
-const INDEXED_AGREEMENTS = getAgreements();
-
 const t0 = Date.now();
 
 function cleanAgreements(agreementId) {
@@ -28,7 +26,7 @@ async function saveFile(container) {
         path.join(__dirname, "..", "data", `${container.data.id}.json`),
         JSON.stringify(container, 0, 2),
     );
-    log.verbose("fetch()", `Updating ${container.data.id}.json`);
+    log.verbose("clean()", `Updating ${container.data.id}.json`);
 }
 
 function toFix(value, nb = 2) {
@@ -40,22 +38,24 @@ function toFix(value, nb = 2) {
 async function main() {
     const pipelineClean = pPipe(cleanAgreements, saveFile);
 
+    const INDEXED_AGREEMENTS = await getAgreements();
+
     const notSupportedCcnList = INDEXED_AGREEMENTS.filter(
         convention => !!convention.url && !convention.fetchArticles,
     );
 
     const pClean = notSupportedCcnList.map(({ id }) => {
         return pipelineClean(id).catch(error => {
-            log.error("main()", `clean failed for ${id}`);
+            log.error("clean()", `clean failed for ${id}`);
             throw error;
         });
     });
     await Promise.all(pClean);
-    log.info("fetch()", `Clean done in ${toFix((Date.now() - t0) / 1000)} s`);
+    log.info("clean()", `Clean done in ${toFix((Date.now() - t0) / 1000)} s`);
 }
 
 main().catch(error => {
-    log.error("fetch()", `Failed in ${toFix((Date.now() - t0) / 1000)} s (${error})`);
+    log.error("clean()", `Failed in ${toFix((Date.now() - t0) / 1000)} s (${error})`);
 
     process.exit(-1);
 });

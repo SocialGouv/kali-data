@@ -13,8 +13,6 @@ import astify, { cleanAst, isValidSection } from "./libs/astify";
 log.enableColor();
 const writeFile = promisify(fs.writeFile);
 
-const INDEXED_AGREEMENTS = getAgreements();
-
 const { OAUTH_CLIENT_ID, OAUTH_CLIENT_SECRET } = process.env;
 
 if (OAUTH_CLIENT_ID === undefined || OAUTH_CLIENT_SECRET === undefined) {
@@ -92,13 +90,14 @@ function toFix(value, nb = 2) {
 async function main() {
     const pipeline = pPipe(fetchKaliCont, fetchAdditionalText, astify, cleanAst, saveFile);
 
-    const ccnList = INDEXED_AGREEMENTS.filter(
+    const indexedAgreements = await getAgreements();
+    const ccnList = indexedAgreements.filter(
         convention => !!convention.url && convention.fetchArticles,
     );
 
     const pResults = ccnList.map(({ id }) => {
         return pipeline(id).catch(error => {
-            log.error("main()", `pipeline failed for ${id}`);
+            log.error("fetch()", `pipeline failed for ${id}`);
             throw error;
         });
     });

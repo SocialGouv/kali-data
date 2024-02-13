@@ -9,14 +9,12 @@ const getArticles = require("./libs/getArticles");
 const getIndexedArticle = require("./libs/getIndexedArticle");
 const hasAgreement = require("./libs/hasAgreement");
 const hasArticle = require("./libs/hasArticle");
-const getAgreementsWithNoId = require("./libs/getAgreementsWithNoId");
 
 module.exports = {
     getAgreement,
     getAgreementArticlesWithPath,
     getAgreementIdFromIdOrIdcc,
     getAgreements,
-    getAgreementsWithNoId,
     getArticleWithPath,
     getArticles,
     getIndexedArticle,
