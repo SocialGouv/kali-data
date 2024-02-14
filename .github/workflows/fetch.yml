@@ -27,6 +27,10 @@ jobs:
           OAUTH_CLIENT_ID: ${{ secrets.DILA_OAUTH_CLIENT_ID }}
           OAUTH_CLIENT_SECRET: ${{ secrets.DILA_OAUTH_CLIENT_SECRET }}
 
+      - name: Fetch CC index from CDTN
+        run: |
+          curl https://cdtnadmindev.blob.core.windows.net/cdtn/agreements.json -o - | jq > data/index.json
+
       - name: Get metadata
         id: metadata
         shell: bash
