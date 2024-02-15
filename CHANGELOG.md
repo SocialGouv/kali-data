@@ -1,3 +1,11 @@
+# [3.44.0](https://github.com/SocialGouv/kali-data/compare/v3.43.0...v3.44.0) (2024-02-15)
+
+
+### Features
+
+* **convention collective:** Intégration de la CC 1543 dans la CC 1586 et Intégration de la CC 2344 dans la CC 3248 ([#299](https://github.com/SocialGouv/kali-data/issues/299)) ([bb3fac8](https://github.com/SocialGouv/kali-data/commit/bb3fac8b3cbf00fa231777b9f485d2693eb6b760))
+* **data:** 20240215_2227 update ([552e2e1](https://github.com/SocialGouv/kali-data/commit/552e2e14a38fe55d83a66a7162c4f437a16462d5))
+
 # [3.43.0](https://github.com/SocialGouv/kali-data/compare/v3.42.0...v3.43.0) (2024-02-14)
 
 
