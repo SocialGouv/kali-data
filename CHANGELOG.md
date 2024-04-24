@@ -1,3 +1,10 @@
+## [3.86.1](https://github.com/SocialGouv/kali-data/compare/v3.86.0...v3.86.1) (2024-04-24)
+
+
+### Bug Fixes
+
+* **actions:** change mattermost notification ([967b0da](https://github.com/SocialGouv/kali-data/commit/967b0da0c6372bd3292bfeff0c3c7a791263f688))
+
 # [3.86.0](https://github.com/SocialGouv/kali-data/compare/v3.85.0...v3.86.0) (2024-04-23)
 
 
