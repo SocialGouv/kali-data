@@ -91,7 +91,6 @@ jobs:
         if: failure()
         with:
           MATTERMOST_WEBHOOK_URL: ${{ secrets.MATTERMOST_WEBHOOK_URL }}
-          PAYLOAD: |-
-            {
-              "text": "La mise à jour du dépôt kali-data (Legifrance Code du Travail) a échoué : ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}",
-            }
+          TEXT: |
+            La mise à jour du dépôt kali-data a échoué.
+            [Les logs sont disponibles ici](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})
