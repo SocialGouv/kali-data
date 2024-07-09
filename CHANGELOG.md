@@ -1,3 +1,10 @@
+# [3.129.0](https://github.com/SocialGouv/kali-data/compare/v3.128.0...v3.129.0) (2024-07-09)
+
+
+### Features
+
+* update scheduler ([#309](https://github.com/SocialGouv/kali-data/issues/309)) ([56443c7](https://github.com/SocialGouv/kali-data/commit/56443c796817c86d6bde6573f0404b13e058f66c))
+
 # [3.128.0](https://github.com/SocialGouv/kali-data/compare/v3.127.0...v3.128.0) (2024-07-08)
 
 
