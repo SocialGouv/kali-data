@@ -382,8 +382,8 @@
                 "lstLienModification": [
                   {
                     "textCid": "KALITEXT000047734167",
-                    "textTitle": "Révision de la convention collective nationale - art. 6 (VNE)",
-                    "linkType": "CREE",
+                    "textTitle": "Révision de la convention collective nationale - art. 6 (VE)",
+                    "linkType": "MODIFIE",
                     "linkOrientation": "cible",
                     "articleNum": "6",
                     "articleId": "KALIARTI000047734200",
@@ -431,8 +431,8 @@
                 "lstLienModification": [
                   {
                     "textCid": "KALITEXT000047734167",
-                    "textTitle": "Révision de la convention collective nationale - art. 7 (VNE)",
-                    "linkType": "CREE",
+                    "textTitle": "Révision de la convention collective nationale - art. 7 (VE)",
+                    "linkType": "MODIFIE",
                     "linkOrientation": "cible",
                     "articleNum": "7",
                     "articleId": "KALIARTI000047734203",
@@ -480,8 +480,8 @@
                 "lstLienModification": [
                   {
                     "textCid": "KALITEXT000047734167",
-                    "textTitle": "Révision de la convention collective nationale - art. 8 (VNE)",
-                    "linkType": "CREE",
+                    "textTitle": "Révision de la convention collective nationale - art. 8 (VE)",
+                    "linkType": "MODIFIE",
                     "linkOrientation": "cible",
                     "articleNum": "8",
                     "articleId": "KALIARTI000047734204",
@@ -802,8 +802,8 @@
                 "lstLienModification": [
                   {
                     "textCid": "KALITEXT000047734167",
-                    "textTitle": "Révision de la convention collective nationale - art. 14 (VNE)",
-                    "linkType": "CREE",
+                    "textTitle": "Révision de la convention collective nationale - art. 14 (VE)",
+                    "linkType": "MODIFIE",
                     "linkOrientation": "cible",
                     "articleNum": "14",
                     "articleId": "KALIARTI000047734207",
@@ -1595,8 +1595,8 @@
                 "lstLienModification": [
                   {
                     "textCid": "KALITEXT000047734167",
-                    "textTitle": "Révision de la convention collective nationale - art. 31 (VNE)",
-                    "linkType": "CREE",
+                    "textTitle": "Révision de la convention collective nationale - art. 31 (VE)",
+                    "linkType": "MODIFIE",
                     "linkOrientation": "cible",
                     "articleNum": "31",
                     "articleId": "KALIARTI000047734223",
@@ -1693,8 +1693,8 @@
                 "lstLienModification": [
                   {
                     "textCid": "KALITEXT000047734167",
-                    "textTitle": "Révision de la convention collective nationale - art. 33 (VNE)",
-                    "linkType": "CREE",
+                    "textTitle": "Révision de la convention collective nationale - art. 33 (VE)",
+                    "linkType": "MODIFIE",
                     "linkOrientation": "cible",
                     "articleNum": "33",
                     "articleId": "KALIARTI000047734224",
@@ -1818,8 +1818,8 @@
                 "lstLienModification": [
                   {
                     "textCid": "KALITEXT000047734167",
-                    "textTitle": "Révision de la convention collective nationale - art. 37 (VNE)",
-                    "linkType": "CREE",
+                    "textTitle": "Révision de la convention collective nationale - art. 37 (VE)",
+                    "linkType": "MODIFIE",
                     "linkOrientation": "cible",
                     "articleNum": "37",
                     "articleId": "KALIARTI000047734250",
@@ -13722,15 +13722,27 @@
                           },
                           {
                             "textCid": "KALITEXT000005688161",
-                            "textTitle": "Convention collective nationale du personnel au... - art. 6 (VNE)",
-                            "linkType": "CREE",
+                            "textTitle": "Convention collective nationale du personnel au... - art. 6 (Ab)",
+                            "linkType": "ABROGE",
+                            "linkOrientation": "source",
+                            "articleNum": "6",
+                            "articleId": "KALIARTI000026343740",
+                            "natureText": "Convention collective nationale ",
+                            "datePubliTexte": "2999-01-01",
+                            "dateSignaTexte": "1959-05-22",
+                            "dateDebutCible": "2012-03-27"
+                          },
+                          {
+                            "textCid": "KALITEXT000005688161",
+                            "textTitle": "Convention collective nationale du personnel au... - art. 6 (VE)",
+                            "linkType": "MODIFIE",
                             "linkOrientation": "source",
                             "articleNum": "6",
                             "articleId": "KALIARTI000048654458",
                             "natureText": "Convention collective nationale ",
                             "datePubliTexte": "2999-01-01",
                             "dateSignaTexte": "1959-05-22",
-                            "dateDebutCible": "2023-04-25"
+                            "dateDebutCible": "2024-01-31"
                           }
                         ]
                       }
@@ -13772,15 +13784,27 @@
                           },
                           {
                             "textCid": "KALITEXT000005688161",
-                            "textTitle": "Convention collective nationale du personnel au... - art. 7 (VNE)",
-                            "linkType": "CREE",
+                            "textTitle": "Convention collective nationale du personnel au... - art. 7 (Ab)",
+                            "linkType": "ABROGE",
+                            "linkOrientation": "source",
+                            "articleNum": "7",
+                            "articleId": "KALIARTI000005871958",
+                            "natureText": "Convention collective nationale ",
+                            "datePubliTexte": "2999-01-01",
+                            "dateSignaTexte": "1959-05-22",
+                            "dateDebutCible": "2002-05-05"
+                          },
+                          {
+                            "textCid": "KALITEXT000005688161",
+                            "textTitle": "Convention collective nationale du personnel au... - art. 7 (VE)",
+                            "linkType": "MODIFIE",
                             "linkOrientation": "source",
                             "articleNum": "7",
                             "articleId": "KALIARTI000048654462",
                             "natureText": "Convention collective nationale ",
                             "datePubliTexte": "2999-01-01",
                             "dateSignaTexte": "1959-05-22",
-                            "dateDebutCible": "2023-04-25"
+                            "dateDebutCible": "2024-01-31"
                           }
                         ]
                       }
@@ -13822,15 +13846,27 @@
                           },
                           {
                             "textCid": "KALITEXT000005688161",
-                            "textTitle": "Convention collective nationale du personnel au... - art. 8 (VNE)",
-                            "linkType": "CREE",
+                            "textTitle": "Convention collective nationale du personnel au... - art. 8 (Ab)",
+                            "linkType": "ABROGE",
+                            "linkOrientation": "source",
+                            "articleNum": "8",
+                            "articleId": "KALIARTI000026343737",
+                            "natureText": "Convention collective nationale ",
+                            "datePubliTexte": "2999-01-01",
+                            "dateSignaTexte": "1959-05-22",
+                            "dateDebutCible": "2012-03-27"
+                          },
+                          {
+                            "textCid": "KALITEXT000005688161",
+                            "textTitle": "Convention collective nationale du personnel au... - art. 8 (VE)",
+                            "linkType": "MODIFIE",
                             "linkOrientation": "source",
                             "articleNum": "8",
                             "articleId": "KALIARTI000048654466",
                             "natureText": "Convention collective nationale ",
                             "datePubliTexte": "2999-01-01",
                             "dateSignaTexte": "1959-05-22",
-                            "dateDebutCible": "2023-04-25"
+                            "dateDebutCible": "2024-01-31"
                           }
                         ]
                       }
@@ -13910,15 +13946,27 @@
                           },
                           {
                             "textCid": "KALITEXT000005688161",
-                            "textTitle": "Convention collective nationale du personnel au... - art. 14 (VNE)",
-                            "linkType": "CREE",
+                            "textTitle": "Convention collective nationale du personnel au... - art. 14 (Ab)",
+                            "linkType": "ABROGE",
+                            "linkOrientation": "source",
+                            "articleNum": "14",
+                            "articleId": "KALIARTI000005871984",
+                            "natureText": "Convention collective nationale ",
+                            "datePubliTexte": "2999-01-01",
+                            "dateSignaTexte": "1959-05-22",
+                            "dateDebutCible": "2002-07-09"
+                          },
+                          {
+                            "textCid": "KALITEXT000005688161",
+                            "textTitle": "Convention collective nationale du personnel au... - art. 14 (VE)",
+                            "linkType": "MODIFIE",
                             "linkOrientation": "source",
                             "articleNum": "14",
                             "articleId": "KALIARTI000048654474",
                             "natureText": "Convention collective nationale ",
                             "datePubliTexte": "2999-01-01",
                             "dateSignaTexte": "1959-05-22",
-                            "dateDebutCible": "2023-04-25"
+                            "dateDebutCible": "2024-01-31"
                           }
                         ]
                       }
@@ -14150,15 +14198,27 @@
                           },
                           {
                             "textCid": "KALITEXT000005688161",
-                            "textTitle": "Convention collective nationale du personnel au... - art. 31 (VNE)",
-                            "linkType": "CREE",
+                            "textTitle": "Convention collective nationale du personnel au... - art. 31 (Ab)",
+                            "linkType": "ABROGE",
+                            "linkOrientation": "source",
+                            "articleNum": "31",
+                            "articleId": "KALIARTI000005872031",
+                            "natureText": "Convention collective nationale ",
+                            "datePubliTexte": "2999-01-01",
+                            "dateSignaTexte": "1959-05-22",
+                            "dateDebutCible": "2002-07-09"
+                          },
+                          {
+                            "textCid": "KALITEXT000005688161",
+                            "textTitle": "Convention collective nationale du personnel au... - art. 31 (VE)",
+                            "linkType": "MODIFIE",
                             "linkOrientation": "source",
                             "articleNum": "31",
                             "articleId": "KALIARTI000048654488",
                             "natureText": "Convention collective nationale ",
                             "datePubliTexte": "2999-01-01",
                             "dateSignaTexte": "1959-05-22",
-                            "dateDebutCible": "2023-04-25"
+                            "dateDebutCible": "2024-01-31"
                           }
                         ]
                       }
@@ -14200,15 +14260,27 @@
                           },
                           {
                             "textCid": "KALITEXT000005688161",
-                            "textTitle": "Convention collective nationale du personnel au... - art. 33 (VNE)",
-                            "linkType": "CREE",
+                            "textTitle": "Convention collective nationale du personnel au... - art. 33 (Ab)",
+                            "linkType": "ABROGE",
+                            "linkOrientation": "source",
+                            "articleNum": "33",
+                            "articleId": "KALIARTI000026343719",
+                            "natureText": "Convention collective nationale ",
+                            "datePubliTexte": "2999-01-01",
+                            "dateSignaTexte": "1959-05-22",
+                            "dateDebutCible": "2012-03-27"
+                          },
+                          {
+                            "textCid": "KALITEXT000005688161",
+                            "textTitle": "Convention collective nationale du personnel au... - art. 33 (VE)",
+                            "linkType": "MODIFIE",
                             "linkOrientation": "source",
                             "articleNum": "33",
                             "articleId": "KALIARTI000048654492",
                             "natureText": "Convention collective nationale ",
                             "datePubliTexte": "2999-01-01",
                             "dateSignaTexte": "1959-05-22",
-                            "dateDebutCible": "2023-04-25"
+                            "dateDebutCible": "2024-01-31"
                           }
                         ]
                       }
@@ -14778,15 +14850,27 @@
                           },
                           {
                             "textCid": "KALITEXT000005688161",
-                            "textTitle": "Convention collective nationale du personnel au... - art. 37 (VNE)",
-                            "linkType": "CREE",
+                            "textTitle": "Convention collective nationale du personnel au... - art. 37 (Ab)",
+                            "linkType": "ABROGE",
+                            "linkOrientation": "source",
+                            "articleNum": "37",
+                            "articleId": "KALIARTI000005872039",
+                            "natureText": "Convention collective nationale ",
+                            "datePubliTexte": "2999-01-01",
+                            "dateSignaTexte": "1959-05-22",
+                            "dateDebutCible": "2002-05-05"
+                          },
+                          {
+                            "textCid": "KALITEXT000005688161",
+                            "textTitle": "Convention collective nationale du personnel au... - art. 37 (VE)",
+                            "linkType": "MODIFIE",
                             "linkOrientation": "source",
                             "articleNum": "37",
                             "articleId": "KALIARTI000048654534",
                             "natureText": "Convention collective nationale ",
                             "datePubliTexte": "2999-01-01",
                             "dateSignaTexte": "1959-05-22",
-                            "dateDebutCible": "2023-04-25"
+                            "dateDebutCible": "2024-01-31"
                           }
                         ]
                       }
@@ -14810,7 +14894,7 @@
                         "num": "8",
                         "intOrdre": 524287,
                         "id": "KALIARTI000047734251",
-                        "content": "<p align='left'>Il est créé, au sein de l'annexe I « Cadres » de la CCN TAPS, un article 8 intitulé « Habillement », qui dispose que : </p><p align='left'>« L'employeur fournit au personnel les vêtements de protection et de sécurité nécessaires pour le prémunir des intempéries ou des effets salissants, corrosifs, après avis des membres du CSE, dans leurs attributions en santé-sécurité et conditions de travail. </p><p align='left'>Dans le cas où l'employeur impose un vêtement déterminé pour le personnel en contact avec le public, il lui fournit ce vêtement. »</p><p></p>",
+                        "content": "<p align='left'>Il est créé, au sein de l'annexe I « Cadres » de la CCN TAPS, un <a href='/affichIDCCArticle.do?cidTexte=KALITEXT000005688165&idArticle=KALIARTI000048654056&categorieLien=cid' title='Annexe I :  \" Cadres \" - art. 8 (VE)'>article 8</a> intitulé « Habillement », qui dispose que : </p><p align='left'>« L'employeur fournit au personnel les vêtements de protection et de sécurité nécessaires pour le prémunir des intempéries ou des effets salissants, corrosifs, après avis des membres du CSE, dans leurs attributions en santé-sécurité et conditions de travail. </p><p align='left'>Dans le cas où l'employeur impose un vêtement déterminé pour le personnel en contact avec le public, il lui fournit ce vêtement. »</p><p></p>",
                         "etat": "VIGUEUR_ETEN",
                         "surtitre": "Création d'un article « Habillement »",
                         "lstLienModification": [
@@ -14848,7 +14932,7 @@
                             "natureText": "Annexe",
                             "datePubliTexte": "2999-01-01",
                             "dateSignaTexte": "1962-06-26",
-                            "dateDebutCible": "2023-04-25"
+                            "dateDebutCible": "2024-01-31"
                           }
                         ]
                       }
@@ -14860,7 +14944,7 @@
                         "num": "9",
                         "intOrdre": 1048574,
                         "id": "KALIARTI000047734252",
-                        "content": "<p align='left'>Il est créé, au sein de l'annexe I « Cadre » de la CCN TAPS, un article 9 intitulé « Indemnité panier », qui dispose : </p><p align='left'>« Il est alloué aux cadres une indemnité de panier par journée de travail comptant au moins 6 heures de travail effectif non interrompu, dès lors qu'ils n'ont pas accès à une restauration collective d'entreprise et dont le montant est fixé par voie d'avenant. </p><p align='left'>En outre, il est alloué une indemnité de panier aux cadres effectuant au moins 3 heures 45 de travail, pendant la période comprise entre 18 heures et 6 heures dont le montant est fixé par voie d'avenant. </p><p align='left'>En tout état de cause, il ne peut être versé au salarié qu'une seule indemnité de panier par journée de travail. </p><p align='left'>Les avantages reconnus par le présent article ne peuvent en aucun cas s'interpréter comme s'ajoutant aux avantages déjà accordés pour le même objet ou la même cause (indemnité repas, titres-restaurant, indemnité d'absence cantine …) dans certaines entreprises. </p><p align='left'>Dans ce cas, l'avantage le plus favorable au salarié est seul appliqué. »</p><p></p>",
+                        "content": "<p align='left'>Il est créé, au sein de l'annexe I « Cadre » de la CCN TAPS, un <a href='/affichIDCCArticle.do?cidTexte=KALITEXT000005688165&idArticle=KALIARTI000048654070&categorieLien=cid' title='Annexe I :  \" Cadres \" - art. 9 (VE)'>article 9</a> intitulé « Indemnité panier », qui dispose : </p><p align='left'>« Il est alloué aux cadres une indemnité de panier par journée de travail comptant au moins 6 heures de travail effectif non interrompu, dès lors qu'ils n'ont pas accès à une restauration collective d'entreprise et dont le montant est fixé par voie d'avenant. </p><p align='left'>En outre, il est alloué une indemnité de panier aux cadres effectuant au moins 3 heures 45 de travail, pendant la période comprise entre 18 heures et 6 heures dont le montant est fixé par voie d'avenant. </p><p align='left'>En tout état de cause, il ne peut être versé au salarié qu'une seule indemnité de panier par journée de travail. </p><p align='left'>Les avantages reconnus par le présent article ne peuvent en aucun cas s'interpréter comme s'ajoutant aux avantages déjà accordés pour le même objet ou la même cause (indemnité repas, titres-restaurant, indemnité d'absence cantine …) dans certaines entreprises. </p><p align='left'>Dans ce cas, l'avantage le plus favorable au salarié est seul appliqué. »</p><p></p>",
                         "etat": "VIGUEUR_ETEN",
                         "surtitre": "Création d'un article « Indemnité panier »",
                         "lstLienModification": [
@@ -14898,7 +14982,7 @@
                             "natureText": "Annexe",
                             "datePubliTexte": "2999-01-01",
                             "dateSignaTexte": "1962-06-26",
-                            "dateDebutCible": "2023-04-25"
+                            "dateDebutCible": "2024-01-31"
                           }
                         ]
                       }
