@@ -1,3 +1,15 @@
+# [3.193.0](https://github.com/SocialGouv/kali-data/compare/v3.192.0...v3.193.0) (2024-11-05)
+
+
+### Bug Fixes
+
+* use the node version 20 (20.9.0 (LTS)) ([#312](https://github.com/SocialGouv/kali-data/issues/312)) ([9f02e51](https://github.com/SocialGouv/kali-data/commit/9f02e5176e8657977cdd2b671349418ef509ee96))
+
+
+### Features
+
+* **data:** 20241105_1444 update ([745cd46](https://github.com/SocialGouv/kali-data/commit/745cd46f4a603c0907c7705bdcb18a5a31ade39c))
+
 # [3.192.0](https://github.com/SocialGouv/kali-data/compare/v3.191.0...v3.192.0) (2024-11-01)
 
 
