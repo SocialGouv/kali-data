@@ -7,11 +7,11 @@ describe(`libs/getAgreementIdFromIdOrIdcc()`, () => {
         });
 
         it(`with an existing agreement IDCC (string)`, () => {
-            expect(getAgreementIdFromIdOrIdcc("1480")).toBe("KALICONT000005635444");
+            expect(getAgreementIdFromIdOrIdcc("3239")).toBe("KALICONT000044594539");
         });
 
         it(`with an existing agreement IDCC (number)`, () => {
-            expect(getAgreementIdFromIdOrIdcc(1480)).toBe("KALICONT000005635444");
+            expect(getAgreementIdFromIdOrIdcc(3239)).toBe("KALICONT000044594539");
         });
     });
 

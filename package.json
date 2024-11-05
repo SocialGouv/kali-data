@@ -63,9 +63,7 @@
         "test:type": "tsc --noEmit",
         "test:unit": "jest",
         "test:update": "jest --updateSnapshot",
-        "test:watch": "yarn test:unit --watch",
-        "build": "tsc && rm -rf ./dist/update-cc/data-cc && cp -r ./update-cc/data-cc ./dist/update-cc/data-cc",
-        "update-cc": "npm run build && node dist/update-cc/index.js"
+        "test:watch": "yarn test:unit --watch"
     },
     "types": "./src/index.d.ts",
     "babel": {
