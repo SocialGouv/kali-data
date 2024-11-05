@@ -29,7 +29,7 @@ const isAgreementId = id => typeof id === "string" && /^KALICONT\d{12}$/.test(id
 function getAgreementIdFromIdOrIdcc(agreementIdOrIdcc) {
     if (isAgreementIdcc(agreementIdOrIdcc)) {
         const idcc = Number(agreementIdOrIdcc);
-        const matchIdcc = ({ num }) => num === idcc;
+        const matchIdcc = ({ num }) => Number(num) === idcc;
         const maybeAgreement = INDEXED_AGREEMENTS.find(matchIdcc);
         if (maybeAgreement === undefined) {
             throw new Error(`No agreement found with this IDCC (${idcc}).`);
