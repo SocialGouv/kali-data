@@ -20691,7 +20691,7 @@
             "title": "Accord du 9 novembre 2021 relatif au télétravail",
             "id": "KALITEXT000045110101",
             "etat": "VIGUEUR_NON_ETEN",
-            "modifDate": "2021-12-03"
+            "modifDate": "2024-10-22"
           },
           "children": [
             {
@@ -21025,11 +21025,24 @@
                     "cid": "KALIARTI000045110158",
                     "num": "18",
                     "intOrdre": 1048574,
-                    "id": "KALIARTI000045110158",
-                    "content": "<p align='left'><br/>Le présent accord est conclu pour une durée de 3 ans.</p>",
+                    "id": "KALIARTI000050710903",
+                    "content": "<p>Le présent accord, conclu pour une durée déterminée, est prorogé jusqu'au 1er juillet 2025. Le renouvellement de cet accord sera inscrit de plein droit à l'agenda social 2025.</p>",
                     "etat": "VIGUEUR_NON_ETEN",
                     "surtitre": "Durée de l'accord",
-                    "lstLienModification": []
+                    "lstLienModification": [
+                      {
+                        "textCid": "KALITEXT000050699492",
+                        "textTitle": "Télétravail - art. 1er (VNE)",
+                        "linkType": "MODIFIE",
+                        "linkOrientation": "cible",
+                        "articleNum": "1er",
+                        "articleId": "KALIARTI000050699495",
+                        "natureText": "Avenant",
+                        "datePubliTexte": "2024-12-02",
+                        "dateSignaTexte": "2024-10-03",
+                        "dateDebutCible": "2024-10-22"
+                      }
+                    ]
                   }
                 },
                 {
@@ -23063,6 +23076,55 @@
                 "id": "KALIARTI000048226585",
                 "content": "<p>Montreuil, le 18 juillet 2023. </p><p>La Fédération CGT des syndicats du personnel de la banque et de l'assurance, case 537,263, rue de Paris, 93515 Montreuil Cedex, à la direction générale du travail, 39-43, quai André-Citroën, 75902 Paris Cedex 15. </p><p>Monsieur le directeur général du travail, </p><p>Vous voudrez bien noter que la FSPBA-CGT souhaite régulariser son adhésion aux accords figurants en annexe, à savoir : <br/>– révision période d'essai de la CCN du 27 mars 1972 – avenant du 27 juin 2023 ; <br/>– révision période d'essai de la CCN du 27 juillet 1992 – <a href='/affichIDCC.do?cidTexte=KALITEXT000048052600&categorieLien=cid' title='Période d'essai (VNE)'>avenant du 27 juin 2023 </a>; <br/>– révision période d'essai de la CCN du 27 mai 1992 – <a href='/affichIDCC.do?cidTexte=KALITEXT000048052592&categorieLien=cid' title='Période d'essai (VNE)'>avenant du 27 juin 2023</a> ; <br/>– révision période d'essai de l'accord cadres de direction du 3 mars 1993 – avenant du 27 juin 2023 ; <br/>– <a href='/affichIDCC.do?cidTexte=KALITEXT000048052577&categorieLien=cid' title='Périodes d'essai (VE)'>accord du 30 juin 2023 </a>relatif aux périodes d'essai dans la branche des sociétés d'assurance. </p><p>Nous vous souhaitons bonne réception de la présente et vous prions d'agréer, Monsieur le directeur général du travail, nos salutations distinguées. </p><p align='right'>Secrétaire général adjoint.</p>",
                 "etat": "VIGUEUR",
+                "lstLienModification": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000050699492",
+            "title": "Avenant du 3 octobre 2024 à l'accord du 9 novembre 2021 relatif au télétravail",
+            "id": "KALITEXT000050699492",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2024-10-22"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000050699495",
+                "num": "1er",
+                "intOrdre": 524287,
+                "id": "KALIARTI000050699495",
+                "content": "<p align='left'>L'article 18 de l'accord relatif au télétravail dans les sociétés d'assurances est modifié comme suit :</p><p align='center'>« Article 18<br/>\nDurée de l'accord</p><p align='left'>Le présent accord, conclu pour une durée déterminée, est prorogé jusqu'au 1er juillet 2025. Le renouvellement de cet accord sera inscrit de plein droit à l'agenda social 2025. »</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000045110101",
+                    "textTitle": "Télétravail - art. 18 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "18",
+                    "articleId": "KALIARTI000050710903",
+                    "natureText": "Accord",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2021-11-09",
+                    "dateDebutCible": "2024-10-22"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000050699496",
+                "num": "2",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000050699496",
+                "content": "<p align='left'><br/>Les signataires s'engagent à effectuer sans délai les démarches nécessaires au dépôt légal ; le présent avenant entre en vigueur le lendemain du jour dudit dépôt.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
                 "lstLienModification": []
               }
             }
