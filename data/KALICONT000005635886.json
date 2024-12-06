@@ -20533,7 +20533,7 @@
             "title": "Bouches-du-Rhône - Accord du 20 juin 2012 relatif à la convention",
             "id": "KALITEXT000026695770",
             "etat": "VIGUEUR_ETEN",
-            "modifDate": "2014-12-01"
+            "modifDate": "2025-01-01"
           },
           "children": [
             {
@@ -20646,22 +20646,34 @@
                 "cid": "KALIARTI000026695778",
                 "num": "5",
                 "intOrdre": 2621435,
-                "id": "KALIARTI000028987890",
-                "content": "<p align='left'>La prime de fin d'année sera payée en plus du salaire du mois de décembre à tous les salariés ayant au minimum 1 an d'ancienneté dans l'entreprise au 31 décembre, sur la base de 4 % du salaire brut perçu entre le 1er janvier et le 31 décembre. Un acompte de 50 % minimum sur la prime de fin d'année devra être versé aux salariés, entre le 15 novembre et le 15 décembre. En cas de licenciement pour raison économique, en cours d'année, d'un salarié ayant plus de 1 an d'ancienneté, la prime sera au prorata.</p><p align='left'>La prime de fin d'année est également due en cas de licenciement pour faute grave, selon les dispositions du <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901446&dateTexte=&categorieLien=cid'>code du travail (art. L. 1331-2)</a> et les jurisprudences constantes rendues (Cour de cass. soc. du 11 février 2009 n° 7-42584).</p>",
+                "id": "KALIARTI000050735928",
+                "content": "<p></p><p align='left'>La prime de fin d'année sera payée en plus du salaire du mois de décembre à tous les salariés ayant au minimum un an d'ancienneté dans l'entreprise au 31 décembre, sur la base de 4,5 % du salaire brut perçu entre le 1er janvier et le 31 décembre. Un acompte de 50 % minimum sur la prime de fin d'année devra être versé aux salariés entre le 15 novembre et le 15 décembre. En cas de licenciement pour raison économique, en cours d'année, d'un salarié ayant plus d'un an d'ancienneté, la prime sera au prorata.</p><p align='left'>La prime de fin d'année est également due en cas de licenciement pour faute grave, selon les dispositions du <a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901446&dateTexte=&categorieLien=cid'>code du travail (art. L. 1331-2)</a> et les jurisprudences constantes rendues (Cour de cass. soc. du 11 février 2009 n° 7-42584).</p><p></p>",
                 "etat": "VIGUEUR_ETEN",
                 "surtitre": "Prime fin d'année",
                 "lstLienModification": [
                   {
-                    "textCid": "JORFTEXT000029270461",
-                    "textTitle": "ARRÊTÉ du 15 juillet 2014 - art. 1, v. init.",
+                    "textCid": "JORFTEXT000050734409",
+                    "textTitle": "Arrêté du 20 novembre 2024 - art. 1, v. init.",
                     "linkType": "ETEND",
                     "linkOrientation": "cible",
                     "articleNum": "1",
-                    "articleId": "JORFARTI000029270466",
+                    "articleId": "JORFARTI000050734413",
                     "natureText": "ARRETE",
-                    "datePubliTexte": "2014-07-22",
-                    "dateSignaTexte": "2014-07-15",
+                    "datePubliTexte": "2024-12-05",
+                    "dateSignaTexte": "2024-11-20",
                     "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000050140698",
+                    "textTitle": "Bouches-du-Rhône Prime de fin d'année - art. 1er (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "1er",
+                    "articleId": "KALIARTI000050140702",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2024-05-02",
+                    "dateDebutCible": "2025-01-01"
                   }
                 ]
               }
@@ -29143,6 +29155,166 @@
                     "natureText": "ARRETE",
                     "datePubliTexte": "2024-10-08",
                     "dateSignaTexte": "2024-09-24",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000050140698",
+            "title": "Bouches-du-Rhône Avenant n° 18 du 2 mai 2024 aux accords conventionnels départementaux du 20 juin 2012 relatif à la prime de fin d'année ",
+            "id": "KALITEXT000050140698",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2025-01-01"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000050140701",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000050140701",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000050140706",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000050140706",
+                    "content": "<p align='left'><br/>Suite à la commission paritaire du 30 avril 2024, les partenaires sociaux ont convenu d'une modification partielle de l'article 5 « Prime de fin d'année » des accords départementaux du 20 juin 2012.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000050734409",
+                        "textTitle": "Arrêté du 20 novembre 2024 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000050734413",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2024-12-05",
+                        "dateSignaTexte": "2024-11-20",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000050140702",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000050140702",
+                "content": "<p align='left'>Le premier paragraphe de l'article, à savoir :<br/>\n« La prime de fin d'année sera payée en plus du salaire du mois de décembre à tous les salariés ayant au minimum un an d'ancienneté dans l'entreprise au 31 décembre, sur la base de 4,00 % du salaire brut perçu entre le 1er janvier et le 31 décembre. En cas de licenciement pour raison économique, en cours d'année, d'un salarié ayant plus d'un an d'ancienneté, la prime sera au prorata. »</p><p align='left'>Est supprimé et remplacé par :<br/>\n« La prime de fin d'année sera payée en plus du salaire du mois de décembre à tous les salariés ayant au minimum un an d'ancienneté dans l'entreprise au 31 décembre, sur la base de 4,5 % du salaire brut perçu entre le 1er janvier et le 31 décembre. Un acompte de 50 % minimum sur la prime de fin d'année devra être versé aux salariés entre le 15 novembre et le 15 décembre. En cas de licenciement pour raison économique, en cours d'année, d'un salarié ayant plus d'un an d'ancienneté, la prime sera au prorata. »</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000050734409",
+                    "textTitle": "Arrêté du 20 novembre 2024 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000050734413",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2024-12-05",
+                    "dateSignaTexte": "2024-11-20",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000026695770",
+                    "textTitle": "Bouches-du-Rhône (Accord relatif à la convention)  - art. 5 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "5",
+                    "articleId": "KALIARTI000050735928",
+                    "natureText": "Accord",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2012-06-20",
+                    "dateDebutCible": "2025-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000050140703",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000050140703",
+                "content": "<p align='left'><br/>Le deuxième paragraphe de l'article 5 des accords départementaux du 20 juin 2012, reste inchangé.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000050734409",
+                    "textTitle": "Arrêté du 20 novembre 2024 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000050734413",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2024-12-05",
+                    "dateSignaTexte": "2024-11-20",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000050140704",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000050140704",
+                "content": "<p align='left'><br/>Cet avenant prendra effet, au premier jour du mois qui suivra son extension et sera applicable pour la prime de fin d'année qui suivra, selon les dispositions de l'article 1er du présent avenant à toutes les entreprises de boulangeries et boulangeries pâtisseries artisanales du département des Bouches-du-Rhône.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000050734409",
+                    "textTitle": "Arrêté du 20 novembre 2024 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000050734413",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2024-12-05",
+                    "dateSignaTexte": "2024-11-20",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000050140705",
+                "num": "4",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000050140705",
+                "content": "<p align='left'><br/>Les parties signataires du présent avenant conviennent de demander l'extension du présent avenant, afin de le rendre applicable dans tous les établissements concernés du département (<a href='/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid'>art. L. 2261-23-1</a>).</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000050734409",
+                    "textTitle": "Arrêté du 20 novembre 2024 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000050734413",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2024-12-05",
+                    "dateSignaTexte": "2024-11-20",
                     "dateDebutCible": "2999-01-01"
                   }
                 ]
