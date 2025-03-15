@@ -12597,7 +12597,7 @@
             "title": "Accord du 29 octobre 2014 instaurant un régime de prévoyance",
             "id": "KALITEXT000030370171",
             "etat": "VIGUEUR_ETEN",
-            "modifDate": "2015-08-01"
+            "modifDate": "2024-12-19"
           },
           "children": [
             {
@@ -12694,21 +12694,33 @@
                 "cid": "KALIARTI000030370178",
                 "num": "3",
                 "intOrdre": 2097148,
-                "id": "KALIARTI000030370178",
-                "content": "<p align=\"left\"> \t\t\t\t\t\tL'accord bénéficie aux salariés (y compris à ceux en cumul emploi-retraite) ne relevant pas de l'article 7 de la convention collective nationale de retraite et de prévoyance des cadres du 14 mars 1947 (c'est-à-dire les salariés visés aux articles 4 et 4 bis de ce texte), ayant une ancienneté d'au moins 3 mois dans l'entreprise.<br/><p> </p>",
+                "id": "KALIARTI000051328426",
+                "content": "<p></p><p align=\"left\">L'accord bénéficie aux salariés (y compris ceux en cumul emploi-retraite), ne relevant pas des articles 2.1 et 2.2 de de l'<a href=\"/affichIDCC.do?cidTexte=KALITEXT000036732007&categorieLien=cid\" title=\"Prévoyance des cadres (VE)\">accord national interprofessionnel du 17 novembre 2017</a> relatif à la prévoyance des cadres, ayant une ancienneté d'au moins trois mois dans l'entreprise.</p><p></p>",
                 "etat": "VIGUEUR_ETEN",
                 "surtitre": "Bénéficiaires",
                 "lstLienModification": [
                   {
-                    "textCid": "JORFTEXT000030637295",
-                    "textTitle": "ARRÊTÉ du 17 avril 2015 - art. 1, v. init.",
+                    "textCid": "KALITEXT000051294865",
+                    "textTitle": "Régime de prévoyance - art. 2 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "cible",
+                    "articleNum": "2",
+                    "articleId": "KALIARTI000051294870",
+                    "natureText": "Avenant",
+                    "datePubliTexte": "2025-03-05",
+                    "dateSignaTexte": "2024-12-19",
+                    "dateDebutCible": "2025-03-15"
+                  },
+                  {
+                    "textCid": "JORFTEXT000051325315",
+                    "textTitle": "Arrêté du 5 mars 2025 - art. 1, v. init.",
                     "linkType": "ETEND",
                     "linkOrientation": "cible",
                     "articleNum": "1",
-                    "articleId": "JORFARTI000030637299",
+                    "articleId": "JORFARTI000051325318",
                     "natureText": "ARRETE",
-                    "datePubliTexte": "2015-05-27",
-                    "dateSignaTexte": "2015-04-17",
+                    "datePubliTexte": "2025-03-14",
+                    "dateSignaTexte": "2025-03-05",
                     "dateDebutCible": "2999-01-01"
                   }
                 ]
@@ -21853,6 +21865,144 @@
                     "natureText": "ARRETE",
                     "datePubliTexte": "2025-02-20",
                     "dateSignaTexte": "2025-02-14",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000051294865",
+            "title": "Avenant n° 1 du 19 décembre 2024 à l'accord du 29 octobre 2014 instaurant un régime de prévoyance",
+            "id": "KALITEXT000051294865",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2025-03-15"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000051294868",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000051294868",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000051294876",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000051294876",
+                    "content": "<p align=\"left\">Depuis la conclusion de l'accord du 29 octobre 2014 instaurant un régime de prévoyance dans la plasturgie, la convention collective nationale de retraite et de prévoyance des cadres du 14 mars 1947, à laquelle cet accord fait référence, a été abrogé. De même, l'ANI prévoyance du 17 novembre 2017 a été étendu et élargi par arrêté du 27 juillet 2018 et les dispositions de l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000025130555&dateTexte=&categorieLien=cid\">article R. 242-1-1 du code de la sécurité sociale</a> ont été modifiées par <a href=\"/affichTexte.do?cidTexte=JORFTEXT000043877119&categorieLien=cid\">décret n° 2021-1002 du 30 juillet 2021</a>.</p><p align=\"left\">Dans ce contexte, les partenaires sociaux de la branche se sont entendus pour actualiser l'accord de 2014 et sont convenus de ce qui suit.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000051325315",
+                        "textTitle": "Arrêté du 5 mars 2025 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000051325318",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2025-03-14",
+                        "dateSignaTexte": "2025-03-05",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000051294869",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000051294869",
+                "content": "<p align=\"left\"><br/>Le présent accord vise toutes les entreprises (identifiées par leur numéro SIREN) entrant dans le champ d'application de la convention collective nationale de la plasturgie définie par l'accord du 1er juillet 1960 modifié par les avenants du 6 janvier 1961 et du 15 juin 1977.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Champ d'application",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000051325315",
+                    "textTitle": "Arrêté du 5 mars 2025 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000051325318",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2025-03-14",
+                    "dateSignaTexte": "2025-03-05",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000051294870",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000051294870",
+                "content": "<p align=\"left\">L'article 3 de l'accord du 29 octobre 2014 instaurant un régime de prévoyance dans la plasturgie est remplacé par : </p><p align=\"center\">« Article 3 <br/>Bénéficiaires </p><p align=\"left\">L'accord bénéficie aux salariés (y compris ceux en cumul emploi-retraite), ne relevant pas des articles 2.1 et 2.2 de de l'<a href=\"/affichIDCC.do?cidTexte=KALITEXT000036732007&categorieLien=cid\" title=\"Prévoyance des cadres (VE)\">accord national interprofessionnel du 17 novembre 2017</a> relatif à la prévoyance des cadres, ayant une ancienneté d'au moins trois mois dans l'entreprise. »</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Modification de l'article 3 de l'accord du 29 octobre 2014 instaurant un régime de prévoyance dans la plasturgie",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000051325315",
+                    "textTitle": "Arrêté du 5 mars 2025 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000051325318",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2025-03-14",
+                    "dateSignaTexte": "2025-03-05",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000030370171",
+                    "textTitle": "Régime de prévoyance - art. 3 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "3",
+                    "articleId": "KALIARTI000051328426",
+                    "natureText": "Accord",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2014-10-29",
+                    "dateDebutCible": "2025-03-15"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000051294871",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000051294871",
+                "content": "<p align=\"left\">Le présent avenant est conclu pour une durée indéterminée.</p><p align=\"left\">Les parties signataires conviennent que les dispositions du présent avenant ne justifient pas de prévoir des dispositions spécifiques pour les entreprises de moins de 50 salariés.</p><p align=\"left\">Le présent accord permet aux entreprises de la branche appliquant l'accord du 29 octobre 2014 de pérenniser la mise en œuvre des dispositions dudit accord et maintenir l'attractivité de la branche en matière de protection sociale complémentaire à l'égard des collaborateurs concernés.</p><p align=\"left\">Le présent avenant pourra être révisé ou dénoncé dans les conditions prévues par le code du travail.</p><p align=\"left\">Le présent avenant a été signé en autant d'exemplaires originaux que de parties, plus deux exemplaires pour les formalités de dépôt. Dès lors qu'il n'aura pas fait l'objet d'une opposition régulièrement exercée, le présent accord fera l'objet par la partie la plus diligente :<br/>\n– d'un dépôt dans les conditions prévues par les <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid\">articles L. 2231-6</a> et <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid\">D. 2231-2 du code du travail</a>,<br/>\n– d'une demande d'extension dans les conditions fixées aux <a href=\"/affichCode.do?cidTexte=LEGITEXT000006072050&idSectionTA=LEGISCTA000006195694&dateTexte=&categorieLien=cid\">articles L. 2261-24 et suivants du code du travail</a>.</p><p align=\"left\">Il entrera en vigueur au lendemain de la publication de l'arrêté d'extension au Journal officiel.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Durée et entrée en vigueur de l'accord",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000051325315",
+                    "textTitle": "Arrêté du 5 mars 2025 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000051325318",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2025-03-14",
+                    "dateSignaTexte": "2025-03-05",
                     "dateDebutCible": "2999-01-01"
                   }
                 ]
