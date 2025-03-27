@@ -26967,7 +26967,7 @@
             "title": "Accord du 8 décembre 2021 relatif à la formation professionnelle et à l'apprentissage",
             "id": "KALITEXT000045396641",
             "etat": "VIGUEUR_ETEN",
-            "modifDate": "2024-01-04"
+            "modifDate": "2024-12-17"
           },
           "children": [
             {
@@ -27527,118 +27527,106 @@
                       }
                     ]
                   }
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000045396702",
+                "intOrdre": 1075314684,
+                "title": "Dispositions conclusives",
+                "id": "KALISCTA000045396702",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000045396703",
+                    "num": "11",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000045396703",
+                    "content": "<p align=\"left\">Le présent accord a valeur d'avenant à tous les accords précédents portant sur les mêmes matières.</p><p align=\"left\">Les dispositions du présent accord abrogent celles du chapitre VII de l'accord du 15 février 1996.</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "surtitre": "Portée de l'accord",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000045551626",
+                        "textTitle": "Arrêté du 1er avril 2022 - art. 1, v. init.",
+                        "linkType": "EXTENSION",
+                        "linkOrientation": "source",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000045551630",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2022-04-13",
+                        "dateSignaTexte": "2022-04-01",
+                        "dateDebutCible": "2999-01-01"
+                      },
+                      {
+                        "textCid": "JORFTEXT000045669384",
+                        "textTitle": "Arrêté du 19 avril 2022, v. init.",
+                        "linkType": "EXTENSION",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "JORFTEXT000045669384",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2022-04-27",
+                        "dateSignaTexte": "2022-04-19",
+                        "dateDebutCible": "2999-01-01"
+                      },
+                      {
+                        "textCid": "KALITEXT000005678049",
+                        "textTitle": "Création d'une commission nationale paritaire d... -  Chapitre VII : Indemnisation (VE)",
+                        "linkType": "ABROGE",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "KALISCTA000005722509",
+                        "natureText": "ACCORD",
+                        "datePubliTexte": "2999-01-01",
+                        "dateSignaTexte": "1996-02-15",
+                        "dateDebutCible": null
+                      },
+                      {
+                        "textCid": "KALITEXT000005678049",
+                        "textTitle": "Création d'une commission nationale paritaire d... - art. (VE)",
+                        "linkType": "ABROGE",
+                        "linkOrientation": "source",
+                        "articleNum": "",
+                        "articleId": "KALIARTI000005847034",
+                        "natureText": "ACCORD",
+                        "datePubliTexte": "2999-01-01",
+                        "dateSignaTexte": "1996-02-15",
+                        "dateDebutCible": "1996-02-15"
+                      }
+                    ]
+                  }
                 },
                 {
-                  "type": "section",
+                  "type": "article",
                   "data": {
-                    "cid": "KALISCTA000045396702",
+                    "cid": "KALIARTI000045396705",
+                    "num": "12",
                     "intOrdre": 1048574,
-                    "title": "Dispositions conclusives",
-                    "id": "KALISCTA000045396702",
-                    "etat": "VIGUEUR_ETEN"
-                  },
-                  "children": [
-                    {
-                      "type": "article",
-                      "data": {
-                        "cid": "KALIARTI000045396703",
-                        "num": "11",
-                        "intOrdre": 524287,
-                        "id": "KALIARTI000045396703",
-                        "content": "<p align=\"left\">Le présent accord a valeur d'avenant à tous les accords précédents portant sur les mêmes matières.</p><p align=\"left\">Les dispositions du présent accord abrogent celles du chapitre VII de l'accord du 15 février 1996.</p>",
-                        "etat": "VIGUEUR_ETEN",
-                        "surtitre": "Portée de l'accord",
-                        "lstLienModification": [
-                          {
-                            "textCid": "JORFTEXT000045551626",
-                            "textTitle": "Arrêté du 1er avril 2022 - art. 1, v. init.",
-                            "linkType": "EXTENSION",
-                            "linkOrientation": "source",
-                            "articleNum": "1",
-                            "articleId": "JORFARTI000045551630",
-                            "natureText": "ARRETE",
-                            "datePubliTexte": "2022-04-13",
-                            "dateSignaTexte": "2022-04-01",
-                            "dateDebutCible": "2999-01-01"
-                          },
-                          {
-                            "textCid": "JORFTEXT000045669384",
-                            "textTitle": "Arrêté du 19 avril 2022, v. init.",
-                            "linkType": "EXTENSION",
-                            "linkOrientation": "source",
-                            "articleNum": "",
-                            "articleId": "JORFTEXT000045669384",
-                            "natureText": "ARRETE",
-                            "datePubliTexte": "2022-04-27",
-                            "dateSignaTexte": "2022-04-19",
-                            "dateDebutCible": "2999-01-01"
-                          },
-                          {
-                            "textCid": "KALITEXT000005678049",
-                            "textTitle": "Création d'une commission nationale paritaire d... -  Chapitre VII : Indemnisation (VE)",
-                            "linkType": "ABROGE",
-                            "linkOrientation": "source",
-                            "articleNum": "",
-                            "articleId": "KALISCTA000005722509",
-                            "natureText": "ACCORD",
-                            "datePubliTexte": "2999-01-01",
-                            "dateSignaTexte": "1996-02-15",
-                            "dateDebutCible": null
-                          },
-                          {
-                            "textCid": "KALITEXT000005678049",
-                            "textTitle": "Création d'une commission nationale paritaire d... - art. (VE)",
-                            "linkType": "ABROGE",
-                            "linkOrientation": "source",
-                            "articleNum": "",
-                            "articleId": "KALIARTI000005847034",
-                            "natureText": "ACCORD",
-                            "datePubliTexte": "2999-01-01",
-                            "dateSignaTexte": "1996-02-15",
-                            "dateDebutCible": "1996-02-15"
-                          }
-                        ]
+                    "id": "KALIARTI000051380107",
+                    "content": "<p></p><p align=\"left\">L'accord est reconduit pour une durée déterminée dont l'échéance est fixée, pour toutes les entreprises, au 31 décembre 2025, date à laquelle il cessera totalement de produire effet.</p><p></p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "surtitre": "Durée",
+                    "lstLienModification": [
+                      {
+                        "textCid": "KALITEXT000051379506",
+                        "textTitle": "Formation professionnelle - art. 3 (VNE)",
+                        "linkType": "MODIFIE",
+                        "linkOrientation": "cible",
+                        "articleNum": "3",
+                        "articleId": "KALIARTI000051379513",
+                        "natureText": "Avenant",
+                        "datePubliTexte": "2999-01-01",
+                        "dateSignaTexte": "2024-12-17",
+                        "dateDebutCible": "2024-12-17"
                       }
-                    },
-                    {
-                      "type": "article",
-                      "data": {
-                        "cid": "KALIARTI000045396705",
-                        "num": "12",
-                        "intOrdre": 1048574,
-                        "id": "KALIARTI000049637711",
-                        "content": "<p></p><p align=\"left\">L'accord est reconduit pour une durée déterminée dont l'échéance est fixée, pour toutes les entreprises, au 31 décembre 2024, date à laquelle il cessera totalement de produire effet.</p><p></p>",
-                        "etat": "VIGUEUR_ETEN",
-                        "surtitre": "Durée",
-                        "lstLienModification": [
-                          {
-                            "textCid": "JORFTEXT000049630454",
-                            "textTitle": "Arrêté du 17 mai 2024 - art. 1, v. init.",
-                            "linkType": "ETEND",
-                            "linkOrientation": "cible",
-                            "articleNum": "1",
-                            "articleId": "JORFARTI000049630458",
-                            "natureText": "ARRETE",
-                            "datePubliTexte": "2024-06-01",
-                            "dateSignaTexte": "2024-05-17",
-                            "dateDebutCible": "2999-01-01"
-                          },
-                          {
-                            "textCid": "KALITEXT000049150553",
-                            "textTitle": "Reconduction accords de formation professionnelle - art. 4 (VNE)",
-                            "linkType": "MODIFIE",
-                            "linkOrientation": "cible",
-                            "articleNum": "4",
-                            "articleId": "KALIARTI000049150561",
-                            "natureText": "Avenant",
-                            "datePubliTexte": "2999-01-01",
-                            "dateSignaTexte": "2023-11-22",
-                            "dateDebutCible": "2024-01-04"
-                          }
-                        ]
-                      }
-                    }
-                  ]
+                    ]
+                  }
                 }
               ]
             }
@@ -32479,6 +32467,306 @@
                 "id": "KALIARTI000049258839",
                 "content": "<p>Paris, le 4 décembre 2023. </p><p>CFDT santé sociaux, à la direction générale du travail, 39-43, quai André-Citroën, 75902 Paris Cedex 15. </p><p>Mesdames, Messieurs, </p><p>L'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901781&dateTexte=&categorieLien=cid\" title=\"Code du travail - art. L2261-3\">article L. 2261-3 du code du travail </a>permet l'adhésion unilatérale à une convention ou un accord collectif. </p><p>Peuvent adhérer à une convention ou à un accord collectif de travail toute organisation syndicale représentative de salariés ainsi que toute organisation syndicale ou association d'employeurs ou des employeurs pris individuellement. Code du travail, article L. 2261-3, alinéa 1er. </p><p>Aussi nous vous saurions gré de bien vouloir recevoir notre adhésion pleine et entière à l'<a href=\"/affichIDCC.do?cidTexte=KALITEXT000043941489&categorieLien=cid\" title=\"Intégration et adaptation progressives des dispositions applicables aux salariés (VNE)\">accord</a> portant sur l'intégration et l'adaptation progressives des dispositions applicables aux salariés des entreprises relevant du champ du thermalisme du 29 janvier 2021 pour la branche de l'hospitalisation privée – IDCC 2264. </p><p>En cas d'adhésion d'une organisation représentative à la totalité des clauses de l'accord constitutif, celle-ci a, en application de l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901782&dateTexte=&categorieLien=cid\" title=\"Code du travail - art. L2261-4\">article L. 2261-4 du code du travail</a>, les mêmes droits et obligations que les parties signataires, notamment en ce qui concerne la possibilité de siéger dans les organismes paritaires et de participer à la gestion des institutions crées par l'accord constitutif. </p><p>Nous vous prions de bien vouloir agréer, Mesdames, Messieurs, l'expression de nos salutations distinguées. </p><p>Secrétaire national Dialogue social</p>",
                 "etat": "VIGUEUR",
+                "lstLienModification": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000051367453",
+            "title": "Avenant n° 11 du 19 novembre 2024 à l'accord du 26 février 2001 relatif au financement du paritarisme dans l'hospitalisation privée, le secteur social et médico-social à caractère commercial",
+            "id": "KALITEXT000051367453",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2024-11-20"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000051367455",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000051367455",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000051367461",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000051367461",
+                    "content": "<p align=\"left\"><br/>Le présent avenant a pour objet d'affecter les fonds recueillis par le FONGESMES, l'association de gestion du paritarisme du secteur sanitaire, social et médico-social à caractère commercial, dédiés au fonctionnement de la CPNE-FP et de la CPPNI et non utilisés à ce titre, conformément à l'article I de l'avenant n° 5 à l'accord de branche sur le financement du paritarisme.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": []
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000051367456",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000051367456",
+                "content": "<p align=\"left\">Le bilan, transmis aux membres de la CPPNI, et constaté par le conseil d'administration paritaire de l'association de gestion du paritarisme, le FONGESMES, fait état d'une sous-utilisation des fonds dédiés au fonctionnement de la CPNE-FP et de la CPPNI d'un montant de 120 689,29 €.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Solde des cotisations",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000051367457",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000051367457",
+                "content": "<p align=\"left\">Dans le cadre de l'article 1er de l'avenant n° 5 à l'accord de branche sur le financement du paritarisme, les membres de la CPPNI décident que la moitié du solde des cotisations non utilisées visé par l'article 1er du présent avenant, soit 60 344,65 € au titre de l'année 2023, est réparti de la manière suivante :<br/>\n– 38 620,57 € répartis de manière égalitaire entre les organisations syndicales représentatives, soit 9 655,14 € par OS et ;<br/>\n– 21 726,24 € répartis proportionnellement à la représentativité de chaque organisation syndicale de salariés représentative, conformément à l'arrêté du 6 octobre 2021 en vigueur lors de l'exercice 2023.</p><p align=\"left\">La moitié restante du solde des cotisations non utilisées visé par l'article 1er du présent avenant, soit 60 344,65 € sera affectée aux réserves du Fongesmes, et placée en report à nouveau.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Affectation des fonds non utilisés",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000051367458",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000051367458",
+                "content": "<p align=\"left\"><br/>Le présent avenant s'applique sans disposition particulière aux entreprises de moins de cinquante salariés.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Entreprises de moins de 50 salariés",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000051367459",
+                "num": "4",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000051367459",
+                "content": "<p align=\"left\"><br/>Le présent avenant prendra effet le lendemain de sa signature. Il est conclu pour une durée déterminée venant à échéance lors de l'affectation des sommes aux organisations syndicales, telle que prévue à l'article 2.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Entrée en vigueur. Durée",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000051367460",
+                "num": "5",
+                "intOrdre": 3145722,
+                "id": "KALIARTI000051367460",
+                "content": "<p align=\"left\">L'extension du présent avenant sera demandée par la partie la plus diligente.</p><p align=\"left\">Le présent avenant sera déposé en 2 exemplaires, auprès de la DGT, une version signée du présent avenant sur support papier et une version sur support électronique. Un exemplaire sera adressé au greffe du conseil de prud'hommes de Paris.</p><p align=\"left\">Le présent avenant est fait en nombre suffisant pour remise à chacun des signataires, plus les exemplaires destinés au dépôt légal.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Extension. Dépôt",
+                "lstLienModification": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000051379477",
+            "title": "Accord du 17 décembre 2024 relatif à la reconnaissance de catégories objectives de salariés pour le bénéfice de garanties de protection sociale complémentaire",
+            "id": "KALITEXT000051379477",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2025-01-01"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000051379480",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000051379480",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000051379497",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000051379497",
+                    "content": "<p align=\"left\">À titre liminaire, et pour mémoire, la convention collective unique de l'hospitalisation privée du 18 avril 2002 regroupe plusieurs activités (activités d'hospitalisation, d'accueil de personnes âgées dépendantes et de cures thermales). </p><p align=\"left\">En résulte à ce jour, trois grilles de classifications prévues par les dispositions suivantes : <br/>– pour les entreprises relevant de l'hospitalisation privée : articles 90 à 92 et 94 de la convention collective du 18 avril 2002 ; <br/>– pour les entreprises relevant du secteur médico-social (établissements accueillant des personnes âgées dépendantes) : articles 90 bis à 92 bis et 94 bis de l'annexe du 10 décembre 2002 ; <br/>– pour les entreprises relevant du thermalisme : l'<a href=\"/affichIDCC.do?cidTexte=KALITEXT000034764125&categorieLien=cid\" title=\"Grille de classification des emplois (VE)\">avenant n° 27 du 14 décembre 2016</a> relatif à la grille de classification des emplois de la convention collective du thermalisme du 10 septembre 1999. </p><p align=\"left\">Il convient, à cet égard, de préciser que les grilles de classification des entreprises relevant de l'hospitalisation privée et celles relevant du secteur médico-social (établissements accueillant des personnes âgées dépendantes) sont construites de la même manière (filières, positions, niveaux, et groupes), les seules différences résultant des emplois-repères fixés au regard des différences d'activité des secteurs. La classification conventionnelle des emplois en vigueur dans les établissements thermaux est définie par l'avenant n° 27 du 14 décembre 2016. </p><p align=\"left\">C'est au regard de ces classifications que des catégories objectives de salariés au sein des entreprises de la branche ont pu, par le passé, être définies. </p><p align=\"left\">Conformément au <a href=\"/affichTexte.do?cidTexte=JORFTEXT000043877119&categorieLien=cid\" title=\"Décret n°2021-1002 du 30 juillet 2021\">décret n° 2021-1002 du 30 juillet 2021 </a>entré en vigueur le 1er janvier 2022, et eu égard à la nécessité de sécuriser le recours aux catégories objectives, les partenaires sociaux de la branche de l'hospitalisation privée (IDCC 2264) se sont réunis afin de définir les salariés cadres et les salariés non-cadres pouvant être intégrés à la catégorie des cadres pour le bénéfice des garanties collectives mentionnées à l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745462&dateTexte=&categorieLien=cid\" title=\"Code de la sécurité sociale. - art. L911-1\">article L. 911-1 du code de la sécurité sociale</a>. </p><p align=\"left\">Pour rappel, le financement patronal des régimes de protection sociale complémentaire peut être exonéré de cotisations de sécurité sociale, à la condition notamment que ces derniers présentent un caractère collectif, c'est-à-dire qu'ils couvrent l'ensemble des salariés de l'entreprise ou bien une ou plusieurs catégories de salariés définies selon les critères listés par l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000025130555&dateTexte=&categorieLien=cid\" title=\"Code de la sécurité sociale. - art. R242-1-1\">article R. 242-1-1 du code de la sécurité sociale</a>. Parmi ces critères, figure l'appartenance aux catégories des cadres et des non-cadres. </p><p align=\"left\">Jusqu'à l'entrée en vigueur du décret n° 2021-1002 du 30 juillet 2021, l'appartenance aux catégories des cadres et des non-cadres devait être déterminée par référence à la convention collective nationale de retraite et de prévoyance des cadres du 14 mars 1947 (dite « CCN de 1947 ») et notamment à ses articles 4,4 bis et 36 de l'annexe I (critère 1 de l'article R. 242-1-1 du code de la sécurité sociale). </p><p align=\"left\">Dans ce contexte, jusqu'au 31 décembre 2021, les catégories de salariés non cadres définies par l'Agirc (ancien article 36 de la CCN de 1947) pouvaient être intégrées à celle des cadres (anciens articles 4 et 4 bis de la CCN de 1947) pour le bénéfice de garanties de protection sociale complémentaire dont les contributions patronales les finançant pouvaient être exclues de l'assiette de cotisations de sécurité sociale. </p><p align=\"left\">Depuis le 1er janvier 2022, ces catégories doivent être déterminées en référence aux articles 2.1 et 2.2 de l'accord national interprofessionnel (ANI) du 17 novembre 2017 relatif à la prévoyance des cadres, étant précisé que ces articles 2.1 et 2.2 ont repris à l'identique les dispositions des articles 4 et 4 bis de la CCN du 14 mars 1947. Néanmoins, l'article 36 de l'annexe I de la CCN du 14 mars 1947 n'a pas été repris par les dispositions réglementaires pour la constitution d'une catégorie objective et sa référence est donc devenue obsolète. </p><p align=\"left\">Cependant, l'article R. 242-1-1 du code de la sécurité sociale a maintenu la possibilité d'intégrer des salariés non cadres définis par accord collectif de branche au sein de la catégorie objective des cadres. Il dispose ainsi : <br/>« Peuvent être intégrés à la catégorie des cadres pour le bénéfice des garanties collectives mentionnées à l'article L. 911-1 certains salariés définis par accord interprofessionnel ou professionnel ou convention de branche mentionnés au <a href=\"/affichCode.do?cidTexte=LEGITEXT000006072050&idSectionTA=LEGISCTA000006145398&dateTexte=&categorieLien=cid\" title=\"Code du travail -  Livre II : La négociation collective - Les conv...\">livre II de la deuxième partie du code du travail</a>, sous réserve que l'accord ou la convention soit agréé par la commission paritaire mentionnée à l'article 3 de l'accord national interprofessionnel précité dans les conditions prévues par ce même article. » </p><p align=\"left\">Une période transitoire a été prévue jusqu'au 31 décembre 2024 pour les entreprises qui bénéficiaient au 1er janvier 2022 d'exonérations de cotisations sociales en application des dispositions antérieures (référence aux articles 4,4 bis, et 36) sous réserve qu'aucune modification relative au champ des bénéficiaires des garanties n'intervienne avant cette même date (art. 2 du décret n° 2021-1002 du 30 juillet 2021 relatif aux critères objectifs de définition des catégories de salariés bénéficiaires d'une couverture de protection sociale complémentaire collective). </p><p align=\"left\">C'est dans ce contexte, compte tenu de ces évolutions réglementaires et de la fin proche de la période transitoire que les partenaires sociaux de la branche se sont réunis afin : </p><p align=\"left\">D'une part, de définir : <br/>– les catégories des salariés relevant désormais de l'article 2.1 de l'ANI du 17 novembre 2017 relatif à la prévoyance des cadres ; <br/>– les catégories des salariés non-cadres pouvant bénéficier des garanties collectives et des dispositions conventionnelles de protection sociale complémentaire institués au profit des salariés cadres par les entreprises relevant de son champ d'application (IDCC 2264). </p><p align=\"left\">Il a, à ce titre, été décidé de reprendre les catégories antérieurement agréées par la commission paritaire de l'Agirc lorsqu'elle avait examiné la classification (pour les entreprises relevant de l'hospitalisation privée et du secteur médico-social – établissements accueillant des personnes âgées dépendantes). </p><p align=\"left\">D'autre part, sur la base de ces définitions, de saisir la commission paritaire rattachée à l'Association pour l'emploi des cadres (APEC) qui : <br/>– détermine le niveau des classifications et des emplois à partir desquels il y a lieu à application de l'article 4 de la CCN du 14 mars 1947 de l'Agirc relative à la retraite et prévoyance des cadres, repris dans l'article 2.1 de l'ANI du 17 novembre 2017, afin d'identifier les bénéficiaires des garanties et des dispositions conventionnelles relatives à la protection sociale complémentaire des cadres et assimilés ; <br/>– valide pour le bénéfice de garanties de protection sociale complémentaire, l'assimilation à des cadres de certaines catégories de salariés non-cadres, définies par accord interprofessionnel ou professionnel ou convention de branche, ne correspondant pas aux définitions des articles 2.1 et 2.2 de l'ANI du 17 novembre 2017 relatif à la prévoyance des cadres, et permettant ainsi aux contributions des employeurs les finançant d'être exclues de l'assiette de cotisations de sécurité sociale.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": []
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000051379481",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000051379481",
+                "content": "<p align=\"left\"><br/>Le présent accord est applicable aux entreprises entrant dans le champ d'application de la convention collective nationale de l'hospitalisation privée du 18 avril 2002 (IDCC 2264) tel que modifié par l'accord du 14 mars 2019.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Champ d'application",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000051379482",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000051379482",
+                "content": "<p align=\"left\">À titre liminaire, il est rappelé que :</p><p align=\"left\">Pour l'application des dispositions conventionnelles de l'article 2.1 de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres (ancien art. 4 de la CCN de 1947), et sous réserve de l'agrément APEC, sont visés :<br/>\n– pour les entreprises relevant de l'hospitalisation privée et les établissements privés accueillant des personnes âgées dépendantes (médico-social – EHPAD) : les salariés cadres relevant des positions hiérarchiques III et les emplois désignés (pharmacien, médecin généraliste, médecin spécialiste, médecin coordonnateur, médecin responsable de service) ;<br/>\n– pour les entreprises relevant du thermalisme : les salariés classés cadres niveau I à III.</p><p align=\"left\">Par ailleurs, conformément à l'alinéa 2 de l'article R. 242-1-1, 1° du code de la sécurité sociale et sous réserve de la décision d'agrément de la commission paritaire rattachée à l'APEC, les entreprises de la branche ont la faculté d'inclure dans la catégorie objective des cadres pour le bénéfice des garanties collectives et dispositions conventionnelles de protection sociale complémentaire :<br/>\n– pour les entreprises relevant de l'hospitalisation privée et les établissements privés accueillant des personnes âgées (médico-social – EHPAD) : tout ou partie des salariés agents de maîtrise, techniciens et employés relevant des positions hiérarchiques conventionnelles comprises entre la position I – niveau 2 – groupe B et la position II – niveau 3 – groupe B ;<br/>\n– pour les entreprises relevant du thermalisme : les salariés classés en tant qu'agent de maîtrise – niveau III.</p><p align=\"left\">Si les entreprises souhaitent mettre en œuvre ces facultés d'assimiler au personnel cadre, des salariés non-cadres, telles que prévues par la branche hospitalisation privée (IDCC 2264), elles devront les formaliser au sein de l'acte de droit du travail instituant leur régime de protection sociale complémentaire au sens de l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006745462&dateTexte=&categorieLien=cid\" title=\"Code de la sécurité sociale. - art. L911-1\">article L. 911-1 du code de la sécurité sociale</a> (c'est-à-dire par voie d'accord collectif ou référendaire ou de décision unilatérale de l'employeur).</p><p align=\"left\">Les précisions du présent article ne font pas obstacle au recours, par les entreprises de la branche hospitalisation privée (IDCC 2264), aux autres critères énumérés à l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000025130555&dateTexte=&categorieLien=cid\" title=\"Code de la sécurité sociale. - art. R242-1-1\">article R. 242-1-1 du code de la sécurité sociale</a> pour définir les catégories de bénéficiaires de leurs régimes de protection sociale complémentaire, sous réserve, là encore, de respecter le formalisme y étant attaché.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Définition des catégories objectives pour le bénéfice des garanties collectives de protection sociale complémentaire",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000051379486",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000051379486",
+                "content": "<p align=\"left\">Le présent accord est conclu pour une durée indéterminée.</p><p align=\"left\">À l'issue du délai prévu par l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901688&dateTexte=&categorieLien=cid\" title=\"Code du travail - art. L2232-6\">article L. 2232-6 du code du travail</a> pour l'exercice du droit d'opposition des organisations syndicales de salariés représentatives au niveau de la branche non-signataires du présent accord, ce dernier entrera en vigueur :<br/>\n– à compter de son agrément par la commission paritaire rattachée à l'APEC, pour les employeurs membres ou adhérents des organisations signataires, et au plus tard au 1er janvier 2025 ;<br/>\n– le jour suivant la publication de l'arrêté portant extension de ses dispositions au Journal officiel, pour les autres entreprises.</p><p align=\"left\">Cet accord pourra faire l'objet d'une révision de tout ou partie de son contenu dans les formes et délais prévus par les stipulations conventionnelles en vigueur et dans le respect des dispositions des <a href=\"/affichCode.do?cidTexte=LEGITEXT000006072050&idSectionTA=LEGISCTA000006189533&dateTexte=&categorieLien=cid\" title=\"Code du travail -  Section 4 : Révision.\">articles L. 2261-7 et suivants du code du travail</a>.</p><p align=\"left\">Par ailleurs, conformément aux <a href=\"/affichCode.do?cidTexte=LEGITEXT000006072050&idSectionTA=LEGISCTA000006195688&dateTexte=&categorieLien=cid\" title=\"Code du travail -  Sous-section 1 : Procédure.\">articles L. 2261-9 et suivants du code du travail</a>, toute organisation habilitée à dénoncer cet accord en application des <a href=\"/affichCode.do?cidTexte=LEGITEXT000006072050&idSectionTA=LEGISCTA000006195688&dateTexte=&categorieLien=cid\" title=\"Code du travail -  Sous-section 1 : Procédure.\">articles L. 2261-9 et suivants du code du travail</a> peut le dénoncer à tout moment à charge pour les parties de respecter un préavis dont la durée est conventionnellement fixée à trois mois. La dénonciation ne peut que concerner la totalité de l'accord et de ses avenants ultérieurs.</p><p align=\"left\">À cet égard, toute organisation habilitée peut le dénoncer à tout moment par lettre recommandée adressée aux autres organisations signataires.</p><p align=\"left\">Les dispositions du présent avenant sont applicables de façon indifférenciée aux entreprises relevant de la branche et concernent donc de façon identique les entreprises de moins de 50 salariés et de 50 salariés et plus.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Durée, entrée en vigueur et effets",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000051379491",
+                "num": "4",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000051379491",
+                "content": "<p align=\"left\">Conformément à l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901674&dateTexte=&categorieLien=cid\" title=\"Code du travail - art. L2231-5\">article L. 2231-5 du code du travail</a>, la partie la plus diligente des organisations signataires notifiera, après signature, par courrier recommandé avec accusé de réception ou par remise en main propre contre décharge, le présent accord à l'ensemble des organisations syndicales représentatives.</p><p align=\"left\">Conformément aux <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid\" title=\"Code du travail - art. L2231-6\">articles L. 2231-6</a>, <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485207&dateTexte=&categorieLien=cid\" title=\"Code du travail - art. D2231-2\">D. 2231-2</a> et <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018485209&dateTexte=&categorieLien=cid\" title=\"Code du travail - art. D2231-3\">D. 2231-3 du code du travail</a>, le présent accord collectif est notifié et déposé en deux exemplaires, auprès des services centraux du ministre chargé du travail, dont une version sur support papier ainsi qu'une version sur support électronique, et remis au greffe du conseil de prud'hommes de Paris.</p><p align=\"left\">Les parties signataires conviennent d'en demander l'extension auprès du ministre chargé du travail et de l'emploi.</p><p align=\"left\">En application de l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033008925&dateTexte=&categorieLien=cid\" title=\"Code du travail - art. L2231-5-1\">article L. 2231-5-1 du code du travail</a>, le présent accord fera l'objet d'une publication sur la base de données nationale en ligne des accords collectifs.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Dépôt, extension et publicité",
+                "lstLienModification": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000051379506",
+            "title": "Avenant du 17 décembre 2024 à l'accord du 8 décembre 2021 relatif à la formation professionnelle",
+            "id": "KALITEXT000051379506",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "2024-12-17"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000051379509",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000051379509",
+                "etat": "VIGUEUR_NON_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000051379518",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000051379518",
+                    "content": "<p align=\"left\"><br/>Dans l'attente de nouvelles dispositions législatives et réglementaires à venir sur la formation professionnelle, les parties au présent accord ayant constaté que l'échéance de l'accord du 8 décembre 2021, relatif à la formation professionnelle et à l'apprentissage et de son <a href=\"/affichIDCC.do?cidTexte=KALITEXT000045847778&categorieLien=cid\" title=\"Formation professionnelle et apprentissage (VE)\">avenant du 28 février 2022</a>, étaient proches, elles ont en conséquence souhaité reconduire à nouveau les dispositions contenues dans ledit accord et ses avenants.</p>",
+                    "etat": "VIGUEUR_NON_ETEN",
+                    "lstLienModification": []
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000051379510",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000051379510",
+                "content": "<p align=\"left\">Les dispositions de l'accord du 8 décembre 2021 et de son avenant du 28 février 2022 sont reconduites pour la durée déterminée telle que définie à l'article 4 « Durée ».</p><p align=\"left\">Dès lors, le dernier versement de la contribution conventionnelle prévue à l'article 10.3 dudit accord, au titre de l'année 2025, sera effectuée sous forme d'acompte le 28 février 2025 sur la base de la masse salariale 2024. Le solde de versement au titre de cette contribution 2024 sera effectué le 28 février 2026 sur la base de la masse salariale 2025.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Dispositions relatives au dispositif de formation professionnelle et d'apprentissage",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000051379511",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000051379511",
+                "content": "<p align=\"left\"><br/>Pour l'application de l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid\" title=\"Code du travail - art. L2261-23-1\">article L. 2261-23-1 du code du travail</a>, les signataires du présent accord conviennent que le contenu du présent accord ne justifie pas de prévoir des stipulations spécifiques aux entreprises de moins de 50 salariés.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Dispositions spécifiques aux entreprises de moins de 50 salariés",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000051379513",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000051379513",
+                "content": "<p align=\"left\">L'accord du 8 décembre 2021 et son avenant du 28 février 2022 venant à échéance au 31 décembre 2024, sont reconduits pour une durée déterminée :<br/>\n– prenant effet dès la date de signature du présent avenant pour les entreprises adhérentes des organisations patronales signataires et à compter du 1er jour suivant la publication au Journal officiel de son arrêté d'extension pour les autres entreprises ;<br/>\n– dont l'échéance est fixée, pour toutes les entreprises, au 31 décembre 2025, date à laquelle ils cesseront totalement de produire effet.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Durée. Date d'effet",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000045396641",
+                    "textTitle": "Formation professionnelle et apprentissage - art. 12 (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "12",
+                    "articleId": "KALIARTI000051380107",
+                    "natureText": "Accord",
+                    "datePubliTexte": "2999-01-01",
+                    "dateSignaTexte": "2021-12-08",
+                    "dateDebutCible": "2024-12-17"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000051379514",
+                "num": "4",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000051379514",
+                "content": "<p align=\"left\"><br/>Les dispositions contenues dans le présent avenant pourront être révisées à tout moment conformément aux dispositions législatives.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Révision",
+                "lstLienModification": []
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000051379515",
+                "num": "5",
+                "intOrdre": 3145722,
+                "id": "KALIARTI000051379515",
+                "content": "<p align=\"left\"><br/>Le présent avenant est fait en un nombre suffisant d'exemplaires pour notification à chacune des organisations syndicales représentatives de salariés, dans les conditions prévues à l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901674&dateTexte=&categorieLien=cid\" title=\"Code du travail - art. L2231-5\">article L. 2231-5 du code du travail</a>, et déposé auprès des services centraux du ministre chargé du travail et du greffe du conseil de prud'hommes de Paris, dans les conditions prévues par l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid\" title=\"Code du travail - art. L2231-6\">article L. 2231-6 du même code</a>.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "surtitre": "Formalités de publicité et de dépôt",
                 "lstLienModification": []
               }
             }
