@@ -1199,7 +1199,7 @@
             "intOrdre": 1374368,
             "title": "Bénéficiaires au régime de prévoyance cadre et assimilés",
             "id": "KALISCTA000050432105",
-            "etat": "VIGUEUR_NON_ETEN"
+            "etat": "VIGUEUR_ETEN"
           },
           "children": [
             {
@@ -1210,7 +1210,7 @@
                 "intOrdre": 1073741823,
                 "id": "KALIARTI000050432103",
                 "content": "<p>Sur la base du critère 1° de l'article R. 242-1-1 du code de la sécurité sociale, lequel prévoit la possibilité d'intégrer des salariés à la catégorie des cadres pour le bénéfice des garanties collectives de protection sociale complémentaire prévoyance (art. L. 911-1) par accord de branche et sous réserve que celui-ci reçoive un agrément par la commission paritaire APEC mentionnée à l'article 3 de l'accord national interprofessionnel du 17 novembre 2017, sont intégrés à la catégories des cadres et assimilés, pour le bénéfice des avantages en matière de prévoyance des cadres et assimilés, tel que défini par l'article premier de l'ANI du 17 novembre 2017 :<br/>\n– salariés relevant de l'article 2.1 de l'ANI de 2017 : l'ensemble des salariés ayant le statut cadre et étant positionnés au niveau IX de la classification issue de l'avenant n° 47 (art. 4) de la convention collective pour le personnel des entreprises de restauration de collectivités ;<br/>\n– salariés relevant de l'article 2.2 de l'ANI de 2017 : l'ensemble des salariés ayant le statut agent de maîtrise et étant positionnés au niveau VIII de la classification issue de l'avenant n° 47 (art. 4) de la convention collective pour le personnel des entreprises de restauration de collectivités.</p><p>L'ensemble des salariés positionnés au niveau VII pourront relever de l'article 2.2 de l'ANI de 2017. L'assimilation de ces salariés aux cadres visés à l'article 2.1 de l'ANI de 2017 n'étant ni automatique ni obligatoire, les entreprises qui y recourent demeurent libres de le prévoir ou non.</p><p>Les salariés agents de maîtrise qui relèveront de l'article 2.2 de l'ANI de 2017 ne pourront pas prétendre au bénéfice des dispositions propres au statut cadre autres que les avantages en matière de prévoyance des cadres et assimilés définis par l'article premier de l'ANI de 2017.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "etat": "VIGUEUR_ETEN",
                 "lstLienModification": [
                   {
                     "textCid": "KALITEXT000050427968",
@@ -1223,6 +1223,18 @@
                     "datePubliTexte": "2024-10-31",
                     "dateSignaTexte": "2024-07-31",
                     "dateDebutCible": "2025-01-01"
+                  },
+                  {
+                    "textCid": "JORFTEXT000051381541",
+                    "textTitle": "Arrêté du 5 mars 2025 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000051381544",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2025-03-27",
+                    "dateSignaTexte": "2025-03-05",
+                    "dateDebutCible": "2999-01-01"
                   }
                 ]
               }
@@ -16046,7 +16058,7 @@
             "cid": "KALITEXT000050427968",
             "title": "Avenant n° 67 du 31 juillet 2024 relatif à la détermination des salariés assimilés au statut cadre au titre du régime de protection sociale complémentaire",
             "id": "KALITEXT000050427968",
-            "etat": "VIGUEUR_NON_ETEN",
+            "etat": "VIGUEUR_ETEN",
             "modifDate": "2025-01-01"
           },
           "children": [
@@ -16057,7 +16069,7 @@
                 "intOrdre": 524287,
                 "title": "Préambule",
                 "id": "KALISCTA000050427971",
-                "etat": "VIGUEUR_NON_ETEN"
+                "etat": "VIGUEUR_ETEN"
               },
               "children": [
                 {
@@ -16067,8 +16079,21 @@
                     "intOrdre": 524287,
                     "id": "KALIARTI000050427984",
                     "content": "<p align=\"left\">Les partenaires sociaux ont engagé des négociations afin d'organiser un positionnement de la branche au regard de la définition de la catégorie de salariés non-cadres assimilés et pouvant être assimilés au régime de prévoyance cadre.</p><p align=\"left\">Suite à la fusion des régimes Agirc et Arrco et à la période transitoire prévue jusqu'au 31 décembre 2024, la branche professionnelle souhaite aider les entreprises qui la compose dans l'organisation et l'application du régime de protection sociale complémentaire et prévoyance aux salariés de la branche en délimitant l'ensemble des bénéficiaires des garanties de protection sociale complémentaire.</p>",
-                    "etat": "VIGUEUR_NON_ETEN",
-                    "lstLienModification": []
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000051381541",
+                        "textTitle": "Arrêté du 5 mars 2025 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000051381544",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2025-03-27",
+                        "dateSignaTexte": "2025-03-05",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
                   }
                 }
               ]
@@ -16080,10 +16105,23 @@
                 "num": "1er",
                 "intOrdre": 1048574,
                 "id": "KALIARTI000050427972",
-                "content": "<p align=\"left\">Le présent avenant s'applique à l'ensemble des employeurs et des salariés compris dans le champ d'application de la convention collective nationale pour le personnel des entreprises de restauration de collectivités du 20 juin 1983, étendue le 2 février 1984 (JO du 17 février 1984) tel que modifié par l'avenant n° 16 du 7 février 1996 étendu le 25 juin 1997 (JO du 5 juillet 1997).</p><p align=\"left\">Les organisations syndicales et patronales représentatives de la branche soulignent l'importance d'établir un cadre dans l'ensemble de la branche afin de protéger les salariés en cas de transferts légal ou conventionnel et faciliter les relations entre les entreprises. Les organisations représentatives, rappellent que le présent avenant est applicable à l'ensemble des employeurs, sièges et établissements, quel que soit leur effectif, y compris les entreprises et établissements de moins de 50 salariés.</p><p align=\"left\">Dès lors, compte tenu de la thématique du présent accord, qui a vocation à s'appliquer à toutes les entreprises quelle que soit leur taille, les partenaires sociaux conviennent, conformément à l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid\" title=\"Code du travail - art. L2261-23-1\">article L. 2261-23-1 du code du travail</a>, qu'il n'y a pas lieu de prévoir des dispositions spécifiques aux entreprises de moins de 50 salariés.</p><p align=\"left\">Compte tenu des textes suivants :<br/>\n– l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres, qui substitue notamment ses articles <a href=\"/affichIDCCArticle.do?cidTexte=KALITEXT000036732007&idArticle=KALIARTI000036732018&categorieLien=cid\" title=\"Prévoyance des cadres - art. 2.1 (VE)\">2.1 </a>et <a href=\"/affichIDCCArticle.do?cidTexte=KALITEXT000036732007&idArticle=KALIARTI000036732019&categorieLien=cid\" title=\"Prévoyance des cadres - art. 2.2. (VE)\">2.2</a> aux articles 4,4 bis et 36 de l'annexe I de la convention collective nationale Agirc du 14 mars 1947 pour opérer une distinction entre les « cadres » et les « non-cadres » ;<br/>\n– le <a href=\"/affichTexte.do?cidTexte=JORFTEXT000043877119&categorieLien=cid\" title=\"Décret n°2021-1002 du 30 juillet 2021\">décret n° 2021-1002 du 30 juillet 2021 </a>qui modifie les <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000025130555&dateTexte=&categorieLien=cid\" title=\"Code de la sécurité sociale. - art. R242-1-1\">articles R. 242-1-1 </a>et <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000025130558&dateTexte=&categorieLien=cid\" title=\"Code de la sécurité sociale. - art. R242-1-2\">R. 242-1-2 du code de la sécurité sociale </a>relatif aux catégories objectives de salariés bénéficiaires d'une couverture de protection sociale complémentaire collective en s'appuyant notamment sur l'appartenance aux catégories de « cadres » et de « non-cadres » en application de l'accord national interprofessionnel du 17 novembre 2017.</p><p align=\"left\">Les partenaires sociaux souhaitent, par le présent avenant à la convention collective nationale du personnel des entreprises de restauration de collectivités, définir les catégories objectives de salariés non-cadres qui seront assimilés cadres pour le bénéfice des avantages en matière de prévoyance des cadres et assimilés, tel que défini par l'article premier de l'ANI du 17 novembre 2017.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align=\"left\">Le présent avenant s'applique à l'ensemble des employeurs et des salariés compris dans le champ d'application de la convention collective nationale pour le personnel des entreprises de restauration de collectivités du 20 juin 1983, étendue le 2 février 1984 (JO du 17 février 1984) tel que modifié par l'avenant n° 16 du 7 février 1996 étendu le 25 juin 1997 (JO du 5 juillet 1997).</p><p align=\"left\">Les organisations syndicales et patronales représentatives de la branche soulignent l'importance d'établir un cadre dans l'ensemble de la branche afin de protéger les salariés en cas de transferts légal ou conventionnel et faciliter les relations entre les entreprises. Les organisations représentatives, rappellent que le présent avenant est applicable à l'ensemble des employeurs, sièges et établissements, quel que soit leur effectif, y compris les entreprises et établissements de moins de 50 salariés.</p><p align=\"left\">Dès lors, compte tenu de la thématique du présent accord, qui a vocation à s'appliquer à toutes les entreprises quelle que soit leur taille, les partenaires sociaux conviennent, conformément à l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid\">article L. 2261-23-1 du code du travail</a>, qu'il n'y a pas lieu de prévoir des dispositions spécifiques aux entreprises de moins de 50 salariés.</p><p align=\"left\">Compte tenu des textes suivants :<br/>\n– l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres, qui substitue notamment ses articles <a href=\"/affichIDCCArticle.do?cidTexte=KALITEXT000036732007&idArticle=KALIARTI000036732018&categorieLien=cid\">2.1 </a>et <a href=\"/affichIDCCArticle.do?cidTexte=KALITEXT000036732007&idArticle=KALIARTI000036732019&categorieLien=cid\">2.2</a> aux articles 4,4 bis et 36 de l'annexe I de la convention collective nationale Agirc du 14 mars 1947 pour opérer une distinction entre les « cadres » et les « non-cadres » ;<br/>\n– le <a href=\"/affichTexte.do?cidTexte=JORFTEXT000043877119&categorieLien=cid\">décret n° 2021-1002 du 30 juillet 2021 </a>qui modifie les <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000025130555&dateTexte=&categorieLien=cid\">articles R. 242-1-1 </a>et <a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000025130558&dateTexte=&categorieLien=cid\">R. 242-1-2 du code de la sécurité sociale </a>relatif aux catégories objectives de salariés bénéficiaires d'une couverture de protection sociale complémentaire collective en s'appuyant notamment sur l'appartenance aux catégories de « cadres » et de « non-cadres » en application de l'accord national interprofessionnel du 17 novembre 2017.</p><p align=\"left\">Les partenaires sociaux souhaitent, par le présent avenant à la convention collective nationale du personnel des entreprises de restauration de collectivités, définir les catégories objectives de salariés non-cadres qui seront assimilés cadres pour le bénéfice des avantages en matière de prévoyance des cadres et assimilés, tel que défini par l'article premier de l'ANI du 17 novembre 2017.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Champ d'application et contexte",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000051381541",
+                    "textTitle": "Arrêté du 5 mars 2025 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000051381544",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2025-03-27",
+                    "dateSignaTexte": "2025-03-05",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -16093,10 +16131,22 @@
                 "num": "2",
                 "intOrdre": 1572861,
                 "id": "KALIARTI000050427977",
-                "content": "<p align=\"left\">Compte tenu des textes précités, il est créé l'article 27 bis intitulé « Bénéficiaires au régime de prévoyance cadre et assimilés » :</p><p align=\"center\">« Article 27 bis</p><p align=\"left\">Sur la base du critère 1° de l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000025130555&dateTexte=&categorieLien=cid\" title=\"Code de la sécurité sociale. - art. R242-1-1\">article R. 242-1-1 du code de la sécurité sociale</a>, lequel prévoit la possibilité d'intégrer des salariés à la catégorie des cadres pour le bénéfice des garanties collectives de protection sociale complémentaire prévoyance (art. L. 911-1) par accord de branche et sous réserve que celui-ci reçoive un agrément par la commission paritaire APEC mentionnée à l'article 3 de l'accord national interprofessionnel du 17 novembre 2017, sont intégrés à la catégories des cadres et assimilés, pour le bénéfice des avantages en matière de prévoyance des cadres et assimilés, tel que défini par l'article premier de l'ANI du 17 novembre 2017 :<br/>\n– salariés relevant de l'<a href=\"/affichIDCCArticle.do?cidTexte=KALITEXT000036732007&idArticle=KALIARTI000036732018&categorieLien=cid\" title=\"Prévoyance des cadres - art. 2.1 (VE)\">article 2.1 de l'ANI de 2017 </a>: l'ensemble des salariés ayant le statut cadre et étant positionnés au niveau IX de la classification issue de l'avenant n° 47 (art. 4) de la convention collective pour le personnel des entreprises de restauration de collectivités ;<br/>\n– salariés relevant de l'<a href=\"/affichIDCCArticle.do?cidTexte=KALITEXT000036732007&idArticle=KALIARTI000036732019&categorieLien=cid\" title=\"Prévoyance des cadres - art. 2.2. (VE)\">article 2.2 de l'ANI de 2017 </a>: l'ensemble des salariés ayant le statut agent de maîtrise et étant positionnés au niveau VIII de la classification issue de l'avenant n° 47 (art. 4) de la convention collective pour le personnel des entreprises de restauration de collectivités.</p><p align=\"left\">L'ensemble des salariés positionnés au niveau VII pourront relever de l'article 2.2 de l'ANI de 2017. L'assimilation de ces salariés aux cadres visés à l'article 2.1 de l'ANI de 2017 n'étant ni automatique ni obligatoire, les entreprises qui y recourent demeurent libres de le prévoir ou non.</p><p align=\"left\">Les salariés agents de maîtrise qui relèveront de l'article 2.2 de l'ANI de 2017 ne pourront pas prétendre au bénéfice des dispositions propres au statut cadre autres que les avantages en matière de prévoyance des cadres et assimilés définis par l'article premier de l'ANI de 2017. »</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align=\"left\">Compte tenu des textes précités, il est créé l'<a href=\"/affichIDCCArticle.do?cidTexte=KALITEXT000005640427&idArticle=KALIARTI000050431957&categorieLien=cid\" title=\"Convention collective nationale du 20 juin 1983 - art. 27 bis (VE)\">article 27 bis</a> intitulé « Bénéficiaires au régime de prévoyance cadre et assimilés » : </p><p align=\"center\">« Article 27 bis </p><p align=\"left\">Sur la base du critère 1° de l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000025130555&dateTexte=&categorieLien=cid\">article R. 242-1-1 du code de la sécurité sociale</a>, lequel prévoit la possibilité d'intégrer des salariés à la catégorie des cadres pour le bénéfice des garanties collectives de protection sociale complémentaire prévoyance (art. L. 911-1) par accord de branche et sous réserve que celui-ci reçoive un agrément par la commission paritaire APEC mentionnée à l'article 3 de l'accord national interprofessionnel du 17 novembre 2017, sont intégrés à la catégories des cadres et assimilés, pour le bénéfice des avantages en matière de prévoyance des cadres et assimilés, tel que défini par l'article premier de l'ANI du 17 novembre 2017 : <br/>– salariés relevant de l'<a href=\"/affichIDCCArticle.do?cidTexte=KALITEXT000036732007&idArticle=KALIARTI000036732018&categorieLien=cid\">article 2.1 de l'ANI de 2017 </a>: l'ensemble des salariés ayant le statut cadre et étant positionnés au niveau IX de la classification issue de l'avenant n° 47 (art. 4) de la convention collective pour le personnel des entreprises de restauration de collectivités ; <br/>– salariés relevant de l'<a href=\"/affichIDCCArticle.do?cidTexte=KALITEXT000036732007&idArticle=KALIARTI000036732019&categorieLien=cid\">article 2.2 de l'ANI de 2017 </a>: l'ensemble des salariés ayant le statut agent de maîtrise et étant positionnés au niveau VIII de la classification issue de l'avenant n° 47 (art. 4) de la convention collective pour le personnel des entreprises de restauration de collectivités. </p><p align=\"left\">L'ensemble des salariés positionnés au niveau VII pourront relever de l'article 2.2 de l'ANI de 2017. L'assimilation de ces salariés aux cadres visés à l'article 2.1 de l'ANI de 2017 n'étant ni automatique ni obligatoire, les entreprises qui y recourent demeurent libres de le prévoir ou non. </p><p align=\"left\">Les salariés agents de maîtrise qui relèveront de l'article 2.2 de l'ANI de 2017 ne pourront pas prétendre au bénéfice des dispositions propres au statut cadre autres que les avantages en matière de prévoyance des cadres et assimilés définis par l'article premier de l'ANI de 2017. »</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Définition des bénéficiaires au régime de prévoyance obligatoire des cadres",
                 "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000051381541",
+                    "textTitle": "Arrêté du 5 mars 2025 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000051381544",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2025-03-27",
+                    "dateSignaTexte": "2025-03-05",
+                    "dateDebutCible": "2999-01-01"
+                  },
                   {
                     "textCid": "KALITEXT000005640427",
                     "textTitle": "Convention collective nationale du 20 juin 1983 -  Bénéficiaires au régime de prévoyance cadre et ... (VNE)",
@@ -16131,10 +16181,23 @@
                 "num": "3",
                 "intOrdre": 2097148,
                 "id": "KALIARTI000050427979",
-                "content": "<p align=\"center\">a) Dépôt et extension</p><p align=\"left\">Les parties signataires conviennent de demander au ministère du travail l'extension du présent avenant afin de le rendre applicable à toutes les entreprises et établissements entrant dans le champ d'application de la convention collective nationale pour le personnel des entreprises de restauration de collectivités du 20 juin 1983, étendue le 2 février 1984, tel que modifié par l'avenant n° 16 du 7 février 1996 étendu le 25 juin 1997.</p><p align=\"left\">Il sera notifié à l'ensemble des organisations représentatives à l'issue de la procédure de signature conformément aux dispositions de l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901674&dateTexte=&categorieLien=cid\" title=\"Code du travail - art. L2231-5\">article L. 2231-5 du code du travail</a>.</p><p align=\"left\">Il sera ainsi procédé dans les meilleurs délais aux formalités légales en vue du dépôt et de l'extension du présent accord conformément à l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid\" title=\"Code du travail - art. L2231-6\">article L. 2231-6 du code du travail</a>.</p><p align=\"center\">b) Durée et entrée en vigueur</p><p align=\"left\">Le présent avenant, conclu pour une durée indéterminée, prendra effet le 1er janvier 2025, cette entrée en vigueur est toutefois soumis à l'obtention au préalable de l'agrément par la commission paritaire APEC.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align=\"center\">a) Dépôt et extension</p><p align=\"left\">Les parties signataires conviennent de demander au ministère du travail l'extension du présent avenant afin de le rendre applicable à toutes les entreprises et établissements entrant dans le champ d'application de la convention collective nationale pour le personnel des entreprises de restauration de collectivités du 20 juin 1983, étendue le 2 février 1984, tel que modifié par l'avenant n° 16 du 7 février 1996 étendu le 25 juin 1997.</p><p align=\"left\">Il sera notifié à l'ensemble des organisations représentatives à l'issue de la procédure de signature conformément aux dispositions de l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901674&dateTexte=&categorieLien=cid\">article L. 2231-5 du code du travail</a>.</p><p align=\"left\">Il sera ainsi procédé dans les meilleurs délais aux formalités légales en vue du dépôt et de l'extension du présent accord conformément à l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901675&dateTexte=&categorieLien=cid\">article L. 2231-6 du code du travail</a>.</p><p align=\"center\">b) Durée et entrée en vigueur</p><p align=\"left\">Le présent avenant, conclu pour une durée indéterminée, prendra effet le 1er janvier 2025, cette entrée en vigueur est toutefois soumis à l'obtention au préalable de l'agrément par la commission paritaire APEC.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dépôt. Extension. Durée. Entrée en vigueur",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000051381541",
+                    "textTitle": "Arrêté du 5 mars 2025 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000051381544",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2025-03-27",
+                    "dateSignaTexte": "2025-03-05",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             },
             {
@@ -16144,10 +16207,23 @@
                 "num": "4",
                 "intOrdre": 2621435,
                 "id": "KALIARTI000050427982",
-                "content": "<p align=\"left\">Le présent avenant, faisant partie intégrante de la convention collective nationale pour le personnel des entreprises de restauration de collectivités du 20 juin 1983, ne peut être dénoncé ou modifié qu'à condition d'observer les règles définies aux articles 2 et 3 de ladite convention collective et aux <a href=\"/affichCode.do?cidTexte=LEGITEXT000006072050&idSectionTA=LEGISCTA000006189533&dateTexte=&categorieLien=cid\" title=\"Code du travail -  Section 4 : Révision.\">articles L. 2261-7 et suivants du code du travail</a>.</p>",
-                "etat": "VIGUEUR_NON_ETEN",
+                "content": "<p align=\"left\">Le présent avenant, faisant partie intégrante de la convention collective nationale pour le personnel des entreprises de restauration de collectivités du 20 juin 1983, ne peut être dénoncé ou modifié qu'à condition d'observer les règles définies aux articles 2 et 3 de ladite convention collective et aux <a href=\"/affichCode.do?cidTexte=LEGITEXT000006072050&idSectionTA=LEGISCTA000006189533&dateTexte=&categorieLien=cid\">articles L. 2261-7 et suivants du code du travail</a>.</p>",
+                "etat": "VIGUEUR_ETEN",
                 "surtitre": "Dénonciation. Modification",
-                "lstLienModification": []
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000051381541",
+                    "textTitle": "Arrêté du 5 mars 2025 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000051381544",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2025-03-27",
+                    "dateSignaTexte": "2025-03-05",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
               }
             }
           ]
