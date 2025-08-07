@@ -32218,18 +32218,6 @@
                     "etat": "VIGUEUR_ETEN",
                     "lstLienModification": [
                       {
-                        "textCid": "KALITEXT000051910302",
-                        "textTitle": "Participation dérogatoire - art. 1er (VNE)",
-                        "linkType": "MODIFIE",
-                        "linkOrientation": "cible",
-                        "articleNum": "1er",
-                        "articleId": "KALIARTI000051910306",
-                        "natureText": "Avenant",
-                        "datePubliTexte": "2025-07-17",
-                        "dateSignaTexte": "2025-03-19",
-                        "dateDebutCible": "2025-03-19"
-                      },
-                      {
                         "textCid": "JORFTEXT000052020297",
                         "textTitle": "Arrêté du 21 juillet 2025 - art. 1, v. init.",
                         "linkType": "ETEND",
@@ -32240,6 +32228,18 @@
                         "datePubliTexte": "2025-08-01",
                         "dateSignaTexte": "2025-07-21",
                         "dateDebutCible": "2999-01-01"
+                      },
+                      {
+                        "textCid": "KALITEXT000051910302",
+                        "textTitle": "Participation dérogatoire - art. 1er (VNE)",
+                        "linkType": "MODIFIE",
+                        "linkOrientation": "cible",
+                        "articleNum": "1er",
+                        "articleId": "KALIARTI000051910306",
+                        "natureText": "Avenant",
+                        "datePubliTexte": "2999-01-01",
+                        "dateSignaTexte": "2025-03-19",
+                        "dateDebutCible": "2025-03-19"
                       }
                     ]
                   }
