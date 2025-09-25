@@ -2,7 +2,7 @@
   "type": "convention collective",
   "data": {
     "num": 44,
-    "title": "Agents de maîtrise et certains techniciens - Indemnité de non-concurrence (article 18-3), avis de la commission nationale paritaire d'interprétation du 31 janvier 1996",
+    "title": "Convention collective nationale des industries chimiques et connexes du 30 décembre 1952. Étendue par arrêté du 13 novembre 1956 JONC 12 décembre 1956",
     "id": "KALICONT000005635613",
     "shortTitle": "Industries chimiques et connexes",
     "categorisation": [
@@ -1287,42 +1287,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "type": "section",
-      "data": {
-        "cid": "KALITEXT000005677768",
-        "intOrdre": 0,
-        "title": "Texte de base : Agents de maîtrise et certains techniciens - Indemnité de non-concurrence (article 18-3), avis de la commission nationale paritaire d'interprétation du 31 janvier 1996",
-        "id": "KALITEXT000005677768",
-        "etat": "VIGUEUR_NON_ETEN"
-      },
-      "children": [
-        {
-          "type": "article",
-          "data": {
-            "cid": "KALIARTI000005846295",
-            "intOrdre": 42949,
-            "id": "KALIARTI000005846295",
-            "content": "<p>La commission nationale paritaire d'interprétation a été saisie du point de savoir si la contrepartie financière prévue par l'article 18.3 de l'avenant \" Agents de maîtrise et techniciens \" au titre de la clause de non-concurrence s'applique aux seuls techniciens appelés par leurs fonctions à connaître des techniques ou des procédés de fabrication de l'entreprise ou si elle doit bénéficier plus généralement aux agents de maîtrise et techniciens titulaires d'une clause de non-concurrence visant un ou plusieurs produits ou techniques de fabrication quelle que soit la nature de leurs fonctions.</p><p>La commission estime que, dès lors qu'un salarié relevant de l'avenant \" Agents de maîtrise et techniciens \" est soumis à une clause de non-concurrence visant un ou plusieurs produits ou techniques de fabrication de l'entreprise, il a droit à titre de contrepartie à la compensation financière prévue par le texte précité.</p><p>Le présent avis a été rendu à l'unanimité.</p>",
-            "etat": "VIGUEUR_NON_ETEN",
-            "lstLienModification": [
-              {
-                "textCid": "",
-                "textTitle": "Avis 1996-01-31 BO conventions collectives 96-39",
-                "linkType": "CREATION",
-                "linkOrientation": "source",
-                "articleNum": "",
-                "articleId": "",
-                "natureText": "",
-                "datePubliTexte": null,
-                "dateSignaTexte": null,
-                "dateDebutCible": null
-              }
-            ]
-          }
         }
       ]
     },
@@ -5276,6 +5240,42 @@
                   ]
                 }
               ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000005677768",
+            "title": "Agents de maîtrise et certains techniciens - Indemnité de non-concurrence (article 18-3), avis de la commission nationale paritaire d'interprétation du 31 janvier 1996",
+            "id": "KALITEXT000005677768",
+            "etat": "VIGUEUR_NON_ETEN",
+            "modifDate": "1996-01-31"
+          },
+          "children": [
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000005846295",
+                "intOrdre": 42949,
+                "id": "KALIARTI000005846295",
+                "content": "<p>La commission nationale paritaire d'interprétation a été saisie du point de savoir si la contrepartie financière prévue par l'article 18.3 de l'avenant \" Agents de maîtrise et techniciens \" au titre de la clause de non-concurrence s'applique aux seuls techniciens appelés par leurs fonctions à connaître des techniques ou des procédés de fabrication de l'entreprise ou si elle doit bénéficier plus généralement aux agents de maîtrise et techniciens titulaires d'une clause de non-concurrence visant un ou plusieurs produits ou techniques de fabrication quelle que soit la nature de leurs fonctions.</p><p>La commission estime que, dès lors qu'un salarié relevant de l'avenant \" Agents de maîtrise et techniciens \" est soumis à une clause de non-concurrence visant un ou plusieurs produits ou techniques de fabrication de l'entreprise, il a droit à titre de contrepartie à la compensation financière prévue par le texte précité.</p><p>Le présent avis a été rendu à l'unanimité.</p>",
+                "etat": "VIGUEUR_NON_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "",
+                    "textTitle": "Avis 1996-01-31 BO conventions collectives 96-39",
+                    "linkType": "CREATION",
+                    "linkOrientation": "source",
+                    "articleNum": "",
+                    "articleId": "",
+                    "natureText": "",
+                    "datePubliTexte": null,
+                    "dateSignaTexte": null,
+                    "dateDebutCible": null
+                  }
+                ]
+              }
             }
           ]
         },
