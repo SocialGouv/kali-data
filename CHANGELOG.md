@@ -1,3 +1,12 @@
+## [3.392.1](https://github.com/SocialGouv/kali-data/compare/v3.392.0...v3.392.1) (2025-12-10)
+
+
+### Bug Fixes
+
+* use OIDC NPM publish ([9d8acbb](https://github.com/SocialGouv/kali-data/commit/9d8acbb4f95808ed5518af063e6007d8fb6a6452))
+* use OIDC NPM publish ([9428a66](https://github.com/SocialGouv/kali-data/commit/9428a666e4eef6241fabcacaf17ceff2ca92ca09))
+* use OIDC NPM publish ([5ca64d1](https://github.com/SocialGouv/kali-data/commit/5ca64d1d2253899b069ea83357c0b5bf3a710bc8))
+
 # [3.392.0](https://github.com/SocialGouv/kali-data/compare/v3.391.0...v3.392.0) (2025-12-04)
 
 
