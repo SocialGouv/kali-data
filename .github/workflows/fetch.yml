@@ -14,8 +14,11 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20.9.0'
+          node-version: '20.17.0'
           cache: yarn
+
+      - name: Update npm (required for npm trusted publishing)
+        run: npm install -g npm@latest
 
       - name: Installing
         run: yarn --frozen-lockfile --perfer-offline --link-duplicates
