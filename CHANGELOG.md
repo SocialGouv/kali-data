@@ -1,3 +1,11 @@
+## [3.392.4](https://github.com/SocialGouv/kali-data/compare/v3.392.3...v3.392.4) (2025-12-11)
+
+
+### Bug Fixes
+
+* release workflow ([a326ea3](https://github.com/SocialGouv/kali-data/commit/a326ea3036ce4ea187576d424d4a26d1da844e2f))
+* release workflow ([65d3ca1](https://github.com/SocialGouv/kali-data/commit/65d3ca1e2c54683d6fba7671aa7ef7442aa10e34))
+
 ## [3.392.3](https://github.com/SocialGouv/kali-data/compare/v3.392.2...v3.392.3) (2025-12-11)
 
 
