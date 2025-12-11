@@ -14,6 +14,23 @@ jobs:
     name: Fetch
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: '20.17.0'
+          cache: yarn
+
+      - name: Update npm (required for npm trusted publishing)
+        run: npm install -g npm@latest
+
+      - name: Installing
+        run: yarn --frozen-lockfile --perfer-offline --link-duplicates
+
+      - name: Installing
+        run: yarn --frozen-lockfile --perfer-offline --link-duplicates
+
       - name: Get GitHub App Token
         id: token
         uses: SocialGouv/token-bureau@main
@@ -21,43 +38,11 @@ jobs:
           token-bureau-url: https://token-bureau.fabrique.social.gouv.fr
           audience: socialgouv
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v6
-        with:
-          node-version: '20.17.0'
-          registry-url: https://registry.npmjs.org
-
-      - name: Update npm (required for npm trusted publishing)
-        run: npm install -g npm@latest
-
-      - name: Get yarn cache directory path
-        id: init
-        shell: bash
-        run: |
-          echo "yarn_cache=$(yarn cache dir)" >> "$GITHUB_OUTPUT"
-          echo "Node $(node --version)"
-          echo "Yarn $(yarn --version)"
-          echo "Npm $(npm --version)"
-
-      - uses: actions/checkout@v4
-
-      - name: Cache Yarn packages
-        id: yarn_cache_packages
-        uses: actions/cache@v4
-        with:
-          path: ${{ steps.init.outputs.yarn_cache }}
-          key: ${{ runner.os }}-yarn_cache-${{ hashFiles('**/yarn.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-yarn_cache-
-
-      - name: Installing
-        run: yarn --frozen-lockfile --perfer-offline --link-duplicates
-
-      - uses: EndBug/add-and-commit@v9
+      - uses: EndBug/add-and-commit@v8
         if: ${{ steps.metadata.outputs.data_status }}
         env:
           HUSKY: "0"
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ steps.token.outputs.token }}
         with:
           add: "data"
           author_name: ${{ secrets.SOCIALGROOVYBOT_NAME }}
