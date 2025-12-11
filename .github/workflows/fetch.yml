@@ -28,8 +28,44 @@ jobs:
       - name: Installing
         run: yarn --frozen-lockfile --perfer-offline --link-duplicates
 
-      - name: Installing
-        run: yarn --frozen-lockfile --perfer-offline --link-duplicates
+      - name: Fetch data
+        run: |
+          yarn data:update
+        env:
+          OAUTH_CLIENT_ID: ${{ secrets.DILA_OAUTH_CLIENT_ID }}
+          OAUTH_CLIENT_SECRET: ${{ secrets.DILA_OAUTH_CLIENT_SECRET }}
+
+      - name: Fetch CC index from CDTN
+        run: |
+          curl https://cdtn-prod-public.s3.gra.io.cloud.ovh.net/published/agreements/index.json -o - | jq > data/index.json
+
+      - name: Get metadata
+        id: metadata
+        shell: bash
+        run: |
+          echo "::set-output name=data_status::$(git status -s ./data)"
+          echo "::set-output name=now::$(date +"%Y%m%d_%H%M")"
+
+      - name: Print metadata
+        run: |
+          echo "Data status ${{ steps.metadata.outputs.now }}"
+          echo "${{ steps.metadata.outputs.data_status }}"
+
+      - name: Check JSON
+        run: |
+          for filename in ./data/*\.json; do
+            node "$filename" > /dev/null || {
+              echo "Invalid JSON in $filename"
+              exit 1
+            }
+          done
+
+      - name: Check articles index is valid
+        run: |
+          node "data/articles/index.json" > /dev/null || {
+            echo "Invalid JSON in data/articles/index.json"
+            exit 1
+          }
 
       - name: Get GitHub App Token
         id: token
