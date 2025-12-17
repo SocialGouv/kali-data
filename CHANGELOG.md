@@ -1,3 +1,10 @@
+## [3.392.8](https://github.com/SocialGouv/kali-data/compare/v3.392.7...v3.392.8) (2025-12-17)
+
+
+### Bug Fixes
+
+* ne pas publier sur npm si pas de nouvelle version ([039a0ef](https://github.com/SocialGouv/kali-data/commit/039a0ef81a44e639dc0413c8140c9a7b40946f6a))
+
 ## [3.392.7](https://github.com/SocialGouv/kali-data/compare/v3.392.6...v3.392.7) (2025-12-11)
 
 
