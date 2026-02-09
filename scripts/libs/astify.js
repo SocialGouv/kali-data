@@ -89,6 +89,7 @@ export function cleanAst(tree) {
         "title",
         "id",
         "content",
+        "nota",
         "etat",
         "shortTitle",
         "categorisation",
