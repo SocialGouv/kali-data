@@ -1,3 +1,10 @@
+## [3.414.1](https://github.com/SocialGouv/kali-data/compare/v3.414.0...v3.414.1) (2026-02-10)
+
+
+### Bug Fixes
+
+* nota facultatif dans les kali data ([#319](https://github.com/SocialGouv/kali-data/issues/319)) ([5eeba19](https://github.com/SocialGouv/kali-data/commit/5eeba19ad1cdeb8314ebc8df1a71b6b5b780d0ad))
+
 # [3.414.0](https://github.com/SocialGouv/kali-data/compare/v3.413.0...v3.414.0) (2026-02-10)
 
 
