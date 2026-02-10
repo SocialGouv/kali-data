@@ -124,7 +124,7 @@ type AgreementArticleData = {
     num?: string;
     /** HTML content */
     content: string;
-    nota: string;
+    nota?: string;
     etat: State;
     surtitre?: string;
     historique?: string;
