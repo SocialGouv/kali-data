@@ -1,3 +1,10 @@
+## [3.474.1](https://github.com/SocialGouv/kali-data/compare/v3.474.0...v3.474.1) (2026-07-10)
+
+
+### Bug Fixes
+
+* mise à jour de la version de node ([#320](https://github.com/SocialGouv/kali-data/issues/320)) ([9280ff0](https://github.com/SocialGouv/kali-data/commit/9280ff0617fd78b8cf78be8ed14bf43f39fe7109))
+
 # [3.474.0](https://github.com/SocialGouv/kali-data/compare/v3.473.0...v3.474.0) (2026-07-08)
 
 
