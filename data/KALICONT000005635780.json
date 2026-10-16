@@ -30224,7 +30224,7 @@
             "title": "Accord du 21 juillet 2022 relatif à la réévaluation des salaires minima inférieurs au Smic",
             "id": "KALITEXT000046532449",
             "etat": "VIGUEUR_ETEN",
-            "modifDate": "2023-04-21"
+            "modifDate": "2026-07-23"
           },
           "children": [
             {
@@ -30269,22 +30269,34 @@
                 "cid": "KALIARTI000046532453",
                 "num": "1er",
                 "intOrdre": 1048574,
-                "id": "KALIARTI000047621945",
-                "content": "<p align=\"left\">Les salaires minima visés à l'article 42.2 de la convention collective ne peuvent être inférieurs à la valeur du montant du Smic annuel au 1er janvier 2023, majorée de 5 %, soit 21 537 € bruts.</p><p align=\"left\">Les entreprises qui relèvent de la convention collective de la banque disposent d'un délai de deux mois pour mettre en conformité les rémunérations des salariés éventuellement concernés.</p><p align=\"left\">Cette mise en conformité prend effet au 1er avril 2023, avec application rétroactive, le cas échéant, à cette date. </p>",
-                "etat": "VIGUEUR_NON_ETEN",
-                "surtitre": "Mesure d'actualisation des salaires minima à l'évolution du Smic au 1er août 2022",
+                "id": "KALIARTI000054986403",
+                "content": "<p></p><p align=\"left\">Les salaires minima visés à l'article 42.2 de la convention collective ne peuvent être inférieurs à la valeur du montant du Smic annuel au 1er juin 2026, majorée de 5 %, soit 23 524 € bruts.</p><p align=\"left\">Les entreprises qui relèvent de la convention collective de la banque disposent d'un délai de deux mois pour mettre en conformité les rémunérations des salariés éventuellement concernés.</p><p align=\"left\">Cette mise en conformité prend effet le 1er juillet 2026.</p><p></p>",
+                "etat": "VIGUEUR_ETEN",
+                "surtitre": "Mesure d'actualisation des salaires minima à l'évolution du Smic",
                 "lstLienModification": [
                   {
-                    "textCid": "KALITEXT000047618413",
+                    "textCid": "JORFTEXT000054860870",
+                    "textTitle": "Arrêté du 7 septembre 2026 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000054860874",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2026-09-19",
+                    "dateSignaTexte": "2026-09-07",
+                    "dateDebutCible": "2999-01-01"
+                  },
+                  {
+                    "textCid": "KALITEXT000054982028",
                     "textTitle": "Réévaluation des salaires minima inférieurs au ... - art. 1er (VNE)",
                     "linkType": "MODIFIE",
                     "linkOrientation": "cible",
                     "articleNum": "1er",
-                    "articleId": "KALIARTI000047618417",
+                    "articleId": "KALIARTI000054982032",
                     "natureText": "Avenant",
-                    "datePubliTexte": "2023-06-01",
-                    "dateSignaTexte": "2023-03-16",
-                    "dateDebutCible": "2023-04-21"
+                    "datePubliTexte": "2026-10-14",
+                    "dateSignaTexte": "2026-06-26",
+                    "dateDebutCible": "2026-07-23"
                   }
                 ]
               }
@@ -33247,6 +33259,191 @@
                   }
                 }
               ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "data": {
+            "cid": "KALITEXT000054982028",
+            "title": "Avenant du 26 juin 2026 à l'accord du 21 juillet 2022 relatif à la réévaluation des salaires minima inférieurs au Smic",
+            "id": "KALITEXT000054982028",
+            "etat": "VIGUEUR_ETEN",
+            "modifDate": "2026-07-23"
+          },
+          "children": [
+            {
+              "type": "section",
+              "data": {
+                "cid": "KALISCTA000054982031",
+                "intOrdre": 524287,
+                "title": "Préambule",
+                "id": "KALISCTA000054982031",
+                "etat": "VIGUEUR_ETEN"
+              },
+              "children": [
+                {
+                  "type": "article",
+                  "data": {
+                    "cid": "KALIARTI000054982040",
+                    "intOrdre": 524287,
+                    "id": "KALIARTI000054982040",
+                    "content": "<p align=\"left\"><br/>En application de l'article 2 de l'« accord de réévaluation des salaires minima de la branche banque inférieurs au Smic » signé le 21 juillet 2022, les parties signataires conviennent des dispositions suivantes :</p>",
+                    "etat": "VIGUEUR_ETEN",
+                    "lstLienModification": [
+                      {
+                        "textCid": "JORFTEXT000054860870",
+                        "textTitle": "Arrêté du 7 septembre 2026 - art. 1, v. init.",
+                        "linkType": "ETEND",
+                        "linkOrientation": "cible",
+                        "articleNum": "1",
+                        "articleId": "JORFARTI000054860874",
+                        "natureText": "ARRETE",
+                        "datePubliTexte": "2026-09-19",
+                        "dateSignaTexte": "2026-09-07",
+                        "dateDebutCible": "2999-01-01"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000054982032",
+                "num": "1er",
+                "intOrdre": 1048574,
+                "id": "KALIARTI000054982032",
+                "content": "<p align=\"left\">Le titre de l'article 1er de l'accord visé est remplacé par le titre suivant « Mesure d'actualisation des salaires minima à l'évolution du Smic ».</p><p align=\"left\">Le premier alinéa de l'article 1er de l'accord visé est supprimé et remplacé par l'alinéa suivant :<br/>\n« Les salaires minima visés à l'article 42.2 de la convention collective ne peuvent être inférieurs à la valeur du montant du Smic annuel au 1er juin 2026, majorée de 5 %, soit 23 524 € bruts. »</p><p align=\"left\">Le troisième alinéa de l'article 1er dudit article est supprimé et remplacé par l'alinéa suivant :<br/>\n« Cette mise en conformité prend effet le 1er juillet 2026. »</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "KALITEXT000046532449",
+                    "textTitle": "Réévaluation des salaires minima inférieurs au ... - art. 1er (VNE)",
+                    "linkType": "MODIFIE",
+                    "linkOrientation": "source",
+                    "articleNum": "1er",
+                    "articleId": "KALIARTI000054986403",
+                    "natureText": "Accord",
+                    "datePubliTexte": "2022-11-07",
+                    "dateSignaTexte": "2022-07-21",
+                    "dateDebutCible": "2026-07-23"
+                  },
+                  {
+                    "textCid": "JORFTEXT000054860870",
+                    "textTitle": "Arrêté du 7 septembre 2026 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000054860874",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2026-09-19",
+                    "dateSignaTexte": "2026-09-07",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000054982033",
+                "num": "2",
+                "intOrdre": 1572861,
+                "id": "KALIARTI000054982033",
+                "content": "<p align=\"left\"><br/>Le présent avenant annule et remplace l'avenant du 16 mai 2023 à l'« accord de réévaluation des salaires minima de la branche banque inférieurs au Smic » du 21 juillet 2022.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000054860870",
+                    "textTitle": "Arrêté du 7 septembre 2026 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000054860874",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2026-09-19",
+                    "dateSignaTexte": "2026-09-07",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000054982034",
+                "num": "3",
+                "intOrdre": 2097148,
+                "id": "KALIARTI000054982034",
+                "content": "<p align=\"left\"><br/>Le présent accord est conclu pour une durée indéterminée et entrera en vigueur le lendemain du jour de son dépôt auprès des autorités compétentes.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000054860870",
+                    "textTitle": "Arrêté du 7 septembre 2026 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000054860874",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2026-09-19",
+                    "dateSignaTexte": "2026-09-07",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000054982035",
+                "num": "4",
+                "intOrdre": 2621435,
+                "id": "KALIARTI000054982035",
+                "content": "<p align=\"left\"><br/>En application de l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000035608942&dateTexte=&categorieLien=cid\">article L. 2261-23-1 du code du travail</a>, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de stipulations spécifiques aux entreprises de moins de cinquante salariés, visées à l'<a href=\"/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033012309&dateTexte=&categorieLien=cid\">article L. 2232-10-1 du code du travail</a>, dans la mesure où l'accord a vocation à s'appliquer uniformément à toutes les entreprises de la branche quelle que soit leur taille.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000054860870",
+                    "textTitle": "Arrêté du 7 septembre 2026 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000054860874",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2026-09-19",
+                    "dateSignaTexte": "2026-09-07",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
+            },
+            {
+              "type": "article",
+              "data": {
+                "cid": "KALIARTI000054982038",
+                "num": "5",
+                "intOrdre": 3145722,
+                "id": "KALIARTI000054982038",
+                "content": "<p align=\"left\"><br/>Le présent accord est notifié et déposé dans les conditions prévues par le code du travail et fera l'objet d'une demande d'extension par la partie la plus diligente auprès du ministre du travail dans le cadre des dispositions légales et de la procédure applicable pour l'extension des accords collectifs.</p>",
+                "etat": "VIGUEUR_ETEN",
+                "lstLienModification": [
+                  {
+                    "textCid": "JORFTEXT000054860870",
+                    "textTitle": "Arrêté du 7 septembre 2026 - art. 1, v. init.",
+                    "linkType": "ETEND",
+                    "linkOrientation": "cible",
+                    "articleNum": "1",
+                    "articleId": "JORFARTI000054860874",
+                    "natureText": "ARRETE",
+                    "datePubliTexte": "2026-09-19",
+                    "dateSignaTexte": "2026-09-07",
+                    "dateDebutCible": "2999-01-01"
+                  }
+                ]
+              }
             }
           ]
         }
