@@ -1,3 +1,10 @@
+# [3.517.0](https://github.com/SocialGouv/kali-data/compare/v3.516.0...v3.517.0) (2026-11-01)
+
+
+### Features
+
+* **data:** 20261101_1808 update ([fe6d798](https://github.com/SocialGouv/kali-data/commit/fe6d79826735e46ed83c7109f90817a5453b4762))
+
 # [3.516.0](https://github.com/SocialGouv/kali-data/compare/v3.515.0...v3.516.0) (2026-10-29)
 
 
